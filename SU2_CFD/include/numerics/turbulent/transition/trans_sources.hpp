@@ -114,6 +114,33 @@ class CSourcePieceWise_TransLM final : public CNumerics {
     const su2double vel_w = (nDim == 3) ? V_i[2 + idx.Velocity()] : 0.0;
 
     const su2double Velocity_Mag = sqrt(vel_u * vel_u + vel_v * vel_v + vel_w * vel_w);
+    //
+    //========================================================================================================================================================================
+    // My compressibility mods (they probably wont work tbh but its ok)
+    //========================================================================================================================================================================
+    //
+    const su2double Gamma           = config->GetGamma();
+    const su2double Gas_Constant    = config->GetGas_Constant();
+
+    const su2double Vel_inf         = config->GetVelocity_FreeStream();
+    const su2double Density_inf     = config->GetDensity_FreeStream(); //V_i[idx.Density()];//maybe?
+    const su2double Pressure_inf    = config->GetPressure_FreeStream();
+    const su2double Temperature_Inf = config->GetTemperature_FreeStream();
+    
+    const su2double Pressure_i      = V_i[idx.Pressure()]; //ask Prof Badrya about mesh node for P and rho (what node should I get P and rho from)
+    
+    const su2double Velocity_BLEdge       = sqrt((pow(Vel_Inf,2)) + (((2 * Gamma) / (Gamma - 1)) * (1 - (pow(Pressure_i / Pressure_inf,(1 - (1 / Gamma)))))*(Pressure_i / Density_inf))); // Boundary Layer edge velocity magnitude req'd to calculate edge Mach number for compressibilty correction to LM model (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    const su2double Speed_of_Sound_BLEdge = sqrt((Gamma * Gas_Constant * Temperature_Inf) * (pow(Pressure_i / Pressure_inf,((1 - Gamma) / Gamma))));
+    // const su2double Speed_of_Sound_BLEdge = sqrt(Gamma * Pressure_i / Density_i); // BL edge speed of sound (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    const su2double Mach_BLEdge           = Velocity_BLEdge / Speed_of_Sound_BLEdge; // BL edge Mach number
+    
+    // const su2double C_Me = 1.0 - 0.06124 * Mach_BLEdge + 0.2402 * pow(Mach_BLEdge, 2) - 0.00346 * pow(Mach_BLEdge, 3); // (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    const su2double f_Me = 1.0105 - 0.3046 * Mach_BLEdge + 1.1646 * pow(Mach_BLEdge, 2) - 0.3605 * pow(Mach_BLEdge, 3); // Polynomial function to apply compressibility correction to LM. Used to calculate and modify Re_theta_t (which affects F_length_1) (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    // || const su2double Re_theta_t_comp = Re_theta_t_Original * f_Me; // Compressibility correction to Re_theta_t (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    // || const su2double Corr_Ret_comp = Corr_Ret * f_Me; // Compressibility correction to Re_theta_t (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    //
+    //========================================================================================================================================================================
+    //
 
     AD::SetPreaccIn(V_i[idx.Density()], V_i[idx.LaminarViscosity()], V_i[idx.EddyViscosity()]);
 
@@ -134,7 +161,8 @@ class CSourcePieceWise_TransLM final : public CNumerics {
       if (TurbFamily == TURB_FAMILY::SA) Tu = config->GetTurbulenceIntensity_FreeStream() * 100;
 
       /*--- Corr_RetC correlation*/
-      const su2double Corr_Rec = TransCorrelations.ReThetaC_Correlations(Tu, TransVar_i[1]);
+      const su2double Corr_Rec = TransCorrelations.ReThetaC_Correlations(Tu, TransVar_i[1]); // Mach corrected Re_theta_c: Re_theta_c_compressible. Correction applied in correlations definitions - jnmiranda-ucd-daal
+      // const su2double Corr_Rec_comp = Corr_Rec / C_Me; // this isnt really needed anymore as it would require modifying this in other places of the code. Instead correction is applied in the correlations- just remember that this is no longer the OG Corr_Rec but the compressible one
 
       /*--- F_length correlation*/
       const su2double Corr_F_length = TransCorrelations.FLength_Correlations(Tu, TransVar_i[1]);
@@ -154,7 +182,8 @@ class CSourcePieceWise_TransLM final : public CNumerics {
       if (TurbFamily == TURB_FAMILY::SA) R_t = Eddy_Viscosity_i / Laminar_Viscosity_i;
 
       const su2double Re_v = Density_i * dist_i * dist_i * StrainMag_i / Laminar_Viscosity_i;
-      const su2double F_onset1 = Re_v / (2.193 * Corr_Rec);
+      const su2double F_onset1 = Re_v / (2.193 * Corr_Rec); // Original F_length1 using incompressible correlation for Re_theta_c. This is now the old F_length1. - jnmiranda-ucd-daal
+      // const su2double F_onset1 = Re_v / (2.193 * Corr_Rec_comp); // Mach corrected F_length1 using Re_theta_c_compressible - jnmiranda-ucd-daal - no longer needed but keeping here to remind myself how I initially did it
       su2double F_onset2 = 1.0;
       su2double F_onset3 = 1.0;
       if (TurbFamily == TURB_FAMILY::KW) {
@@ -245,6 +274,8 @@ class CSourcePieceWise_TransLM final : public CNumerics {
         Retheta_old = Corr_Ret;
       }
 
+      su2double Corr_Ret_comp = Corr_Ret * f_Me; // Compressibility correction to Re_theta_t (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+
       /*-- Corr_RetT_SCF Correlations--*/
       su2double ReThetat_SCF = 0.0;
       if (options.LM2015) {
@@ -285,15 +316,18 @@ class CSourcePieceWise_TransLM final : public CNumerics {
         }
       }
 
-      /*-- production term of Intermeittency(Gamma) --*/
+      // su2double ReThetat_SCF_comp = ReThetat_SCF * f_Me; // I dont know if this would work since the authors from (doi:10.2514/6.2022-1542) did not actually do this. A function would be needed here (although f_Me might work) - jnmiranda-ucd-daal
+
+      /*-- production term of Intermittency(Gamma) --*/
       const su2double Pg =
           F_length * c_a1 * Density_i * StrainMag_i * sqrt(F_onset * TransVar_i[0]) * (1.0 - c_e1 * TransVar_i[0]);
 
-      /*-- destruction term of Intermeittency(Gamma) --*/
+      /*-- destruction term of Intermittency(Gamma) --*/
       const su2double Dg = c_a2 * Density_i * VorticityMag * TransVar_i[0] * f_turb * (c_e2 * TransVar_i[0] - 1.0);
 
       /*-- production term of ReThetaT --*/
-      const su2double PRethetat = c_theta * Density_i / time_scale * (Corr_Ret - TransVar_i[1]) * (1.0 - f_theta);
+      // const su2double PRethetat = c_theta * Density_i / time_scale * (Corr_Ret - TransVar_i[1]) * (1.0 - f_theta);
+      const su2double PRethetat = c_theta * Density_i / time_scale * (Corr_Ret_comp - TransVar_i[1]) * (1.0 - f_theta); // compressibility correction to Re_theta_t added
 
       /*-- destruction term of ReThetaT --*/
       // It should not be with the minus sign but I put for consistency

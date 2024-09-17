@@ -53,6 +53,35 @@ class TransLMCorrelations {
    * \param[in] Re_theta_t - Re_theta_t (TransVar[1]).
    * \param[out] rethetac - Corrected value for Re_theta.
    */
+
+    //
+    //========================================================================================================================================================================
+    // My compressibility mods (they probably wont work tbh but its ok)
+    //========================================================================================================================================================================
+    //
+    const su2double Gamma           = config->GetGamma();
+    const su2double Gas_Constant    = config->GetGas_Constant();
+
+    const su2double Vel_inf         = config->GetVelocity_FreeStream();
+    const su2double Density_inf     = config->GetDensity_FreeStream(); //V_i[idx.Density()];//maybe?
+    const su2double Pressure_inf    = config->GetPressure_FreeStream();
+    const su2double Temperature_Inf = config->GetTemperature_FreeStream();
+    
+    const su2double Pressure_i      = V_i[idx.Pressure()]; //ask Prof Badrya about mesh node for P and rho (what node should I get P and rho from)
+    
+    const su2double Velocity_BLEdge       = sqrt((pow(Vel_Inf,2)) + (((2 * Gamma) / (Gamma - 1)) * (1 - (pow(Pressure_i / Pressure_inf,(1 - (1 / Gamma)))))*(Pressure_i / Density_inf))); // Boundary Layer edge velocity magnitude req'd to calculate edge Mach number for compressibilty correction to LM model (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    const su2double Speed_of_Sound_BLEdge = sqrt((Gamma * Gas_Constant * Temperature_Inf) * (pow(Pressure_i / Pressure_inf,((1 - Gamma) / Gamma))));
+    // const su2double Speed_of_Sound_BLEdge = sqrt(Gamma * Pressure_i / Density_i); // BL edge speed of sound (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    const su2double Mach_BLEdge           = Velocity_BLEdge / Speed_of_Sound_BLEdge; // BL edge Mach number
+    
+    const su2double C_Me = 1.0 - 0.06124 * Mach_BLEdge + 0.2402 * pow(Mach_BLEdge, 2) - 0.00346 * pow(Mach_BLEdge, 3); // (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    const su2double f_Me = 1.0105 - 0.3046 * Mach_BLEdge + 1.1646 * pow(Mach_BLEdge, 2) - 0.3605 * pow(Mach_BLEdge, 3); // Polynomial function to apply compressibility correction to LM. Used to calculate and modify Re_theta_t (which affects F_length_1) (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    // || const su2double Re_theta_t_comp = Re_theta_t_Original * f_Me; // Compressibility correction to Re_theta_t (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    // || const su2double Corr_Ret_comp = Corr_Ret * f_Me; // Compressibility correction to Re_theta_t (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    //
+    //========================================================================================================================================================================
+    //
+
   su2double ReThetaC_Correlations(const su2double Tu, const su2double Re_theta_t) const {
 
     su2double rethetac = 0.0;
@@ -113,6 +142,8 @@ class TransLMCorrelations {
                        CURRENT_FUNCTION);
         break;
     }
+
+    rethetac = rethetac / C_Me // Compressibility correction is applied here to the OG Re_theta_c. This is easier than modifying Re_theta_c in all other functions. Instead I think it's better to apply the correction where Re_theta_c is defined
 
     return rethetac;
   }
