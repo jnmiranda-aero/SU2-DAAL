@@ -172,16 +172,16 @@ class CSourcePieceWise_TransLM final : public CNumerics {
       // const su2double Corr_Rec_comp = Corr_Rec / C_Me; // this isnt really needed anymore as it would require modifying this in other places of the code. Instead correction is applied in the correlations- just remember that this is no longer the OG Corr_Rec but the compressible one
 
       /*--- F_length correlation*/
-      const su2double Corr_F_length = TransCorrelations.FLength_Correlations(config, Tu, TransVar_i[1]);
+      // const su2double Corr_F_length = TransCorrelations.FLength_Correlations(config, Tu, TransVar_i[1]);
 
       /*--- F_length ---*/
-      su2double F_length = 0.0;
-      if (TurbFamily == TURB_FAMILY::KW) {
-        const su2double r_omega = Density_i * dist_i * dist_i * ScalarVar_i[1] / Laminar_Viscosity_i;
-        const su2double f_sub = exp(-pow(r_omega / 200.0, 2));
-        F_length = Corr_F_length * (1. - f_sub) + 40.0 * f_sub;
-      }
-      if (TurbFamily == TURB_FAMILY::SA) F_length = Corr_F_length;
+      // su2double F_length = 0.0;
+      // if (TurbFamily == TURB_FAMILY::KW) {
+      //   const su2double r_omega = Density_i * dist_i * dist_i * ScalarVar_i[1] / Laminar_Viscosity_i;
+      //   const su2double f_sub = exp(-pow(r_omega / 200.0, 2));
+      //   F_length = Corr_F_length * (1. - f_sub) + 40.0 * f_sub;
+      // }
+      // if (TurbFamily == TURB_FAMILY::SA) F_length = Corr_F_length;
 
       /*--- F_onset ---*/
       su2double R_t = 1.0;

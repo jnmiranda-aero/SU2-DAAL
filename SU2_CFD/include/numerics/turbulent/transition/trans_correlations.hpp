@@ -65,13 +65,13 @@ class TransLMCorrelations {
 
     //
     //========================================================================================================================================================================
-    // My compressibility mods (they probably wont work tbh but its ok)
+    // My compressibility mods 
     //========================================================================================================================================================================
     //
     const su2double Gamma           = config->GetGamma();
     const su2double Gas_Constant    = config->GetGas_Constant();
 
-    const su2double* vel_inf        = config->GetVelocity_FreeStream();
+    const su2double *vel_inf        = config->GetVelocity_FreeStream();
     const su2double Vel_inf_u       = vel_inf[0];  // Use the first component of the velocity (x-direction)
     const su2double Vel_inf_v       = vel_inf[1];  // Use the first component of the velocity (z-direction)
     const su2double Vel_inf_w       = vel_inf[2];  // Use the first component of the velocity (y-direction)
@@ -81,7 +81,7 @@ class TransLMCorrelations {
     const su2double Pressure_inf    = config->GetPressure_FreeStream();
     const su2double Temperature_Inf = config->GetTemperature_FreeStream();
     
-    const su2double Pressure_i      = V_i[idx.Pressure()]; //ask Prof Badrya about mesh node for P and rho (what node should I get P and rho from)
+    const su2double Pressure_i      = V_i[idx.Pressure()]; //ask Prof Badrya about mesh node for P and rho (what node should I get P and rho from or use Surf. P)
     
     const su2double Velocity_BLEdge       = sqrt((pow(Vel_inf_Mag,2)) + (((2 * Gamma) / (Gamma - 1)) * (1 - (pow(Pressure_i / Pressure_inf,(1 - (1 / Gamma)))))*(Pressure_i / Density_inf))); // Boundary Layer edge velocity magnitude req'd to calculate edge Mach number for compressibilty correction to LM model (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
     const su2double Speed_of_Sound_BLEdge = sqrt((Gamma * Gas_Constant * Temperature_Inf) * (pow(Pressure_i / Pressure_inf,((1 - Gamma) / Gamma))));
