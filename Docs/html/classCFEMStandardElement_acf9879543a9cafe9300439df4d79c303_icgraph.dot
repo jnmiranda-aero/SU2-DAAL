@@ -1,0 +1,13 @@
+digraph "CFEMStandardElement::GetNDOFsPerSubElem"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="CFEMStandardElement\l::GetNDOFsPerSubElem",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Function, which makes available the number of DOFs of a linear element, used for plotting."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CFEMStandardElement\l::GetNSubElemsType1",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFEMStandardElement.html#a98ec79da0fb17aece3cc0b183f573d35",tooltip="Function, which makes available the number of sub-elements of type 1 for plotting."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CFEMStandardElement\l::GetNSubElemsType2",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFEMStandardElement.html#aed0f6668e771b651a934b5b5d3de7d90",tooltip="Function, which makes available the number of sub-elements of type 2 for plotting."];
+}

@@ -1,0 +1,23 @@
+digraph "CMultiGridGeometry::SetCoord"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="CMultiGridGeometry\l::SetCoord",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Set a representative coordinates of the agglomerated control volume."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CPoint::GetChildren_CV",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCPoint.html#a627b42fa58a444bab6e184772b921240",tooltip="Get the children control volume of an agglomerated control volume."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CPoint::GetCoord",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCPoint.html#ab16c29dd03911529cd73bf467c313179",tooltip="Get the coordinates dor the control volume."];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="CPoint::GetnChildren_CV",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCPoint.html#af386b967e31b7e7893baa5006b84f280",tooltip="Get the number of children of an agglomerated control volume."];
+  Node1 -> Node5 [id="edge4_Node000001_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="CPoint::GetVolume",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCPoint.html#acc83b19b9c7201987cc2e948a7259af8",tooltip="Get area or volume of the control volume."];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="omp_get_max_threads",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$omp__structure_8hpp.html#a2f7befecc7b1a4eaade8d81fa6524225",tooltip="Maximum number of threads available."];
+  Node1 -> Node7 [id="edge6_Node000001_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="roundUpDiv",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$omp__structure_8hpp.html#a1c00281f52b615b111a4990b2d2a5157",tooltip="Integer division rounding up."];
+  Node1 -> Node8 [id="edge7_Node000001_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="CPoint::SetCoord",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCPoint.html#af3545cace579269797a534b6a10a42e1",tooltip="Set the coordinates for the control volume."];
+}

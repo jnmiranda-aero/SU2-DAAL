@@ -1,0 +1,38 @@
+digraph "CNEMOGas::GetRefTemperature"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="CNEMOGas::GetRefTemperature",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Get reference temperature."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CNEMOGas::ComputedPdU",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMOGas.html#a424da7362e12de29fcebf761cb8eabaa",tooltip="Compute derivative of pressure w.r.t. conservative variables."];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CCentLax_NEMO::ComputeResidual",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCCentLax__NEMO.html#ab22a74c03b6c2cc3adeb4d172c93f8d1",tooltip="Compute the flow residual using a Lax method."];
+  Node2 -> Node4 [id="edge3_Node000002_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="CUpwMSW_NEMO::ComputeResidual",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCUpwMSW__NEMO.html#ab199750be78d7758f4dc6e0577ed5616",tooltip="Compute the Roe's flux between two nodes i and j."];
+  Node2 -> Node5 [id="edge4_Node000002_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="CUpwRoe_NEMO::ComputeResidual",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCUpwRoe__NEMO.html#a4f71a3690ffedda364bd36453c08fed0",tooltip="Compute the Roe's flux between two nodes i and j."];
+  Node2 -> Node6 [id="edge5_Node000002_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="CNEMOEulerVariable\l::Cons2PrimVar",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMOEulerVariable.html#ad95dbeb3e9b5634fab7c6a768442c7b9",tooltip="Set all the primitive and secondary variables from the conserved vector."];
+  Node6 -> Node7 [id="edge6_Node000006_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="CNEMONSVariable::SetPrimVar",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMONSVariable.html#aaf19bc249dae14fccd4a739901a83efd",tooltip="Set all the primitive variables for compressible flows."];
+  Node6 -> Node8 [id="edge7_Node000006_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="CNEMOEulerVariable\l::SetPrimVar",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMOEulerVariable.html#aaf86b1f3586f5b0b8015ddf1311d7ce4",tooltip="Set all the primitive variables for compressible flows."];
+  Node8 -> Node9 [id="edge8_Node000008_Node000009",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="CNEMOEulerSolver::BC\l_Supersonic_Inlet",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMOEulerSolver.html#a1448f7a4a713ada22016532249a56a95",tooltip="Impose a supersonic inlet boundary condition."];
+  Node8 -> Node10 [id="edge9_Node000008_Node000010",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="CNEMOEulerSolver::CNEMOEuler\lSolver",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMOEulerSolver.html#a192d56e184ee19ad0b0dd3282b74f1e6",tooltip="Contructor of the class."];
+  Node8 -> Node11 [id="edge10_Node000008_Node000011",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="CNEMOEulerSolver::SetPrimitive\l_Variables",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMOEulerSolver.html#aa3498ebe1779c01daf8380d6a7d0aa7d",tooltip="Computes primitive variables."];
+  Node11 -> Node12 [id="edge11_Node000011_Node000012",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="CNEMOEulerSolver::Common\lPreprocessing",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMOEulerSolver.html#a27f21d6dbfb7f6c600f759caf7625087",tooltip="Preprocessing actions common to the Euler and NS solvers."];
+  Node12 -> Node13 [id="edge12_Node000012_Node000013",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node13 [id="Node000013",label="CNEMOEulerSolver::Preprocessing",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMOEulerSolver.html#a3c5a59b5c1c9195757626bff151dbaa9",tooltip="Compute the velocity^2, SoundSpeed, Pressure, Enthalpy, Viscosity."];
+  Node12 -> Node14 [id="edge13_Node000012_Node000014",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node14 [id="Node000014",label="CNEMONSSolver::Preprocessing",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMONSSolver.html#aef1c13c42cd8103377619f7d94660d6a",tooltip="Restart residual and compute gradients."];
+  Node1 -> Node15 [id="edge14_Node000001_Node000015",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node15 [id="Node000015",label="CNEMOGas::ComputedTdU",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMOGas.html#a5c1412972751e64d697721e22025d7dc",tooltip="Compute derivative of temperature w.r.t. conservative variables."];
+  Node15 -> Node6 [id="edge15_Node000015_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+}

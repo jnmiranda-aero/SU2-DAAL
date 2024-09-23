@@ -1,0 +1,31 @@
+digraph "CFluidFlamelet::CFluidFlamelet"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="CFluidFlamelet::CFluidFlamelet",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CBaseMPIWrapper::Error",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CBaseMPIWrapper::Abort",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="CConfig::GetControllingVariableName",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCConfig.html#a3d287d567b7526d13c30b05da3e5b4a6",tooltip="Get the name of a specific controlling variable."];
+  Node1 -> Node5 [id="edge4_Node000001_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="CConfig::GetDataDriven\l_FileNames",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCConfig.html#a7bdb4cea71fc831aa7de1ec3a943576a",tooltip="Get name of the input file for the data-driven fluid model interpolation method."];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="CConfig::GetKind_DataDriven\l_Method",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCConfig.html#af25d73fb157a7610b9710d6f46d051fc",tooltip="Datadriven method for EoS evaluation."];
+  Node1 -> Node7 [id="edge6_Node000001_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="CConfig::GetNControlVars",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCConfig.html#a96acbe126b6987b1461ff7d3cdb44cca",tooltip="Get the number of control variables for flamelet model."];
+  Node1 -> Node8 [id="edge7_Node000001_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="CConfig::GetNDataDriven\l_Files",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCConfig.html#a35d7a7ec7b9642500a4e1fd80ff8d073",tooltip="Get number of listed look-up table or multi-layer perceptron input files."];
+  Node1 -> Node9 [id="edge8_Node000001_Node000009",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="CConfig::GetNScalars",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCConfig.html#a03b3b0bac74547f989d151d513fb7c69",tooltip="Get the number of total transported scalars for flamelet model."];
+  Node1 -> Node10 [id="edge9_Node000001_Node000010",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="CConfig::GetNUserScalars",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCConfig.html#ab6b78d2aa6b013cf2d93c62b2240a8cc",tooltip="Get the number of user scalars for flamelet model."];
+  Node1 -> Node11 [id="edge10_Node000001_Node000011",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="CBaseMPIWrapper::GetRank",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCBaseMPIWrapper.html#a63e1f265b788b4e56cb7ebdeba29b78e",tooltip=" "];
+  Node1 -> Node12 [id="edge11_Node000001_Node000012",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="CConfig::GetUserScalarName",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCConfig.html#a052c89683764dde2b1ecaa385a2f9ce4",tooltip="Get the name of the user scalar."];
+}

@@ -1,0 +1,15 @@
+digraph "CGeometry::SetNaturalEdgeColoring"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="CGeometry::SetNaturalEdge\lColoring",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Force the natural (sequential) edge coloring."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="createNaturalColoring",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$group__Graph.html#gaa96cec8c2a59051ef7562b474f7ca0a1",tooltip="Create the natural coloring (equivalent to the normal sequential loop order) for a given number of in..."];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="container_details::\lAccessorImpl::data",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classcontainer__details_1_1AccessorImpl.html#a25b798e6041a085aa19399d0047b6a91",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="omp_get_max_threads",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$omp__structure_8hpp.html#a2f7befecc7b1a4eaade8d81fa6524225",tooltip="Maximum number of threads available."];
+}

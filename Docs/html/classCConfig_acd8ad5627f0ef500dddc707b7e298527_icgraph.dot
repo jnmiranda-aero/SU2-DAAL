@@ -1,0 +1,51 @@
+digraph "CConfig::GetKind_ConductivityModel"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="CConfig::GetKind_Conductivity\lModel",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Get the value of the thermal conductivity model."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CMMSNSTwoHalfCirclesSolution\l::CMMSNSTwoHalfCirclesSolution",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCMMSNSTwoHalfCirclesSolution.html#afb31f8a5302b2a376a1781805fefb3f1",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CMMSNSTwoHalfSpheresSolution\l::CMMSNSTwoHalfSpheresSolution",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCMMSNSTwoHalfSpheresSolution.html#a8a5a9229428c02216ec39243e5738c2c",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="CMMSNSUnitQuadSolution\l::CMMSNSUnitQuadSolution",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCMMSNSUnitQuadSolution.html#a15ed15b17ed5e8bcc2c4e22ae0208609",tooltip=" "];
+  Node1 -> Node5 [id="edge4_Node000001_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="CMMSNSUnitQuadSolutionWall\lBC::CMMSNSUnitQuadSolutionWallBC",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCMMSNSUnitQuadSolutionWallBC.html#a8a073b252ded24ccdb874d41b6e1660a",tooltip=" "];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="CNSUnitQuadSolution\l::CNSUnitQuadSolution",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNSUnitQuadSolution.html#a7e40a7f6fddad267f011675ff5f39fe3",tooltip=" "];
+  Node1 -> Node7 [id="edge6_Node000001_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="CTGVSolution::CTGVSolution",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCTGVSolution.html#a9abff4ee12f6573861db6cd57bb988cc",tooltip=" "];
+  Node1 -> Node8 [id="edge7_Node000001_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="CConjugateHeatInterface\l::GetDonor_Variable",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCConjugateHeatInterface.html#a11264c7dda7df147258e1ee89b315ea8",tooltip="Retrieve the variable that will be sent from donor mesh to target mesh."];
+  Node1 -> Node9 [id="edge8_Node000001_Node000009",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="CFluidModel::MakeThermal\lConductivityModel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFluidModel.html#a906430175741549b72c46b5e162149ca",tooltip="Instantiate the right type of conductivity model based on config."];
+  Node9 -> Node10 [id="edge9_Node000009_Node000010",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="CFluidModel::SetThermalConductivity\lModel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFluidModel.html#a6c387c9e21d5da336d61f58214587ac8",tooltip="Set thermal conductivity model."];
+  Node10 -> Node11 [id="edge10_Node000010_Node000011",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="CEulerSolver::SetNondimensionalization",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCEulerSolver.html#a1c633d6e77fefb2e76308e2ba0af0c2c",tooltip="Set the solver nondimensionalization."];
+  Node11 -> Node12 [id="edge11_Node000011_Node000012",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="CEulerSolver::CEulerSolver",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460",tooltip="Main constructor of this class."];
+  Node10 -> Node13 [id="edge12_Node000010_Node000013",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node13 [id="Node000013",label="CFEM_DG_EulerSolver\l::SetNondimensionalization",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFEM__DG__EulerSolver.html#a31316dc2fe564329d9bb372961b10a3a",tooltip="Set the fluid solver nondimensionalization."];
+  Node13 -> Node14 [id="edge13_Node000013_Node000014",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node14 [id="Node000014",label="CFEM_DG_EulerSolver\l::CFEM_DG_EulerSolver",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFEM__DG__EulerSolver.html#a70d30ef9e7cd7620d54ec73f4b1ed28c",tooltip=" "];
+  Node13 -> Node15 [id="edge14_Node000013_Node000015",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node15 [id="Node000015",label="CFEM_DG_EulerSolver\l::CFEM_DG_EulerSolver",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFEM__DG__EulerSolver.html#a677fa998b78bd489a3f8bee0d56623dd",tooltip=" "];
+  Node9 -> Node16 [id="edge15_Node000009_Node000016",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node16 [id="Node000016",label="CFluidScalar::SetThermal\lConductivityModel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFluidScalar.html#a4223d15eb4ab0e69626859ade4f10197",tooltip="Set thermal conductivity model."];
+  Node16 -> Node17 [id="edge16_Node000016_Node000017",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node17 [id="Node000017",label="CFluidScalar::CFluidScalar",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFluidScalar.html#a0424cef1839c30dde36bd1d0cab8ffdd",tooltip="Constructor of the class."];
+  Node1 -> Node11 [id="edge17_Node000001_Node000011",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node18 [id="edge18_Node000001_Node000018",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node18 [id="Node000018",label="CIncEulerSolver::SetNondimensionalization",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCIncEulerSolver.html#a2cffaa24417cb3803d36d38b3874d6d0",tooltip="Set the solver nondimensionalization."];
+  Node18 -> Node19 [id="edge19_Node000018_Node000019",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node19 [id="Node000019",label="CIncEulerSolver::CIncEuler\lSolver",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCIncEulerSolver.html#a2a0c72c1d1d79e45c69da03e01f6281a",tooltip="Constructor of the class."];
+  Node1 -> Node13 [id="edge20_Node000001_Node000013",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node20 [id="edge21_Node000001_Node000020",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node20 [id="Node000020",label="CFlowOutput::WriteForces\lBreakdown",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFlowOutput.html#aff6a6f11c9f53f559bab9ca94b21cd2a",tooltip="Write the forces breakdown file."];
+  Node20 -> Node21 [id="edge22_Node000020_Node000021",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node21 [id="Node000021",label="CFlowOutput::WriteAdditional\lFiles",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFlowOutput.html#aaac3fb7b2575967b157c306065ab1ea8",tooltip="Write any additional files defined for the current solver."];
+}

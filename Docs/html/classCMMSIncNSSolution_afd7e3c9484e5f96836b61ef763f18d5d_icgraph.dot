@@ -1,0 +1,11 @@
+digraph "CMMSIncNSSolution::GetSolution"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="CMMSIncNSSolution::\lGetSolution",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Get the exact solution at the current position and time."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CMMSIncNSSolution::\lGetBCState",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCMMSIncNSSolution.html#a7d6f313c2634ca4ce18c4bb5bde034d1",tooltip="Get the boundary conditions state for an exact solution."];
+}

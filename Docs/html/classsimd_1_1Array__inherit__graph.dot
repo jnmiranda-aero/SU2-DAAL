@@ -1,0 +1,12 @@
+digraph "simd::Array&lt; Scalar_t, N &gt;"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [id="Node000001",label="simd::Array\< Scalar\l_t, N \>",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="A simple SIMD type relying on implicit vectorization, i.e. done by the compiler, explicitly vectorize..."];
+  Node2 -> Node1 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="VecExpr::CVecExpr\<\l Derived, Scalar \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$classVecExpr_1_1CVecExpr.html",tooltip="Base vector expression class."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="orange",style="dashed",tooltip=" ",label=" \< su2double \>",fontcolor="grey" ];
+  Node3 [id="Node000003",label="simd::Array\< su2double \>",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$classsimd_1_1Array.html",tooltip=" "];
+}

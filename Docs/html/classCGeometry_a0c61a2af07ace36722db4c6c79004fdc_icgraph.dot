@@ -1,0 +1,13 @@
+digraph "CGeometry::GetEdgeColorGroupSize"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="CGeometry::GetEdgeColorGroupSize",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Get the group size used in edge coloring."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CScalarSolver::CScalarSolver",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCScalarSolver.html#a1afc69d5b797a6ca3951cc43e5594313",tooltip="Constructor of the class."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CFVMFlowSolverBase\l::HybridParallelInitialization",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFVMFlowSolverBase.html#add3f32c09f3bb0032ed4cc4144ec8b10",tooltip="Initialize thread parallel variables."];
+}

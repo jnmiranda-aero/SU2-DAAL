@@ -1,0 +1,21 @@
+digraph "CIdealGas::SetTDState_rhoe"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="CIdealGas::SetTDState_rhoe",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Set the Dimensionless State using Density and Internal Energy."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CIdealGas::SetTDState_hs",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCIdealGas.html#a7aea02a29a19c5d3211e2eb3d461c515",tooltip="Set the Dimensionless State using Enthalpy and Entropy."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CIdealGas::SetTDState_Prho",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCIdealGas.html#aa4a603500aaa17a6a560cf81d68b37c4",tooltip="Set the Dimensionless State using Pressure and Density."];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="CIdealGas::ComputeDerivative\lNRBC_Prho",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCIdealGas.html#af86adeba5058ba6618834ac303b2ed8e",tooltip="compute some derivatives of enthalpy and entropy needed for subsonic inflow BC"];
+  Node3 -> Node5 [id="edge4_Node000003_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="CIdealGas::SetTDState_Ps",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCIdealGas.html#abf947a8e852aff8a0c9ddc191276b88b",tooltip="Set the Dimensionless State using Pressure and Entropy."];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="CIdealGas::SetTDState_PT",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCIdealGas.html#a564337bc85f284d01fd09551e13c715e",tooltip="Set the Dimensionless State using Pressure and Temperature."];
+  Node1 -> Node7 [id="edge6_Node000001_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="CIdealGas::SetTDState_rhoT",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCIdealGas.html#a5b2ff4f55b1b8d0c893878104b22c337",tooltip="Set the Dimensionless State using Density and Temperature."];
+}

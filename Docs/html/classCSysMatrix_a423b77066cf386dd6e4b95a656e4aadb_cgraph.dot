@@ -1,0 +1,11 @@
+digraph "CSysMatrix::SubtractBlock2Diag"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="CSysMatrix::SubtractBlock2Diag",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Short-hand to AddBlock2Diag with alpha = -1, i.e. subtracts from the current diagonal."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CSysMatrix::AddBlock2Diag",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCSysMatrix.html#a5a4ef7eeb7f009450f575660108ed7be",tooltip="Non overwrite version of SetBlock2Diag, also with scaling."];
+}

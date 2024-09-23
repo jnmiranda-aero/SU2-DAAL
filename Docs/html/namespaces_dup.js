@@ -1,0 +1,97 @@
+var namespaces_dup =
+[
+    [ "AD", "namespaceAD.html", [
+      [ "BeginPassive", "namespaceAD.html#a17303e0b54570243d54732b02655f9a5", null ],
+      [ "BeginUseAdjoints", "namespaceAD.html#af45472c273e9a0add1693e387797b3f9", null ],
+      [ "ClearAdjoints", "namespaceAD.html#a6ccf47c72e8115f9e31054b4c06271c4", null ],
+      [ "ComputeAdjoint", "namespaceAD.html#a02ec06d93629cdd0724d268318d4dfe7", null ],
+      [ "ComputeAdjoint", "namespaceAD.html#aa9e26ebfed12b86b5cc309445b57131d", null ],
+      [ "ComputeAdjointForward", "namespaceAD.html#ac0fb8e22bf0cc80448f1e2fb049cecb6", null ],
+      [ "EndNoSharedReading", "namespaceAD.html#ac7ec9bb1bce9a9b429ca4f355ffa8d3f", null ],
+      [ "EndPassive", "namespaceAD.html#af5a5809a923faf03119828c329bc2db7", null ],
+      [ "EndPreacc", "namespaceAD.html#a309d057a92faa60a3a760254678ec9ea", null ],
+      [ "EndUseAdjoints", "namespaceAD.html#af35e8bf86eca658fdb8e49807755f6e3", null ],
+      [ "Finalize", "namespaceAD.html#a4f3cf7ebfec1bef19205b10ac76c03df", null ],
+      [ "GetDerivative", "namespaceAD.html#a305f38ce692ce2f4269c05a022fe2ff5", null ],
+      [ "Initialize", "namespaceAD.html#a5b11aa60f508a25dd27f629b3d5f7281", null ],
+      [ "PausePreaccumulation", "namespaceAD.html#ad52c77e1fb6275bbff2bfab6aa498280", null ],
+      [ "PrintStatistics", "namespaceAD.html#a550da7d52493ef5d414a563f9ac2f737", null ],
+      [ "Push_TapePosition", "namespaceAD.html#a6346fb2cf00bd2a4b1566eb49e878b6e", null ],
+      [ "RegisterInput", "namespaceAD.html#a142308d54379f7aaa1c72195fb5fe992", null ],
+      [ "RegisterOutput", "namespaceAD.html#ae381e45797545e980376c4aeb3f5afdc", null ],
+      [ "Reset", "namespaceAD.html#a410b9fd84f6a9a3b36c3def03c2baffe", null ],
+      [ "ResetInput", "namespaceAD.html#a928aed2dfd714bc86ee7fa81571a98b4", null ],
+      [ "ResizeAdjoints", "namespaceAD.html#a54790812306f45ddcc477a85abf9e78c", null ],
+      [ "ResumePreaccumulation", "namespaceAD.html#a31b112f0b52414a5bf8cd64d1f30fd8d", null ],
+      [ "SetDerivative", "namespaceAD.html#a49a954dc442cd06cc43cd61a451d76e5", null ],
+      [ "SetExtFuncIn", "namespaceAD.html#a8cdc5256bc328448eff6ba10e0180d33", null ],
+      [ "SetExtFuncIn", "namespaceAD.html#a5f32984a1432a2d57926f8d45f3a0e5f", null ],
+      [ "SetExtFuncIn", "namespaceAD.html#a01d324fa97f57e1dfca30343d3a9e642", null ],
+      [ "SetExtFuncOut", "namespaceAD.html#a2eff40aae09c84eec216a3f04768527f", null ],
+      [ "SetExtFuncOut", "namespaceAD.html#a5c4cc1b089b75305307d3af3d18b2bf4", null ],
+      [ "SetExtFuncOut", "namespaceAD.html#a11673f77dcfce3865734d6e535d6d2e8", null ],
+      [ "SetIndex", "namespaceAD.html#a93909396dd20444ea1ad3100003ff08c", null ],
+      [ "SetPreaccIn", "namespaceAD.html#a7f3f87b3811c9f1d762af586ef599a28", null ],
+      [ "SetPreaccIn", "namespaceAD.html#ae916ec11071b45d0251eac3607abd25b", null ],
+      [ "SetPreaccIn", "namespaceAD.html#aa163589c94af6ddfdbcf901ecc76ac77", null ],
+      [ "SetPreaccOut", "namespaceAD.html#aaadc4a977ab8f9a54de201d32153db07", null ],
+      [ "SetPreaccOut", "namespaceAD.html#ad17c5a994f6f05027ab56cfe61ba3ec2", null ],
+      [ "SetPreaccOut", "namespaceAD.html#a96f26aa5f6909173e990e03b864fec33", null ],
+      [ "StartNoSharedReading", "namespaceAD.html#ac6c34b1654aff3cb19cb0e0de7f2ae5b", null ],
+      [ "StartPreacc", "namespaceAD.html#a2a1e9c4b109fd751e84132c9495de3ff", null ],
+      [ "StartRecording", "namespaceAD.html#aa411ae358859e654be30b522fdf7a7ba", null ],
+      [ "StopRecording", "namespaceAD.html#a97670077955608a47f6cc7ee3548e424", null ],
+      [ "TapeActive", "namespaceAD.html#ae36087cd7b6b57c78d7baf0357a19d10", null ]
+    ] ],
+    [ "CGradientSmoothingSolverDetails", "namespaceCGradientSmoothingSolverDetails.html", [
+      [ "ReadVectorToGeometry", "namespaceCGradientSmoothingSolverDetails.html#a2335214723ac75c4e83b30cf3809a8cc", null ],
+      [ "WriteVectorToGeometry", "namespaceCGradientSmoothingSolverDetails.html#aa1291db622cb98bd9dc0ea5eeaa47b8b", null ]
+    ] ],
+    [ "CInterpolatorFactory", "namespaceCInterpolatorFactory.html", [
+      [ "CreateInterpolator", "group__Interfaces.html#ga844fa74779f466148d9b5878f09e2f34", null ]
+    ] ],
+    [ "CommHelpers", "namespaceCommHelpers.html", [
+      [ "selectGradient", "namespaceCommHelpers.html#a691c54929c54c5e0b153a99f22217c8b", null ],
+      [ "selectLimiter", "namespaceCommHelpers.html#a88e9c22d59034b9b975cd978e1d99db1", null ]
+    ] ],
+    [ "container_details", "namespacecontainer__details.html", "namespacecontainer__details" ],
+    [ "detail", "namespacedetail.html", "namespacedetail" ],
+    [ "GeometryToolbox", "namespaceGeometryToolbox.html", [
+      [ "CrossProduct", "group__GeometryToolbox.html#ga26f2f767e60f046c51299f6236f84ffe", null ],
+      [ "Distance", "group__GeometryToolbox.html#gaad1e594f0203c0438335dc45e1a6b3ed", null ],
+      [ "Distance", "group__GeometryToolbox.html#ga600fb4ee993ae4c3b985082d51994881", null ],
+      [ "DotProduct", "group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89", null ],
+      [ "LineNormal", "group__GeometryToolbox.html#ga7079d2492b2934b5a8044b6576d35125", null ],
+      [ "LinePlaneIntersection", "group__GeometryToolbox.html#gaed183b4e36658d20d0f8090f2c748af8", null ],
+      [ "Norm", "group__GeometryToolbox.html#gad8b24e50333c9a8378f7abf18222f36a", null ],
+      [ "PointPlaneProjection", "group__GeometryToolbox.html#ga7901400ad379c9cb6c1cdee6efb359d3", null ],
+      [ "PointPointReflect", "group__GeometryToolbox.html#gaff34e6c096a3c354c2b223713ca09095", null ],
+      [ "PointToPlaneDistance", "group__GeometryToolbox.html#ga0b545394f73507bf335bfdc045f96b37", null ],
+      [ "QuadrilateralNormal", "group__GeometryToolbox.html#ga33b6625a765eb24f27428949e1b1433e", null ],
+      [ "Rotate", "group__GeometryToolbox.html#ga096060ce1ab901c92fd03f55da4cc406", null ],
+      [ "RotationMatrix", "group__GeometryToolbox.html#ga07a5e3bda4df2727a95776bc95ab6dff", null ],
+      [ "RotationMatrix", "group__GeometryToolbox.html#ga3d2f77f7f0ea57f6d7256a29a2d00f7e", null ],
+      [ "SquaredDistance", "group__GeometryToolbox.html#ga3db86410486389a5cda59b3d0ab17f66", null ],
+      [ "SquaredNorm", "group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056", null ],
+      [ "TangentProjection", "group__GeometryToolbox.html#ga82220c2cda9dc90a9cc22e77001550ee", null ],
+      [ "TriangleNormal", "group__GeometryToolbox.html#gaaf49b2060e8b62e065637f257283d132", null ]
+    ] ],
+    [ "helpers", "namespacehelpers.html", "namespacehelpers" ],
+    [ "mel", "namespacemel.html", "namespacemel" ],
+    [ "MemoryAllocation", "namespaceMemoryAllocation.html", [
+      [ "aligned_alloc", "namespaceMemoryAllocation.html#ad8cfa2ce9bd9f5846eef3c9f6a9f7eeb", null ],
+      [ "aligned_free", "namespaceMemoryAllocation.html#a2f1102417dd438fa5d6614c40ddd3300", null ],
+      [ "is_power_of_two", "namespaceMemoryAllocation.html#a37736b5f50544ea5ef7b9ac0de86c9a9", null ],
+      [ "round_up", "namespaceMemoryAllocation.html#a4f4f11a3b87bdc406f349a6a44a578b7", null ]
+    ] ],
+    [ "PaStiX", "namespacePaStiX.html", null ],
+    [ "PeriodicCommHelpers", "namespacePeriodicCommHelpers.html", [
+      [ "selectField", "namespacePeriodicCommHelpers.html#a759e604990e9151e0aec45361a76ede5", null ],
+      [ "selectGradient", "namespacePeriodicCommHelpers.html#a1fc07b93c26d00ddae225fd80c28c1fc", null ],
+      [ "selectLimiter", "namespacePeriodicCommHelpers.html#a2f2bc43a91b0f94b664e28069ee7abd4", null ]
+    ] ],
+    [ "PrintingToolbox", "namespacePrintingToolbox.html", "namespacePrintingToolbox" ],
+    [ "simd", "namespacesimd.html", "namespacesimd" ],
+    [ "SU2_TYPE", "namespaceSU2__TYPE.html", "namespaceSU2__TYPE" ],
+    [ "VecExpr", "namespaceVecExpr.html", "namespaceVecExpr" ]
+];

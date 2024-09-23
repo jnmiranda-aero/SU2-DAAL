@@ -1,0 +1,13 @@
+digraph "helpers::IndexAccumulator::operator[]"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="helpers::IndexAccumulator\l::operator[]",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Read one more index, checking whether it is in the range dictated by the NdFlattener and previous ind..."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="helpers::IndexAccumulator\l\< 1, Nd_t_, Check \>::data",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classhelpers_1_1IndexAccumulator_3_011_00_01Nd__t___00_01Check_01_4.html#a751728bdda812b183077ed3d12bf6c7c",tooltip="Return (possibly const) pointer to data, non-const version."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="helpers::IndexAccumulator\l\< 1, Nd_t_, Check \>::data",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classhelpers_1_1IndexAccumulator_3_011_00_01Nd__t___00_01Check_01_4.html#a3100cc68baea13ce2154688fc089e470",tooltip="Return const pointer to data."];
+}

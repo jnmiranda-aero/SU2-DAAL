@@ -1,0 +1,11 @@
+digraph "CConfig::SetHeader"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="CConfig::SetHeader",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Print the header to screen."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CConfig::CConfig",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCConfig.html#ad3d7c6fc53d6015841b4a7f8defe6633",tooltip="Constructor of the class which reads the input file."];
+}

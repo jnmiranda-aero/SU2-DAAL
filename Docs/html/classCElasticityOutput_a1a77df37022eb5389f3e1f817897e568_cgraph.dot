@@ -1,0 +1,15 @@
+digraph "CElasticityOutput::SetHistoryOutputFields"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="CElasticityOutput::\lSetHistoryOutputFields",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Set the available history output fields."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="COutput::AddHistoryOutput",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCOutput.html#ad5ee424d364346cbd6dc27ffbab35e0a",tooltip="Add a new field to the history output."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CConfig::GetRefGeom",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCConfig.html#abd9f331e86fcfa1d6984761ae767b719",tooltip="Decide whether it's necessary to read a reference geometry."];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="CConfig::GetTopology\l_Optimization",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCConfig.html#aaf3e38ba9bf594bc2d636158d1dbf305",tooltip="Get topology optimization."];
+}

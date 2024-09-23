@@ -1,0 +1,13 @@
+digraph "CSolver::SetAdjoint_Output"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="CSolver::SetAdjoint\l_Output",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="A virtual member."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CDiscAdjFEAIteration\l::InitializeAdjoint",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCDiscAdjFEAIteration.html#ab74b31bf6b8275945fa3d0dd38d73388",tooltip="Initializes the adjoints of the output variables of the FEM iteration."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CDiscAdjHeatIteration\l::InitializeAdjoint",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCDiscAdjHeatIteration.html#adeafba60eb5471ccd0780c0d075d61da",tooltip="Registers all input variables of the fluid iteration."];
+}

@@ -1,0 +1,28 @@
+digraph "NdFlattener&lt; 1, Data_t_, Index_t_ &gt;::initialize"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="NdFlattener\< 1, Data\l_t_, Index_t_ \>::initialize",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="NdFlattener::allocate",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classNdFlattener.html#a5b98791c321c5c1764fb90669c0c308c",tooltip="Allocate the indices array after nNodes has been determined."];
+  Node2 -> Node2 [id="edge2_Node000002_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node3 [id="edge3_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="NdFlattener::count_f",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classNdFlattener.html#ad3c91197f3c783a2a2414fd13cb03e76",tooltip="Determine the space required for reading the 'recursive function'."];
+  Node3 -> Node3 [id="edge4_Node000003_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node4 [id="edge5_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="NdFlattener::set_f",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classNdFlattener.html#ad882e93febb58a65eeb1fd93ca2d816a",tooltip="Read the 'recursive function' into the allocated arrays."];
+  Node4 -> Node5 [id="edge6_Node000004_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="CBaseMPIWrapper::Error",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb",tooltip=" "];
+  Node5 -> Node6 [id="edge7_Node000005_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="CBaseMPIWrapper::Abort",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f",tooltip=" "];
+  Node4 -> Node7 [id="edge8_Node000004_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="NdFlattener::refresh",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classNdFlattener.html#a25b47f23e8abfc8da0ab09b95468d307",tooltip="Refresh the data according to the 'recursive function'."];
+  Node7 -> Node8 [id="edge9_Node000007_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="NdFlattener::reset\l_iNode",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classNdFlattener.html#ad7512182cddd2acf3faea22dfb63dd27",tooltip="Set iNode to 0 in all layers."];
+  Node8 -> Node8 [id="edge10_Node000008_Node000008",color="steelblue1",style="solid",tooltip=" "];
+  Node7 -> Node4 [id="edge11_Node000007_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 -> Node4 [id="edge12_Node000004_Node000004",color="steelblue1",style="solid",tooltip=" "];
+}

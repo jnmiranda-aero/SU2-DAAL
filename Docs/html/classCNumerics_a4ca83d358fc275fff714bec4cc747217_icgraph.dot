@@ -1,0 +1,11 @@
+digraph "CNumerics::GetRoe_Dissipation"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="CNumerics::GetRoe_Dissipation",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Calculate the central/upwind blending function for a face"];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CUpwSLAU_Flow::ComputeMass\lAndPressureFluxes",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCUpwSLAU__Flow.html#a500bb5fa6875d48bdde481affbee50bf",tooltip="Mass flux and pressure for the SLAU and SLAU2 schemes."];
+}

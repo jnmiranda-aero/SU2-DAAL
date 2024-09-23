@@ -1,0 +1,15 @@
+digraph "COutput::SetHistoryFileHeader"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="COutput::SetHistoryFileHeader",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Set the history file header."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="PrintingToolbox::CTablePrinter\l::AddColumn",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classPrintingToolbox_1_1CTablePrinter.html#af3ddbf0da1a37cc37be7caac031dd4c4",tooltip="Add a column to the table by specifiying the header name and the width."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CConfig::GetTabular\l_FileFormat",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCConfig.html#a4ac4d812d4065f2955d72733cd0c4f6f",tooltip="Get the format of the output solution."];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="PrintingToolbox::CTablePrinter\l::PrintHeader",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classPrintingToolbox_1_1CTablePrinter.html#a475fafce69bdc78e973a2546e6e6be76",tooltip="Print the header."];
+}

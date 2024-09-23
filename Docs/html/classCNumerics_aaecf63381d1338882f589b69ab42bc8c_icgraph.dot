@@ -1,0 +1,17 @@
+digraph "CNumerics::SetGamma"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="CNumerics::SetGamma",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Set the ratio of specific heats."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CNEMOEulerSolver::BC\l_Far_Field",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMOEulerSolver.html#af35c1b20663aa6051487296077034f05",tooltip="Impose the far-field boundary condition using characteristics."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CNEMOEulerSolver::BC\l_Outlet",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMOEulerSolver.html#ad9c735fad084c25c2b24b9ccd3503fa8",tooltip="Impose the outlet boundary condition."];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="CNEMOEulerSolver::BC\l_Supersonic_Outlet",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMOEulerSolver.html#a56fde05fcdc935ca387b46ee6bd7034e",tooltip="Impose the supersonic outlet boundary condition."];
+  Node1 -> Node5 [id="edge4_Node000001_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="CNEMOEulerSolver::Centered\l_Residual",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMOEulerSolver.html#a7765314bdcc7440ec4b1826ab6cf16f3",tooltip="Compute the spatial integration using a centered scheme."];
+}

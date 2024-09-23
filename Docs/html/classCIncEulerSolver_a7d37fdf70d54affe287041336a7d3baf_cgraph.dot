@@ -1,0 +1,15 @@
+digraph "CIncEulerSolver::SetAdjoint_SolutionExtra"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="CIncEulerSolver::SetAdjoint\l_SolutionExtra",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Seed the adjoint of the extra solution at the output."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CConfig::GetKind_Streamwise\l_Periodic",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCConfig.html#aae21b37c088347be2a7e02fc0ad4e4c4",tooltip="Get information about the streamwise periodicity (None, Pressure_Drop, Massflow)."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="SU2_TYPE::GetValue",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22",tooltip="Get the (primitive) value of the datatype (needs to be specialized for active types)."];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="SU2_TYPE::SetDerivative",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$namespaceSU2__TYPE.html#ab0b85db43e1495ffbb0f2c823f24935e",tooltip="Set the derivative value of the datatype (needs to be implemented for each new type)."];
+}

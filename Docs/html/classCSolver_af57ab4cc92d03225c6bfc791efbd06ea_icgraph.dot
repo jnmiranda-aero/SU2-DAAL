@@ -1,0 +1,13 @@
+digraph "CSolver::ImplicitNewmark_Relaxation"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="CSolver::ImplicitNewmark\l_Relaxation",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="A virtual member."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CStructuralIntegration\l::SetDualTime_Solver",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCStructuralIntegration.html#ab11e7a55feee6c5b39d5e32f19e65090",tooltip="Save the solution at different time steps, and reset certain fields for the next timestep."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CFEAIteration::Update",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFEAIteration.html#a1112f9283b0bee1ac564a798a0090c21",tooltip="Updates the containers for the FEM system."];
+}

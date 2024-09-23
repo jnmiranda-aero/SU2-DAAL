@@ -1,0 +1,11 @@
+digraph "CAvgGrad_Flow::SetHeatFluxJacobian"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="CAvgGrad_Flow::SetHeatFlux\lJacobian",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Compute the Jacobian of the heat flux vector."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CAvgGrad_Flow::ComputeResidual",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCAvgGrad__Flow.html#a24116483420da4c85e134442cbce7590",tooltip="Compute the viscous flow residual using an average of gradients."];
+}

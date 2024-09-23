@@ -1,0 +1,10 @@
+digraph "SU2_GEO/include/SU2_GEO.hpp"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [id="Node000001",label="SU2_GEO/include/SU2\l_GEO.hpp",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Headers of the main subroutines of the code SU2_GEO. The subroutines and functions are in the SU2_GEO..."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="SU2_GEO/src/SU2_GEO.cpp",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$SU2__GEO_8cpp.html",tooltip="Main file of the Geometry Definition Code (SU2_GEO)."];
+}

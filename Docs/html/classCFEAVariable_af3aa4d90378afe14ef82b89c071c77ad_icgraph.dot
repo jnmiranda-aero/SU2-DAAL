@@ -1,0 +1,19 @@
+digraph "CFEAVariable::Solution_Accel"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="CFEAVariable::Solution\l_Accel",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CFEAVariable::CFEAVariable",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFEAVariable.html#af903380be6b3b699751e694d896af2c1",tooltip="Constructor of the class."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CFEAVariable::GetSolution\l_Accel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFEAVariable.html#a3a141f58926f049c180c369a4db9beaf",tooltip="Get the solution of the problem."];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="CFEAVariable::GetSolution\l_Accel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFEAVariable.html#a0ed0e2f70e622fa61c06d491b080209f",tooltip="Get the acceleration (Structural Analysis)."];
+  Node1 -> Node5 [id="edge4_Node000001_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="CFEAVariable::SetSolution\l_Accel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFEAVariable.html#a7fd73a1519146ca878e68c3bd4d47da9",tooltip="Set the value of the acceleration (Structural Analysis)."];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="CFEAVariable::SetSolution\l_Accel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFEAVariable.html#a8ade86f6d338a34609b12499caabe86e",tooltip=" "];
+}

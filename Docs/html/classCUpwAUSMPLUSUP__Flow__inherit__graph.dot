@@ -1,0 +1,12 @@
+digraph "CUpwAUSMPLUSUP_Flow"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  Node1 [id="Node000001",label="CUpwAUSMPLUSUP_Flow",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Class for solving an approximate Riemann AUSM+ -up."];
+  Node2 -> Node1 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CUpwAUSMPLUS_SLAU_Base_Flow",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$classCUpwAUSMPLUS__SLAU__Base__Flow.html",tooltip="Base class for AUSM+up(2) and SLAU(2) convective schemes."];
+  Node3 -> Node2 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CNumerics",height=0.2,width=0.4,color="gray40", fillcolor="white", style="filled",URL="$classCNumerics.html",tooltip="Class for defining the numerical methods."];
+}

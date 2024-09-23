@@ -1,0 +1,17 @@
+digraph "CWindowedAverage::AddValue"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="CWindowedAverage::AddValue",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Adds the instantaneous output of the current iteration to the values-vector, if the current iteration..."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CWindowingTools::GetWndWeight",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCWindowingTools.html#a9129498e6544bd3ebe300d5e10bf0bad",tooltip="Returns the value of a windowing function given by windowId at time-step curTimeIter with given time-..."];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CWindowingTools::BumpWindow",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCWindowingTools.html#a5149e1e6902b4fcb556a25321e527c0e",tooltip="Returns the value of the Bump-window function at time-step i with given end-time endTimeIter."];
+  Node2 -> Node4 [id="edge3_Node000002_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="CWindowingTools::HannSquared\lWindow",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCWindowingTools.html#aca36cc5f9c9a06e49dd524af2a38f4cc",tooltip="Returns the value of the Hann-Square-window function at time-step i with given end-time endTimeIter."];
+  Node2 -> Node5 [id="edge4_Node000002_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="CWindowingTools::HannWindow",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCWindowingTools.html#ae7749f0a71361b2e32b43a2a10a84037",tooltip="Returns the value of the Hann-window function at time-step curTimeIter with given end-time endTimeIte..."];
+}

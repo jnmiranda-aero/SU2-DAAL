@@ -1,0 +1,33 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [id="Node000000",label="CFluidModel",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFluidModel.html",tooltip="Main class for defining the Thermo-Physical Model."];
+  Node0 -> Node1 [id="edge66_Node000000_Node000001",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 [id="Node000001",label="CConstantDensity",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCConstantDensity.html",tooltip="Child class for defining a constant density gas model (incompressible only)."];
+  Node0 -> Node2 [id="edge67_Node000000_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CCoolProp",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCCoolProp.html",tooltip="Child class for defining fluid model from CoolProp library."];
+  Node0 -> Node3 [id="edge68_Node000000_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CDataDrivenFluid",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCDataDrivenFluid.html",tooltip="Template class for fluid model definition using multi-layer perceptrons for fluid dynamic state defin..."];
+  Node0 -> Node4 [id="edge69_Node000000_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="CFluidFlamelet",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFluidFlamelet.html",tooltip=" "];
+  Node0 -> Node5 [id="edge70_Node000000_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="CFluidScalar",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFluidScalar.html",tooltip="Child class for defining an incompressible ideal gas model."];
+  Node0 -> Node6 [id="edge71_Node000000_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="CIdealGas",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCIdealGas.html",tooltip="Child class for defining the ideal gas model."];
+  Node6 -> Node7 [id="edge72_Node000006_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="CPengRobinson",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCPengRobinson.html",tooltip="Child class for defining the Peng-Robinson model."];
+  Node6 -> Node8 [id="edge73_Node000006_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="CVanDerWaalsGas",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCVanDerWaalsGas.html",tooltip="Child class for defining the Van der Waals model."];
+  Node0 -> Node9 [id="edge74_Node000000_Node000009",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="CIncIdealGas",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCIncIdealGas.html",tooltip="Child class for defining an incompressible ideal gas model."];
+  Node0 -> Node10 [id="edge75_Node000000_Node000010",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="CIncIdealGasPolynomial\< N \>",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCIncIdealGasPolynomial.html",tooltip="Child class for defining a custom incompressible ideal gas model."];
+  Node0 -> Node11 [id="edge76_Node000000_Node000011",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="CNEMOGas",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMOGas.html",tooltip="Class for defining the 2T (trans-rotational and vibro-electronic) nonequilibrium gas model."];
+  Node11 -> Node12 [id="edge77_Node000011_Node000012",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="CSU2TCLib",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCSU2TCLib.html",tooltip="Child class for user defined nonequilibrium gas model."];
+}

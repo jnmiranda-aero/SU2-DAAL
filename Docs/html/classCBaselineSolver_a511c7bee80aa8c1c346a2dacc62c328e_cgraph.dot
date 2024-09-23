@@ -1,0 +1,21 @@
+digraph "CBaselineSolver::CBaselineSolver"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="CBaselineSolver::CBaseline\lSolver",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CConfig::GetDynamic_Grid",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCConfig.html#a6352cd90308195b5fc1ba7eab02d46c1",tooltip="Get information about dynamic grids."];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CConfig::GetGrid_Movement",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCConfig.html#a9182d3dbb0b3bfa2ebb944f18795f5ca",tooltip="Get information about the grid movement."];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="CGeometry::GetnDim",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCGeometry.html#ace7f7fe876f629f5bd5f92d4805a1a4b",tooltip="Get number of coordinates."];
+  Node1 -> Node5 [id="edge4_Node000001_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="CGeometry::GetnPoint",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCGeometry.html#a275fb07cd99ab79d7a04b4862280169d",tooltip="Get number of points."];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="CSolver::SetBaseClassPointer\lToNodes",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCSolver.html#ad982896202dae6e41bfd3568f597cf46",tooltip="Call this method to set \"base_nodes\" after the \"nodes\" variable of the derived solver is instantiated..."];
+  Node6 -> Node7 [id="edge6_Node000006_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="CSolver::GetBaseClassPointer\lToNodes",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCSolver.html#ab2e0e1bb48db9207d25bc2679b55439f",tooltip="Pure virtual function, all derived solvers MUST implement a method returning their \"nodes\"."];
+}

@@ -1,0 +1,11 @@
+digraph "CSysMatrix::EnforceSolutionAtNode"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="CSysMatrix::EnforceSolution\lAtNode",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Modifies this matrix (A) and a rhs vector (b) such that (A^-1 * b)_i = x_i."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CSysVector::SetBlock",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCSysVector.html#acceb60ca98fa7ede9520adde322009eb",tooltip="Set \"block\" to the vector."];
+}

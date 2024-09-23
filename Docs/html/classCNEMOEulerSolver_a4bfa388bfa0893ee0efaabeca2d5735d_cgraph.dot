@@ -1,0 +1,19 @@
+digraph "CNEMOEulerSolver::CheckNonPhys"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="CNEMOEulerSolver::CheckNonPhys",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Check for unphysical points."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CNEMOEulerVariable\l::GetAIndex",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMOEulerVariable.html#a655254c35ef7a63d509ab90c288a8e8e",tooltip="Retrieves the value of the soundspeed in the primitive variable vector."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CNEMOEulerVariable\l::GetPIndex",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMOEulerVariable.html#a24cfa7d8f30e0c179e94c2bd147ecb42",tooltip="Retrieves the value of the pressure in the primitive variable vector."];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="CNEMOEulerVariable\l::GetRhosIndex",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMOEulerVariable.html#a18cf86a19d9ee761bd0be1f90bcd2e33",tooltip="Retrieves the value of the species density in the primitive variable vector."];
+  Node1 -> Node5 [id="edge4_Node000001_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="CNEMOEulerVariable\l::GetTIndex",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMOEulerVariable.html#af45e7025f7ed138b4c1e39d6a2521891",tooltip="Retrieves the value of the in temperature the primitive variable vector."];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="CNEMOEulerVariable\l::GetTveIndex",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCNEMOEulerVariable.html#a7738e64c7df199868382c1af97ed9c89",tooltip="Retrieves the value of the vibe-elec temperature in the primitive variable vector."];
+}

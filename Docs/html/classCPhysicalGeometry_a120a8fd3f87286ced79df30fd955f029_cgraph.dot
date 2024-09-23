@@ -1,0 +1,13 @@
+digraph "CPhysicalGeometry::SetWallDistance"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="CPhysicalGeometry::\lSetWallDistance",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Set wall distances a specific value."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CGeometry::GetnPoint",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCGeometry.html#a275fb07cd99ab79d7a04b4862280169d",tooltip="Get number of points."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CPoint::SetWall_Distance",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCPoint.html#acfd5de2b62bf970457f546ba24c03ed4",tooltip="Set the value of the distance to the nearest wall."];
+}

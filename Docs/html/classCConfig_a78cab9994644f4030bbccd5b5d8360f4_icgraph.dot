@@ -1,0 +1,13 @@
+digraph "CConfig::GetKind_RadiationModel"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="CConfig::GetKind_Radiation\lModel",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Get the Kind of Radiation model applied."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CAdjFlowIncOutput::\lCAdjFlowIncOutput",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCAdjFlowIncOutput.html#a115a0683a133a9f88344ee4255488385",tooltip="Constructor of the class."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CAdjFlowIncOutput::\lLoadVolumeData",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCAdjFlowIncOutput.html#ab5f6dd5188bd1d48f03b17c550d98898",tooltip="Set the values of the volume output fields for a point."];
+}

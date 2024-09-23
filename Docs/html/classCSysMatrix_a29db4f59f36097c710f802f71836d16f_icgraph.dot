@@ -1,0 +1,13 @@
+digraph "CSysMatrix::MatrixMatrixAddition"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="CSysMatrix::MatrixMatrix\lAddition",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Add a scaled sparse matrix to \"this\" (axpy-type operation, A = A+alpha*B)."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CFEASolver::GeneralizedAlpha\l_Iteration",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFEASolver.html#a703228b8706352d33f34cc0baf1f9b04",tooltip="Iterate using an implicit Generalized Alpha solver."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CFEASolver::ImplicitNewmark\l_Iteration",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCFEASolver.html#a27e71a93f7f114cc8506f35c2ed957c3",tooltip="Iterate using an implicit Newmark solver."];
+}

@@ -1,0 +1,17 @@
+digraph "CConfig::GetKappa_2nd_AdjFlow"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="CConfig::GetKappa_2nd\l_AdjFlow",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Value of the calibrated constant for the high order method (center scheme)."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CCentJST_AdjFlow::CCentJST\l_AdjFlow",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCCentJST__AdjFlow.html#a7822739aeee9c8ee0f0fd72b28858572",tooltip="Constructor of the class."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CAdjEulerSolver::SetCentered\l_Dissipation_Sensor",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCAdjEulerSolver.html#af1b72ed76900f821d2f51942cb4252db",tooltip="Compute the sensor for higher order dissipation control in rotating problems."];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="CAdjEulerSolver::Preprocessing",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCAdjEulerSolver.html#a64baf8c7af6006bdc4ad0919f7c2507a",tooltip="Initialize the residual vectors."];
+  Node3 -> Node5 [id="edge4_Node000003_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="CAdjNSSolver::Preprocessing",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCAdjNSSolver.html#a0669f6fb8ef7cd7800d151d4aff7d3f6",tooltip="Restart residual and compute gradients."];
+}

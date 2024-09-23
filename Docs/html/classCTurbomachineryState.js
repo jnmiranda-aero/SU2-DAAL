@@ -1,0 +1,26 @@
+var classCTurbomachineryState =
+[
+    [ "CTurbomachineryState", "classCTurbomachineryState.html#aa71f344a220ac9ff935795bbb89ff174", null ],
+    [ "CTurbomachineryState", "classCTurbomachineryState.html#aa5d19840c2be27770007851174942c78", null ],
+    [ "ComputeState", "classCTurbomachineryState.html#a9d68929143e8392efdce0024d0db6711", null ],
+    [ "GetAbsFlowAngle", "classCTurbomachineryState.html#a3348d614c7afc3595690da9bea5afb18", null ],
+    [ "GetDensity", "classCTurbomachineryState.html#a0003170fbc32f1d1a0637ffdff682da7", null ],
+    [ "GetEnthalpy", "classCTurbomachineryState.html#ab5e5176d79867f50a2f0f90719f0e672", null ],
+    [ "GetEntropy", "classCTurbomachineryState.html#acf5ef5989c46786a9f081ef0a81a8672", null ],
+    [ "GetFlowAngle", "classCTurbomachineryState.html#af7829d8c45f3f5adff7beab1dba50e1a", null ],
+    [ "GetMach", "classCTurbomachineryState.html#a8bd0040e80c23a8445f5585f55938d3d", null ],
+    [ "GetMachValue", "classCTurbomachineryState.html#a73d3d6e3b12d3045a77db646a57ea194", null ],
+    [ "GetMassFlow", "classCTurbomachineryState.html#a8f24469e07ff75a5d5b7193fc643b7b3", null ],
+    [ "GetPressure", "classCTurbomachineryState.html#a3a9ea09cf30048fbed08fb470339fbd9", null ],
+    [ "GetRelMachValue", "classCTurbomachineryState.html#a02aa984bcec7768b4c86b08fea04d919", null ],
+    [ "GetRelVelocityValue", "classCTurbomachineryState.html#a9c957bc875b2506d2232ea3ce2d7e24b", null ],
+    [ "GetRothalpy", "classCTurbomachineryState.html#ae8b8096c133941a2a7cfabbe196e7b5f", null ],
+    [ "GetTemperature", "classCTurbomachineryState.html#adb0a6bf4321985285d0bc02b6337d028", null ],
+    [ "GetTotalEnthalpy", "classCTurbomachineryState.html#a5fb0ed974464623acd69eda1cc84da45", null ],
+    [ "GetTotalPressure", "classCTurbomachineryState.html#a39728fdaa6facd3cfc14e61d4d9bfc66", null ],
+    [ "GetTotalRelPressure", "classCTurbomachineryState.html#a71bc4db72ac729a887a5d1ef91e5a94a", null ],
+    [ "GetTotalTemperature", "classCTurbomachineryState.html#a4f36eafa24b55a4fd30f8d3fc6c80f77", null ],
+    [ "GetVelocity", "classCTurbomachineryState.html#a5a48b0420c5362a3e6449835394a2d1a", null ],
+    [ "GetVelocityValue", "classCTurbomachineryState.html#a9b9ad9b5cd46bddfba581da8fc41a0ad", null ],
+    [ "Norm", "classCTurbomachineryState.html#a9f2a05ac334754db020e2e580d8e6117", null ]
+];

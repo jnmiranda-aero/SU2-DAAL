@@ -1,0 +1,13 @@
+digraph "CGeometry::GetCustomBoundaryTemperature"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="CGeometry::GetCustomBoundary\lTemperature",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Get the value of the customized temperature at a specified vertex on a specified marker."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CHeatSolver::BC_Isothermal_Wall",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCHeatSolver.html#a8f1b5ef62ec17b74df8c3f95b6a55e31",tooltip="Impose the Navier-Stokes boundary condition (strong)."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CMultiGridGeometry\l::SetMultiGridWallTemperature",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCMultiGridGeometry.html#a8135342304e8dc5273be74bca8d391fc",tooltip="Set a representative wall temperature of the agglomerated control volume on a particular boundary mar..."];
+}

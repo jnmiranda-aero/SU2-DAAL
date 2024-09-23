@@ -1,0 +1,11 @@
+digraph "CSolver::SetBaseClassPointerToNodes"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="CSolver::SetBaseClassPointer\lToNodes",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Call this method to set \"base_nodes\" after the \"nodes\" variable of the derived solver is instantiated..."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CSolver::GetBaseClassPointer\lToNodes",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCSolver.html#ab2e0e1bb48db9207d25bc2679b55439f",tooltip="Pure virtual function, all derived solvers MUST implement a method returning their \"nodes\"."];
+}

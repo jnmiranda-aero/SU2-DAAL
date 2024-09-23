@@ -1,0 +1,33 @@
+digraph "CConfig::GetVenkat_LimiterCoeff"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="CConfig::GetVenkat\l_LimiterCoeff",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Get the value of limiter coefficient."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="CAdjEulerSolver::Inviscid\l_Sensitivity",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCAdjEulerSolver.html#aa87a2220c946b47cb35c395c035f96e5",tooltip="Compute the inviscid sensitivity of the functional."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CLimiterDetails\< LIMITER\l::VENKATAKRISHNAN \>::preprocess",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$structCLimiterDetails_3_01LIMITER_1_1VENKATAKRISHNAN_01_4.html#ab373c18def32885ee8e8f99370cd69dd",tooltip="Store the reference lenght based eps^2 parameter, limited to a small number to avoid divisions by 0."];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="CLimiterDetails\< LIMITER\l::NISHIKAWA_R3 \>::preprocess",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$structCLimiterDetails_3_01LIMITER_1_1NISHIKAWA__R3_01_4.html#a2b69a5d5b2bed026b17d68410f31803f",tooltip="Store the reference lenght based eps^3 parameter, limited to a small number to avoid divisions by 0."];
+  Node1 -> Node5 [id="edge4_Node000001_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="CLimiterDetails\< LIMITER\l::NISHIKAWA_R4 \>::preprocess",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$structCLimiterDetails_3_01LIMITER_1_1NISHIKAWA__R4_01_4.html#af1c7e1c0cc84b29c17bc8ba3a75a62f2",tooltip="Store the reference lenght based eps^4 parameter, limited to a small number to avoid divisions by 0."];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="CLimiterDetails\< LIMITER\l::NISHIKAWA_R5 \>::preprocess",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$structCLimiterDetails_3_01LIMITER_1_1NISHIKAWA__R5_01_4.html#a8d044831dbfa5389fa720c3897fe2157",tooltip="Store the reference lenght based eps^5 parameter, limited to a small number to avoid divisions by 0."];
+  Node1 -> Node7 [id="edge6_Node000001_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="CLimiterDetails\< LIMITER\l::SHARP_EDGES \>::preprocess",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$structCLimiterDetails_3_01LIMITER_1_1SHARP__EDGES_01_4.html#a9f48bf3efdf7d8b29bed0a9c161d5d6a",tooltip="Store the reference lenght based eps^2 parameter."];
+  Node1 -> Node8 [id="edge7_Node000001_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="CLimiterDetails\< LIMITER\l::WALL_DISTANCE \>::preprocess",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$structCLimiterDetails_3_01LIMITER_1_1WALL__DISTANCE_01_4.html#aa17a6dbcd5f28c7671ba8c23cb183c2e",tooltip="Store the reference lenght based eps^2 parameter."];
+  Node1 -> Node9 [id="edge8_Node000001_Node000009",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="CLimiterDetails\< LIMITER\l::VENKATAKRISHNAN_WANG\l \>::preprocess",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$structCLimiterDetails_3_01LIMITER_1_1VENKATAKRISHNAN__WANG_01_4.html#ab4fab48e0fdc6a53f5969762da2cfd9d",tooltip="Store the solution range based eps^2 parameter."];
+  Node1 -> Node10 [id="edge9_Node000001_Node000010",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="CAdjEulerSolver::SetCentered\l_Dissipation_Sensor",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCAdjEulerSolver.html#af1b72ed76900f821d2f51942cb4252db",tooltip="Compute the sensor for higher order dissipation control in rotating problems."];
+  Node10 -> Node11 [id="edge10_Node000010_Node000011",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="CAdjEulerSolver::Preprocessing",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCAdjEulerSolver.html#a64baf8c7af6006bdc4ad0919f7c2507a",tooltip="Initialize the residual vectors."];
+  Node10 -> Node12 [id="edge11_Node000010_Node000012",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="CAdjNSSolver::Preprocessing",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCAdjNSSolver.html#a0669f6fb8ef7cd7800d151d4aff7d3f6",tooltip="Restart residual and compute gradients."];
+  Node1 -> Node13 [id="edge12_Node000001_Node000013",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node13 [id="Node000013",label="CAdjNSSolver::Viscous\l_Sensitivity",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCAdjNSSolver.html#a6e72f094190680fa7fb078d7aae9c1d8",tooltip="Compute the viscous sensitivity of the functional."];
+}

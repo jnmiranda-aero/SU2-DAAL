@@ -1,0 +1,34 @@
+digraph "gatherVariables"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="gatherVariables",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Gather a single variable from index iPoint of a 1D container."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="addTauWall",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$diffusion_2common_8hpp.html#a18034f0265b5b1ae5e0d31ab09638ba9",tooltip="Scale the stress tensor according to the target (from a wall function) magnitude in the tangential di..."];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="CCompressibleViscousFlux\lBase::viscousTerms",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCCompressibleViscousFluxBase.html#a2feac6faba6a30370c0632c74d6d4cf4",tooltip="Add viscous contributions to flux and jacobians."];
+  Node3 -> Node4 [id="edge3_Node000003_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="CCompressibleViscousFlux\lBase::viscousTerms",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCCompressibleViscousFluxBase.html#a2ed1fc02c008a93e70565d1616aba51c",tooltip=" "];
+  Node3 -> Node5 [id="edge4_Node000003_Node000005",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="CCompressibleViscousFlux\lBase::viscousTerms",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCCompressibleViscousFluxBase.html#a71992376825d66ce25f7363fa7e7932c",tooltip=" "];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="correctedSpectralRadius",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$convection_2common_8hpp.html#acb2cdcd37f4ad8f2257645ef83e29a14",tooltip="Correct spectral radius (avgLambda) for stretching."];
+  Node6 -> Node7 [id="edge6_Node000006_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="CJSTScheme::finalizeFlux",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCJSTScheme.html#a4bd4f4cd489cccd2697dcc1fde96e5e3",tooltip="Updates flux and Jacobians with JST dissipation."];
+  Node6 -> Node8 [id="edge7_Node000006_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node8 [id="Node000008",label="CJSTkeScheme::finalizeFlux",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCJSTkeScheme.html#a86cdc2d09d6855fa779e18ea7e420e1a",tooltip="Updates flux and Jacobians with 2nd order dissipation."];
+  Node6 -> Node9 [id="edge8_Node000006_Node000009",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node9 [id="Node000009",label="CLaxScheme::finalizeFlux",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCLaxScheme.html#a39d574480ed9d472b2d78fe66db4e1f4",tooltip="Updates flux and Jacobians with 1st order scalar dissipation."];
+  Node1 -> Node10 [id="edge9_Node000001_Node000010",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node10 [id="Node000010",label="CJSTmatScheme::finalizeFlux",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCJSTmatScheme.html#a00ef231fc9b1fdb423150f7c0562ef05",tooltip="Updates flux and Jacobians."];
+  Node1 -> Node7 [id="edge10_Node000001_Node000007",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node8 [id="edge11_Node000001_Node000008",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node1 -> Node11 [id="edge12_Node000001_Node000011",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node11 [id="Node000011",label="roeDissipation",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$convection_2common_8hpp.html#ace8930cad0d705041be1739978374cae",tooltip="(Low) Dissipation coefficient for Roe schemes."];
+  Node11 -> Node12 [id="edge13_Node000011_Node000012",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node12 [id="Node000012",label="CRoeScheme::finalizeFlux",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classCRoeScheme.html#aebe2600096cab484748c0a9df38fb2ab",tooltip="Updates flux and Jacobians with standard Roe dissipation."];
+  Node1 -> Node3 [id="edge14_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+}
