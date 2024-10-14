@@ -133,7 +133,8 @@ private:
   Sens_Remove_Sharp,        /*!< \brief Flag for removing or not the sharp edges from the sensitivity computation. */
   Hold_GridFixed,           /*!< \brief Flag hold fixed some part of the mesh during the deformation. */
   Axisymmetric,             /*!< \brief Flag for axisymmetric calculations */
-  Integrated_HeatFlux;      /*!< \brief Flag for heat flux BC whether it deals with integrated values.*/
+  Integrated_HeatFlux,      /*!< \brief Flag for heat flux BC whether it deals with integrated values.*/
+  Transpiration_Objective;  /*!< \brief Flag for adding transpiration objective.*/ /*from feature_transpiration*/
   su2double Buffet_k;       /*!< \brief Sharpness coefficient for buffet sensor.*/
   su2double Buffet_lambda;  /*!< \brief Offset parameter for buffet sensor.*/
   su2double Damp_Engine_Inflow;   /*!< \brief Damping factor for the engine inlet. */
@@ -218,13 +219,14 @@ private:
   nMarker_Internal,               /*!< \brief Number of internal flow markers. */
   nMarker_All,                    /*!< \brief Total number of markers using the grid information. */
   nMarker_Max,                    /*!< \brief Max number of number of markers using the grid information. */
-  nMarker_CfgFile;                /*!< \brief Total number of markers using the config file (note that in
+  nMarker_CfgFile,                /*!< \brief Total number of markers using the config file (note that in
                                         parallel computations this number can be different from nMarker_All). */
+  nMarker_Transpiration;          /*!< \brief Number of transpiration markers. */ /*from feature_transpiration*/                                      
 
-  bool Inlet_From_File;         /*!< \brief True if the inlet profile is to be loaded from a file. */
-  string Inlet_Filename;        /*!< \brief Filename specifying an inlet profile. */
-  su2double Inlet_Matching_Tol; /*!< \brief Tolerance used when matching a point to a point from the inlet file. */
-  string ActDisk_FileName;      /*!< \brief Filename specifying an actuator disk. */
+  bool Inlet_From_File;           /*!< \brief True if the inlet profile is to be loaded from a file. */
+  string Inlet_Filename;          /*!< \brief Filename specifying an inlet profile. */
+  su2double Inlet_Matching_Tol;   /*!< \brief Tolerance used when matching a point to a point from the inlet file. */
+  string ActDisk_FileName;        /*!< \brief Filename specifying an actuator disk. */
 
   string *Marker_Euler,           /*!< \brief Euler wall markers. */
   *Marker_FarField,               /*!< \brief Far field markers. */
@@ -271,7 +273,8 @@ private:
   *Marker_Disp_Dir,               /*!< \brief Load markers defined in cartesian coordinates. */
   *Marker_Load_Sine,              /*!< \brief Sine-wave loaded markers defined in cartesian coordinates. */
   *Marker_Internal,               /*!< \brief Internal flow markers. */
-  *Marker_All_TagBound;           /*!< \brief Global index for markers using grid information. */
+  *Marker_All_TagBound,           /*!< \brief Global index for markers using grid information. */
+  *Marker_Transpiration;          /*!< \brief Number of transpiration markers. */ /*from feature_transpiration*/
 
   su2double *Exhaust_Temperature_Target;     /*!< \brief Specified total temperatures for nacelle boundaries. */
   su2double *Exhaust_Pressure_Target;        /*!< \brief Specified total pressures for nacelle boundaries. */
@@ -396,6 +399,21 @@ private:
   su2double **Periodic_RotCenter;            /*!< \brief Rotational center for each periodic boundary. */
   su2double **Periodic_RotAngles;            /*!< \brief Rotation angles for each periodic boundary. */
   su2double **Periodic_Translation;          /*!< \brief Translation vector for each periodic boundary. */
+  su2double *TransEps;                       /*!< \brief Specified wall transpirations. */ /*from feature_transpiration*/
+  su2double *Transx0,                        /*!< \brief Specified wall transpiration parameter x0. */ /*from feature_transpiration*/
+            *Transx1,                        /*!< \brief Specified wall transpiration parameter x1. */ /*from feature_transpiration*/
+            *Transx2,                        /*!< \brief Specified wall transpiration parameter x2. */ /*from feature_transpiration*/
+            *Transx3,                        /*!< \brief Specified wall transpiration parameter x3. */ /*from feature_transpiration*/
+            *Transy0,                        /*!< \brief Specified wall transpiration parameter y0. */ /*from feature_transpiration*/
+            *Transy1,                        /*!< \brief Specified wall transpiration parameter y1. */ /*from feature_transpiration*/
+            *Transy2,                        /*!< \brief Specified wall transpiration parameter y2. */ /*from feature_transpiration*/
+            *Transy3,                        /*!< \brief Specified wall transpiration parameter y3. */ /*from feature_transpiration*/
+            *TransEps0,                      /*!< \brief Specified wall transpiration parameter eps0. */ /*from feature_transpiration*/
+            *TransEps1,                      /*!< \brief Specified wall transpiration parameter eps1. */ /*from feature_transpiration*/
+            *TransEps2,                      /*!< \brief Specified wall transpiration parameter eps2. */ /*from feature_transpiration*/
+            *TransEps3;                      /*!< \brief Specified wall transpiration parameter eps3. */ /*from feature_transpiration*/
+  string Transpiration_FileName;             /*!< \brief File specifying all transpiration values for each node */ /*from feature_transpiration*/
+    
   string *Marker_CfgFile_TagBound;           /*!< \brief Global index for markers using config file. */
   unsigned short *Marker_All_KindBC,         /*!< \brief Global index for boundaries using grid information. */
   *Marker_CfgFile_KindBC;                    /*!< \brief Global index for boundaries using config file. */
@@ -1337,6 +1355,17 @@ private:
 
   void addStringDoubleListOption(const string& name, unsigned short & list_size, string * & string_field,
                                  su2double* & double_field);
+
+  void addTranspParamOption(const string name, unsigned short & nMarker_Transpiration, string * & Marker_Transpiration,
+                            su2double* & x0, su2double* & x1, su2double* & x2, su2double* & x3,
+                            su2double* & y0, su2double* & y1, su2double* & y2, su2double* & y3,
+                            su2double* & eps0, su2double* & eps1, su2double* & eps2, su2double* & eps3);
+    //{
+    // assert(option_map.find(name) == option_map.end());
+    // all_options.insert(pair<string, bool>(name, true));
+    // COptionBase* val = new COptionTransp(name, nMarker_Transpiration, Marker_Transpiration, x0, x1, x2, x3, y0, y1, y2, y3, eps0, eps1, eps2, eps3);
+    // option_map.insert(pair<string, COptionBase *>(name, val));
+  //}                                   
 
   void addInletOption(const string& name, unsigned short & nMarker_Inlet, string * & Marker_Inlet,
                       su2double* & Ttotal, su2double* & Ptotal, su2double** & FlowDir);
@@ -3043,6 +3072,12 @@ public:
    * \return Total number of boundary markers.
    */
   unsigned short GetnMarker_NearFieldBound(void) const { return nMarker_NearFieldBound; }
+
+  /*!
+   * \brief Get the total number of transpiration markers.
+   * \return Total number of moving markers.
+   */
+  unsigned short GetnMarker_Transpiration(void); /*from feature_transpiration*/
 
   /*!
    * \brief Get the total number of deformable markers at the boundary.
@@ -6244,6 +6279,19 @@ public:
   unsigned short GetDesign_Variable(unsigned short val_dv) const { return Design_Variable[val_dv]; }
 
   /*!
+   * \brief Obtain the marker of a transpiration DV.
+   * \param[in] val_dv - Number of the design variable that we want to read.
+   * \return Transpiration boundary identification.
+   */
+  string GetTranspTag(unsigned short val_dv); /*from feature_transpiration*/
+
+  /*!
+   * \brief Provides the transpiration objective information.
+   * \return Transpiration objective information, if <code>TRUE</code> then the code will add the jet blowing coefficient to the objective.
+   */
+  bool GetTranspiration_Objective(void); /*from feature_transpiration*/
+
+  /*!
    * \brief Get the buffet sensor sharpness coefficient.
    * \return Sharpness coefficient for buffet sensor.
    */
@@ -7062,6 +7110,26 @@ public:
    * \return The heat flux.
    */
   su2double GetWall_HeatFlux(const string& val_index) const;
+
+  /*!
+   * \brief Get the wall transpiration parameters.
+   * \param[in] val_index - Index corresponding to the transpiration boundary.
+   */
+  void GetTranspirationParams(string val_marker, su2double &x0, su2double &x1, su2double &x2, su2double &x3,
+                              su2double &y0, su2double &y1, su2double &y2, su2double &y3,
+                              su2double &eps0, su2double &eps1, su2double &eps2, su2double &eps3); /*from feature_transpiration*/
+
+  /*!
+   * \brief Set the transpiration params using DV values.
+   * \param[in] val_index - Index corresponding to the transpiration boundary.
+   */
+  void SetTranspirationParams_DV(); /*from feature_transpiration*/
+
+  /*!
+   * \brief Get the name of file containing all transpirations
+   * \return The transpiration
+   */
+  inline string GetTranspirationFileName(); /*from feature_transpiration*/
 
   /*!
    * \brief Get the heat transfer coefficient on a heat transfer boundary.
