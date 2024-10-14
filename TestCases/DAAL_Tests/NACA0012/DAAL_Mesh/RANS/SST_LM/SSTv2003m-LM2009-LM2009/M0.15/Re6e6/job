@@ -24,7 +24,11 @@ CONFIG=$(awk '/CONFIG / {print $3;}' "$setupFilename")
 cfgFilename=config_$NAME'_'A$AOA'_'M$M'_'Re$Re'_'$CONFIG.cfg
 logFilename=log_$NAME'_'A$AOA'_'M$M'_'Re$Re'_'$CONFIG.log
 
+FULL_BEANS="--use-hwthread-cpus"
+SOME_BEANS="-np 6"
+
 mv config*.cfg config_$NAME'_'A$AOA'_'M$M'_'Re$Re'_'$CONFIG.cfg
+
 
 #mv $logFilename $logFilename`ls $$logFilename* | wc -l`
 
@@ -35,7 +39,10 @@ echo Node List: $SLURM_JOB_NODELIST
 #/software/su2/8.0.0/ucdhpc-20.04/bin/SU2_CFD $cfgFilename 2>&1 | tee $logFilename
 # mpirun -n 128 /software/su2/8.0.0/ucdhpc-20.04/bin/SU2_CFD $cfgFilename 2>&1 | tee $logFilename
 # srun -n $SLURM_NTASKS /software/su2/8.0.0/ucdhpc-20.04/bin/SU2_CFD $cfgFilename 2>&1 | tee $logFilename
-
 # mpirun -n 6 SU2_CFD $cfgFilename 2>&1 | tee $logFilename
 
-mpirun -np 6 SU2_CFD testConfig.cfg 2>&1 | tee $logFilename
+mpirun $SOME_BEANS SU2_CFD testConfig.cfg 2>&1 | tee $logFilename
+
+mpirun $FULL_BEANS SU2_SOL testConfig.cfg 2>&1
+
+# SU2_CFD testConfig.cfg 2>&1 | tee $logFilename 
