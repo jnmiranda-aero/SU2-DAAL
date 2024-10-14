@@ -1486,6 +1486,70 @@ class COptionExhaust : public COptionBase {
   void SetDefault() override {}
 };
 
+class COptionTransp : public COptionBase { // no idea if this will work tbh
+  /*this whole definition is based on feature_transpiration but following the new format */ 
+  string name; 
+  unsigned short& nMarker_Transpiration;
+  string*& Marker_Transpiration;
+  su2double*& x0;
+  su2double*& x1;
+  su2double*& x2;
+  su2double*& x3;
+  su2double*& y0;
+  su2double*& y1;
+  su2double*& y2;
+  su2double*& y3;
+  su2double*& eps0;
+  su2double*& eps1;
+  su2double*& eps2;
+  su2double*& eps3;
+
+public:
+  COptionTransp(string option_field_name, unsigned short& nMarker, string*& Marker,
+                su2double*& x_0, su2double*& x_1, su2double*& x_2, su2double*& x_3,
+                su2double*& y_0, su2double*& y_1, su2double*& y_2, su2double*& y_3,
+                su2double*& eps_0, su2double*& eps_1, su2double*& eps_2, su2double*& eps_3)
+              : name(option_field_name), nMarker_Transpiration(nMarker), Marker_Transpiration(Marker),
+                x0(x_0), x1(x_1), x2(x_2), x3(x_3), y0(y_0), y1(y_1), y2(y_2), y3(y_3),
+                eps0(eps_0), eps1(eps_1), eps2(eps_2), eps3(eps_3) {
+    nMarker = 0;
+    Marker  = nullptr;
+    x0   = x1   = x2   = x3   = nullptr;
+    y0   = y1   = y2   = y3   = nullptr;
+    eps0 = eps1 = eps2 = eps3 = nullptr;
+  }
+
+  ~COptionTransp() {
+    delete[] Marker_Transpiration;
+    delete[] x0;
+    delete[] x1;
+    delete[] x2;
+    delete[] x3;
+    delete[] y0;
+    delete[] y1;
+    delete[] y2;
+    delete[] y3;
+    delete[] eps0;
+    delete[] eps1;
+    delete[] eps2;
+    delete[] eps3;
+  }
+
+  string SetValue(const vector<string>& option_value) override {
+    COptionBase::SetValue(option_value);
+
+    // Logic to parse option_value and populate Marker_Transpiration, x0, y0, eps0, etc.
+    if (option_value.empty()) {
+      return name + ": no values provided";
+    }
+
+    // Set transpiration markers and parameters from the option_value vector
+    // This is where you parse the configuration file values and assign them to your variables.
+
+    return "";
+  }
+};
+
 class COptionPeriodic : public COptionBase {
   string name;  // identifier for the option
   unsigned short& size;
