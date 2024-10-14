@@ -2,8 +2,8 @@
 <img width="250" height="154" src="Docs/logoSU2small.png">
 </p>
 
-# SU2 (ver. 8.1.0 "Harrier"): The Open-Source CFD Code - DAAL Fork
-
+# SU2 (ver. 8.1.0 "Harrier"): The Open-Source CFD Code
+# DAAL Fork - Davis Applied Aerodynamics Lab - University of California, Davis
 Computational analysis tools have revolutionized the way we design engineering systems, but most established codes are proprietary, unavailable, or prohibitively expensive for many users. The SU2 team is changing this, making multiphysics analysis and design optimization freely available as open-source software and involving everyone in its creation and development.
 
 For an overview of the technical details in SU2, please see the following AIAA Journal article:
