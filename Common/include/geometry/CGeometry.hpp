@@ -80,19 +80,17 @@ class CGeometry {
   const int size{SINGLE_NODE}; /*!< \brief MPI Size. */
   const int rank{MASTER_NODE}; /*!< \brief MPI Rank. */
 
-  unsigned long nPoint{0}, /*!< \brief Number of points of the mesh. */
-      nPointDomain{0},     /*!< \brief Number of real points of the mesh. */
-      nPointGhost{0},      /*!< \brief Number of ghost points of the mesh. */
-      Global_nPoint{0},    /*!< \brief Total number of nodes in a simulation across all processors (including halos). */
-      Global_nPointDomain{
-          0},          /*!< \brief Total number of nodes in a simulation across all processors (excluding halos). */
-      nElem{0},        /*!< \brief Number of elements of the mesh. */
-      Global_nElem{0}, /*!< \brief Total number of elements in a simulation across all processors (all types). */
-      Global_nElemDomain{
-          0},        /*!< \brief Total number of elements in a simulation across all processors (excluding halos). */
-      nEdge{0},      /*!< \brief Number of edges of the mesh. */
-      nFace{0},      /*!< \brief Number of faces of the mesh. */
-      nelem_edge{0}, /*!< \brief Number of edges in the mesh. */
+  unsigned long nPoint{0},     /*!< \brief Number of points of the mesh. */
+      nPointDomain{0},         /*!< \brief Number of real points of the mesh. */
+      nPointGhost{0},          /*!< \brief Number of ghost points of the mesh. */
+      Global_nPoint{0},        /*!< \brief Total number of nodes in a simulation across all processors (including halos). */
+      Global_nPointDomain{0},  /*!< \brief Total number of nodes in a simulation across all processors (excluding halos). */
+      nElem{0},                /*!< \brief Number of elements of the mesh. */
+      Global_nElem{0},         /*!< \brief Total number of elements in a simulation across all processors (all types). */
+      Global_nElemDomain{0},   /*!< \brief Total number of elements in a simulation across all processors (excluding halos). */
+      nEdge{0},                /*!< \brief Number of edges of the mesh. */
+      nFace{0},                /*!< \brief Number of faces of the mesh. */
+      nelem_edge{0},           /*!< \brief Number of edges in the mesh. */
       Global_nelem_edge{0},       /*!< \brief Total number of edges in the mesh across all processors. */
       nelem_triangle{0},          /*!< \brief Number of triangles in the mesh. */
       Global_nelem_triangle{0},   /*!< \brief Total number of triangles in the mesh across all processors. */
@@ -109,8 +107,7 @@ class CGeometry {
       nelem_edge_bound{0},        /*!< \brief Number of edges on the mesh boundaries. */
       Global_nelem_edge_bound{0}, /*!< \brief Total number of edges on the mesh boundaries across all processors. */
       nelem_triangle_bound{0},    /*!< \brief Number of triangles on the mesh boundaries. */
-      Global_nelem_triangle_bound{
-          0},                     /*!< \brief Total number of triangles on the mesh boundaries across all processors. */
+      Global_nelem_triangle_bound{0}, /*!< \brief Total number of triangles on the mesh boundaries across all processors. */
       nelem_quad_bound{0},        /*!< \brief Number of quads on the mesh boundaries. */
       Global_nelem_quad_bound{0}, /*!< \brief Total number of quads on the mesh boundaries across all processors. */
       nNonconvexElements{0};      /*!< \brief Number of nonconvex elements in the mesh. */
