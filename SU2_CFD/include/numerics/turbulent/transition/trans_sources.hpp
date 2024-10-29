@@ -43,7 +43,7 @@ class CSourcePieceWise_TransLM final : public CNumerics {
   const LM_ParsedOptions options;
 
   /*--- LM Closure constants ---*/
-  const su2double c_e1 = 1.0;
+  const su2double c_e1 = 10; //change this back to 1.0
   const su2double c_a1 = 2.0;
   const su2double c_e2 = 50.0;
   const su2double c_a2 = 0.06;
@@ -116,10 +116,10 @@ class CSourcePieceWise_TransLM final : public CNumerics {
     const su2double Velocity_Mag = sqrt(vel_u * vel_u + vel_v * vel_v + vel_w * vel_w);
 
 // ========================================================================================================================================================================
-    const su2double Density_i           = V_i[idx.Density()];
-    const su2double Pressure_i          = V_i[idx.Pressure()];
-    const su2double Laminar_Viscosity_i = V_i[idx.LaminarViscosity()];
-    const su2double Eddy_Viscosity_i    = V_i[idx.EddyViscosity()];
+//    const su2double Density_i           = V_i[idx.Density()];
+    su2double Pressure_i          = V_i[idx.Pressure()];
+//    const su2double Laminar_Viscosity_i = V_i[idx.LaminarViscosity()];
+//   const su2double Eddy_Viscosity_i    = V_i[idx.EddyViscosity()];
 
     const su2double Gamma           = config->GetGamma();
     const su2double Gas_Constant    = config->GetGas_Constant();
@@ -165,22 +165,21 @@ class CSourcePieceWise_TransLM final : public CNumerics {
     // //========================================================================================================================================================================
     // //
 
-    const su2double Velocity_BLEdge = sqrt(Vel_inf_Mag*Vel_inf_Mag + ((2.0 * Gamma) / (Gamma - 1.0)) * (1.0 - pow(Pressure_i / Pressure_inf, (1.0 - (1.0 / Gamma)))) * (Pressure_i / Pressure_inf));
-    const su2double Speed_of_Sound_BLEdge = sqrt(Gamma * Gas_Constant * Temperature_Inf * pow(Pressure_i / Pressure_inf, ((1.0 - Gamma) / Gamma)));
-    const su2double Mach_BLEdge = Velocity_BLEdge / Speed_of_Sound_BLEdge;
-    const su2double C_Me = 1.0 - 0.06124 * Mach_BLEdge
+    AD::SetPreaccIn(V_i[idx.Density()], V_i[idx.LaminarViscosity()], V_i[idx.EddyViscosity()]);
+    Density_i = V_i[idx.Density()];
+    Laminar_Viscosity_i = V_i[idx.LaminarViscosity()];
+    Eddy_Viscosity_i = V_i[idx.EddyViscosity()];
+
+    su2double Velocity_BLEdge = sqrt(Vel_inf_Mag*Vel_inf_Mag + ((2.0 * Gamma) / (Gamma - 1.0)) * (1.0 - pow(Pressure_i / Pressure_inf, (1.0 - (1.0 / Gamma)))) * (Pressure_i / Density_inf));
+    su2double Speed_of_Sound_BLEdge = sqrt(Gamma * Gas_Constant * Temperature_Inf * pow(Pressure_i / Pressure_inf, ((1.0 - Gamma) / Gamma)));
+    su2double Mach_BLEdge = Velocity_BLEdge / Speed_of_Sound_BLEdge;
+    su2double C_Me = 1.0 - 0.06124 * Mach_BLEdge
                           + 0.2402 * pow(Mach_BLEdge, 2)
                           - 0.00346 * pow(Mach_BLEdge, 3);
 
-    const su2double f_Me = 1.0105 - 0.3046 * Mach_BLEdge
+    su2double f_Me = 1.0105 - 0.3046 * Mach_BLEdge
                           + 1.1646 * pow(Mach_BLEdge, 2)
                           - 0.3605 * pow(Mach_BLEdge, 3);
-
-    AD::SetPreaccIn(V_i[idx.Density()], V_i[idx.LaminarViscosity()], V_i[idx.EddyViscosity()]);
-
-    // Density_i = V_i[idx.Density()];
-    // Laminar_Viscosity_i = V_i[idx.LaminarViscosity()];
-    // Eddy_Viscosity_i = V_i[idx.EddyViscosity()];
 
     Residual[0] = 0.0;
     Residual[1] = 0.0;
@@ -201,12 +200,12 @@ class CSourcePieceWise_TransLM final : public CNumerics {
       // const su2double Corr_Rec_comp = Corr_Rec / C_Me; // this isnt really needed anymore as it would require modifying this in other places of the code. Instead correction is applied in the correlations- just remember that this is no longer the OG Corr_Rec but the compressible one
         // Compute Corr_Rec and apply compressibility correction
       
-      const su2double Corr_Rec_uncorrected = TransCorrelations.ReThetaC_Correlations(Tu, TransVar_i[1]);
-      const su2double Corr_Rec = Corr_Rec_uncorrected / C_Me;
+      su2double Corr_Rec_uncorrected = TransCorrelations.ReThetaC_Correlations(Tu, TransVar_i[1]);
+      su2double Corr_Rec = Corr_Rec_uncorrected / C_Me;
 
       /*--- F_length correlation*/
       // const su2double Corr_F_length = TransCorrelations.FLength_Correlations(config, Tu, TransVar_i[1]);
-      const su2double Corr_F_length = TransCorrelations.FLength_Correlations(Tu, TransVar_i[1]);
+      su2double Corr_F_length = TransCorrelations.FLength_Correlations(Tu, TransVar_i[1]);
 
       /*--- F_length ---*/
       su2double F_length = 0.0;
@@ -376,9 +375,9 @@ class CSourcePieceWise_TransLM final : public CNumerics {
       const su2double Dg = c_a2 * Density_i * VorticityMag * TransVar_i[0] * f_turb * (c_e2 * TransVar_i[0] - 1.0);
 
       /*-- production term of ReThetaT --*/
-      su2double Corr_Ret_comp = Corr_Ret * f_Me;
+      su2double Corr_Ret_comp = Corr_Ret * f_Me/100; // remove the /100
       // const su2double PRethetat = c_theta * Density_i / time_scale * (Corr_Ret - TransVar_i[1]) * (1.0 - f_theta);
-      const su2double PRethetat = c_theta * Density_i / time_scale * (Corr_Ret_comp - TransVar_i[1]) * (1.0 - f_theta); // compressibility correction to Re_theta_t added
+      su2double PRethetat = c_theta * Density_i / time_scale * (Corr_Ret_comp - TransVar_i[1]) * (1.0 - f_theta); // compressibility correction to Re_theta_t added
 
       /*-- destruction term of ReThetaT --*/
       // It should not be with the minus sign but I put for consistency

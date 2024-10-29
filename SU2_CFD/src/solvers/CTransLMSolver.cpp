@@ -209,6 +209,7 @@ void CTransLMSolver::Postprocessing(CGeometry *geometry, CSolver **solver_contai
     const su2double Temperature_inf = config->GetTemperature_FreeStream();
 
     const su2double rho             = flowNodes->GetDensity(iPoint);
+    const su2double Pressure_i      = flowNodes->GetPressure(iPoint);
     const su2double mu              = flowNodes->GetLaminarViscosity(iPoint);
     const su2double muT             = turbNodes->GetmuT(iPoint);
     const su2double dist            = geometry->nodes->GetWall_Distance(iPoint);
@@ -226,14 +227,14 @@ void CTransLMSolver::Postprocessing(CGeometry *geometry, CSolver **solver_contai
     su2double omega                 = 0.0;
     su2double k                     = 0.0;
 
-    const su2double Velocity_BLEdge = sqrt(Vel_inf_Mag * Vel_inf_Mag + ((2 * Gamma) / (Gamma - 1)) * (1 - pow(Pressure_inf / Pressure_inf, (1 - (1 / Gamma)))) * (Pressure_inf / Density_inf));  // pressure? 
-    const su2double Speed_of_Sound_BLEdge = sqrt((Gamma * Gas_Constant * Temperature_inf) * pow(Pressure_inf / Pressure_inf, ((1 - Gamma) / Gamma)));
+    su2double Velocity_BLEdge = 1000*sqrt(VelocityMag * VelocityMag + ((2 * Gamma) / (Gamma - 1)) * (1 - pow(Pressure_i / Pressure_inf, (1 - (1 / Gamma)))) * (Pressure_i / Density_inf));  // pressure? 
+    su2double Speed_of_Sound_BLEdge = sqrt((Gamma * Gas_Constant * Temperature_inf) * pow(Pressure_i / Pressure_inf, ((1 - Gamma) / Gamma)));
 
     // Calculate Mach Number at Boundary Layer Edge
-    const su2double Mach_BLEdge = Velocity_BLEdge / Speed_of_Sound_BLEdge;
+    su2double Mach_BLEdge = Velocity_BLEdge / Speed_of_Sound_BLEdge;
 
     // Compute Compressibility Correction Factor
-    const su2double C_Me = 1.0 - 0.06124 * Mach_BLEdge + 0.2402 * pow(Mach_BLEdge, 2) - 0.00346 * pow(Mach_BLEdge, 3);
+    su2double C_Me = 1.0 - 0.06124 * Mach_BLEdge + 0.2402 * pow(Mach_BLEdge, 2) - 0.00346 * pow(Mach_BLEdge, 3);
 
     if(TurbFamily == TURB_FAMILY::KW){
       omega = turbNodes->GetSolution(iPoint,1);
@@ -248,10 +249,10 @@ void CTransLMSolver::Postprocessing(CGeometry *geometry, CSolver **solver_contai
     // const su2double Re_theta_t = nodes->GetSolution(iPoint,1);
     // const su2double Corr_Rec = TransCorrelations.ReThetaC_Correlations(Tu, Re_theta_t);
     
-    const su2double Corr_Rec = TransCorrelations.ReThetaC_Correlations(Tu, Re_t);
+    su2double Corr_Rec = TransCorrelations.ReThetaC_Correlations(Tu, Re_t);
 
     // Apply the compressibility correction
-    const su2double Corr_Rec_Corrected = Corr_Rec / C_Me;
+    su2double Corr_Rec_Corrected = Corr_Rec / C_Me;
 
     su2double R_t = 1.0;
     if(TurbFamily == TURB_FAMILY::KW)
