@@ -36,17 +36,17 @@
  * \ingroup Turbulence_Model
  * \author A. Aranake, S. Kang.
  */
-
-template <class FlowIndices>
 class CTransLMSolver final : public CTurbSolver {
 private:
 
   LM_ParsedOptions options;
   TURB_FAMILY TurbFamily;
 
+  TransLMCorrelations TransCorrelations;
+
   // TransLMCorrelations TransCorrelations;
-  TransLMCorrelations<FlowIndices> TransCorrelations;
-  CTransLMSolver(const FlowIndices& idx) : TransCorrelations(idx) {}
+  // TransLMCorrelations<FlowIndices> TransCorrelations;
+  // CTransLMSolver(const FlowIndices& idx) : TransCorrelations(idx) {}
 
 public:
   /*!

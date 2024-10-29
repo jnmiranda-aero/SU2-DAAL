@@ -200,23 +200,41 @@ void CTransLMSolver::Postprocessing(CGeometry *geometry, CSolver **solver_contai
 
     // Here the nodes already have the new solution, thus I have to compute everything from scratch
 
-    const su2double rho = flowNodes->GetDensity(iPoint);
-    const su2double mu  = flowNodes->GetLaminarViscosity(iPoint);
-    const su2double muT = turbNodes->GetmuT(iPoint);
-    const su2double dist = geometry->nodes->GetWall_Distance(iPoint);
-    su2double VorticityMag = GeometryToolbox::Norm(3, flowNodes->GetVorticity(iPoint));
-    su2double StrainMag =flowNodes->GetStrainMag(iPoint);
-    VorticityMag = max(VorticityMag, 1e-12);
-    StrainMag = max(StrainMag, 1e-12); // safety against division by zero
-    const su2double Intermittency = nodes->GetSolution(iPoint,0);
-    const su2double Re_t = nodes->GetSolution(iPoint,1);
-    const su2double Re_v = rho*dist*dist*StrainMag/mu;
-    const su2double vel_u = flowNodes->GetVelocity(iPoint, 0);
-    const su2double vel_v = flowNodes->GetVelocity(iPoint, 1);
-    const su2double vel_w = (nDim ==3) ? flowNodes->GetVelocity(iPoint, 2) : 0.0;
-    const su2double VelocityMag = sqrt(vel_u*vel_u + vel_v*vel_v + vel_w*vel_w);
-    su2double omega = 0.0;
-    su2double k = 0.0;
+    const su2double Gamma           = config->GetGamma();
+    const su2double Gas_Constant    = config->GetGas_Constant();
+    const su2double* vel_inf        = config->GetVelocity_FreeStream();
+    const su2double Vel_inf_Mag     = sqrt(vel_inf[0]*vel_inf[0] + vel_inf[1]*vel_inf[1] + vel_inf[2]*vel_inf[2]);
+    const su2double Density_inf     = config->GetDensity_FreeStream();
+    const su2double Pressure_inf    = config->GetPressure_FreeStream();
+    const su2double Temperature_inf = config->GetTemperature_FreeStream();
+
+    const su2double rho             = flowNodes->GetDensity(iPoint);
+    const su2double mu              = flowNodes->GetLaminarViscosity(iPoint);
+    const su2double muT             = turbNodes->GetmuT(iPoint);
+    const su2double dist            = geometry->nodes->GetWall_Distance(iPoint);
+    su2double VorticityMag          = GeometryToolbox::Norm(3, flowNodes->GetVorticity(iPoint));
+    su2double StrainMag             = flowNodes->GetStrainMag(iPoint);
+    VorticityMag                    = max(VorticityMag, 1e-12);
+    StrainMag                       = max(StrainMag, 1e-12); // safety against division by zero
+    const su2double Intermittency   = nodes->GetSolution(iPoint,0);
+    const su2double Re_t            = nodes->GetSolution(iPoint,1);
+    const su2double Re_v            = rho*dist*dist*StrainMag/mu;
+    const su2double vel_u           = flowNodes->GetVelocity(iPoint, 0);
+    const su2double vel_v           = flowNodes->GetVelocity(iPoint, 1);
+    const su2double vel_w           = (nDim ==3) ? flowNodes->GetVelocity(iPoint, 2) : 0.0;
+    const su2double VelocityMag     = sqrt(vel_u*vel_u + vel_v*vel_v + vel_w*vel_w);
+    su2double omega                 = 0.0;
+    su2double k                     = 0.0;
+
+    const su2double Velocity_BLEdge = sqrt(Vel_inf_Mag * Vel_inf_Mag + ((2 * Gamma) / (Gamma - 1)) * (1 - pow(Pressure_inf / Pressure_inf, (1 - (1 / Gamma)))) * (Pressure_inf / Density_inf));  // pressure? 
+    const su2double Speed_of_Sound_BLEdge = sqrt((Gamma * Gas_Constant * Temperature_inf) * pow(Pressure_inf / Pressure_inf, ((1 - Gamma) / Gamma)));
+
+    // Calculate Mach Number at Boundary Layer Edge
+    const su2double Mach_BLEdge = Velocity_BLEdge / Speed_of_Sound_BLEdge;
+
+    // Compute Compressibility Correction Factor
+    const su2double C_Me = 1.0 - 0.06124 * Mach_BLEdge + 0.2402 * pow(Mach_BLEdge, 2) - 0.00346 * pow(Mach_BLEdge, 3);
+
     if(TurbFamily == TURB_FAMILY::KW){
       omega = turbNodes->GetSolution(iPoint,1);
       k = turbNodes->GetSolution(iPoint,0);
@@ -227,7 +245,13 @@ void CTransLMSolver::Postprocessing(CGeometry *geometry, CSolver **solver_contai
     if(TurbFamily == TURB_FAMILY::SA)
       Tu = config->GetTurbulenceIntensity_FreeStream()*100;
 
+    // const su2double Re_theta_t = nodes->GetSolution(iPoint,1);
+    // const su2double Corr_Rec = TransCorrelations.ReThetaC_Correlations(Tu, Re_theta_t);
+    
     const su2double Corr_Rec = TransCorrelations.ReThetaC_Correlations(Tu, Re_t);
+
+    // Apply the compressibility correction
+    const su2double Corr_Rec_Corrected = Corr_Rec / C_Me;
 
     su2double R_t = 1.0;
     if(TurbFamily == TURB_FAMILY::KW)
@@ -236,7 +260,7 @@ void CTransLMSolver::Postprocessing(CGeometry *geometry, CSolver **solver_contai
       R_t = muT/ mu;
 
     const su2double f_reattach = exp(-pow(R_t/20,4));
-    su2double f_wake = 0.0;
+    su2double f_wake           = 0.0;
     if(TurbFamily == TURB_FAMILY::KW){
       const su2double re_omega = rho*omega*dist*dist/mu;
       f_wake = exp(-pow(re_omega/(1.0e+05),2));
@@ -244,15 +268,16 @@ void CTransLMSolver::Postprocessing(CGeometry *geometry, CSolver **solver_contai
     if(TurbFamily == TURB_FAMILY::SA)
       f_wake = 1.0;
 
-    const su2double theta_bl   = Re_t*mu / rho /VelocityMag;
-    const su2double delta_bl   = 7.5*theta_bl;
-    const su2double delta      = 50.0*VorticityMag*dist/VelocityMag*delta_bl + 1e-20;
-    const su2double var1 = (Intermittency-1.0/50.0)/(1.0-1.0/50.0);
-    const su2double var2 = 1.0 - pow(var1,2.0);
-    const su2double f_theta = min(max(f_wake*exp(-pow(dist/delta, 4)), var2), 1.0);
+    const su2double theta_bl    = Re_t*mu / rho /VelocityMag;
+    const su2double delta_bl    = 7.5*theta_bl;
+    const su2double delta       = 50.0*VorticityMag*dist/VelocityMag*delta_bl + 1e-20;
+    const su2double var1        = (Intermittency-1.0/50.0)/(1.0-1.0/50.0);
+    const su2double var2        = 1.0 - pow(var1,2.0);
+    const su2double f_theta     = min(max(f_wake*exp(-pow(dist/delta, 4)), var2), 1.0);
     su2double Intermittency_Sep = 2.0*max(0.0, Re_v/(3.235*Corr_Rec)-1.0)*f_reattach;
-    Intermittency_Sep = min(Intermittency_Sep,2.0)*f_theta;
-    Intermittency_Sep = min(max(0.0, Intermittency_Sep), 2.0);
+    Intermittency_Sep           = min(Intermittency_Sep,2.0)*f_theta;
+    Intermittency_Sep           = min(max(0.0, Intermittency_Sep), 2.0);
+
     nodes -> SetIntermittencySep(iPoint, Intermittency_Sep);
     nodes -> SetIntermittencyEff(iPoint, Intermittency_Sep);
 

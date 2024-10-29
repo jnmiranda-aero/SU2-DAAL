@@ -114,44 +114,73 @@ class CSourcePieceWise_TransLM final : public CNumerics {
     const su2double vel_w = (nDim == 3) ? V_i[2 + idx.Velocity()] : 0.0;
 
     const su2double Velocity_Mag = sqrt(vel_u * vel_u + vel_v * vel_v + vel_w * vel_w);
-        //
-    //========================================================================================================================================================================
-    // My compressibility mods (they probably wont work tbh but its ok)
-    //========================================================================================================================================================================
-    //
+
+// ========================================================================================================================================================================
+    const su2double Density_i           = V_i[idx.Density()];
+    const su2double Pressure_i          = V_i[idx.Pressure()];
+    const su2double Laminar_Viscosity_i = V_i[idx.LaminarViscosity()];
+    const su2double Eddy_Viscosity_i    = V_i[idx.EddyViscosity()];
+
     const su2double Gamma           = config->GetGamma();
     const su2double Gas_Constant    = config->GetGas_Constant();
-
     const su2double* vel_inf        = config->GetVelocity_FreeStream();
     const su2double Vel_inf_u       = vel_inf[0];  // Use the first component of the velocity (x-direction)
     const su2double Vel_inf_v       = vel_inf[1];  // Use the first component of the velocity (z-direction)
     const su2double Vel_inf_w       = vel_inf[2];  // Use the first component of the velocity (y-direction)
     const su2double Vel_inf_Mag     = sqrt(Vel_inf_u * Vel_inf_u + Vel_inf_v * Vel_inf_v + Vel_inf_w * Vel_inf_w);
-
     const su2double Density_inf     = config->GetDensity_FreeStream(); //V_i[idx.Density()];//maybe?
     const su2double Pressure_inf    = config->GetPressure_FreeStream();
     const su2double Temperature_Inf = config->GetTemperature_FreeStream();
+    // ========================================================================================================================================================================
+    //     //
+    // //========================================================================================================================================================================
+    // // My compressibility mods (they probably wont work tbh but its ok)
+    // //========================================================================================================================================================================
+    // //
+    // const su2double Gamma           = config->GetGamma();
+    // const su2double Gas_Constant    = config->GetGas_Constant();
+
+    // const su2double* vel_inf        = config->GetVelocity_FreeStream();
+    // const su2double Vel_inf_u       = vel_inf[0];  // Use the first component of the velocity (x-direction)
+    // const su2double Vel_inf_v       = vel_inf[1];  // Use the first component of the velocity (z-direction)
+    // const su2double Vel_inf_w       = vel_inf[2];  // Use the first component of the velocity (y-direction)
+    // const su2double Vel_inf_Mag     = sqrt(Vel_inf_u * Vel_inf_u + Vel_inf_v * Vel_inf_v + Vel_inf_w * Vel_inf_w);
+
+    // const su2double Density_inf     = config->GetDensity_FreeStream(); //V_i[idx.Density()];//maybe?
+    // const su2double Pressure_inf    = config->GetPressure_FreeStream();
+    // const su2double Temperature_Inf = config->GetTemperature_FreeStream();
     
-    const su2double Pressure_i      = V_i[idx.Pressure()]; //ask Prof Badrya about mesh node for P and rho (what node should I get P and rho from)
+    // const su2double Pressure_i      = V_i[idx.Pressure()]; //ask Prof Badrya about mesh node for P and rho (what node should I get P and rho from)
     
-    const su2double Velocity_BLEdge       = sqrt((pow(Vel_inf_Mag,2)) + (((2 * Gamma) / (Gamma - 1)) * (1 - (pow(Pressure_i / Pressure_inf,(1 - (1 / Gamma)))))*(Pressure_i / Density_inf))); // Boundary Layer edge velocity magnitude req'd to calculate edge Mach number for compressibilty correction to LM model (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
-    const su2double Speed_of_Sound_BLEdge = sqrt((Gamma * Gas_Constant * Temperature_Inf) * (pow(Pressure_i / Pressure_inf,((1 - Gamma) / Gamma))));
-    // const su2double Speed_of_Sound_BLEdge = sqrt(Gamma * Pressure_i / Density_i); // BL edge speed of sound (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
-    const su2double Mach_BLEdge           = Velocity_BLEdge / Speed_of_Sound_BLEdge; // BL edge Mach number
+    // const su2double Velocity_BLEdge       = sqrt((pow(Vel_inf_Mag,2)) + (((2 * Gamma) / (Gamma - 1)) * (1 - (pow(Pressure_i / Pressure_inf,(1 - (1 / Gamma)))))*(Pressure_i / Density_inf))); // Boundary Layer edge velocity magnitude req'd to calculate edge Mach number for compressibilty correction to LM model (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    // const su2double Speed_of_Sound_BLEdge = sqrt((Gamma * Gas_Constant * Temperature_Inf) * (pow(Pressure_i / Pressure_inf,((1 - Gamma) / Gamma))));
+    // // const su2double Speed_of_Sound_BLEdge = sqrt(Gamma * Pressure_i / Density_i); // BL edge speed of sound (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    // const su2double Mach_BLEdge           = Velocity_BLEdge / Speed_of_Sound_BLEdge; // BL edge Mach number
     
-    const su2double C_Me = 1.0 - 0.06124 * Mach_BLEdge + 0.2402 * pow(Mach_BLEdge, 2) - 0.00346 * pow(Mach_BLEdge, 3); // (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
-    const su2double f_Me = 1.0105 - 0.3046 * Mach_BLEdge + 1.1646 * pow(Mach_BLEdge, 2) - 0.3605 * pow(Mach_BLEdge, 3); // Polynomial function to apply compressibility correction to LM. Used to calculate and modify Re_theta_t (which affects F_length_1) (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
-    // || const su2double Re_theta_t_comp = Re_theta_t_Original * f_Me; // Compressibility correction to Re_theta_t (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
-    // || const su2double Corr_Ret_comp = Corr_Ret * f_Me; // Compressibility correction to Re_theta_t (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
-    //
-    //========================================================================================================================================================================
-    //
+    // const su2double C_Me = 1.0 - 0.06124 * Mach_BLEdge + 0.2402 * pow(Mach_BLEdge, 2) - 0.00346 * pow(Mach_BLEdge, 3); // (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    // const su2double f_Me = 1.0105 - 0.3046 * Mach_BLEdge + 1.1646 * pow(Mach_BLEdge, 2) - 0.3605 * pow(Mach_BLEdge, 3); // Polynomial function to apply compressibility correction to LM. Used to calculate and modify Re_theta_t (which affects F_length_1) (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    // // || const su2double Re_theta_t_comp = Re_theta_t_Original * f_Me; // Compressibility correction to Re_theta_t (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    // // || const su2double Corr_Ret_comp = Corr_Ret * f_Me; // Compressibility correction to Re_theta_t (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    // //
+    // //========================================================================================================================================================================
+    // //
+
+    const su2double Velocity_BLEdge = sqrt(Vel_inf_Mag*Vel_inf_Mag + ((2.0 * Gamma) / (Gamma - 1.0)) * (1.0 - pow(Pressure_i / Pressure_inf, (1.0 - (1.0 / Gamma)))) * (Pressure_i / Pressure_inf));
+    const su2double Speed_of_Sound_BLEdge = sqrt(Gamma * Gas_Constant * Temperature_Inf * pow(Pressure_i / Pressure_inf, ((1.0 - Gamma) / Gamma)));
+    const su2double Mach_BLEdge = Velocity_BLEdge / Speed_of_Sound_BLEdge;
+    const su2double C_Me = 1.0 - 0.06124 * Mach_BLEdge
+                          + 0.2402 * pow(Mach_BLEdge, 2)
+                          - 0.00346 * pow(Mach_BLEdge, 3);
+
+    const su2double f_Me = 1.0105 - 0.3046 * Mach_BLEdge
+                          + 1.1646 * pow(Mach_BLEdge, 2)
+                          - 0.3605 * pow(Mach_BLEdge, 3);
 
     AD::SetPreaccIn(V_i[idx.Density()], V_i[idx.LaminarViscosity()], V_i[idx.EddyViscosity()]);
 
-    Density_i = V_i[idx.Density()];
-    Laminar_Viscosity_i = V_i[idx.LaminarViscosity()];
-    Eddy_Viscosity_i = V_i[idx.EddyViscosity()];
+    // Density_i = V_i[idx.Density()];
+    // Laminar_Viscosity_i = V_i[idx.LaminarViscosity()];
+    // Eddy_Viscosity_i = V_i[idx.EddyViscosity()];
 
     Residual[0] = 0.0;
     Residual[1] = 0.0;
@@ -166,22 +195,27 @@ class CSourcePieceWise_TransLM final : public CNumerics {
       if (TurbFamily == TURB_FAMILY::SA) Tu = config->GetTurbulenceIntensity_FreeStream() * 100;
 
       /*--- Corr_RetC correlation*/
-      const su2double Corr_Rec = TransCorrelations.ReThetaC_Correlations(config, V_i, Tu, TransVar_i[1]);
+      // const su2double Corr_Rec = TransCorrelations.ReThetaC_Correlations(config, V_i, Tu, TransVar_i[1]);
       // const su2double Corr_Rec = TransCorrelations.ReThetaC_Correlations(config, Tu, TransVar_i[1]); // Mach corrected Re_theta_c: Re_theta_c_compressible. Correction applied in correlations definitions - jnmiranda-ucd-daal
       // const su2double Corr_Rec = TransCorrelations.ReThetaC_Correlations(Tu, TransVar_i[1]); // Mach corrected Re_theta_c: Re_theta_c_compressible. Correction applied in correlations definitions - jnmiranda-ucd-daal
       // const su2double Corr_Rec_comp = Corr_Rec / C_Me; // this isnt really needed anymore as it would require modifying this in other places of the code. Instead correction is applied in the correlations- just remember that this is no longer the OG Corr_Rec but the compressible one
+        // Compute Corr_Rec and apply compressibility correction
+      
+      const su2double Corr_Rec_uncorrected = TransCorrelations.ReThetaC_Correlations(Tu, TransVar_i[1]);
+      const su2double Corr_Rec = Corr_Rec_uncorrected / C_Me;
 
       /*--- F_length correlation*/
       // const su2double Corr_F_length = TransCorrelations.FLength_Correlations(config, Tu, TransVar_i[1]);
+      const su2double Corr_F_length = TransCorrelations.FLength_Correlations(Tu, TransVar_i[1]);
 
       /*--- F_length ---*/
-      // su2double F_length = 0.0;
-      // if (TurbFamily == TURB_FAMILY::KW) {
-      //   const su2double r_omega = Density_i * dist_i * dist_i * ScalarVar_i[1] / Laminar_Viscosity_i;
-      //   const su2double f_sub = exp(-pow(r_omega / 200.0, 2));
-      //   F_length = Corr_F_length * (1. - f_sub) + 40.0 * f_sub;
-      // }
-      // if (TurbFamily == TURB_FAMILY::SA) F_length = Corr_F_length;
+      su2double F_length = 0.0;
+      if (TurbFamily == TURB_FAMILY::KW) {
+        const su2double r_omega = Density_i * dist_i * dist_i * ScalarVar_i[1] / Laminar_Viscosity_i;
+        const su2double f_sub = exp(-pow(r_omega / 200.0, 2));
+        F_length = Corr_F_length * (1. - f_sub) + 40.0 * f_sub;
+      }
+      if (TurbFamily == TURB_FAMILY::SA) F_length = Corr_F_length;
 
       /*--- F_onset ---*/
       su2double R_t = 1.0;
@@ -194,10 +228,12 @@ class CSourcePieceWise_TransLM final : public CNumerics {
       su2double F_onset2 = 1.0;
       su2double F_onset3 = 1.0;
       if (TurbFamily == TURB_FAMILY::KW) {
+        R_t      = Density_i * ScalarVar_i[0] / (Laminar_Viscosity_i * ScalarVar_i[1]);
         F_onset2 = min(max(F_onset1, pow(F_onset1, 4.0)), 2.0);
         F_onset3 = max(1.0 - pow(R_t / 2.5, 3.0), 0.0);
       }
       if (TurbFamily == TURB_FAMILY::SA) {
+        R_t      = Eddy_Viscosity_i / Laminar_Viscosity_i;
         F_onset2 = min(max(F_onset1, pow(F_onset1, 4.0)), 4.0);
         F_onset3 = max(2.0 - pow(R_t / 2.5, 3.0), 0.0);
       }
@@ -248,7 +284,6 @@ class CSourcePieceWise_TransLM final : public CNumerics {
       /*--- Corr_Ret correlation*/
       const su2double Corr_Ret_lim = 20.0;
       su2double f_lambda = 1.0;
-
       su2double Retheta_Error = 200.0, Retheta_old = 0.0;
       su2double lambda = 0.0;
       su2double Corr_Ret = 20.0;
@@ -266,22 +301,30 @@ class CSourcePieceWise_TransLM final : public CNumerics {
         }
 
         if (Tu <= 1.3) {
-          Corr_Ret = f_lambda * (1173.51 - 589.428 * Tu + 0.2196 / Tu / Tu);
+          // Corr_Ret = f_lambda * (1173.51 - 589.428 * Tu + 0.2196 / Tu / Tu);
+          Corr_Ret = f_lambda * (1173.51 - 589.428 * Tu + 0.2196 / Tu * Tu);
         } else {
           Corr_Ret = 331.5 * f_lambda * pow(Tu - 0.5658, -0.671);
         }
         Corr_Ret = max(Corr_Ret, Corr_Ret_lim);
 
+        Corr_Ret *= f_Me;
+
         Retheta_Error = fabs(Retheta_old - Corr_Ret) / Retheta_old;
 
-        if (Retheta_Error < 0.0000001) {
+        // if (Retheta_Error < 0.0000001) {
+        //   break;
+        // }
+
+        if (Retheta_Error < 1e-7) {
           break;
-        }
+        }        
 
         Retheta_old = Corr_Ret;
       }
 
-      su2double Corr_Ret_comp = Corr_Ret * f_Me; // Compressibility correction to Re_theta_t (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+      // const su2double PRethetat = c_theta * Density_i / time_scale * (Corr_Ret - TransVar_i[1]) * (1.0 - f_theta);
+      // su2double Corr_Ret_comp = Corr_Ret * f_Me; // Compressibility correction to Re_theta_t (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
 
       /*-- Corr_RetT_SCF Correlations--*/
       su2double ReThetat_SCF = 0.0;
@@ -333,6 +376,7 @@ class CSourcePieceWise_TransLM final : public CNumerics {
       const su2double Dg = c_a2 * Density_i * VorticityMag * TransVar_i[0] * f_turb * (c_e2 * TransVar_i[0] - 1.0);
 
       /*-- production term of ReThetaT --*/
+      su2double Corr_Ret_comp = Corr_Ret * f_Me;
       // const su2double PRethetat = c_theta * Density_i / time_scale * (Corr_Ret - TransVar_i[1]) * (1.0 - f_theta);
       const su2double PRethetat = c_theta * Density_i / time_scale * (Corr_Ret_comp - TransVar_i[1]) * (1.0 - f_theta); // compressibility correction to Re_theta_t added
 

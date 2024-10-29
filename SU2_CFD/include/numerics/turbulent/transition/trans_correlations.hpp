@@ -32,11 +32,9 @@
  * \ingroup SourceDiscr
  * \author A. Rausa.
  */
-template <class FlowIndices>
 class TransLMCorrelations {
  private:
-    
-  const FlowIndices idx; /*!< \brief Object to manage the access to the flow primitives. */
+   
   LM_ParsedOptions options;
 
  public:
@@ -45,8 +43,6 @@ class TransLMCorrelations {
    * \brief Set LM options.
    * \param[in] val_options - LM options structure.
    */
-
-  TransLMCorrelations(const FlowIndices& idx_in) : idx(idx_in) {}
 
   void SetOptions(const LM_ParsedOptions val_options){
     options = val_options;
@@ -59,42 +55,50 @@ class TransLMCorrelations {
    * \param[out] rethetac - Corrected value for Re_theta.
    */
 
-  // su2double ReThetaC_Correlations(const su2double Tu, const su2double Re_theta_t) const {
+  su2double ReThetaC_Correlations(const su2double Tu, const su2double Re_theta_t) const {
+
+  // su2double ReThetaC_Correlations(const CConfig* config,
+  //                                 const su2double Density_i,
+  //                                 const su2double Pressure_i,
+  //                                 const su2double Velocity_i_Mag,
+  //                                 const su2double Tu,
+  //                                 const su2double Re_theta_t) const;
   // su2double ReThetaC_Correlations(const CConfig* config, const su2double Tu, const su2double Re_theta_t) const {
-  su2double ReThetaC_Correlations(const CConfig* config, const su2double* V_i, const su2double Tu, const su2double Re_theta_t) const {
+  // su2double ReThetaC_Correlations(const CConfig* config, const su2double* V_i, const su2double Tu, const su2double Re_theta_t) const {
+  // su2double ReThetaC_Correlations(const CConfig* config, const su2double* V_i, const su2double Tu, const su2double Re_theta_t) const{
 
     //
     //========================================================================================================================================================================
     // My compressibility mods 
     //========================================================================================================================================================================
     //
-    const su2double Gamma           = config->GetGamma();
-    const su2double Gas_Constant    = config->GetGas_Constant();
+    // const su2double Gamma           = config->GetGamma();
+    // const su2double Gas_Constant    = config->GetGas_Constant();
 
-    const su2double *vel_inf        = config->GetVelocity_FreeStream();
-    const su2double Vel_inf_u       = vel_inf[0];  // Use the first component of the velocity (x-direction)
-    const su2double Vel_inf_v       = vel_inf[1];  // Use the first component of the velocity (z-direction)
-    const su2double Vel_inf_w       = vel_inf[2];  // Use the first component of the velocity (y-direction)
-    const su2double Vel_inf_Mag     = sqrt(Vel_inf_u * Vel_inf_u + Vel_inf_v * Vel_inf_v + Vel_inf_w * Vel_inf_w);
+    // const su2double *vel_inf        = config->GetVelocity_FreeStream();
+    // const su2double Vel_inf_u       = vel_inf[0];  // Use the first component of the velocity (x-direction)
+    // const su2double Vel_inf_v       = vel_inf[1];  // Use the first component of the velocity (z-direction)
+    // const su2double Vel_inf_w       = vel_inf[2];  // Use the first component of the velocity (y-direction)
+    // const su2double Vel_inf_Mag     = sqrt(Vel_inf_u * Vel_inf_u + Vel_inf_v * Vel_inf_v + Vel_inf_w * Vel_inf_w);
 
-    const su2double Density_inf     = config->GetDensity_FreeStream(); //V_i[idx.Density()];//maybe?
-    const su2double Pressure_inf    = config->GetPressure_FreeStream();
-    const su2double Temperature_Inf = config->GetTemperature_FreeStream();
+    // const su2double Density_inf     = config->GetDensity_FreeStream(); //V_i[idx.Density()];//maybe?
+    // const su2double Pressure_inf    = config->GetPressure_FreeStream();
+    // const su2double Temperature_Inf = config->GetTemperature_FreeStream();
     
-    const su2double Pressure_i      = V_i[idx.Pressure()]; //ask Prof Badrya about mesh node for P and rho (what node should I get P and rho from or use Surf. P)
+    // const su2double Pressure_i = V_i[iVar::Pressure]; //ask Prof Badrya about mesh node for P and rho (what node should I get P and rho from or use Surf. P)
     
-    const su2double Velocity_BLEdge       = sqrt((pow(Vel_inf_Mag,2)) + (((2 * Gamma) / (Gamma - 1)) * (1 - (pow(Pressure_i / Pressure_inf,(1 - (1 / Gamma)))))*(Pressure_i / Density_inf))); // Boundary Layer edge velocity magnitude req'd to calculate edge Mach number for compressibilty correction to LM model (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
-    const su2double Speed_of_Sound_BLEdge = sqrt((Gamma * Gas_Constant * Temperature_Inf) * (pow(Pressure_i / Pressure_inf,((1 - Gamma) / Gamma))));
-    // const su2double Speed_of_Sound_BLEdge = sqrt(Gamma * Pressure_i / Density_i); // BL edge speed of sound (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
-    const su2double Mach_BLEdge           = Velocity_BLEdge / Speed_of_Sound_BLEdge; // BL edge Mach number
+    // const su2double Velocity_BLEdge       = sqrt((pow(Vel_inf_Mag,2)) + (((2 * Gamma) / (Gamma - 1)) * (1 - (pow(Pressure_i / Pressure_inf,(1 - (1 / Gamma)))))*(Pressure_i / Density_inf))); // Boundary Layer edge velocity magnitude req'd to calculate edge Mach number for compressibilty correction to LM model (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    // const su2double Speed_of_Sound_BLEdge = sqrt((Gamma * Gas_Constant * Temperature_Inf) * (pow(Pressure_i / Pressure_inf,((1 - Gamma) / Gamma))));
+    // // const su2double Speed_of_Sound_BLEdge = sqrt(Gamma * Pressure_i / Density_i); // BL edge speed of sound (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    // const su2double Mach_BLEdge           = Velocity_BLEdge / Speed_of_Sound_BLEdge; // BL edge Mach number
     
-    const su2double C_Me = 1.0 - 0.06124 * Mach_BLEdge + 0.2402 * pow(Mach_BLEdge, 2) - 0.00346 * pow(Mach_BLEdge, 3); // (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
-    const su2double f_Me = 1.0105 - 0.3046 * Mach_BLEdge + 1.1646 * pow(Mach_BLEdge, 2) - 0.3605 * pow(Mach_BLEdge, 3); // Polynomial function to apply compressibility correction to LM. Used to calculate and modify Re_theta_t (which affects F_length_1) (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
-    // || const su2double Re_theta_t_comp = Re_theta_t_Original * f_Me; // Compressibility correction to Re_theta_t (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
-    // || const su2double Corr_Ret_comp = Corr_Ret * f_Me; // Compressibility correction to Re_theta_t (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
-    //
-    //========================================================================================================================================================================
-    //
+    // const su2double C_Me = 1.0 - 0.06124 * Mach_BLEdge + 0.2402 * pow(Mach_BLEdge, 2) - 0.00346 * pow(Mach_BLEdge, 3); // (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    // const su2double f_Me = 1.0105 - 0.3046 * Mach_BLEdge + 1.1646 * pow(Mach_BLEdge, 2) - 0.3605 * pow(Mach_BLEdge, 3); // Polynomial function to apply compressibility correction to LM. Used to calculate and modify Re_theta_t (which affects F_length_1) (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    // // || const su2double Re_theta_t_comp = Re_theta_t_Original * f_Me; // Compressibility correction to Re_theta_t (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    // // || const su2double Corr_Ret_comp = Corr_Ret * f_Me; // Compressibility correction to Re_theta_t (doi:10.2514/6.2022-1542) - jnmiranda-ucd-daal
+    // //
+    // //========================================================================================================================================================================
+    // //
   
     su2double rethetac = 0.0;
 
@@ -155,7 +159,7 @@ class TransLMCorrelations {
         break;
     }
 
-    rethetac = rethetac / C_Me; // Compressibility correction is applied here to the OG Re_theta_c. This is easier than modifying Re_theta_c in all other functions. Instead I think it's better to apply the correction where Re_theta_c is defined
+    // rethetac = rethetac / C_Me; // Compressibility correction is applied here to the OG Re_theta_c. This is easier than modifying Re_theta_c in all other functions. Instead I think it's better to apply the correction where Re_theta_c is defined
 
     return rethetac;
   }
@@ -166,8 +170,8 @@ class TransLMCorrelations {
    * \param[in] Re_theta_t - Re_theta_t (TransVar[1]).
    * \param[out] F_length1 - Value for the F_length1 variable.
    */
-  // su2double FLength_Correlations(const su2double Tu, const su2double Re_theta_t) const {
-  su2double FLength_Correlations(const CConfig config, const su2double Tu, const su2double Re_theta_t) const {
+  su2double FLength_Correlations(const su2double Tu, const su2double Re_theta_t) const {
+  // su2double FLength_Correlations(const CConfig config, const su2double Tu, const su2double Re_theta_t) const {
     su2double F_length1 = 0.0;
 
     switch (options.Correlation) {
