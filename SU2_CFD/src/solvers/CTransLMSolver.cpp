@@ -209,6 +209,7 @@ void CTransLMSolver::Postprocessing(CGeometry *geometry, CSolver **solver_contai
     const su2double Temperature_inf = config->GetTemperature_FreeStream();
 
     const su2double rho             = flowNodes->GetDensity(iPoint);
+    // const su2double Pressure_i      = flowNodes->GetPressure(iPoint);
     const su2double Pressure_i      = flowNodes->GetPressure(iPoint);
     const su2double mu              = flowNodes->GetLaminarViscosity(iPoint);
     const su2double muT             = turbNodes->GetmuT(iPoint);
@@ -227,7 +228,7 @@ void CTransLMSolver::Postprocessing(CGeometry *geometry, CSolver **solver_contai
     su2double omega                 = 0.0;
     su2double k                     = 0.0;
 
-    su2double Velocity_BLEdge = 1000*sqrt(VelocityMag * VelocityMag + ((2 * Gamma) / (Gamma - 1)) * (1 - pow(Pressure_i / Pressure_inf, (1 - (1 / Gamma)))) * (Pressure_i / Density_inf));  // pressure? 
+    su2double Velocity_BLEdge = 0.1*sqrt(VelocityMag * VelocityMag + ((2 * Gamma) / (Gamma - 1)) * (1 - pow(Pressure_i / Pressure_inf, (1 - (1 / Gamma)))) * (Pressure_i / Density_inf)); //remove 0.1
     su2double Speed_of_Sound_BLEdge = sqrt((Gamma * Gas_Constant * Temperature_inf) * pow(Pressure_i / Pressure_inf, ((1 - Gamma) / Gamma)));
 
     // Calculate Mach Number at Boundary Layer Edge
