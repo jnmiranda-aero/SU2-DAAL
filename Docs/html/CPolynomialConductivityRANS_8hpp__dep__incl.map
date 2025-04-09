@@ -1,0 +1,5 @@
+<map id="SU2_CFD/include/fluid/CPolynomialConductivityRANS.hpp" name="SU2_CFD/include/fluid/CPolynomialConductivityRANS.hpp">
+<area shape="rect" id="node1" title="Defines a non&#45;constant thermal conductivity using a polynomial function of temperature for RANS probl..." alt="" coords="72,5,327,47"/>
+<area shape="rect" id="node2" href="$CFluidModel_8cpp.html" title="Source of the fluid model base class containing thermo&#45;physical subroutines." alt="" coords="5,95,188,136"/>
+<area shape="rect" id="node3" href="$CFluidScalar_8cpp.html" title="Defines the multicomponent incompressible Ideal Gas model for mixtures." alt="" coords="212,95,395,136"/>
+</map>

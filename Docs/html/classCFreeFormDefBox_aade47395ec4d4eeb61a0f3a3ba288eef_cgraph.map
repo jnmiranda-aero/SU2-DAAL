@@ -1,0 +1,6 @@
+<map id="CFreeFormDefBox::SetParaview" name="CFreeFormDefBox::SetParaview">
+<area shape="rect" id="node1" title="Set the paraview file of the FFD chuck structure." alt="" coords="5,31,233,57"/>
+<area shape="rect" id="node2" href="$classCGeometry.html#ace7f7fe876f629f5bd5f92d4805a1a4b" title="Get number of coordinates." alt="" coords="281,5,443,32"/>
+<area shape="rect" id="node3" href="$namespaceSU2__TYPE.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="306,56,418,83"/>
+<area shape="rect" id="node4" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="491,56,645,83"/>
+</map>

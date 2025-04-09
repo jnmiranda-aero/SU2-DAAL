@@ -1,0 +1,13 @@
+<map id="CUpwGeneralHLLC_Flow::ComputeResidual" name="CUpwGeneralHLLC_Flow::ComputeResidual">
+<area shape="rect" id="node1" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="5,141,188,182"/>
+<area shape="rect" id="node2" href="$classCNumerics.html#aa5c49df663f9dce38e2073ef22580099" title="Compute the projection of the inviscid Jacobian matrices." alt="" coords="236,31,455,57"/>
+<area shape="rect" id="node5" href="$classCConfig.html#ad16f71356f146b530fb1fbb45444525c" title="Get the kind of time integration method." alt="" coords="251,82,440,123"/>
+<area shape="rect" id="node6" href="$group__GeometryToolbox.html#gad8b24e50333c9a8378f7abf18222f36a" title=" " alt="" coords="255,199,436,225"/>
+<area shape="rect" id="node7" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="597,148,643,175"/>
+<area shape="rect" id="node10" href="$classCUpwGeneralHLLC__Flow.html#a468e99fedb045302bc6cf9458666f0d5" title="Compute the Average quantities for a general fluid flux between two nodes i and j...." alt="" coords="254,250,437,291"/>
+<area shape="rect" id="node3" href="$namespaceAD.html#a17303e0b54570243d54732b02655f9a5" title="Start a passive region, i.e. stop recording." alt="" coords="553,5,687,32"/>
+<area shape="rect" id="node4" href="$namespaceAD.html#af5a5809a923faf03119828c329bc2db7" title="End a passive region, i.e. start recording if we were recording before." alt="" coords="559,56,681,83"/>
+<area shape="rect" id="node8" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="503,199,737,225"/>
+<area shape="rect" id="node9" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="785,199,1003,225"/>
+<area shape="rect" id="node11" href="$group__SIMD.html#gaf7650d08e2a58ed700276ddc70f72f96" title=" " alt="" coords="597,257,643,284"/>
+</map>

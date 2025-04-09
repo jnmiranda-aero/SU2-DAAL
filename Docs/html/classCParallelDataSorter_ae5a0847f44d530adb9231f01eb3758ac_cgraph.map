@@ -1,0 +1,4 @@
+<map id="CParallelDataSorter::GetNodeEnd" name="CParallelDataSorter::GetNodeEnd">
+<area shape="rect" id="node1" title="Ending node ID of the linear partition owned by a specific processor." alt="" coords="5,5,155,47"/>
+<area shape="rect" id="node2" href="$classCLinearPartitioner.html#a27c8cbcde5662cdbb0dbebecef3fa84b" title="Get the last index of the current rank&#39;s linear partition." alt="" coords="203,5,369,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CSysMatrix::SubtractBlock" name="CSysMatrix::SubtractBlock">
+<area shape="rect" id="node1" title="Subtracts the specified block to the sparse matrix (see AddBlock)." alt="" coords="603,111,797,138"/>
+<area shape="rect" id="node2" href="$classCNEMONSSolver.html#ae3d2c5f1c94cb3d01b7f351ce3105f31" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="321,5,555,47"/>
+<area shape="rect" id="node4" href="$classCAdjEulerSolver.html#a30bdc57d4bd18b22b3f07772f5ea8a99" title="Compute the spatial integration using a centered scheme for the adjoint equations." alt="" coords="341,71,535,112"/>
+<area shape="rect" id="node5" href="$classCAdjEulerSolver.html#a27f05ad7c19b238efda73a2866c4b9b7" title="Compute the spatial integration using a upwind scheme." alt="" coords="347,136,529,177"/>
+<area shape="rect" id="node6" href="$classCAdjNSSolver.html#a87064a324dd57b715155f405fc0804fc" title="Compute the viscous residuals for the adjoint equation." alt="" coords="353,201,523,243"/>
+<area shape="rect" id="node3" href="$classCNEMONSSolver.html#a8c6c80e6e8f2aed2ff80c78a8e5aec9e" title="Generic implementation of the isothermal wall." alt="" coords="5,13,273,39"/>
+</map>

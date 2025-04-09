@@ -1,0 +1,12 @@
+<map id="CHeatVariable::CHeatVariable" name="CHeatVariable::CHeatVariable">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,148,221,175"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a14fdc00477b0b4a4268785c9c5374be1" title="Get the number of implicit Jacobi smoothings of the correction in a multigrid strategy." alt="" coords="269,5,493,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#abafdda03255a7f71a9701ded02f6d231" title="Get whether the simulation we are running is a multizone simulation." alt="" coords="298,57,465,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a15a61a6f9a1d415c3509018f4916c5c1" title="Get the number of multigrid levels." alt="" coords="294,123,469,149"/>
+<area shape="rect" id="node5" href="$classCConfig.html#ac47e04d76ce865893a94dcedd3c9b6a5" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="280,173,483,200"/>
+<area shape="rect" id="node6" href="$classC2DContainer.html#adefb48b593f76aa322e228fea8f76127" title="Request a change of size." alt="" coords="302,224,461,251"/>
+<area shape="rect" id="node7" href="$classCVariable.html#aa47456564bac33106a460be201d4c843" title="Set the value of the solution in the previous BGS subiteration." alt="" coords="274,275,489,301"/>
+<area shape="rect" id="node8" href="$classcontainer__details_1_1AccessorImpl.html#a5b5318f7212e57c13e464c398f74b3d5" title=" " alt="" coords="541,209,688,250"/>
+<area shape="rect" id="node9" href="$omp__structure_8hpp.html#a3af8b37ed645164f4c3441fa75e5fa76" title="Copy data from one array&#45;like object to another in parallel." alt="" coords="563,275,667,301"/>
+<area shape="rect" id="node10" href="$classC2DContainer.html#a8278113dbcf54123f9852e7e44583759" title=" " alt="" coords="541,325,688,352"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CNEMONumerics::GetViscousProjFlux" name="CNEMONumerics::GetViscousProjFlux">
+<area shape="rect" id="node1" title="Compute the projection of the viscous fluxes into a direction." alt="" coords="5,39,220,80"/>
+<area shape="rect" id="node2" href="$classCNEMOGas.html#ab5a26916ba6925f13c506c2def272969" title="Compute species enthalpies." alt="" coords="268,5,481,47"/>
+<area shape="rect" id="node3" href="$classCNumerics.html#a18b6238c38e05339954c0bb6121203d1" title="Compute the stress tensor from the velocity gradients." alt="" coords="275,71,475,112"/>
+</map>

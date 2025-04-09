@@ -1,0 +1,14 @@
+<map id="CConfig::GetnLevels_TimeAccurateLTS" name="CConfig::GetnLevels_TimeAccurateLTS">
+<area shape="rect" id="node1" title="Get the number of time levels for time accurate local time stepping." alt="" coords="795,250,948,291"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__EulerSolver.html#ad69d3dd7fafb9203abbc9e876cbcd7a8" title="Function, which accumulates the space time residual of the ADER&#45;DG time integration scheme for the ha..." alt="" coords="508,5,743,61"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__EulerSolver.html#ae807ca68b2d465020b63d617d54e339a" title="Function, which processes the list of tasks to be executed by the DG solver." alt="" coords="279,111,446,153"/>
+<area shape="rect" id="node6" href="$classCFEM__DG__EulerSolver.html#a0a18dfd035e17379824d2a3a032d3ab3" title="Function, which accumulates the space time residual of the ADER&#45;DG time integration scheme for the ow..." alt="" coords="508,136,743,192"/>
+<area shape="rect" id="node7" href="$classCDummyMeshFEM__DG.html#a292c0e183f7ee0db7badeccc4bd05ac4" title="Constructor of the class." alt="" coords="504,217,747,258"/>
+<area shape="rect" id="node8" href="$classCFEM__DG__EulerSolver.html#a677fa998b78bd489a3f8bee0d56623dd" title=" " alt="" coords="538,282,713,323"/>
+<area shape="rect" id="node9" href="$classCMeshFEM__DG.html#a1f627fc4d40b545b139486a83396874d" title="Function to create the faces used in the DG formulation." alt="" coords="521,348,729,375"/>
+<area shape="rect" id="node10" href="$classCPhysicalGeometry.html#a18f63cc49f7dc20241a0599ad1426ba8" title="Determine the time level of the elements when time accurate local time stepping is employed." alt="" coords="515,399,735,441"/>
+<area shape="rect" id="node12" href="$classCFEM__DG__EulerSolver.html#acfd3f253f2b9f37d236df40ff18a8c4c" title="Compute primitive variables and their gradients." alt="" coords="279,458,446,499"/>
+<area shape="rect" id="node4" href="$classCFEM__DG__EulerSolver.html#a0fe3772f40c29248f26fb08fa215af4e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="5,301,221,342"/>
+<area shape="rect" id="node5" href="$classCFEM__DG__EulerSolver.html#a370cb798d700bb080b52ec22834f78da" title="Function, which controls the computation of the spatial Jacobian." alt="" coords="19,111,208,153"/>
+<area shape="rect" id="node11" href="$classCPhysicalGeometry.html#a0a1295415b0ff3105673f5733682e151" title="Set the domains for FEM grid partitioning using ParMETIS." alt="" coords="269,393,456,434"/>
+</map>

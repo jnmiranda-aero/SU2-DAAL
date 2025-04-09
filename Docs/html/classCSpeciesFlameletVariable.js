@@ -1,8 +1,8 @@
 var classCSpeciesFlameletVariable =
 [
     [ "CSpeciesFlameletVariable", "classCSpeciesFlameletVariable.html#a8a3f3d293e63c5674a3a4a00e98a5148", null ],
-    [ "GetScalarLookups", "classCSpeciesFlameletVariable.html#a715183ef2341336d1206986975a46ced", null ],
-    [ "GetScalarSources", "classCSpeciesFlameletVariable.html#ac890ab07d4c7cb37d3b93c1b173b4bfc", null ],
+    [ "GetScalarLookups", "classCSpeciesFlameletVariable.html#a4279440d9bdfe4b824873baf0738cd59", null ],
+    [ "GetScalarSources", "classCSpeciesFlameletVariable.html#a2a0604560a8fcb29fd33d0defc719479", null ],
     [ "GetTableMisses", "classCSpeciesFlameletVariable.html#a34bb92f5a3f9caaf167e2f849535d7cc", null ],
     [ "SetLookupScalar", "classCSpeciesFlameletVariable.html#a9768b51c6dc7888362c894095b8013ac", null ],
     [ "SetScalarSource", "classCSpeciesFlameletVariable.html#a060a593bf1eb60e2d978980ffd2f395a", null ],

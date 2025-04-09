@@ -1,0 +1,11 @@
+<map id="COutput::AddHistoryOutputPerSurface" name="COutput::AddHistoryOutputPerSurface">
+<area shape="rect" id="node1" title="Add a new field per surface marker to the history output." alt="" coords="577,165,776,207"/>
+<area shape="rect" id="node2" href="$classCFlowOutput.html#af6c3e440981fbdb044b2c60bb14b277b" title="Add aerodynamic coefficients as output fields." alt="" coords="293,71,519,112"/>
+<area shape="rect" id="node4" href="$classCFlowCompOutput.html#a8b41f117a187a481a89f3dca1841a691" title="Set the available history output fields." alt="" coords="10,71,230,112"/>
+<area shape="rect" id="node6" href="$classCNEMOCompOutput.html#a81950db0223de4d025f01108c3831b9d" title="Set the available history output fields." alt="" coords="5,201,235,243"/>
+<area shape="rect" id="node7" href="$classCFlowOutput.html#a770323629fcc5378fee9de3cb0492036" title="Add flow surface output fields." alt="" coords="286,136,526,177"/>
+<area shape="rect" id="node8" href="$classCFlowOutput.html#a02ca59474a25c20660abd64e072b036d" title="Add heat flux coefficients as output fields." alt="" coords="283,202,529,229"/>
+<area shape="rect" id="node9" href="$classCMultizoneOutput.html#a61ac5d5afac223b05a4dc702b591a627" title="Set the available multizone history output fields." alt="" coords="290,304,522,345"/>
+<area shape="rect" id="node3" href="$classCFlowCompFEMOutput.html#aa4f39ac53973d19c0ef77c62c4fb3c29" title="Set the available history output fields." alt="" coords="30,5,210,47"/>
+<area shape="rect" id="node5" href="$classCFlowIncOutput.html#a771011c35b0c004348eab0e60e9ff0a5" title="Set the available history output fields." alt="" coords="19,136,221,177"/>
+</map>

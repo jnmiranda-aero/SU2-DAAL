@@ -1,0 +1,11 @@
+<map id="AD::ResetInput" name="AD::ResetInput">
+<area shape="rect" id="node1" title="Reset the variable (set index to zero)." alt="" coords="475,238,593,265"/>
+<area shape="rect" id="node2" href="$classCMeshVariable.html#ac4b1f4b687e7c470d13998e9d302c2c6" title="Recover the value of the adjoint of the mesh coordinates." alt="" coords="219,5,415,47"/>
+<area shape="rect" id="node3" href="$classCElementProperty.html#a63ce1efae3714d9c1f699a1f32b40479" title="Extract the derivative of the Design density." alt="" coords="209,71,425,112"/>
+<area shape="rect" id="node4" href="$classCFEABoundVariable.html#a3640c9c6e689c9e0697644b4abca0dde" title="Register the flow tractions as input variable." alt="" coords="238,136,397,177"/>
+<area shape="rect" id="node5" href="$classCDiscAdjFEASolver.html#a408757f23c8df6ad6a933589d4ad90de" title="A virtual member." alt="" coords="240,201,395,243"/>
+<area shape="rect" id="node6" href="$classCDiscAdjFEASolver.html#af6f6154052ec13caf87066b1abd82617" title="Prepare the solver for a new recording." alt="" coords="5,231,160,272"/>
+<area shape="rect" id="node7" href="$classCDiscAdjSolver.html#a96dd62e6656d620a13859ecbc5ac963e" title="Prepare the solver for a new recording." alt="" coords="210,318,425,345"/>
+<area shape="rect" id="node8" href="$classCDiscAdjFEASolver.html#a834a6946d2ecd5009b8032e668ef22d6" title="Extract and set the geometrical sensitivity." alt="" coords="240,369,395,411"/>
+<area shape="rect" id="node9" href="$classCDiscAdjSolver.html#a21a12c16fae44dfa916e27cf3a938b31" title="Extract and set the geometrical sensitivity." alt="" coords="208,435,427,462"/>
+</map>

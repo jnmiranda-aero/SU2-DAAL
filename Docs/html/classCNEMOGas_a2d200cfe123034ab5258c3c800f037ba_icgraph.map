@@ -1,0 +1,6 @@
+<map id="CNEMOGas::ComputeGasConstant" name="CNEMOGas::ComputeGasConstant">
+<area shape="rect" id="node1" title="Compute gas constant." alt="" coords="660,42,907,69"/>
+<area shape="rect" id="node2" href="$classCNEMONSSolver.html#aa32b1221a071e0ecd2de381615b8adca" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="321,5,579,47"/>
+<area shape="rect" id="node3" href="$classCNEMOEulerSolver.html#ad23673d38da9e895e4802b6d4d000c1b" title="Set the fluid solver nondimensionalization." alt="" coords="288,71,612,98"/>
+<area shape="rect" id="node4" href="$classCNEMOEulerSolver.html#a192d56e184ee19ad0b0dd3282b74f1e6" title="Contructor of the class." alt="" coords="5,64,240,105"/>
+</map>

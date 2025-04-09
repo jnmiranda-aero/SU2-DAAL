@@ -1,0 +1,4 @@
+<map id="CNEMOEulerSolver::RecomputeConservativeVector" name="CNEMOEulerSolver::RecomputeConservativeVector">
+<area shape="rect" id="node1" title="Set all the conserved variables from the primitive vector.." alt="" coords="256,5,483,47"/>
+<area shape="rect" id="node2" href="$classCNEMOEulerSolver.html#a427284b43fbe1f9c373096cc4bbe5781" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,5,208,47"/>
+</map>

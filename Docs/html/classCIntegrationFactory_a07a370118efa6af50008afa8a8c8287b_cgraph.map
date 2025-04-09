@@ -1,0 +1,5 @@
+<map id="CIntegrationFactory::CreateIntegrationContainer" name="CIntegrationFactory::CreateIntegrationContainer">
+<area shape="rect" id="node1" title="Create the integration container based on the current main solver." alt="" coords="5,35,212,76"/>
+<area shape="rect" id="node2" href="$classCIntegrationFactory.html#a167060fe51398ee82ea119096bbc3dad" title="Create a new integration instance based on the current sub solver." alt="" coords="297,5,446,47"/>
+<area shape="rect" id="node3" href="$classCSolverFactory.html#aa18fba170c898b27ad270bfef119cacd" title="Return a sub solver object that contains information about the solver allocated at a specific memory ..." alt="" coords="260,71,483,98"/>
+</map>

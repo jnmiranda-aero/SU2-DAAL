@@ -1,0 +1,8 @@
+<map id="CSlidingInterface::GetDonor_Variable" name="CSlidingInterface::GetDonor_Variable">
+<area shape="rect" id="node1" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="5,74,149,115"/>
+<area shape="rect" id="node2" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="213,5,357,32"/>
+<area shape="rect" id="node3" href="$classCSolver.html#a7d44cf864d55a58a519ceb639b3b4a45" title="Get the number of variables of the problem." alt="" coords="203,56,366,83"/>
+<area shape="rect" id="node4" href="$classCVariable.html#a634a803b0d397aec7a44420cd5159079" title="Get the primitive variables for all points." alt="" coords="197,107,372,133"/>
+<area shape="rect" id="node6" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="201,157,369,184"/>
+<area shape="rect" id="node5" href="$classCVariable.html#a57eb0e83f25f08d544f92b75e3f8b617" title=" " alt="" coords="420,107,609,133"/>
+</map>

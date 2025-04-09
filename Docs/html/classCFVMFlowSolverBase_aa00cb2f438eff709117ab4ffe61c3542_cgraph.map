@@ -1,0 +1,9 @@
+<map id="CFVMFlowSolverBase::SetPrimitive_Gradient_LS" name="CFVMFlowSolverBase::SetPrimitive_Gradient_LS">
+<area shape="rect" id="node1" title="Compute the gradient of the primitive variables using a Least&#45;Squares method, and stores the result i..." alt="" coords="5,82,200,123"/>
+<area shape="rect" id="node2" href="$group__FvmAlgos.html#gaea8d836040dfd0ee3dd0adf6fbc1b911" title="Instantiations for 2D and 3D." alt="" coords="248,31,477,57"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a83d5144467a2c2fa78a7f9cc19026421" title="Get the kind of method for computation of spatial gradients used for viscous and source terms." alt="" coords="265,82,460,123"/>
+<area shape="rect" id="node7" href="$classCConfig.html#af59700a2ce4edce862248ba52bdca025" title="Get the kind of method for computation of spatial gradients used for upwind reconstruction." alt="" coords="265,147,460,189"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="525,5,707,32"/>
+<area shape="rect" id="node5" href="$classCGeometry.html#ace7f7fe876f629f5bd5f92d4805a1a4b" title="Get number of coordinates." alt="" coords="535,56,697,83"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="755,5,940,32"/>
+</map>

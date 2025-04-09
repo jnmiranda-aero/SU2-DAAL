@@ -1,0 +1,7 @@
+<map id="CTurbSASolver::~CTurbSASolver" name="CTurbSASolver::~CTurbSASolver">
+<area shape="rect" id="node1" title="Destructor of the class." alt="" coords="5,56,236,83"/>
+<area shape="rect" id="node2" href="$classCTurbSASolver.html#a9f7d24bae9d4e229866b334972e6185c" title="Compute the viscous flux for the turbulent equation at a particular edge." alt="" coords="284,49,459,90"/>
+<area shape="rect" id="node3" href="$classCPoint.html#a582ff49fa3cd1dd09919bb54a20afb5f" title="Get the value of the distance to the nearest wall." alt="" coords="510,5,719,32"/>
+<area shape="rect" id="node4" href="$classCNumerics.html#a3aeb1bac39d56082e1abc39bddaa4396" title="Set the value of the roughness from the nearest wall." alt="" coords="518,56,711,83"/>
+<area shape="rect" id="node5" href="$classCScalarSolver.html#ab460d200968b7d9e19f9f408c38d5006" title="Compute the viscous flux for the scalar equation at a particular edge." alt="" coords="507,107,723,149"/>
+</map>

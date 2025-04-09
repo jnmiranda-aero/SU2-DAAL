@@ -1,0 +1,11 @@
+<map id="CFVMFlowSolverBase::UpdateCustomBoundaryConditions" name="CFVMFlowSolverBase::UpdateCustomBoundaryConditions">
+<area shape="rect" id="node1" title="Update the multi&#45;grid structure for the customized boundary conditions." alt="" coords="5,115,264,157"/>
+<area shape="rect" id="node2" href="$classCSolver.html#a1bbc59f0e7a5ef76e7c923c0f5f43ff5" title="A virtual member." alt="" coords="341,5,512,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#ae003cd8f406eaaa91849a774c9a20730" title="Get the kind of boundary for each marker." alt="" coords="353,57,501,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="337,123,517,149"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a15a61a6f9a1d415c3509018f4916c5c1" title="Get the number of multigrid levels." alt="" coords="339,173,514,200"/>
+<area shape="rect" id="node6" href="$classCGeometry.html#a59da2e9606fd23fc4477a0bf4642a1c9" title="Set a representative wall value of the agglomerated control volumes on a particular boundary marker." alt="" coords="312,225,541,266"/>
+<area shape="rect" id="node7" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="589,181,736,208"/>
+<area shape="rect" id="node8" href="$classCPoint.html#aa23a2b42b38e6d611038eeafdb7051d0" title="Get the vertex that compose the control volume for a marker." alt="" coords="594,232,731,259"/>
+<area shape="rect" id="node9" href="$classCPoint.html#a35a504401472dfa76ef1187a5675414f" title="Get area or volume of the control volume." alt="" coords="591,283,735,309"/>
+</map>

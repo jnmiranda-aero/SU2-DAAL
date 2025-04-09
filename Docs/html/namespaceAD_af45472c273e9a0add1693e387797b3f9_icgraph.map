@@ -1,0 +1,15 @@
+<map id="AD::BeginUseAdjoints" name="AD::BeginUseAdjoints">
+<area shape="rect" id="node1" title="Declare that the adjoints are being used, to protect against resizing." alt="" coords="1080,242,1244,269"/>
+<area shape="rect" id="node2" href="$classCDiscAdjFEASolver.html#a04c82d7de659c5882a0898bd4e73cdc2" title="Sets the adjoint values of the input variables of the flow (+turb.) iteration after tape has been eva..." alt="" coords="834,5,1009,47"/>
+<area shape="rect" id="node3" href="$classCDiscAdjSolver.html#a197e13969a8007038486acaabc5902c8" title="Sets the adjoint values of the input variables of the flow (+turb.) iteration after tape has been eva..." alt="" coords="811,71,1032,112"/>
+<area shape="rect" id="node4" href="$classCDiscAdjFEAIteration.html#ab74b31bf6b8275945fa3d0dd38d73388" title="Initializes the adjoints of the output variables of the FEM iteration." alt="" coords="841,136,1001,177"/>
+<area shape="rect" id="node5" href="$classCDiscAdjFluidIteration.html#abdfbd9b57a5fec181a1a630618c3274a" title="Registers all input variables of the fluid iteration." alt="" coords="838,201,1005,243"/>
+<area shape="rect" id="node6" href="$classCDiscAdjHeatIteration.html#adeafba60eb5471ccd0780c0d075d61da" title="Registers all input variables of the fluid iteration." alt="" coords="838,267,1005,308"/>
+<area shape="rect" id="node7" href="$classCDiscAdjMultizoneDriver.html#a249f7719c986035cde861eed2c61b4dd" title="Initialize the adjoint value of the objective function." alt="" coords="829,332,1013,373"/>
+<area shape="rect" id="node12" href="$classCDiscAdjFEASolver.html#a834a6946d2ecd5009b8032e668ef22d6" title="Extract and set the geometrical sensitivity." alt="" coords="844,397,999,439"/>
+<area shape="rect" id="node13" href="$classCDiscAdjSolver.html#a21a12c16fae44dfa916e27cf3a938b31" title="Extract and set the geometrical sensitivity." alt="" coords="812,463,1031,490"/>
+<area shape="rect" id="node8" href="$classCDiscAdjMultizoneDriver.html#a7a644ee8fc2141f2083b91afd2cab856" title="Evaluate the gradient of the objective function and add to &quot;External&quot;." alt="" coords="503,300,763,341"/>
+<area shape="rect" id="node11" href="$classCDiscAdjMultizoneDriver.html#a9d998fae109427a1061069800ad931c3" title="Evaluate sensitivites for the current adjoint solution and output files." alt="" coords="541,365,725,407"/>
+<area shape="rect" id="node9" href="$classCDiscAdjMultizoneDriver.html#af996aecdb6d20aa4fc81c9b67295abf5" title="[Overload] Run an discrete adjoint update of all solvers within multiple zones." alt="" coords="237,341,455,367"/>
+<area shape="rect" id="node10" href="$classCDiscAdjMultizoneDriver.html#a75de0a1a482ceeed4301a384f1515092" title="[Overload] Launch the computation for discrete adjoint multizone problems." alt="" coords="5,333,189,375"/>
+</map>

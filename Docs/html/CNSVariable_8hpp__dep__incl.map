@@ -1,0 +1,10 @@
+<map id="SU2_CFD/include/variables/CNSVariable.hpp" name="SU2_CFD/include/variables/CNSVariable.hpp">
+<area shape="rect" id="node1" title="Class for defining the variables of the compressible Navier&#45;Stokes solver." alt="" coords="485,5,683,47"/>
+<area shape="rect" id="node2" href="$convection_2common_8hpp.html" title="Common convection&#45;related methods." alt="" coords="136,95,392,136"/>
+<area shape="rect" id="node6" href="$CEulerSolver_8cpp.html" title="Main subroutines for solving Finite&#45;Volume Euler flow problems." alt="" coords="417,95,573,136"/>
+<area shape="rect" id="node7" href="$CNSSolver_8cpp.html" title="Main subroutines for solving Finite&#45;Volume Navier&#45;Stokes flow problems." alt="" coords="597,95,753,136"/>
+<area shape="rect" id="node8" href="$CNSVariable_8cpp.html" title="Definition of the solution fields." alt="" coords="777,95,946,136"/>
+<area shape="rect" id="node3" href="$simd_2flow_2convection_2centered_8hpp.html" title="Centered convective schemes." alt="" coords="5,184,261,225"/>
+<area shape="rect" id="node5" href="$simd_2flow_2convection_2roe_8hpp.html" title="Roe&#45;family of convective schemes." alt="" coords="286,184,506,225"/>
+<area shape="rect" id="node4" href="$CNumericsSIMD_8cpp.html" title=" " alt="" coords="165,273,363,315"/>
+</map>

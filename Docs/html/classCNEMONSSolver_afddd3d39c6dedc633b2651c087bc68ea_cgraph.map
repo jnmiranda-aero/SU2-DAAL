@@ -1,0 +1,8 @@
+<map id="CNEMONSSolver::CNEMONSSolver" name="CNEMONSSolver::CNEMONSSolver">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,252,133"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a1756760d4a98f886411a703d71bda3f2" title="Get the direct differentation method." alt="" coords="309,5,475,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a502035c2b049606186e11e01b7df626a" title="Get the value of the laminar Prandtl number." alt="" coords="300,56,484,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a4b89ad15fa82f93ca8ccfe945e2c14a7" title="Get the value of the turbulent Prandtl number." alt="" coords="301,107,483,133"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a07714d2b67cf861cdb43891e2ff4f318" title="Get the value of the non&#45;dimensionalized freestream viscosity." alt="" coords="311,158,473,199"/>
+<area shape="rect" id="node6" href="$namespaceSU2__TYPE.html#ab0b85db43e1495ffbb0f2c823f24935e" title="Set the derivative value of the datatype (needs to be implemented for each new type)." alt="" coords="300,224,484,251"/>
+</map>

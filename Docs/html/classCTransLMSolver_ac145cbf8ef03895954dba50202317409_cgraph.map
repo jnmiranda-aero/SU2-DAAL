@@ -1,0 +1,4 @@
+<map id="CTransLMSolver::BC_Outlet" name="CTransLMSolver::BC_Outlet">
+<area shape="rect" id="node1" title="Impose the outlet boundary condition." alt="" coords="5,5,156,47"/>
+<area shape="rect" id="node2" href="$classCScalarSolver.html#abb80fb42d9d6a87c8f9445354ce0c113" title="Impose the Far Field boundary condition." alt="" coords="204,5,420,47"/>
+</map>

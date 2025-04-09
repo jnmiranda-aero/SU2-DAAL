@@ -1,0 +1,31 @@
+<map id="CDriverBase::GetSolverAndCheckMarker" name="CDriverBase::GetSolverAndCheckMarker">
+<area shape="rect" id="node1" title="Automates some boilerplate of accessing solution fields for the python wrapper." alt="" coords="959,677,1159,718"/>
+<area shape="rect" id="node2" href="$group__PySU2.html#gade66c6b89c80b3cedae467c7cf301584" title="Get the displacements currently imposed of a marker vertex." alt="" coords="641,5,911,32"/>
+<area shape="rect" id="node3" href="$group__PySU2.html#gab3eb7042f6313047a4f23055d59af59c" title="Get the sensitivities of the displacements of the mesh boundary vertices." alt="" coords="641,57,911,98"/>
+<area shape="rect" id="node4" href="$group__PySU2.html#gaaea6bd5ac1652539bbb0927490cb488a" title="Get the sensitivity of the FEA loads of the structural solver (via the adjoint structural solver)." alt="" coords="659,122,893,163"/>
+<area shape="rect" id="node5" href="$group__PySU2.html#ga196c997775f129868f25d34f7208d224" title="Get the fluid force at a vertex of a solid wall marker of the flow solver." alt="" coords="655,188,897,215"/>
+<area shape="rect" id="node6" href="$group__PySU2.html#gac3a42c2c11e8a62dbd24c7b2af126c15" title="Get the mesh velocities currently imposed on a marker vertex." alt="" coords="669,239,883,281"/>
+<area shape="rect" id="node7" href="$group__PySU2.html#ga8aad4f6fcb3a01e9e6eef2421128534e" title="Get the wall normal heat flux at a vertex on a specified marker of the flow or heat solver." alt="" coords="663,305,889,346"/>
+<area shape="rect" id="node8" href="$group__PySU2.html#gacab543553c785cfe05d699ec063537bd" title="Get a read/write view of the current primitive variables on the mesh nodes of a marker." alt="" coords="665,371,887,397"/>
+<area shape="rect" id="node9" href="$group__PySU2.html#gaa39d1295f5c3ad4806faeb8321d6f2f0" title="Get a read/write view of the current solution on the mesh nodes of a marker." alt="" coords="671,421,881,448"/>
+<area shape="rect" id="node10" href="$group__PySU2.html#ga41b609729554483a2a68189750d50cfe" title="Get a read/write view of the solution at time N on the mesh nodes of a marker." alt="" coords="671,473,881,514"/>
+<area shape="rect" id="node11" href="$group__PySU2.html#ga8d11e507efe7e8a82a503912bf1cc9b8" title="Get a read/write view of the solution at time N&#45;1 on the mesh nodes of a marker." alt="" coords="671,538,881,579"/>
+<area shape="rect" id="node12" href="$group__PySU2.html#gad0d16ed0a13721a9170db2f28fb66a4a" title="Get a read/write view of the current primitive variables on all mesh nodes of the flow solver." alt="" coords="687,604,865,631"/>
+<area shape="rect" id="node13" href="$group__PySU2.html#ga079c71c4611441cbafb63d4b4796e67e" title="Get a read&#45;only view of the geometry sensitivity of a discrete adjoint solver." alt="" coords="686,655,866,681"/>
+<area shape="rect" id="node18" href="$group__PySU2.html#gac1178074f6c1d0fa51d3df97c977ed37" title="Set the mesh displacements of a marker vertex." alt="" coords="663,706,889,747"/>
+<area shape="rect" id="node19" href="$group__PySU2.html#ga949c937a015d9abc6ea8abbb2ebc24a9" title="Set the adjoint of the structural displacements." alt="" coords="663,771,889,813"/>
+<area shape="rect" id="node20" href="$group__PySU2.html#ga1eb9d405c76521eba65b67d728f9dc80" title="Sets the nodal force for the structural solver at a vertex of a marker." alt="" coords="663,837,889,878"/>
+<area shape="rect" id="node21" href="$group__PySU2.html#ga83dc675933db3cdcf5572a4effe00e94" title="Set the adjoint of the structural velocities." alt="" coords="663,902,889,943"/>
+<area shape="rect" id="node22" href="$group__PySU2.html#ga70f9e6940f38be181f7133d135898425" title="Set the adjoint of the flow tractions of the flow solver." alt="" coords="663,967,889,1009"/>
+<area shape="rect" id="node23" href="$group__PySU2.html#ga20eb8d18a923ffa84185253a83eb3e02" title="Set the flow direction vector (does not need to be a unit vector)." alt="" coords="663,1033,889,1074"/>
+<area shape="rect" id="node24" href="$group__PySU2.html#gab38ae3c3c22075cb64d338729e31320a" title="Set the first variable in MARKER_INLET (usually temperature)." alt="" coords="663,1098,889,1139"/>
+<area shape="rect" id="node25" href="$group__PySU2.html#ga9727b2a6d4b5c4d4abf96eecd27c3969" title="Set the second variable in MARKER_INLET (usually total pressure)." alt="" coords="663,1163,889,1205"/>
+<area shape="rect" id="node26" href="$group__PySU2.html#gaef5ee3400271df2b4e35d34e511e5b1c" title="Set the velocities of a marker vertex." alt="" coords="663,1229,889,1270"/>
+<area shape="rect" id="node27" href="$group__PySU2.html#ga658f8fc8aca0db1e4375e670e3f7a7e9" title="Get a read/write view of the current solution on all mesh nodes of a solver." alt="" coords="694,1295,858,1321"/>
+<area shape="rect" id="node28" href="$group__PySU2.html#gaa0baf1f45788210809fef42d1854fe8a" title="Get a read/write view of the solution at time N on all mesh nodes of a solver." alt="" coords="673,1345,879,1372"/>
+<area shape="rect" id="node29" href="$group__PySU2.html#ga7618c4afb87c1e35d98ffc5982af96c1" title="Get a read/write view of the solution at time N&#45;1 on all mesh nodes of a solver." alt="" coords="669,1396,883,1423"/>
+<area shape="rect" id="node14" href="$classCDiscAdjDeformationDriver.html#a6cb4f362b649e12ef2afad764de6d70a" title="Projection of the surface sensitivity using algorithmic differentiation (AD)." alt="" coords="391,615,593,657"/>
+<area shape="rect" id="node17" href="$classCDiscAdjDeformationDriver.html#a95299c158548de3cccbab0f2278172f5" title="Projection of the surface sensitivity using finite differences (FD)." alt="" coords="391,681,593,722"/>
+<area shape="rect" id="node15" href="$classCDiscAdjDeformationDriver.html#adb51f9096356607d6f48c05891dec0cb" title="Launch the driver computation." alt="" coords="108,656,343,683"/>
+<area shape="rect" id="node16" href="$SU2__DOT_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,656,60,683"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CFVMFlowSolverBase::GetnSlidingStates" name="CFVMFlowSolverBase::GetnSlidingStates">
+<area shape="rect" id="node1" title="Get the number of outer state for fluid interface nodes." alt="" coords="241,39,405,80"/>
+<area shape="rect" id="node2" href="$classCFVMFlowSolverBase.html#aba13af32acdc3fdae92901125a94ab0f" title="Impose the interface state across sliding meshes." alt="" coords="17,5,181,47"/>
+<area shape="rect" id="node3" href="$classCFVMFlowSolverBase.html#a2f96a5d08e1f39c2ae4892097a8d4dd6" title="Allocates the final pointer of SlidingState depending on how many donor vertex donate to it...." alt="" coords="5,71,193,112"/>
+</map>

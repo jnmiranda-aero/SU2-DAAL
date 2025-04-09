@@ -1,0 +1,15 @@
+<map id="CAdjEulerSolver::SetResidual_DualTime" name="CAdjEulerSolver::SetResidual_DualTime">
+<area shape="rect" id="node1" title="Set the total residual adding the term that comes from the Dual Time Strategy." alt="" coords="5,297,216,338"/>
+<area shape="rect" id="node2" href="$classCSysVector.html#aa463275cba394503a9778529fdaa4494" title="Add &quot;block&quot; to the vector, see SetBlock." alt="" coords="296,5,460,32"/>
+<area shape="rect" id="node3" href="$classCSysMatrix.html#a5a4ef7eeb7f009450f575660108ed7be" title="Non overwrite version of SetBlock2Diag, also with scaling." alt="" coords="277,56,479,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a0acfef8e480970316e9e672eacd59e9b" title="If we are prforming an unsteady simulation, there is only one value of the time step for the complete..." alt="" coords="264,107,492,133"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a9182d3dbb0b3bfa2ebb944f18795f5ca" title="Get information about the grid movement." alt="" coords="275,157,481,184"/>
+<area shape="rect" id="node6" href="$classCConfig.html#ad16f71356f146b530fb1fbb45444525c" title="Get the kind of time integration method." alt="" coords="283,209,473,250"/>
+<area shape="rect" id="node7" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="294,275,462,301"/>
+<area shape="rect" id="node8" href="$classCVariable.html#a9162db789c2ca2b71159697cc500fcce" title="Get the solution at time n." alt="" coords="294,326,462,367"/>
+<area shape="rect" id="node9" href="$classCVariable.html#a584e438afb716aa0ffce4ccc9b469ef6" title="Get the solution at time n&#45;1." alt="" coords="294,391,462,433"/>
+<area shape="rect" id="node10" href="$classCConfig.html#ac47e04d76ce865893a94dcedd3c9b6a5" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="277,457,479,484"/>
+<area shape="rect" id="node11" href="$classCPoint.html#a35a504401472dfa76ef1187a5675414f" title="Get area or volume of the control volume." alt="" coords="306,508,450,535"/>
+<area shape="rect" id="node12" href="$classCPoint.html#ad232a0b133c7dcba7dc038bffd41937c" title="Get the volume of the control volume at time n." alt="" coords="299,559,457,585"/>
+<area shape="rect" id="node13" href="$classCPoint.html#adb0bb129ba403095ea1de8b07c84c062" title="Get the volume of the control volume at time n+1." alt="" coords="289,609,467,636"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="CFVMFlowSolverBase&lt; VariableType, FlowRegime &gt;" name="CFVMFlowSolverBase&lt; VariableType, FlowRegime &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="127,93,351,134"/>
+<area shape="rect" id="node3" href="$classCFVMFlowSolverBase.html" title=" " alt="" coords="668,5,871,61"/>
+<area shape="rect" id="node6" href="$classCFVMFlowSolverBase.html" title=" " alt="" coords="639,85,900,141"/>
+<area shape="rect" id="node9" href="$classCFVMFlowSolverBase.html" title=" " alt="" coords="646,165,893,221"/>
+<area shape="rect" id="node2" href="$classCSolver.html" title=" " alt="" coords="5,100,77,127"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html" title="Class for compressible inviscid flow problems, serves as base for Navier&#45;Stokes/RANS." alt="" coords="969,20,1075,47"/>
+<area shape="rect" id="node5" href="$classCNSSolver.html" title="Main class for defining the Navier&#45;Stokes flow solver." alt="" coords="1164,20,1255,47"/>
+<area shape="rect" id="node7" href="$classCIncEulerSolver.html" title="Main class for defining the incompressible Euler flow solver." alt="" coords="960,100,1084,127"/>
+<area shape="rect" id="node8" href="$classCIncNSSolver.html" title="Main class for defining the incompressible Navier&#45;Stokes flow solver." alt="" coords="1155,100,1264,127"/>
+<area shape="rect" id="node10" href="$classCNEMOEulerSolver.html" title="Main class for defining the NEMO Euler&#39;s flow solver." alt="" coords="949,180,1095,207"/>
+<area shape="rect" id="node11" href="$classCNEMONSSolver.html" title="Main class for defining the NEMO Navier&#45;Stokes flow solver." alt="" coords="1144,180,1275,207"/>
+</map>

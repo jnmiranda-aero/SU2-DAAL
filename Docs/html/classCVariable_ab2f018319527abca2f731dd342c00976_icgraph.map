@@ -1,0 +1,6 @@
+<map id="CVariable::Set_FlowTraction" name="CVariable::Set_FlowTraction">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="492,46,695,73"/>
+<area shape="rect" id="node2" href="$classCFlowTractionInterface.html#ace911f920483b3b44dcb5d43adaff2cb" title="Sets the dimensional factor for pressure and the consistent_interpolation flag." alt="" coords="273,39,444,80"/>
+<area shape="rect" id="node3" href="$classCDiscAdjFlowTractionInterface.html#a74f759fe6787e453fe99d80cec16becd" title="Retrieve some constants needed for the calculations." alt="" coords="5,5,225,47"/>
+<area shape="rect" id="node4" href="$classCFlowTractionInterface.html#a027d7b92f6e0cc271fabd9a46b60616a" title="Retrieve some constants needed for the calculations." alt="" coords="26,71,205,112"/>
+</map>

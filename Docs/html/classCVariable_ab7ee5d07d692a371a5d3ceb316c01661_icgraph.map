@@ -1,0 +1,10 @@
+<map id="CVariable::GetDiffusionCoeff" name="CVariable::GetDiffusionCoeff">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="603,143,809,170"/>
+<area shape="rect" id="node2" href="$classCNEMOEulerSolver.html#af35c1b20663aa6051487296077034f05" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="353,5,523,47"/>
+<area shape="rect" id="node3" href="$classCNEMONSSolver.html#a1d9ff4495625b00bfbf46b3ad87c4167" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="327,71,549,112"/>
+<area shape="rect" id="node5" href="$classCNEMONSSolver.html#ae3d2c5f1c94cb3d01b7f351ce3105f31" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="321,136,555,177"/>
+<area shape="rect" id="node7" href="$classCNEMOEulerSolver.html#a1448f7a4a713ada22016532249a56a95" title="Impose a supersonic inlet boundary condition." alt="" coords="353,201,523,243"/>
+<area shape="rect" id="node8" href="$classCNEMOEulerSolver.html#a0758ca67e16c9f1f0f8fe5c8ec661cf7" title="Source term integration." alt="" coords="339,267,537,308"/>
+<area shape="rect" id="node4" href="$classCNEMONSSolver.html#aa52e178cc5f052026e73735d6e9b847f" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="11,78,268,105"/>
+<area shape="rect" id="node6" href="$classCNEMONSSolver.html#a8c6c80e6e8f2aed2ff80c78a8e5aec9e" title="Generic implementation of the isothermal wall." alt="" coords="5,143,273,170"/>
+</map>

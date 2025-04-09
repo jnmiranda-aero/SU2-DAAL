@@ -1,0 +1,9 @@
+<map id="CCoolProp::GetTemperature_Critical" name="CCoolProp::GetTemperature_Critical">
+<area shape="rect" id="node1" title="Get the value of the critical temperature." alt="" coords="600,57,803,98"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="268,5,552,32"/>
+<area shape="rect" id="node4" href="$classCFEM__DG__EulerSolver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="309,57,511,98"/>
+<area shape="rect" id="node6" href="$classCFlowOutput.html#aff6a6f11c9f53f559bab9ca94b21cd2a" title="Write the forces breakdown file." alt="" coords="315,122,505,163"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460" title="Main constructor of this class." alt="" coords="15,5,211,32"/>
+<area shape="rect" id="node5" href="$classCFEM__DG__EulerSolver.html#a70d30ef9e7cd7620d54ec73f4b1ed28c" title=" " alt="" coords="25,57,200,98"/>
+<area shape="rect" id="node7" href="$classCFlowOutput.html#aaac3fb7b2575967b157c306065ab1ea8" title="Write any additional files defined for the current solver." alt="" coords="5,122,220,163"/>
+</map>

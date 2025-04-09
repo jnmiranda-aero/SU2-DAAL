@@ -1,0 +1,11 @@
+<map id="CScalarVariable" name="CScalarVariable">
+<area shape="rect" id="node1" title="Base class for defining the shared variables of scalar solvers." alt="" coords="150,80,274,107"/>
+<area shape="rect" id="node3" href="$classCHeatVariable.html" title="Class for defining the variables of the finite&#45;volume heat equation solver." alt="" coords="5,155,120,181"/>
+<area shape="rect" id="node4" href="$classCSpeciesVariable.html" title="Base class for defining the variables of the species transport." alt="" coords="145,155,279,181"/>
+<area shape="rect" id="node6" href="$classCTurbVariable.html" title="Base class for defining the variables of the turbulence model." alt="" coords="403,155,514,181"/>
+<area shape="rect" id="node2" href="$classCVariable.html" title="Main class for defining the variables." alt="" coords="170,5,254,32"/>
+<area shape="rect" id="node5" href="$classCSpeciesFlameletVariable.html" title="Base class for defining the variables of the flamelet model." alt="" coords="95,229,287,256"/>
+<area shape="rect" id="node7" href="$classCTransLMVariable.html" title="Transition model variables." alt="" coords="311,229,449,256"/>
+<area shape="rect" id="node8" href="$classCTurbSAVariable.html" title="Main class for defining the variables of the turbulence model." alt="" coords="473,229,601,256"/>
+<area shape="rect" id="node9" href="$classCTurbSSTVariable.html" title="Main class for defining the variables of the turbulence model." alt="" coords="626,229,761,256"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="CIncEulerSolver::SetBeta_Parameter" name="CIncEulerSolver::SetBeta_Parameter">
+<area shape="rect" id="node1" title="Update the Beta parameter for the incompressible preconditioner." alt="" coords="5,150,188,191"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="239,5,449,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#ad67542407d98a2237251dd36c03b03d2" title="Get the epsilon^2 multiplier for Beta in the incompressible preconditioner." alt="" coords="255,56,433,83"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="236,107,452,133"/>
+<area shape="rect" id="node5" href="$classCConfig.html#ad58ef471e9cfa3ac076a83b4811f85b3" title="Get the maximum velocity^2 in the domain for the incompressible preconditioner." alt="" coords="261,157,427,184"/>
+<area shape="rect" id="node6" href="$classCFlowVariable.html#a05985b673db2741ecca6077bf6687089" title="Get the squared norm of the velocity." alt="" coords="241,208,447,235"/>
+<area shape="rect" id="node7" href="$classCIncEulerVariable.html#a6b46af3312443d36615a84c0e3425194" title="Set the value of the beta coeffient for incompressible flows." alt="" coords="272,259,416,301"/>
+<area shape="rect" id="node8" href="$classCConfig.html#aee462e868b4c14e214d71538c28b12d8" title="Set the maximum velocity^2 in the domain for the incompressible preconditioner." alt="" coords="262,325,426,352"/>
+</map>

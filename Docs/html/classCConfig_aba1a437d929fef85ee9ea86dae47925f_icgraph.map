@@ -1,0 +1,6 @@
+<map id="CConfig::GetKind_SlopeLimit_AdjFlow" name="CConfig::GetKind_SlopeLimit_AdjFlow">
+<area shape="rect" id="node1" title="Get the method for limiting the spatial gradients." alt="" coords="279,49,487,90"/>
+<area shape="rect" id="node2" href="$classCAdjEulerSolver.html#a64baf8c7af6006bdc4ad0919f7c2507a" title="Initialize the residual vectors." alt="" coords="5,5,231,32"/>
+<area shape="rect" id="node3" href="$classCAdjNSSolver.html#a0669f6fb8ef7cd7800d151d4aff7d3f6" title="Restart residual and compute gradients." alt="" coords="13,56,223,83"/>
+<area shape="rect" id="node4" href="$classCAdjEulerSolver.html#a27f05ad7c19b238efda73a2866c4b9b7" title="Compute the spatial integration using a upwind scheme." alt="" coords="27,107,209,149"/>
+</map>

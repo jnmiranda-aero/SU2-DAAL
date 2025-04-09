@@ -1,0 +1,6 @@
+<map id="CSolver::GetTurboPrimitive" name="CSolver::GetTurboPrimitive">
+<area shape="rect" id="node1" title="Get Primal variables for turbo performance computation iteration can be executed by multiple threads." alt="" coords="673,13,871,39"/>
+<area shape="rect" id="node2" href="$classCFluidIteration.html#a69a4a7d02c635c890115f22f95c05d99" title="Computes turboperformance." alt="" coords="440,5,625,47"/>
+<area shape="rect" id="node3" href="$classCFluidIteration.html#a65a5e3091a587996d2edf4c415a241f6" title="Monitors the convergence and other metrics for the fluid system." alt="" coords="216,13,392,39"/>
+<area shape="rect" id="node4" href="$classCFluidIteration.html#ae4c454356af70246063fdcba4accb068" title="Iterate the fluid system for a number of Inner_Iter iterations." alt="" coords="5,13,168,39"/>
+</map>

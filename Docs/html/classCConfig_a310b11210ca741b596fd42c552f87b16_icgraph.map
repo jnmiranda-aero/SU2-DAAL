@@ -1,0 +1,7 @@
+<map id="CConfig::GetEdgeColoringGroupSize" name="CConfig::GetEdgeColoringGroupSize">
+<area shape="rect" id="node1" title="Get the size of the edge groups colored for OpenMP parallelization of edge loops." alt="" coords="256,104,445,145"/>
+<area shape="rect" id="node2" href="$classCMultiGridGeometry.html#a59a712b6935d3057542cc1481e44c1c3" title="Constructor of the class." alt="" coords="25,5,189,47"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#a075a737b341a64de5463ddd41096692e" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file." alt="" coords="28,71,185,112"/>
+<area shape="rect" id="node4" href="$classCFVMFlowSolverBase.html#a8c19de20d537852775225aa6d201f00f" title="Method to compute convective and viscous residual contribution using vectorized numerics." alt="" coords="25,136,189,177"/>
+<area shape="rect" id="node5" href="$classCFVMFlowSolverBase.html#add3f32c09f3bb0032ed4cc4144ec8b10" title="Initialize thread parallel variables." alt="" coords="5,201,208,243"/>
+</map>

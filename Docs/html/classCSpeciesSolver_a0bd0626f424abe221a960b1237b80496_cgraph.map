@@ -1,0 +1,7 @@
+<map id="CSpeciesSolver::CSpeciesSolver" name="CSpeciesSolver::CSpeciesSolver">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,49,195,90"/>
+<area shape="rect" id="node2" href="$classCSpeciesSolver.html#ad58605ba6ee6bef0b0e2bf85c5e47ebf" title="Compute the viscous flux for the turbulent equation at a particular edge." alt="" coords="243,49,423,90"/>
+<area shape="rect" id="node3" href="$classCSpeciesVariable.html#aae13cb2b3f3513150226afaa146b2cef" title="Get the value of the mass diffusivity." alt="" coords="474,5,706,32"/>
+<area shape="rect" id="node4" href="$classCNumerics.html#af6b1e11963e6a4b8ec03459f8bcccf6a" title="Set the diffusion coefficient." alt="" coords="483,56,697,83"/>
+<area shape="rect" id="node5" href="$classCScalarSolver.html#ab460d200968b7d9e19f9f408c38d5006" title="Compute the viscous flux for the scalar equation at a particular edge." alt="" coords="471,107,709,149"/>
+</map>

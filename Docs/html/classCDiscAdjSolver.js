@@ -5,7 +5,7 @@ var classCDiscAdjSolver =
     [ "~CDiscAdjSolver", "classCDiscAdjSolver.html#a77a208ea4c6abb3718751d3446727eb4", null ],
     [ "ExtractAdjoint_Solution", "classCDiscAdjSolver.html#a197e13969a8007038486acaabc5902c8", null ],
     [ "ExtractAdjoint_Variables", "classCDiscAdjSolver.html#aad52232974bd9f20c8025f471d37aeb1", null ],
-    [ "GetBaseClassPointerToNodes", "classCDiscAdjSolver.html#a4edb35ad4bc611f80ecee35d3f870e9e", null ],
+    [ "GetBaseClassPointerToNodes", "classCDiscAdjSolver.html#ac7d14119cadf1244b7aa677a2281404d", null ],
     [ "GetCSensitivity", "classCDiscAdjSolver.html#a349f171fc77c8369de6a3b99e2562fc6", null ],
     [ "GetHasHybridParallel", "classCDiscAdjSolver.html#acb372c483708922787e1b31b657d27dd", null ],
     [ "GetTotal_Sens_AoA", "classCDiscAdjSolver.html#a49a3b6dbbadd18e969b1be154048ca59", null ],

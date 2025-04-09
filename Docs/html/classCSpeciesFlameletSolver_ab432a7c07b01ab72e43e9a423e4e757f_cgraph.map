@@ -1,0 +1,25 @@
+<map id="CSpeciesFlameletSolver::Source_Residual" name="CSpeciesFlameletSolver::Source_Residual">
+<area shape="rect" id="node1" title="Source term computation." alt="" coords="5,179,185,221"/>
+<area shape="rect" id="node2" href="$classCVariable.html#a9e6b6287ae4894e1c5c39b96d2c23d86" title=" " alt="" coords="233,136,440,163"/>
+<area shape="rect" id="node3" href="$classCPoint.html#a35a504401472dfa76ef1187a5675414f" title="Get area or volume of the control volume." alt="" coords="535,5,679,32"/>
+<area shape="rect" id="node4" href="$classCSpeciesSolver.html#a02c01af54949033097952c6562e2ee64" title="Source term computation for axisymmetric flow." alt="" coords="249,419,424,461"/>
+<area shape="rect" id="node5" href="$classCNumerics.html#aa0ca13663a047ef2640b377b33875e29" title="Compute the numerical residual." alt="" coords="499,56,715,83"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a509e098ac64a59535a8e59ec2de6f68b" title="Get information about the axisymmetric frame." alt="" coords="510,107,705,133"/>
+<area shape="rect" id="node7" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="541,157,674,184"/>
+<area shape="rect" id="node8" href="$classCSpeciesVariable.html#aae13cb2b3f3513150226afaa146b2cef" title="Get the value of the mass diffusivity." alt="" coords="491,208,723,235"/>
+<area shape="rect" id="node9" href="$classCVariable.html#a07d4f954fe5a79e6f85adab3d462d73c" title="Get the gradient of the entire solution." alt="" coords="522,259,693,285"/>
+<area shape="rect" id="node10" href="$classCConfig.html#ad16f71356f146b530fb1fbb45444525c" title="Get the kind of time integration method." alt="" coords="513,310,702,351"/>
+<area shape="rect" id="node11" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="535,376,679,403"/>
+<area shape="rect" id="node12" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="523,427,691,453"/>
+<area shape="rect" id="node13" href="$omp__structure_8hpp.html#aad63dd7e34961dbbd2e8774e7f6bc2d0" title="Index of current thread, akin to MPI rank." alt="" coords="525,477,689,504"/>
+<area shape="rect" id="node14" href="$classCNumerics.html#a6ca4a8e17d68ea63f1dba96cd5f2967d" title="Set coordinates of the points." alt="" coords="527,528,687,555"/>
+<area shape="rect" id="node15" href="$classCNumerics.html#af6b1e11963e6a4b8ec03459f8bcccf6a" title="Set the diffusion coefficient." alt="" coords="500,579,715,605"/>
+<area shape="rect" id="node16" href="$classCNumerics.html#a028c500ba7ce96d3af061fc8218f76f1" title="Set the value of the primitive variables." alt="" coords="517,629,698,656"/>
+<area shape="rect" id="node17" href="$classCNumerics.html#a6e1c4dea51983cbe489762bd43bae41d" title="Set the value of the scalar variable." alt="" coords="516,680,699,707"/>
+<area shape="rect" id="node18" href="$classCNumerics.html#a8c5ce8e8a1cb2c0bb03bf408d9a80d68" title="Set the gradient of the scalar variables." alt="" coords="488,731,727,757"/>
+<area shape="rect" id="node19" href="$classCNumerics.html#a53c24228ba235c1a0c2e4509243e5e88" title="Set the value of the volume of the control volume." alt="" coords="522,781,693,808"/>
+<area shape="rect" id="node20" href="$classCSysVector.html#a71ea6ec1ebdb77535b976bb40e7659a6" title="Subtract &quot;block&quot; from the vector, see AddBlock." alt="" coords="511,832,704,859"/>
+<area shape="rect" id="node22" href="$classCSysMatrix.html#a423b77066cf386dd6e4b95a656e4aadb" title="Short&#45;hand to AddBlock2Diag with alpha = &#45;1, i.e. subtracts from the current diagonal." alt="" coords="491,883,723,909"/>
+<area shape="rect" id="node21" href="$classCSysVector.html#aa463275cba394503a9778529fdaa4494" title="Add &quot;block&quot; to the vector, see SetBlock." alt="" coords="794,832,958,859"/>
+<area shape="rect" id="node23" href="$classCSysMatrix.html#a5a4ef7eeb7f009450f575660108ed7be" title="Non overwrite version of SetBlock2Diag, also with scaling." alt="" coords="775,883,977,909"/>
+</map>

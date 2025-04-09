@@ -7,7 +7,7 @@ var classCFaceOfElement =
     [ "CreateUniqueNumbering", "classCFaceOfElement.html#a1f80d19d78b66efca57d5b0dff537d87", null ],
     [ "CreateUniqueNumberingWithOrientation", "classCFaceOfElement.html#aa4d87bea8ad3cf2bf6ccf58099605f85", null ],
     [ "operator<", "classCFaceOfElement.html#a912cad526da8e12334057d497c613ca3", null ],
-    [ "operator=", "classCFaceOfElement.html#a29eb75d1759eb247a4691f14688638af", null ],
+    [ "operator=", "classCFaceOfElement.html#ac14b64db417baae3e020ac8c97c6f270", null ],
     [ "operator==", "classCFaceOfElement.html#aefc4b9c8c468e36f05c105e2938f9ccc", null ],
     [ "cornerPoints", "classCFaceOfElement.html#a1c982e1d819cdad41d0e5c56c6b6a8cd", null ],
     [ "elem0IsOwner", "classCFaceOfElement.html#a5232b66e5ab88980423e66a9405b10e9", null ],

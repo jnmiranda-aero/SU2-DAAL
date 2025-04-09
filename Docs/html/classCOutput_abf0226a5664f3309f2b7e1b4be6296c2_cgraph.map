@@ -1,0 +1,12 @@
+<map id="COutput::MonitorTimeConvergence" name="COutput::MonitorTimeConvergence">
+<area shape="rect" id="node1" title="Monitor the time convergence of the specified windowed&#45;time&#45;averaged ouput." alt="" coords="5,175,256,202"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="593,179,775,206"/>
+<area shape="rect" id="node4" href="$classCOutput.html#a585498dfa05e2c633f5e556220ce1fa2" title="Get convergence of the problem." alt="" coords="329,49,520,75"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a096cf3c68234d10476425acf40a7bf40" title="Get the number of inner iterations." alt="" coords="338,99,511,126"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a63b0d6add42381653e7fd36acfa9afad" title="Get the Starting Iteration for the windowing approach in Sensitivity Analysis for period&#45;averaged out..." alt="" coords="304,150,545,177"/>
+<area shape="rect" id="node7" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="347,201,502,227"/>
+<area shape="rect" id="node8" href="$classCConfig.html#aa074bd70eeb57bbdf6ae340f93389096" title="Get the boolean value, whether the the Cauchy method for the time averaged windowed objective functio..." alt="" coords="316,251,533,278"/>
+<area shape="rect" id="node9" href="$classCConfig.html#aede3cd71646e18ee658ae5e02ddac171" title="Get the number of iterations that are not considered in the convergence criteria for the windowed ave..." alt="" coords="309,302,541,329"/>
+<area shape="rect" id="node10" href="$classCOutput.html#a1c1f836992f419544472329a44b8836e" title="Set the value of a history output field." alt="" coords="327,353,522,395"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="823,179,1008,206"/>
+</map>

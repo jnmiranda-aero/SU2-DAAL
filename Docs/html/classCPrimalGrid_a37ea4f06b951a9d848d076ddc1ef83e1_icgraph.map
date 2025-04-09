@@ -1,0 +1,5 @@
+<map id="CPrimalGrid::GetCG" name="CPrimalGrid::GetCG">
+<area shape="rect" id="node1" title="Get the center of gravity of an element (including edges)." alt="" coords="276,46,427,73"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#a7cb41549dc077f561b34e1595847a3c0" title="Compute 3 grid quality metrics: orthogonality angle, dual cell aspect ratio, and dual cell volume rat..." alt="" coords="5,5,228,47"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#a70c5b970b1349724f4d7d6e229058926" title="Visualize the structure of the control volume(s)." alt="" coords="28,71,205,112"/>
+</map>

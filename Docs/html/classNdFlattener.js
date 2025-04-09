@@ -10,14 +10,14 @@ var classNdFlattener =
     [ "allocate", "classNdFlattener.html#a5b98791c321c5c1764fb90669c0c308c", null ],
     [ "count_f", "classNdFlattener.html#ad3c91197f3c783a2a2414fd13cb03e76", null ],
     [ "count_g", "classNdFlattener.html#a634f7ddd660f9903febef4c9d0c8bc44", null ],
-    [ "GetIndices", "classNdFlattener.html#a22a0222706287ba604f7e8a080c656fb", null ],
-    [ "GetIndices", "classNdFlattener.html#a09a0bbe9c79d6fdde1ed4399c1774cde", null ],
+    [ "GetIndices", "classNdFlattener.html#a341735d619010ac8e6f83f1e049a3b70", null ],
+    [ "GetIndices", "classNdFlattener.html#a0b9c622727a1c64eda14fdfd63781cac", null ],
     [ "initialize", "classNdFlattener.html#a7dabed7d4fdb3962b0e8efc0222029ce", null ],
     [ "initialize", "classNdFlattener.html#a5a64310f9e1fd68ce6713175dd218150", null ],
     [ "initialize_or_refresh", "classNdFlattener.html#a7e8bd6e1b88fb84601002a9c9ce01f0c", null ],
     [ "initialized", "classNdFlattener.html#a44a3f5370f366b73b23af6932bad6583", null ],
-    [ "operator[]", "classNdFlattener.html#a3204ed42d4b7c5ff1f9a19d60069da62", null ],
-    [ "operator[]", "classNdFlattener.html#aa309084d7c973c379354e0d24213b483", null ],
+    [ "operator[]", "classNdFlattener.html#a10297565907e6aa243671fb366422735", null ],
+    [ "operator[]", "classNdFlattener.html#a38c8a45af71db3d3750537ce3fe565fc", null ],
     [ "refresh", "classNdFlattener.html#a25b47f23e8abfc8da0ab09b95468d307", null ],
     [ "refresh", "classNdFlattener.html#ae846bd863d29bbf19a0ec18c6df75da5", null ],
     [ "reset_iNode", "classNdFlattener.html#ad7512182cddd2acf3faea22dfb63dd27", null ],
@@ -25,5 +25,5 @@ var classNdFlattener =
     [ "set_g", "classNdFlattener.html#afb55df030157d587a9154544a943be3e", null ],
     [ "size", "classNdFlattener.html#abba958624e9349f1842dfe36e9b058e6", null ],
     [ "toPythonString_fromto", "classNdFlattener.html#a16279e15de6f0fa4f6edc3702018a2b5", null ],
-    [ "operator<<", "classNdFlattener.html#a48aa7d1032745b2e4a8abf2bf1ec08f4", null ]
+    [ "operator<<", "classNdFlattener.html#ade5dd1b122b74f8a64fa8aac985ef971", null ]
 ];

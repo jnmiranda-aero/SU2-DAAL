@@ -1,0 +1,8 @@
+<map id="CFlowOutput::AddHeatCoefficients" name="CFlowOutput::AddHeatCoefficients">
+<area shape="rect" id="node1" title="Add heat flux coefficients as output fields." alt="" coords="5,129,252,156"/>
+<area shape="rect" id="node2" href="$classCOutput.html#ad5ee424d364346cbd6dc27ffbab35e0a" title="Add a new field to the history output." alt="" coords="300,5,499,32"/>
+<area shape="rect" id="node3" href="$classCOutput.html#a8777541eeb47d01a7cc0cf646dfb44bb" title="Add a new field per surface marker to the history output." alt="" coords="300,57,499,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a4558fc163c393e628050e7a2273673f1" title="Get the name of the surface defined in the geometry file." alt="" coords="315,122,484,163"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a6e65810e59b8015104b84c4fd5b1d7f9" title="Get the total number of monitoring markers." alt="" coords="321,187,477,229"/>
+<area shape="rect" id="node6" href="$classCConfig.html#ad59acb5f80aaddccaa0f2f5bef3e3e78" title="Determines if problem is viscous." alt="" coords="323,253,476,280"/>
+</map>

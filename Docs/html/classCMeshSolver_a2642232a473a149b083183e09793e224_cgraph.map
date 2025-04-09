@@ -1,0 +1,8 @@
+<map id="CMeshSolver::SetMesh_Stiffness" name="CMeshSolver::SetMesh_Stiffness">
+<area shape="rect" id="node1" title="Set the stiffness of the mesh." alt="" coords="5,136,176,177"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a9ce92e092310358e3fdb6474eaa30688" title="Get Young&#39;s modulus for deformation (constant stiffness deformation)" alt="" coords="248,5,400,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a7c9e5aa135d84a5d90cc0166fc690459" title="Get the size of the layer of highest stiffness for wall distance&#45;based mesh stiffness." alt="" coords="248,71,400,112"/>
+<area shape="rect" id="node4" href="$classCConfig.html#ab62038a9661de64bfe3cf8c19eeb773a" title="Get the type of stiffness to impose for FEA mesh deformation." alt="" coords="248,136,400,177"/>
+<area shape="rect" id="node5" href="$omp__structure_8hpp.html#aad63dd7e34961dbbd2e8774e7f6bc2d0" title="Index of current thread, akin to MPI rank." alt="" coords="242,202,406,229"/>
+<area shape="rect" id="node6" href="$classCNumerics.html#ad5fad789ba9a4cea9c02a3ed35c70715" title="Set the element&#45;based local Young&#39;s modulus in mesh problems." alt="" coords="224,253,424,295"/>
+</map>

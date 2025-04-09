@@ -1,0 +1,9 @@
+<map id="CConfig::GetKind_SlopeLimit" name="CConfig::GetKind_SlopeLimit">
+<area shape="rect" id="node1" title="Get the method for limiting the spatial gradients." alt="" coords="597,64,805,91"/>
+<area shape="rect" id="node2" href="$classCScalarSolver.html#aa6238dd670ce793d763fc35598b52dcf" title="Gradient and Limiter computation." alt="" coords="279,5,549,32"/>
+<area shape="rect" id="node3" href="$classCSolver.html#a6bc3916452ffa54c2436de7bb627fefa" title="Compute slope limiter." alt="" coords="337,57,491,98"/>
+<area shape="rect" id="node6" href="$classCScalarSolver.html#a7a5250679bf3984b0e9b1a2d9641936f" title="Compute the spatial integration using a upwind scheme." alt="" coords="329,122,499,163"/>
+<area shape="rect" id="node4" href="$classCAdjEulerSolver.html#a64baf8c7af6006bdc4ad0919f7c2507a" title="Initialize the residual vectors." alt="" coords="5,17,231,44"/>
+<area shape="rect" id="node5" href="$classCAdjNSSolver.html#a0669f6fb8ef7cd7800d151d4aff7d3f6" title="Restart residual and compute gradients." alt="" coords="13,68,223,95"/>
+<area shape="rect" id="node7" href="$classCHeatSolver.html#a6ae942fed49ba1b235dd757ee801f917" title="Compute the spatial integration using a upwind scheme." alt="" coords="38,122,198,163"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CConfig::GetFlameInit" name="CConfig::GetFlameInit">
+<area shape="rect" id="node1" title="Get the flame initialization. (x1,x2,x3) = flame offset/spark center location. (x4,..." alt="" coords="233,46,399,73"/>
+<area shape="rect" id="node2" href="$classCSpeciesFlameletSolver.html#aee0e7fac4103cec39936c9f3e0c9e4f4" title="Restart residual and compute gradients." alt="" coords="5,5,185,47"/>
+<area shape="rect" id="node3" href="$classCSpeciesFlameletSolver.html#ae9d618734213fca7565d4290a4a36f68" title="Set the initial condition for the scalar transport problem." alt="" coords="5,71,185,112"/>
+</map>

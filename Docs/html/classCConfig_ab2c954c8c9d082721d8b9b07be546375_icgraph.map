@@ -1,0 +1,4 @@
+<map id="CConfig::GetInlet_MassFrac" name="CConfig::GetInlet_MassFrac">
+<area shape="rect" id="node1" title="Get the mass fraction vector for a NEMO inlet boundary." alt="" coords="224,13,424,39"/>
+<area shape="rect" id="node2" href="$classCNEMOEulerSolver.html#a1448f7a4a713ada22016532249a56a95" title="Impose a supersonic inlet boundary condition." alt="" coords="5,5,176,47"/>
+</map>

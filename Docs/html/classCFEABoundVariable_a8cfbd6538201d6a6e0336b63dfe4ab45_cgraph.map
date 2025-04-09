@@ -1,0 +1,4 @@
+<map id="CFEABoundVariable::Get_FlowTraction_n" name="CFEABoundVariable::Get_FlowTraction_n">
+<area shape="rect" id="node1" title="Retrieve the value of the flow traction from the previous time step." alt="" coords="5,5,164,47"/>
+<area shape="rect" id="node2" href="$classCVertexMap.html#ae62665f7065cb9e31c2aec1ec90c0afc" title="Convert a point index to vertex index." alt="" coords="212,13,423,39"/>
+</map>

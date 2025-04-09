@@ -1,0 +1,10 @@
+<map id="CRadSolver::SetVolumetricHeatSource" name="CRadSolver::SetVolumetricHeatSource">
+<area shape="rect" id="node1" title="Set the volumetric heat source." alt="" coords="5,173,201,214"/>
+<area shape="rect" id="node2" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="291,5,424,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a58ebc1ab1ecbaea066cce73a282f8520" title="Get the radius of the ellipsoid that introduces a volumetric heat source." alt="" coords="249,56,465,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a6d4684a6dd431dafcf4f0ff86cb32982" title="Get the position of the center of the volumetric heat source." alt="" coords="268,107,447,149"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a41465da2367e3b06f50412243978eb19" title="Get the rotation angle of the volumetric heat source in axis Z." alt="" coords="268,173,447,214"/>
+<area shape="rect" id="node6" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="303,239,412,265"/>
+<area shape="rect" id="node7" href="$classCRadVariable.html#a3204d7216f80143f454744fba50ebe5f" title="Reset as false a volumetric heat source for all points." alt="" coords="270,290,445,331"/>
+<area shape="rect" id="node8" href="$classCRadVariable.html#af17e3b0097d7589575d181b2f1501a19" title="Set as true a volumetric heat source for point iPoint." alt="" coords="278,355,437,397"/>
+</map>

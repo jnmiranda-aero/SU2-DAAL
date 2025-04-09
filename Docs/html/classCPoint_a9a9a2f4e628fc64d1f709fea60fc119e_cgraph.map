@@ -1,0 +1,6 @@
+<map id="CPoint::RegisterCoordinates" name="CPoint::RegisterCoordinates">
+<area shape="rect" id="node1" title="Register coordinates of a point." alt="" coords="5,56,209,83"/>
+<area shape="rect" id="node2" href="$namespaceAD.html#a142308d54379f7aaa1c72195fb5fe992" title="Registers the variable as an input. I.e. as a leaf of the computational graph." alt="" coords="263,5,399,32"/>
+<area shape="rect" id="node3" href="$namespaceAD.html#ae381e45797545e980376c4aeb3f5afdc" title="Registers the variable as an output. I.e. as the root of the computational graph." alt="" coords="257,56,404,83"/>
+<area shape="rect" id="node4" href="$namespaceAD.html#a93909396dd20444ea1ad3100003ff08c" title="Evaluates and saves gradient data from a variable." alt="" coords="277,107,384,133"/>
+</map>

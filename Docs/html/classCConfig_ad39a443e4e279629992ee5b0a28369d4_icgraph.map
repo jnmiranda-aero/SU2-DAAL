@@ -1,0 +1,13 @@
+<map id="CConfig::GetMu_RefND" name="CConfig::GetMu_RefND">
+<area shape="rect" id="node1" title="Get the value of the non&#45;dimensional reference viscosity for Sutherland model." alt="" coords="1139,130,1311,157"/>
+<area shape="rect" id="node2" href="$classCFluidModel.html#a9355dadcf856cc47846bb392c4e463b5" title="Instantiate the right type of viscosity model based on config." alt="" coords="892,5,1091,47"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="259,82,543,109"/>
+<area shape="rect" id="node6" href="$classCIncEulerSolver.html#a2cffaa24417cb3803d36d38b3874d6d0" title="Set the solver nondimensionalization." alt="" coords="249,151,552,178"/>
+<area shape="rect" id="node8" href="$classCFEM__DG__EulerSolver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="300,220,501,261"/>
+<area shape="rect" id="node3" href="$classCFluidModel.html#a3fff45eb5d6944cb5ed82de721233aa1" title="Set viscosity model." alt="" coords="600,123,844,164"/>
+<area shape="rect" id="node10" href="$classCFluidScalar.html#afdec02163e8dd0c36a2fb05991b8a63e" title="Set viscosity model." alt="" coords="629,5,815,47"/>
+<area shape="rect" id="node5" href="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460" title="Main constructor of this class." alt="" coords="5,82,201,109"/>
+<area shape="rect" id="node7" href="$classCIncEulerSolver.html#a2a0c72c1d1d79e45c69da03e01f6281a" title="Constructor of the class." alt="" coords="7,144,200,185"/>
+<area shape="rect" id="node9" href="$classCFEM__DG__EulerSolver.html#a70d30ef9e7cd7620d54ec73f4b1ed28c" title=" " alt="" coords="16,220,191,261"/>
+<area shape="rect" id="node11" href="$classCFluidScalar.html#a07a413fee4e00c2c651fc53d3f757c7a" title="Constructor of the class." alt="" coords="305,13,497,39"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="CFlowVariable::GetPrimitive" name="CFlowVariable::GetPrimitive">
+<area shape="rect" id="node1" title="Get a primitive variable." alt="" coords="1180,1165,1385,1191"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a9315eac22cbd58c5bb4a3e4282484a92" title="Impose an actuator disk inlet boundary condition." alt="" coords="921,15,1109,42"/>
+<area shape="rect" id="node5" href="$classCEulerSolver.html#aaae0b7d9c77ccc0812a5011436680d91" title="Impose an actuator disk with variable load boundary condition." alt="" coords="921,67,1109,108"/>
+<area shape="rect" id="node6" href="$classCEulerSolver.html#aaed2805cd896b61dd4a3898eb7db96f6" title="Impose the ancelle exhaust boundary condition." alt="" coords="924,132,1107,173"/>
+<area shape="rect" id="node7" href="$classCEulerSolver.html#a216b1002e7b947286502596c7a168a74" title="Impose the nacelle inflow boundary condition." alt="" coords="924,197,1107,239"/>
+<area shape="rect" id="node8" href="$classCEulerSolver.html#a11facef76cf89c53ed82c54895c057a9" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="937,263,1094,304"/>
+<area shape="rect" id="node9" href="$classCIncEulerSolver.html#a4344a93831dc3f6fd2830cbe8e0c1e3b" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="940,328,1091,369"/>
+<area shape="rect" id="node10" href="$classCNEMOEulerSolver.html#af35c1b20663aa6051487296077034f05" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="930,393,1101,435"/>
+<area shape="rect" id="node11" href="$classCEulerSolver.html#a40fad0a57e8dcba8a8f4d4fa8eab02f0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="930,459,1101,486"/>
+<area shape="rect" id="node12" href="$classCNEMONSSolver.html#a1d9ff4495625b00bfbf46b3ad87c4167" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="904,511,1127,552"/>
+<area shape="rect" id="node14" href="$classCEulerSolver.html#a908e4ec3ecb8f2f8af197bb30a1aed70" title="Impose a subsonic inlet boundary condition." alt="" coords="932,577,1099,603"/>
+<area shape="rect" id="node15" href="$classCIncEulerSolver.html#ac0b00dbc68bbd80aa48f6249c6ea5c38" title="Impose a subsonic inlet boundary condition." alt="" coords="940,628,1091,669"/>
+<area shape="rect" id="node16" href="$classCNEMOEulerSolver.html#a715d85f7c0791a1258fba5746257cba0" title="Impose a subsonic inlet boundary condition." alt="" coords="930,693,1101,735"/>
+<area shape="rect" id="node17" href="$classCNEMONSSolver.html#ae3d2c5f1c94cb3d01b7f351ce3105f31" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="899,759,1132,800"/>
+<area shape="rect" id="node19" href="$classCEulerSolver.html#ad26d60369d28b647c7aded1b0753bd95" title="Impose the outlet boundary condition." alt="" coords="926,825,1105,851"/>
+<area shape="rect" id="node20" href="$classCIncEulerSolver.html#afc1e6b64c1d323261468e1aa04b110ad" title="Impose the outlet boundary condition." alt="" coords="940,876,1091,917"/>
+<area shape="rect" id="node21" href="$classCNEMOEulerSolver.html#ad9c735fad084c25c2b24b9ccd3503fa8" title="Impose the outlet boundary condition." alt="" coords="930,941,1101,983"/>
+<area shape="rect" id="node22" href="$classCEulerSolver.html#a4ad4a65b3fc5a51b1561436736f7f7ca" title="Impose the boundary condition using characteristic recostruction." alt="" coords="917,1007,1113,1034"/>
+<area shape="rect" id="node23" href="$classCEulerSolver.html#a453f213de163fd34a89426ca05c59e33" title="Impose a supersonic inlet boundary condition." alt="" coords="911,1059,1120,1100"/>
+<area shape="rect" id="node24" href="$classCNEMOEulerSolver.html#a1448f7a4a713ada22016532249a56a95" title="Impose a supersonic inlet boundary condition." alt="" coords="930,1124,1101,1165"/>
+<area shape="rect" id="node25" href="$classCEulerSolver.html#ab6eb9aacd6b1c7c19d6a144fbfb184c3" title="Impose a supersonic outlet boundary condition." alt="" coords="911,1189,1120,1231"/>
+<area shape="rect" id="node26" href="$classCNEMOEulerSolver.html#a56fde05fcdc935ca387b46ee6bd7034e" title="Impose the supersonic outlet boundary condition." alt="" coords="930,1255,1101,1296"/>
+<area shape="rect" id="node27" href="$classCEulerSolver.html#a8e036f2dff1d945d814c93a74159a3cc" title="Impose the boundary condition using characteristic recostruction." alt="" coords="900,1321,1131,1347"/>
+<area shape="rect" id="node28" href="$classCNEMOEulerSolver.html#a7765314bdcc7440ec4b1826ab6cf16f3" title="Compute the spatial integration using a centered scheme." alt="" coords="909,1372,1121,1413"/>
+<area shape="rect" id="node29" href="$classCIncEulerSolver.html#a80e45f4af7302e9334c8663f9e3ae88b" title="Compute the spatial integration using a centered scheme." alt="" coords="920,1437,1111,1479"/>
+<area shape="rect" id="node30" href="$classCIncEulerSolver.html#aacea1dc960644b2fb82b191b17bf9056" title="A virtual member." alt="" coords="918,1503,1113,1544"/>
+<area shape="rect" id="node34" href="$classCEulerSolver.html#ad8b538a82e5a7a7e3903ec29954b1d07" title="Compute the Fan face Mach number." alt="" coords="621,1561,797,1603"/>
+<area shape="rect" id="node37" href="$classCEulerSolver.html#a6af5752ae941083a42f1d5761adb27ef" title="Parallelization of Undivided Laplacian." alt="" coords="627,1627,792,1668"/>
+<area shape="rect" id="node38" href="$classCEulerSolver.html#a147d5ae75cf7de115e4be2c23ba95f6d" title="Update the AoA and freestream velocity at the farfield." alt="" coords="617,1692,801,1733"/>
+<area shape="rect" id="node39" href="$classCEulerSolver.html#a68a64ec341d648dfbaddcd2c80455dcf" title="Read and update the variable load actuator disk from input file for the BLADE_ELEMENT type." alt="" coords="923,1721,1107,1763"/>
+<area shape="rect" id="node40" href="$classCNEMOEulerSolver.html#ae3b9dab24a842ae04b745c5303ec52aa" title="Compute the Pressure sensor for NEMO schemes." alt="" coords="900,1787,1131,1828"/>
+<area shape="rect" id="node43" href="$classCNEMONSSolver.html#aed93127447e3f92ba0c25a33adef7065" title="Compute the gradient of the primitive variables using Green&#45;Gauss method, and stores the result in th..." alt="" coords="600,1848,819,1889"/>
+<area shape="rect" id="node44" href="$classCIncEulerSolver.html#a5f9ced3a85731749b16d6f1bac9460f6" title="Source term integration." alt="" coords="927,1904,1103,1945"/>
+<area shape="rect" id="node45" href="$classCNEMOEulerSolver.html#a0758ca67e16c9f1f0f8fe5c8ec661cf7" title="Source term integration." alt="" coords="917,1969,1114,2011"/>
+<area shape="rect" id="node46" href="$classCEulerSolver.html#a3173ebda0dc28e9fc17ced219fc60e9a" title="Source term integration." alt="" coords="937,2035,1094,2076"/>
+<area shape="rect" id="node47" href="$classCEulerSolver.html#aa9729921eed9546daca6ca891ad2a9bb" title="Compute the spatial integration using a upwind scheme." alt="" coords="934,2100,1097,2141"/>
+<area shape="rect" id="node48" href="$classCIncEulerSolver.html#aa1a06c3eef34a7f82f5bca304d563b4a" title="Compute the spatial integration using a upwind scheme." alt="" coords="925,2165,1106,2207"/>
+<area shape="rect" id="node49" href="$classCNEMOEulerSolver.html#a427284b43fbe1f9c373096cc4bbe5781" title="Compute the spatial integration using a upwind scheme." alt="" coords="914,2231,1117,2272"/>
+<area shape="rect" id="node50" href="$classCScalarSolver.html#ab460d200968b7d9e19f9f408c38d5006" title="Compute the viscous flux for the scalar equation at a particular edge." alt="" coords="930,2296,1101,2337"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a90fc349055f88a9e46f09d2f36b6bd7f" title="Impose the engine inflow boundary condition." alt="" coords="615,5,803,47"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#a31a66b0142e407b05c68e70f7ebafff5" title="Impose the engine exhaust boundary condition." alt="" coords="615,71,803,112"/>
+<area shape="rect" id="node13" href="$classCNEMONSSolver.html#aa52e178cc5f052026e73735d6e9b847f" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="581,518,838,545"/>
+<area shape="rect" id="node18" href="$classCNEMONSSolver.html#a8c6c80e6e8f2aed2ff80c78a8e5aec9e" title="Generic implementation of the isothermal wall." alt="" coords="575,766,843,793"/>
+<area shape="rect" id="node31" href="$classCIncEulerSolver.html#ac50d02e914c4337e73d2c4878b12c59d" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="568,1510,851,1537"/>
+<area shape="rect" id="node32" href="$classCIncEulerSolver.html#aac33066eba6bdbe02693afb992e307d8" title="Compute primitive variables and their gradients." alt="" coords="277,1485,500,1511"/>
+<area shape="rect" id="node33" href="$classCIncNSSolver.html#aaaff5cfe93aa72a689248c80b2ea9149" title="Restart residual and compute gradients." alt="" coords="285,1535,493,1562"/>
+<area shape="rect" id="node35" href="$classCEulerSolver.html#a0d6f93feba8d6aad18edf3594213042b" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="257,1634,520,1661"/>
+<area shape="rect" id="node36" href="$classCEulerSolver.html#ab08b6aa95648e7ab973f9f247fe54b31" title="Compute primitive variables and their gradients." alt="" coords="5,1634,209,1661"/>
+<area shape="rect" id="node41" href="$classCNEMOEulerSolver.html#a27f21d6dbfb7f6c600f759caf7625087" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="603,1783,815,1824"/>
+<area shape="rect" id="node42" href="$classCNEMONSSolver.html#aef1c13c42cd8103377619f7d94660d6a" title="Restart residual and compute gradients." alt="" coords="274,1822,503,1849"/>
+</map>

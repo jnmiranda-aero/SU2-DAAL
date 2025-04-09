@@ -1,0 +1,14 @@
+<map id="CVariable::GetTemperature" name="CVariable::GetTemperature">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="563,277,760,303"/>
+<area shape="rect" id="node2" href="$classCRadP1Solver.html#abfe27f7a2dd3f371b52cfecd93acdc87" title="Impose the Marshak boundary condition." alt="" coords="303,159,505,186"/>
+<area shape="rect" id="node9" href="$classCConjugateHeatInterface.html#a11264c7dda7df147258e1ee89b315ea8" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="311,211,497,252"/>
+<area shape="rect" id="node10" href="$classCRadP1Solver.html#a560798672f7fb4897c17ecb0ec9efe12" title="A virtual member." alt="" coords="295,277,513,303"/>
+<area shape="rect" id="node11" href="$classCSpeciesSolver.html#a5ccb8c2120d645a83db3f6d1d08e7984" title="Restart residual and compute gradients." alt="" coords="293,327,515,354"/>
+<area shape="rect" id="node12" href="$classCSpeciesFlameletSolver.html#a736b1d7ee4006457731975b183b88004" title="Compute the fluxes due to viscous and preferential diffusion effects of the flamelet species at a par..." alt="" coords="314,403,494,444"/>
+<area shape="rect" id="node3" href="$classCRadP1Solver.html#a3fe6a36acb081b47eff2de4c8b0e0fd7" title="Impose the Marshak BC on conjugate heat interfaces." alt="" coords="19,5,231,47"/>
+<area shape="rect" id="node4" href="$classCRadP1Solver.html#acc71fea1636d568694513efc4a07e268" title="Impose via the Marshak BC on Euler walls." alt="" coords="18,71,233,98"/>
+<area shape="rect" id="node5" href="$classCRadP1Solver.html#abf8015bb8d3f6cb29da118e8bdeca05d" title="Impose the Marshak BC on sliding interfaces." alt="" coords="36,123,215,164"/>
+<area shape="rect" id="node6" href="$classCRadP1Solver.html#af20bae041d9e18f6f09e6e2025d48b08" title="Impose the Marshak BC on Heatflux wall boundaries." alt="" coords="5,189,245,215"/>
+<area shape="rect" id="node7" href="$classCRadP1Solver.html#ae8362cfdf8d6db5464c0993e62448fde" title="Impose the Marshak BC on inlet boundaries." alt="" coords="38,239,213,266"/>
+<area shape="rect" id="node8" href="$classCRadP1Solver.html#a7363b0e5e1eefd9ced01fb82d14154f0" title="Impose the Marshak BC on outlet boundaries." alt="" coords="32,290,219,317"/>
+</map>

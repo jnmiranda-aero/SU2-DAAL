@@ -1,0 +1,16 @@
+<map id="CPhysicalGeometry::SetAvgTurboGeoValues" name="CPhysicalGeometry::SetAvgTurboGeoValues">
+<area shape="rect" id="node1" title="Store all the turboperformance in the solver in ZONE_0." alt="" coords="5,302,176,343"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a03c8979b4b994e80d0928b1ec7f2726a" title="number span&#45;wise sections to compute performance for turbomachinery." alt="" coords="224,5,452,32"/>
+<area shape="rect" id="node3" href="$classCGeometry.html#a5a1e2a948ab36482c9721b6b24f6d018" title="Get the value of the inflow area at each span." alt="" coords="238,56,438,83"/>
+<area shape="rect" id="node4" href="$classCGeometry.html#a85819fe72a6cc1f86b07cb9ebcfe8342" title="Get the value of the outflow area at each span." alt="" coords="233,107,443,133"/>
+<area shape="rect" id="node5" href="$classCGeometry.html#aa95ec1ef83d3514a1552687acb74b9ef" title="Get the value of the inflow tangential velocity at each span." alt="" coords="231,157,445,184"/>
+<area shape="rect" id="node6" href="$classCGeometry.html#a9020c6c06541b052a04494be9baf8fa8" title="Get the value of the outflow tangential velocity at each span." alt="" coords="225,208,451,235"/>
+<area shape="rect" id="node7" href="$classCGeometry.html#ae34cb54686877337c43e967d2da8f049" title="Get the value of the inflow radius at each span." alt="" coords="229,259,447,285"/>
+<area shape="rect" id="node8" href="$classCGeometry.html#aaa7998d3f0abfd3df73e4bfd5880e676" title="Get the value of the outflow radius at each span." alt="" coords="224,309,452,336"/>
+<area shape="rect" id="node9" href="$classCGeometry.html#aba018c766d32400ba34cff7c54bf2884" title="Set the value of the inflow area at each span." alt="" coords="239,360,437,387"/>
+<area shape="rect" id="node10" href="$classCGeometry.html#a136b4b4cc3bfea7d4240663fc0f18ecb" title="Set the value of the outflow area at each span." alt="" coords="233,411,443,437"/>
+<area shape="rect" id="node11" href="$classCGeometry.html#a664ebfc496c865521f1480f8f72e2454" title="Set the value of the inflow tangential velocity at each span." alt="" coords="231,461,445,488"/>
+<area shape="rect" id="node12" href="$classCGeometry.html#ade822fedb0b86f7aabcb032131cbc738" title="Set the value of the outflow tangential velocity at each span." alt="" coords="226,512,450,539"/>
+<area shape="rect" id="node13" href="$classCGeometry.html#a39e081240235a6ab9580b6cafdfec2e8" title="Set the value of the inflow radius at each span." alt="" coords="231,563,445,589"/>
+<area shape="rect" id="node14" href="$classCGeometry.html#a6e881e3cf75715f58c4c6f220ca42e76" title="Set the value of the outflow radius at each span." alt="" coords="225,613,451,640"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="CDriver::InstantiateTurbulentNumerics" name="CDriver::InstantiateTurbulentNumerics">
+<area shape="rect" id="node1" title="Helper to instantiate turbulence numerics specialized for different flow solvers." alt="" coords="5,202,215,243"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="279,5,461,32"/>
+<area shape="rect" id="node4" href="$classCSolver.html#a01f0334193ceea6beecd6903bdc844b8" title="A virtual member." alt="" coords="286,56,454,83"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a9426cef52b7a6622907e42899521fe2a" title="Get the kind of convective numerical scheme for the turbulence equations (upwind)." alt="" coords="269,107,471,149"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a42cf888b42ce34079b2e3987bbf147dd" title="Get the kind of the turbulence model." alt="" coords="287,173,453,214"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a15a61a6f9a1d415c3509018f4916c5c1" title="Get the number of multigrid levels." alt="" coords="283,239,457,265"/>
+<area shape="rect" id="node8" href="$classCSolver.html#ab76ff62a2ee9183f507d0a39daf0c5ec" title="A virtual member." alt="" coords="283,289,457,316"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a66aa27cc745f1c7328987376dbd6788d" title="Get parsed SA option data structure." alt="" coords="263,340,477,367"/>
+<area shape="rect" id="node10" href="$classCSolver.html#aae6e9c9a324874279f86f7053d212a48" title="A virtual member." alt="" coords="295,391,445,417"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="525,5,711,32"/>
+</map>

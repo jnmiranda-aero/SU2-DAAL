@@ -1,0 +1,4 @@
+<map id="CConfig::GetKind_Engine_Inflow" name="CConfig::GetKind_Engine_Inflow">
+<area shape="rect" id="node1" title="Get the kind of inlet boundary condition treatment (total conditions or mass flow)." alt="" coords="236,5,419,47"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a216b1002e7b947286502596c7a168a74" title="Impose the nacelle inflow boundary condition." alt="" coords="5,5,188,47"/>
+</map>

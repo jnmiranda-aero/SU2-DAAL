@@ -1,0 +1,5 @@
+<map id="CConfig::GetKind_Matrix_Coloring" name="CConfig::GetKind_Matrix_Coloring">
+<area shape="rect" id="node1" title="Get the kind of matrix coloring used for the sparse Jacobian computation." alt="" coords="459,5,640,47"/>
+<area shape="rect" id="node2" href="$classCGraphColoringStructure.html#af201979cd95be98ba34369bb30629956" title="Function, which determines the colors for the vertices of the given graph." alt="" coords="228,5,411,47"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__EulerSolver.html#a677fa998b78bd489a3f8bee0d56623dd" title=" " alt="" coords="5,5,180,47"/>
+</map>

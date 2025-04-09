@@ -1,0 +1,7 @@
+<map id="CSysSolve::FGMRES_LinSolver" name="CSysSolve::FGMRES_LinSolver">
+<area shape="rect" id="node1" title="Flexible Generalized Minimal Residual method." alt="" coords="5,81,225,108"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a63e1f265b788b4e56cb7ebdeba29b78e" title=" " alt="" coords="273,5,480,32"/>
+<area shape="rect" id="node3" href="$classCPreconditioner.html#acd274ef50ed8a59b9f251396cd130fda" title="Return true to identify the identity preconditioner, may allow some solvers to be more efficient." alt="" coords="279,56,474,83"/>
+<area shape="rect" id="node4" href="$omp__structure_8hpp.html#a2f7befecc7b1a4eaade8d81fa6524225" title="Maximum number of threads available." alt="" coords="291,107,462,133"/>
+<area shape="rect" id="node5" href="$omp__structure_8hpp.html#a74dcff027d4e303b08dd7f82c053faf6" title="Returns true if inside a parallel section." alt="" coords="313,157,440,184"/>
+</map>

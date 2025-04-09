@@ -1,0 +1,8 @@
+<map id="CVertexMap::GetIsVertex" name="CVertexMap::GetIsVertex">
+<area shape="rect" id="node1" title="Get wheter a point is marked as vertex." alt="" coords="263,143,448,170"/>
+<area shape="rect" id="node2" href="$classCDiscAdjFEABoundVariable.html#a9453c21013063496c49493a96a21715c" title="Get whether a node is on the boundary." alt="" coords="11,5,209,47"/>
+<area shape="rect" id="node3" href="$classCDiscAdjMeshBoundVariable.html#af96ff2cca67c67c3f8f241b169ce16a5" title="Get whether a node is on the boundary." alt="" coords="5,71,215,112"/>
+<area shape="rect" id="node4" href="$classCFEABoundVariable.html#aea74843e39d8357f1d41187d55a0b80a" title="Get whether a node is on the boundary." alt="" coords="31,136,189,177"/>
+<area shape="rect" id="node5" href="$classCMeshBoundVariable.html#af8c5679ec252145127f8ed34261320ce" title="Get whether a node is on the boundary." alt="" coords="30,201,190,243"/>
+<area shape="rect" id="node6" href="$classCSobolevSmoothingVariable.html#af5fec3fa1e6f549abe173c79a4726edd" title="return wether a point is a boundary of a boundary" alt="" coords="7,267,213,308"/>
+</map>

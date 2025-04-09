@@ -1,0 +1,7 @@
+<map id="CBaselineSolver::CBaselineSolver" name="CBaselineSolver::CBaselineSolver">
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,207,115"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a6352cd90308195b5fc1ba7eab02d46c1" title="Get information about dynamic grids." alt="" coords="265,5,459,32"/>
+<area shape="rect" id="node3" href="$classCGeometry.html#ace7f7fe876f629f5bd5f92d4805a1a4b" title="Get number of coordinates." alt="" coords="281,56,443,83"/>
+<area shape="rect" id="node4" href="$classCGeometry.html#a275fb07cd99ab79d7a04b4862280169d" title="Get number of points." alt="" coords="279,107,445,133"/>
+<area shape="rect" id="node5" href="$classCSolver.html#ad982896202dae6e41bfd3568f597cf46" title="Call this method to set &quot;base_nodes&quot; after the &quot;nodes&quot; variable of the derived solver is instantiated..." alt="" coords="255,158,469,199"/>
+</map>

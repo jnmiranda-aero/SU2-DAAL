@@ -1,0 +1,8 @@
+<map id="CPrimalGrid::GetnNodesFace" name="CPrimalGrid::GetnNodesFace">
+<area shape="rect" id="node1" title="Get number of nodes of a face of the element." alt="" coords="511,137,720,163"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#a7cb41549dc077f561b34e1595847a3c0" title="Compute 3 grid quality metrics: orthogonality angle, dual cell aspect ratio, and dual cell volume rat..." alt="" coords="240,5,463,47"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#a3fbeb35875c64e226e3b3086a2e546c2" title="Find repeated nodes between two elements to identify the common face." alt="" coords="273,71,430,112"/>
+<area shape="rect" id="node4" href="$classCPhysicalGeometry.html#a61a681297c7b37d94f6a6b6d0d6d2745" title="Set elements which surround an element." alt="" coords="5,100,192,141"/>
+<area shape="rect" id="node5" href="$classCPhysicalGeometry.html#a0111aae7c2041c5c58b183bd337cdee6" title="Set the edge structure of the control volume." alt="" coords="273,188,430,229"/>
+<area shape="rect" id="node6" href="$classCPhysicalGeometry.html#a70c5b970b1349724f4d7d6e229058926" title="Visualize the structure of the control volume(s)." alt="" coords="263,253,440,295"/>
+</map>

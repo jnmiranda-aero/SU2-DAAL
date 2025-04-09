@@ -1,0 +1,13 @@
+<map id="SU2_CFD/include/gradients/computeGradientsLeastSquares.hpp" name="SU2_CFD/include/gradients/computeGradientsLeastSquares.hpp">
+<area shape="rect" id="node1" title="Generic implementation of Least&#45;Squares gradient computation." alt="" coords="231,5,493,47"/>
+<area shape="rect" id="node2" href="$omp__structure_8hpp.html" title="OpenMP interface header, provides compatibility functions if the code is built without OpenMP support..." alt="" coords="47,169,293,211"/>
+<area shape="rect" id="node7" href="$geometry__toolbox_8hpp.html" title="Collection of common lightweight geometry&#45;oriented methods." alt="" coords="317,169,557,211"/>
+<area shape="rect" id="node9" href="$correctGradientsSymmetry_8hpp.html" title="Implements the symmetry boundary conditions for the gradient computations." alt="" coords="399,95,623,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,259,76,285"/>
+<area shape="rect" id="node4" href="$code__config_8hpp.html" title="Header file for collecting common macros, definitions and type configurations." alt="" coords="101,259,239,285"/>
+<area shape="rect" id="node6" title=" " alt="" coords="263,259,322,285"/>
+<area shape="rect" id="node5" title=" " alt="" coords="124,333,216,360"/>
+<area shape="rect" id="node8" title=" " alt="" coords="405,259,468,285"/>
+<area shape="rect" id="node10" title=" " alt="" coords="581,177,644,203"/>
+<area shape="rect" id="node11" title=" " alt="" coords="669,177,754,203"/>
+</map>

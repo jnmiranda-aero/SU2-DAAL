@@ -1,0 +1,9 @@
+<map id="CConfig::SetdCL_dAlpha" name="CConfig::SetdCL_dAlpha">
+<area shape="rect" id="node1" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="1083,42,1260,69"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#ab4fa5557c81f931fc824483e62ead218" title="Set gradients of coefficients for fixed CL mode." alt="" coords="831,35,1035,76"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#ae42ef80597bae24c0e63411b6b2b8c2b" title="Check for convergence of the Fixed CL mode to the target CL." alt="" coords="594,5,757,47"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#ae9346f0feebb8b28613bfc7838d3d121" title="Update the AoA and freestream velocity at the farfield." alt="" coords="568,71,783,98"/>
+<area shape="rect" id="node5" href="$classCEulerSolver.html#a0d6f93feba8d6aad18edf3594213042b" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="257,71,520,98"/>
+<area shape="rect" id="node6" href="$classCEulerSolver.html#ab08b6aa95648e7ab973f9f247fe54b31" title="Compute primitive variables and their gradients." alt="" coords="5,46,209,73"/>
+<area shape="rect" id="node7" href="$classCNSSolver.html#af83e7cb773797239cdc98fc4d202d32f" title="Restart residual and compute gradients." alt="" coords="13,97,202,123"/>
+</map>

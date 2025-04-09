@@ -1,0 +1,9 @@
+<map id="CLookUpTable::GetIndexOfVar" name="CLookUpTable::GetIndexOfVar">
+<area shape="rect" id="node1" title="Returns the index to the variable in the lookup table." alt="" coords="543,60,760,87"/>
+<area shape="rect" id="node2" href="$classCLookUpTable.html#ada66d28af65cd336a33e678302d05da2" title=" " alt="" coords="12,5,227,32"/>
+<area shape="rect" id="node3" href="$classCLookUpTable.html#aab504668fa30922a977aa95c52bdba25" title="Get the pointer to the column data of the table (density, temperature, source terms,..." alt="" coords="296,31,480,57"/>
+<area shape="rect" id="node4" href="$classCLookUpTable.html#a5fb84f49cd843ecda7ee266bb504a9a2" title="Interpolate data based on distance&#45;weighted averaging on the nearest two table nodes." alt="" coords="291,82,485,123"/>
+<area shape="rect" id="node6" href="$classCDataDrivenFluid.html#a78473fb9cafac268df9d7986f31051a3" title="Map dataset variables to specific look&#45;up operations." alt="" coords="281,147,495,189"/>
+<area shape="rect" id="node5" href="$classCLookUpTable.html#ad0f61b6f90632970c79e811702779db9" title="Interpolate data based on distance&#45;weighted averaging on the nearest two table nodes." alt="" coords="23,82,216,123"/>
+<area shape="rect" id="node7" href="$classCDataDrivenFluid.html#ad7ecdddc41ba7e0b95da2459ca77b2c7" title="Constructor of the class." alt="" coords="5,147,233,189"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CLinearPartitioner::Initialize" name="CLinearPartitioner::Initialize">
+<area shape="rect" id="node1" title="Initialize the CLinearPartitioner class." alt="" coords="260,104,399,145"/>
+<area shape="rect" id="node2" href="$classCFEMDataSorter.html#a396ceee8aa88999d6774e69a9c46f833" title="Constructor." alt="" coords="6,5,211,47"/>
+<area shape="rect" id="node3" href="$classCFVMDataSorter.html#ab2d3833fe3b87d98eee33a63db4e409c" title="Constructor." alt="" coords="5,71,212,112"/>
+<area shape="rect" id="node4" href="$classCSurfaceFEMDataSorter.html#a67ba24e259b8adb836521312562c7760" title="Construct a file writer using field names and the data sorter." alt="" coords="15,136,202,177"/>
+<area shape="rect" id="node5" href="$classCSurfaceFVMDataSorter.html#a5f7ba14312eace82cd61b48dca2801c3" title="Structure to map the local sorted point ID to the global point ID." alt="" coords="15,201,202,243"/>
+</map>

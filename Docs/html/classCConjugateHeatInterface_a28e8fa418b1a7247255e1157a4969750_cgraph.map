@@ -1,0 +1,6 @@
+<map id="CConjugateHeatInterface::SetTarget_Variable" name="CConjugateHeatInterface::SetTarget_Variable">
+<area shape="rect" id="node1" title="Set the variable that has been received from the target mesh into the target mesh." alt="" coords="5,71,192,112"/>
+<area shape="rect" id="node2" href="$classCConfig.html#ad6b987ff9624f8c077eb6354670bb64b" title="Get the CHT couling method." alt="" coords="256,5,423,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a097562e6699fe809c21578c3bb67e008" title="Get the relaxation coefficient of the CHT coupling." alt="" coords="253,71,426,112"/>
+<area shape="rect" id="node4" href="$classCSolver.html#a74c6ef4c5391efe86d593cf7d3477997" title="Set the conjugate heat variables." alt="" coords="240,136,439,177"/>
+</map>

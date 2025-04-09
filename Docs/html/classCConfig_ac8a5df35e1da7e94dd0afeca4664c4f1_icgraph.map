@@ -1,0 +1,4 @@
+<map id="CConfig::GetwallModel_MinYPlus" name="CConfig::GetwallModel_MinYPlus">
+<area shape="rect" id="node1" title="Get the value of the minimum Y+ value below which the wall function is deactivated." alt="" coords="217,5,388,47"/>
+<area shape="rect" id="node2" href="$classCFVMFlowSolverBase.html#af46a894bd89c2367215f64fa7ea7d02d" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="5,5,169,47"/>
+</map>

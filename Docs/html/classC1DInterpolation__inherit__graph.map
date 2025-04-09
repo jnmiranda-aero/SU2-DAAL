@@ -1,0 +1,6 @@
+<map id="C1DInterpolation" name="C1DInterpolation">
+<area shape="rect" id="node1" title="Base class for 1D interpolation." alt="" coords="107,5,239,32"/>
+<area shape="rect" id="node2" href="$classCAkimaInterpolation.html" title="Akima 1D interpolation." alt="" coords="5,80,161,107"/>
+<area shape="rect" id="node4" href="$classCLinearInterpolation.html" title="Linear interpolation." alt="" coords="186,80,341,107"/>
+<area shape="rect" id="node3" href="$classCCubicSpline.html" title="Cubic spline interpolation." alt="" coords="30,155,137,181"/>
+</map>

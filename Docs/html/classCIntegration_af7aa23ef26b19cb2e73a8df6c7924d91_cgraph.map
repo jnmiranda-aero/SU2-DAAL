@@ -1,0 +1,46 @@
+<map id="CIntegration::Space_Integration" name="CIntegration::Space_Integration">
+<area shape="rect" id="node1" title="Do the space integration of the numerical system." alt="" coords="5,1183,155,1224"/>
+<area shape="rect" id="node2" href="$classCSolver.html#a884486b5604b012e6abfcee1ec85ec60" title="A virtual member." alt="" coords="243,5,398,47"/>
+<area shape="rect" id="node3" href="$classCSolver.html#a683cbaadcb95c7f6a1fdddaacdf7b23d" title="A virtual member." alt="" coords="243,71,398,112"/>
+<area shape="rect" id="node4" href="$classCSolver.html#a94db69b3d09652f77010c9f3148a903e" title="A virtual member." alt="" coords="219,136,422,177"/>
+<area shape="rect" id="node5" href="$classCSolver.html#aa6353fb1b3aa5890a4630de58ef969c2" title="A virtual member." alt="" coords="243,202,398,229"/>
+<area shape="rect" id="node6" href="$classCSolver.html#ad71605aa960f2919dfc42d37d26ccf14" title="A virtual member." alt="" coords="246,253,395,295"/>
+<area shape="rect" id="node7" href="$classCSolver.html#a40dad90e195d685000c464df07f236a5" title="A virtual member." alt="" coords="246,319,395,360"/>
+<area shape="rect" id="node8" href="$classCSolver.html#ad3242705af8a649e3ab21f37f80547e0" title="A virtual member." alt="" coords="234,385,407,411"/>
+<area shape="rect" id="node9" href="$classCSolver.html#afc58e2186b9fa9fcd6f985dea8a4aef9" title="A virtual member." alt="" coords="239,435,402,462"/>
+<area shape="rect" id="node10" href="$classCSolver.html#a8e61426b81d9a8e38b180eb507ec6057" title="Impose the interface state across sliding meshes." alt="" coords="219,486,422,513"/>
+<area shape="rect" id="node11" href="$classCSolver.html#abd63b8973a56028dc9627113f53ab410" title="A virtual member." alt="" coords="251,537,390,563"/>
+<area shape="rect" id="node12" href="$classCSolver.html#a7d1cb36c52b06eeaeca536ba6c99f963" title="A virtual member." alt="" coords="221,587,420,614"/>
+<area shape="rect" id="node13" href="$classCSolver.html#a84cb65d82b26da347e96b8ed81772a03" title="Impose a heat flux by prescribing a heat transfer coefficient and a temperature at infinity." alt="" coords="209,638,432,665"/>
+<area shape="rect" id="node14" href="$classCSolver.html#a94825a483faefdc2d4de0ee06827d8d5" title="A virtual member." alt="" coords="253,689,388,715"/>
+<area shape="rect" id="node15" href="$classCSolver.html#afb597736a227b60f8f23b7c4f963b3aa" title="A virtual member." alt="" coords="215,739,426,766"/>
+<area shape="rect" id="node16" href="$classCSolver.html#abe63c6057695d29b2c4d1a1f49c223a9" title="A virtual member." alt="" coords="248,790,393,817"/>
+<area shape="rect" id="node17" href="$classCSolver.html#a2ccf1ca0de573ea053c7fb15e32be2cd" title="A virtual member." alt="" coords="242,841,399,867"/>
+<area shape="rect" id="node18" href="$classCSolver.html#a34ca3aa5f2e4d2f8cfd7d989808fed03" title="A virtual member." alt="" coords="239,891,402,918"/>
+<area shape="rect" id="node19" href="$classCSolver.html#a0190ef2d683965e0fe7486c60b489711" title="A virtual member." alt="" coords="221,943,420,984"/>
+<area shape="rect" id="node20" href="$classCSolver.html#a8fb73ae189dc68d9ab2034902c98bc18" title="A virtual member." alt="" coords="233,1008,409,1049"/>
+<area shape="rect" id="node21" href="$classCSolver.html#a175ef84040822bec1a90359a4fff19c8" title="A virtual member." alt="" coords="233,1073,409,1115"/>
+<area shape="rect" id="node22" href="$classCSolver.html#ac89a1c18a8d1ede65207f276d8793c5c" title="A virtual member." alt="" coords="232,1139,409,1166"/>
+<area shape="rect" id="node23" href="$classCSolver.html#a95f3ae249351784673123098ff1a5d0a" title="A virtual member." alt="" coords="221,1190,420,1217"/>
+<area shape="rect" id="node24" href="$classCSolver.html#a82fc859a695e1f6871fcbca91b6cf98d" title="A virtual member." alt="" coords="219,1241,422,1267"/>
+<area shape="rect" id="node25" href="$classCConfig.html#a148af6d807dcd352a3717fe3fac533c5" title="Verify if there is any Giles Boundary Condition option specified from config file." alt="" coords="238,1291,403,1318"/>
+<area shape="rect" id="node26" href="$classCConfig.html#a9e487db59e70e83ca75e919e084cb9b9" title="Verify if there is Turbomachinery performance option specified from config file." alt="" coords="203,1342,439,1369"/>
+<area shape="rect" id="node27" href="$classCConfig.html#ad9a79bf229dcc3f99cf7c23d4cb16d06" title="Provides the index of the solution in the container." alt="" coords="211,1393,430,1419"/>
+<area shape="rect" id="node28" href="$classCConfig.html#a085accf5825cdba0219fc734f4fadb8c" title="Flag for whether to solve the energy equation for incompressible flows." alt="" coords="247,1444,395,1485"/>
+<area shape="rect" id="node29" href="$classCConfig.html#ad4fc44102a683b89ed67ccd53d73929a" title="Get the kind of convective numerical scheme." alt="" coords="219,1509,422,1551"/>
+<area shape="rect" id="node30" href="$classCConfig.html#a120698f22c0de262c4ffa659ee7ec49f" title="Fluid model that we are using." alt="" coords="215,1575,426,1602"/>
+<area shape="rect" id="node31" href="$classCConfig.html#afbf664fbd8b2c75c5874432fdc185937" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="226,1626,415,1653"/>
+<area shape="rect" id="node32" href="$classCConfig.html#ae003cd8f406eaaa91849a774c9a20730" title="Get the kind of boundary for each marker." alt="" coords="247,1677,395,1719"/>
+<area shape="rect" id="node33" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="231,1743,411,1770"/>
+<area shape="rect" id="node34" href="$classCConfig.html#a8d41ac571359049bbdc4b7927e7c328a" title="Get the total number of periodic markers." alt="" coords="243,1795,399,1836"/>
+<area shape="rect" id="node35" href="$classCConfig.html#a5c97504aafefea72406d2553754f67cc" title="Verify if there is mixing plane interface specified from config file." alt="" coords="224,1861,417,1887"/>
+<area shape="rect" id="node36" href="$classCConfig.html#ac47e04d76ce865893a94dcedd3c9b6a5" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="219,1911,422,1938"/>
+<area shape="rect" id="node37" href="$classCSolver.html#ad6a598e8eb4f98cb75455012043df9e4" title="Virtual function to apply something like a strong BC to the whole domain." alt="" coords="236,1963,405,2004"/>
+<area shape="rect" id="node38" href="$omp__structure_8hpp.html#aad63dd7e34961dbbd2e8774e7f6bc2d0" title="Index of current thread, akin to MPI rank." alt="" coords="239,2029,403,2055"/>
+<area shape="rect" id="node39" href="$classCSolver.html#a6c03d1a438856d4324e5e65c3a0bb67d" title="It computes Fourier transformation for the needed quantities along the pitch for each span in turboma..." alt="" coords="236,2080,405,2121"/>
+<area shape="rect" id="node40" href="$classCSolver.html#ab21caa08cdd68a05d58206466d58d817" title="A virtual member." alt="" coords="242,2145,399,2187"/>
+<area shape="rect" id="node41" href="$classCSolver.html#acd8afe5652ded8e804434002e9af16b8" title="A virtual member." alt="" coords="227,2211,414,2238"/>
+<area shape="rect" id="node42" href="$classCSolver.html#a03b1a06a1f51aad967ea647e4ebb6f7e" title="virtual member." alt="" coords="211,2262,430,2289"/>
+<area shape="rect" id="node43" href="$classCSolver.html#a7edf5c34c49a386e7f32044229d75666" title="A virtual member." alt="" coords="225,2313,417,2339"/>
+<area shape="rect" id="node44" href="$classCSolver.html#a698233b7c2f0964c146a82438ffa93b1" title="A virtual member." alt="" coords="224,2363,417,2390"/>
+</map>

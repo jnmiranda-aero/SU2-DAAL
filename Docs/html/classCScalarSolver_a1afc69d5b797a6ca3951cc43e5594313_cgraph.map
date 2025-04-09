@@ -1,0 +1,21 @@
+<map id="CScalarSolver::CScalarSolver" name="CScalarSolver::CScalarSolver">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,359,216,385"/>
+<area shape="rect" id="node2" href="$omp__structure_8hpp.html#a6a308c63005823370a2ffd6a82f3868f" title="Compute a chunk size based on totalWork and number of threads such that all threads get the same numb..." alt="" coords="581,5,765,32"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a6352cd90308195b5fc1ba7eab02d46c1" title="Get information about dynamic grids." alt="" coords="296,173,491,200"/>
+<area shape="rect" id="node5" href="$classCGeometry.html#a0c61a2af07ace36722db4c6c79004fdc" title="Get the group size used in edge coloring." alt="" coords="264,224,523,251"/>
+<area shape="rect" id="node6" href="$classCGeometry.html#a1918f1d5fd5404f35ab64407242b5d24" title="Get the edge coloring." alt="" coords="287,275,499,301"/>
+<area shape="rect" id="node14" href="$omp__structure_8hpp.html#a2f7befecc7b1a4eaade8d81fa6524225" title="Maximum number of threads available." alt="" coords="823,333,993,360"/>
+<area shape="rect" id="node15" href="$classCGeometry.html#a44e61cae2c9f90993e25988f794acb9f" title="Force the natural (sequential) edge coloring." alt="" coords="571,326,775,367"/>
+<area shape="rect" id="node16" href="$classCConfig.html#ae487871acd67079866136abf87200b14" title="Check if the discrete adjoint is allowed to relax the coloring, that is, allow smaller edge color gro..." alt="" coords="299,435,488,477"/>
+<area shape="rect" id="node17" href="$classCGeometry.html#aba89cceede61b33426b2783385431f5b" title="Get number of edges." alt="" coords="310,501,477,528"/>
+<area shape="rect" id="node18" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="303,552,483,579"/>
+<area shape="rect" id="node19" href="$classCGeometry.html#a275fb07cd99ab79d7a04b4862280169d" title="Get number of points." alt="" coords="310,603,477,629"/>
+<area shape="rect" id="node3" href="$omp__structure_8hpp.html#a1c00281f52b615b111a4990b2d2a5157" title="Integer division rounding up." alt="" coords="859,31,957,57"/>
+<area shape="rect" id="node7" href="$group__Graph.html#gaea8c9d7c72288411a5bc2c8dc14c7086" title="Computes the efficiency of a grid coloring for given number of threads and chunk size." alt="" coords="604,56,741,83"/>
+<area shape="rect" id="node8" href="$group__Graph.html#ga527868d0180e46647d482ad97bba6b32" title="Color contiguous groups of outer indices of a sparse pattern such that within each color,..." alt="" coords="601,224,745,251"/>
+<area shape="rect" id="node11" href="$classCCompressedSparsePattern.html#a1e38e3a6aba12be3be4804b1c132721d" title=" " alt="" coords="571,158,774,199"/>
+<area shape="rect" id="node13" href="$classCEdge.html#a5cd6f283cb2f3e4dfc037c0db6ae1055" title="Get left/right node index defining the edge." alt="" coords="609,107,737,133"/>
+<area shape="rect" id="node9" href="$group__Graph.html#gaa96cec8c2a59051ef7562b474f7ca0a1" title="Create the natural coloring (equivalent to the normal sequential loop order) for a given number of in..." alt="" coords="825,253,991,280"/>
+<area shape="rect" id="node10" href="$classcontainer__details_1_1AccessorImpl.html#a5b5318f7212e57c13e464c398f74b3d5" title=" " alt="" coords="1041,246,1188,287"/>
+<area shape="rect" id="node12" href="$classcontainer__details_1_1AccessorImpl.html#a7b309031025a2ca25e938c3536494ece" title=" " alt="" coords="829,158,987,199"/>
+</map>

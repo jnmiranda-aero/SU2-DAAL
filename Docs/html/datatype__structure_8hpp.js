@@ -1,9 +1,9 @@
 var datatype__structure_8hpp =
 [
-    [ "SU2_TYPE::Passive< T >", "structSU2__TYPE_1_1Passive.html", null ],
-    [ "SU2_TYPE::Passive< su2double >", "structSU2__TYPE_1_1Passive_3_01su2double_01_4.html", null ],
+    [ "Passive", "structSU2__TYPE_1_1Passive.html", null ],
+    [ "Passive< su2double >", "structSU2__TYPE_1_1Passive_3_01su2double_01_4.html", null ],
     [ "SPRINTF", "datatype__structure_8hpp.html#a92d04fe74201d58bc774099a3f5a52da", null ],
-    [ "_printGetValue", "datatype__structure_8hpp.html#ac6e7459871f7351c0946b86f83422377", null ],
+    [ "_printGetValue", "datatype__structure_8hpp.html#a654a4b9c462ef1b0c19e18ee490262c6", null ],
     [ "_printGetValue", "datatype__structure_8hpp.html#af6bc17a86f511317c463cc2977e7e0fa", null ],
     [ "GetDerivative", "datatype__structure_8hpp.html#a7300627e76e21e6d1a3bd8bf7c2fcd74", null ],
     [ "GetSecondary", "datatype__structure_8hpp.html#a766d8dac031532fc4ac766bd6d51a53f", null ],

@@ -1,0 +1,5 @@
+<map id="CAvgGrad_Base::GetViscousProjFlux" name="CAvgGrad_Base::GetViscousProjFlux">
+<area shape="rect" id="node1" title="Compute the projection of the viscous fluxes into a direction." alt="" coords="300,27,507,69"/>
+<area shape="rect" id="node2" href="$classCAvgGrad__Flow.html#a24116483420da4c85e134442cbce7590" title="Compute the viscous flow residual using an average of gradients." alt="" coords="5,5,252,32"/>
+<area shape="rect" id="node3" href="$classCGeneralAvgGrad__Flow.html#af77f9f862b6b097256d3521a829e97d9" title="Compute the viscous flow residual using an average of gradients." alt="" coords="41,57,216,98"/>
+</map>

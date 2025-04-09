@@ -1,0 +1,52 @@
+<map id="CConfig::GetViscous" name="CConfig::GetViscous">
+<area shape="rect" id="node1" title="Determines if problem is viscous." alt="" coords="697,1401,851,1428"/>
+<area shape="rect" id="node2" href="$classCFlowOutput.html#a02ca59474a25c20660abd64e072b036d" title="Add heat flux coefficients as output fields." alt="" coords="364,99,611,125"/>
+<area shape="rect" id="node3" href="$classCFlowCompOutput.html#a8b41f117a187a481a89f3dca1841a691" title="Set the available history output fields." alt="" coords="31,30,251,71"/>
+<area shape="rect" id="node6" href="$classCAdjEulerSolver.html#ad145d66ed2938ef1b6a187d3133ee101" title="Impose the boundary condition to the far field using characteristics." alt="" coords="411,150,563,191"/>
+<area shape="rect" id="node7" href="$classCEulerSolver.html#a11facef76cf89c53ed82c54895c057a9" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="409,215,566,257"/>
+<area shape="rect" id="node8" href="$classCIncEulerSolver.html#a4344a93831dc3f6fd2830cbe8e0c1e3b" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="412,281,563,322"/>
+<area shape="rect" id="node9" href="$classCNEMOEulerSolver.html#af35c1b20663aa6051487296077034f05" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="402,346,573,387"/>
+<area shape="rect" id="node10" href="$classCFVMFlowSolverBase.html#aba13af32acdc3fdae92901125a94ab0f" title="Impose the interface state across sliding meshes." alt="" coords="405,411,569,453"/>
+<area shape="rect" id="node11" href="$classCEulerSolver.html#a40fad0a57e8dcba8a8f4d4fa8eab02f0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="402,477,573,504"/>
+<area shape="rect" id="node12" href="$classCAdjEulerSolver.html#ae32700e955c44bc12de7a818d8e412bf" title="Impose the inlet boundary condition." alt="" coords="411,529,563,570"/>
+<area shape="rect" id="node13" href="$classCIncEulerSolver.html#ac0b00dbc68bbd80aa48f6249c6ea5c38" title="Impose a subsonic inlet boundary condition." alt="" coords="412,594,563,635"/>
+<area shape="rect" id="node14" href="$classCHeatSolver.html#a425001a48ff8e440183ac9d74ed5e15c" title="Impose the inlet boundary condition." alt="" coords="405,660,570,687"/>
+<area shape="rect" id="node15" href="$classCAdjEulerSolver.html#a606732a2540893587de80506c5d0ac70" title="Impose the outlet boundary condition." alt="" coords="411,711,563,753"/>
+<area shape="rect" id="node16" href="$classCIncEulerSolver.html#afc1e6b64c1d323261468e1aa04b110ad" title="Impose the outlet boundary condition." alt="" coords="412,777,563,818"/>
+<area shape="rect" id="node17" href="$classCEulerSolver.html#a4ad4a65b3fc5a51b1561436736f7f7ca" title="Impose the boundary condition using characteristic recostruction." alt="" coords="389,843,585,869"/>
+<area shape="rect" id="node18" href="$classCAdjEulerSolver.html#a387bb98473abfa504de673a89f39cd70" title="Impose the supersonic inlet boundary condition." alt="" coords="411,894,563,935"/>
+<area shape="rect" id="node19" href="$classCNEMOEulerSolver.html#a1448f7a4a713ada22016532249a56a95" title="Impose a supersonic inlet boundary condition." alt="" coords="402,959,573,1001"/>
+<area shape="rect" id="node20" href="$classCAdjEulerSolver.html#a2d9d0f85686f7c45ab8ddb89161cc376" title="Impose the supersonic outlet boundary condition." alt="" coords="411,1025,563,1066"/>
+<area shape="rect" id="node21" href="$classCEulerSolver.html#a8e036f2dff1d945d814c93a74159a3cc" title="Impose the boundary condition using characteristic recostruction." alt="" coords="372,1091,603,1117"/>
+<area shape="rect" id="node22" href="$classCEulerVariable.html#afef99d308eed0aff524d3bc0b8274d41" title="Constructor of the class." alt="" coords="377,1141,597,1168"/>
+<area shape="rect" id="node23" href="$classCFEM__DG__EulerSolver.html#a677fa998b78bd489a3f8bee0d56623dd" title=" " alt="" coords="400,1193,575,1234"/>
+<area shape="rect" id="node24" href="$classCFlowVariable.html#a60f5b74c097bd87fe008b9d1671868e8" title="Constructor of the class." alt="" coords="379,1259,595,1285"/>
+<area shape="rect" id="node25" href="$classCSource__NEMO.html#aa86a638c43ce759be11a0b39377e8608" title="Residual of axissymetric source term." alt="" coords="347,1309,627,1336"/>
+<area shape="rect" id="node26" href="$classCSourceVorticityConfinement.html#ada4bf1f9507d70ac7909d8207b7f65e5" title="Residual of the rotational frame source term." alt="" coords="381,1361,593,1402"/>
+<area shape="rect" id="node27" href="$classCSourceAxisymmetric__Species.html#ad959c3b5e60f5fd9a233a098c91322b5" title="Residual of the axisymmetric source term." alt="" coords="386,1426,589,1467"/>
+<area shape="rect" id="node28" href="$classCSolver.html#ad27011984bdd70773ab3cb3dde7d4894" title="Compute the tractions at the vertices." alt="" coords="368,1492,607,1519"/>
+<area shape="rect" id="node30" href="$classCSourceAxisymmetric__Flow.html#adb33590e9c81db638ec1d86bd5ffcb82" title="Constructor of the class." alt="" coords="363,1543,612,1585"/>
+<area shape="rect" id="node31" href="$classCSourceIncAxisymmetric__Flow.html#ab293608516341765e77d4ab7a0daebb8" title="Constructor of the class." alt="" coords="353,1609,621,1650"/>
+<area shape="rect" id="node32" href="$classCFVMFlowSolverBase.html#af46a894bd89c2367215f64fa7ea7d02d" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="405,1674,569,1715"/>
+<area shape="rect" id="node33" href="$classCFlowTractionInterface.html#a1f7d1f6c5d9f3111ecc417422565c90d" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="402,1739,573,1781"/>
+<area shape="rect" id="node34" href="$classCFlowCompOutput.html#a393cb19a691990ee6e88f844eccc79ed" title="Load the history output field values." alt="" coords="11,1831,272,1857"/>
+<area shape="rect" id="node35" href="$classCNEMOCompOutput.html#a89eba9a2ef60d470409b605e9a06140b" title="Set the values of the volume output fields for a point." alt="" coords="5,1936,277,1963"/>
+<area shape="rect" id="node36" href="$classCFlowOutput.html#ad996a9cd0b41ef4bc726397d18219c17" title="Set all scalar (turbulence/species) volume field values for a point." alt="" coords="375,1958,600,1999"/>
+<area shape="rect" id="node37" href="$classCFlowOutput.html#aefd45cc40b9f770eef24efd9c5ab19c7" title="Set the value of the heat flux coefficients." alt="" coords="366,1856,609,1883"/>
+<area shape="rect" id="node38" href="$classCEulerSolver.html#ad2e701dc22e44bd36cf64102ab1b335f" title="Set the initial condition for the Euler Equations." alt="" coords="402,2023,573,2065"/>
+<area shape="rect" id="node39" href="$classCEulerSolver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="345,2089,629,2116"/>
+<area shape="rect" id="node40" href="$classCIncEulerSolver.html#a2cffaa24417cb3803d36d38b3874d6d0" title="Set the solver nondimensionalization." alt="" coords="336,2140,639,2167"/>
+<area shape="rect" id="node41" href="$classCNEMOEulerSolver.html#ad23673d38da9e895e4802b6d4d000c1b" title="Set the fluid solver nondimensionalization." alt="" coords="325,2191,649,2217"/>
+<area shape="rect" id="node42" href="$classCFEM__DG__EulerSolver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="387,2242,588,2283"/>
+<area shape="rect" id="node43" href="$classCFVMFlowSolverBase.html#aceafd6d8a3ef6e189711df90c7dbe38e" title="Generic implementation to compute the time step based on CFL and conv/visc eigenvalues." alt="" coords="405,2307,569,2349"/>
+<area shape="rect" id="node44" href="$classCFlowCompOutput.html#a1724bb8ece7b49ccc08b1a9ebd227f85" title="Set the available volume output fields." alt="" coords="30,2391,253,2433"/>
+<area shape="rect" id="node45" href="$classCNEMOCompOutput.html#ae2e72ddbf5abb62c9da53098d5c861ef" title="Set the available volume output fields." alt="" coords="26,2470,257,2511"/>
+<area shape="rect" id="node46" href="$classCFlowOutput.html#a46eda1fc101a3f4bb0123679b96a31f8" title="Add miscellaneous scalar volume fields for a point (FVMComp, FVMInc, FVMNEMO)." alt="" coords="373,2425,601,2466"/>
+<area shape="rect" id="node47" href="$classCIncEulerSolver.html#a5f9ced3a85731749b16d6f1bac9460f6" title="Source term integration." alt="" coords="399,2542,575,2583"/>
+<area shape="rect" id="node48" href="$classCNEMOEulerSolver.html#a0758ca67e16c9f1f0f8fe5c8ec661cf7" title="Source term integration." alt="" coords="389,2607,586,2649"/>
+<area shape="rect" id="node49" href="$classCEulerSolver.html#a3173ebda0dc28e9fc17ced219fc60e9a" title="Source term integration." alt="" coords="409,2673,566,2714"/>
+<area shape="rect" id="node50" href="$classCFlowOutput.html#aff6a6f11c9f53f559bab9ca94b21cd2a" title="Write the forces breakdown file." alt="" coords="392,2738,583,2779"/>
+<area shape="rect" id="node4" href="$classCFlowIncOutput.html#a771011c35b0c004348eab0e60e9ff0a5" title="Set the available history output fields." alt="" coords="41,95,242,137"/>
+<area shape="rect" id="node5" href="$classCNEMOCompOutput.html#a81950db0223de4d025f01108c3831b9d" title="Set the available history output fields." alt="" coords="27,161,256,202"/>
+<area shape="rect" id="node29" href="$classCFluidIteration.html#a3f065978d2a1745b812bf4457d34684b" title="Postprocesses the fluid system before heading to another physics system or the next iteration." alt="" coords="39,1492,243,1519"/>
+</map>

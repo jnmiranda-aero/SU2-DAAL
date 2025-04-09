@@ -13,7 +13,7 @@ var classCTurbSASolver =
     [ "BC_Inlet_Turbo", "classCTurbSASolver.html#a9cdd12aa912c00c12dbb80cc21c7977a", null ],
     [ "BC_Isothermal_Wall", "classCTurbSASolver.html#a4637e7b91db510ddcacfafd01817aafa", null ],
     [ "BC_Outlet", "classCTurbSASolver.html#a185abcbd50986de9d082280228f343de", null ],
-    [ "GetInletAtVertex", "classCTurbSASolver.html#a3b8ac49b4da3f7fe29e9c655c0464b70", null ],
+    [ "GetInletAtVertex", "classCTurbSASolver.html#ad42e47d4c3bb78af0721c02d74dcd210", null ],
     [ "GetNuTilde_Inf", "classCTurbSASolver.html#ad22d6239808f42d62ea07f1bb18d44cd", null ],
     [ "Postprocessing", "classCTurbSASolver.html#af815ca3a9ef4726b625a89028dc6fb0e", null ],
     [ "Preprocessing", "classCTurbSASolver.html#a3a0b3563943fd8f9da777f54f53720f9", null ],
@@ -21,5 +21,5 @@ var classCTurbSASolver =
     [ "SetUniformInlet", "classCTurbSASolver.html#ae82d401b3a16146428a918fe9019ef98", null ],
     [ "Source_Residual", "classCTurbSASolver.html#ae254c08e17def463df09c9f804bf5194", null ],
     [ "Source_Template", "classCTurbSASolver.html#a444dce203d9c53f15ce914b31999ea33", null ],
-    [ "Viscous_Residual", "classCTurbSASolver.html#a04877657cb00d0f849eef7d48c8c6dd5", null ]
+    [ "Viscous_Residual", "classCTurbSASolver.html#a9f7d24bae9d4e229866b334972e6185c", null ]
 ];

@@ -1,0 +1,5 @@
+<map id="CSolver::BC_Inlet_Turbo" name="CSolver::BC_Inlet_Turbo">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="279,31,455,57"/>
+<area shape="rect" id="node2" href="$classCTurbSolver.html#a6b61eef486ab6bea36182aeea2595a86" title="Impose via the residual the Euler wall boundary condition." alt="" coords="35,5,201,32"/>
+<area shape="rect" id="node3" href="$classCTurbSolver.html#ad7423afd493a05e8ec1813d499f54e14" title="Impose via the residual the Euler wall boundary condition." alt="" coords="5,56,231,83"/>
+</map>

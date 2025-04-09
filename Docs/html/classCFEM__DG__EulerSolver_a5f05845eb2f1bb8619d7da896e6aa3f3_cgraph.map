@@ -1,0 +1,31 @@
+<map id="CFEM_DG_EulerSolver::ClassicalRK4_Iteration" name="CFEM_DG_EulerSolver::ClassicalRK4_Iteration">
+<area shape="rect" id="node1" title="Update the solution using the classical fourth&#45;order Runge&#45;Kutta scheme." alt="" coords="5,201,181,242"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__EulerSolver.html#a141f2b877000daec03e9aeb68ce6aebf" title="Compute the global error measures (L2, Linf) for verification cases." alt="" coords="229,655,423,697"/>
+<area shape="rect" id="node26" href="$classCFEM__DG__EulerSolver.html#a34550ee1621eeabc419e7ddb64c0b52e" title="Update the solution using the classical fourth&#45;order Runge&#45;Kutta scheme." alt="" coords="483,201,661,242"/>
+<area shape="rect" id="node29" href="$classCSolver.html#a7ede16ff7b3e95bcbaa3eabd99fdf648" title="Set the RMS and MAX residual to zero." alt="" coords="745,5,914,32"/>
+<area shape="rect" id="node3" href="$classCVerificationSolution.html#a7bb9d35559c3a895ad82886181814931" title="Increment the global maximum error for verification cases." alt="" coords="751,513,908,554"/>
+<area shape="rect" id="node4" href="$classCVerificationSolution.html#a275d10faa1fca4b4b61c9688f1d50b93" title="Increments the global RMS error for verification cases." alt="" coords="493,779,651,821"/>
+<area shape="rect" id="node5" href="$classCVerificationSolution.html#ab2c5b1c7a9bef0eb9689d4b8e3b1236d" title="Whether or not the exact solution is known for this verification solution." alt="" coords="491,845,653,886"/>
+<area shape="rect" id="node6" href="$classCConfig.html#ab3928c4e6debcf50dcd0d38985f6980c" title="Get the indicator whether we are solving an discrete adjoint problem." alt="" coords="493,910,651,951"/>
+<area shape="rect" id="node7" href="$classCVerificationSolution.html#a5fd9a5bb471932e03b72933691af916a" title="Get the global maximum error for verification cases." alt="" coords="493,975,651,1017"/>
+<area shape="rect" id="node8" href="$classCVerificationSolution.html#a30a14b2a6e848b0fa92b5fbd8ec3a476" title="Get the global RMS error for verification cases." alt="" coords="493,1041,651,1082"/>
+<area shape="rect" id="node9" href="$classCVerificationSolution.html#a894a4b9e9e4e9c2977739693cd01bd62" title="Get the local error defined as the local solution minus the verification solution." alt="" coords="493,597,651,638"/>
+<area shape="rect" id="node13" href="$classCConfig.html#a4f4842f072c0484236e776956ff41cbb" title="Get the current physical time." alt="" coords="477,1107,667,1133"/>
+<area shape="rect" id="node14" href="$classCConfig.html#ad43daa81fef55ee2c14498294308bad5" title="GetScreen_Wrt_Freq_Inner." alt="" coords="499,311,645,353"/>
+<area shape="rect" id="node15" href="$classCConfig.html#ac47e04d76ce865893a94dcedd3c9b6a5" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="471,377,673,404"/>
+<area shape="rect" id="node16" href="$classCConfig.html#aec6051895c2e4f593a5c245104548b78" title="Get the current time iteration number." alt="" coords="493,663,651,689"/>
+<area shape="rect" id="node17" href="$classCVerificationSolution.html#a8484d5418569b1c807fd8a8f16570b39" title="Set the global maximum error for verification cases." alt="" coords="493,714,651,755"/>
+<area shape="rect" id="node18" href="$classCVerificationSolution.html#afcba935bd5dfc0e5c8bd252b27db85ab" title="Set the global RMS error for verification cases." alt="" coords="751,578,908,619"/>
+<area shape="rect" id="node19" href="$classCVerificationSolution.html#a467e0ccdb07f223326549273ddeb9fa9" title="Calculate the global error metrics for verification cases." alt="" coords="493,429,651,470"/>
+<area shape="rect" id="node10" href="$classCVerificationSolution.html#a192fbe5cbcd3b6df65271ad0547bc181" title="Get the exact solution at the current position and time." alt="" coords="751,643,908,685"/>
+<area shape="rect" id="node11" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="985,404,1167,431"/>
+<area shape="rect" id="node12" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="1215,404,1400,431"/>
+<area shape="rect" id="node20" href="$classCBaseMPIWrapper.html#a137ef06ade0c4f94d2a61f9b8817b6a7" title=" " alt="" coords="725,309,934,336"/>
+<area shape="rect" id="node21" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="724,360,935,387"/>
+<area shape="rect" id="node22" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="721,411,937,437"/>
+<area shape="rect" id="node23" href="$classCConfig.html#aa495414133c826e5f6651d4ce82d0ef6" title="Get the level of MPI communications to be performed." alt="" coords="735,208,923,235"/>
+<area shape="rect" id="node24" href="$classCBaseMPIWrapper.html#a3a60032ab9d3e6197ca2796cfb37c4e2" title=" " alt="" coords="729,461,929,488"/>
+<area shape="rect" id="node25" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="806,259,853,285"/>
+<area shape="rect" id="node27" href="$classCSolver.html#af5f5107e5a9ce6b9b97a4a96aef30245" title="Adds the maximal residual, this is useful for the convergence history." alt="" coords="747,56,911,83"/>
+<area shape="rect" id="node28" href="$classCSolver.html#a2e07e4867f2db7ac98c8332c9476c361" title="Get the maximal residual, this is useful for the convergence history." alt="" coords="748,107,911,133"/>
+</map>

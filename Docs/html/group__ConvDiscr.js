@@ -207,7 +207,7 @@ var group__ConvDiscr =
       [ "~CUpwRoe_NEMO", "classCUpwRoe__NEMO.html#a944f78711d043ea629e4a09cb9ddc8c2", null ],
       [ "ComputeResidual", "classCUpwRoe__NEMO.html#a4f71a3690ffedda364bd36453c08fed0", null ]
     ] ],
-    [ "CUpwScalar< FlowIndices >", "classCUpwScalar.html", [
+    [ "CUpwScalar", "classCUpwScalar.html", [
       [ "CUpwScalar", "classCUpwScalar.html#aa7a08ac1aecbea3dae129c03b1ba952f", null ],
       [ "ComputeResidual", "classCUpwScalar.html#af30d3fd2b982ed558923432dfc896ad3", null ],
       [ "ExtraADPreaccIn", "classCUpwScalar.html#a4478421251a6eb7e553126eea2427c35", null ],
@@ -222,22 +222,22 @@ var group__ConvDiscr =
       [ "Jacobian_j", "classCUpwScalar.html#a5622356bd78f84d5d6509cc1c45c0449", null ],
       [ "JacobianBuffer", "classCUpwScalar.html#a8852c0cf5f5e6ccceec924f86ea41dc5", null ]
     ] ],
-    [ "CUpwSca_Species< FlowIndices >", "classCUpwSca__Species.html", [
+    [ "CUpwSca_Species", "classCUpwSca__Species.html", [
       [ "CUpwSca_Species", "classCUpwSca__Species.html#a67f369e32e2fc94cce0f6191a43d467f", null ]
     ] ],
     [ "CConvectiveTemplate", "classCConvectiveTemplate.html", null ],
     [ "CUpwSca_TransLM", "classCUpwSca__TransLM.html", null ],
-    [ "CUpwSca_TurbSA< FlowIndices >", "classCUpwSca__TurbSA.html", [
+    [ "CUpwSca_TurbSA", "classCUpwSca__TurbSA.html", [
       [ "CUpwSca_TurbSA", "classCUpwSca__TurbSA.html#a5491b3f9c2804228006f730d47c0d06c", null ]
     ] ],
-    [ "CUpwSca_TurbSST< FlowIndices >", "classCUpwSca__TurbSST.html", [
+    [ "CUpwSca_TurbSST", "classCUpwSca__TurbSST.html", [
       [ "CUpwSca_TurbSST", "classCUpwSca__TurbSST.html#aa765defe7e83cbcd626846c00c522d36", null ]
     ] ],
     [ "CNumericsSIMD", "classCNumericsSIMD.html", [
       [ "~CNumericsSIMD", "classCNumericsSIMD.html#ae80b2c798305b64ba6e653d4b8fb09f9", null ],
       [ "ComputeFlux", "classCNumericsSIMD.html#a6c6e1980c73cb93fba1bf345fa6a508c", null ]
     ] ],
-    [ "CCenteredBase< Derived, Base >", "classCCenteredBase.html", [
+    [ "CCenteredBase", "classCCenteredBase.html", [
       [ "CCenteredBase", "classCCenteredBase.html#a2cddd1307a379ddd5e6309d898d86a89", null ],
       [ "ComputeFlux", "classCCenteredBase.html#ac9b1510a81f92bcdc4c319b415d1ea82", null ],
       [ "dynamicGrid", "classCCenteredBase.html#a4e0d97f9112d7b1bcb35b83c4daa3ee3", null ],
@@ -245,23 +245,23 @@ var group__ConvDiscr =
       [ "gamma", "classCCenteredBase.html#a8b45e3bc09b151e4baa9728ed79e0151", null ],
       [ "stretchParam", "classCCenteredBase.html#aea812c6645252214848358e114bc9499", null ]
     ] ],
-    [ "CJSTScheme< Decorator >", "classCJSTScheme.html", [
+    [ "CJSTScheme", "classCJSTScheme.html", [
       [ "CJSTScheme", "classCJSTScheme.html#a540aca4bfecd41d8c40cab33e1df19ae", null ],
       [ "finalizeFlux", "classCJSTScheme.html#a4bd4f4cd489cccd2697dcc1fde96e5e3", null ]
     ] ],
-    [ "CJSTmatScheme< Decorator >", "classCJSTmatScheme.html", [
+    [ "CJSTmatScheme", "classCJSTmatScheme.html", [
       [ "CJSTmatScheme", "classCJSTmatScheme.html#a8510dd97f1f1a865c6cf42a526effff5", null ],
       [ "finalizeFlux", "classCJSTmatScheme.html#a00ef231fc9b1fdb423150f7c0562ef05", null ]
     ] ],
-    [ "CJSTkeScheme< Decorator >", "classCJSTkeScheme.html", [
+    [ "CJSTkeScheme", "classCJSTkeScheme.html", [
       [ "CJSTkeScheme", "classCJSTkeScheme.html#a6b04fa107616d41bd664bd9594eeb553", null ],
       [ "finalizeFlux", "classCJSTkeScheme.html#a86cdc2d09d6855fa779e18ea7e420e1a", null ]
     ] ],
-    [ "CLaxScheme< Decorator >", "classCLaxScheme.html", [
+    [ "CLaxScheme", "classCLaxScheme.html", [
       [ "CLaxScheme", "classCLaxScheme.html#a7611707920f98588e8de8012d4c3b117", null ],
       [ "finalizeFlux", "classCLaxScheme.html#a39d574480ed9d472b2d78fe66db4e1f4", null ]
     ] ],
-    [ "CRoeBase< Derived, Base >", "classCRoeBase.html", [
+    [ "CRoeBase", "classCRoeBase.html", [
       [ "CRoeBase", "classCRoeBase.html#a9efb1350b863eca8afe126f5aa6cafed", null ],
       [ "ComputeFlux", "classCRoeBase.html#a66014e97b96e951548712bc65bb2857e", null ],
       [ "dynamicGrid", "classCRoeBase.html#a3b00a19e2a7adb86fb24409a979f7926", null ],
@@ -272,7 +272,7 @@ var group__ConvDiscr =
       [ "muscl", "classCRoeBase.html#af52600759a95d3ed16c69fa03e14e871", null ],
       [ "typeLimiter", "classCRoeBase.html#adc7d6159803edc0e22a23e704526b198", null ]
     ] ],
-    [ "CRoeScheme< Decorator >", "classCRoeScheme.html", [
+    [ "CRoeScheme", "classCRoeScheme.html", [
       [ "CRoeScheme", "classCRoeScheme.html#a83435f45a1365e868493b921a6f13561", null ],
       [ "finalizeFlux", "classCRoeScheme.html#aebe2600096cab484748c0a9df38fb2ab", null ]
     ] ]

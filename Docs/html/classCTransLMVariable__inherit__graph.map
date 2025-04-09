@@ -1,0 +1,6 @@
+<map id="CTransLMVariable" name="CTransLMVariable">
+<area shape="rect" id="node1" title="Transition model variables." alt="" coords="5,229,143,256"/>
+<area shape="rect" id="node2" href="$classCTurbVariable.html" title="Base class for defining the variables of the turbulence model." alt="" coords="19,155,129,181"/>
+<area shape="rect" id="node3" href="$classCScalarVariable.html" title="Base class for defining the shared variables of scalar solvers." alt="" coords="12,80,136,107"/>
+<area shape="rect" id="node4" href="$classCVariable.html" title="Main class for defining the variables." alt="" coords="32,5,116,32"/>
+</map>

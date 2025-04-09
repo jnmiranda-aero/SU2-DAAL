@@ -1,0 +1,11 @@
+<map id="CHeatSolver::Viscous_Residual" name="CHeatSolver::Viscous_Residual">
+<area shape="rect" id="node1" title="Compute the viscous flux for the scalar equation at a particular edge." alt="" coords="5,175,167,217"/>
+<area shape="rect" id="node2" href="$classCVariable.html#adae2e4228e113624b7ab1f9ab1a493c6" title="A virtual member." alt="" coords="225,5,431,32"/>
+<area shape="rect" id="node3" href="$classCVariable.html#a0acbe55ca86de2c0205ae921193e9e95" title="A virtual member." alt="" coords="215,56,441,83"/>
+<area shape="rect" id="node4" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="256,107,400,133"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a502035c2b049606186e11e01b7df626a" title="Get the value of the laminar Prandtl number." alt="" coords="236,157,420,184"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a4b89ad15fa82f93ca8ccfe945e2c14a7" title="Get the value of the turbulent Prandtl number." alt="" coords="237,208,419,235"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a5f2a8d5a5bd497c507d2799926161259" title="Get the value of the thermal diffusivity for solids." alt="" coords="216,259,440,285"/>
+<area shape="rect" id="node8" href="$classCNumerics.html#af6b1e11963e6a4b8ec03459f8bcccf6a" title="Set the diffusion coefficient." alt="" coords="221,309,435,336"/>
+<area shape="rect" id="node9" href="$classCScalarSolver.html#ab460d200968b7d9e19f9f408c38d5006" title="Compute the viscous flux for the scalar equation at a particular edge." alt="" coords="218,361,438,402"/>
+</map>

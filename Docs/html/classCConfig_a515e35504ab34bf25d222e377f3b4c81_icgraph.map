@@ -1,0 +1,27 @@
+<map id="CConfig::GetRefArea" name="CConfig::GetRefArea">
+<area shape="rect" id="node1" title="Get the reference area for non dimensional coefficient computation. If the value from the is 0 then,..." alt="" coords="919,508,1073,535"/>
+<area shape="rect" id="node2" href="$classCNSSolver.html#a4cb9bee803f034c220d6dec914f0923b" title="Compute the buffet sensor." alt="" coords="612,5,827,32"/>
+<area shape="rect" id="node3" href="$classCAdjEulerSolver.html#a0a739888df9436d4707665d152a7af1a" title=" " alt="" coords="621,57,818,98"/>
+<area shape="rect" id="node4" href="$classCAdjNSSolver.html#a323f1dc7c0b9fe00d1911eeeea365d46" title=" " alt="" coords="615,123,823,149"/>
+<area shape="rect" id="node5" href="$classCFVMFlowSolverBase.html#af46a894bd89c2367215f64fa7ea7d02d" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="637,174,801,215"/>
+<area shape="rect" id="node6" href="$classCEulerSolver.html#ad8b538a82e5a7a7e3903ec29954b1d07" title="Compute the Fan face Mach number." alt="" coords="631,239,807,281"/>
+<area shape="rect" id="node10" href="$classCAdjEulerSolver.html#aa87a2220c946b47cb35c395c035f96e5" title="Compute the inviscid sensitivity of the functional." alt="" coords="627,305,811,346"/>
+<area shape="rect" id="node11" href="$classCFEM__DG__EulerSolver.html#a218c89d657364d7282515fec1d2453bc" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="636,370,803,411"/>
+<area shape="rect" id="node12" href="$classCFVMFlowSolverBase.html#a197fdf8620c3f2b3723c04b213cea284" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="637,435,801,477"/>
+<area shape="rect" id="node13" href="$classCEulerSolver.html#a147d5ae75cf7de115e4be2c23ba95f6d" title="Update the AoA and freestream velocity at the farfield." alt="" coords="627,501,811,542"/>
+<area shape="rect" id="node14" href="$classCIncEulerSolver.html#a2cffaa24417cb3803d36d38b3874d6d0" title="Set the solver nondimensionalization." alt="" coords="568,567,871,593"/>
+<area shape="rect" id="node16" href="$classCMeshFEM.html#ac8927404203b7d0b9c8be44b1a012632" title="Compute surface area (positive z&#45;direction) for force coefficient non&#45;dimensionalization." alt="" coords="632,618,807,659"/>
+<area shape="rect" id="node17" href="$classCPhysicalGeometry.html#a9c3acdee10579102b039ffe93498cc2b" title="Compute surface area (positive z&#45;direction) for force coefficient non&#45;dimensionalization." alt="" coords="641,683,798,725"/>
+<area shape="rect" id="node18" href="$classCEulerSolver.html#a591d93dc7b2522e2fd297bf0c3350bb2" title="Set reference values for pressure, forces, etc." alt="" coords="619,814,819,855"/>
+<area shape="rect" id="node20" href="$classCIncEulerSolver.html#a12ba512427642792c1000af319061724" title="Set reference values for pressure, forces, etc." alt="" coords="610,749,829,790"/>
+<area shape="rect" id="node21" href="$classCNEMOEulerSolver.html#a1b6a2fff685b4bf521c51c847cd0bc08" title="Set reference values for pressure, forces, etc." alt="" coords="599,879,839,921"/>
+<area shape="rect" id="node23" href="$classCAdjNSSolver.html#a6e72f094190680fa7fb078d7aae9c1d8" title="Compute the viscous sensitivity of the functional." alt="" coords="635,945,804,986"/>
+<area shape="rect" id="node24" href="$classCFlowOutput.html#aff6a6f11c9f53f559bab9ca94b21cd2a" title="Write the forces breakdown file." alt="" coords="624,1010,815,1051"/>
+<area shape="rect" id="node7" href="$classCEulerSolver.html#a0d6f93feba8d6aad18edf3594213042b" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="257,377,520,404"/>
+<area shape="rect" id="node8" href="$classCEulerSolver.html#ab08b6aa95648e7ab973f9f247fe54b31" title="Compute primitive variables and their gradients." alt="" coords="5,352,209,379"/>
+<area shape="rect" id="node9" href="$classCNSSolver.html#af83e7cb773797239cdc98fc4d202d32f" title="Restart residual and compute gradients." alt="" coords="13,403,202,429"/>
+<area shape="rect" id="node15" href="$classCIncEulerSolver.html#a2a0c72c1d1d79e45c69da03e01f6281a" title="Constructor of the class." alt="" coords="292,654,485,695"/>
+<area shape="rect" id="node19" href="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460" title="Main constructor of this class." alt="" coords="291,821,487,848"/>
+<area shape="rect" id="node22" href="$classCNEMOEulerSolver.html#a192d56e184ee19ad0b0dd3282b74f1e6" title="Contructor of the class." alt="" coords="271,879,506,921"/>
+<area shape="rect" id="node25" href="$classCFlowOutput.html#aaac3fb7b2575967b157c306065ab1ea8" title="Write any additional files defined for the current solver." alt="" coords="281,1010,496,1051"/>
+</map>

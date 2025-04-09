@@ -1,0 +1,14 @@
+<map id="CDriverBase::GetPrimitiveIndices" name="CDriverBase::GetPrimitiveIndices">
+<area shape="rect" id="node1" title="Get the flow solver primitive variable names with their associated indices. These correspond to the c..." alt="" coords="5,99,199,141"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="255,5,437,32"/>
+<area shape="rect" id="node4" href="$classCConfig.html#afbf664fbd8b2c75c5874432fdc185937" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="251,56,441,83"/>
+<area shape="rect" id="node5" href="$classCConfig.html#ae3f698e50dc72c02aec172bbc3747798" title="Return true if a NEMO solver is in use." alt="" coords="247,107,445,133"/>
+<area shape="rect" id="node6" href="$classCConfig.html#acca4077dbb4f00718adc5e831b561927" title="Provides the number of species present in the gas mixture." alt="" coords="265,157,427,184"/>
+<area shape="rect" id="node7" href="$CPrimitiveIndices_8hpp.html#a2167c8a84ee8db2e4ad60d2dc2ceff02" title="Maps primitive variable names to their indices based on a CPrimitiveIndices object." alt="" coords="247,208,445,235"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="493,5,679,32"/>
+<area shape="rect" id="node8" href="$structCPrimitiveIndices.html#a2d578cc83703af0b8c0fd81e4d015c34" title=" " alt="" coords="495,84,677,111"/>
+<area shape="rect" id="node9" href="$structCPrimitiveIndices.html#a0c8e46884c9176256f1da7a760614cb0" title=" " alt="" coords="514,135,658,177"/>
+<area shape="rect" id="node10" href="$structCPrimitiveIndices.html#ad3e4f590750798a4cfdb033f174aa709" title=" " alt="" coords="514,201,658,242"/>
+<area shape="rect" id="node11" href="$namespacePrintingToolbox.html#a382f3911ccba468c241c530ae0c78b63" title=" " alt="" coords="515,266,657,307"/>
+<area shape="rect" id="node12" href="$structCPrimitiveIndices.html#abb39999cd1ccb638d5cc790ba56e48b2" title=" " alt="" coords="514,331,658,373"/>
+</map>

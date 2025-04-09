@@ -1,0 +1,6 @@
+<map id="CAdjHeatOutput::SetVolumeOutputFields" name="CAdjHeatOutput::SetVolumeOutputFields">
+<area shape="rect" id="node1" title="Set the available volume output fields." alt="" coords="5,49,211,90"/>
+<area shape="rect" id="node2" href="$classCOutput.html#a964554201e1364eaf81a462e9ada48e3" title="Add a new field to the volume output." alt="" coords="259,5,461,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a85d2e3cf43b77c63642c40c235b853f3" title="Check if the multizone problem is solved for time domain." alt="" coords="263,56,457,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#ac47e04d76ce865893a94dcedd3c9b6a5" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="259,107,461,133"/>
+</map>

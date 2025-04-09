@@ -1,0 +1,5 @@
+<map id="CWindowingTools::BumpWindow" name="CWindowingTools::BumpWindow">
+<area shape="rect" id="node1" title="Returns the value of the Bump&#45;window function at time&#45;step i with given end&#45;time endTimeIter." alt="" coords="564,5,799,32"/>
+<area shape="rect" id="node2" href="$classCWindowingTools.html#a9129498e6544bd3ebe300d5e10bf0bad" title="Returns the value of a windowing function given by windowId at time&#45;step curTimeIter with given time&#45;..." alt="" coords="275,5,516,32"/>
+<area shape="rect" id="node3" href="$classCWindowedAverage.html#a8537e1a96691aed75afd7e20c5e4564e" title="Adds the instantaneous output of the current iteration to the values&#45;vector, if the current iteration..." alt="" coords="5,5,227,32"/>
+</map>

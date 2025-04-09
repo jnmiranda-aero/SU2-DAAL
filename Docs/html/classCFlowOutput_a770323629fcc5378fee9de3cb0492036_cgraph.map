@@ -1,0 +1,10 @@
+<map id="CFlowOutput::AddAnalyzeSurfaceOutput" name="CFlowOutput::AddAnalyzeSurfaceOutput">
+<area shape="rect" id="node1" title="Add flow surface output fields." alt="" coords="5,187,245,229"/>
+<area shape="rect" id="node2" href="$classCOutput.html#ad5ee424d364346cbd6dc27ffbab35e0a" title="Add a new field to the history output." alt="" coords="293,5,492,32"/>
+<area shape="rect" id="node3" href="$classCOutput.html#a8777541eeb47d01a7cc0cf646dfb44bb" title="Add a new field per surface marker to the history output." alt="" coords="293,57,492,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a7416428b6139fe85180e5e8d190506aa" title="Get the kind of the species model." alt="" coords="298,122,487,163"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a6da531ecb37b0efa70e55a16621c4783" title="Get the name of the surface defined in the geometry file." alt="" coords="317,187,468,229"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a3f097c919da47e78ba1fbf204ed5c9b2" title="Get the total number of moving markers." alt="" coords="315,253,471,294"/>
+<area shape="rect" id="node7" href="$classCConfig.html#acca4077dbb4f00718adc5e831b561927" title="Provides the number of species present in the gas mixture." alt="" coords="312,319,473,345"/>
+<area shape="rect" id="node8" href="$namespacePrintingToolbox.html#a382f3911ccba468c241c530ae0c78b63" title=" " alt="" coords="321,370,464,411"/>
+</map>

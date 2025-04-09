@@ -1,0 +1,7 @@
+<map id="CConfig::GetRamp_Time" name="CConfig::GetRamp_Time">
+<area shape="rect" id="node1" title="Get the maximum time of the ramp." alt="" coords="269,81,451,108"/>
+<area shape="rect" id="node2" href="$classCFEASolver.html#a4a259f59bd8bfc5888a59e4505447134" title="Impose a load boundary condition in cartesian coordinates." alt="" coords="20,5,207,32"/>
+<area shape="rect" id="node3" href="$classCFEASolver.html#adcca156fc415758458f4dd0e40ad0b7f" title="A virtual member." alt="" coords="24,56,203,83"/>
+<area shape="rect" id="node4" href="$classCFEASolver.html#a564030e469386df4b15d1b3f490392a5" title="Impose a load boundary condition normal to the boundary." alt="" coords="5,107,221,133"/>
+<area shape="rect" id="node5" href="$classCFlowTractionInterface.html#a027d7b92f6e0cc271fabd9a46b60616a" title="Retrieve some constants needed for the calculations." alt="" coords="24,158,203,199"/>
+</map>

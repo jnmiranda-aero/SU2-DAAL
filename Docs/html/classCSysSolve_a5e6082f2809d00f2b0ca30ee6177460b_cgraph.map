@@ -1,0 +1,18 @@
+<map id="CSysSolve::BCGSTAB_LinSolver" name="CSysSolve::BCGSTAB_LinSolver">
+<area shape="rect" id="node1" title="Biconjugate Gradient Stabilized Method (BCGSTAB)" alt="" coords="5,150,164,191"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="225,5,407,32"/>
+<area shape="rect" id="node4" href="$classCConfig.html#aa495414133c826e5f6651d4ce82d0ef6" title="Get the level of MPI communications to be performed." alt="" coords="222,56,410,83"/>
+<area shape="rect" id="node5" href="$classCSysVector.html#a36e34edad9ea54a9d0a153fc5035980c" title="return the number of blocks (typically number of nodes locally)" alt="" coords="237,107,395,133"/>
+<area shape="rect" id="node6" href="$classCSysVector.html#a291257913c3bd91e40f8ab2c154e2d92" title="return the number of blocks (typically number of nodes locally)" alt="" coords="212,157,420,184"/>
+<area shape="rect" id="node7" href="$classCSysVector.html#ac0b4bcd823f7905143430a7bbdcad6f2" title="return the number of variables at each block (typically number per node)" alt="" coords="237,208,395,235"/>
+<area shape="rect" id="node8" href="$classCBaseMPIWrapper.html#a63e1f265b788b4e56cb7ebdeba29b78e" title=" " alt="" coords="213,259,419,285"/>
+<area shape="rect" id="node9" href="$classCSysVector.html#a55d36be09dfc5bed32246727f25cb7f5" title="L2 norm of the vector." alt="" coords="247,309,385,336"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="471,5,656,32"/>
+<area shape="rect" id="node10" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="540,284,587,311"/>
+<area shape="rect" id="node11" href="$classCSysVector.html#a5a7712aa50a8edc522e54bff5481493c" title="Squared L2 norm of the vector (via dot with self)." alt="" coords="468,335,659,361"/>
+<area shape="rect" id="node12" href="$classCSysVector.html#a96c613a08177a0f6105a635a92b138b0" title="Dot product between &quot;this&quot; and an expression." alt="" coords="707,335,831,361"/>
+<area shape="rect" id="node13" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="881,255,1092,281"/>
+<area shape="rect" id="node14" href="$omp__structure_8hpp.html#a9465b8cb1d384f41bbb5f3c04ec815de" title="Atomically update a (shared) lhs value with a (local) rhs value." alt="" coords="941,305,1033,332"/>
+<area shape="rect" id="node15" href="$classVecExpr_1_1CVecExpr.html#a115df29cff21df9afb1271565c42b37c" title="Cast the expression to Derived, usually to allow evaluation via operator[]." alt="" coords="911,357,1062,398"/>
+<area shape="rect" id="node16" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="879,423,1095,449"/>
+</map>

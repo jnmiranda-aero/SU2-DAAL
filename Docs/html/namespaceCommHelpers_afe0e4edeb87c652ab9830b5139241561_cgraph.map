@@ -1,0 +1,7 @@
+<map id="CommHelpers::selectGradient" name="CommHelpers::selectGradient">
+<area shape="rect" id="node1" title=" " alt="" coords="5,85,224,112"/>
+<area shape="rect" id="node2" href="$classCVariable.html#ad43c887251a67276ddb46b7d2320d224" title="Get the gradient of the auxilary variables." alt="" coords="272,5,489,32"/>
+<area shape="rect" id="node3" href="$classCVariable.html#a07d4f954fe5a79e6f85adab3d462d73c" title="Get the gradient of the entire solution." alt="" coords="295,56,466,83"/>
+<area shape="rect" id="node4" href="$classCVariable.html#a8b7f4e020a837b1fe639e8d875f964d5" title="A virtual member." alt="" coords="295,107,466,149"/>
+<area shape="rect" id="node5" href="$classCVariable.html#a18fee07edc76930704432233b89572bf" title="Get the value of the primitive gradient for MUSCL reconstruction." alt="" coords="295,173,466,214"/>
+</map>

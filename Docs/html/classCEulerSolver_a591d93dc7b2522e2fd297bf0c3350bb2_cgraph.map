@@ -1,0 +1,11 @@
+<map id="CEulerSolver::SetReferenceValues" name="CEulerSolver::SetReferenceValues">
+<area shape="rect" id="node1" title="Set reference values for pressure, forces, etc." alt="" coords="5,150,205,191"/>
+<area shape="rect" id="node2" href="$classCConfig.html#ab3fdf060d59e990ed2e9418e8df56ad7" title="Check if the simulation we are running is a FSI simulation." alt="" coords="271,5,470,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a1431ababf767a9f74ff74fe9ef647957" title="Get the value of specific gas constant." alt="" coords="264,56,477,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a5442ec644c8d291d3e07c158ba5d54a4" title="Get the mach number based on the mesh velocity and freestream quantities." alt="" coords="275,107,466,133"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a515e35504ab34bf25d222e377f3b4c81" title="Get the reference area for non dimensional coefficient computation. If the value from the is 0 then,..." alt="" coords="293,157,448,184"/>
+<area shape="rect" id="node6" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="316,208,425,235"/>
+<area shape="rect" id="node7" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="347,259,394,285"/>
+<area shape="rect" id="node8" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="253,309,488,336"/>
+<area shape="rect" id="node9" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="536,309,753,336"/>
+</map>

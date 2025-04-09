@@ -6,7 +6,7 @@ var classCDiscAdjMeshBoundVariable =
     [ "Get_BGSSolution", "classCDiscAdjMeshBoundVariable.html#a00c5d846b94d57694a25b851a1c5d26e", null ],
     [ "Get_BGSSolution_k", "classCDiscAdjMeshBoundVariable.html#ac025c6ab73d1b0334df08b7aaffc19cf", null ],
     [ "Get_isVertex", "classCDiscAdjMeshBoundVariable.html#af96ff2cca67c67c3f8f241b169ce16a5", null ],
-    [ "GetBoundDisp_Direct", "classCDiscAdjMeshBoundVariable.html#ad6f4be30b918671f243f5f0fd8f0df9e", null ],
+    [ "GetBoundDisp_Direct", "classCDiscAdjMeshBoundVariable.html#ae5f0b2d0870466c473e27592298db2cf", null ],
     [ "GetBoundDisp_Sens", "classCDiscAdjMeshBoundVariable.html#a4bb307b8440dd28558be3fac40dadf5d", null ],
     [ "Restore_BGSSolution_k", "classCDiscAdjMeshBoundVariable.html#abbfea3d41fbcdd3e16535a3486e4cb8a", null ],
     [ "Set_BGSSolution_k", "classCDiscAdjMeshBoundVariable.html#a25247540b5be805adaca57ac7370251c", null ],

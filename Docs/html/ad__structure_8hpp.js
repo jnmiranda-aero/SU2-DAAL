@@ -14,7 +14,7 @@ var ad__structure_8hpp =
     [ "GetDerivative", "ad__structure_8hpp.html#a305f38ce692ce2f4269c05a022fe2ff5", null ],
     [ "Initialize", "ad__structure_8hpp.html#a5b11aa60f508a25dd27f629b3d5f7281", null ],
     [ "PausePreaccumulation", "ad__structure_8hpp.html#ad52c77e1fb6275bbff2bfab6aa498280", null ],
-    [ "PrintStatistics", "ad__structure_8hpp.html#a550da7d52493ef5d414a563f9ac2f737", null ],
+    [ "PrintStatistics", "ad__structure_8hpp.html#a3e4a9b347cb89d63a5c0ef72ec73fb9f", null ],
     [ "Push_TapePosition", "ad__structure_8hpp.html#a6346fb2cf00bd2a4b1566eb49e878b6e", null ],
     [ "RegisterInput", "ad__structure_8hpp.html#a142308d54379f7aaa1c72195fb5fe992", null ],
     [ "RegisterOutput", "ad__structure_8hpp.html#ae381e45797545e980376c4aeb3f5afdc", null ],

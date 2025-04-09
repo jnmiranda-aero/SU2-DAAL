@@ -1,0 +1,9 @@
+<map id="CFVMFlowSolverBase::SetPrimitive_Limiter" name="CFVMFlowSolverBase::SetPrimitive_Limiter">
+<area shape="rect" id="node1" title="Compute the limiter of the primitive variables." alt="" coords="5,74,169,115"/>
+<area shape="rect" id="node2" href="$group__FvmAlgos.html#ga98ad7a9a40934caf2774d32c4c277c05" title="A wrapper funtion that calls specialized implementations depending on &quot;LimiterKind&quot;...." alt="" coords="275,56,407,83"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a31504bfdad401a8879a9e0a121320f96" title="Get the method for limiting the spatial gradients." alt="" coords="217,107,464,133"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="512,5,693,32"/>
+<area shape="rect" id="node5" href="$classCGeometry.html#ace7f7fe876f629f5bd5f92d4805a1a4b" title="Get number of coordinates." alt="" coords="522,56,683,83"/>
+<area shape="rect" id="node6" href="$classCGeometry.html#a275fb07cd99ab79d7a04b4862280169d" title="Get number of points." alt="" coords="519,107,686,133"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="741,5,927,32"/>
+</map>

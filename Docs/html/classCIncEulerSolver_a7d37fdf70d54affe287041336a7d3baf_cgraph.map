@@ -1,0 +1,6 @@
+<map id="CIncEulerSolver::SetAdjoint_SolutionExtra" name="CIncEulerSolver::SetAdjoint_SolutionExtra">
+<area shape="rect" id="node1" title="Seed the adjoint of the extra solution at the output." alt="" coords="5,64,204,105"/>
+<area shape="rect" id="node2" href="$classCConfig.html#aae21b37c088347be2a7e02fc0ad4e4c4" title="Get information about the streamwise periodicity (None, Pressure_Drop, Massflow)." alt="" coords="252,5,468,47"/>
+<area shape="rect" id="node3" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="283,71,437,98"/>
+<area shape="rect" id="node4" href="$namespaceSU2__TYPE.html#ab0b85db43e1495ffbb0f2c823f24935e" title="Set the derivative value of the datatype (needs to be implemented for each new type)." alt="" coords="268,122,452,149"/>
+</map>

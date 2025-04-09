@@ -1,0 +1,11 @@
+<map id="CVertex::GetDonorProcessor" name="CVertex::GetDonorProcessor">
+<area shape="rect" id="node1" title="Get the value of the periodic point of a vertex." alt="" coords="843,78,1049,105"/>
+<area shape="rect" id="node2" href="$classCGeometry.html#a7c4fd8aa54722efc3d52a7cb70485ecb" title="Routine to set up persistent data structures for periodic communications." alt="" coords="568,5,795,47"/>
+<area shape="rect" id="node5" href="$classCAdjEulerSolver.html#a955c1b2bca0b00f14d155fd6eb3f6747" title="Parallelization of Undivided Laplacian." alt="" coords="604,71,759,112"/>
+<area shape="rect" id="node6" href="$classCEulerSolver.html#a6af5752ae941083a42f1d5761adb27ef" title="Parallelization of Undivided Laplacian." alt="" coords="599,136,764,177"/>
+<area shape="rect" id="node3" href="$classCDriver.html#a13e45636e813ccc36b5e4a42adb18d96" title="Construction of the edge&#45;based data structure and the multi&#45;grid structure." alt="" coords="289,13,489,39"/>
+<area shape="rect" id="node4" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="43,13,171,39"/>
+<area shape="rect" id="node7" href="$classCEulerSolver.html#a0d6f93feba8d6aad18edf3594213042b" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="257,143,520,170"/>
+<area shape="rect" id="node8" href="$classCEulerSolver.html#ab08b6aa95648e7ab973f9f247fe54b31" title="Compute primitive variables and their gradients." alt="" coords="5,118,209,145"/>
+<area shape="rect" id="node9" href="$classCNSSolver.html#af83e7cb773797239cdc98fc4d202d32f" title="Restart residual and compute gradients." alt="" coords="13,169,202,195"/>
+</map>

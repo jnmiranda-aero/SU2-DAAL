@@ -1,0 +1,9 @@
+<map id="CPrimalGrid::GetDomainElement" name="CPrimalGrid::GetDomainElement">
+<area shape="rect" id="node1" title="Get the index of the domain element of which this boundary element is a face." alt="" coords="511,159,747,186"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#a9d362c5d1caf1ed6ca75770185464873" title="Check the volume element orientation." alt="" coords="240,5,463,47"/>
+<area shape="rect" id="node3" href="$classCMeshFEM.html#ae74b12670fb49ad4d28836d9fc2aab8d" title="Redistributes the grid over the ranks and creates the halo layer." alt="" coords="264,71,439,98"/>
+<area shape="rect" id="node4" href="$classCPhysicalGeometry.html#ac8396196dddd6caec922418eaf7d7a2a" title="Compute the weights of the FEM graph for ParMETIS." alt="" coords="251,123,451,164"/>
+<area shape="rect" id="node5" href="$classCPhysicalGeometry.html#a0a1295415b0ff3105673f5733682e151" title="Set the domains for FEM grid partitioning using ParMETIS." alt="" coords="5,215,192,256"/>
+<area shape="rect" id="node6" href="$classCPhysicalGeometry.html#acef4e18142b580bf09f21e5b71387d5f" title="Determine the donor elements for the boundary elements on viscous wall boundaries when wall functions..." alt="" coords="242,239,461,295"/>
+<area shape="rect" id="node7" href="$classCPhysicalGeometry.html#a18f63cc49f7dc20241a0599ad1426ba8" title="Determine the time level of the elements when time accurate local time stepping is employed." alt="" coords="241,320,461,361"/>
+</map>

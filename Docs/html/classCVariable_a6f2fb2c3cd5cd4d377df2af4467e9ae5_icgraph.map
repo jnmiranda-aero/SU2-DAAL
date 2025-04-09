@@ -1,0 +1,5 @@
+<map id="CVariable::SetMax_Lambda_Visc" name="CVariable::SetMax_Lambda_Visc">
+<area shape="rect" id="node1" title="Set the value of the maximum eigenvalue for the viscous terms of the PDE." alt="" coords="264,31,499,57"/>
+<area shape="rect" id="node2" href="$classCHeatSolver.html#a46a94222146629b60daac7226d0099c0" title="A virtual member." alt="" coords="10,5,211,32"/>
+<area shape="rect" id="node3" href="$classCRadP1Solver.html#a6368d3843e2536f86b86dd746f7e1033" title="Compute the time step for solving the Radiation P1 equation." alt="" coords="5,56,216,83"/>
+</map>

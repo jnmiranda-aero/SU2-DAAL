@@ -1,0 +1,8 @@
+<map id="CPrimalGrid::GetNeighbor_Elements" name="CPrimalGrid::GetNeighbor_Elements">
+<area shape="rect" id="node1" title="Get the elements that surround an element." alt="" coords="1001,27,1192,69"/>
+<area shape="rect" id="node2" href="$classCMeshFEM.html#ae74b12670fb49ad4d28836d9fc2aab8d" title="Redistributes the grid over the ranks and creates the halo layer." alt="" coords="755,5,929,32"/>
+<area shape="rect" id="node3" href="$classCGeometry.html#a65e8021c9f7ecf79323ce9b88ab82e55" title="Build the global (entire mesh!) adjacency matrix for the elements in compressed format...." alt="" coords="731,57,953,98"/>
+<area shape="rect" id="node4" href="$classCGeometry.html#aaef960cf36701d56d1d8410bd0ab67fa" title="Filter values given at the element CG by performing a weighted average over a radial neighbourhood." alt="" coords="489,57,683,98"/>
+<area shape="rect" id="node5" href="$classCFEASolver.html#a7e11c36921b2c146ca2fd7d1a0512ffd" title="Filter the density field for topology optimization applications." alt="" coords="249,57,441,98"/>
+<area shape="rect" id="node6" href="$classCFEASolver.html#a353159e003821dae0668dcfe7281bd68" title="Set residuals to zero." alt="" coords="5,64,201,91"/>
+</map>

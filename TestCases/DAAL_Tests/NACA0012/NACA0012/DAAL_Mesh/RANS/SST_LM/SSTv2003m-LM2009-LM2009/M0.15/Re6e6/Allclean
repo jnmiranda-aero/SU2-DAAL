@@ -1,0 +1,12 @@
+setupFilename="setup.cfg" 
+AOA=$(awk '/AOA / {print $3;}' "$setupFilename")
+M=$(awk '/M /  {print $3;}' "$setupFilename")
+Re=$(awk '/Re / {print $3;}' "$setupFilename")
+NAME=$(awk '/NAME / {print $3;}' "$setupFilename")
+CONFIG=$(awk '/CONFIG / {print $3;}' "$setupFilename")
+cfgFilename=config_$NAME'_'A$AOA'_'M$M'_'Re$Re'_'$CONFIG.cfg
+logFilename=log_$NAME'_'A$AOA'_'M$M'_'Re$Re'_'$CONFIG.log
+
+echo CLEANING: $cfgFilename
+
+rm *.dat *.csv *.szplt *.vtu *.vtk *.log

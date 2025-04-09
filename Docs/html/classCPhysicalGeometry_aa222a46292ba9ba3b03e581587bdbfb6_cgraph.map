@@ -1,0 +1,46 @@
+<map id="CPhysicalGeometry::Read_CGNS_Format_Parallel_FEM" name="CPhysicalGeometry::Read_CGNS_Format_Parallel_FEM">
+<area shape="rect" id="node1" title="Reads for the FEM solver the geometry of the grid and adjust the boundary conditions with the configu..." alt="" coords="5,1245,248,1286"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a137ef06ade0c4f94d2a61f9b8817b6a7" title=" " alt="" coords="305,5,514,32"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a33bad5506b8315fde26c1f31a42ce97c" title=" " alt="" coords="312,56,507,83"/>
+<area shape="rect" id="node4" href="$classCFaceOfElement.html#a1f80d19d78b66efca57d5b0dff537d87" title=" " alt="" coords="296,107,523,149"/>
+<area shape="rect" id="node5" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="571,588,752,615"/>
+<area shape="rect" id="node7" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="301,224,517,251"/>
+<area shape="rect" id="node8" href="$classCPrimalGrid.html#ac443fe58e9f5e11cfa78ae9d0fa2afd9" title="Virtual function, that must be overwritten by the derived class, if needed." alt="" coords="302,275,517,317"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a6748861eab683cf20cdadd3e330479f5" title="Get the plotting information from the config definition for the marker val_marker." alt="" coords="335,341,483,382"/>
+<area shape="rect" id="node10" href="$classCConfig.html#aeb6041cfc75469b50c43565d2a8d3521" title="Get the monitoring information from the config definition for the marker val_marker." alt="" coords="335,406,483,447"/>
+<area shape="rect" id="node11" href="$classCConfig.html#aa05e706c3bc4e5b843a7b3b19ec69b87" title="Get the DV information from the config definition for the marker val_marker." alt="" coords="335,471,483,513"/>
+<area shape="rect" id="node12" href="$classCConfig.html#a167c6fc738f73fe1e232d6a677bec94b" title="Get the monitoring information from the config definition for the marker val_marker." alt="" coords="335,537,483,578"/>
+<area shape="rect" id="node13" href="$classCConfig.html#ab4762ff7686306626fe0a501b19ebcef" title="Get the boundary information (kind of boundary) in the config information of the marker val_marker." alt="" coords="335,602,483,643"/>
+<area shape="rect" id="node14" href="$classCConfig.html#aa12ef9975b7bf95fd1c1e406d945e2e9" title="Get the monitoring information from the config definition for the marker val_marker." alt="" coords="334,667,485,709"/>
+<area shape="rect" id="node15" href="$classCConfig.html#afe71a4c7256b4e04f4ed8c5b159f3ec6" title="Get the motion information from the config definition for the marker val_marker." alt="" coords="335,733,483,774"/>
+<area shape="rect" id="node16" href="$classCConfig.html#a833b6c327850c211d62b09dbb752a040" title="Get the periodic information from the config definition of the marker val_marker." alt="" coords="335,798,483,839"/>
+<area shape="rect" id="node17" href="$classCConfig.html#a1a2154c605984c60ab62ed3de4c43bc5" title="Get the plotting information from the config definition for the marker val_marker." alt="" coords="335,863,483,905"/>
+<area shape="rect" id="node18" href="$classCConfig.html#a5b49f7575f98898a9c6b63a629850d82" title="Get the gradient boundary information from the config definition for the marker val_marker." alt="" coords="334,929,485,970"/>
+<area shape="rect" id="node19" href="$classCConfig.html#a20d0e92829df77a109242ea791a32489" title="Get the index in the config information of the marker val_marker." alt="" coords="335,994,483,1035"/>
+<area shape="rect" id="node20" href="$classCConfig.html#a92e0142fc7070f1cb470949fcee01b6b" title="Get the multi&#45;physics interface information from the config definition for the marker val_marker." alt="" coords="323,1059,495,1101"/>
+<area shape="rect" id="node21" href="$classCConfig.html#a561073e0d8337afb1ead2080499b11af" title="Get the total number of boundary markers in the cfg plus the possible send/receive domains." alt="" coords="314,1125,505,1152"/>
+<area shape="rect" id="node22" href="$classCPrimalGrid.html#ad07e4929bb7093fd08f1314a57739cce" title="Get number of nodes of the element." alt="" coords="319,1176,499,1203"/>
+<area shape="rect" id="node23" href="$classCPrimalGrid.html#a6353b89f5a8a3948cd475da6152bf077" title="Get the nodes shared by the primal grid element." alt="" coords="327,1227,492,1253"/>
+<area shape="rect" id="node24" href="$classCBaseMPIWrapper.html#a4009cae40f1e050b3635a8d803dbfa3d" title=" " alt="" coords="317,1277,502,1304"/>
+<area shape="rect" id="node25" href="$classCBaseMPIWrapper.html#abe6ea390a8bef50649e393e1dbe3b1ec" title=" " alt="" coords="316,1328,503,1355"/>
+<area shape="rect" id="node26" href="$classCBaseMPIWrapper.html#a89e5c8b06b4c1c64ade3f78c6f0ed0e2" title=" " alt="" coords="318,1379,501,1405"/>
+<area shape="rect" id="node27" href="$classCBaseMPIWrapper.html#a6b6d07031fc7ffdc9022f1df45ae381e" title=" " alt="" coords="310,1430,509,1471"/>
+<area shape="rect" id="node28" href="$classCPoint.html#af3545cace579269797a534b6a10a42e1" title="Set the coordinates for the control volume." alt="" coords="344,1496,475,1523"/>
+<area shape="rect" id="node29" href="$classCPoint.html#a6ebbb35fdc230e1bef0d870dd5c09ab2" title="Set the global index in a parallel computation." alt="" coords="324,1547,495,1573"/>
+<area shape="rect" id="node30" href="$classCConfig.html#a822723d98435a7a1f06ba1b15c18efe0" title="Set if a marker val_marker is going to be plot val_plotting (read from the config file)." alt="" coords="336,1598,483,1639"/>
+<area shape="rect" id="node31" href="$classCConfig.html#a411c5919b9c6621eaab590146d37d7d6" title="Set if a marker val_marker is going to be designed val_designing (read from the config file)." alt="" coords="336,1663,483,1705"/>
+<area shape="rect" id="node32" href="$classCConfig.html#add5748db493df55770d5c6314e1e7944" title="Set if a marker val_marker is going to be affected by design variables val_moving (read from the conf..." alt="" coords="336,1729,483,1770"/>
+<area shape="rect" id="node33" href="$classCConfig.html#a87f1907945fe6d30767c6d303f0224b6" title="Set if a marker val_marker is going to be monitored val_monitoring (read from the config file)." alt="" coords="336,1794,483,1835"/>
+<area shape="rect" id="node34" href="$classCConfig.html#adc22b84484d1022a385516b5e4e050fa" title="Set the value of the boundary val_boundary (read from the config file) for the marker val_marker." alt="" coords="336,1859,483,1901"/>
+<area shape="rect" id="node35" href="$classCConfig.html#a9f35c49ae9572ef1a5e876a5a454a7db" title="Set if a marker val_marker is going to be monitored val_monitoring (read from the config file)." alt="" coords="336,1925,483,1966"/>
+<area shape="rect" id="node36" href="$classCConfig.html#a6604be6fc00566573e86ebe274761e2a" title="Set if a marker val_marker is going to be moved val_moving (read from the config file)." alt="" coords="336,1990,483,2031"/>
+<area shape="rect" id="node37" href="$classCConfig.html#acdf40baa7780a76587428c3f3dc88e52" title="Set if a marker val_marker is going to be periodic val_perbound (read from the config file)." alt="" coords="336,2055,483,2097"/>
+<area shape="rect" id="node38" href="$classCConfig.html#ae8dfb92c7884c801e54b70511e208544" title="Set if a marker val_marker is going to be plot val_plotting (read from the config file)." alt="" coords="336,2121,483,2162"/>
+<area shape="rect" id="node39" href="$classCConfig.html#a82bd1f76cf9574ecfc48c44bef277cd5" title="Set if a marker val_marker is going to be sent or receive val_index from another domain." alt="" coords="336,2186,483,2227"/>
+<area shape="rect" id="node40" href="$classCConfig.html#ab9cb721e4ef9a7ba14ecd59a45550017" title="Set if a marker how val_marker is going to be applied in gradient treatment." alt="" coords="336,2251,483,2293"/>
+<area shape="rect" id="node41" href="$classCConfig.html#a3d64a9bbafa5f87e2559f34cc297a9c4" title="Set the value of the index val_index (read from the geometry file) for the marker val_marker." alt="" coords="336,2317,483,2358"/>
+<area shape="rect" id="node42" href="$classCConfig.html#a5c017ee959c51d599a0edd01d17adeab" title="Set if a marker val_marker is part of the FSI interface val_plotting (read from the config file)." alt="" coords="336,2382,483,2423"/>
+<area shape="rect" id="node43" href="$classCConfig.html#a0a0f6d6594b4654ca7389ef89fca47cb" title="Stores the number of marker in the simulation." alt="" coords="320,2448,499,2475"/>
+<area shape="rect" id="node44" href="$classCBaseMPIWrapper.html#a01c02f8c0c799ccd15023f0c2c3cae27" title=" " alt="" coords="312,2499,507,2525"/>
+<area shape="rect" id="node6" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="800,588,985,615"/>
+</map>

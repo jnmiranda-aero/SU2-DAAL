@@ -1,6 +1,6 @@
 var code__config_8hpp =
 [
-    [ "su2conditional< B, T, F >", "structsu2conditional.html", "structsu2conditional" ],
+    [ "su2conditional", "structsu2conditional.html", "structsu2conditional" ],
     [ "su2conditional< false, T, F >", "structsu2conditional_3_01false_00_01T_00_01F_01_4.html", "structsu2conditional_3_01false_00_01T_00_01F_01_4" ],
     [ "FORCEINLINE", "code__config_8hpp.html#a724fb9f82013c782db5c3c12ea36aac8", null ],
     [ "NEVERINLINE", "code__config_8hpp.html#a532e3a907ffcbd961f272208a0309659", null ],

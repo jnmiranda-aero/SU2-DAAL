@@ -1,0 +1,5 @@
+<map id="CConfig::GetSupercatalytic_Wall_Composition" name="CConfig::GetSupercatalytic_Wall_Composition">
+<area shape="rect" id="node1" title="Provides the gas mass fractions at the wall for supercat wall." alt="" coords="603,5,799,47"/>
+<area shape="rect" id="node2" href="$classCNEMONSSolver.html#ae3d2c5f1c94cb3d01b7f351ce3105f31" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="321,5,555,47"/>
+<area shape="rect" id="node3" href="$classCNEMONSSolver.html#a8c6c80e6e8f2aed2ff80c78a8e5aec9e" title="Generic implementation of the isothermal wall." alt="" coords="5,13,273,39"/>
+</map>

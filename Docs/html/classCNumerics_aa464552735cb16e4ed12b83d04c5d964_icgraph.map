@@ -1,0 +1,6 @@
+<map id="CNumerics::CheckResidualNaNs" name="CNumerics::CheckResidualNaNs">
+<area shape="rect" id="node1" title="Check if residual constains a NaN value." alt="" coords="265,78,497,105"/>
+<area shape="rect" id="node2" href="$classCNEMOEulerSolver.html#a7765314bdcc7440ec4b1826ab6cf16f3" title="Compute the spatial integration using a centered scheme." alt="" coords="5,5,217,47"/>
+<area shape="rect" id="node3" href="$classCNEMOEulerSolver.html#a0758ca67e16c9f1f0f8fe5c8ec661cf7" title="Source term integration." alt="" coords="13,71,210,112"/>
+<area shape="rect" id="node4" href="$classCNEMOEulerSolver.html#a427284b43fbe1f9c373096cc4bbe5781" title="Compute the spatial integration using a upwind scheme." alt="" coords="10,136,213,177"/>
+</map>

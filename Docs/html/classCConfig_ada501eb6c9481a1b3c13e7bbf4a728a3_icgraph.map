@@ -1,0 +1,8 @@
+<map id="CConfig::GetAitkenStatRelax" name="CConfig::GetAitkenStatRelax">
+<area shape="rect" id="node1" title="Get Aitken&#39;s relaxation parameter for static relaxation cases." alt="" coords="992,42,1199,69"/>
+<area shape="rect" id="node2" href="$classCFEASolver.html#a156f56cb6deb953168b9d1492d3863a6" title="Computation of Aitken&#39;s coefficient." alt="" coords="737,5,942,47"/>
+<area shape="rect" id="node3" href="$classCSolver.html#aab820aec4d316794dd2e65c1aef06408" title="Update a given cross&#45;term with relaxation and the running total (External)." alt="" coords="735,71,944,98"/>
+<area shape="rect" id="node4" href="$classCDiscAdjMultizoneDriver.html#a9134ef81e03db2467dc8bfa67d2ab636" title="Extract contribution of iZone to jZone with BGS relaxation." alt="" coords="503,64,687,105"/>
+<area shape="rect" id="node5" href="$classCDiscAdjMultizoneDriver.html#af996aecdb6d20aa4fc81c9b67295abf5" title="[Overload] Run an discrete adjoint update of all solvers within multiple zones." alt="" coords="237,71,455,98"/>
+<area shape="rect" id="node6" href="$classCDiscAdjMultizoneDriver.html#a75de0a1a482ceeed4301a384f1515092" title="[Overload] Launch the computation for discrete adjoint multizone problems." alt="" coords="5,64,189,105"/>
+</map>

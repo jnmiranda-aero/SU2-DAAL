@@ -1,0 +1,10 @@
+<map id="CVerificationSolution::AddError_Max" name="CVerificationSolution::AddError_Max">
+<area shape="rect" id="node1" title="Increment the global maximum error for verification cases." alt="" coords="733,123,891,164"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__EulerSolver.html#a141f2b877000daec03e9aeb68ce6aebf" title="Compute the global error measures (L2, Linf) for verification cases." alt="" coords="287,68,480,109"/>
+<area shape="rect" id="node5" href="$classCFVMFlowSolverBase.html#aaad58ddeb885dd666534a526846d0991" title="Compute the global error measures (L2, Linf) for verification cases." alt="" coords="287,156,480,197"/>
+<area shape="rect" id="node8" href="$classCVerificationSolution.html#a467e0ccdb07f223326549273ddeb9fa9" title="Calculate the global error metrics for verification cases." alt="" coords="528,123,685,164"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__EulerSolver.html#a5f05845eb2f1bb8619d7da896e6aa3f3" title="Update the solution using the classical fourth&#45;order Runge&#45;Kutta scheme." alt="" coords="34,5,210,47"/>
+<area shape="rect" id="node4" href="$classCFEM__DG__EulerSolver.html#a980de4518bb9a77a25146d56ae072acf" title="Update the solution using a Runge&#45;Kutta scheme." alt="" coords="39,71,205,112"/>
+<area shape="rect" id="node6" href="$classCFVMFlowSolverBase.html#a3eb0fbabf1ce42ccc0fe626473800e09" title="Generic implementation to complete an implicit iteration, i.e. update the solution." alt="" coords="5,143,239,184"/>
+<area shape="rect" id="node7" href="$classCFVMFlowSolverBase.html#ac30c9255150f29da2915a85264a1676c" title="Generic implementation of explicit iterations with a preconditioner." alt="" coords="34,208,210,249"/>
+</map>

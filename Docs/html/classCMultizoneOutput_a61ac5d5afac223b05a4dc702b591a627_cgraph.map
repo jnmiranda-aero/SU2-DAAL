@@ -1,0 +1,14 @@
+<map id="CMultizoneOutput::SetMultizoneHistoryOutputFields" name="CMultizoneOutput::SetMultizoneHistoryOutputFields">
+<area shape="rect" id="node1" title="Set the available multizone history output fields." alt="" coords="5,246,237,287"/>
+<area shape="rect" id="node2" href="$classCOutput.html#ad5ee424d364346cbd6dc27ffbab35e0a" title="Add a new field to the history output." alt="" coords="297,5,496,32"/>
+<area shape="rect" id="node3" href="$classCOutput.html#a8777541eeb47d01a7cc0cf646dfb44bb" title="Add a new field per surface marker to the history output." alt="" coords="297,57,496,98"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="306,123,487,149"/>
+<area shape="rect" id="node6" href="$classCOutput.html#aebfc0d12731577a3f6707c9aa8c55414" title="Get the map containing all output fields." alt="" coords="301,173,492,200"/>
+<area shape="rect" id="node7" href="$classCOutput.html#a8aa40eeb2635789e9379e2c4958754f2" title="Get the list of all output fields." alt="" coords="287,224,507,251"/>
+<area shape="rect" id="node8" href="$classCOutput.html#a07adbf24232c9a04676eabf3490c9093" title="Get the list of all per&#45;surface fields." alt="" coords="298,275,495,317"/>
+<area shape="rect" id="node9" href="$classCOutput.html#a548a9fd28927bf45b047119f11cc9a62" title="Get the map containing all output per&#45;surface fields." alt="" coords="285,341,508,382"/>
+<area shape="rect" id="node10" href="$classCConfig.html#a3f097c919da47e78ba1fbf204ed5c9b2" title="Get the total number of moving markers." alt="" coords="319,406,475,447"/>
+<area shape="rect" id="node11" href="$classCConfig.html#a6e65810e59b8015104b84c4fd5b1d7f9" title="Get the total number of monitoring markers." alt="" coords="319,471,475,513"/>
+<area shape="rect" id="node12" href="$namespacePrintingToolbox.html#a382f3911ccba468c241c530ae0c78b63" title=" " alt="" coords="325,537,468,578"/>
+<area shape="rect" id="node5" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="556,123,741,149"/>
+</map>

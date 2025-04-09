@@ -7,8 +7,8 @@ var classCSymmetricMatrix =
     [ "Invert", "classCSymmetricMatrix.html#a226d6d78097c20c3e3b06de6a5103405", null ],
     [ "MatMatMult", "classCSymmetricMatrix.html#aaf18d5329bf4959d6000c3a5cf2f65b3", null ],
     [ "MatVecMult", "classCSymmetricMatrix.html#a133eb094e8f94297c53e592b8917b803", null ],
-    [ "operator()", "classCSymmetricMatrix.html#ad156d3166d6164830f9aef6300b00f19", null ],
-    [ "operator()", "classCSymmetricMatrix.html#a679e42871e14a852805d20145977f66a", null ],
+    [ "operator()", "classCSymmetricMatrix.html#ae2ec9bd1b7d9d14d2ef4ae198bc9db39", null ],
+    [ "operator()", "classCSymmetricMatrix.html#a4749958924a7f07996643697a4d0c278", null ],
     [ "Set", "classCSymmetricMatrix.html#a807488f01b96a4e8ab65e85a6d13247e", null ],
     [ "Size", "classCSymmetricMatrix.html#af477e6335954547a391398ac8a46754c", null ],
     [ "StealData", "classCSymmetricMatrix.html#a9434e566a80175295469512f3842225e", null ]

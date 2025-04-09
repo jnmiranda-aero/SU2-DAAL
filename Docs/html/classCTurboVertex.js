@@ -9,7 +9,7 @@ var classCTurboVertex =
     [ "GetOldVertex", "classCTurboVertex.html#a08c5fb32bf5526bbe8b3f238b63122cd", null ],
     [ "GetRelAngularCoord", "classCTurboVertex.html#a0f3acfdff36d602098c0039f01a578b5", null ],
     [ "GetTurboNormal", "classCTurboVertex.html#ad72f5115828f49f0fafdc66b00f3ece4", null ],
-    [ "GetTurboNormal", "classCTurboVertex.html#a555ffe80c1ac3811063746b7facf282d", null ],
+    [ "GetTurboNormal", "classCTurboVertex.html#a7d711e6fd7a78e7b9a83dd6487ba1d11", null ],
     [ "SetAngularCoord", "classCTurboVertex.html#a267a13ece76902b033dfc9ea8fd19949", null ],
     [ "SetArea", "classCTurboVertex.html#a180b0b002150c9ab7c2fe3646a645d64", null ],
     [ "SetDeltaAngularCoord", "classCTurboVertex.html#adf1445d6716e8b31365174cb424a6015", null ],

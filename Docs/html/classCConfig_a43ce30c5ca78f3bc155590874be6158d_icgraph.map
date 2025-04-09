@@ -1,0 +1,4 @@
+<map id="CConfig::GetKind_PerformanceAverageProcess" name="CConfig::GetKind_PerformanceAverageProcess">
+<area shape="rect" id="node1" title="Get the kind of mixing process for averaging quantities at the boundaries." alt="" coords="255,5,477,47"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#afe2f428da073b80f64c41422971f9748" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="5,5,207,47"/>
+</map>

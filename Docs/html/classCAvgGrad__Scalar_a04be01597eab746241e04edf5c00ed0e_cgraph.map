@@ -1,0 +1,11 @@
+<map id="CAvgGrad_Scalar::ComputeResidual" name="CAvgGrad_Scalar::ComputeResidual">
+<area shape="rect" id="node1" title="Compute the viscous residual using an average of gradients without correction." alt="" coords="5,165,205,207"/>
+<area shape="rect" id="node2" href="$classCNumerics.html#a461f0d2b6bbf12a98133f06b5452efb0" title="Project average gradient onto normal (with or w/o correction) for viscous fluxes of scalar quantities..." alt="" coords="274,5,495,47"/>
+<area shape="rect" id="node4" href="$namespaceAD.html#a309d057a92faa60a3a760254678ec9ea" title="Ends a preaccumulation section and computes the local Jacobi matrix of a code section using the varia..." alt="" coords="327,71,443,98"/>
+<area shape="rect" id="node5" href="$classCAvgGrad__Scalar.html#affa0b67357a7e9b0251aa83b485ea9f9" title="A pure virtual function; Adds any extra variables to AD." alt="" coords="260,122,509,149"/>
+<area shape="rect" id="node6" href="$classCAvgGrad__Scalar.html#af401565fda06a602bab2a83ff385c1b7" title="Model&#45;specific steps in the ComputeResidual method, derived classes should compute the Flux and Jacob..." alt="" coords="253,173,516,199"/>
+<area shape="rect" id="node7" href="$namespaceAD.html#aa163589c94af6ddfdbcf901ecc76ac77" title="Sets the scalar inputs of a preaccumulation section." alt="" coords="322,223,447,250"/>
+<area shape="rect" id="node8" href="$namespaceAD.html#a96f26aa5f6909173e990e03b864fec33" title="Sets the scalar outputs of a preaccumulation section." alt="" coords="317,274,453,301"/>
+<area shape="rect" id="node9" href="$namespaceAD.html#a2a1e9c4b109fd751e84132c9495de3ff" title="Starts a new preaccumulation section and sets the input variables." alt="" coords="323,325,446,351"/>
+<area shape="rect" id="node3" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="564,13,673,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CFVMFlowSolverBase::SumEdgeFluxes" name="CFVMFlowSolverBase::SumEdgeFluxes">
+<area shape="rect" id="node1" title="Sum the edge fluxes for each cell to populate the residual vector, only used on coarse grids." alt="" coords="485,5,649,47"/>
+<area shape="rect" id="node2" href="$classCFVMFlowSolverBase.html#a0cac91b15aa61de657289b114bd796bc" title="Sums edge fluxes (if required) and computes the global error counter." alt="" coords="217,5,437,47"/>
+<area shape="rect" id="node3" href="$classCFVMFlowSolverBase.html#a8c19de20d537852775225aa6d201f00f" title="Method to compute convective and viscous residual contribution using vectorized numerics." alt="" coords="5,5,169,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CGeometry::SetAvgTurboValue" name="CGeometry::SetAvgTurboValue">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="743,31,961,57"/>
+<area shape="rect" id="node2" href="$classCDriver.html#ad384010214279eafb529661d49312c1e" title="Initiate value for static mesh movement such as the gridVel for the ROTATING frame." alt="" coords="440,5,695,32"/>
+<area shape="rect" id="node4" href="$classCFluidIteration.html#a3f9245cfaa052a2dfba3a07da02e6d9f" title="Monitors turbo computation (pressure and turbo ramps)." alt="" coords="462,56,673,83"/>
+<area shape="rect" id="node3" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="240,5,368,32"/>
+<area shape="rect" id="node5" href="$classCFluidIteration.html#a65a5e3091a587996d2edf4c415a241f6" title="Monitors the convergence and other metrics for the fluid system." alt="" coords="216,56,392,83"/>
+<area shape="rect" id="node6" href="$classCFluidIteration.html#ae4c454356af70246063fdcba4accb068" title="Iterate the fluid system for a number of Inner_Iter iterations." alt="" coords="5,56,168,83"/>
+</map>

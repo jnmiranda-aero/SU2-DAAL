@@ -1,0 +1,9 @@
+<map id="CIncEulerSolver::GetFluidModel" name="CIncEulerSolver::GetFluidModel">
+<area shape="rect" id="node1" title="Compute the pressure at the infinity." alt="" coords="957,35,1144,76"/>
+<area shape="rect" id="node2" href="$classCIncEulerSolver.html#a2cffaa24417cb3803d36d38b3874d6d0" title="Set the solver nondimensionalization." alt="" coords="607,13,909,39"/>
+<area shape="rect" id="node4" href="$classCIncEulerSolver.html#a4c23fe41a4589737850b80bb10d5bac5" title="Compute the velocity^2, SoundSpeed, Pressure, Enthalpy, Viscosity." alt="" coords="652,64,864,105"/>
+<area shape="rect" id="node3" href="$classCIncEulerSolver.html#a2a0c72c1d1d79e45c69da03e01f6281a" title="Constructor of the class." alt="" coords="321,5,514,47"/>
+<area shape="rect" id="node5" href="$classCIncEulerSolver.html#ac50d02e914c4337e73d2c4878b12c59d" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="276,71,559,98"/>
+<area shape="rect" id="node6" href="$classCIncEulerSolver.html#aac33066eba6bdbe02693afb992e307d8" title="Compute primitive variables and their gradients." alt="" coords="5,46,228,73"/>
+<area shape="rect" id="node7" href="$classCIncNSSolver.html#aaaff5cfe93aa72a689248c80b2ea9149" title="Restart residual and compute gradients." alt="" coords="13,97,221,123"/>
+</map>

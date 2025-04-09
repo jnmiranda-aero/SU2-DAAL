@@ -1,0 +1,10 @@
+<map id="CSysVector::norm" name="CSysVector::norm">
+<area shape="rect" id="node1" title="L2 norm of the vector." alt="" coords="5,60,143,87"/>
+<area shape="rect" id="node2" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="263,35,309,61"/>
+<area shape="rect" id="node3" href="$classCSysVector.html#a5a7712aa50a8edc522e54bff5481493c" title="Squared L2 norm of the vector (via dot with self)." alt="" coords="191,85,381,112"/>
+<area shape="rect" id="node4" href="$classCSysVector.html#a96c613a08177a0f6105a635a92b138b0" title="Dot product between &quot;this&quot; and an expression." alt="" coords="429,85,553,112"/>
+<area shape="rect" id="node5" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="604,5,815,32"/>
+<area shape="rect" id="node6" href="$omp__structure_8hpp.html#a9465b8cb1d384f41bbb5f3c04ec815de" title="Atomically update a (shared) lhs value with a (local) rhs value." alt="" coords="663,56,755,83"/>
+<area shape="rect" id="node7" href="$classVecExpr_1_1CVecExpr.html#a115df29cff21df9afb1271565c42b37c" title="Cast the expression to Derived, usually to allow evaluation via operator[]." alt="" coords="634,107,785,149"/>
+<area shape="rect" id="node8" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="601,173,817,200"/>
+</map>

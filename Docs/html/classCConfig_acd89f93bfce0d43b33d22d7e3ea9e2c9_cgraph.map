@@ -1,0 +1,12 @@
+<map id="CConfig::SetMultizone" name="CConfig::SetMultizone">
+<area shape="rect" id="node1" title="Set multizone properties." alt="" coords="5,199,171,225"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="238,5,419,32"/>
+<area shape="rect" id="node4" href="$classCConfig.html#ace61be93af4e96f53b22e1a94c647821" title="Return true if a fluid solver is in use." alt="" coords="234,56,423,83"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a2298deab9cdc00a1c09f6e7cf6c8e07c" title="GetnVolumeOutputFiles." alt="" coords="227,107,431,149"/>
+<area shape="rect" id="node6" href="$classCConfig.html#aa89d8d244474c95cd3137adcbfafb1da" title="Return true if a structural solver is in use." alt="" coords="219,173,439,200"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a85d2e3cf43b77c63642c40c235b853f3" title="Check if the multizone problem is solved for time domain." alt="" coords="231,224,426,251"/>
+<area shape="rect" id="node8" href="$classCConfig.html#ace4763d82cccbf07f2388d88689927ee" title="Get the time step for multizone problems." alt="" coords="243,275,415,301"/>
+<area shape="rect" id="node9" href="$classCConfig.html#adfae5472df18b9be89665c415e0061df" title="GetVolumeOutputFiles." alt="" coords="231,326,427,367"/>
+<area shape="rect" id="node10" href="$classCConfig.html#aa074bd70eeb57bbdf6ae340f93389096" title="Get the boolean value, whether the the Cauchy method for the time averaged windowed objective functio..." alt="" coords="220,392,437,419"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="487,5,672,32"/>
+</map>

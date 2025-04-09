@@ -1,0 +1,4 @@
+<map id="CEulerSolver::ComputeConsistentExtrapolation" name="CEulerSolver::ComputeConsistentExtrapolation">
+<area shape="rect" id="node1" title="Recompute the extrapolated quantities, after MUSCL reconstruction, in a more thermodynamically consis..." alt="" coords="216,5,457,47"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#aa9729921eed9546daca6ca891ad2a9bb" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,5,168,47"/>
+</map>

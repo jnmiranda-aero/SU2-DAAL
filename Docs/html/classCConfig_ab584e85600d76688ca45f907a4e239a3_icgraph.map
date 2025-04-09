@@ -1,0 +1,4 @@
+<map id="CConfig::GetGiles_FlowDir" name="CConfig::GetGiles_FlowDir">
+<area shape="rect" id="node1" title="Get the Flowdir for the Giles BC." alt="" coords="224,5,417,32"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a40fad0a57e8dcba8a8f4d4fa8eab02f0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="5,5,176,32"/>
+</map>

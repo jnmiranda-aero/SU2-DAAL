@@ -1,0 +1,4 @@
+<map id="CConfig::GetLinear_Solver_Smoother_Relaxation" name="CConfig::GetLinear_Solver_Smoother_Relaxation">
+<area shape="rect" id="node1" title="Get the relaxation factor for iterative linear smoothers." alt="" coords="215,5,432,47"/>
+<area shape="rect" id="node2" href="$classCSysSolve.html#a2156b8d64819367142bef9bb9f2348fb" title="Generic smoother (modified Richardson iteration with preconditioner)" alt="" coords="5,5,167,47"/>
+</map>

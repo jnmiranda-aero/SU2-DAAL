@@ -1,0 +1,8 @@
+<map id="CMultiGridGeometry::SetMultiGridWallTemperature" name="CMultiGridGeometry::SetMultiGridWallTemperature">
+<area shape="rect" id="node1" title="Set a representative wall temperature of the agglomerated control volume on a particular boundary mar..." alt="" coords="5,39,227,80"/>
+<area shape="rect" id="node2" href="$classCGeometry.html#a3c4441254ab333c013dee6c63c8117d9" title="Get the value of the customized temperature at a specified vertex on a specified marker." alt="" coords="275,5,513,47"/>
+<area shape="rect" id="node3" href="$classCGeometry.html#a59da2e9606fd23fc4477a0bf4642a1c9" title="Set a representative wall value of the agglomerated control volumes on a particular boundary marker." alt="" coords="279,71,509,112"/>
+<area shape="rect" id="node4" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="561,27,708,54"/>
+<area shape="rect" id="node5" href="$classCPoint.html#aa23a2b42b38e6d611038eeafdb7051d0" title="Get the vertex that compose the control volume for a marker." alt="" coords="566,78,703,105"/>
+<area shape="rect" id="node6" href="$classCPoint.html#a35a504401472dfa76ef1187a5675414f" title="Get area or volume of the control volume." alt="" coords="563,129,707,155"/>
+</map>

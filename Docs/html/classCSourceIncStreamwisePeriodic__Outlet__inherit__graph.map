@@ -1,0 +1,5 @@
+<map id="CSourceIncStreamwisePeriodic_Outlet" name="CSourceIncStreamwisePeriodic_Outlet">
+<area shape="rect" id="node1" title="Class for the outlet heat sink. Acts like a heatflux boundary on the outlet and not as a volume sourc..." alt="" coords="5,155,228,196"/>
+<area shape="rect" id="node2" href="$classCSourceBase__Flow.html" title="Intermediate source term class to allocate the internally stored residual and Jacobian...." alt="" coords="44,80,189,107"/>
+<area shape="rect" id="node3" href="$classCNumerics.html" title="Class for defining the numerical methods." alt="" coords="70,5,163,32"/>
+</map>

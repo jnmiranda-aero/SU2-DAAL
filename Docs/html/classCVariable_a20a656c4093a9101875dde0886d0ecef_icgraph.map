@@ -1,0 +1,5 @@
+<map id="CVariable::SetEnergy_ResTruncError_Zero" name="CVariable::SetEnergy_ResTruncError_Zero">
+<area shape="rect" id="node1" title="Set the velocity of the truncation error to zero." alt="" coords="303,35,461,76"/>
+<area shape="rect" id="node2" href="$classCIncNSSolver.html#a20df3bf692b483420474f500c981584f" title="Impose the (received) conjugate heat variables." alt="" coords="26,5,234,47"/>
+<area shape="rect" id="node3" href="$classCAdjNSSolver.html#a159875229feba5b14c433990e5a89d60" title="Impose via the residual or brute force the Navier&#45;Stokes adjoint boundary condition (heat flux)." alt="" coords="5,71,255,98"/>
+</map>

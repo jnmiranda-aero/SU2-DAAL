@@ -1,0 +1,52 @@
+<map id="CMultiGridGeometry::CMultiGridGeometry" name="CMultiGridGeometry::CMultiGridGeometry">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,1291,169,1333"/>
+<area shape="rect" id="node2" href="$group__SIMD.html#gaf7650d08e2a58ed700276ddc70f72f96" title=" " alt="" coords="307,5,353,32"/>
+<area shape="rect" id="node3" href="$classPrintingToolbox_1_1CTablePrinter.html#af3ddbf0da1a37cc37be7caac031dd4c4" title="Add a column to the table by specifiying the header name and the width." alt="" coords="222,57,438,98"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="225,123,435,149"/>
+<area shape="rect" id="node5" href="$classCMultiGridQueue.html#ad8afe87009d1538232cb57d3183ce7cc" title="Check if the queue is empty." alt="" coords="217,173,443,200"/>
+<area shape="rect" id="node6" href="$classCPoint.html#a90031228aee4b67e61ba42101a82795e" title="Get information about if a control volume has been agglomerated." alt="" coords="508,237,687,264"/>
+<area shape="rect" id="node7" href="$classCPoint.html#ace96c73e584081e97ed89198ac096c4c" title="Get information about if the indirect neighbors can be agglomerated." alt="" coords="241,478,419,519"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a327893f15ca36b27db6201a7cb787022" title="Get the Courant Friedrich Levi number for each grid." alt="" coords="267,544,393,571"/>
+<area shape="rect" id="node9" href="$classCPoint.html#a627b42fa58a444bab6e184772b921240" title="Get the children control volume of an agglomerated control volume." alt="" coords="243,595,417,621"/>
+<area shape="rect" id="node10" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="222,645,438,672"/>
+<area shape="rect" id="node11" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="257,696,403,723"/>
+<area shape="rect" id="node12" href="$classCConfig.html#a310b11210ca741b596fd42c552f87b16" title="Get the size of the edge groups colored for OpenMP parallelization of edge loops." alt="" coords="235,747,425,789"/>
+<area shape="rect" id="node13" href="$classCConfig.html#ae003cd8f406eaaa91849a774c9a20730" title="Get the kind of boundary for each marker." alt="" coords="256,813,404,854"/>
+<area shape="rect" id="node14" href="$classCConfig.html#a626e9f08cb8c1f960eae155fc522ca82" title="Get the send&#45;receive information for a marker val_marker." alt="" coords="256,878,404,919"/>
+<area shape="rect" id="node15" href="$classCPoint.html#af386b967e31b7e7893baa5006b84f280" title="Get the number of children of an agglomerated control volume." alt="" coords="239,944,421,971"/>
+<area shape="rect" id="node16" href="$classCGeometry.html#ace7f7fe876f629f5bd5f92d4805a1a4b" title="Get number of coordinates." alt="" coords="249,995,411,1021"/>
+<area shape="rect" id="node17" href="$classCGeometry.html#a3cac58e3b4dd3f8350bd308acb7e3bc1" title="Get number of elements." alt="" coords="247,1045,413,1072"/>
+<area shape="rect" id="node18" href="$classCGeometry.html#ad2f9fe832b72d5a032d709d25879bbd2" title="Get number of markers." alt="" coords="241,1096,419,1123"/>
+<area shape="rect" id="node19" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="240,1147,420,1173"/>
+<area shape="rect" id="node20" href="$classCConfig.html#a15a61a6f9a1d415c3509018f4916c5c1" title="Get the number of multigrid levels." alt="" coords="243,1197,417,1224"/>
+<area shape="rect" id="node21" href="$classCPrimalGrid.html#ad07e4929bb7093fd08f1314a57739cce" title="Get number of nodes of the element." alt="" coords="240,1248,420,1275"/>
+<area shape="rect" id="node22" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="261,1299,399,1325"/>
+<area shape="rect" id="node23" href="$classCPrimalGrid.html#a6353b89f5a8a3948cd475da6152bf077" title="Get the nodes shared by the primal grid element." alt="" coords="247,1349,413,1376"/>
+<area shape="rect" id="node24" href="$classCGeometry.html#a275fb07cd99ab79d7a04b4862280169d" title="Get number of points." alt="" coords="247,1400,413,1427"/>
+<area shape="rect" id="node25" href="$classCPoint.html#accb93eb81c4e7e6c2605a7cd0d3c9cba" title="Get the number of points that compose the control volume." alt="" coords="262,1451,398,1477"/>
+<area shape="rect" id="node26" href="$classCGeometry.html#a00b7f7e71ff42bd38f39147366dd093a" title="Get number of vertices." alt="" coords="242,1501,418,1528"/>
+<area shape="rect" id="node27" href="$classCPoint.html#aaf0c2b749786c474e2f9323d98f736f1" title="Get the parent control volume of an agglomerated control volume." alt="" coords="249,1552,411,1579"/>
+<area shape="rect" id="node28" href="$classCPoint.html#a7916494f3e23b9fd83e6a808b9d144e8" title="Get all the points that compose the control volume." alt="" coords="266,1603,394,1629"/>
+<area shape="rect" id="node29" href="$classCPoint.html#a9bc468188cd5bf36508e0aaf2ecb762f" title="Get the entire point adjacency information in compressed format (CSR)." alt="" coords="530,313,665,340"/>
+<area shape="rect" id="node30" href="$classCPoint.html#aa23a2b42b38e6d611038eeafdb7051d0" title="Get the vertex that compose the control volume for a marker." alt="" coords="261,1653,399,1680"/>
+<area shape="rect" id="node31" href="$classCPrimalGrid.html#ad506ad8f97dd70d71c1ee6f407df4cf5" title="Get VTK type." alt="" coords="233,1704,427,1731"/>
+<area shape="rect" id="node32" href="$classCMultiGridQueue.html#a846c9cc4b4369f9fa3e7d0392fb569a9" title="Change a CV from a list to a different list." alt="" coords="233,376,427,403"/>
+<area shape="rect" id="node33" href="$classCMultiGridQueue.html#af8505e2619a83790a5f04f258e2569fb" title="Remove a CV from the list." alt="" coords="491,376,704,403"/>
+<area shape="rect" id="node34" href="$classCMultiGridQueue.html#a068cdfef275ccbaeb410148db864809b" title="Find a new seed control volume." alt="" coords="235,1755,425,1781"/>
+<area shape="rect" id="node35" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="275,1805,385,1832"/>
+<area shape="rect" id="node36" href="$classPrintingToolbox_1_1CTablePrinter.html#ac1bc6229daf9b3181de565905281ee2a" title="Print the footer." alt="" coords="222,1857,438,1898"/>
+<area shape="rect" id="node37" href="$classPrintingToolbox_1_1CTablePrinter.html#a475fafce69bdc78e973a2546e6e6be76" title="Print the header." alt="" coords="222,1922,438,1963"/>
+<area shape="rect" id="node38" href="$classCPoint.html#abe1b14445cce2bacd4a13ea1ff6c3d6a" title="Reset the points that compose the control volume." alt="" coords="255,1988,405,2015"/>
+<area shape="rect" id="node39" href="$classCBaseMPIWrapper.html#a5848d75e8e4b2e367a6b9be0b6ec4baa" title=" " alt="" coords="225,2039,435,2065"/>
+<area shape="rect" id="node40" href="$classCPoint.html#a52e0b48a7a9178d0dbd3ad7108d582e7" title="Set information about if the indirect neighbors can be agglomerated." alt="" coords="241,2090,419,2131"/>
+<area shape="rect" id="node41" href="$classPrintingToolbox_1_1CTablePrinter.html#ad3691499a7bfa024bf97a7fc00ef33c7" title="Set the alignment of the table entries (CENTER only works for the header at the moment)." alt="" coords="222,2155,438,2197"/>
+<area shape="rect" id="node42" href="$classCConfig.html#a0eff056be0a977b3402c6e15d6bf7f89" title="Get the Courant Friedrich Levi number for each grid." alt="" coords="267,2221,393,2248"/>
+<area shape="rect" id="node43" href="$classCPoint.html#a85e377c455431dbfbb1c10519b6da8ff" title="Set the children control volumes of an agglomerated control volume." alt="" coords="244,2272,416,2299"/>
+<area shape="rect" id="node44" href="$classCPoint.html#a86dd670fc25993e8cc19950ed2e53697" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="258,2323,402,2349"/>
+<area shape="rect" id="node45" href="$classCGeometry.html#aa9837fdad77772142c8f43cf9d6d958c" title="Set the value of the total number of points globally in the simulation." alt="" coords="247,2374,413,2415"/>
+<area shape="rect" id="node46" href="$classCConfig.html#aa4df56597133c806ce1d2d943496dd25" title="Set the number of multigrid levels." alt="" coords="247,2440,413,2467"/>
+<area shape="rect" id="node47" href="$classCPoint.html#a26d6727c01c2d585e28a6b527dc21095" title="Set the number of children of an agglomerated control volume." alt="" coords="240,2491,420,2517"/>
+<area shape="rect" id="node48" href="$classCPoint.html#af3dac5d3a6e16fe3b7b79b06192a19e7" title="Set the parent control volume of an agglomerated control volume." alt="" coords="251,2541,409,2568"/>
+<area shape="rect" id="node49" href="$classCMultiGridGeometry.html#a5aba28cabf234d464d47bc3461e3c177" title="Set connectivity between points." alt="" coords="243,2593,417,2634"/>
+<area shape="rect" id="node50" href="$classCMultiGridQueue.html#adad3e812fcb1fecdff183c90606644a2" title="Update the queue with the new control volume (remove the CV and increase the priority of the neighbor..." alt="" coords="236,325,424,352"/>
+</map>

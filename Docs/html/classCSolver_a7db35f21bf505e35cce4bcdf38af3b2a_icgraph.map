@@ -1,0 +1,5 @@
+<map id="CSolver::AdaptCFLNumber" name="CSolver::AdaptCFLNumber">
+<area shape="rect" id="node1" title="Adapt the CFL number based on the local under&#45;relaxation parameters computed for each nonlinear itera..." alt="" coords="433,5,628,32"/>
+<area shape="rect" id="node2" href="$classCFluidIteration.html#a9ce0d8765aff42207afcd2c9ab6f71d8" title="Perform a single iteration of the fluid system." alt="" coords="216,5,385,32"/>
+<area shape="rect" id="node3" href="$classCFluidIteration.html#ae4c454356af70246063fdcba4accb068" title="Iterate the fluid system for a number of Inner_Iter iterations." alt="" coords="5,5,168,32"/>
+</map>

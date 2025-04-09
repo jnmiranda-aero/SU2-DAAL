@@ -1,0 +1,10 @@
+<map id="COutput::SetScreenOutput" name="COutput::SetScreenOutput">
+<area shape="rect" id="node1" title="Write the screen output." alt="" coords="5,163,197,189"/>
+<area shape="rect" id="node2" href="$namespaceSU2__TYPE.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="297,5,409,32"/>
+<area shape="rect" id="node4" href="$namespacePrintingToolbox.html#ad6390232d3c2a433c5960f8c458013f6" title=" " alt="" coords="251,57,455,98"/>
+<area shape="rect" id="node5" href="$namespacePrintingToolbox.html#a32337e97902d706055b5bf4d382b9e62" title=" " alt="" coords="251,122,455,163"/>
+<area shape="rect" id="node6" href="$namespacePrintingToolbox.html#a280fbea247b5c2f3b103fb2ec335c472" title=" " alt="" coords="251,187,455,229"/>
+<area shape="rect" id="node7" href="$namespacePrintingToolbox.html#ae20b7c52fb2913bed462ed4adfaa8d4d" title=" " alt="" coords="251,253,455,294"/>
+<area shape="rect" id="node8" href="$classCOutput.html#a7fa829ad6c84d22214c007ad3b209e9d" title="Write any additional output defined for the current solver." alt="" coords="245,318,460,359"/>
+<area shape="rect" id="node3" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="508,5,663,32"/>
+</map>

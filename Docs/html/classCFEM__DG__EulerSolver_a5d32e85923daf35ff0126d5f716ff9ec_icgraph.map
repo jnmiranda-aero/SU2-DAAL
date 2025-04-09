@@ -1,0 +1,6 @@
+<map id="CFEM_DG_EulerSolver::BoundaryStates_Euler_Wall" name="CFEM_DG_EulerSolver::BoundaryStates_Euler_Wall">
+<area shape="rect" id="node1" title="Function, which computes the boundary states in the integration points of the boundary face by applyi..." alt="" coords="232,71,440,112"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__EulerSolver.html#a8f81a6011b17cbb65c8be69d517e8faf" title="Impose via the residual the Euler wall boundary condition. It is a virtual function,..." alt="" coords="11,5,178,47"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__NSSolver.html#a3bc4438cb7e9feb7f388d4ba87745996" title="Impose via the residual the Euler wall boundary condition." alt="" coords="5,71,184,112"/>
+<area shape="rect" id="node4" href="$classCFEM__DG__NSSolver.html#ac55acb75de727685caa05b9273267f8e" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="5,136,184,177"/>
+</map>

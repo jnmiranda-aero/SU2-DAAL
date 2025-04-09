@@ -1,0 +1,6 @@
+<map id="CConfig::GetMUSCL" name="CConfig::GetMUSCL">
+<area shape="rect" id="node1" title="Get if the upwind scheme used MUSCL or not." alt="" coords="532,35,681,61"/>
+<area shape="rect" id="node2" href="$classCScalarSolver.html#aa6238dd670ce793d763fc35598b52dcf" title="Gradient and Limiter computation." alt="" coords="213,5,484,32"/>
+<area shape="rect" id="node3" href="$classCScalarSolver.html#a7a5250679bf3984b0e9b1a2d9641936f" title="Compute the spatial integration using a upwind scheme." alt="" coords="264,57,433,98"/>
+<area shape="rect" id="node4" href="$classCHeatSolver.html#a6ae942fed49ba1b235dd757ee801f917" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,57,165,98"/>
+</map>

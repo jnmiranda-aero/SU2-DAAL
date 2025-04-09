@@ -1,0 +1,4 @@
+<map id="CSysMatrix::SubtractBlock2Diag" name="CSysMatrix::SubtractBlock2Diag">
+<area shape="rect" id="node1" title="Short&#45;hand to AddBlock2Diag with alpha = &#45;1, i.e. subtracts from the current diagonal." alt="" coords="5,5,237,32"/>
+<area shape="rect" id="node2" href="$classCSysMatrix.html#a5a4ef7eeb7f009450f575660108ed7be" title="Non overwrite version of SetBlock2Diag, also with scaling." alt="" coords="285,5,488,32"/>
+</map>

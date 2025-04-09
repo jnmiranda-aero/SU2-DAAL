@@ -1,0 +1,10 @@
+<map id="CMultiGridQueue::Update" name="CMultiGridQueue::Update">
+<area shape="rect" id="node1" title="Update the queue with the new control volume (remove the CV and increase the priority of the neighbor..." alt="" coords="5,81,193,108"/>
+<area shape="rect" id="node2" href="$classCPoint.html#a90031228aee4b67e61ba42101a82795e" title="Get information about if a control volume has been agglomerated." alt="" coords="267,5,446,32"/>
+<area shape="rect" id="node3" href="$classCPoint.html#a9bc468188cd5bf36508e0aaf2ecb762f" title="Get the entire point adjacency information in compressed format (CSR)." alt="" coords="289,56,424,83"/>
+<area shape="rect" id="node4" href="$classCMultiGridQueue.html#a571619067c3ecbca38b788b59c2c89e2" title="Increase the priority of the CV." alt="" coords="241,107,472,133"/>
+<area shape="rect" id="node8" href="$classCMultiGridQueue.html#af8505e2619a83790a5f04f258e2569fb" title="Remove a CV from the list." alt="" coords="520,157,733,184"/>
+<area shape="rect" id="node5" href="$classCMultiGridQueue.html#aaa93b8640f9087eca623da1ab3477794" title="Add a new CV to the list." alt="" coords="535,107,719,133"/>
+<area shape="rect" id="node6" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="781,132,963,159"/>
+<area shape="rect" id="node7" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="1011,132,1196,159"/>
+</map>

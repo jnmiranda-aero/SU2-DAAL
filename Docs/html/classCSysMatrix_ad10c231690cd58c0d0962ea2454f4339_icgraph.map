@@ -1,0 +1,9 @@
+<map id="CSysMatrix::SetBlocks" name="CSysMatrix::SetBlocks">
+<area shape="rect" id="node1" title="Sets 2 blocks ij and ji (add to i* sub from j*) associated with one edge of an FVM&#45;type sparse patter..." alt="" coords="509,101,677,127"/>
+<area shape="rect" id="node2" href="$classCIncEulerSolver.html#a80e45f4af7302e9334c8663f9e3ae88b" title="Compute the spatial integration using a centered scheme." alt="" coords="271,5,461,47"/>
+<area shape="rect" id="node3" href="$util_8hpp.html#a2b3edc92a968743cdc11b2e393d7c3fc" title="Update the matrix and right&#45;hand&#45;side of a linear system." alt="" coords="288,71,444,98"/>
+<area shape="rect" id="node6" href="$classCEulerSolver.html#aa9729921eed9546daca6ca891ad2a9bb" title="Compute the spatial integration using a upwind scheme." alt="" coords="285,123,447,164"/>
+<area shape="rect" id="node7" href="$classCIncEulerSolver.html#aa1a06c3eef34a7f82f5bca304d563b4a" title="Compute the spatial integration using a upwind scheme." alt="" coords="275,188,457,229"/>
+<area shape="rect" id="node4" href="$classCCenteredBase.html#ac9b1510a81f92bcdc4c319b415d1ea82" title="Implementation of the base centered flux." alt="" coords="5,46,223,73"/>
+<area shape="rect" id="node5" href="$classCRoeBase.html#a66014e97b96e951548712bc65bb2857e" title="Implementation of the base Roe flux." alt="" coords="23,97,205,123"/>
+</map>

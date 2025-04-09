@@ -1,0 +1,5 @@
+<map id="CTurbSASolver::SetUniformInlet" name="CTurbSASolver::SetUniformInlet">
+<area shape="rect" id="node1" title="Set a uniform inlet profile." alt="" coords="5,35,204,76"/>
+<area shape="rect" id="node2" href="$classCConfig.html#ae003cd8f406eaaa91849a774c9a20730" title="Get the kind of boundary for each marker." alt="" coords="289,5,437,47"/>
+<area shape="rect" id="node3" href="$classCTurbSASolver.html#ad22d6239808f42d62ea07f1bb18d44cd" title="Get the value of nu tilde at the far&#45;field." alt="" coords="252,71,475,98"/>
+</map>

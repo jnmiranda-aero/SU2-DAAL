@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCNumericsSIMD.html" title="Base class to define the interface." alt="" coords="5,137,132,164"/>
+<area shape="rect" id="node2" href="$classCCompressibleViscousFluxBase.html" title=" " alt="" coords="180,5,443,61"/>
+<area shape="rect" id="node4" href="$classCCompressibleViscousFluxBase.html" title=" " alt="" coords="181,85,442,141"/>
+<area shape="rect" id="node6" href="$classCCompressibleViscousFluxBase.html" title="Decorator class to add viscous fluxes (compressible flow)." alt="" coords="212,166,411,207"/>
+<area shape="rect" id="node7" href="$classCNoViscousFlux.html" title="Numerics classes that accept a compile&#45;time decorator should use this class template as a &quot;do&#45;nothing..." alt="" coords="215,232,408,259"/>
+<area shape="rect" id="node3" href="$classCGeneralCompressibleViscousFlux.html" title="Decorator class to add viscous fluxes (compressible flow, real gas)." alt="" coords="491,13,712,54"/>
+<area shape="rect" id="node5" href="$classCCompressibleViscousFlux.html" title="Decorator class to add viscous fluxes (compressible flow, ideal gas)." alt="" coords="502,93,701,134"/>
+</map>

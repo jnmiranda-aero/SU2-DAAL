@@ -1,0 +1,11 @@
+<map id="CConfig::GetThermalDiffusivity" name="CConfig::GetThermalDiffusivity">
+<area shape="rect" id="node1" title="Get the value of the thermal diffusivity for solids." alt="" coords="585,130,809,157"/>
+<area shape="rect" id="node2" href="$classCConjugateHeatInterface.html#a11264c7dda7df147258e1ee89b315ea8" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="323,5,509,47"/>
+<area shape="rect" id="node3" href="$classCHeatSolver.html#a447eade2ad3bd715f4357e89dc31ec7d" title="Evaluate heat&#45;flux related objectives." alt="" coords="321,71,511,98"/>
+<area shape="rect" id="node4" href="$classCHeatSolver.html#ade1b4d48e5d222e56d7c0d556f8a9cd6" title="Applies an isothermal condition to a vertex of a marker." alt="" coords="295,123,537,164"/>
+<area shape="rect" id="node7" href="$classCHeatSolver.html#a46a94222146629b60daac7226d0099c0" title="A virtual member." alt="" coords="315,189,517,215"/>
+<area shape="rect" id="node8" href="$classCHeatSolver.html#a2d350250cad8bfed473c6d86064565f3" title="Compute the viscous flux for the scalar equation at a particular edge." alt="" coords="335,240,497,281"/>
+<area shape="rect" id="node5" href="$classCHeatSolver.html#a425001a48ff8e440183ac9d74ed5e15c" title="Impose the inlet boundary condition." alt="" coords="43,105,209,131"/>
+<area shape="rect" id="node6" href="$classCHeatSolver.html#a8f1b5ef62ec17b74df8c3f95b6a55e31" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="5,155,247,182"/>
+<area shape="rect" id="node9" href="$classCHeatSolver.html#a28c9bfdc4b9410d4a01ab373a69d7a5b" title="Compute the viscous residuals for the turbulent equation." alt="" coords="45,240,207,281"/>
+</map>

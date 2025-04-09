@@ -1,0 +1,5 @@
+<map id="CFEM_DG_EulerSolver::BoundaryStates_Riemann" name="CFEM_DG_EulerSolver::BoundaryStates_Riemann">
+<area shape="rect" id="node1" title="Function, which computes the boundary states in the integration points of the boundary face by applyi..." alt="" coords="232,39,431,80"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__EulerSolver.html#aaff04081aba8d9e24f0e615161e8020f" title="Impose the boundary condition using characteristic reconstruction. It is a virtual function,..." alt="" coords="11,5,178,47"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__NSSolver.html#a22b8079ccea001f1a35d236bfb2750d4" title="Impose the boundary condition using characteristic reconstruction." alt="" coords="5,71,184,112"/>
+</map>

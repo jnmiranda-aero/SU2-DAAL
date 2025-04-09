@@ -1,0 +1,5 @@
+<map id="CFVMFlowSolverBase::BC_Euler_Wall" name="CFVMFlowSolverBase::BC_Euler_Wall">
+<area shape="rect" id="node1" title="Impose via the residual the Euler wall boundary condition." alt="" coords="5,5,169,47"/>
+<area shape="rect" id="node2" href="$classCFVMFlowSolverBase.html#abc4f859b54f752ffbfcee8400ce63a53" title="Impose the symmetry boundary condition using the residual." alt="" coords="217,5,381,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#ad16f71356f146b530fb1fbb45444525c" title="Get the kind of time integration method." alt="" coords="429,5,619,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CInterpolator::CheckZonesInterface" name="CInterpolator::CheckZonesInterface">
+<area shape="rect" id="node1" title="Check whether two zones have a common interface." alt="" coords="5,82,200,123"/>
+<area shape="rect" id="node2" href="$classCInterpolator.html#a9c2a32da64f71f2a572432aea04a74bf" title="Check whether an interface should be processed or not, i.e. if it is part of the zones." alt="" coords="248,23,461,65"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a662505c242a7c84016e6f58467501908" title="Find the marker index (if any) that is part of a given interface pair." alt="" coords="249,89,460,116"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a7b750ac75536d32d586928e11ba14277" title="Get the number of FSI interface markers val_marker." alt="" coords="281,141,429,182"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="512,5,723,32"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="509,56,725,83"/>
+</map>

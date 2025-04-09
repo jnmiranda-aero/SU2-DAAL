@@ -1,0 +1,10 @@
+<map id="CNEMONSVariable::CNEMONSVariable" name="CNEMONSVariable::CNEMONSVariable">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,173,276,199"/>
+<area shape="rect" id="node2" href="$classCConfig.html#ae6f2ae4b14dac6f6b8a605e0dbf8232b" title="Get the magnitude of the free&#45;stream velocity of the fluid." alt="" coords="356,5,507,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a502035c2b049606186e11e01b7df626a" title="Get the value of the laminar Prandtl number." alt="" coords="339,71,523,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#afe9547710c70982ff9eee4504e3c4a69" title="Get the reference length for computing moment (the default value is 1)." alt="" coords="347,122,516,149"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a218d027f78cd801a8734a2d4581591ad" title="Get the value of the reference temperature for non&#45;dimensionalization." alt="" coords="324,173,539,199"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a07714d2b67cf861cdb43891e2ff4f318" title="Get the value of the non&#45;dimensionalized freestream viscosity." alt="" coords="350,224,513,265"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a41b0f8e61d28823cc5a0b7a98e79a020" title="Get the value of the reference viscosity for non&#45;dimensionalization." alt="" coords="336,290,527,317"/>
+<area shape="rect" id="node8" href="$classC2DContainer.html#adefb48b593f76aa322e228fea8f76127" title="Request a change of size." alt="" coords="352,341,511,367"/>
+</map>

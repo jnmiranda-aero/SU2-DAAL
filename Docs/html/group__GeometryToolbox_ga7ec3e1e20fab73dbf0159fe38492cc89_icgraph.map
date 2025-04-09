@@ -1,0 +1,52 @@
+<map id="GeometryToolbox::DotProduct" name="GeometryToolbox::DotProduct">
+<area shape="rect" id="node1" title=" " alt="" coords="952,1163,1169,1190"/>
+<area shape="rect" id="node2" href="$classCTurbSASolver.html#a66e84b3d8a0891d1222b6f1ed870733f" title="Impose an actuator disk inlet boundary condition." alt="" coords="673,78,873,105"/>
+<area shape="rect" id="node5" href="$classCIncEulerSolver.html#ac0b00dbc68bbd80aa48f6249c6ea5c38" title="Impose a subsonic inlet boundary condition." alt="" coords="697,141,848,183"/>
+<area shape="rect" id="node6" href="$classCNEMOEulerSolver.html#a715d85f7c0791a1258fba5746257cba0" title="Impose a subsonic inlet boundary condition." alt="" coords="379,267,550,308"/>
+<area shape="rect" id="node7" href="$classCEulerSolver.html#a4ad4a65b3fc5a51b1561436736f7f7ca" title="Impose the boundary condition using characteristic recostruction." alt="" coords="367,333,563,359"/>
+<area shape="rect" id="node8" href="$classCNEMONSSolver.html#aa32b1221a071e0ecd2de381615b8adca" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="336,813,593,855"/>
+<area shape="rect" id="node9" href="$classCScalarSolver.html#a84d924cabf82cfc8816045460af7dec2" title="Applies a convective flux correction to negate the effects of flow divergence at a BC node." alt="" coords="664,908,881,949"/>
+<area shape="rect" id="node11" href="$classCNSSolver.html#a4cb9bee803f034c220d6dec914f0923b" title="Compute the buffet sensor." alt="" coords="665,974,880,1001"/>
+<area shape="rect" id="node12" href="$classCPhysicalGeometry.html#a9d362c5d1caf1ed6ca75770185464873" title="Check the volume element orientation." alt="" coords="661,1025,884,1067"/>
+<area shape="rect" id="node13" href="$classCPhysicalGeometry.html#a8d4cd9d60573e8a9486d07c7b12c90a3" title="Check the volume element orientation." alt="" coords="673,1091,872,1132"/>
+<area shape="rect" id="node14" href="$classCGeometry.html#ae1a88fb539887628bf47c2b2ffb2196f" title="Computes modified normals at intersecting symmetry planes." alt="" coords="663,207,882,248"/>
+<area shape="rect" id="node17" href="$classCUpwAUSM__SLAU__Base__NEMO.html#ab312a1d2dc23de3d9cb51221a13617e0" title="Compute the AUSM and SLAU family of schemes." alt="" coords="677,1156,869,1197"/>
+<area shape="rect" id="node18" href="$classCCentLax__NEMO.html#ab22a74c03b6c2cc3adeb4d172c93f8d1" title="Compute the flow residual using a Lax method." alt="" coords="337,1251,592,1278"/>
+<area shape="rect" id="node19" href="$classCUpwMSW__NEMO.html#ab199750be78d7758f4dc6e0577ed5616" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="641,1390,904,1417"/>
+<area shape="rect" id="node20" href="$classCUpwRoe__NEMO.html#a4f71a3690ffedda364bd36453c08fed0" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="337,1335,592,1362"/>
+<area shape="rect" id="node21" href="$classCAvgGradCorrected__NEMO.html#a842de3caec637a1fde8ba4409c5e48dd" title="Compute the viscous flow residual using an average of gradients." alt="" coords="367,384,563,425"/>
+<area shape="rect" id="node22" href="$classCUpwHLLC__Flow.html#a0669b93527f0a6b32cab988b41053cac" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="338,450,591,477"/>
+<area shape="rect" id="node23" href="$classCSourceVorticityConfinement.html#ada4bf1f9507d70ac7909d8207b7f65e5" title="Residual of the rotational frame source term." alt="" coords="667,1441,879,1483"/>
+<area shape="rect" id="node24" href="$classCSourceIncStreamwise__Periodic.html#a8c419ddfd359a1f0928fa520fd2c1f45" title="Source term integration for a body force." alt="" coords="671,1507,875,1548"/>
+<area shape="rect" id="node25" href="$classCSourceIncStreamwisePeriodic__Outlet.html#abc639a9578b2cc60f99cb38744ca03b7" title="Source term integration for boundary heat sink." alt="" coords="661,1572,884,1613"/>
+<area shape="rect" id="node26" href="$classCSolver.html#ad27011984bdd70773ab3cb3dde7d4894" title="Compute the tractions at the vertices." alt="" coords="653,1638,892,1665"/>
+<area shape="rect" id="node28" href="$classCTETRA1.html#a25830a8ebc5b48a505cf85499930364e" title="Compute the value of the volume of the element." alt="" coords="674,1689,871,1715"/>
+<area shape="rect" id="node29" href="$classCTETRA4.html#a35b45a333c4c469a5a9a3c7bb6858d17" title="Compute the value of the area of the element." alt="" coords="674,1739,871,1766"/>
+<area shape="rect" id="node30" href="$group__FvmAlgos.html#ga2a54d2932eec644384d8766f16c9688f" title="Correct the gradient on a symmetry plane." alt="" coords="689,1790,857,1817"/>
+<area shape="rect" id="node31" href="$classCFVMFlowSolverBase.html#af46a894bd89c2367215f64fa7ea7d02d" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="383,879,547,920"/>
+<area shape="rect" id="node32" href="$classCNEMONumerics.html#aa830e825531e3cd516b45dfdad5567d8" title="Compute the projection of the inviscid Jacobian matrices for the two&#45;temperature model." alt="" coords="665,1273,880,1315"/>
+<area shape="rect" id="node33" href="$classCGeometry.html#ae1e8531f66b9d9fa0d87eae099130df3" title="Get the linelet definition, this function computes the linelets if that has not been done yet." alt="" coords="367,501,562,527"/>
+<area shape="rect" id="node36" href="$classCEdge.html#a9b0ddab1700678d8690d59c9c07b8fc0" title="Compute the volume associated with an edge (3D version)." alt="" coords="701,689,844,715"/>
+<area shape="rect" id="node39" href="$classCTurbSolver.html#a35849b2e45ccdde346861286955981cf" title="Impose fixed values to turbulence quantities." alt="" coords="695,1841,850,1883"/>
+<area shape="rect" id="node40" href="$group__GeometryToolbox.html#gaed183b4e36658d20d0f8090f2c748af8" title="Compute the coordinate (c) where the line defined by coordinate l0 and direction d intersects the pla..." alt="" coords="669,1907,877,1948"/>
+<area shape="rect" id="node41" href="$classCEulerSolver.html#ad3cdd2a1dd358b558857951b8a339318" title="it performs a mixed out average of the nodes of a boundary." alt="" coords="685,1972,860,2013"/>
+<area shape="rect" id="node42" href="$group__GeometryToolbox.html#ga0b545394f73507bf335bfdc045f96b37" title="Signed distance from a point to a plane defined by 3 coordinates." alt="" coords="677,2037,869,2079"/>
+<area shape="rect" id="node43" href="$classCGeometry.html#ab1d2271edeeba00741602b08280cb773" title="Ray Intersects Triangle (Moller and Trumbore algorithm)" alt="" coords="677,2103,869,2144"/>
+<area shape="rect" id="node44" href="$classCGeometry.html#ab9294f88c04c2e2829905f4f7bf21094" title="Segment Intersects Triangle." alt="" coords="352,2132,577,2173"/>
+<area shape="rect" id="node45" href="$classCEulerSolver.html#ad2e701dc22e44bd36cf64102ab1b335f" title="Set the initial condition for the Euler Equations." alt="" coords="379,552,550,593"/>
+<area shape="rect" id="node46" href="$classCFVMFlowSolverBase.html#adc3a96a8ca25902058864c18b533192d" title="Compute the max eigenvalue, gemeric implementation." alt="" coords="675,2220,870,2261"/>
+<area shape="rect" id="node47" href="$classCSolver.html#a12b6394ab7881167d168b3d2aa3a1fc7" title="Set Value of the residual due to the Geometric Conservation Law (GCL) for steady rotating frame probl..." alt="" coords="657,2286,888,2313"/>
+<area shape="rect" id="node48" href="$classCFVMFlowSolverBase.html#aceafd6d8a3ef6e189711df90c7dbe38e" title="Generic implementation to compute the time step based on CFL and conv/visc eigenvalues." alt="" coords="383,617,547,659"/>
+<area shape="rect" id="node49" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="655,435,890,462"/>
+<area shape="rect" id="node50" href="$group__GeometryToolbox.html#ga82220c2cda9dc90a9cc22e77001550ee" title="Tangent projection" alt="" coords="675,791,871,832"/>
+<area shape="rect" id="node3" href="$classCTurbSASolver.html#a12d9bc56fae59b3a01e704213f7bbb47" title="Impose an actuator disk inlet boundary condition." alt="" coords="365,5,565,47"/>
+<area shape="rect" id="node4" href="$classCTurbSASolver.html#a3e945b3079f74cb75291507298bad1ad" title="Impose an actuator disk outlet boundary condition." alt="" coords="365,71,565,112"/>
+<area shape="rect" id="node10" href="$classCScalarSolver.html#a72b57a00685a9745cd20e1ee5294c31d" title="Generic implementation of the fluid interface boundary condition for scalar solvers." alt="" coords="376,944,553,985"/>
+<area shape="rect" id="node15" href="$classCPhysicalGeometry.html#a6767e6f3fec7bdb037a3add63e93395d" title="Set boundary vertex structure of the control volume." alt="" coords="375,201,555,243"/>
+<area shape="rect" id="node16" href="$classCMultiGridGeometry.html#abe5d9694ef0f3925246188a7328f8a80" title="Set boundary vertex structure of the agglomerated control volume." alt="" coords="371,136,559,177"/>
+<area shape="rect" id="node27" href="$classCFluidIteration.html#a3f065978d2a1745b812bf4457d34684b" title="Postprocesses the fluid system before heading to another physics system or the next iteration." alt="" coords="363,1638,567,1665"/>
+<area shape="rect" id="node34" href="$classCSysMatrix.html#a0b1aca3806964da984c4fefe61cf2c64" title="Multiply CSysVector by the preconditioner." alt="" coords="43,464,250,505"/>
+<area shape="rect" id="node35" href="$classCFVMOutput.html#a5375edccdb847e5e4b03dc742c9c4d9e" title="Load common FVM outputs." alt="" coords="5,530,288,557"/>
+<area shape="rect" id="node37" href="$classCPhysicalGeometry.html#a7cb41549dc077f561b34e1595847a3c0" title="Compute 3 grid quality metrics: orthogonality angle, dual cell aspect ratio, and dual cell volume rat..." alt="" coords="353,748,576,789"/>
+<area shape="rect" id="node38" href="$classCPhysicalGeometry.html#a0111aae7c2041c5c58b183bd337cdee6" title="Set the edge structure of the control volume." alt="" coords="386,683,543,724"/>
+</map>

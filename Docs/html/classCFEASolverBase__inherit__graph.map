@@ -1,0 +1,7 @@
+<map id="CFEASolverBase" name="CFEASolverBase">
+<area shape="rect" id="node1" title="Base class for FEM elasticity solvers." alt="" coords="79,80,209,107"/>
+<area shape="rect" id="node3" href="$classCFEASolver.html" title="Main class for defining a FEM solver for elastic structural problems." alt="" coords="10,155,107,181"/>
+<area shape="rect" id="node5" href="$classCGradientSmoothingSolver.html" title="Main class for defining a Sobolev&#45;based gradient smoothing." alt="" coords="131,155,330,181"/>
+<area shape="rect" id="node2" href="$classCSolver.html" title=" " alt="" coords="108,5,180,32"/>
+<area shape="rect" id="node4" href="$classCMeshSolver.html" title="Mesh deformation solver (pseudo elasticity)." alt="" coords="5,229,112,256"/>
+</map>

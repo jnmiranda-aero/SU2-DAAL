@@ -1,0 +1,37 @@
+<map id="CConjugateHeatInterface::GetDonor_Variable" name="CConjugateHeatInterface::GetDonor_Variable">
+<area shape="rect" id="node1" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="5,734,192,775"/>
+<area shape="rect" id="node2" href="$group__GeometryToolbox.html#ga600fb4ee993ae4c3b985082d51994881" title=" " alt="" coords="264,61,467,88"/>
+<area shape="rect" id="node6" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="275,7,456,33"/>
+<area shape="rect" id="node8" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="299,112,432,139"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a085accf5825cdba0219fc734f4fadb8c" title="Flag for whether to solve the energy equation for incompressible flows." alt="" coords="291,163,439,205"/>
+<area shape="rect" id="node10" href="$classCConfig.html#a0b5df9254891b32a88e83880778f9261" title="Get the value of the Gamma of fluid (ratio of specific heats)." alt="" coords="288,229,443,256"/>
+<area shape="rect" id="node11" href="$classCConfig.html#aebfb3f25485baca7c446630ffd4f744f" title="Get the reference value for the specific gas constant." alt="" coords="254,280,477,307"/>
+<area shape="rect" id="node12" href="$classCConfig.html#a1431ababf767a9f74ff74fe9ef647957" title="Get the value of specific gas constant." alt="" coords="259,331,472,357"/>
+<area shape="rect" id="node13" href="$classCConfig.html#ab99f4c81b2b9dd7e4b0f917ad8c5e829" title="Get the reference value for the heat flux." alt="" coords="266,381,465,408"/>
+<area shape="rect" id="node14" href="$classCConfig.html#a605eb8cfb0618fbfb9fc84499b659762" title="Return true if a heat solver is in use." alt="" coords="271,432,459,459"/>
+<area shape="rect" id="node15" href="$classCConfig.html#ad6b987ff9624f8c077eb6354670bb64b" title="Get the CHT couling method." alt="" coords="282,483,449,525"/>
+<area shape="rect" id="node16" href="$classCConfig.html#acd8ad5627f0ef500dddc707b7e298527" title="Get the value of the thermal conductivity model." alt="" coords="255,549,476,590"/>
+<area shape="rect" id="node17" href="$classCConfig.html#a120698f22c0de262c4ffa659ee7ec49f" title="Fluid model that we are using." alt="" coords="260,615,471,641"/>
+<area shape="rect" id="node18" href="$classCConfig.html#afbf664fbd8b2c75c5874432fdc185937" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="271,665,460,692"/>
+<area shape="rect" id="node19" href="$classCVariable.html#a0acbe55ca86de2c0205ae921193e9e95" title="A virtual member." alt="" coords="252,716,479,743"/>
+<area shape="rect" id="node20" href="$classCConfig.html#a0c94c5c7d5f337b69586bc1c5a998235" title="Get the Material Density." alt="" coords="262,767,469,793"/>
+<area shape="rect" id="node21" href="$classCGeometry.html#ace7f7fe876f629f5bd5f92d4805a1a4b" title="Get number of coordinates." alt="" coords="285,817,446,844"/>
+<area shape="rect" id="node22" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="296,868,435,895"/>
+<area shape="rect" id="node23" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="293,919,437,945"/>
+<area shape="rect" id="node24" href="$classCVertex.html#ab8b0e96f9384b0a861c7a70616976b75" title="Get the value of the closest neighbor." alt="" coords="289,970,441,1011"/>
+<area shape="rect" id="node25" href="$classCConfig.html#a502035c2b049606186e11e01b7df626a" title="Get the value of the laminar Prandtl number." alt="" coords="273,1036,457,1063"/>
+<area shape="rect" id="node26" href="$classCConfig.html#a8e883a1ee10ef2690053a6aa23f87b42" title="Get the value of specific heat at constant pressure." alt="" coords="289,1087,442,1129"/>
+<area shape="rect" id="node27" href="$classCVariable.html#a21a72a13ee2eb461b8c439c8eb4fce19" title="A virtual member." alt="" coords="267,1153,464,1180"/>
+<area shape="rect" id="node28" href="$classCConfig.html#a218d027f78cd801a8734a2d4581591ad" title="Get the value of the reference temperature for non&#45;dimensionalization." alt="" coords="258,1204,473,1231"/>
+<area shape="rect" id="node29" href="$classCConfig.html#aa15603cf55e4942f88b1ff09ec476e42" title="Get the value of the reference thermal conductivity for non&#45;dimensionalization." alt="" coords="287,1255,444,1297"/>
+<area shape="rect" id="node30" href="$classCVariable.html#a05aa9ee34c744629c72742c05ceab246" title="A virtual member." alt="" coords="240,1321,491,1348"/>
+<area shape="rect" id="node31" href="$classCConfig.html#a5f2a8d5a5bd497c507d2799926161259" title="Get the value of the thermal diffusivity for solids." alt="" coords="253,1372,477,1399"/>
+<area shape="rect" id="node32" href="$classCConfig.html#a41b0f8e61d28823cc5a0b7a98e79a020" title="Get the value of the reference viscosity for non&#45;dimensionalization." alt="" coords="270,1423,461,1449"/>
+<area shape="rect" id="node33" href="$group__GeometryToolbox.html#gad8b24e50333c9a8378f7abf18222f36a" title=" " alt="" coords="275,1473,456,1500"/>
+<area shape="rect" id="node3" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="633,772,679,799"/>
+<area shape="rect" id="node4" href="$group__GeometryToolbox.html#ga3db86410486389a5cda59b3d0ab17f66" title=" " alt="" coords="557,57,755,98"/>
+<area shape="rect" id="node5" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="875,64,985,91"/>
+<area shape="rect" id="node7" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="563,5,749,32"/>
+<area shape="rect" id="node34" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="539,1473,773,1500"/>
+<area shape="rect" id="node35" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="821,1473,1039,1500"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCViscosityModel.html" title="Interface class for defining the laminar viscosity model." alt="" coords="5,81,136,108"/>
+<area shape="rect" id="node2" href="$classCConstantViscosity.html" title="Defines a constant viscosity model." alt="" coords="211,5,359,32"/>
+<area shape="rect" id="node3" href="$classCCoolPropViscosity.html" title="Defines CoolProp viscosity model." alt="" coords="211,56,359,83"/>
+<area shape="rect" id="node4" href="$classCPolynomialViscosity.html" title="Defines laminar viscosity as a polynomial function of temperature." alt="" coords="184,107,387,133"/>
+<area shape="rect" id="node5" href="$classCSutherland.html" title="Defines Sutherland&#39;s Law for laminar viscosity." alt="" coords="235,157,336,184"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CFEMStandardElement::GetNPoly" name="CFEMStandardElement::GetNPoly">
+<area shape="rect" id="node1" title="Function, which makes available the polynomial degree for this standard element." alt="" coords="551,129,721,171"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__NSSolver.html#a44020ceaf82c37e386385366c6cda7a5" title="Impose the symmetry boundary condition using the residual." alt="" coords="288,5,467,47"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__EulerSolver.html#a527d3a855eebf4e6b35103d8faf42f63" title="Function to compute the time step for solving the Euler equations." alt="" coords="294,71,461,112"/>
+<area shape="rect" id="node4" href="$classCFEM__DG__NSSolver.html#a1d77cb51e0eb51dfb95735ac965ac176" title="Function to compute the time step for solving the Navier&#45;Stokes equations." alt="" coords="252,137,503,163"/>
+<area shape="rect" id="node5" href="$classCFEM__DG__NSSolver.html#a04fa3111afb642b208d97efe113ff1cf" title="Per&#45;Olof Persson&#39;s method for capturing shock in DG." alt="" coords="278,188,477,229"/>
+<area shape="rect" id="node7" href="$classCFEM__DG__NSSolver.html#ace5ac45857734f2e764b4072249e5c2d" title="Compute the volume contributions to the spatial residual." alt="" coords="273,253,482,295"/>
+<area shape="rect" id="node6" href="$classCFEM__DG__NSSolver.html#ac91dc7ef6eb5a6ede92a91708201e782" title="Compute the artificial viscosity for shock capturing in DG." alt="" coords="5,188,204,229"/>
+</map>

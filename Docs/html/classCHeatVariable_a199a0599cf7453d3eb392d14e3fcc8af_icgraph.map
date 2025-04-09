@@ -1,0 +1,9 @@
+<map id="CHeatVariable::GetTemperature" name="CHeatVariable::GetTemperature">
+<area shape="rect" id="node1" title="Get the temperature of the point." alt="" coords="585,122,813,149"/>
+<area shape="rect" id="node2" href="$classCHeatSolver.html#a557bceb05d8bf8cb7ea1fb03d4690e06" title="Impose the (received) conjugate heat variables." alt="" coords="315,5,517,47"/>
+<area shape="rect" id="node3" href="$classCHeatSolver.html#a425001a48ff8e440183ac9d74ed5e15c" title="Impose the inlet boundary condition." alt="" coords="43,126,209,153"/>
+<area shape="rect" id="node4" href="$classCHeatSolver.html#abc1e47b78958eee285963f0d9a972595" title="Impose the outlet boundary condition." alt="" coords="328,122,504,149"/>
+<area shape="rect" id="node5" href="$classCHeatSolver.html#a447eade2ad3bd715f4357e89dc31ec7d" title="Evaluate heat&#45;flux related objectives." alt="" coords="321,173,511,199"/>
+<area shape="rect" id="node6" href="$classCHeatSolver.html#ade1b4d48e5d222e56d7c0d556f8a9cd6" title="Applies an isothermal condition to a vertex of a marker." alt="" coords="295,224,537,265"/>
+<area shape="rect" id="node7" href="$classCHeatSolver.html#a8f1b5ef62ec17b74df8c3f95b6a55e31" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="5,231,247,258"/>
+</map>

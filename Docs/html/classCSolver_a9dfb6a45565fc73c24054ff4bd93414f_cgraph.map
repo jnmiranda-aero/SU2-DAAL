@@ -1,0 +1,7 @@
+<map id="CSolver::GetCommCountAndType" name="CSolver::GetCommCountAndType">
+<area shape="rect" id="node1" title="Helper function to define the type and number of variables per point for each communication type." alt="" coords="5,56,244,83"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="299,5,480,32"/>
+<area shape="rect" id="node4" href="$classCVariable.html#a6374f3577665817f4f524f7c2182174a" title="Get the number of auxiliary variables." alt="" coords="305,56,474,83"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a85d2e3cf43b77c63642c40c235b853f3" title="Check if the multizone problem is solved for time domain." alt="" coords="292,107,487,133"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="535,5,720,32"/>
+</map>

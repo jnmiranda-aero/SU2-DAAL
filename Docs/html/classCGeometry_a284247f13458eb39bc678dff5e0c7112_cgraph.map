@@ -1,0 +1,15 @@
+<map id="CGeometry::ComputeWallDistance" name="CGeometry::ComputeWallDistance">
+<area shape="rect" id="node1" title="Compute the distances to the closest vertex on viscous walls over the entire domain." alt="" coords="5,239,252,266"/>
+<area shape="rect" id="node2" href="$classCGeometry.html#ac8153e85ae48fc8d8de709484c511f44" title="Compute an ADT including the coordinates of all viscous markers." alt="" coords="300,5,512,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a77312cf52a5ba2cc1239b7cee6fce7a7" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="316,71,496,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#ab8c9c1f45950a29355be4ff357049440" title="Get the index of the surface defined in the geometry file." alt="" coords="332,123,480,164"/>
+<area shape="rect" id="node5" href="$classCGeometry.html#ad2f9fe832b72d5a032d709d25879bbd2" title="Get number of markers." alt="" coords="317,189,495,215"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a6ae9111090db52de2f8f07f77d6416d5" title="Retrieves the number of periodic time instances for Harmonic Balance." alt="" coords="303,239,509,266"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a39ff50a0f3deda9134f1c44b4d5053b7" title="Gets the number of zones in the mesh file." alt="" coords="334,290,478,317"/>
+<area shape="rect" id="node10" href="$classCConfig.html#a894eb084ee6db70a6e274ac071c2a194" title="Get the type of wall and roughness height on a wall boundary (Heatflux or Isothermal)." alt="" coords="305,341,507,383"/>
+<area shape="rect" id="node11" href="$classCGeometry.html#aff06dccf3d6d20b51c62ff13443e23e3" title="Reduce the wall distance based on an previously constructed ADT." alt="" coords="301,407,511,434"/>
+<area shape="rect" id="node12" href="$classCPoint.html#a36442ada0dbc716be6e3c9222f9721df" title="Set wall roughnesses according to stored closest wall information." alt="" coords="310,458,502,485"/>
+<area shape="rect" id="node8" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="560,290,741,317"/>
+<area shape="rect" id="node9" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="789,290,975,317"/>
+<area shape="rect" id="node13" href="$classC2DContainer.html#a8278113dbcf54123f9852e7e44583759" title=" " alt="" coords="577,458,724,485"/>
+</map>

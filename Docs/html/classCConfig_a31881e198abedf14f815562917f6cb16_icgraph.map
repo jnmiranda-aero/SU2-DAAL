@@ -1,0 +1,6 @@
+<map id="CConfig::GetKind_Data_Giles" name="CConfig::GetKind_Data_Giles">
+<area shape="rect" id="node1" title="Get Kind Data for the Giles BC." alt="" coords="255,49,425,90"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a40fad0a57e8dcba8a8f4d4fa8eab02f0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="21,5,191,32"/>
+<area shape="rect" id="node3" href="$classCTurbSolver.html#a6b61eef486ab6bea36182aeea2595a86" title="Impose via the residual the Euler wall boundary condition." alt="" coords="23,56,189,83"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#afe2f428da073b80f64c41422971f9748" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="5,107,207,149"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="COutput::WriteHistoryFileOutput" name="COutput::WriteHistoryFileOutput">
+<area shape="rect" id="node1" title="Determines if the history file output." alt="" coords="5,180,193,221"/>
+<area shape="rect" id="node2" href="$classCConfig.html#af81f5e9bda6433ae3119a2b480362388" title="GetHistory_Wrt_Freq_Inner." alt="" coords="262,5,413,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#abafdda03255a7f71a9701ded02f6d231" title="Get whether the simulation we are running is a multizone simulation." alt="" coords="254,71,421,112"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a096cf3c68234d10476425acf40a7bf40" title="Get the number of inner iterations." alt="" coords="251,137,424,163"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a898cd36650fcc3a639c12e9b8ab8373a" title="Get the number of outer iterations." alt="" coords="249,187,425,214"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a22b101932c391aea5173975130f488fd" title="Get the number of time iterations." alt="" coords="251,238,424,265"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a97a3e8adf92a60addb737c639ed1ed3c" title="Check if the convergence history of each individual zone is written to file." alt="" coords="241,289,433,315"/>
+<area shape="rect" id="node8" href="$classCOutput.html#af0c23405e1093223066c9c79ee13985a" title="Check whether we should print output." alt="" coords="259,339,416,366"/>
+</map>

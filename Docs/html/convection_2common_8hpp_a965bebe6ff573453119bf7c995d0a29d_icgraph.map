@@ -1,0 +1,7 @@
+<map id="scalarDissipationJacobian" name="scalarDissipationJacobian">
+<area shape="rect" id="node1" title="Update of a flux Jacobian due to a scalar dissipation term." alt="" coords="265,81,455,108"/>
+<area shape="rect" id="node2" href="$classCJSTmatScheme.html#a00ef231fc9b1fdb423150f7c0562ef05" title="Updates flux and Jacobians." alt="" coords="5,5,217,32"/>
+<area shape="rect" id="node3" href="$classCJSTScheme.html#a4bd4f4cd489cccd2697dcc1fde96e5e3" title="Updates flux and Jacobians with JST dissipation." alt="" coords="18,56,205,83"/>
+<area shape="rect" id="node4" href="$classCJSTkeScheme.html#a86cdc2d09d6855fa779e18ea7e420e1a" title="Updates flux and Jacobians with 2nd order dissipation." alt="" coords="11,107,212,133"/>
+<area shape="rect" id="node5" href="$classCLaxScheme.html#a39d574480ed9d472b2d78fe66db4e1f4" title="Updates flux and Jacobians with 1st order scalar dissipation." alt="" coords="17,157,206,184"/>
+</map>

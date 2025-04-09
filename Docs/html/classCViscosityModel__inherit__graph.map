@@ -1,0 +1,7 @@
+<map id="CViscosityModel" name="CViscosityModel">
+<area shape="rect" id="node1" title="Interface class for defining the laminar viscosity model." alt="" coords="286,5,417,32"/>
+<area shape="rect" id="node2" href="$classCConstantViscosity.html" title="Defines a constant viscosity model." alt="" coords="5,80,153,107"/>
+<area shape="rect" id="node3" href="$classCCoolPropViscosity.html" title="Defines CoolProp viscosity model." alt="" coords="177,80,325,107"/>
+<area shape="rect" id="node4" href="$classCPolynomialViscosity.html" title="Defines laminar viscosity as a polynomial function of temperature." alt="" coords="350,80,553,107"/>
+<area shape="rect" id="node5" href="$classCSutherland.html" title="Defines Sutherland&#39;s Law for laminar viscosity." alt="" coords="577,80,678,107"/>
+</map>

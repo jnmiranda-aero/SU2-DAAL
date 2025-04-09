@@ -1,0 +1,5 @@
+<map id="CDriverBase::GetNumberHaloNodes" name="CDriverBase::GetNumberHaloNodes">
+<area shape="rect" id="node1" title="Get the number of halo nodes in the mesh." alt="" coords="5,23,221,65"/>
+<area shape="rect" id="node2" href="$classCGeometry.html#a275fb07cd99ab79d7a04b4862280169d" title="Get number of points." alt="" coords="295,5,462,32"/>
+<area shape="rect" id="node3" href="$classCGeometry.html#ac84179060bbac1fe5e856ea3da850b6e" title="Get number of real points (that belong to the domain)." alt="" coords="269,56,488,83"/>
+</map>

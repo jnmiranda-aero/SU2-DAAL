@@ -1,0 +1,11 @@
+<map id="SU2_CFD/include/variables/CSpeciesVariable.hpp" name="SU2_CFD/include/variables/CSpeciesVariable.hpp">
+<area shape="rect" id="node1" title="Base class for defining the variables of the species transport model." alt="" coords="463,5,661,47"/>
+<area shape="rect" id="node2" href="$CSpeciesSolver_8hpp.html" title="Headers of the CSpeciesSolver class." alt="" coords="238,95,422,136"/>
+<area shape="rect" id="node7" href="$CSpeciesFlameletVariable_8hpp.html" title="Base class for defining the variables of the flamelet transport model." alt="" coords="450,95,674,136"/>
+<area shape="rect" id="node9" href="$CSpeciesVariable_8cpp.html" title="Definition of the solution fields." alt="" coords="699,95,868,136"/>
+<area shape="rect" id="node3" href="$CSpeciesFlameletSolver_8hpp.html" title="Headers of the CSpeciesFlameletSolver class." alt="" coords="82,184,293,225"/>
+<area shape="rect" id="node4" href="$CSolverFactory_8cpp.html" title="Main subroutines for CSolverFactoryclass." alt="" coords="5,273,161,315"/>
+<area shape="rect" id="node5" href="$CSpeciesFlameletSolver_8cpp.html" title="Main subroutines of CSpeciesFlameletSolver class." alt="" coords="225,273,435,315"/>
+<area shape="rect" id="node6" href="$CSpeciesSolver_8cpp.html" title="Main subroutines of CSpeciesSolver class." alt="" coords="368,184,524,225"/>
+<area shape="rect" id="node8" href="$CSpeciesFlameletVariable_8cpp.html" title="Definition of the variable fields for the flamelet class." alt="" coords="599,184,821,225"/>
+</map>

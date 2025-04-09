@@ -1,0 +1,52 @@
+<map id="detail::computeGradientsLeastSquares" name="detail::computeGradientsLeastSquares">
+<area shape="rect" id="node1" title="Compute the gradient of a field using inverse&#45;distance&#45;weighted or unweighted Least&#45;Squares approxima..." alt="" coords="5,1885,192,1927"/>
+<area shape="rect" id="node2" href="$classCSolver.html#a3912ec3b77bf15b77790be7399f4fa53" title="Routine to complete the set of non&#45;blocking communications launched by InitiateComms() and unpacking ..." alt="" coords="261,507,454,534"/>
+<area shape="rect" id="node21" href="$classCSolver.html#a6b9c3e0290bce84f14ad3fde8ffa8658" title="Routine to complete the set of non&#45;blocking periodic communications launched by InitiatePeriodicComms..." alt="" coords="260,1387,455,1428"/>
+<area shape="rect" id="node29" href="$classCConfig.html#a8d41ac571359049bbdc4b7927e7c328a" title="Get the total number of periodic markers." alt="" coords="564,1521,720,1563"/>
+<area shape="rect" id="node38" href="$omp__structure_8hpp.html#a6a308c63005823370a2ffd6a82f3868f" title="Compute a chunk size based on totalWork and number of threads such that all threads get the same numb..." alt="" coords="265,1649,449,1675"/>
+<area shape="rect" id="node39" href="$group__GeometryToolbox.html#ga600fb4ee993ae4c3b985082d51994881" title=" " alt="" coords="541,2037,743,2063"/>
+<area shape="rect" id="node40" href="$namespaceAD.html#a309d057a92faa60a3a760254678ec9ea" title="Ends a preaccumulation section and computes the local Jacobi matrix of a code section using the varia..." alt="" coords="299,1750,415,1777"/>
+<area shape="rect" id="node41" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="575,2087,709,2114"/>
+<area shape="rect" id="node42" href="$classCGeometry.html#ac84179060bbac1fe5e856ea3da850b6e" title="Get number of real points (that belong to the domain)." alt="" coords="248,1867,467,1894"/>
+<area shape="rect" id="node43" href="$classCSolver.html#aab651e902cb3020b525c154cb76c4264" title="Routine to load a solver quantity into the data structures for MPI point&#45;to&#45;point communication and t..." alt="" coords="269,761,445,787"/>
+<area shape="rect" id="node44" href="$classCSolver.html#a1a6e3eee698f471925178d422a0c3724" title="Routine to load a solver quantity into the data structures for MPI periodic communication and to laun..." alt="" coords="268,1801,447,1843"/>
+<area shape="rect" id="node45" href="$omp__structure_8hpp.html#a2f7befecc7b1a4eaade8d81fa6524225" title="Maximum number of threads available." alt="" coords="272,2019,443,2046"/>
+<area shape="rect" id="node46" href="$omp__structure_8hpp.html#a15e588e219ac407d67b02755aab67506" title="Number of threads in current team." alt="" coords="272,2070,443,2097"/>
+<area shape="rect" id="node47" href="$namespaceAD.html#aa163589c94af6ddfdbcf901ecc76ac77" title="Sets the scalar inputs of a preaccumulation section." alt="" coords="295,2121,420,2147"/>
+<area shape="rect" id="node48" href="$namespaceAD.html#a96f26aa5f6909173e990e03b864fec33" title="Sets the scalar outputs of a preaccumulation section." alt="" coords="289,2171,425,2198"/>
+<area shape="rect" id="node49" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="240,2222,475,2249"/>
+<area shape="rect" id="node50" href="$namespaceAD.html#a2a1e9c4b109fd751e84132c9495de3ff" title="Starts a new preaccumulation section and sets the input variables." alt="" coords="296,2273,419,2299"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="816,1217,997,1243"/>
+<area shape="rect" id="node4" href="$classCSolver.html#a9dfb6a45565fc73c24054ff4bd93414f" title="Helper function to define the type and number of variables per point for each communication type." alt="" coords="523,659,761,686"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a85d2e3cf43b77c63642c40c235b853f3" title="Check if the multizone problem is solved for time domain." alt="" coords="809,659,1004,686"/>
+<area shape="rect" id="node6" href="$namespaceCommHelpers.html#afe0e4edeb87c652ab9830b5139241561" title=" " alt="" coords="533,710,751,737"/>
+<area shape="rect" id="node7" href="$namespaceCommHelpers.html#a3015cef1e9d85b6bc92038246bac555a" title=" " alt="" coords="538,609,746,635"/>
+<area shape="rect" id="node8" href="$classCVariable.html#abf55f051089ec13d9c0422ed3389a9dc" title="Set the variable solution at time n." alt="" coords="555,5,729,47"/>
+<area shape="rect" id="node9" href="$classCVariable.html#a527a337871bb37c3bb2df40c2b946884" title="Set the variable solution at time n&#45;1." alt="" coords="555,71,729,112"/>
+<area shape="rect" id="node10" href="$classCVariable.html#a840431a0403b4bddd0a99dbfdf365795" title="A virtual member. Set the boundary displacement." alt="" coords="547,137,737,163"/>
+<area shape="rect" id="node11" href="$classCVariable.html#afc0086076d62561f31a39f774c297428" title="Set the value of the spectral radius." alt="" coords="559,187,725,214"/>
+<area shape="rect" id="node12" href="$classCVariable.html#a91256a1e927c5a529d853d0f127243de" title="Set the value of the eddy viscosity." alt="" coords="571,238,713,265"/>
+<area shape="rect" id="node13" href="$classCVariable.html#a79ebe4ea3cc8eccd8b004256c5492a9e" title="Set pressure sensor." alt="" coords="563,289,721,315"/>
+<area shape="rect" id="node14" href="$classCVariable.html#a22fbbd7bc6491672843000644a05c6a5" title="Set the value of the solution, all variables." alt="" coords="559,862,725,889"/>
+<area shape="rect" id="node15" href="$classCVariable.html#af87029baec777039085fb1ff17ee9555" title="Set the value of the acceleration (Structural Analysis)." alt="" coords="559,391,725,432"/>
+<area shape="rect" id="node16" href="$classCVariable.html#a6ee4d8d450971204cc054a33d6473732" title="Set the value of the old solution." alt="" coords="545,913,739,939"/>
+<area shape="rect" id="node17" href="$classCVariable.html#a5c1430d98acd399f1371f23e6fae053f" title="Set the value of the velocity (Structural Analysis)." alt="" coords="545,457,739,483"/>
+<area shape="rect" id="node18" href="$classCVariable.html#a70f0c6e3ddcf2fdcde3b90f217a0d4a3" title="Set a value to the undivided laplacian." alt="" coords="555,507,729,534"/>
+<area shape="rect" id="node19" href="$classCBaseMPIWrapper.html#a01c02f8c0c799ccd15023f0c2c3cae27" title=" " alt="" coords="545,1014,739,1041"/>
+<area shape="rect" id="node20" href="$classCBaseMPIWrapper.html#a5f4a1382f625fbbfb2c6224a87591825" title=" " alt="" coords="541,761,743,787"/>
+<area shape="rect" id="node22" href="$classCSysVector.html#aa463275cba394503a9778529fdaa4494" title="Add &quot;block&quot; to the vector, see SetBlock." alt="" coords="560,1217,724,1243"/>
+<area shape="rect" id="node23" href="$classCSysMatrix.html#a5a4ef7eeb7f009450f575660108ed7be" title="Non overwrite version of SetBlock2Diag, also with scaling." alt="" coords="541,1267,743,1294"/>
+<area shape="rect" id="node24" href="$classCVariable.html#a90383034bdbbf6b9230ecb27b043374f" title="Add the value of the spectral radius." alt="" coords="557,1318,727,1345"/>
+<area shape="rect" id="node25" href="$classCVariable.html#ad20c6c9494cc08a50403cea1a4b65795" title="Add value to the Rmatrix for least squares gradient calculations." alt="" coords="557,1369,727,1395"/>
+<area shape="rect" id="node26" href="$classCVariable.html#a1a920f04028a1c5ae487550cef89920a" title="Increment the value of the undivided laplacian of the solution." alt="" coords="553,1419,731,1446"/>
+<area shape="rect" id="node27" href="$classCSysMatrix.html#a9473b0224c9b9a2749571db0bbd22a70" title="Deletes the values of the row i of the sparse matrix." alt="" coords="539,1065,745,1091"/>
+<area shape="rect" id="node28" href="$classCVariable.html#aef3ea2cd0a87d55835bb2bd332678489" title="Get the value of the time step." alt="" coords="547,1783,737,1810"/>
+<area shape="rect" id="node30" href="$classCPoint.html#a49aa3858a7980bdf135f30d835bfebe9" title="Get the number of neighbor of a point." alt="" coords="561,1115,723,1142"/>
+<area shape="rect" id="node31" href="$classCSolver.html#a4cb94f79e1bb4dedc9e4c37606f3775c" title="Helper function to define the type and number of variables per point for each communication type." alt="" coords="543,1587,741,1628"/>
+<area shape="rect" id="node32" href="$classCPoint.html#adf424286ce88194f4c162a65ab0b14cf" title="Get the missing component of area or volume for a control volume on a periodic marker." alt="" coords="544,1834,740,1861"/>
+<area shape="rect" id="node33" href="$classCVariable.html#af17abc72a545ebd4b36f850a74d1855b" title="Get the min solution." alt="" coords="541,1885,743,1911"/>
+<area shape="rect" id="node34" href="$classCVariable.html#ae7da20d95a739c44a020629db6769629" title="Get the min solution." alt="" coords="543,1935,741,1962"/>
+<area shape="rect" id="node35" href="$namespacePeriodicCommHelpers.html#ad278a2337065d80d53bcf78dfe73eaf7" title=" " alt="" coords="559,1652,725,1693"/>
+<area shape="rect" id="node36" href="$namespacePeriodicCommHelpers.html#a04bf09361d0170e48b14dc8d742da6b0" title=" " alt="" coords="559,1717,725,1759"/>
+<area shape="rect" id="node37" href="$classCVariable.html#a75d51484f25650269294a7925c0f5a3e" title="Set the value of the time step." alt="" coords="548,1166,736,1193"/>
+</map>

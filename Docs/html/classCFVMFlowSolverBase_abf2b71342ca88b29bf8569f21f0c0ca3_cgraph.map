@@ -1,0 +1,16 @@
+<map id="CFVMFlowSolverBase::ComputeAxisymmetricAuxGradients" name="CFVMFlowSolverBase::ComputeAxisymmetricAuxGradients">
+<area shape="rect" id="node1" title="Computes and sets the required auxilliary vars (and gradients) for axisymmetric flow." alt="" coords="5,90,273,131"/>
+<area shape="rect" id="node2" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="352,5,485,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a83d5144467a2c2fa78a7f9cc19026421" title="Get the kind of method for computation of spatial gradients used for viscous and source terms." alt="" coords="321,57,516,98"/>
+<area shape="rect" id="node4" href="$classCSolver.html#a9236bef5eff20a24377ff3b794556ff6" title="Compute the Green&#45;Gauss gradient of the auxiliary variable." alt="" coords="345,122,492,163"/>
+<area shape="rect" id="node12" href="$classCSolver.html#a378f152756e56ae44b39923377670d89" title="Compute the Least Squares gradient of the auxiliary variable." alt="" coords="345,187,492,229"/>
+<area shape="rect" id="node5" href="$group__FvmAlgos.html#ga787bc4eedceb98a7aa533856b6f5bc1a" title="Instantiations for 2D and 3D." alt="" coords="568,43,789,69"/>
+<area shape="rect" id="node9" href="$classCVariable.html#ac92170d10d6ff7685c55f66105bd6c2a" title="Get the entire Aux matrix of the problem." alt="" coords="598,93,759,120"/>
+<area shape="rect" id="node10" href="$classCVariable.html#ad43c887251a67276ddb46b7d2320d224" title="Get the gradient of the auxilary variables." alt="" coords="570,144,787,171"/>
+<area shape="rect" id="node11" href="$classCVariable.html#a6374f3577665817f4f524f7c2182174a" title="Get the number of auxiliary variables." alt="" coords="594,195,763,221"/>
+<area shape="rect" id="node6" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="841,81,1023,108"/>
+<area shape="rect" id="node8" href="$classCGeometry.html#ace7f7fe876f629f5bd5f92d4805a1a4b" title="Get number of coordinates." alt="" coords="851,169,1013,196"/>
+<area shape="rect" id="node7" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="1071,81,1256,108"/>
+<area shape="rect" id="node13" href="$group__FvmAlgos.html#gaea8d836040dfd0ee3dd0adf6fbc1b911" title="Instantiations for 2D and 3D." alt="" coords="564,245,793,272"/>
+<area shape="rect" id="node14" href="$classCVariable.html#a3cb7309c324e7527b12d235e6bdaa327" title="Get the value of the Rmatrix entry for least squares gradient calculations." alt="" coords="595,296,762,323"/>
+</map>

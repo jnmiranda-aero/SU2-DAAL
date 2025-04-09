@@ -1,0 +1,12 @@
+<map id="CConfig::GetReconstructionGradientRequired" name="CConfig::GetReconstructionGradientRequired">
+<area shape="rect" id="node1" title="Get flag for whether a second gradient calculation is required for upwind reconstruction alone." alt="" coords="324,232,524,273"/>
+<area shape="rect" id="node2" href="$classCAdjEulerVariable.html#afb9c76a9feea451fef96ccc73a39f88e" title="Constructor of the class." alt="" coords="67,5,214,47"/>
+<area shape="rect" id="node3" href="$classCFlowVariable.html#a60f5b74c097bd87fe008b9d1671868e8" title="Constructor of the class." alt="" coords="33,71,249,98"/>
+<area shape="rect" id="node4" href="$classCScalarSolver.html#aa6238dd670ce793d763fc35598b52dcf" title="Gradient and Limiter computation." alt="" coords="5,122,276,149"/>
+<area shape="rect" id="node5" href="$classCScalarVariable.html#a1981a20cbedf25d0903817d942cadec0" title="Constructor of the class." alt="" coords="50,173,231,215"/>
+<area shape="rect" id="node6" href="$classCAdjNSSolver.html#a0669f6fb8ef7cd7800d151d4aff7d3f6" title="Restart residual and compute gradients." alt="" coords="35,239,246,266"/>
+<area shape="rect" id="node7" href="$classCIncNSSolver.html#aaaff5cfe93aa72a689248c80b2ea9149" title="Restart residual and compute gradients." alt="" coords="37,290,245,317"/>
+<area shape="rect" id="node8" href="$classCNEMONSSolver.html#aef1c13c42cd8103377619f7d94660d6a" title="Restart residual and compute gradients." alt="" coords="26,341,255,367"/>
+<area shape="rect" id="node9" href="$classCNSSolver.html#af83e7cb773797239cdc98fc4d202d32f" title="Restart residual and compute gradients." alt="" coords="46,391,235,418"/>
+<area shape="rect" id="node10" href="$classCRadP1Solver.html#a34c7a29cb038e85c793685b1a76edac6" title="Restart residual and compute gradients." alt="" coords="35,442,247,469"/>
+</map>

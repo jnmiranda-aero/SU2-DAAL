@@ -1,0 +1,4 @@
+<map id="CFVMFlowSolverBase::SetReferenceValues" name="CFVMFlowSolverBase::SetReferenceValues">
+<area shape="rect" id="node1" title="Set reference values for pressure, forces, etc., e.g. &quot;AeroCoeffForceRef&quot;." alt="" coords="217,5,381,47"/>
+<area shape="rect" id="node2" href="$classCFVMFlowSolverBase.html#a197fdf8620c3f2b3723c04b213cea284" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="5,5,169,47"/>
+</map>

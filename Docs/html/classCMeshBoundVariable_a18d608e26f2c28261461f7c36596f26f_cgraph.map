@@ -1,0 +1,8 @@
+<map id="CMeshBoundVariable::AllocateBoundaryVariables" name="CMeshBoundVariable::AllocateBoundaryVariables">
+<area shape="rect" id="node1" title="Allocate member variables for points marked as vertex (via &quot;Set_isVertex&quot;)." alt="" coords="5,74,211,115"/>
+<area shape="rect" id="node2" href="$classCVertexMap.html#adaaf69514da251457a61c66bee0b0fdc" title="Build the point to vertex map." alt="" coords="285,5,427,32"/>
+<area shape="rect" id="node4" href="$classCVertexMap.html#a4cd7452ea54e1cdc82332dbcaafec5aa" title="Check if the current mapping is valid." alt="" coords="269,56,443,83"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a85d2e3cf43b77c63642c40c235b853f3" title="Check if the multizone problem is solved for time domain." alt="" coords="259,107,453,133"/>
+<area shape="rect" id="node6" href="$classC2DContainer.html#adefb48b593f76aa322e228fea8f76127" title="Request a change of size." alt="" coords="277,157,435,184"/>
+<area shape="rect" id="node3" href="$classC2DContainer.html#a8278113dbcf54123f9852e7e44583759" title=" " alt="" coords="501,5,648,32"/>
+</map>

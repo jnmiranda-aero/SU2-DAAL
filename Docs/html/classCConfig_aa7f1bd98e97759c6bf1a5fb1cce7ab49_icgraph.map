@@ -1,0 +1,13 @@
+<map id="CConfig::GetKind_ConductivityModel_Turb" name="CConfig::GetKind_ConductivityModel_Turb">
+<area shape="rect" id="node1" title="Get the value of the turbulent thermal conductivity model." alt="" coords="1145,151,1367,193"/>
+<area shape="rect" id="node2" href="$classCFluidModel.html#a906430175741549b72c46b5e162149ca" title="Instantiate the right type of conductivity model based on config." alt="" coords="897,118,1097,159"/>
+<area shape="rect" id="node10" href="$classCFlowOutput.html#aff6a6f11c9f53f559bab9ca94b21cd2a" title="Write the forces breakdown file." alt="" coords="902,183,1093,225"/>
+<area shape="rect" id="node3" href="$classCFluidModel.html#a6c387c9e21d5da336d61f58214587ac8" title="Set thermal conductivity model." alt="" coords="581,53,849,94"/>
+<area shape="rect" id="node8" href="$classCFluidScalar.html#a4223d15eb4ab0e69626859ade4f10197" title="Set thermal conductivity model." alt="" coords="622,118,809,159"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="249,5,533,32"/>
+<area shape="rect" id="node6" href="$classCFEM__DG__EulerSolver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="291,57,492,98"/>
+<area shape="rect" id="node5" href="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460" title="Main constructor of this class." alt="" coords="5,5,201,32"/>
+<area shape="rect" id="node7" href="$classCFEM__DG__EulerSolver.html#a70d30ef9e7cd7620d54ec73f4b1ed28c" title=" " alt="" coords="16,57,191,98"/>
+<area shape="rect" id="node9" href="$classCFluidScalar.html#a07a413fee4e00c2c651fc53d3f757c7a" title="Constructor of the class." alt="" coords="295,125,487,152"/>
+<area shape="rect" id="node11" href="$classCFlowOutput.html#aaac3fb7b2575967b157c306065ab1ea8" title="Write any additional files defined for the current solver." alt="" coords="608,183,823,225"/>
+</map>

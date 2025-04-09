@@ -1,0 +1,9 @@
+<map id="CSolver::GetHasHybridParallel" name="CSolver::GetHasHybridParallel">
+<area shape="rect" id="node1" title="Whether the methods of the solver called by multi/single&#45;grid iteration can be executed by multiple t..." alt="" coords="751,46,969,73"/>
+<area shape="rect" id="node2" href="$classCDiscAdjSolver.html#acb372c483708922787e1b31b657d27dd" title="Depends on the direct solver." alt="" coords="483,5,703,47"/>
+<area shape="rect" id="node3" href="$classCDiscAdjSinglezoneDriver.html#ac5a9bbc8bf431a06a4ec315a514c9428" title="Record one iteration of a flow iteration in within multiple zones." alt="" coords="497,71,688,112"/>
+<area shape="rect" id="node4" href="$classCDiscAdjSinglezoneDriver.html#af4087bc4859a336b67555336d8f28aaf" title="Record the main computational path." alt="" coords="244,37,435,79"/>
+<area shape="rect" id="node6" href="$classCDiscAdjSinglezoneDriver.html#ad328a74dd89ed2e335b22c4bf2b53cb0" title="Record the secondary computational path." alt="" coords="244,103,435,144"/>
+<area shape="rect" id="node5" href="$classCDiscAdjSinglezoneDriver.html#a231f69c77c922207c235930508b1db67" title="Preprocess the single&#45;zone iteration." alt="" coords="5,37,196,79"/>
+<area shape="rect" id="node7" href="$classCDiscAdjSinglezoneDriver.html#a8646cc443849a97868c59003066bb850" title="Postprocess the adjoint iteration for ZONE_0." alt="" coords="5,103,196,144"/>
+</map>

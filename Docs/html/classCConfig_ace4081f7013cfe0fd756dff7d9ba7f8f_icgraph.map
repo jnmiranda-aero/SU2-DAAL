@@ -1,0 +1,18 @@
+<map id="CConfig::GetObjFunc_Extension" name="CConfig::GetObjFunc_Extension">
+<area shape="rect" id="node1" title="Append the input filename string with the appropriate objective function extension." alt="" coords="543,413,697,455"/>
+<area shape="rect" id="node2" href="$classCAdjElasticityOutput.html#a3ea1b19eab6ce0037111ab27b6af6ca9" title="Constructor of the class." alt="" coords="293,5,457,47"/>
+<area shape="rect" id="node3" href="$classCAdjEulerSolver.html#a0a739888df9436d4707665d152a7af1a" title=" " alt="" coords="276,71,473,112"/>
+<area shape="rect" id="node4" href="$classCAdjFlowCompOutput.html#af5e46c78b25669a357b1b65c0a0d3edc" title="Constructor of the class." alt="" coords="288,136,461,177"/>
+<area shape="rect" id="node5" href="$classCAdjFlowIncOutput.html#a115a0683a133a9f88344ee4255488385" title="Constructor of the class." alt="" coords="297,201,452,243"/>
+<area shape="rect" id="node6" href="$classCAdjHeatOutput.html#abaaeac0d5c71cf641858d8dce48a40de" title="Constructor of the class." alt="" coords="277,267,473,308"/>
+<area shape="rect" id="node7" href="$classCAdjNSSolver.html#a323f1dc7c0b9fe00d1911eeeea365d46" title=" " alt="" coords="271,333,479,359"/>
+<area shape="rect" id="node8" href="$classCAdjTurbSolver.html#a621bdae0b081f25a67425cc037cd90a2" title=" " alt="" coords="282,384,467,425"/>
+<area shape="rect" id="node9" href="$classCAdjEulerSolver.html#a4bc9fada01b433e9194d4c0d67adbbbd" title="Load a solution from a restart file." alt="" coords="269,450,481,477"/>
+<area shape="rect" id="node10" href="$classCBaselineSolver.html#aa5fad3af8c5b48950679d5c5a3a91ec4" title="Load a solution from a restart file." alt="" coords="267,501,482,527"/>
+<area shape="rect" id="node11" href="$classCDiscAdjFEASolver.html#a30cbfd6dac6c80898c5624a96ab55b8c" title="Load a solution from a restart file." alt="" coords="297,552,452,593"/>
+<area shape="rect" id="node12" href="$classCDiscAdjSolver.html#adc04ad9d81d8669d0accabe899bdb39d" title="Load a solution from a restart file." alt="" coords="271,618,478,645"/>
+<area shape="rect" id="node13" href="$classCBaselineSolver.html#ad3404f10c41c7bffbd682cb650476689" title="Load a FSI solution from a restart file." alt="" coords="255,669,495,695"/>
+<area shape="rect" id="node14" href="$classCBaselineSolver.html#ab8e4b1b71d637dd0adee324d4a7a6315" title="Set the number of variables and string names from the restart file." alt="" coords="274,720,475,761"/>
+<area shape="rect" id="node16" href="$classCPhysicalGeometry.html#ae7f5d10bba7177600265f0d6bae116f3" title="Read the sensitivity from adjoint solution file and store it." alt="" coords="296,785,453,827"/>
+<area shape="rect" id="node15" href="$classCBaselineSolver.html#a996d9c6ee613b5b45a25a765f3c5e2cd" title=" " alt="" coords="5,720,207,761"/>
+</map>

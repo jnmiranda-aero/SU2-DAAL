@@ -1,0 +1,9 @@
+<map id="CEulerSolver::SetTime_Step" name="CEulerSolver::SetTime_Step">
+<area shape="rect" id="node1" title="Compute the time step for solving the Euler equations." alt="" coords="5,107,208,133"/>
+<area shape="rect" id="node2" href="$classCEulerVariable.html#ab8ef32400854040ecb883825f907bed3" title="Get the density of the flow." alt="" coords="270,5,469,32"/>
+<area shape="rect" id="node3" href="$classCVariable.html#adae2e4228e113624b7ab1f9ab1a493c6" title="A virtual member." alt="" coords="266,56,473,83"/>
+<area shape="rect" id="node4" href="$classCVariable.html#a0acbe55ca86de2c0205ae921193e9e95" title="A virtual member." alt="" coords="256,107,483,133"/>
+<area shape="rect" id="node5" href="$classCEulerVariable.html#ab2b300dcf4067e7b996d7c9aaa02939f" title="Get the speed of the sound." alt="" coords="275,158,463,199"/>
+<area shape="rect" id="node7" href="$classCFVMFlowSolverBase.html#aceafd6d8a3ef6e189711df90c7dbe38e" title="Generic implementation to compute the time step based on CFL and conv/visc eigenvalues." alt="" coords="275,223,463,294"/>
+<area shape="rect" id="node6" href="$structCEulerVariable_1_1CIndices.html#a638b7303e124cee6894893a22583d9c3" title=" " alt="" coords="531,158,711,199"/>
+</map>

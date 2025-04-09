@@ -1,0 +1,52 @@
+<map id="CVariable::GetGradient" name="CVariable::GetGradient">
+<area shape="rect" id="node1" title="Get the gradient of the entire solution." alt="" coords="865,822,1036,849"/>
+<area shape="rect" id="node2" href="$classCAdjEulerSolver.html#ad145d66ed2938ef1b6a187d3133ee101" title="Impose the boundary condition to the far field using characteristics." alt="" coords="617,5,769,47"/>
+<area shape="rect" id="node3" href="$classCAdjNSSolver.html#aac064a699355df483ca48c40e7c50675" title="Impose via the residual or brute force the Navier&#45;Stokes adjoint boundary condition (heat flux)." alt="" coords="573,71,812,98"/>
+<area shape="rect" id="node4" href="$classCAdjEulerSolver.html#ae32700e955c44bc12de7a818d8e412bf" title="Impose the inlet boundary condition." alt="" coords="617,123,769,164"/>
+<area shape="rect" id="node5" href="$classCTurbSASolver.html#a01e392cd5dd660196e86d7dec01d1acd" title="Impose the inlet boundary condition." alt="" coords="603,188,782,229"/>
+<area shape="rect" id="node6" href="$classCTurbSSTSolver.html#a9d4b339f4ee99d06b604bf17a24e8fe8" title="Impose the inlet boundary condition." alt="" coords="618,253,767,295"/>
+<area shape="rect" id="node7" href="$classCTurbSASolver.html#a9cdd12aa912c00c12dbb80cc21c7977a" title="Impose the inlet boundary condition." alt="" coords="603,319,782,360"/>
+<area shape="rect" id="node8" href="$classCTurbSSTSolver.html#a054ade13cc21d3d718c8fa2f2d514112" title="Impose the inlet boundary condition." alt="" coords="618,384,767,425"/>
+<area shape="rect" id="node9" href="$classCAdjNSSolver.html#a159875229feba5b14c433990e5a89d60" title="Impose via the residual or brute force the Navier&#45;Stokes adjoint boundary condition (heat flux)." alt="" coords="568,450,817,477"/>
+<area shape="rect" id="node10" href="$classCAdjEulerSolver.html#a606732a2540893587de80506c5d0ac70" title="Impose the outlet boundary condition." alt="" coords="617,501,769,543"/>
+<area shape="rect" id="node11" href="$classCAdjEulerSolver.html#a387bb98473abfa504de673a89f39cd70" title="Impose the supersonic inlet boundary condition." alt="" coords="617,567,769,608"/>
+<area shape="rect" id="node12" href="$classCAdjEulerSolver.html#a2d9d0f85686f7c45ab8ddb89161cc376" title="Impose the supersonic outlet boundary condition." alt="" coords="617,632,769,673"/>
+<area shape="rect" id="node13" href="$namespaceCommHelpers.html#afe0e4edeb87c652ab9830b5139241561" title=" " alt="" coords="583,698,802,725"/>
+<area shape="rect" id="node27" href="$namespacePeriodicCommHelpers.html#ad278a2337065d80d53bcf78dfe73eaf7" title=" " alt="" coords="609,749,776,791"/>
+<area shape="rect" id="node30" href="$classCSolver.html#a750e8a00ec7b8b41ff51c91fc4e35fe8" title="Compute the Green&#45;Gauss gradient of the solution." alt="" coords="615,880,770,921"/>
+<area shape="rect" id="node37" href="$classCSolver.html#a65af02f97fcf03a0f44c15dbb48522b9" title="Compute the Least Squares gradient of the solution." alt="" coords="615,815,770,856"/>
+<area shape="rect" id="node38" href="$classCAdjNSSolver.html#a3f7289e94076471c23e53da293b69645" title="Source term computation." alt="" coords="611,945,774,987"/>
+<area shape="rect" id="node39" href="$classCAdjTurbSolver.html#a5f05f842f8d9a3de8a5f438a663dd413" title="Source term computation." alt="" coords="607,1011,779,1052"/>
+<area shape="rect" id="node40" href="$classCSpeciesSolver.html#a02c01af54949033097952c6562e2ee64" title="Source term computation for axisymmetric flow." alt="" coords="605,1076,780,1117"/>
+<area shape="rect" id="node42" href="$classCTransLMSolver.html#a44ed4f90b0d02ea2cc779ca7f0974fce" title="Source term computation." alt="" coords="604,1141,781,1183"/>
+<area shape="rect" id="node43" href="$classCTurbSASolver.html#ae254c08e17def463df09c9f804bf5194" title="Source term computation." alt="" coords="608,1207,777,1248"/>
+<area shape="rect" id="node44" href="$classCTurbSSTSolver.html#a1a4833387e1c5030deaac3cd81bf0cbe" title="Source term computation." alt="" coords="605,1272,780,1313"/>
+<area shape="rect" id="node45" href="$classCAdjTurbSolver.html#a35c455d0c7d407c79fc7e789812bd020" title="Compute the spatial integration using a upwind scheme." alt="" coords="604,1337,781,1379"/>
+<area shape="rect" id="node46" href="$classCAdjNSSolver.html#a87064a324dd57b715155f405fc0804fc" title="Compute the viscous residuals for the adjoint equation." alt="" coords="608,1403,777,1444"/>
+<area shape="rect" id="node47" href="$classCAdjTurbSolver.html#a7a5247a1cc0a32dd690fc4881fadd999" title="Compute the viscous residuals for the turbulent adjoint equation." alt="" coords="603,1468,782,1509"/>
+<area shape="rect" id="node48" href="$classCRadP1Solver.html#a63240e4981e0dcb2963799c9aada11f4" title="Compute the viscous residuals for the turbulent equation." alt="" coords="607,1533,778,1575"/>
+<area shape="rect" id="node49" href="$classCSpeciesFlameletSolver.html#a736b1d7ee4006457731975b183b88004" title="Compute the fluxes due to viscous and preferential diffusion effects of the flamelet species at a par..." alt="" coords="603,1623,783,1664"/>
+<area shape="rect" id="node50" href="$classCAdjNSSolver.html#a6e72f094190680fa7fb078d7aae9c1d8" title="Compute the viscous sensitivity of the functional." alt="" coords="608,1688,777,1729"/>
+<area shape="rect" id="node14" href="$classCSolver.html#a3912ec3b77bf15b77790be7399f4fa53" title="Routine to complete the set of non&#45;blocking communications launched by InitiateComms() and unpacking ..." alt="" coords="308,521,501,547"/>
+<area shape="rect" id="node26" href="$classCSolver.html#aab651e902cb3020b525c154cb76c4264" title="Routine to load a solver quantity into the data structures for MPI point&#45;to&#45;point communication and t..." alt="" coords="317,578,493,605"/>
+<area shape="rect" id="node15" href="$classCAdjEulerSolver.html#a0a739888df9436d4707665d152a7af1a" title=" " alt="" coords="25,392,222,433"/>
+<area shape="rect" id="node16" href="$classCAdjNSSolver.html#a323f1dc7c0b9fe00d1911eeeea365d46" title=" " alt="" coords="19,458,227,485"/>
+<area shape="rect" id="node17" href="$classCAdjTurbSolver.html#a621bdae0b081f25a67425cc037cd90a2" title=" " alt="" coords="31,509,216,551"/>
+<area shape="rect" id="node18" href="$classCHeatSolver.html#a89c9ece2b98a950e53f4ee9482968186" title="Constructor of the class." alt="" coords="27,822,219,849"/>
+<area shape="rect" id="node19" href="$group__PySU2.html#ga28e8e41ab6223500b17b656779574d39" title="Communicate the boundary mesh displacements." alt="" coords="22,209,225,251"/>
+<area shape="rect" id="node20" href="$classCFVMFlowSolverBase.html#a3eb0fbabf1ce42ccc0fe626473800e09" title="Generic implementation to complete an implicit iteration, i.e. update the solution." alt="" coords="7,575,240,616"/>
+<area shape="rect" id="node21" href="$group__FvmAlgos.html#ga32c639c72ec9d09a704d5f8056f28c35" title="Compute the gradient of a field using the Green&#45;Gauss theorem." alt="" coords="30,640,217,681"/>
+<area shape="rect" id="node22" href="$group__FvmAlgos.html#ga01c113d467c9ccfdfe83ec5b3d48d321" title="Compute the gradient of a field using inverse&#45;distance&#45;weighted or unweighted Least&#45;Squares approxima..." alt="" coords="30,705,217,747"/>
+<area shape="rect" id="node23" href="$group__FvmAlgos.html#ga4639562695f9dc19f098e6d00fcacde1" title="Generic limiter computation for methods based on one limiter value per point (as opposed to one per e..." alt="" coords="39,771,207,798"/>
+<area shape="rect" id="node24" href="$classCSpeciesSolver.html#a3a7863355bb316fe760afeb1db4ca66c" title="Constructor of the class." alt="" coords="29,275,218,316"/>
+<area shape="rect" id="node25" href="$classCTransLMSolver.html#a4975cbf30f2954e3da1244832999eda0" title=" " alt="" coords="5,341,241,367"/>
+<area shape="rect" id="node28" href="$classCSolver.html#a6b9c3e0290bce84f14ad3fde8ffa8658" title="Routine to complete the set of non&#45;blocking periodic communications launched by InitiatePeriodicComms..." alt="" coords="307,640,502,681"/>
+<area shape="rect" id="node29" href="$classCSolver.html#a1a6e3eee698f471925178d422a0c3724" title="Routine to load a solver quantity into the data structures for MPI periodic communication and to laun..." alt="" coords="315,705,494,747"/>
+<area shape="rect" id="node31" href="$classCTransLMSolver.html#aa2cb59dfa880122b3c0485f9d2db78c6" title="Computes the effective intermtittency." alt="" coords="289,923,520,950"/>
+<area shape="rect" id="node32" href="$classCTurbSSTSolver.html#a9f9394f05aa34e96e4bf2dd00447789a" title="Computes the eddy viscosity." alt="" coords="290,974,519,1001"/>
+<area shape="rect" id="node33" href="$classCAdjEulerSolver.html#a64baf8c7af6006bdc4ad0919f7c2507a" title="Initialize the residual vectors." alt="" coords="292,1025,517,1051"/>
+<area shape="rect" id="node34" href="$classCAdjNSSolver.html#a0669f6fb8ef7cd7800d151d4aff7d3f6" title="Restart residual and compute gradients." alt="" coords="299,771,510,798"/>
+<area shape="rect" id="node35" href="$classCAdjTurbSolver.html#a2ed1cbeeeaaeb94ba0e6c9103459b1fe" title="Initializate the residual vectors." alt="" coords="295,822,514,849"/>
+<area shape="rect" id="node36" href="$classCRadP1Solver.html#a34c7a29cb038e85c793685b1a76edac6" title="Restart residual and compute gradients." alt="" coords="299,873,511,899"/>
+<area shape="rect" id="node41" href="$classCSpeciesFlameletSolver.html#ab432a7c07b01ab72e43e9a423e4e757f" title="Source term computation." alt="" coords="315,1076,495,1117"/>
+</map>

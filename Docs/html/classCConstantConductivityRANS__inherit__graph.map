@@ -1,0 +1,4 @@
+<map id="CConstantConductivityRANS" name="CConstantConductivityRANS">
+<area shape="rect" id="node1" title="Defines a constant laminar thermal conductivity along with a turbulent Prandtl number for including e..." alt="" coords="5,80,212,107"/>
+<area shape="rect" id="node2" href="$classCConductivityModel.html" title="Interface class for defining the thermal conductivity model." alt="" coords="32,5,185,32"/>
+</map>

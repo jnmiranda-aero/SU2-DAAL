@@ -1,0 +1,6 @@
+<map id="CIncEulerSolver::SetCentered_Dissipation_Sensor" name="CIncEulerSolver::SetCentered_Dissipation_Sensor">
+<area shape="rect" id="node1" title="Compute a pressure sensor switch." alt="" coords="5,49,217,91"/>
+<area shape="rect" id="node2" href="$classCIncEulerVariable.html#aa5971e35e634b8d768d369dead2b9ffc" title="Get the density of the flow." alt="" coords="317,5,461,47"/>
+<area shape="rect" id="node4" href="$classCFVMFlowSolverBase.html#afb9ed896e3882658d23042a5ee15c9d2" title="Compute the dissipation sensor for centered schemes." alt="" coords="265,71,512,157"/>
+<area shape="rect" id="node3" href="$structCEulerVariable_1_1CIndices.html#a3e46a08b8835237b42a89ea488e2f2da" title=" " alt="" coords="560,5,740,47"/>
+</map>

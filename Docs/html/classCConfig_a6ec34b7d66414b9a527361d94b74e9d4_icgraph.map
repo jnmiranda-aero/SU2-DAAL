@@ -1,0 +1,5 @@
+<map id="CConfig::SetRefArea" name="CConfig::SetRefArea">
+<area shape="rect" id="node1" title="In case the RefArea is equal to 0 then, it is necessary to compute a reference area,..." alt="" coords="228,46,381,73"/>
+<area shape="rect" id="node2" href="$classCMeshFEM.html#ac8927404203b7d0b9c8be44b1a012632" title="Compute surface area (positive z&#45;direction) for force coefficient non&#45;dimensionalization." alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#a9c3acdee10579102b039ffe93498cc2b" title="Compute surface area (positive z&#45;direction) for force coefficient non&#45;dimensionalization." alt="" coords="14,71,171,112"/>
+</map>

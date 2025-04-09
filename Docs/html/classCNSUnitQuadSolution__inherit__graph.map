@@ -1,0 +1,4 @@
+<map id="CNSUnitQuadSolution" name="CNSUnitQuadSolution">
+<area shape="rect" id="node1" title="Class to define the required data for the Navier&#45;Stokes solution on a unit quad, heat conduction is n..." alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node2" href="$classCVerificationSolution.html" title="Class for holding verification PDE solutions, e.g., phi = phi(x,y,z,t), used for initial conditions,..." alt="" coords="8,5,165,32"/>
+</map>

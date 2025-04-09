@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCFluidModel.html" title="Main class for defining the Thermo&#45;Physical Model." alt="" coords="5,208,108,235"/>
+<area shape="rect" id="node2" href="$classCConstantDensity.html" title="Child class for defining a constant density gas model (incompressible only)." alt="" coords="197,5,335,32"/>
+<area shape="rect" id="node3" href="$classCCoolProp.html" title="Child class for defining fluid model from CoolProp library." alt="" coords="221,56,311,83"/>
+<area shape="rect" id="node4" href="$classCDataDrivenFluid.html" title="Template class for fluid model definition using multi&#45;layer perceptrons for fluid dynamic state defin..." alt="" coords="197,107,335,133"/>
+<area shape="rect" id="node5" href="$classCFluidFlamelet.html" title=" " alt="" coords="205,157,327,184"/>
+<area shape="rect" id="node6" href="$classCFluidScalar.html" title="Child class for defining an incompressible ideal gas model." alt="" coords="215,208,317,235"/>
+<area shape="rect" id="node7" href="$classCIdealGas.html" title="Child class for defining the ideal gas model." alt="" coords="222,259,310,285"/>
+<area shape="rect" id="node10" href="$classCIncIdealGas.html" title="Child class for defining an incompressible ideal gas model." alt="" coords="213,309,319,336"/>
+<area shape="rect" id="node11" href="$classCIncIdealGasPolynomial.html" title="Child class for defining a custom incompressible ideal gas model." alt="" coords="156,360,376,387"/>
+<area shape="rect" id="node12" href="$classCNEMOGas.html" title="Class for defining the 2T (trans&#45;rotational and vibro&#45;electronic) nonequilibrium gas model." alt="" coords="218,411,314,437"/>
+<area shape="rect" id="node8" href="$classCPengRobinson.html" title="Child class for defining the Peng&#45;Robinson model." alt="" coords="434,233,557,260"/>
+<area shape="rect" id="node9" href="$classCVanDerWaalsGas.html" title="Child class for defining the Van der Waals model." alt="" coords="424,284,567,311"/>
+<area shape="rect" id="node13" href="$classCSU2TCLib.html" title="Child class for user defined nonequilibrium gas model." alt="" coords="449,411,541,437"/>
+</map>

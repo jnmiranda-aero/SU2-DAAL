@@ -1,0 +1,7 @@
+<map id="CDriverBase::GetSolverAndCheckMarker" name="CDriverBase::GetSolverAndCheckMarker">
+<area shape="rect" id="node1" title="Automates some boilerplate of accessing solution fields for the python wrapper." alt="" coords="5,23,205,65"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="282,5,463,32"/>
+<area shape="rect" id="node4" href="$group__PySU2.html#ga370613993383998e76e0b021733a6138" title="Get the number of markers in the mesh." alt="" coords="253,56,492,83"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="540,5,725,32"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="543,56,723,83"/>
+</map>

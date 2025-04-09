@@ -1,0 +1,28 @@
+<map id="CFluidModel::GetTemperature" name="CFluidModel::GetTemperature">
+<area shape="rect" id="node1" title="Get fluid temperature." alt="" coords="1177,413,1393,440"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a40fad0a57e8dcba8a8f4d4fa8eab02f0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="902,5,1073,32"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a4ad4a65b3fc5a51b1561436736f7f7ca" title="Impose the boundary condition using characteristic recostruction." alt="" coords="889,56,1085,83"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#a8e036f2dff1d945d814c93a74159a3cc" title="Impose the boundary condition using characteristic recostruction." alt="" coords="872,107,1103,133"/>
+<area shape="rect" id="node5" href="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460" title="Main constructor of this class." alt="" coords="585,443,781,469"/>
+<area shape="rect" id="node6" href="$classCEulerSolver.html#a20c173e52b1401a8f2256d0298d82037" title="Recompute the extrapolated quantities, after MUSCL reconstruction, in a more thermodynamically consis..." alt="" coords="867,158,1108,199"/>
+<area shape="rect" id="node8" href="$classCTurbomachineryState.html#a9d68929143e8392efdce0024d0db6711" title=" " alt="" coords="903,223,1072,265"/>
+<area shape="rect" id="node11" href="$classCFEM__DG__NSSolver.html#a5118d674e7eb6f4865fb53f6f20eac1c" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="883,341,1091,382"/>
+<area shape="rect" id="node12" href="$classCFEM__DG__EulerSolver.html#ab1a14528918d93d2f96c827a9f8bcd57" title="Load a solution from a restart file." alt="" coords="904,406,1071,447"/>
+<area shape="rect" id="node13" href="$classCFlowCompFEMOutput.html#ab3512aede5c10673392abc7e7a56d149" title="Set the values of the volume output fields for a point." alt="" coords="901,471,1073,513"/>
+<area shape="rect" id="node14" href="$classCFEM__DG__EulerSolver.html#acfd3f253f2b9f37d236df40ff18a8c4c" title="Compute primitive variables and their gradients." alt="" coords="904,589,1071,630"/>
+<area shape="rect" id="node16" href="$classCEulerSolver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="845,537,1129,564"/>
+<area shape="rect" id="node17" href="$classCFEM__DG__EulerSolver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="887,654,1088,695"/>
+<area shape="rect" id="node19" href="$classCEulerVariable.html#a674dd196e3eed72a762eedec72b534fc" title="Set all the primitive variables for compressible flows." alt="" coords="889,720,1086,747"/>
+<area shape="rect" id="node25" href="$classCNSVariable.html#a0db8c1ede5090174259a69548d20c9fe" title="Set all the primitive variables for compressible flows." alt="" coords="896,771,1079,797"/>
+<area shape="rect" id="node26" href="$classCIncNSVariable.html#a34a2a9cfecec39f383e2e7551b4e7736" title="Set all the primitive variables for incompressible flows." alt="" coords="887,821,1088,848"/>
+<area shape="rect" id="node7" href="$classCEulerSolver.html#aa9729921eed9546daca6ca891ad2a9bb" title="Compute the spatial integration using a upwind scheme." alt="" coords="601,158,764,199"/>
+<area shape="rect" id="node9" href="$classCTurbineBladePerformance.html#aaa35eca235d0770990ba278a06955340" title=" " alt="" coords="583,223,782,265"/>
+<area shape="rect" id="node10" href="$classCCompressorBladePerformance.html#a0f893ece6419441d7e0060a0f08ed2b1" title=" " alt="" coords="568,289,797,330"/>
+<area shape="rect" id="node15" href="$classCFEM__DG__EulerSolver.html#a0fe3772f40c29248f26fb08fa215af4e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="575,585,791,626"/>
+<area shape="rect" id="node18" href="$classCFEM__DG__EulerSolver.html#a70d30ef9e7cd7620d54ec73f4b1ed28c" title=" " alt="" coords="595,650,770,691"/>
+<area shape="rect" id="node20" href="$classCEulerSolver.html#aba587fb4b29f6925b9a669b0f31d449f" title="Set the solution using the Freestream values." alt="" coords="578,715,787,757"/>
+<area shape="rect" id="node21" href="$classCEulerSolver.html#a5ca2856cb7c17dcef0012c82677816f4" title="Compute the velocity^2, SoundSpeed, Pressure, Enthalpy, Viscosity." alt="" coords="586,781,779,822"/>
+<area shape="rect" id="node22" href="$classCEulerSolver.html#a0d6f93feba8d6aad18edf3594213042b" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="257,788,520,815"/>
+<area shape="rect" id="node23" href="$classCEulerSolver.html#ab08b6aa95648e7ab973f9f247fe54b31" title="Compute primitive variables and their gradients." alt="" coords="5,763,209,789"/>
+<area shape="rect" id="node24" href="$classCNSSolver.html#af83e7cb773797239cdc98fc4d202d32f" title="Restart residual and compute gradients." alt="" coords="13,813,202,840"/>
+</map>

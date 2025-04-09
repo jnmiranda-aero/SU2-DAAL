@@ -1,0 +1,12 @@
+<map id="CVariable::Get_BGSSolution_k" name="CVariable::Get_BGSSolution_k">
+<area shape="rect" id="node1" title="Get the value of the solution in the previous BGS subiteration." alt="" coords="1320,97,1537,123"/>
+<area shape="rect" id="node2" href="$classCSolver.html#a58839dc01d8caf2d729382d282481083" title="Set the value of the max residual and RMS residual." alt="" coords="1077,89,1272,131"/>
+<area shape="rect" id="node3" href="$classCMultizoneDriver.html#ae72bb40195e4066bc4be4adfb0df29e9" title="Check the convergence at the outer level." alt="" coords="765,67,1029,94"/>
+<area shape="rect" id="node8" href="$classCDiscAdjMultizoneDriver.html#a0376ab7c0cb40fa091ff34d3b99e597c" title="Compute BGS residuals." alt="" coords="805,119,989,160"/>
+<area shape="rect" id="node4" href="$classCMultizoneDriver.html#a264bb90660193f4c197a3b64df8ccb22" title="Run a Block Gauss&#45;Seidel iteration in all physical zones." alt="" coords="505,5,713,47"/>
+<area shape="rect" id="node7" href="$classCMultizoneDriver.html#a6a3c67903b810b5cd8c392691ff2e86e" title="Run a Block&#45;Jacobi iteration in all physical zones." alt="" coords="505,71,712,98"/>
+<area shape="rect" id="node5" href="$classCMultizoneDriver.html#abe9df84668f2019fb5e1921752994dea" title="Solves one time iteration." alt="" coords="276,41,444,67"/>
+<area shape="rect" id="node6" href="$classCMultizoneDriver.html#a48545e4827cc34298f792995e06d90dd" title="[Overload] Launch the computation for multizone problems." alt="" coords="5,41,220,67"/>
+<area shape="rect" id="node9" href="$classCDiscAdjMultizoneDriver.html#af996aecdb6d20aa4fc81c9b67295abf5" title="[Overload] Run an discrete adjoint update of all solvers within multiple zones." alt="" coords="500,126,717,153"/>
+<area shape="rect" id="node10" href="$classCDiscAdjMultizoneDriver.html#a75de0a1a482ceeed4301a384f1515092" title="[Overload] Launch the computation for discrete adjoint multizone problems." alt="" coords="268,119,452,160"/>
+</map>

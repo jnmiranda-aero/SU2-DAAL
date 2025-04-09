@@ -1,0 +1,4 @@
+<map id="CPhysicalGeometry::DistributeVolumeConnectivity" name="CPhysicalGeometry::DistributeVolumeConnectivity">
+<area shape="rect" id="node1" title="Distribute the connectivity for a single volume element type across all ranks based on a ParMETIS col..." alt="" coords="211,5,428,47"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#addad3f466423ba9243a396763d442f9a" title="Accepts a geometry container holding a linearly partitioned grid with coloring performed by ParMETIS,..." alt="" coords="5,5,163,47"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="SU2_CFD/include/fluid/CIdealGas.hpp" name="SU2_CFD/include/fluid/CIdealGas.hpp">
+<area shape="rect" id="node1" title="Defines the ideal gas model." alt="" coords="401,5,566,47"/>
+<area shape="rect" id="node2" href="$CPengRobinson_8hpp.html" title="Defines the Peng&#45;Robinson model." alt="" coords="206,95,371,136"/>
+<area shape="rect" id="node4" href="$CEulerSolver_8cpp.html" title="Main subroutines for solving Finite&#45;Volume Euler flow problems." alt="" coords="5,184,161,225"/>
+<area shape="rect" id="node5" href="$CFEM__DG__EulerSolver_8cpp.html" title="Main subroutines for solving finite element Euler flow problems." alt="" coords="479,184,677,225"/>
+<area shape="rect" id="node6" href="$CVanDerWaalsGas_8hpp.html" title="Declaration of the Polytropic Van der Waals model." alt="" coords="396,95,571,136"/>
+<area shape="rect" id="node8" href="$CIdealGas_8cpp.html" title="Source of the ideal gas model." alt="" coords="647,95,829,136"/>
+<area shape="rect" id="node3" href="$CPengRobinson_8cpp.html" title="Source of the Peng&#45;Robinson model." alt="" coords="186,191,455,218"/>
+<area shape="rect" id="node7" href="$CVanDerWaalsGas_8cpp.html" title="Source of the Polytropic Van der Waals model." alt="" coords="701,184,898,225"/>
+</map>

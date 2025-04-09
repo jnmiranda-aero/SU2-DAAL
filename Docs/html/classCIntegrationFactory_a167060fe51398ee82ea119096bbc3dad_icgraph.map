@@ -1,0 +1,6 @@
+<map id="CIntegrationFactory::CreateIntegration" name="CIntegrationFactory::CreateIntegration">
+<area shape="rect" id="node1" title="Create a new integration instance based on the current sub solver." alt="" coords="691,5,840,47"/>
+<area shape="rect" id="node2" href="$classCIntegrationFactory.html#a07a370118efa6af50008afa8a8c8287b" title="Create the integration container based on the current main solver." alt="" coords="436,5,643,47"/>
+<area shape="rect" id="node3" href="$classCDriver.html#a46c2f76e7f4f8ce2bc3b132dd3a558b6" title="Definition and allocation of all integration classes." alt="" coords="181,13,388,39"/>
+<area shape="rect" id="node4" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="5,13,133,39"/>
+</map>

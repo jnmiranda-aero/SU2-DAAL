@@ -1,0 +1,7 @@
+<map id="CEulerSolver::LowMachPrimitiveCorrection" name="CEulerSolver::LowMachPrimitiveCorrection">
+<area shape="rect" id="node1" title="Apply low Mach number correction to the primitives at two points, usually connected by an edge." alt="" coords="5,74,239,115"/>
+<area shape="rect" id="node2" href="$classCFluidModel.html#ad8b3f3e7fc1acdcea7450f9b83c1dd46" title="Get fluid internal energy." alt="" coords="287,5,503,32"/>
+<area shape="rect" id="node3" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="340,56,449,83"/>
+<area shape="rect" id="node4" href="$classCFluidModel.html#aa41938a99bbfd8c7b0640659191e9c54" title="virtual member that would be different for each gas model implemented" alt="" coords="288,107,501,133"/>
+<area shape="rect" id="node5" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="371,157,418,184"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CConfig::GetPredictorOrder" name="CConfig::GetPredictorOrder">
+<area shape="rect" id="node1" title="Get the order of the predictor for FSI applications." alt="" coords="241,13,439,39"/>
+<area shape="rect" id="node2" href="$classCFEASolver.html#ae0e96ff4b61e4928db3d2e55616ff8f6" title="Predictor for structural displacements based on previous iterations." alt="" coords="5,5,193,47"/>
+</map>

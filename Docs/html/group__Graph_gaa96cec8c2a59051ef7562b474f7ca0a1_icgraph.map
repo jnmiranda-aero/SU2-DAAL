@@ -1,0 +1,13 @@
+<map id="createNaturalColoring" name="createNaturalColoring">
+<area shape="rect" id="node1" title="Create the natural coloring (equivalent to the normal sequential loop order) for a given number of in..." alt="" coords="1069,111,1235,138"/>
+<area shape="rect" id="node2" href="$group__Graph.html#ga527868d0180e46647d482ad97bba6b32" title="Color contiguous groups of outer indices of a sparse pattern such that within each color,..." alt="" coords="836,111,980,138"/>
+<area shape="rect" id="node10" href="$classCGeometry.html#a44e61cae2c9f90993e25988f794acb9f" title="Force the natural (sequential) edge coloring." alt="" coords="806,45,1010,87"/>
+<area shape="rect" id="node11" href="$classCGeometry.html#a150d5535645653c34a0da93e7b959090" title="Force the natural (sequential) element coloring." alt="" coords="795,163,1021,204"/>
+<area shape="rect" id="node3" href="$classCGeometry.html#a1918f1d5fd5404f35ab64407242b5d24" title="Get the edge coloring." alt="" coords="523,103,735,130"/>
+<area shape="rect" id="node6" href="$classCGeometry.html#a0958106e0ba545db5ff7fdcf7a8583ba" title="Get the element coloring." alt="" coords="512,154,747,181"/>
+<area shape="rect" id="node4" href="$classCScalarSolver.html#a1afc69d5b797a6ca3951cc43e5594313" title="Constructor of the class." alt="" coords="253,93,464,119"/>
+<area shape="rect" id="node5" href="$classCFVMFlowSolverBase.html#add3f32c09f3bb0032ed4cc4144ec8b10" title="Initialize thread parallel variables." alt="" coords="257,5,460,47"/>
+<area shape="rect" id="node7" href="$classCFEASolver.html#abcef9eb21dd43cbf8598bdfea0f9fef8" title="Actions required to initialize the supporting variables for hybrid parallel execution." alt="" coords="261,165,457,207"/>
+<area shape="rect" id="node8" href="$classCFEASolver.html#a1d4c7d17d9c7143d3079fc78fae1599d" title=" " alt="" coords="15,147,195,174"/>
+<area shape="rect" id="node9" href="$classCMeshSolver.html#a728930536c48c01f17b91808115fdb91" title="Constructor of the class." alt="" coords="5,198,205,225"/>
+</map>

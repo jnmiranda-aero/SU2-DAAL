@@ -1,0 +1,19 @@
+<map id="SU2_CFD/include/solvers/CScalarSolver.hpp" name="SU2_CFD/include/solvers/CScalarSolver.hpp">
+<area shape="rect" id="node1" title="Headers of the CScalarSolver class." alt="" coords="632,5,816,47"/>
+<area shape="rect" id="node2" href="$CHeatSolver_8hpp.html" title="Headers of the CHeatSolver class." alt="" coords="736,95,920,136"/>
+<area shape="rect" id="node5" href="$CScalarSolver_8inl.html" title="Main subroutines of CScalarSolver class." alt="" coords="528,95,712,136"/>
+<area shape="rect" id="node8" href="$CSpeciesSolver_8hpp.html" title="Headers of the CSpeciesSolver class." alt="" coords="232,95,416,136"/>
+<area shape="rect" id="node11" href="$CTurbSolver_8hpp.html" title="Headers of the CTurbSolver class." alt="" coords="953,95,1137,136"/>
+<area shape="rect" id="node3" href="$CHeatSolver_8cpp.html" title="Main subroutines for solving the heat equation." alt="" coords="542,184,698,225"/>
+<area shape="rect" id="node4" href="$CSolverFactory_8cpp.html" title="Main subroutines for CSolverFactoryclass." alt="" coords="826,273,982,315"/>
+<area shape="rect" id="node6" href="$CSpeciesSolver_8cpp.html" title="Main subroutines of CSpeciesSolver class." alt="" coords="362,184,518,225"/>
+<area shape="rect" id="node7" href="$CTurbSolver_8cpp.html" title="Main subroutines of CTurbSolver class." alt="" coords="722,184,878,225"/>
+<area shape="rect" id="node9" href="$CSpeciesFlameletSolver_8hpp.html" title="Headers of the CSpeciesFlameletSolver class." alt="" coords="76,184,287,225"/>
+<area shape="rect" id="node10" href="$CSpeciesFlameletSolver_8cpp.html" title="Main subroutines of CSpeciesFlameletSolver class." alt="" coords="5,273,216,315"/>
+<area shape="rect" id="node12" href="$CTransLMSolver_8hpp.html" title="Headers of the CTransLMSolver class." alt="" coords="953,184,1137,225"/>
+<area shape="rect" id="node14" href="$CTurbSASolver_8hpp.html" title="Headers of the CTurbSASolver class." alt="" coords="1161,184,1345,225"/>
+<area shape="rect" id="node16" href="$CTurbSSTSolver_8hpp.html" title="Headers of the CTurbSSTSolver class." alt="" coords="1369,184,1553,225"/>
+<area shape="rect" id="node13" href="$CTransLMSolver_8cpp.html" title="Main subroutines for Langtry&#45;Menter Transition model solver." alt="" coords="1006,273,1162,315"/>
+<area shape="rect" id="node15" href="$CTurbSASolver_8cpp.html" title="Main subroutines of CTurbSASolver class." alt="" coords="1186,273,1342,315"/>
+<area shape="rect" id="node17" href="$CTurbSSTSolver_8cpp.html" title="Main subroutines of CTurbSSTSolver class." alt="" coords="1383,273,1539,315"/>
+</map>

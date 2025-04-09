@@ -1,0 +1,4 @@
+<map id="CSysMatrix::SubtractBlock" name="CSysMatrix::SubtractBlock">
+<area shape="rect" id="node1" title="Subtracts the specified block to the sparse matrix (see AddBlock)." alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node2" href="$classCSysMatrix.html#a03a189a2120be05e21fbd9b120549427" title="Add a scaled block (in flat format) to the sparse matrix (see SetBlock)." alt="" coords="248,5,413,32"/>
+</map>

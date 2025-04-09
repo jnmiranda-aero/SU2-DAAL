@@ -1,0 +1,13 @@
+<map id="CConfig::GetnTimeDOFsADER_DG" name="CConfig::GetnTimeDOFsADER_DG">
+<area shape="rect" id="node1" title="Get the number time DOFs for ADER&#45;DG." alt="" coords="857,177,1100,203"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__EulerSolver.html#a53f3bd445632823baa18657a29553842" title="Function, carries out the predictor step of the ADER&#45;DG time integration." alt="" coords="575,5,761,47"/>
+<area shape="rect" id="node6" href="$classCFEM__DG__EulerSolver.html#a541316bc7d1623f16e839578dc9a4aa9" title="Function, which interpolates the predictor solution of ADER&#45;DG to the time value that corresponds to ..." alt="" coords="527,71,809,112"/>
+<area shape="rect" id="node7" href="$classCFEM__DG__EulerSolver.html#a677fa998b78bd489a3f8bee0d56623dd" title=" " alt="" coords="581,136,755,177"/>
+<area shape="rect" id="node8" href="$classCFEM__DG__EulerSolver.html#ad3428a192cfff4925a3ce854866119de" title="Routine that completes the non&#45;blocking communication between ranks." alt="" coords="551,201,785,243"/>
+<area shape="rect" id="node9" href="$classCFEM__DG__EulerSolver.html#aef4dade05b74d3e36f5b2c91d0a6fa46" title="Routine that initiates the non&#45;blocking communication between ranks for the givem time level." alt="" coords="559,267,777,308"/>
+<area shape="rect" id="node10" href="$classCMeshFEM__DG.html#a99d173245492ca71a355d4c40b40b306" title="Function, which computes the time coefficients for the ADER&#45;DG predictor step." alt="" coords="549,332,787,373"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__EulerSolver.html#ae807ca68b2d465020b63d617d54e339a" title="Function, which processes the list of tasks to be executed by the DG solver." alt="" coords="291,136,457,177"/>
+<area shape="rect" id="node4" href="$classCFEM__DG__EulerSolver.html#a0fe3772f40c29248f26fb08fa215af4e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="5,104,221,145"/>
+<area shape="rect" id="node5" href="$classCFEM__DG__EulerSolver.html#a370cb798d700bb080b52ec22834f78da" title="Function, which controls the computation of the spatial Jacobian." alt="" coords="19,169,208,211"/>
+<area shape="rect" id="node11" href="$classCMeshFEM__DG.html#a4f30fa4373463f802c8d6f685c837263" title="Function, which computes the metric terms of the volume elements." alt="" coords="269,332,479,373"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="CEulerSolver::PreprocessAverage" name="CEulerSolver::PreprocessAverage">
+<area shape="rect" id="node1" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="5,559,189,601"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="253,5,464,32"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a5e3f6f32251ecccedd9018487e8118f0" title="it take a velocity in the cartesian reference of framework and transform into the turbomachinery fram..." alt="" coords="255,57,462,98"/>
+<area shape="rect" id="node4" href="$classCTurboVertex.html#a72553841f50964c0c3a2847623162e0d" title="get face Area associate to the vertex." alt="" coords="274,123,443,149"/>
+<area shape="rect" id="node5" href="$classCGeometry.html#a18a047ab5bc0f2e4228b547ec9ece0db" title="Get the average normal at a specific span for a given marker in the turbomachinery reference of frame..." alt="" coords="251,174,466,215"/>
+<area shape="rect" id="node6" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="251,240,467,267"/>
+<area shape="rect" id="node7" href="$classCEulerVariable.html#ab8ef32400854040ecb883825f907bed3" title="Get the density of the flow." alt="" coords="259,291,458,317"/>
+<area shape="rect" id="node8" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="285,341,432,368"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a1d6335b8fdef6fbcd9a08f7503d73ec1" title="Provides the number of varaibles." alt="" coords="289,392,429,419"/>
+<area shape="rect" id="node10" href="$classCConfig.html#af2e6f0468842a345575889120e849c4a" title="Get the kind of turbomachinery architecture." alt="" coords="237,443,480,469"/>
+<area shape="rect" id="node11" href="$classCConfig.html#a489191993251fecdfec09e65446b2fa3" title="Get the Turbomachinery information for a marker val_marker." alt="" coords="280,494,437,535"/>
+<area shape="rect" id="node12" href="$classCConfig.html#ae92ecce81d1a01aff7bb2df3c525f61c" title="Get the Turbomachinery flag information for a marker val_marker." alt="" coords="266,559,451,601"/>
+<area shape="rect" id="node13" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="269,625,449,652"/>
+<area shape="rect" id="node14" href="$classCConfig.html#a2caf35ccfb5e2b96bd5f53054c42fee6" title="number Turbomachinery performance option specified from config file." alt="" coords="281,677,437,718"/>
+<area shape="rect" id="node15" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="289,743,428,769"/>
+<area shape="rect" id="node16" href="$classCVertex.html#a57cacfe764770e6c0e54c278cb584f7c" title="Copy the the normal vector of a face." alt="" coords="283,793,435,820"/>
+<area shape="rect" id="node17" href="$classCConfig.html#a50c6d8787325e09d732ecb9c4af96e93" title="number span&#45;wise sections to compute 3D BC and performance for turbomachinery." alt="" coords="243,844,474,871"/>
+<area shape="rect" id="node18" href="$classCGeometry.html#a81c34ad0099221f81fb0beb88f994148" title="Get number of vertices." alt="" coords="255,895,463,921"/>
+<area shape="rect" id="node19" href="$classCEulerVariable.html#a5e1ee3cd1062365d7da17ee3ee49537e" title="Get the flow pressure." alt="" coords="257,945,461,972"/>
+<area shape="rect" id="node21" href="$classCGeometry.html#a0f8752f57588e44465ab07e34490ac0e" title="Get the value of the total area for each span." alt="" coords="265,996,453,1023"/>
+<area shape="rect" id="node22" href="$classCTurboVertex.html#ad72f5115828f49f0fafdc66b00f3ece4" title="Copy the the turbo normal vector of a face." alt="" coords="247,1047,470,1073"/>
+<area shape="rect" id="node23" href="$classCEulerVariable.html#afb2ba375855bc63c9bc96227efaece99" title="Get the velocity of the flow." alt="" coords="259,1097,459,1124"/>
+<area shape="rect" id="node20" href="$structCEulerVariable_1_1CIndices.html#a71ffbd849fd584ff3a787411497d3007" title=" " alt="" coords="528,938,708,979"/>
+<area shape="rect" id="node24" href="$structCEulerVariable_1_1CIndices.html#a37140bae15b27e5d1c970468d80fb3ae" title=" " alt="" coords="528,1090,708,1131"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CNEMOEulerSolver::SetMax_Eigenvalue" name="CNEMOEulerSolver::SetMax_Eigenvalue">
+<area shape="rect" id="node1" title="Set the maximum value of the eigenvalue." alt="" coords="5,45,208,87"/>
+<area shape="rect" id="node2" href="$classCNEMOEulerVariable.html#ace88c30d7e9a0e48b713e073d1b92a8c" title="Get the speed of the sound." alt="" coords="293,5,451,47"/>
+<area shape="rect" id="node3" href="$classCFVMFlowSolverBase.html#adc3a96a8ca25902058864c18b533192d" title="Compute the max eigenvalue, gemeric implementation." alt="" coords="256,71,488,141"/>
+</map>

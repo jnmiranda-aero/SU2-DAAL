@@ -1,0 +1,10 @@
+<map id="CPhysicalGeometry::PrepareAdjacency" name="CPhysicalGeometry::PrepareAdjacency">
+<area shape="rect" id="node1" title="Prepares the grid point adjacency based on a linearly partitioned mesh object needed by ParMETIS for ..." alt="" coords="5,115,163,157"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="211,5,392,32"/>
+<area shape="rect" id="node4" href="$classCLinearPartitioner.html#a707f3e0894f386e591083318ee7765b7" title="Get the first index of the current rank&#39;s linear partition." alt="" coords="217,57,385,98"/>
+<area shape="rect" id="node5" href="$classCPrimalGrid.html#ad07e4929bb7093fd08f1314a57739cce" title="Get number of nodes of the element." alt="" coords="211,123,391,149"/>
+<area shape="rect" id="node6" href="$classCPrimalGrid.html#a6353b89f5a8a3948cd475da6152bf077" title="Get the nodes shared by the primal grid element." alt="" coords="219,173,384,200"/>
+<area shape="rect" id="node7" href="$classCPhysicalGeometry.html#a9d1252866c737c13a55f4a2355c618df" title="Routine to sort the adjacency for ParMETIS for graph partitioning in parallel." alt="" coords="223,225,380,266"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="440,5,625,32"/>
+<area shape="rect" id="node8" href="$classCLinearPartitioner.html#ac5b1791f9f4bf910547807250391c9f0" title="Get the total size of the current rank&#39;s linear partition." alt="" coords="463,225,602,266"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="CFlowOutput::WriteAdditionalFiles" name="CFlowOutput::WriteAdditionalFiles">
+<area shape="rect" id="node1" title="Write any additional files defined for the current solver." alt="" coords="5,2673,220,2715"/>
+<area shape="rect" id="node2" href="$classCConfig.html#ae688e355a74025050498d8c03aee35b2" title="Get information about whether to use fixed CL mode." alt="" coords="583,2706,785,2733"/>
+<area shape="rect" id="node3" href="$classCConfig.html#aae21b37c088347be2a7e02fc0ad4e4c4" title="Get information about the streamwise periodicity (None, Pressure_Drop, Massflow)." alt="" coords="576,2757,792,2799"/>
+<area shape="rect" id="node4" href="$classCConfig.html#af011f841c3d000c769b475fe23645c17" title="Check if the forces breakdown file is written." alt="" coords="268,2782,516,2809"/>
+<area shape="rect" id="node5" href="$classCFlowOutput.html#aff6a6f11c9f53f559bab9ca94b21cd2a" title="Write the forces breakdown file." alt="" coords="297,1389,487,1431"/>
+<area shape="rect" id="node50" href="$classCFlowOutput.html#a24f4c787a51ac3ed909d70bb9a782ba1" title="Write information to meta data file." alt="" coords="285,2605,499,2631"/>
+<area shape="rect" id="node6" href="$classCSolver.html#adca11215d92da8c3834b520effe831a3" title="Get the reference force used to compute CL, CD, etc." alt="" coords="564,376,804,417"/>
+<area shape="rect" id="node7" href="$classCSolver.html#a5bb9cd34646f26655bdbf4a684138006" title="A virtual member." alt="" coords="603,441,765,483"/>
+<area shape="rect" id="node8" href="$classCSolver.html#a80d9fc7426ac4b1aacc3fd18b8db3138" title="A virtual member." alt="" coords="603,507,765,548"/>
+<area shape="rect" id="node9" href="$classCSolver.html#a592a8147a4dc92eb5c4fb7d568ab17dc" title="A virtual member." alt="" coords="603,572,765,613"/>
+<area shape="rect" id="node10" href="$classCSolver.html#a8fe41e87f9a8b8bbc5ae18fcb55b7d82" title="A virtual member." alt="" coords="603,637,765,679"/>
+<area shape="rect" id="node11" href="$classCSolver.html#a5b2e248861eaf93a7fafa349a068e7d6" title="A virtual member." alt="" coords="603,703,765,744"/>
+<area shape="rect" id="node12" href="$classCSolver.html#a1e05d9b2f412fe3ac56138a2f7f906ad" title="A virtual member." alt="" coords="603,768,765,809"/>
+<area shape="rect" id="node13" href="$classCSolver.html#a2d0b254f13b8e992de5143ac57320efb" title="A virtual member." alt="" coords="603,833,765,875"/>
+<area shape="rect" id="node14" href="$classCSolver.html#a07ddaf9f233c78688b352a214bde525b" title="A virtual member." alt="" coords="603,899,765,940"/>
+<area shape="rect" id="node15" href="$classCSolver.html#ab9054969a8e4fb646b2f0dda4be29e10" title="A virtual member." alt="" coords="603,964,765,1005"/>
+<area shape="rect" id="node16" href="$classCSolver.html#a3176539ed03b8a650d3f489c1160f9b9" title="A virtual member." alt="" coords="603,1029,765,1071"/>
+<area shape="rect" id="node17" href="$classCSolver.html#ab9765f3a1ada2f9376d6333248e86a56" title="A virtual member." alt="" coords="603,1095,765,1136"/>
+<area shape="rect" id="node18" href="$classCSolver.html#af4250b0e0471b78e7118eca9e1b79efe" title="A virtual member." alt="" coords="603,1160,765,1201"/>
+<area shape="rect" id="node19" href="$classCSolver.html#a3570b421030ed7c39908c3613f9ea3c8" title="A virtual member." alt="" coords="603,1225,765,1267"/>
+<area shape="rect" id="node20" href="$classCSolver.html#a87baec67c6bc9e677865ae1cbb19072d" title="A virtual member." alt="" coords="603,1291,765,1332"/>
+<area shape="rect" id="node21" href="$classCSolver.html#a870bdc060284a3dbc05313e4981c29d6" title="A virtual member." alt="" coords="603,1356,765,1397"/>
+<area shape="rect" id="node22" href="$classCSolver.html#a9fe7ae5e0ef1d4b14aff512c7abc9bb2" title="A virtual member." alt="" coords="603,1421,765,1463"/>
+<area shape="rect" id="node23" href="$classCSolver.html#ab03733635c05b133b58a661705f393df" title="A virtual member." alt="" coords="603,1487,765,1528"/>
+<area shape="rect" id="node24" href="$classCSolver.html#a57ae0b900074b4e250059a46c69691bf" title="A virtual member." alt="" coords="603,1552,765,1593"/>
+<area shape="rect" id="node25" href="$classCSolver.html#aed2878e1c82515ce2603d6371a7a6835" title="A virtual member." alt="" coords="603,1617,765,1659"/>
+<area shape="rect" id="node26" href="$classCSolver.html#ad38266638e663eedb0721bf152d0ed1a" title="A virtual member." alt="" coords="603,1683,765,1724"/>
+<area shape="rect" id="node27" href="$classCSolver.html#acd09dd5e7d49a310d1222f262d43c148" title="A virtual member." alt="" coords="603,1748,765,1789"/>
+<area shape="rect" id="node28" href="$classCSolver.html#aeb8204cf0dc396423c95d65272e740cc" title="A virtual member." alt="" coords="603,1813,765,1855"/>
+<area shape="rect" id="node29" href="$classCSolver.html#a9e43a44faba1c6e772cb2c6a0d99b83a" title="A virtual member." alt="" coords="603,1879,765,1920"/>
+<area shape="rect" id="node30" href="$classCSolver.html#a827b282c1a473cba4b58b2b09c787e1f" title="A virtual member." alt="" coords="603,1944,765,1985"/>
+<area shape="rect" id="node31" href="$classCSolver.html#a4c38bfccf7630f961310db33164495a0" title="A virtual member." alt="" coords="603,2009,765,2051"/>
+<area shape="rect" id="node32" href="$classCSolver.html#a35da52e4305ed0fd3196455224aa08a3" title="A virtual member." alt="" coords="603,2075,765,2116"/>
+<area shape="rect" id="node33" href="$classCSolver.html#ac47877cadbb31f0a3eefc68d089288c8" title="A virtual member." alt="" coords="603,2140,765,2181"/>
+<area shape="rect" id="node34" href="$classCSolver.html#a4e2ecc792c46ce9151fbb60a4c1a1e31" title="A virtual member." alt="" coords="603,2205,765,2247"/>
+<area shape="rect" id="node35" href="$classCSolver.html#a74285c69f061cc3fa039e17c01890060" title="A virtual member." alt="" coords="603,2271,765,2312"/>
+<area shape="rect" id="node36" href="$classCSolver.html#aa709e761eed7ae99c7ac92f665c647db" title="A virtual member." alt="" coords="603,2336,765,2377"/>
+<area shape="rect" id="node37" href="$classCConfig.html#aa824c1a1b3c7cd05b7be414a76e0b250" title="Get the angle of attack of the body. This is the angle between a reference line on a lifting body (of..." alt="" coords="619,2605,749,2631"/>
+<area shape="rect" id="node38" href="$classCConfig.html#a25bfd5255f84135494ca2c368a848f98" title="Get the angle of sideslip of the body. It relates to the rotation of the aircraft centerline from the..." alt="" coords="620,2655,748,2682"/>
+<area shape="rect" id="node39" href="$classCConfig.html#af8f65e725d0627a9fc990f5f1657bd51" title="Get the name of the file with the forces breakdown of the problem." alt="" coords="596,5,772,47"/>
+<area shape="rect" id="node40" href="$classCConfig.html#a006bd1977aad6e4fad0acd7141d634ce" title="Get the value of the bulk modulus." alt="" coords="587,71,781,98"/>
+<area shape="rect" id="node41" href="$classCConfig.html#acf40c4cbb52b304554471ad15c424c59" title="Get the temperature polynomial coefficient for specific heat Cp." alt="" coords="589,122,779,149"/>
+<area shape="rect" id="node42" href="$classCConfig.html#a8760b5e82dfe5af56db169f64e662f6f" title="Get the temperature polynomial coefficient for specific heat Cp." alt="" coords="579,173,789,199"/>
+<area shape="rect" id="node43" href="$classCConfig.html#a37e977df54c5914bd175af1f90e6c6bc" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="603,2402,765,2429"/>
+<area shape="rect" id="node44" href="$classCConfig.html#a9c2647c821e1b4c62af4676aab80fdcb" title="Get the value for the lift curve slope for fixed CL mode." alt="" coords="595,223,773,250"/>
+<area shape="rect" id="node45" href="$classCConfig.html#a169c941d6a2a4d5d83b468745a63314e" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="599,2453,769,2479"/>
+<area shape="rect" id="node46" href="$classCConfig.html#af7b2a1f4879fb4ebe121b32c9f7031c8" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="599,2503,769,2530"/>
+<area shape="rect" id="node47" href="$classCConfig.html#a938257413551afbcfcded497e4bfb387" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="599,2554,769,2581"/>
+<area shape="rect" id="node48" href="$classCConfig.html#a95f12a968f4553caf9bea4576fbf5812" title="If we are prforming an unsteady simulation, there is only one value of the time step for the complete..." alt="" coords="580,274,788,301"/>
+<area shape="rect" id="node49" href="$classCConfig.html#a0acfef8e480970316e9e672eacd59e9b" title="If we are prforming an unsteady simulation, there is only one value of the time step for the complete..." alt="" coords="570,325,798,351"/>
+</map>

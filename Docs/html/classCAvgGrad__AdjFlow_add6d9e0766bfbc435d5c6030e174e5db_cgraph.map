@@ -1,0 +1,5 @@
+<map id="CAvgGrad_AdjFlow::CAvgGrad_AdjFlow" name="CAvgGrad_AdjFlow::CAvgGrad_AdjFlow">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,27,221,69"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a0b5df9254891b32a88e83880778f9261" title="Get the value of the Gamma of fluid (ratio of specific heats)." alt="" coords="287,5,441,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a4bf6e287aaf809340df1e40a76cf438b" title="Get the kind of integration scheme (explicit or implicit) for the adjoint flow equations." alt="" coords="269,57,459,98"/>
+</map>

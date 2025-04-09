@@ -1,0 +1,18 @@
+<map id="CFEASolver::Stiffness_Penalty" name="CFEASolver::Stiffness_Penalty">
+<area shape="rect" id="node1" title="Compute the penalty due to the stiffness increase." alt="" coords="5,327,167,369"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="217,5,428,32"/>
+<area shape="rect" id="node3" href="$omp__structure_8hpp.html#a9465b8cb1d384f41bbb5f3c04ec815de" title="Atomically update a (shared) lhs value with a (local) rhs value." alt="" coords="277,56,369,83"/>
+<area shape="rect" id="node4" href="$classCElement.html#af253267554a0e234993747dd5446537a" title="Compute the value of the area of the element." alt="" coords="231,107,414,133"/>
+<area shape="rect" id="node5" href="$classCElement.html#ae86ec182eb42a61e95f8983a870dfcea" title="Compute the value of the volume of the element." alt="" coords="222,157,423,184"/>
+<area shape="rect" id="node6" href="$classCNumerics.html#a5e985e097e0977a62e027544e2540867" title="A virtual member to retrieve the value of the design variables." alt="" coords="234,208,411,235"/>
+<area shape="rect" id="node7" href="$classCFEASolver.html#ad4309facfe4044d5f5a11209cc96c7eb" title="Get the value of the reference coordinate to set on the element structure." alt="" coords="226,259,419,285"/>
+<area shape="rect" id="node9" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="215,309,431,336"/>
+<area shape="rect" id="node10" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="249,360,396,387"/>
+<area shape="rect" id="node11" href="$classCFEASolver.html#a69ff8e551924f4cfbad103287b4bb8bb" title="Get the element container index and number of nodes of a given VTK type." alt="" coords="215,411,430,453"/>
+<area shape="rect" id="node12" href="$classCPrimalGrid.html#a6353b89f5a8a3948cd475da6152bf077" title="Get the nodes shared by the primal grid element." alt="" coords="240,477,405,504"/>
+<area shape="rect" id="node13" href="$classCConfig.html#ab57c8a5cfefa627276bc42f11ee76d7e" title="Get the penalty weight value for the objective function." alt="" coords="246,529,399,570"/>
+<area shape="rect" id="node14" href="$classCPrimalGrid.html#ad506ad8f97dd70d71c1ee6f407df4cf5" title="Get VTK type." alt="" coords="225,595,420,621"/>
+<area shape="rect" id="node15" href="$omp__structure_8hpp.html#aad63dd7e34961dbbd2e8774e7f6bc2d0" title="Index of current thread, akin to MPI rank." alt="" coords="241,645,405,672"/>
+<area shape="rect" id="node16" href="$classCElement.html#a734f0ffdf9fc0d48f6add20fd6cd5cfe" title="Set the value of the coordinate of the nodes in the reference configuration." alt="" coords="232,696,413,723"/>
+<area shape="rect" id="node8" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="479,259,612,285"/>
+</map>

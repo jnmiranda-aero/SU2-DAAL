@@ -1,0 +1,8 @@
+<map id="CFEMStandardElement::GetBasisFunctionsIntegrationTrans" name="CFEMStandardElement::GetBasisFunctionsIntegrationTrans">
+<area shape="rect" id="node1" title="Function, which makes available the transpose of the basis functions in the integration points." alt="" coords="741,65,963,121"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__EulerSolver.html#ae6c2fff0649a4d8fd723ee9776778003" title="Compute the volume contributions to the spatial residual. It is a virtual function,..." alt="" coords="505,39,672,80"/>
+<area shape="rect" id="node6" href="$classCFEM__DG__NSSolver.html#ace5ac45857734f2e764b4072249e5c2d" title="Compute the volume contributions to the spatial residual." alt="" coords="484,104,693,145"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__EulerSolver.html#ae807ca68b2d465020b63d617d54e339a" title="Function, which processes the list of tasks to be executed by the DG solver." alt="" coords="269,39,436,80"/>
+<area shape="rect" id="node4" href="$classCFEM__DG__EulerSolver.html#a0fe3772f40c29248f26fb08fa215af4e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="5,5,221,47"/>
+<area shape="rect" id="node5" href="$classCFEM__DG__EulerSolver.html#a370cb798d700bb080b52ec22834f78da" title="Function, which controls the computation of the spatial Jacobian." alt="" coords="19,71,208,112"/>
+</map>

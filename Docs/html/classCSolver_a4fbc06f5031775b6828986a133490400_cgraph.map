@@ -1,0 +1,12 @@
+<map id="CSolver::SetResidual_BGS" name="CSolver::SetResidual_BGS">
+<area shape="rect" id="node1" title="Communicate the value of the max residual and RMS residual." alt="" coords="5,224,196,251"/>
+<area shape="rect" id="node2" href="$classCSolver.html#a297664acd286dfab5abcf1f75b9a4cc3" title="Adds the maximal residual for BGS subiterations." alt="" coords="253,5,451,32"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a137ef06ade0c4f94d2a61f9b8817b6a7" title=" " alt="" coords="247,56,457,83"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="247,107,457,133"/>
+<area shape="rect" id="node5" href="$classcontainer__details_1_1AccessorImpl.html#a5b5318f7212e57c13e464c398f74b3d5" title=" " alt="" coords="279,158,425,199"/>
+<area shape="rect" id="node6" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="244,224,460,251"/>
+<area shape="rect" id="node7" href="$classCConfig.html#aa495414133c826e5f6651d4ce82d0ef6" title="Get the level of MPI communications to be performed." alt="" coords="258,275,446,301"/>
+<area shape="rect" id="node8" href="$classCGeometry.html#a1950b86a664c5da4d7df2a8b3d361a67" title="Retrieve total number of nodes in a simulation across all processors (excluding halos)." alt="" coords="268,326,436,367"/>
+<area shape="rect" id="node9" href="$classCGeometry.html#a058f4f9481ca299e76e6afd0d31c607f" title="Get the multigrid index for the current geometry object." alt="" coords="261,392,443,419"/>
+<area shape="rect" id="node10" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="329,443,375,469"/>
+</map>

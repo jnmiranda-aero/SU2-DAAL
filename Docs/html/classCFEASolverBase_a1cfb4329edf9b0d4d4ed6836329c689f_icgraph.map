@@ -1,0 +1,6 @@
+<map id="CFEASolverBase::CommunicateExtraEliminationVertices" name="CFEASolverBase::CommunicateExtraEliminationVertices">
+<area shape="rect" id="node1" title="Communicate extra vertices for elimination in the linear system." alt="" coords="551,23,779,65"/>
+<area shape="rect" id="node2" href="$classCFEASolver.html#aa4832285a942f3b7f1fe21bbbfa53090" title="Mitigation for an issue with Dirichlet boundary conditions and MPI, some ranks do not get enough of t..." alt="" coords="253,23,503,65"/>
+<area shape="rect" id="node3" href="$classCFEASolver.html#a1d4c7d17d9c7143d3079fc78fae1599d" title=" " alt="" coords="15,5,195,32"/>
+<area shape="rect" id="node4" href="$classCMeshSolver.html#a728930536c48c01f17b91808115fdb91" title="Constructor of the class." alt="" coords="5,56,205,83"/>
+</map>

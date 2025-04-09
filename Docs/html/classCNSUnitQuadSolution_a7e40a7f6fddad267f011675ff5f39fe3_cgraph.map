@@ -1,0 +1,13 @@
+<map id="CNSUnitQuadSolution::CNSUnitQuadSolution" name="CNSUnitQuadSolution::CNSUnitQuadSolution">
+<area shape="rect" id="node1" title=" " alt="" coords="5,217,176,258"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="244,5,425,32"/>
+<area shape="rect" id="node4" href="$classCConfig.html#aa824c1a1b3c7cd05b7be414a76e0b250" title="Get the angle of attack of the body. This is the angle between a reference line on a lifting body (of..." alt="" coords="270,56,399,83"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a0b5df9254891b32a88e83880778f9261" title="Get the value of the Gamma of fluid (ratio of specific heats)." alt="" coords="257,107,412,133"/>
+<area shape="rect" id="node6" href="$classCConfig.html#acd8ad5627f0ef500dddc707b7e298527" title="Get the value of the thermal conductivity model." alt="" coords="224,158,445,199"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a120698f22c0de262c4ffa659ee7ec49f" title="Fluid model that we are using." alt="" coords="229,224,440,251"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a43b34c838ba25ed2030ee823025f8693" title="Get the value of the viscosity model." alt="" coords="235,275,434,317"/>
+<area shape="rect" id="node9" href="$classCConfig.html#afd7ee77c964a1f8788f381fa058abebb" title="Get the value of the non&#45;dimensional constant viscosity." alt="" coords="231,341,439,368"/>
+<area shape="rect" id="node10" href="$classCConfig.html#a502035c2b049606186e11e01b7df626a" title="Get the value of the laminar Prandtl number." alt="" coords="243,392,427,419"/>
+<area shape="rect" id="node11" href="$classCConfig.html#ac47e04d76ce865893a94dcedd3c9b6a5" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="233,443,436,469"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="493,5,679,32"/>
+</map>

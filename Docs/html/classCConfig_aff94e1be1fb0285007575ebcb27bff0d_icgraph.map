@@ -1,0 +1,6 @@
+<map id="CConfig::GetQuadrature_Factor_Straight" name="CConfig::GetQuadrature_Factor_Straight">
+<area shape="rect" id="node1" title="Get the factor applied during quadrature of straight elements." alt="" coords="264,64,440,105"/>
+<area shape="rect" id="node2" href="$classCFEMStandardElementBase.html#ab252022cac9a818a45ec31472ee8c5f3" title="Alternative constructor." alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node3" href="$classCMeshFEM.html#ae74b12670fb49ad4d28836d9fc2aab8d" title="Redistributes the grid over the ranks and creates the halo layer." alt="" coords="23,71,198,98"/>
+<area shape="rect" id="node4" href="$classCMeshFEM__DG.html#a1f627fc4d40b545b139486a83396874d" title="Function to create the faces used in the DG formulation." alt="" coords="7,122,215,149"/>
+</map>

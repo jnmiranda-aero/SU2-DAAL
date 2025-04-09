@@ -1,0 +1,12 @@
+<map id="CNumerics::CNumerics" name="CNumerics::CNumerics">
+<area shape="rect" id="node1" title=" " alt="" coords="5,208,177,235"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a8fa7fd662af0a27f6aad80ca3225dc29" title="Get the kind of eigenspace perturbation to be done." alt="" coords="238,5,433,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a0b5df9254891b32a88e83880778f9261" title="Get the value of the Gamma of fluid (ratio of specific heats)." alt="" coords="258,56,413,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a1431ababf767a9f74ff74fe9ef647957" title="Get the value of specific gas constant." alt="" coords="229,107,442,133"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a502035c2b049606186e11e01b7df626a" title="Get the value of the laminar Prandtl number." alt="" coords="243,157,427,184"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a4b89ad15fa82f93ca8ccfe945e2c14a7" title="Get the value of the turbulent Prandtl number." alt="" coords="244,208,427,235"/>
+<area shape="rect" id="node7" href="$classCConfig.html#abe5e804a6d079692eaa87cdcb54d8226" title="Get parsed SST option data structure." alt="" coords="225,259,445,285"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a18ba8efa39df7554cb719220fe89f9ef" title="Get the amount of eigenvalue perturbation to be done." alt="" coords="245,309,426,336"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a71e7049e4079b228e3cab7218372ffd5" title="Get information about eigenspace perturbation." alt="" coords="243,360,428,387"/>
+<area shape="rect" id="node10" href="$classCConfig.html#ad696f8584540bcc09813399ee6b8c3d5" title="Get the underelaxation factor." alt="" coords="253,411,418,437"/>
+</map>

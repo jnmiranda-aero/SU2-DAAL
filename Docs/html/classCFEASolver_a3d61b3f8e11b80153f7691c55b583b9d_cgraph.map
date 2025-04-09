@@ -1,0 +1,12 @@
+<map id="CFEASolver::ImplicitNewmark_Update" name="CFEASolver::ImplicitNewmark_Update">
+<area shape="rect" id="node1" title="Update the solution using an implicit Newmark solver." alt="" coords="5,238,223,279"/>
+<area shape="rect" id="node2" href="$classCVariable.html#ae810d06d7843603acf7066f74ce8d4d8" title="Add the value of the solution vector to the previous solution (incremental approach)." alt="" coords="271,5,483,32"/>
+<area shape="rect" id="node3" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="293,56,461,83"/>
+<area shape="rect" id="node4" href="$classCVariable.html#aef2fdf091198070a00d12cdb4dea3ff6" title="Get the acceleration (Structural Analysis)." alt="" coords="293,107,461,149"/>
+<area shape="rect" id="node5" href="$classCVariable.html#acb493936a05287142a6257122f5cefb5" title="Get the acceleration of the nodes (Structural Analysis) at time n." alt="" coords="293,173,461,214"/>
+<area shape="rect" id="node6" href="$classCVariable.html#a9162db789c2ca2b71159697cc500fcce" title="Get the solution at time n." alt="" coords="293,238,461,279"/>
+<area shape="rect" id="node7" href="$classCVariable.html#ab36e9bb95a17f0561a94edb80f1ca4c0" title="Get the velocity of the nodes (Structural Analysis) at time n." alt="" coords="293,303,461,345"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a85d2e3cf43b77c63642c40c235b853f3" title="Check if the multizone problem is solved for time domain." alt="" coords="279,369,474,396"/>
+<area shape="rect" id="node9" href="$classCVariable.html#af87029baec777039085fb1ff17ee9555" title="Set the value of the acceleration (Structural Analysis)." alt="" coords="293,421,460,462"/>
+<area shape="rect" id="node10" href="$classCVariable.html#a5c1430d98acd399f1371f23e6fae053f" title="Set the value of the velocity (Structural Analysis)." alt="" coords="280,487,473,513"/>
+</map>

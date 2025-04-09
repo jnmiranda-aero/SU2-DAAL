@@ -1,0 +1,7 @@
+<map id="CConfig::SetMarker_All_Fluid_Load" name="CConfig::SetMarker_All_Fluid_Load">
+<area shape="rect" id="node1" title="Set if a in marker val_marker the flow load will be computed/employed." alt="" coords="716,39,863,80"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#a23692062ec01893ef6b5ae53fcbbf022" title="Loads the boundary elements (markers) from the mesh reader object into the primal element data struct..." alt="" coords="416,5,668,47"/>
+<area shape="rect" id="node5" href="$classCPhysicalGeometry.html#a1932ad72c420cb68fc9e0c13ae77d695" title="Set the send receive boundaries of the grid." alt="" coords="463,71,621,112"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#a88fc7f2ba5656a97d1e34884b51ae984" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file in para..." alt="" coords="211,5,368,47"/>
+<area shape="rect" id="node4" href="$classCPhysicalGeometry.html#a075a737b341a64de5463ddd41096692e" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file." alt="" coords="5,5,163,47"/>
+</map>

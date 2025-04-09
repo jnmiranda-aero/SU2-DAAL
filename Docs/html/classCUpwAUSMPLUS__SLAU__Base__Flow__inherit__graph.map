@@ -1,0 +1,8 @@
+<map id="CUpwAUSMPLUS_SLAU_Base_Flow" name="CUpwAUSMPLUS_SLAU_Base_Flow">
+<area shape="rect" id="node1" title="Base class for AUSM+up(2) and SLAU(2) convective schemes." alt="" coords="194,80,445,107"/>
+<area shape="rect" id="node3" href="$classCUpwAUSMPLUSUP2__Flow.html" title="Class for solving an approximate Riemann AUSM+ &#45;up." alt="" coords="5,155,201,181"/>
+<area shape="rect" id="node4" href="$classCUpwAUSMPLUSUP__Flow.html" title="Class for solving an approximate Riemann AUSM+ &#45;up." alt="" coords="225,155,413,181"/>
+<area shape="rect" id="node5" href="$classCUpwSLAU__Flow.html" title="Class for solving the Low&#45;Dissipation AUSM." alt="" coords="438,155,571,181"/>
+<area shape="rect" id="node2" href="$classCNumerics.html" title="Class for defining the numerical methods." alt="" coords="273,5,366,32"/>
+<area shape="rect" id="node6" href="$classCUpwSLAU2__Flow.html" title="Class for solving the Simple Low&#45;Dissipation AUSM 2." alt="" coords="434,229,575,256"/>
+</map>

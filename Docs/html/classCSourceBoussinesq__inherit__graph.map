@@ -1,0 +1,5 @@
+<map id="CSourceBoussinesq" name="CSourceBoussinesq">
+<area shape="rect" id="node1" title="Class for the source term integration of the Boussinesq approximation for incompressible flow." alt="" coords="5,155,155,181"/>
+<area shape="rect" id="node2" href="$classCSourceBase__Flow.html" title="Intermediate source term class to allocate the internally stored residual and Jacobian...." alt="" coords="7,80,153,107"/>
+<area shape="rect" id="node3" href="$classCNumerics.html" title="Class for defining the numerical methods." alt="" coords="33,5,127,32"/>
+</map>

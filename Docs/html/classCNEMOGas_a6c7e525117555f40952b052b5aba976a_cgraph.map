@@ -1,0 +1,8 @@
+<map id="CNEMOGas::CNEMOGas" name="CNEMOGas::CNEMOGas">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,107,184,133"/>
+<area shape="rect" id="node2" href="$classCConfig.html#ae51b13c497b8a58b77a58b4a6317b19b" title="Indicates whether the flow is frozen (chemistry deactivated)." alt="" coords="262,5,409,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#abd8c7490bf5ef1193c6f89fb8047cf58" title="Gas model that we are using." alt="" coords="251,56,419,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a395841c47b4890ae5abae63b359ff0c6" title="Indicates whether electron gas is present in the gas mixture." alt="" coords="252,107,419,133"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a221600405ece499ee3e25ec6acbe859c" title="Get the transport coefficient model." alt="" coords="232,158,439,199"/>
+<area shape="rect" id="node6" href="$classCConfig.html#acca4077dbb4f00718adc5e831b561927" title="Provides the number of species present in the gas mixture." alt="" coords="255,224,416,251"/>
+</map>

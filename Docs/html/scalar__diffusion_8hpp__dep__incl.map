@@ -1,0 +1,8 @@
+<map id="SU2_CFD/include/numerics/scalar/scalar_diffusion.hpp" name="SU2_CFD/include/numerics/scalar/scalar_diffusion.hpp">
+<area shape="rect" id="node1" title="Declarations of numerics classes for discretization of viscous fluxes in scalar problems." alt="" coords="287,5,486,47"/>
+<area shape="rect" id="node2" href="$heat_8hpp.html" title="Declarations of numerics classes for heat transfer problems." alt="" coords="5,102,203,143"/>
+<area shape="rect" id="node3" href="$CDriver_8cpp.html" title="The main subroutines for driving single or multi&#45;zone problems." alt="" coords="309,199,464,240"/>
+<area shape="rect" id="node4" href="$species__diffusion_8hpp.html" title="Declarations of numerics classes for discretization of viscous fluxes in species problems." alt="" coords="277,102,496,143"/>
+<area shape="rect" id="node5" href="$trans__diffusion_8hpp.html" title="Declarations of numerics classes for discretization of viscous fluxes in transition problems." alt="" coords="520,95,717,151"/>
+<area shape="rect" id="node6" href="$turb__diffusion_8hpp.html" title="Declarations of numerics classes for discretization of viscous fluxes in turbulence problems." alt="" coords="742,102,949,143"/>
+</map>

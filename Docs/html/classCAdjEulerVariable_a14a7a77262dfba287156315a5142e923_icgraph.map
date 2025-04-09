@@ -1,0 +1,5 @@
+<map id="CAdjEulerVariable::SetVel_ResTruncError_Zero" name="CAdjEulerVariable::SetVel_ResTruncError_Zero">
+<area shape="rect" id="node1" title="Set the momentum part of the truncation error to zero." alt="" coords="303,23,499,65"/>
+<area shape="rect" id="node2" href="$classCAdjNSSolver.html#aac064a699355df483ca48c40e7c50675" title="Impose via the residual or brute force the Navier&#45;Stokes adjoint boundary condition (heat flux)." alt="" coords="11,5,249,32"/>
+<area shape="rect" id="node3" href="$classCAdjNSSolver.html#a159875229feba5b14c433990e5a89d60" title="Impose via the residual or brute force the Navier&#45;Stokes adjoint boundary condition (heat flux)." alt="" coords="5,56,255,83"/>
+</map>

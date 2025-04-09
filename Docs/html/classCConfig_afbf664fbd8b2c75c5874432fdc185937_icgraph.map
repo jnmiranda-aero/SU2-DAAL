@@ -1,0 +1,52 @@
+<map id="CConfig::GetKind_Regime" name="CConfig::GetKind_Regime">
+<area shape="rect" id="node1" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="953,788,1143,815"/>
+<area shape="rect" id="node2" href="$classCTurbSASolver.html#ab630c3c3f90b092d0b79fe9d91165c33" title="Impose the inlet boundary condition." alt="" coords="691,5,869,32"/>
+<area shape="rect" id="node3" href="$classCTurbSSTSolver.html#ad82e31e58c6d95db62377666c3554d3d" title="Impose the inlet boundary condition." alt="" coords="705,57,855,98"/>
+<area shape="rect" id="node4" href="$classCDiscAdjSinglezoneDriver.html#a0194e68e223aeda2e78f09cc413079ac" title="Constructor of the class." alt="" coords="681,122,879,163"/>
+<area shape="rect" id="node5" href="$classCFEM__DG__EulerSolver.html#a677fa998b78bd489a3f8bee0d56623dd" title=" " alt="" coords="693,187,867,229"/>
+<area shape="rect" id="node6" href="$classCNumericsRadiation.html#a0e2a7671bd5cdba2cd523a99dd78ba08" title="Constructor of the class." alt="" coords="699,253,861,294"/>
+<area shape="rect" id="node7" href="$classCScalarSolver.html#a9803d741ab9c5ff0c26463a5528f2012" title="Complete an implicit iteration." alt="" coords="664,318,896,359"/>
+<area shape="rect" id="node8" href="$classCDiscAdjSolver.html#aad52232974bd9f20c8025f471d37aeb1" title="A virtual member." alt="" coords="669,383,891,425"/>
+<area shape="rect" id="node9" href="$classCConjugateHeatInterface.html#a11264c7dda7df147258e1ee89b315ea8" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="687,449,873,490"/>
+<area shape="rect" id="node10" href="$group__PySU2.html#ga71c3c1c13dd00f0079d4f9c3e520e373" title="Get the flow solver primitive variable names with their associated indices. These correspond to the c..." alt="" coords="683,514,877,555"/>
+<area shape="rect" id="node11" href="$classCSolver.html#a1a6e3eee698f471925178d422a0c3724" title="Routine to load a solver quantity into the data structures for MPI periodic communication and to laun..." alt="" coords="691,579,869,621"/>
+<area shape="rect" id="node26" href="$classCSolver.html#aa6d85b1177b7acacfbf083e8c58da55c" title="Load a inlet profile data from file into a particular solver." alt="" coords="689,645,871,672"/>
+<area shape="rect" id="node28" href="$classCFEM__DG__EulerSolver.html#ab1a14528918d93d2f96c827a9f8bcd57" title="Load a solution from a restart file." alt="" coords="697,697,863,738"/>
+<area shape="rect" id="node29" href="$classCSpeciesSolver.html#a40ecea72824a266fcda6347d08a4fcea" title="Load a solution from a restart file." alt="" coords="676,763,884,789"/>
+<area shape="rect" id="node30" href="$classCTransLMSolver.html#a6f940c3ebc5092d9d06306159300713d" title="Load a solution from a restart file." alt="" coords="675,813,885,840"/>
+<area shape="rect" id="node31" href="$classCRadSolver.html#a9f64999fe5bfcb69fb4349d00d6d8ef5" title="Load a solution from a restart file." alt="" coords="689,864,871,891"/>
+<area shape="rect" id="node32" href="$classCTurbSolver.html#a7b62bcdb84f3345f560a6110905d7fb3" title="Load a solution from a restart file." alt="" coords="687,915,873,941"/>
+<area shape="rect" id="node33" href="$classCFlowOutput.html#ac9aaea918853ec11c146127c2131f56c" title="Set the values of the volume output fields for a surface point." alt="" coords="667,965,893,992"/>
+<area shape="rect" id="node34" href="$classCFEM__DG__EulerSolver.html#acfd3f253f2b9f37d236df40ff18a8c4c" title="Compute primitive variables and their gradients." alt="" coords="697,1017,863,1058"/>
+<area shape="rect" id="node36" href="$classCDiscAdjSolver.html#a46669aa416ef9f487c65db54dfab03ee" title="A virtual member." alt="" coords="689,1082,871,1123"/>
+<area shape="rect" id="node38" href="$classCFlowOutput.html#ad5ff0360271937e65692893a69b4923a" title="Set flow surface output field values." alt="" coords="662,1148,898,1175"/>
+<area shape="rect" id="node42" href="$classCFlowOutput.html#a2f101e402b711b0692b1aa82e018e7c1" title="Compute the custom outputs." alt="" coords="662,1199,898,1225"/>
+<area shape="rect" id="node43" href="$classCScalarSolver.html#a1fe2b75e493aa743e0979110dea34caf" title="Set the total residual adding the term that comes from the Dual Time&#45;Stepping Strategy." alt="" coords="681,1250,879,1291"/>
+<area shape="rect" id="node45" href="$classCFEM__DG__EulerSolver.html#a527d3a855eebf4e6b35103d8faf42f63" title="Function to compute the time step for solving the Euler equations." alt="" coords="697,1315,863,1357"/>
+<area shape="rect" id="node46" href="$classCFEM__DG__NSSolver.html#a1d77cb51e0eb51dfb95735ac965ac176" title="Function to compute the time step for solving the Navier&#45;Stokes equations." alt="" coords="655,1381,905,1408"/>
+<area shape="rect" id="node47" href="$classCIntegration.html#af7aa23ef26b19cb2e73a8df6c7924d91" title="Do the space integration of the numerical system." alt="" coords="705,1433,855,1474"/>
+<area shape="rect" id="node49" href="$classCFlowOutput.html#aff6a6f11c9f53f559bab9ca94b21cd2a" title="Write the forces breakdown file." alt="" coords="685,1498,875,1539"/>
+<area shape="rect" id="node12" href="$classCFVMFlowSolverBase.html#a24ebe4d462bbef07ec992c8c4d3e3aa3" title="Impose a periodic boundary condition by summing contributions from the complete control volume." alt="" coords="389,550,553,591"/>
+<area shape="rect" id="node13" href="$classCHeatSolver.html#a89c9ece2b98a950e53f4ee9482968186" title="Constructor of the class." alt="" coords="375,616,567,643"/>
+<area shape="rect" id="node14" href="$classCFVMFlowSolverBase.html#a3eb0fbabf1ce42ccc0fe626473800e09" title="Generic implementation to complete an implicit iteration, i.e. update the solution." alt="" coords="355,667,588,709"/>
+<area shape="rect" id="node15" href="$group__FvmAlgos.html#ga32c639c72ec9d09a704d5f8056f28c35" title="Compute the gradient of a field using the Green&#45;Gauss theorem." alt="" coords="378,733,565,774"/>
+<area shape="rect" id="node16" href="$group__FvmAlgos.html#ga01c113d467c9ccfdfe83ec5b3d48d321" title="Compute the gradient of a field using inverse&#45;distance&#45;weighted or unweighted Least&#45;Squares approxima..." alt="" coords="378,798,565,839"/>
+<area shape="rect" id="node17" href="$group__FvmAlgos.html#ga4639562695f9dc19f098e6d00fcacde1" title="Generic limiter computation for methods based on one limiter value per point (as opposed to one per e..." alt="" coords="387,864,555,891"/>
+<area shape="rect" id="node18" href="$classCFVMFlowSolverBase.html#add3f32c09f3bb0032ed4cc4144ec8b10" title="Initialize thread parallel variables." alt="" coords="363,178,580,249"/>
+<area shape="rect" id="node19" href="$classCFVMFlowSolverBase.html#afb9ed896e3882658d23042a5ee15c9d2" title="Compute the dissipation sensor for centered schemes." alt="" coords="376,273,567,329"/>
+<area shape="rect" id="node20" href="$classCFVMFlowSolverBase.html#adc3a96a8ca25902058864c18b533192d" title="Compute the max eigenvalue, gemeric implementation." alt="" coords="374,354,569,395"/>
+<area shape="rect" id="node21" href="$classCEulerSolver.html#a82314e58faf4d98a5f3733f43d64de92" title="Compute the undivided laplacian for the solution." alt="" coords="371,419,571,461"/>
+<area shape="rect" id="node23" href="$classCSolver.html#ae9fa6bf0e3ef0dff07dd85e0a87eef4d" title="Compute the undivided laplacian for the solution variables." alt="" coords="388,485,555,526"/>
+<area shape="rect" id="node22" href="$classCEulerSolver.html#a0d6f93feba8d6aad18edf3594213042b" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="15,427,278,453"/>
+<area shape="rect" id="node24" href="$classCIncEulerSolver.html#ac50d02e914c4337e73d2c4878b12c59d" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="5,536,288,563"/>
+<area shape="rect" id="node25" href="$classCAdjEulerSolver.html#a64baf8c7af6006bdc4ad0919f7c2507a" title="Initialize the residual vectors." alt="" coords="34,485,259,512"/>
+<area shape="rect" id="node27" href="$classCDriver.html#acb98c972bfd29fc1bab737d7c117544a" title="Preprocess the inlets via file input for all solvers." alt="" coords="382,915,561,941"/>
+<area shape="rect" id="node35" href="$classCFEM__DG__EulerSolver.html#a0fe3772f40c29248f26fb08fa215af4e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="363,1017,579,1058"/>
+<area shape="rect" id="node37" href="$classCDiscAdjSolver.html#a96dd62e6656d620a13859ecbc5ac963e" title="Prepare the solver for a new recording." alt="" coords="364,1087,579,1113"/>
+<area shape="rect" id="node39" href="$classCFlowCompOutput.html#a393cb19a691990ee6e88f844eccc79ed" title="Load the history output field values." alt="" coords="341,1137,602,1164"/>
+<area shape="rect" id="node40" href="$classCFlowIncOutput.html#a466112efa2e3a89cdd2456701a0480b5" title="Load the history output field values." alt="" coords="350,1188,593,1215"/>
+<area shape="rect" id="node41" href="$classCNEMOCompOutput.html#a7a9f1a32fe55e6a967a27eb38408ec99" title="Load the history output field values." alt="" coords="336,1239,607,1265"/>
+<area shape="rect" id="node44" href="$classCHeatSolver.html#a36514dfa7f0738e1f0dd11123f6a6eba" title="Set the total residual adding the term that comes from the Dual Time&#45;Stepping Strategy." alt="" coords="377,1290,565,1331"/>
+<area shape="rect" id="node48" href="$classCSingleGridIntegration.html#a62ebec93c34c032bcfacc24f8613fd9b" title="Do the numerical integration (implicit) of the turbulence solver." alt="" coords="387,1433,556,1474"/>
+<area shape="rect" id="node50" href="$classCFlowOutput.html#aaac3fb7b2575967b157c306065ab1ea8" title="Write any additional files defined for the current solver." alt="" coords="364,1498,579,1539"/>
+</map>

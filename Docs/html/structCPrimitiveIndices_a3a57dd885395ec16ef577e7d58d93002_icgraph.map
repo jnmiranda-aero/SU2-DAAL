@@ -1,0 +1,7 @@
+<map id="CPrimitiveIndices::Temperature" name="CPrimitiveIndices::Temperature">
+<area shape="rect" id="node1" title=" " alt="" coords="233,78,377,119"/>
+<area shape="rect" id="node2" href="$classCHeatSolver.html#a425001a48ff8e440183ac9d74ed5e15c" title="Impose the inlet boundary condition." alt="" coords="13,5,178,32"/>
+<area shape="rect" id="node3" href="$classCTurbSASolver.html#ab630c3c3f90b092d0b79fe9d91165c33" title="Impose the inlet boundary condition." alt="" coords="6,56,185,83"/>
+<area shape="rect" id="node4" href="$classCTurbSSTSolver.html#ad82e31e58c6d95db62377666c3554d3d" title="Impose the inlet boundary condition." alt="" coords="21,107,170,149"/>
+<area shape="rect" id="node5" href="$classCSpeciesFlameletSolver.html#a736b1d7ee4006457731975b183b88004" title="Compute the fluxes due to viscous and preferential diffusion effects of the flamelet species at a par..." alt="" coords="5,197,185,238"/>
+</map>

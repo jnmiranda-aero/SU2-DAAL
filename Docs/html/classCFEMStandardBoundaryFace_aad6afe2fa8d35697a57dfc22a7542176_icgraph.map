@@ -1,0 +1,6 @@
+<map id="CFEMStandardBoundaryFace::GetNDOFsElem" name="CFEMStandardBoundaryFace::GetNDOFsElem">
+<area shape="rect" id="node1" title="Function, which makes available the number of DOFs of the adjacent element." alt="" coords="261,71,469,112"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__NSSolver.html#a44020ceaf82c37e386385366c6cda7a5" title="Impose the symmetry boundary condition using the residual." alt="" coords="20,5,199,47"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__EulerSolver.html#a677fa998b78bd489a3f8bee0d56623dd" title=" " alt="" coords="22,71,197,112"/>
+<area shape="rect" id="node4" href="$classCFEM__DG__NSSolver.html#a5118d674e7eb6f4865fb53f6f20eac1c" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="5,136,213,177"/>
+</map>

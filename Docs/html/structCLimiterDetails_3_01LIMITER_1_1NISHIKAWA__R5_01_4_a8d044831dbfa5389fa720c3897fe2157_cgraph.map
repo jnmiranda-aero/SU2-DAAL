@@ -1,0 +1,6 @@
+<map id="CLimiterDetails&lt; LIMITER::NISHIKAWA_R5 &gt;::preprocess" name="CLimiterDetails&lt; LIMITER::NISHIKAWA_R5 &gt;::preprocess">
+<area shape="rect" id="node1" title="Store the reference lenght based eps^5 parameter, limited to a small number to avoid divisions by 0." alt="" coords="5,57,228,98"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a7c7b4b489dcb3b505c091de0ae300891" title="Get the reference element length for computing the slope limiting epsilon." alt="" coords="276,5,479,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a3bd1de6bcb6cd7062816341b0d956459" title="Get the value of limiter coefficient." alt="" coords="304,57,451,98"/>
+<area shape="rect" id="node4" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="323,123,432,149"/>
+</map>

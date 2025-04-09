@@ -1,0 +1,5 @@
+<map id="CPoint::SetAdjointSolution" name="CPoint::SetAdjointSolution">
+<area shape="rect" id="node1" title="Set the adjoint values of the (geometric) coordinates." alt="" coords="5,31,197,57"/>
+<area shape="rect" id="node2" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="245,5,400,32"/>
+<area shape="rect" id="node3" href="$namespaceAD.html#a49a954dc442cd06cc43cd61a451d76e5" title="Sets the adjoint value at index to val." alt="" coords="253,56,392,83"/>
+</map>

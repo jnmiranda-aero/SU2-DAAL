@@ -1,0 +1,7 @@
+<map id="CGeometry::GetGlobal_nPoint" name="CGeometry::GetGlobal_nPoint">
+<area shape="rect" id="node1" title="Retrieve total number of nodes in a simulation across all processors (including halos)." alt="" coords="433,74,601,115"/>
+<area shape="rect" id="node2" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="234,5,362,32"/>
+<area shape="rect" id="node3" href="$classCMeshFEM.html#ae74b12670fb49ad4d28836d9fc2aab8d" title="Redistributes the grid over the ranks and creates the halo layer." alt="" coords="211,56,385,83"/>
+<area shape="rect" id="node4" href="$classCPhysicalGeometry.html#addad3f466423ba9243a396763d442f9a" title="Accepts a geometry container holding a linearly partitioned grid with coloring performed by ParMETIS,..." alt="" coords="5,129,163,170"/>
+<area shape="rect" id="node5" href="$classCPhysicalGeometry.html#ae378288dab74085ca549a652369a6f76" title="Distributes the coloring from ParMETIS so that each rank has complete information about the local gri..." alt="" coords="219,158,377,199"/>
+</map>

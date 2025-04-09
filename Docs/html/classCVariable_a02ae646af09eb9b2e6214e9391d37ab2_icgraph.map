@@ -1,0 +1,8 @@
+<map id="CVariable::SetAuxVar" name="CVariable::SetAuxVar">
+<area shape="rect" id="node1" title="Set auxiliary variables." alt="" coords="489,111,648,138"/>
+<area shape="rect" id="node2" href="$classCFEASolver.html#a7e11c36921b2c146ca2fd7d1a0512ffd" title="Filter the density field for topology optimization applications." alt="" coords="249,5,441,47"/>
+<area shape="rect" id="node4" href="$classCAdjEulerSolver.html#aa87a2220c946b47cb35c395c035f96e5" title="Compute the inviscid sensitivity of the functional." alt="" coords="253,71,437,112"/>
+<area shape="rect" id="node5" href="$classCIncEulerSolver.html#a5f9ced3a85731749b16d6f1bac9460f6" title="Source term integration." alt="" coords="257,136,433,177"/>
+<area shape="rect" id="node6" href="$classCEulerSolver.html#a3173ebda0dc28e9fc17ced219fc60e9a" title="Source term integration." alt="" coords="267,201,424,243"/>
+<area shape="rect" id="node3" href="$classCFEASolver.html#a353159e003821dae0668dcfe7281bd68" title="Set residuals to zero." alt="" coords="5,13,201,39"/>
+</map>

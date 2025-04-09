@@ -1,0 +1,7 @@
+<map id="COutput::SetConvergence" name="COutput::SetConvergence">
+<area shape="rect" id="node1" title="Set the value of the convergence flag." alt="" coords="419,35,608,61"/>
+<area shape="rect" id="node2" href="$classCFEAIteration.html#a6f38f9de139d7ecda0d39ab13342b39a" title="Perform a single iteration for structural analysis using the Finite Element Method." alt="" coords="208,5,371,32"/>
+<area shape="rect" id="node4" href="$classCSinglezoneDriver.html#a3484ba9d87df5affdc2ac0f22004ff58" title="Monitor." alt="" coords="214,57,365,98"/>
+<area shape="rect" id="node3" href="$classCFEAIteration.html#aba70dd8774515f274bbb361f44d30309" title="Iterate the structural system for a number of Inner_Iter iterations." alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node5" href="$classCSinglezoneDriver.html#ac98c6acfe034381fb3b77c6753c4d734" title="[Overload] Launch the computation for single&#45;zone problems." alt="" coords="7,57,158,98"/>
+</map>

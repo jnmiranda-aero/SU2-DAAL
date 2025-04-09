@@ -1,0 +1,10 @@
+<map id="CVertexMap::Build" name="CVertexMap::Build">
+<area shape="rect" id="node1" title="Build the point to vertex map." alt="" coords="517,143,660,170"/>
+<area shape="rect" id="node2" href="$classCSobolevSmoothingVariable.html#a77ac20c700918b8334078d3a9b7da741" title="Allocate member variables for points marked as vertex (via &quot;MarkAsBoundaryPoint&quot;)." alt="" coords="261,5,468,47"/>
+<area shape="rect" id="node4" href="$classCDiscAdjFEABoundVariable.html#a5d7ccf79425d4b332ffbf7e0405b9eed" title="Allocate member variables for points marked as vertex (via &quot;Set_isVertex&quot;)." alt="" coords="262,71,467,112"/>
+<area shape="rect" id="node6" href="$classCDiscAdjMeshBoundVariable.html#aaea48260d6aa58df1b0d0dd80728b0ea" title="Allocate member variables for points marked as vertex (via &quot;Set_isVertex&quot;)." alt="" coords="260,136,469,177"/>
+<area shape="rect" id="node7" href="$classCFEABoundVariable.html#a71f03a67df03a2631e2d2231bc58d5ab" title="Allocate member variables for points marked as vertex (via &quot;Set_isVertex&quot;)." alt="" coords="266,201,463,243"/>
+<area shape="rect" id="node8" href="$classCMeshBoundVariable.html#a18d608e26f2c28261461f7c36596f26f" title="Allocate member variables for points marked as vertex (via &quot;Set_isVertex&quot;)." alt="" coords="262,267,467,308"/>
+<area shape="rect" id="node3" href="$classCGradientSmoothingSolver.html#a388e06af9042060ac43193566bb03cc8" title="Constructor of the class." alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node5" href="$classCDiscAdjFEASolver.html#ae74a58b4ee4459687d1c4f4e0d0e15ff" title=" " alt="" coords="31,71,186,112"/>
+</map>

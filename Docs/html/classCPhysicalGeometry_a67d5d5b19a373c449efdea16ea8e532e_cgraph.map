@@ -1,0 +1,9 @@
+<map id="CPhysicalGeometry::SetSendReceive" name="CPhysicalGeometry::SetSendReceive">
+<area shape="rect" id="node1" title="Set the send receive boundaries of the grid." alt="" coords="5,141,163,182"/>
+<area shape="rect" id="node2" href="$classCPoint.html#a852297a7e4908f8bccd4e48f14df5c4c" title="Get the color of a point, the color indicates to which subdomain the point belong to." alt="" coords="257,5,386,32"/>
+<area shape="rect" id="node3" href="$classCGeometry.html#a99963e6bd2e4a26d4562f7ea5e8b8873" title="Get the number of boundary elements." alt="" coords="238,57,405,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a561073e0d8337afb1ead2080499b11af" title="Get the total number of boundary markers in the cfg plus the possible send/receive domains." alt="" coords="226,123,417,149"/>
+<area shape="rect" id="node5" href="$classCPrimalGrid.html#ad07e4929bb7093fd08f1314a57739cce" title="Get number of nodes of the element." alt="" coords="231,173,411,200"/>
+<area shape="rect" id="node6" href="$classCPrimalGrid.html#a6353b89f5a8a3948cd475da6152bf077" title="Get the nodes shared by the primal grid element." alt="" coords="239,224,404,251"/>
+<area shape="rect" id="node7" href="$classCPrimalGrid.html#ae75120f35db34c15d440f4b185bd9192" title="A pure virtual member." alt="" coords="211,275,432,301"/>
+</map>

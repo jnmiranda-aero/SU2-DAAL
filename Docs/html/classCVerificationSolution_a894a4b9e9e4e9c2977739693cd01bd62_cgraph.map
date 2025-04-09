@@ -1,0 +1,6 @@
+<map id="CVerificationSolution::GetLocalError" name="CVerificationSolution::GetLocalError">
+<area shape="rect" id="node1" title="Get the local error defined as the local solution minus the verification solution." alt="" coords="5,5,163,47"/>
+<area shape="rect" id="node2" href="$classCVerificationSolution.html#a192fbe5cbcd3b6df65271ad0547bc181" title="Get the exact solution at the current position and time." alt="" coords="211,5,368,47"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="416,13,597,39"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="645,13,831,39"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CPhysicalGeometry::LoadLinearlyPartitionedPoints" name="CPhysicalGeometry::LoadLinearlyPartitionedPoints">
+<area shape="rect" id="node1" title="Routine to load the CGNS grid points from a single zone into the proper SU2 data structures." alt="" coords="5,100,220,141"/>
+<area shape="rect" id="node2" href="$classCLinearPartitioner.html#a707f3e0894f386e591083318ee7765b7" title="Get the first index of the current rank&#39;s linear partition." alt="" coords="287,5,455,47"/>
+<area shape="rect" id="node3" href="$classCMeshReaderFVM.html#a2f934ee34f870827d92f56beea339f76" title="Get the local point coordinates (linearly partitioned)." alt="" coords="268,71,475,112"/>
+<area shape="rect" id="node4" href="$classCPoint.html#af3545cace579269797a534b6a10a42e1" title="Set the coordinates for the control volume." alt="" coords="306,137,437,163"/>
+<area shape="rect" id="node5" href="$classCPoint.html#a6ebbb35fdc230e1bef0d870dd5c09ab2" title="Set the global index in a parallel computation." alt="" coords="286,187,457,214"/>
+</map>

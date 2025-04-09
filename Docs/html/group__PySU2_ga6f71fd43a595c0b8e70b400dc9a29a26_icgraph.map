@@ -1,0 +1,5 @@
+<map id="CDriverBase::GetNumberNodes" name="CDriverBase::GetNumberNodes">
+<area shape="rect" id="node1" title="Get the number of nodes in the mesh (including halos)." alt="" coords="272,35,499,61"/>
+<area shape="rect" id="node2" href="$group__PySU2.html#ga9fc66eee9b5d2acd0561ac354fb2b8c9" title="Get the halo flag of a mesh node." alt="" coords="5,5,224,32"/>
+<area shape="rect" id="node3" href="$group__PySU2.html#gab0c79d4970a59480e2a1e5b693215dd5" title="Get the global node index." alt="" coords="9,57,220,98"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="computeStaticChunkSize" name="computeStaticChunkSize">
+<area shape="rect" id="node1" title="Compute a chunk size based on totalWork and number of threads such that all threads get the same numb..." alt="" coords="5,5,189,32"/>
+<area shape="rect" id="node2" href="$omp__structure_8hpp.html#a1c00281f52b615b111a4990b2d2a5157" title="Integer division rounding up." alt="" coords="237,5,336,32"/>
+</map>

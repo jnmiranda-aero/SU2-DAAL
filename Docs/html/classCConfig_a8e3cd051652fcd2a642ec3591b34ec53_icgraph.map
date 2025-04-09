@@ -1,0 +1,7 @@
+<map id="CConfig::GetMesh_FileFormat" name="CConfig::GetMesh_FileFormat">
+<area shape="rect" id="node1" title="Get the format of the input/output grid." alt="" coords="540,93,755,120"/>
+<area shape="rect" id="node2" href="$classCDummyGeometry.html#a4aa99e7c9145b9f4e3809a91f103606b" title="Constructor of the class." alt="" coords="211,5,492,32"/>
+<area shape="rect" id="node3" href="$classCDummyMeshFEM__DG.html#a292c0e183f7ee0db7badeccc4bd05ac4" title="Constructor of the class." alt="" coords="230,57,473,98"/>
+<area shape="rect" id="node4" href="$classCPhysicalGeometry.html#a075a737b341a64de5463ddd41096692e" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file." alt="" coords="5,145,163,186"/>
+<area shape="rect" id="node5" href="$classCPhysicalGeometry.html#a88fc7f2ba5656a97d1e34884b51ae984" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file in para..." alt="" coords="273,174,430,215"/>
+</map>

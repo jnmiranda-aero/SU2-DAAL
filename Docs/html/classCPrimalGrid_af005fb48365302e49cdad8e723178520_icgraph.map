@@ -1,0 +1,7 @@
+<map id="CPrimalGrid::GetJacobianConstantFace" name="CPrimalGrid::GetJacobianConstantFace">
+<area shape="rect" id="node1" title="Get whether or not the Jacobian of the given face is considered constant." alt="" coords="507,57,693,98"/>
+<area shape="rect" id="node2" href="$classCMeshFEM.html#ae74b12670fb49ad4d28836d9fc2aab8d" title="Redistributes the grid over the ranks and creates the halo layer." alt="" coords="262,5,437,32"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#ac8396196dddd6caec922418eaf7d7a2a" title="Compute the weights of the FEM graph for ParMETIS." alt="" coords="249,57,449,98"/>
+<area shape="rect" id="node5" href="$classCPhysicalGeometry.html#acef4e18142b580bf09f21e5b71387d5f" title="Determine the donor elements for the boundary elements on viscous wall boundaries when wall functions..." alt="" coords="240,123,459,179"/>
+<area shape="rect" id="node4" href="$classCPhysicalGeometry.html#a0a1295415b0ff3105673f5733682e151" title="Set the domains for FEM grid partitioning using ParMETIS." alt="" coords="5,94,192,135"/>
+</map>

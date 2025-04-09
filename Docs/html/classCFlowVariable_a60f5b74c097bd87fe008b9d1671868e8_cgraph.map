@@ -1,0 +1,23 @@
+<map id="CFlowVariable::CFlowVariable" name="CFlowVariable::CFlowVariable">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,397,221,423"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a1eb754aa86fb8154bc9eefea616b7cf9" title="Determines if problem is adjoint." alt="" coords="305,5,481,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#ac664a20b0a09ab14844dc6326290f0a0" title="Get the kind of convective numerical scheme for the flow equations (centered or upwind)." alt="" coords="291,71,494,112"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a31504bfdad401a8879a9e0a121320f96" title="Get the method for limiting the spatial gradients." alt="" coords="269,137,516,163"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a331e1d20385c17b59007f27f7c41ceab" title="Get flag for whether a least&#45;squares gradient method is being applied." alt="" coords="297,188,488,229"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a14fdc00477b0b4a4268785c9c5374be1" title="Get the number of implicit Jacobi smoothings of the correction in a multigrid strategy." alt="" coords="281,254,505,281"/>
+<area shape="rect" id="node7" href="$classCConfig.html#abafdda03255a7f71a9701ded02f6d231" title="Get whether the simulation we are running is a multizone simulation." alt="" coords="309,305,476,347"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a97ba000591a72e4d8f0fc71bc75bd38a" title="Get if the upwind scheme used MUSCL or not." alt="" coords="299,371,486,398"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a15a61a6f9a1d415c3509018f4916c5c1" title="Get the number of multigrid levels." alt="" coords="305,422,480,449"/>
+<area shape="rect" id="node10" href="$classCConfig.html#a350466e9cc76639fb07c59ac43288bb8" title="Get flag for whether a second gradient calculation is required for upwind reconstruction alone." alt="" coords="293,473,493,515"/>
+<area shape="rect" id="node11" href="$classCConfig.html#ac47e04d76ce865893a94dcedd3c9b6a5" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="291,539,494,566"/>
+<area shape="rect" id="node12" href="$classCConfig.html#ad59acb5f80aaddccaa0f2f5bef3e3e78" title="Determines if problem is viscous." alt="" coords="316,590,469,617"/>
+<area shape="rect" id="node13" href="$classC2DContainer.html#adefb48b593f76aa322e228fea8f76127" title="Request a change of size." alt="" coords="313,641,472,667"/>
+<area shape="rect" id="node14" href="$classC3DContainerDecorator.html#a8c74bf28bf8d6882e14635fecb0d5e82" title=" " alt="" coords="305,692,481,733"/>
+<area shape="rect" id="node18" href="$classCVariable.html#aa47456564bac33106a460be201d4c843" title="Set the value of the solution in the previous BGS subiteration." alt="" coords="285,826,500,853"/>
+<area shape="rect" id="node15" href="$classC3DContainerDecorator.html#a27e2d1c9d2121ddcf201b7a6e29b3004" title=" " alt="" coords="564,593,740,635"/>
+<area shape="rect" id="node16" href="$classC3DContainerDecorator.html#a50d183db869393fe41fe144eff3e18f6" title=" " alt="" coords="564,659,740,700"/>
+<area shape="rect" id="node17" href="$classC3DContainerDecorator.html#a517ccb480bb1d1e919f5dc562d4574c6" title=" " alt="" coords="564,724,740,765"/>
+<area shape="rect" id="node19" href="$classcontainer__details_1_1AccessorImpl.html#a5b5318f7212e57c13e464c398f74b3d5" title=" " alt="" coords="579,789,725,831"/>
+<area shape="rect" id="node20" href="$omp__structure_8hpp.html#a3af8b37ed645164f4c3441fa75e5fa76" title="Copy data from one array&#45;like object to another in parallel." alt="" coords="600,855,704,882"/>
+<area shape="rect" id="node21" href="$classC2DContainer.html#a8278113dbcf54123f9852e7e44583759" title=" " alt="" coords="579,906,725,933"/>
+</map>

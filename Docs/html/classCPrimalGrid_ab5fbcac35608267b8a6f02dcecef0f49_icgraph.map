@@ -1,0 +1,12 @@
+<map id="CPrimalGrid::GetGlobalIndex" name="CPrimalGrid::GetGlobalIndex">
+<area shape="rect" id="node1" title="Get the element global index in a parallel computation." alt="" coords="1032,163,1241,190"/>
+<area shape="rect" id="node2" href="$classCFEASolver.html#a6dcdd292eefa3b65d98bfa524f56a274" title="A virtual member." alt="" coords="759,5,956,47"/>
+<area shape="rect" id="node3" href="$classCGeometry.html#aaef960cf36701d56d1d8410bd0ab67fa" title="Filter values given at the element CG by performing a weighted average over a radial neighbourhood." alt="" coords="489,127,683,168"/>
+<area shape="rect" id="node6" href="$group__PySU2.html#ga292123148661e2e80c315097a570b0ee" title="Get the global index of a mesh element." alt="" coords="742,123,973,164"/>
+<area shape="rect" id="node7" href="$classCGeometry.html#a65e8021c9f7ecf79323ce9b88ab82e55" title="Build the global (entire mesh!) adjacency matrix for the elements in compressed format...." alt="" coords="746,188,969,229"/>
+<area shape="rect" id="node8" href="$group__PySU2.html#gaf09397c5ffd33355cd1905862973b63e" title="Get the global index of a marker element." alt="" coords="741,253,974,295"/>
+<area shape="rect" id="node9" href="$classCFEASolver.html#a30646a552a50f0361d80ba99149eeff1" title="Set container of element properties." alt="" coords="731,319,984,346"/>
+<area shape="rect" id="node4" href="$classCFEASolver.html#a7e11c36921b2c146ca2fd7d1a0512ffd" title="Filter the density field for topology optimization applications." alt="" coords="249,127,441,168"/>
+<area shape="rect" id="node5" href="$classCFEASolver.html#a353159e003821dae0668dcfe7281bd68" title="Set residuals to zero." alt="" coords="5,134,201,161"/>
+<area shape="rect" id="node10" href="$classCFEASolver.html#a1d4c7d17d9c7143d3079fc78fae1599d" title=" " alt="" coords="496,319,676,346"/>
+</map>

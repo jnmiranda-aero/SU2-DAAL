@@ -1,0 +1,9 @@
+<map id="SU2_CFD/include/numerics/scalar/scalar_sources.hpp" name="SU2_CFD/include/numerics/scalar/scalar_sources.hpp">
+<area shape="rect" id="node1" title="Declarations of numerics classes for integration of source terms in scalar problems." alt="" coords="252,5,449,47"/>
+<area shape="rect" id="node2" href="$species__sources_8hpp.html" title="Declarations of numerics classes for integration of source terms in species problems." alt="" coords="474,102,688,143"/>
+<area shape="rect" id="node3" href="$CDriver_8cpp.html" title="The main subroutines for driving single or multi&#45;zone problems." alt="" coords="162,199,317,240"/>
+<area shape="rect" id="node5" href="$trans__sources_8hpp.html" title="Numerics classes for integration of source terms in transition problems." alt="" coords="29,95,226,151"/>
+<area shape="rect" id="node6" href="$turb__sources_8hpp.html" title="Numerics classes for integration of source terms in turbulence problems." alt="" coords="250,102,450,143"/>
+<area shape="rect" id="node7" href="$scalar__sources_8cpp.html" title="Implementation of numerics classes for integration of scalar source&#45;terms." alt="" coords="712,102,904,143"/>
+<area shape="rect" id="node4" href="$species__sources_8cpp.html" title="Implementation of numerics classes for integration of species transport source&#45;terms." alt="" coords="475,199,687,240"/>
+</map>

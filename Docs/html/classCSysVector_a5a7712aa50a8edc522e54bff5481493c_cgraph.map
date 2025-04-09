@@ -1,0 +1,8 @@
+<map id="CSysVector::squaredNorm" name="CSysVector::squaredNorm">
+<area shape="rect" id="node1" title="Squared L2 norm of the vector (via dot with self)." alt="" coords="5,85,196,112"/>
+<area shape="rect" id="node2" href="$classCSysVector.html#a96c613a08177a0f6105a635a92b138b0" title="Dot product between &quot;this&quot; and an expression." alt="" coords="244,85,368,112"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="419,5,629,32"/>
+<area shape="rect" id="node4" href="$omp__structure_8hpp.html#a9465b8cb1d384f41bbb5f3c04ec815de" title="Atomically update a (shared) lhs value with a (local) rhs value." alt="" coords="478,56,570,83"/>
+<area shape="rect" id="node5" href="$classVecExpr_1_1CVecExpr.html#a115df29cff21df9afb1271565c42b37c" title="Cast the expression to Derived, usually to allow evaluation via operator[]." alt="" coords="449,107,599,149"/>
+<area shape="rect" id="node6" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="416,173,632,200"/>
+</map>

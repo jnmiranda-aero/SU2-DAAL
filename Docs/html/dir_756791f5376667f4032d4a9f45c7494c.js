@@ -10,6 +10,12 @@ var dir_756791f5376667f4032d4a9f45c7494c =
     [ "CGradSmoothing.hpp", "CGradSmoothing_8hpp.html", null ],
     [ "CNumerics.hpp", "CNumerics_8hpp.html", "CNumerics_8hpp" ],
     [ "heat.hpp", "heat_8hpp.html", null ],
-    [ "radiation.hpp", "radiation_8hpp.html", "radiation_8hpp" ],
-    [ "template.hpp", "template_8hpp.html", "template_8hpp" ]
+    [ "radiation.hpp", "radiation_8hpp.html", [
+      [ "CNumericsRadiation", "classCNumericsRadiation.html", "classCNumericsRadiation" ],
+      [ "CSourceP1", "classCSourceP1.html", "classCSourceP1" ],
+      [ "CAvgGradCorrected_P1", "classCAvgGradCorrected__P1.html", "classCAvgGradCorrected__P1" ]
+    ] ],
+    [ "template.hpp", "template_8hpp.html", [
+      [ "CConvective_Template", "classCConvective__Template.html", "classCConvective__Template" ]
+    ] ]
 ];

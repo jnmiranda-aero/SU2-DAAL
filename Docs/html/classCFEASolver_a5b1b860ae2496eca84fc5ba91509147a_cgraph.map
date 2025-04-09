@@ -1,0 +1,12 @@
+<map id="CFEASolver::SetAitken_Relaxation" name="CFEASolver::SetAitken_Relaxation">
+<area shape="rect" id="node1" title="Aitken&#39;s relaxation of the solution." alt="" coords="5,217,172,258"/>
+<area shape="rect" id="node2" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="238,5,406,32"/>
+<area shape="rect" id="node3" href="$classCVariable.html#aea48aeef62d1f699f078e3295ce27c02" title="A virtual member. Get the solution at time n." alt="" coords="220,56,424,83"/>
+<area shape="rect" id="node4" href="$classCVariable.html#ae403ee21871629716cbabead1c587dac" title="Get the velocity (Structural Analysis)." alt="" coords="225,107,419,133"/>
+<area shape="rect" id="node5" href="$classCVariable.html#af131195e6569dacff0c2ab9673f1018c" title="A virtual member. Get the velocity solution predictor." alt="" coords="238,158,406,199"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a85d2e3cf43b77c63642c40c235b853f3" title="Check if the multizone problem is solved for time domain." alt="" coords="225,224,419,251"/>
+<area shape="rect" id="node7" href="$classCVariable.html#a6ee4d8d450971204cc054a33d6473732" title="Set the value of the old solution." alt="" coords="225,275,419,301"/>
+<area shape="rect" id="node8" href="$classCVariable.html#a9cf459fc77ac29a352f7917b50b096ae" title="A virtual member. Set the value of the old solution." alt="" coords="221,325,423,352"/>
+<area shape="rect" id="node9" href="$classCVariable.html#aa87873f92db682ed830b7c987336f5ef" title="A virtual member. Set the value of the old solution." alt="" coords="239,377,405,418"/>
+<area shape="rect" id="node10" href="$classCVariable.html#a770bd5cf8fc7dad248968cbc8b1c7d4c" title="A virtual member. Set the value of the velocity solution predictor." alt="" coords="239,442,405,483"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CSGSModel::ComputeEddyViscosity_2D" name="CSGSModel::ComputeEddyViscosity_2D">
+<area shape="rect" id="node1" title="Virtual function to determine the eddy viscosity for the given function arguments for a 2D simulation..." alt="" coords="304,35,584,61"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__NSSolver.html#a1d77cb51e0eb51dfb95735ac965ac176" title="Function to compute the time step for solving the Navier&#45;Stokes equations." alt="" coords="5,5,256,32"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__NSSolver.html#ace5ac45857734f2e764b4072249e5c2d" title="Compute the volume contributions to the spatial residual." alt="" coords="26,57,235,98"/>
+</map>

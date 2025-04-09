@@ -1,0 +1,52 @@
+<map id="SU2_CFD/src/solvers/CNSSolver.cpp" name="SU2_CFD/src/solvers/CNSSolver.cpp">
+<area shape="rect" id="node1" title="Main subroutines for solving Finite&#45;Volume Navier&#45;Stokes flow problems." alt="" coords="1630,5,1786,47"/>
+<area shape="rect" id="node2" href="$CNSSolver_8hpp.html" title="Headers of the CNSSolver class." alt="" coords="1514,95,1658,136"/>
+<area shape="rect" id="node10" href="$geometry__toolbox_8hpp.html" title="Collection of common lightweight geometry&#45;oriented methods." alt="" coords="2033,452,2273,493"/>
+<area shape="rect" id="node33" href="$CNSVariable_8hpp.html" title="Class for defining the variables of the compressible Navier&#45;Stokes solver." alt="" coords="1293,95,1450,136"/>
+<area shape="rect" id="node34" href="$printing__toolbox_8hpp.html" title="Header file for the printing toolbox." alt="" coords="1594,363,1821,404"/>
+<area shape="rect" id="node38" href="$CFVMFlowSolverBase_8inl.html" title="Base class template for all FVM flow solvers." alt="" coords="2340,184,2528,225"/>
+<area shape="rect" id="node3" href="$CEulerSolver_8hpp.html" title="Headers of the CEulerSolver class." alt="" coords="1408,191,1540,218"/>
+<area shape="rect" id="node4" href="$CFVMFlowSolverBase_8hpp.html" title="Base class template for all FVM flow solvers." alt="" coords="1378,281,1570,307"/>
+<area shape="rect" id="node31" href="$CEulerVariable_8hpp.html" title="Class for defining the variables of the compressible Euler solver." alt="" coords="644,281,865,307"/>
+<area shape="rect" id="node5" href="$omp__structure_8hpp.html" title="OpenMP interface header, provides compatibility functions if the code is built without OpenMP support..." alt="" coords="1361,795,1606,836"/>
+<area shape="rect" id="node12" href="$CSolver_8hpp.html" title="Headers of the CSolver class which is inherited by all of the other solvers." alt="" coords="982,370,1081,397"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1324,884,1395,911"/>
+<area shape="rect" id="node7" href="$code__config_8hpp.html" title="Header file for collecting common macros, definitions and type configurations." alt="" coords="1045,884,1184,911"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1454,884,1513,911"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1892,959,1984,985"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1271,549,1334,575"/>
+<area shape="rect" id="node13" href="$mpi__structure_8hpp.html" title="Headers of the mpi interface for generalized datatypes. The subroutines and functions are in the mpi_..." alt="" coords="363,541,604,583"/>
+<area shape="rect" id="node14" title=" " alt="" coords="75,638,146,665"/>
+<area shape="rect" id="node16" title=" " alt="" coords="444,720,524,747"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1510,459,1569,486"/>
+<area shape="rect" id="node21" title=" " alt="" coords="954,459,1027,486"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1412,459,1486,486"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2394,549,2480,575"/>
+<area shape="rect" id="node24" title=" " alt="" coords="1052,459,1094,486"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1118,459,1185,486"/>
+<area shape="rect" id="node26" href="$CFluidModel_8hpp.html" title="Defines the main fluid model class for thermophysical properties." alt="" coords="755,459,930,486"/>
+<area shape="rect" id="node27" href="$task__definition_8hpp.html" title="Header of the task definition class for the SU2 solvers." alt="" coords="87,459,246,486"/>
+<area shape="rect" id="node28" href="$CNumerics_8hpp.html" title="Declaration of the base numerics class, the implementation is in the CNumerics.cpp file." alt="" coords="533,459,730,486"/>
+<area shape="rect" id="node30" href="$CVariable_8hpp.html" title="Declaration and inlines of the parent class for defining problem variables, function definitions in f..." alt="" coords="270,459,458,486"/>
+<area shape="rect" id="node15" href="$datatype__structure_8hpp.html" title="Headers for generalized datatypes, defines an interface for AD types." alt="" coords="1085,631,1258,672"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1122,720,1200,747"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1225,720,1286,747"/>
+<area shape="rect" id="node19" href="$ad__structure_8hpp.html" title="Main routines for the algorithmic differentiation (AD) structure." alt="" coords="966,720,1097,747"/>
+<area shape="rect" id="node29" title=" " alt="" coords="118,549,177,575"/>
+<area shape="rect" id="node32" href="$CFlowVariable_8hpp.html" title="Class for defining the common variables of flow solvers." alt="" coords="487,370,630,397"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1745,459,1820,486"/>
+<area shape="rect" id="node36" title=" " alt="" coords="2016,549,2082,575"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1946,459,2008,486"/>
+<area shape="rect" id="node39" href="$computeGradientsGreenGauss_8hpp.html" title="Generic implementation of Green&#45;Gauss gradient computation." alt="" coords="2202,273,2421,315"/>
+<area shape="rect" id="node41" href="$computeGradientsLeastSquares_8hpp.html" title="Generic implementation of Least&#45;Squares gradient computation." alt="" coords="2448,273,2666,315"/>
+<area shape="rect" id="node42" href="$computeLimiters_8hpp.html" title="Compute limiters wrapper function." alt="" coords="3349,281,3576,307"/>
+<area shape="rect" id="node45" href="$CNumericsSIMD_8hpp.html" title="Vectorized (SIMD) numerics classes." alt="" coords="2696,273,2904,315"/>
+<area shape="rect" id="node40" href="$correctGradientsSymmetry_8hpp.html" title="Implements the symmetry boundary conditions for the gradient computations." alt="" coords="2449,370,2673,397"/>
+<area shape="rect" id="node43" href="$CLimiterDetails_8hpp.html" title="A class template that allows defining limiters via specialization of particular details." alt="" coords="3584,370,3735,397"/>
+<area shape="rect" id="node44" href="$computeLimiters__impl_8hpp.html" title="Generic computation of limiters." alt="" coords="3364,370,3560,397"/>
+<area shape="rect" id="node46" href="$vectorization_8hpp.html" title="Implementation of a portable SIMD type." alt="" coords="2737,363,2876,404"/>
+<area shape="rect" id="node47" href="$vector__expressions_8hpp.html" title="Expression templates for vector types with coefficient&#45;wise operations." alt="" coords="2551,452,2723,493"/>
+<area shape="rect" id="node48" title=" " alt="" coords="2850,459,2960,486"/>
+<area shape="rect" id="node49" title=" " alt="" coords="2984,459,3076,486"/>
+<area shape="rect" id="node50" href="$special__vectorization_8hpp.html" title="Code generator header to create specializations of simd::Array." alt="" coords="3100,459,3288,486"/>
+</map>

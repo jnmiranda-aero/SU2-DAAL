@@ -1,0 +1,8 @@
+<map id="CConfig::SetMGLevels" name="CConfig::SetMGLevels">
+<area shape="rect" id="node1" title="Set the number of multigrid levels." alt="" coords="555,78,720,105"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#aefb49eb19a8516eac711b7fd0214ae74" title="Check the mesh for periodicity and deactivate multigrid if periodicity is found." alt="" coords="346,5,503,47"/>
+<area shape="rect" id="node3" href="$classCMultiGridGeometry.html#a59a712b6935d3057542cc1481e44c1c3" title="Constructor of the class." alt="" coords="343,71,507,112"/>
+<area shape="rect" id="node4" href="$classCDeformationDriver.html#a65c57fd20981a9d24e54421f381e0570" title="Mesh deformation based on linear elasticity solver (CMeshSolver)." alt="" coords="348,136,501,177"/>
+<area shape="rect" id="node5" href="$classCDeformationDriver.html#aa6da6453a3790a001ed9cb135926e107" title="Launch the driver computation." alt="" coords="108,143,295,170"/>
+<area shape="rect" id="node6" href="$SU2__DEF_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,143,60,170"/>
+</map>

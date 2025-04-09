@@ -1,0 +1,5 @@
+<map id="CFVMFlowSolverBase::ompMasterAssignBarrier" name="CFVMFlowSolverBase::ompMasterAssignBarrier">
+<area shape="rect" id="node1" title="Utility to set the value of a member variables safely, and so that the new values are seen by all thr..." alt="" coords="288,39,479,80"/>
+<area shape="rect" id="node2" href="$classCFVMFlowSolverBase.html#af84f9a0d4de3df7d82cef37eae94f739" title="Evaluate the vorticity and strain rate magnitude." alt="" coords="5,5,240,47"/>
+<area shape="rect" id="node3" href="$classCFVMFlowSolverBase.html#aceafd6d8a3ef6e189711df90c7dbe38e" title="Generic implementation to compute the time step based on CFL and conv/visc eigenvalues." alt="" coords="41,71,205,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CPhysicalGeometry::Check_Periodicity" name="CPhysicalGeometry::Check_Periodicity">
+<area shape="rect" id="node1" title="Check the mesh for periodicity and deactivate multigrid if periodicity is found." alt="" coords="5,64,163,105"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a8d41ac571359049bbdc4b7927e7c328a" title="Get the total number of periodic markers." alt="" coords="220,5,376,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a15a61a6f9a1d415c3509018f4916c5c1" title="Get the number of multigrid levels." alt="" coords="211,71,385,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#aa4df56597133c806ce1d2d943496dd25" title="Set the number of multigrid levels." alt="" coords="215,122,381,149"/>
+</map>

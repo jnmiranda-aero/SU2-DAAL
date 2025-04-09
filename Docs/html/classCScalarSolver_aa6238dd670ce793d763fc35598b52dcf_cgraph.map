@@ -1,0 +1,11 @@
+<map id="CScalarSolver::CommonPreprocessing" name="CScalarSolver::CommonPreprocessing">
+<area shape="rect" id="node1" title="Gradient and Limiter computation." alt="" coords="5,217,276,244"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a079a90396222697f01e0c365285c915d" title="Get the current FSI iteration number." alt="" coords="349,5,507,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a83d5144467a2c2fa78a7f9cc19026421" title="Get the kind of method for computation of spatial gradients used for viscous and source terms." alt="" coords="331,57,525,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#af59700a2ce4edce862248ba52bdca025" title="Get the kind of method for computation of spatial gradients used for upwind reconstruction." alt="" coords="331,122,525,163"/>
+<area shape="rect" id="node5" href="$classCConfig.html#aa19c5f5780613a62cae13b9b6bab0239" title="Get the method for limiting the spatial gradients." alt="" coords="324,188,532,215"/>
+<area shape="rect" id="node6" href="$classCConfig.html#ad16f71356f146b530fb1fbb45444525c" title="Get the kind of time integration method." alt="" coords="333,239,523,281"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a2d4ce64f8b8f417d7e67651598fbb530" title="Freeze the value of the limiter after a number of iterations." alt="" coords="343,305,513,332"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a7e6e683aabaedf5d0cb90ea63cf619a2" title="Get if the upwind scheme used MUSCL or not." alt="" coords="353,356,503,383"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a350466e9cc76639fb07c59ac43288bb8" title="Get flag for whether a second gradient calculation is required for upwind reconstruction alone." alt="" coords="328,407,528,449"/>
+</map>

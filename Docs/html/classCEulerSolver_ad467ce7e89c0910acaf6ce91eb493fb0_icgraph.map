@@ -1,0 +1,4 @@
+<map id="CEulerSolver::LowMachPrimitiveCorrection" name="CEulerSolver::LowMachPrimitiveCorrection">
+<area shape="rect" id="node1" title="Apply low Mach number correction to the primitives at two points, usually connected by an edge." alt="" coords="216,5,449,47"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#aa9729921eed9546daca6ca891ad2a9bb" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,5,168,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CConfig::GetUpdate_AoA_Iter_Limit" name="CConfig::GetUpdate_AoA_Iter_Limit">
+<area shape="rect" id="node1" title="Get the maximum number of iterations between AoA updates for fixed C_L mode." alt="" coords="561,35,712,76"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#ae42ef80597bae24c0e63411b6b2b8c2b" title="Check for convergence of the Fixed CL mode to the target CL." alt="" coords="315,5,477,47"/>
+<area shape="rect" id="node3" href="$classCAdjEulerSolver.html#a5265a44e6c43dee677c9f26333148432" title="Update the AoA and freestream velocity at the farfield." alt="" coords="279,71,513,98"/>
+<area shape="rect" id="node4" href="$classCAdjEulerSolver.html#a64baf8c7af6006bdc4ad0919f7c2507a" title="Initialize the residual vectors." alt="" coords="5,46,231,73"/>
+<area shape="rect" id="node5" href="$classCAdjNSSolver.html#a0669f6fb8ef7cd7800d151d4aff7d3f6" title="Restart residual and compute gradients." alt="" coords="13,97,223,123"/>
+</map>

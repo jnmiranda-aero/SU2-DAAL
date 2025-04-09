@@ -1,0 +1,9 @@
+<map id="COutput::ComputeSimpleCustomOutputs" name="COutput::ComputeSimpleCustomOutputs">
+<area shape="rect" id="node1" title="Evaluates function&#45;type custom outputs. Derived classes can use this to compute simple expressions of..." alt="" coords="5,62,243,103"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="533,40,715,67"/>
+<area shape="rect" id="node4" href="$classCConfig.html#ab3928c4e6debcf50dcd0d38985f6980c" title="Get the indicator whether we are solving an discrete adjoint problem." alt="" coords="309,29,467,70"/>
+<area shape="rect" id="node5" href="$classCOutput.html#a63d0e938cb68357fb461c52e53dc1f15" title="Returns a pointer to the value of an history output." alt="" coords="295,159,481,201"/>
+<area shape="rect" id="node7" href="$classCOutput.html#a1c1f836992f419544472329a44b8836e" title="Set the value of a history output field." alt="" coords="291,94,485,135"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="763,40,948,67"/>
+<area shape="rect" id="node6" href="$namespacePrintingToolbox.html#a51e75cb0cbc3607ee171ab151ca06a11" title=" " alt="" coords="547,167,701,193"/>
+</map>

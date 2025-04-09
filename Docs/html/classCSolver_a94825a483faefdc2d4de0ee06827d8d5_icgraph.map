@@ -1,0 +1,7 @@
+<map id="CSolver::BC_Inlet" name="CSolver::BC_Inlet">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="487,64,621,91"/>
+<area shape="rect" id="node2" href="$classCTurbSolver.html#a06a6a0bf51e15e00da2e5fd628f9f217" title="Impose via the residual the Euler wall boundary condition." alt="" coords="235,5,426,32"/>
+<area shape="rect" id="node3" href="$classCScalarSolver.html#ad892325e7f30f2753e0fda2319c4a017" title="Impose the supersonic inlet boundary condition (same as inlet, see BC_Inlet)." alt="" coords="223,57,439,98"/>
+<area shape="rect" id="node4" href="$classCIntegration.html#af7aa23ef26b19cb2e73a8df6c7924d91" title="Do the space integration of the numerical system." alt="" coords="256,122,405,163"/>
+<area shape="rect" id="node5" href="$classCSingleGridIntegration.html#a62ebec93c34c032bcfacc24f8613fd9b" title="Do the numerical integration (implicit) of the turbulence solver." alt="" coords="5,122,175,163"/>
+</map>

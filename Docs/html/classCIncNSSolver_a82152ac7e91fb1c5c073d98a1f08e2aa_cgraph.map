@@ -1,0 +1,9 @@
+<map id="CIncNSSolver::CIncNSSolver" name="CIncNSSolver::CIncNSSolver">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,159,209,185"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a1756760d4a98f886411a703d71bda3f2" title="Get the direct differentation method." alt="" coords="289,5,454,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#aae21b37c088347be2a7e02fc0ad4e4c4" title="Get information about the streamwise periodicity (None, Pressure_Drop, Massflow)." alt="" coords="263,57,479,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a6ce7abeeb725447710e23c51efb403a6" title="Get the value of the pressure delta from which body force vector is computed." alt="" coords="281,122,461,163"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a15b6f9a9ef3431c9478f68b6017b0137" title="Get the value of the non&#45;dimensionalized freestream viscosity." alt="" coords="257,188,485,215"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a07714d2b67cf861cdb43891e2ff4f318" title="Get the value of the non&#45;dimensionalized freestream viscosity." alt="" coords="290,239,453,281"/>
+<area shape="rect" id="node7" href="$namespaceSU2__TYPE.html#ab0b85db43e1495ffbb0f2c823f24935e" title="Set the derivative value of the datatype (needs to be implemented for each new type)." alt="" coords="279,305,463,332"/>
+</map>

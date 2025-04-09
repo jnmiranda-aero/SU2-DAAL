@@ -1,0 +1,4 @@
+<map id="CFVMFlowSolverBase::BC_Sym_Plane" name="CFVMFlowSolverBase::BC_Sym_Plane">
+<area shape="rect" id="node1" title="Impose the symmetry boundary condition using the residual." alt="" coords="217,5,381,47"/>
+<area shape="rect" id="node2" href="$classCFVMFlowSolverBase.html#ac0dd34dcbe800854feafb83f174a500e" title="Impose via the residual the Euler wall boundary condition." alt="" coords="5,5,169,47"/>
+</map>

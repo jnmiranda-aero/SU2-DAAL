@@ -1,0 +1,11 @@
+<map id="CSurfaceMovement::SetFFDThickness_2D" name="CSurfaceMovement::SetFFDThickness_2D">
+<area shape="rect" id="node1" title="Set a thickness deformation of the Free From box using the control point position." alt="" coords="5,157,300,184"/>
+<area shape="rect" id="node2" href="$classCConfig.html#af6f7c23871fd1b634ff53432ef1d04b9" title="Value of the design variable step, we use this value in design problems." alt="" coords="373,5,539,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#ad8359bfec369e78a6a4d0c3039ffe547" title="Get the FFD Tag of a particular design variable." alt="" coords="381,56,531,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a8337efa2e48c252eca24825437cb288b" title="Get the scale factor for the line search." alt="" coords="351,107,561,133"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a59a16b5d22ccd10cf9e3bd7790fdf7c3" title="Get a parameter of the particular design variable." alt="" coords="375,157,537,184"/>
+<area shape="rect" id="node6" href="$classCFreeFormDefBox.html#a7d9080bb108f0ac61c53b24f031f1f86" title="Get the tag that identify a FFDBox." alt="" coords="359,208,553,235"/>
+<area shape="rect" id="node7" href="$namespaceSU2__TYPE.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="400,259,512,285"/>
+<area shape="rect" id="node9" href="$classCFreeFormDefBox.html#abee73537bc43cee2a663ef3597be7c51" title="Set the new value of the coordinates of the control points." alt="" coords="348,310,564,351"/>
+<area shape="rect" id="node8" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="612,259,767,285"/>
+</map>

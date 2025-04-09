@@ -1,0 +1,7 @@
+<map id="CTurbSolver::BC_TurboRiemann" name="CTurbSolver::BC_TurboRiemann">
+<area shape="rect" id="node1" title="Impose via the residual the Euler wall boundary condition." alt="" coords="5,85,231,112"/>
+<area shape="rect" id="node2" href="$classCSolver.html#a7f1b00f2093b40c98760b58a8091e221" title="A virtual member." alt="" coords="279,5,455,32"/>
+<area shape="rect" id="node3" href="$classCSolver.html#abe63c6057695d29b2c4d1a1f49c223a9" title="A virtual member." alt="" coords="294,56,439,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#add316d9d3df8e7ad23763a203add8dc0" title="Get Kind Data of Riemann boundary." alt="" coords="281,107,452,149"/>
+<area shape="rect" id="node5" href="$classCConfig.html#ab8c9c1f45950a29355be4ff357049440" title="Get the index of the surface defined in the geometry file." alt="" coords="293,173,441,214"/>
+</map>

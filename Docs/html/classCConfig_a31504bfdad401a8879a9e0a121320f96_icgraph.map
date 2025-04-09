@@ -1,0 +1,22 @@
+<map id="CConfig::GetKind_SlopeLimit_Flow" name="CConfig::GetKind_SlopeLimit_Flow">
+<area shape="rect" id="node1" title="Get the method for limiting the spatial gradients." alt="" coords="533,436,780,463"/>
+<area shape="rect" id="node2" href="$classCFlowVariable.html#a60f5b74c097bd87fe008b9d1671868e8" title="Constructor of the class." alt="" coords="241,5,457,32"/>
+<area shape="rect" id="node3" href="$classCFlowCompOutput.html#a4dbb2657e6ea72800af13ddf08789276" title="Set the values of the volume output fields for a point." alt="" coords="218,56,481,83"/>
+<area shape="rect" id="node4" href="$classCFlowIncOutput.html#a72e2584bbcbcf7e3a94dae5344953f08" title="Set the values of the volume output fields for a point." alt="" coords="227,107,471,133"/>
+<area shape="rect" id="node5" href="$classCNEMOCompOutput.html#a89eba9a2ef60d470409b605e9a06140b" title="Set the values of the volume output fields for a point." alt="" coords="213,157,485,184"/>
+<area shape="rect" id="node6" href="$classCEulerSolver.html#ab08b6aa95648e7ab973f9f247fe54b31" title="Compute primitive variables and their gradients." alt="" coords="247,208,451,235"/>
+<area shape="rect" id="node7" href="$classCIncEulerSolver.html#aac33066eba6bdbe02693afb992e307d8" title="Compute primitive variables and their gradients." alt="" coords="238,259,461,285"/>
+<area shape="rect" id="node8" href="$classCIncNSSolver.html#aaaff5cfe93aa72a689248c80b2ea9149" title="Restart residual and compute gradients." alt="" coords="245,309,453,336"/>
+<area shape="rect" id="node9" href="$classCNEMOEulerSolver.html#a3c5a59b5c1c9195757626bff151dbaa9" title="Compute the velocity^2, SoundSpeed, Pressure, Enthalpy, Viscosity." alt="" coords="227,360,471,387"/>
+<area shape="rect" id="node10" href="$classCNEMONSSolver.html#aef1c13c42cd8103377619f7d94660d6a" title="Restart residual and compute gradients." alt="" coords="235,411,464,437"/>
+<area shape="rect" id="node11" href="$classCNSSolver.html#af83e7cb773797239cdc98fc4d202d32f" title="Restart residual and compute gradients." alt="" coords="255,461,444,488"/>
+<area shape="rect" id="node12" href="$classCFVMFlowSolverBase.html#a6d22d04abb4c12c252db08cfb576e089" title="Compute the limiter of the primitive variables." alt="" coords="267,513,431,554"/>
+<area shape="rect" id="node13" href="$classCFlowCompOutput.html#a1724bb8ece7b49ccc08b1a9ebd227f85" title="Set the available volume output fields." alt="" coords="238,578,461,619"/>
+<area shape="rect" id="node14" href="$classCFlowIncOutput.html#a2d50d4d3b55a195d431eb426a381bcf8" title="Set the available volume output fields." alt="" coords="248,643,451,685"/>
+<area shape="rect" id="node15" href="$classCNEMOCompOutput.html#ae2e72ddbf5abb62c9da53098d5c861ef" title="Set the available volume output fields." alt="" coords="234,709,465,750"/>
+<area shape="rect" id="node16" href="$classCEulerSolver.html#aa9729921eed9546daca6ca891ad2a9bb" title="Compute the spatial integration using a upwind scheme." alt="" coords="268,774,431,815"/>
+<area shape="rect" id="node17" href="$classCIncEulerSolver.html#aa1a06c3eef34a7f82f5bca304d563b4a" title="Compute the spatial integration using a upwind scheme." alt="" coords="259,839,440,881"/>
+<area shape="rect" id="node18" href="$classCNEMOEulerSolver.html#a427284b43fbe1f9c373096cc4bbe5781" title="Compute the spatial integration using a upwind scheme." alt="" coords="248,905,451,946"/>
+<area shape="rect" id="node19" href="$classCScalarSolver.html#a7a5250679bf3984b0e9b1a2d9641936f" title="Compute the spatial integration using a upwind scheme." alt="" coords="265,970,434,1011"/>
+<area shape="rect" id="node20" href="$classCHeatSolver.html#a6ae942fed49ba1b235dd757ee801f917" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,970,165,1011"/>
+</map>

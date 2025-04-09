@@ -1,0 +1,6 @@
+<map id="CTurbSSTSolver::SetUniformInlet" name="CTurbSSTSolver::SetUniformInlet">
+<area shape="rect" id="node1" title="Set a uniform inlet profile." alt="" coords="5,64,211,105"/>
+<area shape="rect" id="node2" href="$classCConfig.html#ae003cd8f406eaaa91849a774c9a20730" title="Get the kind of boundary for each marker." alt="" coords="297,5,445,47"/>
+<area shape="rect" id="node3" href="$classCTurbSSTSolver.html#ae420de921d0718986275da5f99cdc8f0" title="Get the value of the turbulent frequency." alt="" coords="259,71,484,98"/>
+<area shape="rect" id="node4" href="$classCTurbSSTSolver.html#af1cc649caf5aa2b758bc35af109a0dbb" title="Get the value of the turbulent kinetic energy." alt="" coords="271,122,472,149"/>
+</map>

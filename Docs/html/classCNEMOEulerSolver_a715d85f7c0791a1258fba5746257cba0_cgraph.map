@@ -1,0 +1,34 @@
+<map id="CNEMOEulerSolver::BC_Inlet" name="CNEMOEulerSolver::BC_Inlet">
+<area shape="rect" id="node1" title="Impose a subsonic inlet boundary condition." alt="" coords="5,753,176,794"/>
+<area shape="rect" id="node2" href="$classCSysVector.html#aa463275cba394503a9778529fdaa4494" title="Add &quot;block&quot; to the vector, see SetBlock." alt="" coords="250,5,414,32"/>
+<area shape="rect" id="node3" href="$classCSysMatrix.html#a5a4ef7eeb7f009450f575660108ed7be" title="Non overwrite version of SetBlock2Diag, also with scaling." alt="" coords="231,56,433,83"/>
+<area shape="rect" id="node4" href="$classCNumerics.html#aa0ca13663a047ef2640b377b33875e29" title="Compute the numerical residual." alt="" coords="224,107,440,133"/>
+<area shape="rect" id="node5" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="771,721,988,748"/>
+<area shape="rect" id="node6" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="241,208,423,235"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a3fc33aec68f64b757f1f9f3514cb97de" title="Get the value of the reference density for non&#45;dimensionalization." alt="" coords="241,259,423,285"/>
+<area shape="rect" id="node9" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="259,309,405,336"/>
+<area shape="rect" id="node10" href="$classCConfig.html#a1431ababf767a9f74ff74fe9ef647957" title="Get the value of specific gas constant." alt="" coords="225,360,439,387"/>
+<area shape="rect" id="node11" href="$classCConfig.html#a9182d3dbb0b3bfa2ebb944f18795f5ca" title="Get information about the grid movement." alt="" coords="229,411,435,437"/>
+<area shape="rect" id="node12" href="$classCPoint.html#a65d855a9c2ad2971546038b34acd5b92" title="Get the value of the grid velocity at the point." alt="" coords="261,461,403,488"/>
+<area shape="rect" id="node13" href="$classCConfig.html#a4bfaa89b45c5e71ed66387f1d966ced4" title="Get the kind of inlet boundary condition treatment (total conditions or mass flow)." alt="" coords="248,512,416,539"/>
+<area shape="rect" id="node14" href="$classCConfig.html#ad16f71356f146b530fb1fbb45444525c" title="Get the kind of time integration method." alt="" coords="237,563,427,605"/>
+<area shape="rect" id="node15" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="263,629,401,656"/>
+<area shape="rect" id="node16" href="$classCVertex.html#a57cacfe764770e6c0e54c278cb584f7c" title="Copy the the normal vector of a face." alt="" coords="256,680,408,707"/>
+<area shape="rect" id="node17" href="$classCConfig.html#acca4077dbb4f00718adc5e831b561927" title="Provides the number of species present in the gas mixture." alt="" coords="251,731,413,757"/>
+<area shape="rect" id="node18" href="$classCNEMOEulerVariable.html#af68c03bea263bc4c8a0ec3a35bdbc928" title="Get the flow pressure." alt="" coords="253,782,411,823"/>
+<area shape="rect" id="node19" href="$classCConfig.html#a75b1f9203bdb8ced64323a100fa3aef9" title="Get the value of the reference pressure for non&#45;dimensionalization." alt="" coords="238,848,426,875"/>
+<area shape="rect" id="node20" href="$classCFlowVariable.html#a852271c741f1e7cdb1d391941266d344" title="Get a primitive variable." alt="" coords="229,899,435,925"/>
+<area shape="rect" id="node21" href="$classCNEMOEulerVariable.html#a9abc604e06f90161a2658d99582d8a3b" title="Retrieves the value of the total density in the primitive variable vector." alt="" coords="253,950,411,991"/>
+<area shape="rect" id="node22" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="248,1016,416,1043"/>
+<area shape="rect" id="node23" href="$classCConfig.html#a218d027f78cd801a8734a2d4581591ad" title="Get the value of the reference temperature for non&#45;dimensionalization." alt="" coords="225,1067,439,1093"/>
+<area shape="rect" id="node24" href="$classCNEMOEulerVariable.html#a0b25332658d2c3fa6725ca46041d55c9" title="Get the velocity of the flow." alt="" coords="253,1118,411,1159"/>
+<area shape="rect" id="node25" href="$classCConfig.html#afad4537005c210e8a7fc015a51b8ae4c" title="Get the value of the reference velocity for non&#45;dimensionalization." alt="" coords="240,1184,424,1211"/>
+<area shape="rect" id="node26" href="$group__GeometryToolbox.html#gad8b24e50333c9a8378f7abf18222f36a" title=" " alt="" coords="241,1285,423,1312"/>
+<area shape="rect" id="node27" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="582,1235,629,1261"/>
+<area shape="rect" id="node28" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="488,1285,723,1312"/>
+<area shape="rect" id="node29" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="277,1387,387,1413"/>
+<area shape="rect" id="node30" href="$classCNumerics.html#a2d59a0969bac4b0e43b74ba4ec4d1eff" title="Set the value of the conservative variables." alt="" coords="228,1437,436,1464"/>
+<area shape="rect" id="node31" href="$classCNumerics.html#a3f116b5718153aefee7a22735797af29" title="Set the velocity of the computational grid." alt="" coords="247,1488,417,1515"/>
+<area shape="rect" id="node32" href="$classCNumerics.html#a93fd2262832ae5081317548f2f9cdbb3" title="Set the value of the normal vector to the face between two points." alt="" coords="247,1539,417,1565"/>
+<area shape="rect" id="node7" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="513,208,698,235"/>
+</map>

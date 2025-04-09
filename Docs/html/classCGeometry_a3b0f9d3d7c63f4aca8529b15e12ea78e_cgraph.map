@@ -1,0 +1,8 @@
+<map id="CGeometry::PostPeriodicSends" name="CGeometry::PostPeriodicSends">
+<area shape="rect" id="node1" title="Routine to launch a single non&#45;blocking send once the buffer is loaded for a periodic commucation." alt="" coords="5,81,228,108"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="293,5,475,32"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="276,56,492,83"/>
+<area shape="rect" id="node5" href="$classCBaseMPIWrapper.html#a4009cae40f1e050b3635a8d803dbfa3d" title=" " alt="" coords="291,107,477,133"/>
+<area shape="rect" id="node6" href="$omp__structure_8hpp.html#a3af8b37ed645164f4c3441fa75e5fa76" title="Copy data from one array&#45;like object to another in parallel." alt="" coords="332,157,436,184"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="540,5,725,32"/>
+</map>

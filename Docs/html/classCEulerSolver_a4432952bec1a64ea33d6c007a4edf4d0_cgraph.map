@@ -1,0 +1,6 @@
+<map id="CEulerSolver::SetCentered_Dissipation_Sensor" name="CEulerSolver::SetCentered_Dissipation_Sensor">
+<area shape="rect" id="node1" title="Compute the dissipation sensor for centered schemes." alt="" coords="5,45,199,87"/>
+<area shape="rect" id="node2" href="$classCEulerVariable.html#a5e1ee3cd1062365d7da17ee3ee49537e" title="Get the flow pressure." alt="" coords="247,13,451,39"/>
+<area shape="rect" id="node4" href="$classCFVMFlowSolverBase.html#afb9ed896e3882658d23042a5ee15c9d2" title="Compute the dissipation sensor for centered schemes." alt="" coords="247,63,452,149"/>
+<area shape="rect" id="node3" href="$structCEulerVariable_1_1CIndices.html#a71ffbd849fd584ff3a787411497d3007" title=" " alt="" coords="500,5,680,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCMeshReaderFVM.html" title="Base class for the mesh zone readers of the finite volume solver (FVM)." alt="" coords="5,81,147,108"/>
+<area shape="rect" id="node2" href="$classCBoxMeshReaderFVM.html" title="Reads a 3D box grid into linear partitions for the finite volume solver (FVM)." alt="" coords="221,5,387,32"/>
+<area shape="rect" id="node3" href="$classCCGNSMeshReaderFVM.html" title="Reads a CGNS zone into linear partitions for the finite volume solver (FVM)." alt="" coords="215,56,393,83"/>
+<area shape="rect" id="node4" href="$classCRectangularMeshReaderFVM.html" title="Reads a 2D rectangular grid into linear partitions for the finite volume solver (FVM)." alt="" coords="195,107,413,133"/>
+<area shape="rect" id="node5" href="$classCSU2ASCIIMeshReaderFVM.html" title="Reads a native SU2 ASCII grid into linear partitions for the finite volume solver (FVM)." alt="" coords="203,157,405,184"/>
+</map>

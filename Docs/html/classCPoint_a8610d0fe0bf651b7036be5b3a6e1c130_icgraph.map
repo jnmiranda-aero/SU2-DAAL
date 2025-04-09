@@ -1,0 +1,11 @@
+<map id="CPoint::GetSharpEdge_Distance" name="CPoint::GetSharpEdge_Distance">
+<area shape="rect" id="node1" title="Get the value of the distance to a sharp edge." alt="" coords="580,217,744,259"/>
+<area shape="rect" id="node2" href="$structCLimiterDetails_3_01LIMITER_1_1SHARP__EDGES_01_4.html#ac84b60dd11be856e39c16ceaebd55a69" title="Full limiting (1st order) near sharp edges." alt="" coords="279,5,532,47"/>
+<area shape="rect" id="node3" href="$classCAdjEulerSolver.html#aa87a2220c946b47cb35c395c035f96e5" title="Compute the inviscid sensitivity of the functional." alt="" coords="313,71,497,112"/>
+<area shape="rect" id="node4" href="$classCAdjEulerSolver.html#a64baf8c7af6006bdc4ad0919f7c2507a" title="Initialize the residual vectors." alt="" coords="5,169,231,195"/>
+<area shape="rect" id="node5" href="$classCAdjNSSolver.html#a0669f6fb8ef7cd7800d151d4aff7d3f6" title="Restart residual and compute gradients." alt="" coords="13,223,223,250"/>
+<area shape="rect" id="node6" href="$classCAdjEulerSolver.html#af1b72ed76900f821d2f51942cb4252db" title="Compute the sensor for higher order dissipation control in rotating problems." alt="" coords="298,188,513,229"/>
+<area shape="rect" id="node7" href="$classCDiscAdjSolver.html#a21a12c16fae44dfa916e27cf3a938b31" title="Extract and set the geometrical sensitivity." alt="" coords="296,305,515,331"/>
+<area shape="rect" id="node8" href="$classCDiscAdjMeshSolver.html#aebbe0bcb0b07daa76d7ea6851125696e" title="Extract and set the geometrical sensitivity." alt="" coords="327,356,483,397"/>
+<area shape="rect" id="node9" href="$classCAdjNSSolver.html#a6e72f094190680fa7fb078d7aae9c1d8" title="Compute the viscous sensitivity of the functional." alt="" coords="321,421,490,463"/>
+</map>

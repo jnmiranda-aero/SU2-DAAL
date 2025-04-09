@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['pragmize_0',['PRAGMIZE',['../omp__structure_8hpp.html#a23961c5ba342cdacc8d68268786f0da7',1,'omp_structure.hpp']]],
-  ['py_5fwrapper_5fmatrix_5finterface_1',['PY_WRAPPER_MATRIX_INTERFACE',['../CPyWrapperMatrixView_8hpp.html#ae363ae2d14e19edd530d82184ef607c6',1,'CPyWrapperMatrixView.hpp']]]
+  ['ne_5fimpl_18177',['ne_impl',['../vector__expressions_8hpp.html#a2ef7439a4b048f18f80be6aa5e3a31b9',1,'vector_expressions.hpp']]],
+  ['neverinline_18178',['NEVERINLINE',['../code__config_8hpp.html#a532e3a907ffcbd961f272208a0309659',1,'code_config.hpp']]]
 ];

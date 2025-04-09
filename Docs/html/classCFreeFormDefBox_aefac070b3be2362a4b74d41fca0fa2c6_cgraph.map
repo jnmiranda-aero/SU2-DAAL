@@ -1,0 +1,5 @@
+<map id="CFreeFormDefBox::SetSphe2Cart_CornerPoints" name="CFreeFormDefBox::SetSphe2Cart_CornerPoints">
+<area shape="rect" id="node1" title="Set Spherical to Cartesians_CornerPoints." alt="" coords="5,35,215,76"/>
+<area shape="rect" id="node2" href="$classCFreeFormDefBox.html#a0d9cc216d53327e239b7b75173ff3b9a" title="Get the coordinates of the corner points." alt="" coords="263,5,472,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#aee960e865ec9805de750956062329d04" title="Get the value of the vector that connects the cartesian axis with a sherical or cylindrical one." alt="" coords="285,71,449,98"/>
+</map>

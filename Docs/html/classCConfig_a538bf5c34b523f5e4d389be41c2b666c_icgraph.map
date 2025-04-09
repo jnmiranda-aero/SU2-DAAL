@@ -1,0 +1,6 @@
+<map id="CConfig::GetiInst" name="CConfig::GetiInst">
+<area shape="rect" id="node1" title="Get the current instance." alt="" coords="499,31,629,57"/>
+<area shape="rect" id="node2" href="$classCBaselineSolver.html#aa5fad3af8c5b48950679d5c5a3a91ec4" title="Load a solution from a restart file." alt="" coords="236,5,451,32"/>
+<area shape="rect" id="node3" href="$classCFluidDriver.html#ad2575e36367e41622f339bc2f07b64e3" title="Output the solution in solution file." alt="" coords="266,56,421,83"/>
+<area shape="rect" id="node4" href="$classCFluidDriver.html#aa0139a1e26f43f0154854c9f99ded978" title="Launch the computation for all zones and all physics." alt="" coords="5,56,188,83"/>
+</map>

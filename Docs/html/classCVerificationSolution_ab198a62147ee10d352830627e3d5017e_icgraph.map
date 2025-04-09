@@ -1,0 +1,6 @@
+<map id="CVerificationSolution::GetBCState" name="CVerificationSolution::GetBCState">
+<area shape="rect" id="node1" title="Get the boundary conditions state for an exact solution." alt="" coords="232,71,389,112"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__EulerSolver.html#a0e63fc77fc810025d45bfd8e0bf4d6dd" title="Impose the user customized boundary condition. It is a virtual function, because for Navier&#45;Stokes it..." alt="" coords="11,5,178,47"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__NSSolver.html#acd2193a119fc1162909b554e8acf11b2" title="Impose the user customized boundary condition." alt="" coords="5,71,184,112"/>
+<area shape="rect" id="node4" href="$classCFVMFlowSolverBase.html#a51801a9f54e9b4184f58a7becda5bd04" title="Impose a custom or verification boundary condition." alt="" coords="13,136,177,177"/>
+</map>

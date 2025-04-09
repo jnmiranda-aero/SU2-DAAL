@@ -1,0 +1,52 @@
+<map id="SU2_CFD/src/solvers/CFEM_DG_EulerSolver.cpp" name="SU2_CFD/src/solvers/CFEM_DG_EulerSolver.cpp">
+<area shape="rect" id="node1" title="Main subroutines for solving finite element Euler flow problems." alt="" coords="1913,5,2110,47"/>
+<area shape="rect" id="node2" href="$CFEM__DG__EulerSolver_8hpp.html" title="Headers of the CFEM_DG_EulerSolver class." alt="" coords="2048,95,2247,136"/>
+<area shape="rect" id="node43" href="$printing__toolbox_8hpp.html" title="Header file for the printing toolbox." alt="" coords="2977,467,3203,508"/>
+<area shape="rect" id="node45" href="$CIdealGas_8hpp.html" title="Defines the ideal gas model." alt="" coords="1582,184,1707,225"/>
+<area shape="rect" id="node46" href="$CVanDerWaalsGas_8hpp.html" title="Declaration of the Polytropic Van der Waals model." alt="" coords="1620,95,1795,136"/>
+<area shape="rect" id="node47" href="$CPengRobinson_8hpp.html" title="Defines the Peng&#45;Robinson model." alt="" coords="1819,95,1974,136"/>
+<area shape="rect" id="node48" href="$CCoolProp_8hpp.html" title="Defines the state&#45;of&#45;the&#45;art fluid model from CoolProp library." alt="" coords="222,273,347,315"/>
+<area shape="rect" id="node49" href="$CDataDrivenFluid_8hpp.html" title="Defines a template fluid model class using multilayer perceptrons for theromodynamic state definition..." alt="" coords="3267,273,3436,315"/>
+<area shape="rect" id="node3" href="$CSolver_8hpp.html" title="Headers of the CSolver class which is inherited by all of the other solvers." alt="" coords="2098,191,2197,218"/>
+<area shape="rect" id="node4" href="$mpi__structure_8hpp.html" title="Headers of the mpi interface for generalized datatypes. The subroutines and functions are in the mpi_..." alt="" coords="1580,556,1821,597"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1875,653,1945,679"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1991,735,2071,761"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1089,563,1152,590"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2876,281,2947,307"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2811,563,2870,590"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2116,563,2189,590"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2533,563,2607,590"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2894,563,2979,590"/>
+<area shape="rect" id="node18" title=" " alt="" coords="2971,281,3014,307"/>
+<area shape="rect" id="node19" title=" " alt="" coords="3038,281,3105,307"/>
+<area shape="rect" id="node20" href="$CFluidModel_8hpp.html" title="Defines the main fluid model class for thermophysical properties." alt="" coords="305,377,480,404"/>
+<area shape="rect" id="node22" href="$CConfig_8hpp.html" title="All the information about the definition of the physical problem. The subroutines and functions are i..." alt="" coords="1947,467,2115,508"/>
+<area shape="rect" id="node28" href="$task__definition_8hpp.html" title="Header of the task definition class for the SU2 solvers." alt="" coords="2241,474,2400,501"/>
+<area shape="rect" id="node29" href="$CNumerics_8hpp.html" title="Declaration of the base numerics class, the implementation is in the CNumerics.cpp file." alt="" coords="1259,281,1457,307"/>
+<area shape="rect" id="node30" href="$blas__structure_8hpp.html" title="Include files and headers of the functions for matrix and vector operations, which are typically foun..." alt="" coords="1489,370,1731,411"/>
+<area shape="rect" id="node31" href="$sgs__model_8hpp.html" title="Headers of the LES subgrid scale models of the SU2 solvers." alt="" coords="1235,474,1367,501"/>
+<area shape="rect" id="node32" href="$fem__geometry__structure_8hpp.html" title="Headers of the main subroutines for creating the geometrical structure for the FEM solver...." alt="" coords="1770,273,2015,315"/>
+<area shape="rect" id="node33" href="$CGeometry_8hpp.html" title="Headers of the main subroutines for creating the geometrical structure. The subroutines and functions..." alt="" coords="2047,377,2248,404"/>
+<area shape="rect" id="node34" href="$CSysMatrix_8hpp.html" title="Declaration of the block&#45;sparse matrix class. The implemtation is in CSysMatrix.cpp." alt="" coords="2424,370,2649,411"/>
+<area shape="rect" id="node35" href="$CSysVector_8hpp.html" title="Declararion and inlines of the vector class used in the solution of large, distributed,..." alt="" coords="2577,474,2699,501"/>
+<area shape="rect" id="node36" href="$CSysSolve_8hpp.html" title="Headers for the classes related to linear solvers (CG, FGMRES, etc) The subroutines and functions are..." alt="" coords="2774,370,2993,411"/>
+<area shape="rect" id="node38" href="$CSurfaceMovement_8hpp.html" title="Headers of the CSurfaceMovement class." alt="" coords="423,273,712,315"/>
+<area shape="rect" id="node39" href="$CVolumetricMovement_8hpp.html" title="Headers of the CVolumetricMovement class." alt="" coords="2388,273,2699,315"/>
+<area shape="rect" id="node40" href="$graph__coloring__structure_8hpp.html" title="Include files and headers of the functions to carry out a coloring of a given graph...." alt="" coords="1756,370,1971,411"/>
+<area shape="rect" id="node41" href="$CVerificationSolution_8hpp.html" title="Header file for the base class CVerificationSolution. The implementations are in the CVerificationSol..." alt="" coords="939,363,1150,419"/>
+<area shape="rect" id="node42" href="$CVariable_8hpp.html" title="Declaration and inlines of the parent class for defining problem variables, function definitions in f..." alt="" coords="1175,377,1363,404"/>
+<area shape="rect" id="node6" href="$datatype__structure_8hpp.html" title="Headers for generalized datatypes, defines an interface for AD types." alt="" coords="513,645,686,687"/>
+<area shape="rect" id="node8" title=" " alt="" coords="560,735,639,761"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1141,735,1202,761"/>
+<area shape="rect" id="node10" href="$code__config_8hpp.html" title="Header file for collecting common macros, definitions and type configurations." alt="" coords="555,809,694,836"/>
+<area shape="rect" id="node11" href="$ad__structure_8hpp.html" title="Main routines for the algorithmic differentiation (AD) structure." alt="" coords="663,735,794,761"/>
+<area shape="rect" id="node21" title=" " alt="" coords="686,474,763,501"/>
+<area shape="rect" id="node25" href="$CConductivityModel_8hpp.html" title="Defines an interface class for thermal conductivity models." alt="" coords="430,474,611,501"/>
+<area shape="rect" id="node26" href="$CViscosityModel_8hpp.html" title="Interface class for defining laminar viscosity models." alt="" coords="5,474,164,501"/>
+<area shape="rect" id="node27" href="$CDiffusivityModel_8hpp.html" title="Interface class for defining mass diffusivity models." alt="" coords="188,474,355,501"/>
+<area shape="rect" id="node23" title=" " alt="" coords="3440,563,3503,590"/>
+<area shape="rect" id="node24" title=" " alt="" coords="3054,563,3110,590"/>
+<area shape="rect" id="node37" title=" " alt="" coords="3275,563,3350,590"/>
+<area shape="rect" id="node44" title=" " alt="" coords="3185,563,3251,590"/>
+<area shape="rect" id="node50" href="$CLookUpTable_8hpp.html" title=" " alt="" coords="3278,467,3497,508"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CIncEulerSolver::ExtractAdjoint_SolutionExtra" name="CIncEulerSolver::ExtractAdjoint_SolutionExtra">
+<area shape="rect" id="node1" title="Extract the adjoint of the extra solution at the input." alt="" coords="5,27,184,69"/>
+<area shape="rect" id="node2" href="$namespaceSU2__TYPE.html#a7300627e76e21e6d1a3bd8bf7c2fcd74" title="Get the derivative value of the datatype (needs to be implemented for each new type)." alt="" coords="247,5,433,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#aae21b37c088347be2a7e02fc0ad4e4c4" title="Get information about the streamwise periodicity (None, Pressure_Drop, Massflow)." alt="" coords="232,57,448,98"/>
+</map>

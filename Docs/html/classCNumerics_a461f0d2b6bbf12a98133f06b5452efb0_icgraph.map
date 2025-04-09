@@ -1,0 +1,5 @@
+<map id="CNumerics::ComputeProjectedGradient" name="CNumerics::ComputeProjectedGradient">
+<area shape="rect" id="node1" title="Project average gradient onto normal (with or w/o correction) for viscous fluxes of scalar quantities..." alt="" coords="253,39,475,80"/>
+<area shape="rect" id="node2" href="$classCAvgGrad__Scalar.html#a04be01597eab746241e04edf5c00ed0e" title="Compute the viscous residual using an average of gradients without correction." alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node3" href="$classCAvgGradCorrected__P1.html#a8ccfd040b4318f4a3217e0bf76ef018f" title="Compute the viscous residual of the P1 equation." alt="" coords="19,71,191,112"/>
+</map>

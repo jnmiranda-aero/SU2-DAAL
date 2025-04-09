@@ -12,11 +12,20 @@ var dir_3b735dd5547717c34264cbbbba892a8a =
     [ "output", "dir_d8beb746e2226fd5f8de32cb0a6789ef.html", "dir_d8beb746e2226fd5f8de32cb0a6789ef" ],
     [ "solvers", "dir_263ce66950d22b4a66b695c07cd63e69.html", "dir_263ce66950d22b4a66b695c07cd63e69" ],
     [ "variables", "dir_cd97905733ce0fa50fa6753859500eaa.html", "dir_cd97905733ce0fa50fa6753859500eaa" ],
-    [ "CMarkerProfileReaderFVM.hpp", "CMarkerProfileReaderFVM_8hpp.html", "CMarkerProfileReaderFVM_8hpp" ],
+    [ "CMarkerProfileReaderFVM.hpp", "CMarkerProfileReaderFVM_8hpp.html", [
+      [ "CMarkerProfileReaderFVM", "classCMarkerProfileReaderFVM.html", "classCMarkerProfileReaderFVM" ]
+    ] ],
     [ "definition_structure.hpp", "definition__structure_8hpp.html", "definition__structure_8hpp" ],
-    [ "sgs_model.hpp", "sgs__model_8hpp.html", "sgs__model_8hpp" ],
+    [ "sgs_model.hpp", "sgs__model_8hpp.html", [
+      [ "CSGSModel", "classCSGSModel.html", "classCSGSModel" ],
+      [ "CSmagorinskyModel", "classCSmagorinskyModel.html", "classCSmagorinskyModel" ],
+      [ "CWALEModel", "classCWALEModel.html", "classCWALEModel" ],
+      [ "CVremanModel", "classCVremanModel.html", "classCVremanModel" ]
+    ] ],
     [ "sgs_model.inl", "sgs__model_8inl.html", null ],
     [ "SU2_CFD.hpp", "SU2__CFD_8hpp.html", null ],
-    [ "task_definition.hpp", "task__definition_8hpp.html", "task__definition_8hpp" ],
+    [ "task_definition.hpp", "task__definition_8hpp.html", [
+      [ "CTaskDefinition", "classCTaskDefinition.html", "classCTaskDefinition" ]
+    ] ],
     [ "task_definition.inl", "task__definition_8inl.html", null ]
 ];

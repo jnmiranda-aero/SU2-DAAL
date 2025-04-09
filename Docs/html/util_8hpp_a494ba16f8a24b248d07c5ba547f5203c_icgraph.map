@@ -1,0 +1,14 @@
+<map id="norm" name="norm">
+<area shape="rect" id="node1" title="Vector norm." alt="" coords="1335,115,1391,141"/>
+<area shape="rect" id="node2" href="$classCCenteredBase.html#ac9b1510a81f92bcdc4c319b415d1ea82" title="Implementation of the base centered flux." alt="" coords="1063,5,1281,32"/>
+<area shape="rect" id="node3" href="$classCRoeBase.html#a66014e97b96e951548712bc65bb2857e" title="Implementation of the base Roe flux." alt="" coords="1081,56,1263,83"/>
+<area shape="rect" id="node4" href="$classCFEM__DG__EulerSolver.html#a4851d39829e12202592d85c36ea36489" title="Function, which computes the inviscid fluxes in face points." alt="" coords="1067,107,1277,149"/>
+<area shape="rect" id="node11" href="$classCPhysicalGeometry.html#a8ac15a23d14c919320fbbbf6ac45cbd0" title="For streamwise periodicity, find &amp; store a unique reference node on the designated periodic inlet." alt="" coords="1057,173,1287,214"/>
+<area shape="rect" id="node12" href="$classCFreeFormDefBox.html#a34a5044445c8f41b16dc521aee3a7395" title="Euclidean norm of a vector." alt="" coords="1069,239,1275,265"/>
+<area shape="rect" id="node5" href="$classCFEM__DG__EulerSolver.html#ab7546cb31b73191bbac2b338c88cfbc4" title="Function, which computes the inviscid fluxes in the face integration points of a chunk of matching in..." alt="" coords="748,107,1009,149"/>
+<area shape="rect" id="node6" href="$classCFEM__DG__EulerSolver.html#a8875e58364f55e735fc3732f545d5f29" title="Compute the spatial residual for the given range of faces. It is a virtual function,..." alt="" coords="509,74,675,115"/>
+<area shape="rect" id="node10" href="$classCFEM__DG__NSSolver.html#a407d8b7c0f6944c2f08ee7fb9b28aa0c" title="Compute the spatial residual for the given range of faces." alt="" coords="484,139,700,181"/>
+<area shape="rect" id="node7" href="$classCFEM__DG__EulerSolver.html#ae807ca68b2d465020b63d617d54e339a" title="Function, which processes the list of tasks to be executed by the DG solver." alt="" coords="269,74,436,115"/>
+<area shape="rect" id="node8" href="$classCFEM__DG__EulerSolver.html#a0fe3772f40c29248f26fb08fa215af4e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="5,41,221,82"/>
+<area shape="rect" id="node9" href="$classCFEM__DG__EulerSolver.html#a370cb798d700bb080b52ec22834f78da" title="Function, which controls the computation of the spatial Jacobian." alt="" coords="19,106,208,147"/>
+</map>

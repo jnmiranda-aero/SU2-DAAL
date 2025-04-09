@@ -1,0 +1,10 @@
+<map id="Utility classes and functions" name="Utility classes and functions">
+<area shape="rect" id="node1" title="Several classes and functions that implement common operations." alt="" coords="5,146,148,186"/>
+<area shape="rect" id="node2" href="$group__LookUpInterp.html" title="Data look up and interpolation." alt="" coords="196,5,384,31"/>
+<area shape="rect" id="node3" href="$group__Containers.html" title="Container classes (vectors, matrices, ND&#45;arrays, etc.)." alt="" coords="227,55,353,80"/>
+<area shape="rect" id="node4" href="$group__BLAS.html" title="Linear algebra functions and classes." alt="" coords="211,104,369,129"/>
+<area shape="rect" id="node5" href="$group__GeometryToolbox.html" title="Common geometry operations." alt="" coords="220,153,360,179"/>
+<area shape="rect" id="node6" href="$group__ADT.html" title="Tree&#45;based searches (minimum distance, containment, etc.)." alt="" coords="204,203,376,228"/>
+<area shape="rect" id="node7" href="$group__SIMD.html" title="Classes for explicit (done by the programmer) vectorization (SIMD) of computations." alt="" coords="213,252,367,277"/>
+<area shape="rect" id="node8" href="$group__Graph.html" title="Classes to represent graphs and functions to manipulate them (coloring, etc.)." alt="" coords="223,301,357,327"/>
+</map>

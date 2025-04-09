@@ -1,0 +1,9 @@
+<map id="CGeometry" name="CGeometry">
+<area shape="rect" id="node1" title="Parent class for defining the geometry of the problem (complete geometry, multigrid agglomerated geom..." alt="" coords="251,5,347,32"/>
+<area shape="rect" id="node2" href="$classCDummyGeometry.html" title="Class for defining a geometry that does not contain any points/elements. Can be used for initializing..." alt="" coords="5,80,153,107"/>
+<area shape="rect" id="node3" href="$classCMeshFEM.html" title="Base class for the FEM solver." alt="" coords="177,80,272,107"/>
+<area shape="rect" id="node6" href="$classCMultiGridGeometry.html" title="Class for defining the multigrid geometry, the main delicated part is the agglomeration stage,..." alt="" coords="296,80,452,107"/>
+<area shape="rect" id="node7" href="$classCPhysicalGeometry.html" title="Class for reading a defining the primal grid which is read from the grid file in ...." alt="" coords="476,80,627,107"/>
+<area shape="rect" id="node4" href="$classCMeshFEM__DG.html" title="Class which contains all the variables for the DG FEM solver." alt="" coords="164,155,285,181"/>
+<area shape="rect" id="node5" href="$classCDummyMeshFEM__DG.html" title="Class for defining a DG geometry that does not contain any points/elements. Can be used for initializ..." alt="" coords="138,229,311,256"/>
+</map>

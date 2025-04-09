@@ -1,0 +1,5 @@
+<map id="CConfig::GetTheta_Interior_Penalty_DGFEM" name="CConfig::GetTheta_Interior_Penalty_DGFEM">
+<area shape="rect" id="node1" title="Function to make available the multiplication factor theta of the symmetrizing terms in the DG discre..." alt="" coords="269,39,464,80"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__EulerSolver.html#a677fa998b78bd489a3f8bee0d56623dd" title=" " alt="" coords="26,5,201,47"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__NSSolver.html#a407d8b7c0f6944c2f08ee7fb9b28aa0c" title="Compute the spatial residual for the given range of faces." alt="" coords="5,71,221,112"/>
+</map>

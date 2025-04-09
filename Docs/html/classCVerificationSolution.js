@@ -9,7 +9,7 @@ var classCVerificationSolution =
     [ "GetBCState", "classCVerificationSolution.html#ab198a62147ee10d352830627e3d5017e", null ],
     [ "GetError_Max", "classCVerificationSolution.html#a5fd9a5bb471932e03b72933691af916a", null ],
     [ "GetError_Point_Max", "classCVerificationSolution.html#a8c0702ae39fb87b499140817d40c249e", null ],
-    [ "GetError_Point_Max_Coord", "classCVerificationSolution.html#a5ab9254db5d5593e817cec954e9817ce", null ],
+    [ "GetError_Point_Max_Coord", "classCVerificationSolution.html#a3e21e9e1890fc9a0a219bae886add215", null ],
     [ "GetError_RMS", "classCVerificationSolution.html#a30a14b2a6e848b0fa92b5fbd8ec3a476", null ],
     [ "GetInitialCondition", "classCVerificationSolution.html#aa94daec1f1651600ef137a61341368e9", null ],
     [ "GetLocalError", "classCVerificationSolution.html#a894a4b9e9e4e9c2977739693cd01bd62", null ],

@@ -1,0 +1,12 @@
+<map id="CPhysicalGeometry::SetColorGrid_Parallel" name="CPhysicalGeometry::SetColorGrid_Parallel">
+<area shape="rect" id="node1" title="Set the domains for grid grid partitioning using ParMETIS." alt="" coords="5,173,164,214"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="229,5,411,32"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="212,56,428,83"/>
+<area shape="rect" id="node5" href="$classCLinearPartitioner.html#a27c8cbcde5662cdbb0dbebecef3fa84b" title="Get the last index of the current rank&#39;s linear partition." alt="" coords="237,107,403,149"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a84bf4138c52ceb87b6dfb9035c08cbf0" title="Get the ParMETIS load balancing weight for edges." alt="" coords="239,173,401,214"/>
+<area shape="rect" id="node7" href="$classCConfig.html#aedcf266b8471f8d7695fe021be1d1abc" title="Get the ParMETIS load balancing weight for points." alt="" coords="239,238,401,279"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a18784372fc263d75185597c96b2ad82c" title="Get the ParMETIS load balancing tolerance." alt="" coords="239,303,401,345"/>
+<area shape="rect" id="node10" href="$classCPoint.html#adfce10ea45ab90407e18b393f412cfbf" title="Set a color to the point that comes from the grid partitioning." alt="" coords="257,369,383,396"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="476,5,661,32"/>
+<area shape="rect" id="node9" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="491,311,646,337"/>
+</map>

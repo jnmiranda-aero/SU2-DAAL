@@ -1,0 +1,23 @@
+<map id="CVariable::GetEddyViscosity" name="CVariable::GetEddyViscosity">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="512,553,719,579"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a11facef76cf89c53ed82c54895c057a9" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="261,5,418,47"/>
+<area shape="rect" id="node3" href="$classCIncEulerSolver.html#a4344a93831dc3f6fd2830cbe8e0c1e3b" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="264,71,415,112"/>
+<area shape="rect" id="node4" href="$classCNEMOEulerSolver.html#af35c1b20663aa6051487296077034f05" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="254,136,425,177"/>
+<area shape="rect" id="node5" href="$classCEulerSolver.html#a40fad0a57e8dcba8a8f4d4fa8eab02f0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="254,202,425,229"/>
+<area shape="rect" id="node6" href="$classCAdjNSSolver.html#aac064a699355df483ca48c40e7c50675" title="Impose via the residual or brute force the Navier&#45;Stokes adjoint boundary condition (heat flux)." alt="" coords="220,253,459,279"/>
+<area shape="rect" id="node7" href="$classCIncEulerSolver.html#ac0b00dbc68bbd80aa48f6249c6ea5c38" title="Impose a subsonic inlet boundary condition." alt="" coords="264,304,415,345"/>
+<area shape="rect" id="node8" href="$classCAdjNSSolver.html#a159875229feba5b14c433990e5a89d60" title="Impose via the residual or brute force the Navier&#45;Stokes adjoint boundary condition (heat flux)." alt="" coords="215,370,464,397"/>
+<area shape="rect" id="node9" href="$classCAdjEulerSolver.html#a606732a2540893587de80506c5d0ac70" title="Impose the outlet boundary condition." alt="" coords="263,421,415,463"/>
+<area shape="rect" id="node10" href="$classCIncEulerSolver.html#afc1e6b64c1d323261468e1aa04b110ad" title="Impose the outlet boundary condition." alt="" coords="264,487,415,528"/>
+<area shape="rect" id="node11" href="$classCEulerSolver.html#a4ad4a65b3fc5a51b1561436736f7f7ca" title="Impose the boundary condition using characteristic recostruction." alt="" coords="241,553,437,579"/>
+<area shape="rect" id="node12" href="$classCNEMOEulerSolver.html#a1448f7a4a713ada22016532249a56a95" title="Impose a supersonic inlet boundary condition." alt="" coords="254,604,425,645"/>
+<area shape="rect" id="node13" href="$classCEulerSolver.html#a8e036f2dff1d945d814c93a74159a3cc" title="Impose the boundary condition using characteristic recostruction." alt="" coords="224,670,455,697"/>
+<area shape="rect" id="node14" href="$classCEulerSolver.html#a8b5cd9b0e0e01824888f647dcfbf6988" title="Compute the time step for solving the Euler equations." alt="" coords="238,721,441,747"/>
+<area shape="rect" id="node15" href="$classCIncEulerSolver.html#a3a189e3a7ac9965d97cc4e0143e729e3" title="Compute the time step for solving the Euler equations." alt="" coords="228,771,451,798"/>
+<area shape="rect" id="node16" href="$classCNEMOEulerSolver.html#a2c43958aea35df86bce9cdaf1461232c" title="Compute the time step for solving the Euler equations." alt="" coords="218,822,461,849"/>
+<area shape="rect" id="node17" href="$classCHeatSolver.html#a46a94222146629b60daac7226d0099c0" title="A virtual member." alt="" coords="239,873,440,899"/>
+<area shape="rect" id="node18" href="$classCIncEulerSolver.html#a5f9ced3a85731749b16d6f1bac9460f6" title="Source term integration." alt="" coords="251,924,427,965"/>
+<area shape="rect" id="node19" href="$classCNEMOEulerSolver.html#a0758ca67e16c9f1f0f8fe5c8ec661cf7" title="Source term integration." alt="" coords="241,989,438,1031"/>
+<area shape="rect" id="node20" href="$classCHeatSolver.html#a2d350250cad8bfed473c6d86064565f3" title="Compute the viscous flux for the scalar equation at a particular edge." alt="" coords="259,1055,420,1096"/>
+<area shape="rect" id="node21" href="$classCHeatSolver.html#a28c9bfdc4b9410d4a01ab373a69d7a5b" title="Compute the viscous residuals for the turbulent equation." alt="" coords="5,1055,167,1096"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CScalarSolver::BoundedScalarBCFlux" name="CScalarSolver::BoundedScalarBCFlux">
+<area shape="rect" id="node1" title="Applies a convective flux correction to negate the effects of flow divergence at a BC node." alt="" coords="5,49,223,90"/>
+<area shape="rect" id="node2" href="$classCSysVector.html#aa463275cba394503a9778529fdaa4494" title="Add &quot;block&quot; to the vector, see SetBlock." alt="" coords="297,5,461,32"/>
+<area shape="rect" id="node3" href="$classCSysMatrix.html#ad230c61b0790b0bf25bba46a6711fc39" title="Adds the specified value to the diagonal of the (i, i) subblock of the matrix&#45;by&#45;blocks structure." alt="" coords="286,56,473,83"/>
+<area shape="rect" id="node4" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="271,107,488,133"/>
+</map>

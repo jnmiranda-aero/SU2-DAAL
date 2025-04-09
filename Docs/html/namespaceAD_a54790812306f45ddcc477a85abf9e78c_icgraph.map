@@ -1,0 +1,11 @@
+<map id="AD::ResizeAdjoints" name="AD::ResizeAdjoints">
+<area shape="rect" id="node1" title="Resize the adjoint vector, for subsequent access without bounds checking." alt="" coords="1043,111,1188,138"/>
+<area shape="rect" id="node2" href="$classCDiscAdjFEAIteration.html#ab74b31bf6b8275945fa3d0dd38d73388" title="Initializes the adjoints of the output variables of the FEM iteration." alt="" coords="823,5,983,47"/>
+<area shape="rect" id="node3" href="$classCDiscAdjFluidIteration.html#abdfbd9b57a5fec181a1a630618c3274a" title="Registers all input variables of the fluid iteration." alt="" coords="819,71,986,112"/>
+<area shape="rect" id="node4" href="$classCDiscAdjHeatIteration.html#adeafba60eb5471ccd0780c0d075d61da" title="Registers all input variables of the fluid iteration." alt="" coords="819,136,986,177"/>
+<area shape="rect" id="node5" href="$classCDiscAdjMultizoneDriver.html#a249f7719c986035cde861eed2c61b4dd" title="Initialize the adjoint value of the objective function." alt="" coords="811,201,995,243"/>
+<area shape="rect" id="node6" href="$classCDiscAdjMultizoneDriver.html#a7a644ee8fc2141f2083b91afd2cab856" title="Evaluate the gradient of the objective function and add to &quot;External&quot;." alt="" coords="503,168,763,209"/>
+<area shape="rect" id="node9" href="$classCDiscAdjMultizoneDriver.html#a9d998fae109427a1061069800ad931c3" title="Evaluate sensitivites for the current adjoint solution and output files." alt="" coords="541,233,725,275"/>
+<area shape="rect" id="node7" href="$classCDiscAdjMultizoneDriver.html#af996aecdb6d20aa4fc81c9b67295abf5" title="[Overload] Run an discrete adjoint update of all solvers within multiple zones." alt="" coords="237,209,455,235"/>
+<area shape="rect" id="node8" href="$classCDiscAdjMultizoneDriver.html#a75de0a1a482ceeed4301a384f1515092" title="[Overload] Launch the computation for discrete adjoint multizone problems." alt="" coords="5,201,189,243"/>
+</map>

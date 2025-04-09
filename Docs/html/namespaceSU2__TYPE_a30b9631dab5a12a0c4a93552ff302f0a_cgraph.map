@@ -1,0 +1,4 @@
+<map id="SU2_TYPE::Short" name="SU2_TYPE::Short">
+<area shape="rect" id="node1" title="Casts the primitive value to short (uses GetValue, already implemented for each type)." alt="" coords="5,5,135,32"/>
+<area shape="rect" id="node2" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="183,5,337,32"/>
+</map>

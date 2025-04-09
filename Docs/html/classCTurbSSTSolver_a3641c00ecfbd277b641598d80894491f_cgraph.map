@@ -1,0 +1,6 @@
+<map id="CTurbSSTSolver::Viscous_Residual" name="CTurbSSTSolver::Viscous_Residual">
+<area shape="rect" id="node1" title="Compute the viscous flux for the turbulent equation at a particular edge." alt="" coords="5,49,187,90"/>
+<area shape="rect" id="node2" href="$classCVariable.html#a8917b262cfd00020b568078370fe914a" title="Get the first blending function of the SST model." alt="" coords="249,5,436,32"/>
+<area shape="rect" id="node3" href="$classCNumerics.html#a24166c99ca7f8f2d66e957a15519e7a1" title="Set the value of the first blending function." alt="" coords="245,56,440,83"/>
+<area shape="rect" id="node4" href="$classCScalarSolver.html#ab460d200968b7d9e19f9f408c38d5006" title="Compute the viscous flux for the scalar equation at a particular edge." alt="" coords="235,107,451,149"/>
+</map>

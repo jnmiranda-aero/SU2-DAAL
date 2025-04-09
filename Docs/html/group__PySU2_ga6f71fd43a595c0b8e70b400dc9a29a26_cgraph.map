@@ -1,0 +1,4 @@
+<map id="CDriverBase::GetNumberNodes" name="CDriverBase::GetNumberNodes">
+<area shape="rect" id="node1" title="Get the number of nodes in the mesh (including halos)." alt="" coords="5,5,232,32"/>
+<area shape="rect" id="node2" href="$classCGeometry.html#a275fb07cd99ab79d7a04b4862280169d" title="Get number of points." alt="" coords="280,5,447,32"/>
+</map>

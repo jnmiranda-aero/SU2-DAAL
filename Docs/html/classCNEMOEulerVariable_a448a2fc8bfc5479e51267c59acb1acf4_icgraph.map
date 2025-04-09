@@ -1,0 +1,7 @@
+<map id="CNEMOEulerVariable::GetVelIndex" name="CNEMOEulerVariable::GetVelIndex">
+<area shape="rect" id="node1" title="Retrieves the value of the velocity in the primitive variable vector." alt="" coords="561,71,719,112"/>
+<area shape="rect" id="node2" href="$classCNEMOEulerSolver.html#ad9c735fad084c25c2b24b9ccd3503fa8" title="Impose the outlet boundary condition." alt="" coords="299,5,470,47"/>
+<area shape="rect" id="node3" href="$classCNEMONSSolver.html#aa32b1221a071e0ecd2de381615b8adca" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="256,71,513,112"/>
+<area shape="rect" id="node4" href="$classCNEMOEulerSolver.html#af4422f49b4d3a3c85a15e519e93c7ce8" title="Set all the conserved variables from the primitive vector.." alt="" coords="271,136,498,177"/>
+<area shape="rect" id="node5" href="$classCNEMOEulerSolver.html#a427284b43fbe1f9c373096cc4bbe5781" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,136,208,177"/>
+</map>

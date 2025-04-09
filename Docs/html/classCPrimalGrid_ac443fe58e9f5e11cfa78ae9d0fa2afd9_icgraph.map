@@ -1,0 +1,11 @@
+<map id="CPrimalGrid::GetCornerPointsAllFaces" name="CPrimalGrid::GetCornerPointsAllFaces">
+<area shape="rect" id="node1" title="Virtual function, that must be overwritten by the derived class, if needed." alt="" coords="531,209,745,251"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#ac8396196dddd6caec922418eaf7d7a2a" title="Compute the weights of the FEM graph for ParMETIS." alt="" coords="261,5,461,47"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#a0a1295415b0ff3105673f5733682e151" title="Set the domains for FEM grid partitioning using ParMETIS." alt="" coords="5,129,192,171"/>
+<area shape="rect" id="node4" href="$classCPhysicalGeometry.html#acef4e18142b580bf09f21e5b71387d5f" title="Determine the donor elements for the boundary elements on viscous wall boundaries when wall functions..." alt="" coords="252,122,471,178"/>
+<area shape="rect" id="node5" href="$classCPhysicalGeometry.html#a1823c0dcfe5570115da9b7db331daaa5" title="Determine whether or not the Jacobians of the elements and faces are constant and a length scale of t..." alt="" coords="242,202,481,258"/>
+<area shape="rect" id="node6" href="$classCPhysicalGeometry.html#a4b8a3bab829079fe0425b00afe2c0dab" title="Determine the neighboring information for periodic faces of a FEM grid." alt="" coords="244,283,479,324"/>
+<area shape="rect" id="node7" href="$classCPhysicalGeometry.html#aa222a46292ba9ba3b03e581587bdbfb6" title="Reads for the FEM solver the geometry of the grid and adjust the boundary conditions with the configu..." alt="" coords="240,348,483,389"/>
+<area shape="rect" id="node9" href="$classCPhysicalGeometry.html#ab884b171a834b35e6ee2829af7c9d859" title="Reads for the FEM solver the geometry of the grid and adjust the boundary conditions with the configu..." alt="" coords="246,413,477,455"/>
+<area shape="rect" id="node8" href="$classCPhysicalGeometry.html#a075a737b341a64de5463ddd41096692e" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file." alt="" coords="20,380,177,421"/>
+</map>

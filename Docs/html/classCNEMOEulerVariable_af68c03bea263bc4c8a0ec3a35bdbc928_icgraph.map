@@ -1,0 +1,6 @@
+<map id="CNEMOEulerVariable::GetPressure" name="CNEMOEulerVariable::GetPressure">
+<area shape="rect" id="node1" title="Get the flow pressure." alt="" coords="311,71,468,112"/>
+<area shape="rect" id="node2" href="$classCNEMOEulerSolver.html#a715d85f7c0791a1258fba5746257cba0" title="Impose a subsonic inlet boundary condition." alt="" coords="49,5,219,47"/>
+<area shape="rect" id="node3" href="$classCNEMONSSolver.html#aa32b1221a071e0ecd2de381615b8adca" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="5,71,263,112"/>
+<area shape="rect" id="node4" href="$classCNEMOEulerSolver.html#af2ce132fa3e68e7cd667b5b132c538de" title="Impose the symmetry boundary condition using the residual." alt="" coords="49,136,219,177"/>
+</map>

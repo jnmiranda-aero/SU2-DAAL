@@ -1,0 +1,8 @@
+<map id="CInterpolator" name="CInterpolator">
+<area shape="rect" id="node1" title="Main class for defining the interpolator, it requires a child class for each particular interpolation..." alt="" coords="263,5,370,32"/>
+<area shape="rect" id="node2" href="$classCIsoparametric.html" title="Isoparametric interpolation." alt="" coords="5,80,127,107"/>
+<area shape="rect" id="node3" href="$classCMirror.html" title="Mirror interpolation, transpose interpolation matrix of opposing mesh." alt="" coords="151,80,221,107"/>
+<area shape="rect" id="node4" href="$classCNearestNeighbor.html" title="Nearest Neighbor(s) interpolation." alt="" coords="246,80,387,107"/>
+<area shape="rect" id="node5" href="$classCRadialBasisFunction.html" title="Radial basis function interpolation." alt="" coords="411,80,574,107"/>
+<area shape="rect" id="node6" href="$classCSlidingMesh.html" title="Sliding mesh approach." alt="" coords="599,80,709,107"/>
+</map>

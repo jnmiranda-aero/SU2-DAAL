@@ -1,23 +1,23 @@
 var group__SourceDiscr =
 [
-    [ "detail::Omega", "structdetail_1_1Omega.html", [
+    [ "Omega", "structdetail_1_1Omega.html", [
       [ "Bsl", "structdetail_1_1Omega_1_1Bsl.html", null ],
       [ "Edw", "structdetail_1_1Omega_1_1Edw.html", null ]
     ] ],
-    [ "detail::ft2", "structdetail_1_1ft2.html", [
+    [ "ft2", "structdetail_1_1ft2.html", [
       [ "Nonzero", "structdetail_1_1ft2_1_1Nonzero.html", null ],
       [ "Zero", "structdetail_1_1ft2_1_1Zero.html", null ]
     ] ],
-    [ "detail::ModVort", "structdetail_1_1ModVort.html", [
+    [ "ModVort", "structdetail_1_1ModVort.html", [
       [ "Bsl", "structdetail_1_1ModVort_1_1Bsl.html", null ],
       [ "Edw", "structdetail_1_1ModVort_1_1Edw.html", null ],
       [ "Neg", "structdetail_1_1ModVort_1_1Neg.html", null ]
     ] ],
-    [ "detail::r", "structdetail_1_1r.html", [
+    [ "r", "structdetail_1_1r.html", [
       [ "Bsl", "structdetail_1_1r_1_1Bsl.html", null ],
       [ "Edw", "structdetail_1_1r_1_1Edw.html", null ]
     ] ],
-    [ "detail::SourceTerms", "structdetail_1_1SourceTerms.html", [
+    [ "SourceTerms", "structdetail_1_1SourceTerms.html", [
       [ "Bsl", "structdetail_1_1SourceTerms_1_1Bsl.html", null ],
       [ "Neg", "structdetail_1_1SourceTerms_1_1Neg.html", null ]
     ] ],
@@ -129,7 +129,7 @@ var group__SourceDiscr =
       [ "jacobian", "classCSourceBase__Species.html#a731fc1815b3cb3a0347078874f0dce86", null ],
       [ "residual", "classCSourceBase__Species.html#a43e8372feca8b6fba9231eceb8ba647a", null ]
     ] ],
-    [ "CSourceAxisymmetric_Species< FlowIndices >", "classCSourceAxisymmetric__Species.html", [
+    [ "CSourceAxisymmetric_Species", "classCSourceAxisymmetric__Species.html", [
       [ "CSourceAxisymmetric_Species", "classCSourceAxisymmetric__Species.html#a32e4f9e023e35fda39fef0ca8e260d34", null ],
       [ "ComputeResidual", "classCSourceAxisymmetric__Species.html#ad959c3b5e60f5fd9a233a098c91322b5", null ],
       [ "idx", "classCSourceAxisymmetric__Species.html#a18352ab6b400c089174143008279eb1a", null ],
@@ -144,11 +144,10 @@ var group__SourceDiscr =
       [ "~CSource_Template", "classCSource__Template.html#a801c217cd0dac06d7642678e605b4ea8", null ],
       [ "ComputeResidual", "classCSource__Template.html#aa9930c57bdab5d9a9756eb2256004def", null ]
     ] ],
-    [ "TransLMCorrelations< FlowIndices >", "classTransLMCorrelations.html", [
-      [ "TransLMCorrelations", "classTransLMCorrelations.html#a9b147a651b6c05f734270f4996d3027e", null ],
-      [ "FLength_Correlations", "classTransLMCorrelations.html#add411a8f81895a81c86a868435f31faf", null ],
-      [ "ReThetaC_Correlations", "classTransLMCorrelations.html#aba39e2528c50b03c875d7892850a5637", null ],
-      [ "SetOptions", "classTransLMCorrelations.html#ae4db5f5a754e5da6c4e0a4d9fda535d9", null ]
+    [ "TransLMCorrelations", "classTransLMCorrelations.html", [
+      [ "FLength_Correlations", "classTransLMCorrelations.html#a930ea615c65cdeff7e7d71d8bcc176e8", null ],
+      [ "ReThetaC_Correlations", "classTransLMCorrelations.html#aa4e20a2ce9cb5835a3143fd9d2894b40", null ],
+      [ "SetOptions", "classTransLMCorrelations.html#a85ea5b7d4af1a7b25238d6754b734862", null ]
     ] ],
     [ "CSourcePieceWise_TranLM", "classCSourcePieceWise__TranLM.html", null ],
     [ "CSAVariables", "structCSAVariables.html", [
@@ -189,14 +188,16 @@ var group__SourceDiscr =
       [ "k2", "structCSAVariables.html#a727e7a2fcf2b61f30c3a4a8ddc13bfcf", null ],
       [ "norm2_Grad", "structCSAVariables.html#a7a2abac7b3570cef571d4356f36944c1", null ],
       [ "Omega", "structCSAVariables.html#a399a8cab9bcbd795f0bc58f9dcfee302", null ],
+      [ "Prod", "structCSAVariables.html#a51844068ec712e2b0aa7051d883f3aff", null ],
       [ "r", "structCSAVariables.html#abf0f729c923e1ce25ec60651a9afe86d", null ],
-      [ "S", "structCSAVariables.html#ad653c3c40866fa60feb73308493c22d2", null ],
       [ "Shat", "structCSAVariables.html#a8e2372d58283a72152fedf1792bca069", null ],
       [ "sigma", "structCSAVariables.html#a1e15e5a573437f23529944ba3e69c7d5", null ]
     ] ],
-    [ "CSourceBase_TurbSA< FlowIndices, Omega, ft2, ModVort, rFunc, SourceTerms >", "classCSourceBase__TurbSA.html", [
+    [ "CSourceBase_TurbSA", "classCSourceBase__TurbSA.html", [
       [ "CSourceBase_TurbSA", "classCSourceBase__TurbSA.html#a0c509998d009493ef6512ade18125cc3", null ],
       [ "ComputeResidual", "classCSourceBase__TurbSA.html#a98179f7fb85368f815c070b96774b6de", null ],
+      [ "ResidualAxisymmetricDiffusion", "classCSourceBase__TurbSA.html#aeb02868a9caf060ef5330c95447ccf1f", null ],
+      [ "axisymmetric", "classCSourceBase__TurbSA.html#af8e2c1c6d8f36f6ad9152e177a1e9cae", null ],
       [ "idx", "classCSourceBase__TurbSA.html#a00e11b799492615212b3b14c16d3d862", null ],
       [ "Jacobian_Buffer", "classCSourceBase__TurbSA.html#a63c5ade30bab8f97a3912bf8c255ed42", null ],
       [ "Jacobian_i", "classCSourceBase__TurbSA.html#a65fa5354905f35fa407d3e7c628962a3", null ],
@@ -204,16 +205,16 @@ var group__SourceDiscr =
       [ "Residual", "classCSourceBase__TurbSA.html#aa8d24b8ee35095b45fb66a98ca0bb1dd", null ],
       [ "transition_LM", "classCSourceBase__TurbSA.html#aee70f642ddab28132824514f4c4ac545", null ]
     ] ],
-    [ "detail::CCompressibilityCorrection< ParentClass >", "classdetail_1_1CCompressibilityCorrection.html", [
+    [ "CCompressibilityCorrection", "classdetail_1_1CCompressibilityCorrection.html", [
       [ "CCompressibilityCorrection", "classdetail_1_1CCompressibilityCorrection.html#ae42ce06954c1648a81807b9a30a8e2ff", null ],
       [ "ComputeResidual", "classdetail_1_1CCompressibilityCorrection.html#aef9d9fdfcefaf493ebf5c15ae106a679", null ]
     ] ],
-    [ "CSourcePieceWise_TurbSST< FlowIndices >", "classCSourcePieceWise__TurbSST.html", [
+    [ "CSourcePieceWise_TurbSST", "classCSourcePieceWise__TurbSST.html", [
       [ "CSourcePieceWise_TurbSST", "classCSourcePieceWise__TurbSST.html#abd8e2a3e1636ebe2a189afec0f96f501", null ],
       [ "ComputeResidual", "classCSourcePieceWise__TurbSST.html#a6d1441810be5842a599a57908180032c", null ],
       [ "SetCrossDiff", "classCSourcePieceWise__TurbSST.html#a25deed0e7a315d4f7a153c17ccfef0f6", null ],
       [ "SetF1blending", "classCSourcePieceWise__TurbSST.html#ac73be1af2bd7b257a0760c00ff24b8f1", null ],
       [ "SetF2blending", "classCSourcePieceWise__TurbSST.html#af51c249a17606c734ea2b862cf1c2514", null ]
     ] ],
-    [ "SAFactory", "group__SourceDiscr.html#ga38451735c4f2f831ca38e70f9d447e8a", null ]
+    [ "SAFactory", "group__SourceDiscr.html#gad7f95735b4db53189edd7f66823447e0", null ]
 ];

@@ -1,0 +1,20 @@
+<map id="CUpwRoe_NEMO::ComputeResidual" name="CUpwRoe_NEMO::ComputeResidual">
+<area shape="rect" id="node1" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="5,292,260,319"/>
+<area shape="rect" id="node2" href="$group__SIMD.html#gaf7650d08e2a58ed700276ddc70f72f96" title=" " alt="" coords="406,39,451,65"/>
+<area shape="rect" id="node3" href="$classCNEMOGas.html#a424da7362e12de29fcebf761cb8eabaa" title="Compute derivative of pressure w.r.t. conservative variables." alt="" coords="330,89,527,116"/>
+<area shape="rect" id="node9" href="$classCNEMOGas.html#aa1fcdfc3922e1e1779ba689736ab7db6" title="Compute vector of species V&#45;E energy." alt="" coords="310,140,547,167"/>
+<area shape="rect" id="node10" href="$classCNumerics.html#a2cd0068b9de0f4405b0f8d5714faafc6" title="Computes a basis of orthogonal vectors from a supplied vector." alt="" coords="339,241,518,268"/>
+<area shape="rect" id="node11" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="695,241,742,268"/>
+<area shape="rect" id="node12" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="888,409,1105,436"/>
+<area shape="rect" id="node13" href="$classCNEMONumerics.html#a00c3520411501dad471994224495c593" title="Compute the projected inviscid flux vector." alt="" coords="321,343,536,385"/>
+<area shape="rect" id="node14" href="$classCNEMONumerics.html#aa830e825531e3cd516b45dfdad5567d8" title="Compute the projection of the inviscid Jacobian matrices for the two&#45;temperature model." alt="" coords="611,402,826,443"/>
+<area shape="rect" id="node15" href="$classCNEMONumerics.html#ab6a7674840b25d128b595b5bcfe350cf" title="Computation of the matrix P, this matrix diagonalizes the conservative Jacobians in the form $P^{&#45;1}(..." alt="" coords="321,460,536,487"/>
+<area shape="rect" id="node16" href="$classCNEMONumerics.html#a39ea60d3146b8a1990f765200391a831" title="Computation of the matrix P^{&#45;1}, this matrix diagonalizes the conservative Jacobians in the form $P^..." alt="" coords="308,511,549,537"/>
+<area shape="rect" id="node17" href="$group__GeometryToolbox.html#gad8b24e50333c9a8378f7abf18222f36a" title=" " alt="" coords="338,292,519,319"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="628,5,809,32"/>
+<area shape="rect" id="node6" href="$classCNEMOGas.html#a99fcf844d1e87f6883e1cfb363be74b3" title="Get reference temperature." alt="" coords="603,56,834,83"/>
+<area shape="rect" id="node7" href="$classCNEMOGas.html#a67fbebd4d497989fb7d0ae3c1d242689" title="Get species T&#45;R specific heats at constant volume." alt="" coords="601,107,836,133"/>
+<area shape="rect" id="node8" href="$classCNEMOGas.html#a21a832de3dae09a10308643423f9336e" title="Get species formation enthalpy." alt="" coords="597,158,840,199"/>
+<area shape="rect" id="node5" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="904,5,1089,32"/>
+<area shape="rect" id="node18" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="601,321,836,348"/>
+</map>

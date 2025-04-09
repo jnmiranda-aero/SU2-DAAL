@@ -1,0 +1,10 @@
+<map id="CVariable::GetSolution_Accel_time_n" name="CVariable::GetSolution_Accel_time_n">
+<area shape="rect" id="node1" title="Get the acceleration of the nodes (Structural Analysis) at time n." alt="" coords="524,169,692,211"/>
+<area shape="rect" id="node2" href="$classCFEASolver.html#ac275af8f893ef5957379314816d17fa8" title="Compute the stress at the nodes for output purposes." alt="" coords="284,5,448,47"/>
+<area shape="rect" id="node4" href="$classCFEASolver.html#a703228b8706352d33f34cc0baf1f9b04" title="Iterate using an implicit Generalized Alpha solver." alt="" coords="256,71,476,112"/>
+<area shape="rect" id="node5" href="$classCFEASolver.html#ae7093ed0256ce5c606885492f2cdfbe3" title="Update the solution using an implicit Generalized Alpha solver." alt="" coords="256,136,476,177"/>
+<area shape="rect" id="node6" href="$classCFEASolver.html#a27e71a93f7f114cc8506f35c2ed957c3" title="Iterate using an implicit Newmark solver." alt="" coords="257,201,475,243"/>
+<area shape="rect" id="node7" href="$classCFEASolver.html#a57098cba5a845904e6f0219f8e564b18" title="A virtual member." alt="" coords="257,267,475,308"/>
+<area shape="rect" id="node8" href="$classCFEASolver.html#a3d61b3f8e11b80153f7691c55b583b9d" title="Update the solution using an implicit Newmark solver." alt="" coords="257,332,475,373"/>
+<area shape="rect" id="node3" href="$classCFEASolver.html#ab4fa9086b598c5778c9c0403a5626d1b" title="Postprocessing." alt="" coords="5,13,208,39"/>
+</map>

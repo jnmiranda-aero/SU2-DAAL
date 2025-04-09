@@ -1,0 +1,5 @@
+<map id="CPoint::SetViscousBoundary" name="CPoint::SetViscousBoundary">
+<area shape="rect" id="node1" title="Set if a point belong to the boundary." alt="" coords="211,46,416,73"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#a1932ad72c420cb68fc9e0c13ae77d695" title="Set the send receive boundaries of the grid." alt="" coords="5,5,163,47"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#a15b82329219f6927e581bb6c70edbc5a" title="Set a renumbering using a Reverse Cuthill&#45;McKee Algorithm." alt="" coords="5,71,163,112"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="CGeometry::GetnVertexSpan" name="CGeometry::GetnVertexSpan">
+<area shape="rect" id="node1" title="Get number of vertices." alt="" coords="284,260,492,287"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a40fad0a57e8dcba8a8f4d4fa8eab02f0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="35,5,206,32"/>
+<area shape="rect" id="node3" href="$classCTurbSASolver.html#a01e392cd5dd660196e86d7dec01d1acd" title="Impose the inlet boundary condition." alt="" coords="31,57,210,98"/>
+<area shape="rect" id="node4" href="$classCTurbSSTSolver.html#a9d4b339f4ee99d06b604bf17a24e8fe8" title="Impose the inlet boundary condition." alt="" coords="46,122,195,163"/>
+<area shape="rect" id="node5" href="$classCTurbSASolver.html#a9cdd12aa912c00c12dbb80cc21c7977a" title="Impose the inlet boundary condition." alt="" coords="31,187,210,229"/>
+<area shape="rect" id="node6" href="$classCTurbSSTSolver.html#a054ade13cc21d3d718c8fa2f2d514112" title="Impose the inlet boundary condition." alt="" coords="46,253,195,294"/>
+<area shape="rect" id="node7" href="$classCEulerSolver.html#a8e036f2dff1d945d814c93a74159a3cc" title="Impose the boundary condition using characteristic recostruction." alt="" coords="5,319,236,345"/>
+<area shape="rect" id="node8" href="$classCEulerSolver.html#a220a1c92ae192cc3962acf187cc0628c" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="29,370,213,411"/>
+<area shape="rect" id="node9" href="$classCEulerSolver.html#a4effd63e51aef9426ea0e327c104bb30" title="It computes Fourier transformation for the needed quantities along the pitch for each span in turboma..." alt="" coords="29,435,213,477"/>
+<area shape="rect" id="node10" href="$classCEulerSolver.html#afe2f428da073b80f64c41422971f9748" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="20,501,221,542"/>
+</map>

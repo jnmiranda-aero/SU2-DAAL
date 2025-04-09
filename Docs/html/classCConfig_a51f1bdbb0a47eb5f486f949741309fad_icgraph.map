@@ -1,0 +1,10 @@
+<map id="CConfig::GetCFLRedCoeff_Turb" name="CConfig::GetCFLRedCoeff_Turb">
+<area shape="rect" id="node1" title="Value of the CFL reduction in turbulence problems." alt="" coords="717,107,937,133"/>
+<area shape="rect" id="node2" href="$classCSolver.html#a7db35f21bf505e35cce4bcdf38af3b2a" title="Adapt the CFL number based on the local under&#45;relaxation parameters computed for each nonlinear itera..." alt="" coords="454,5,649,32"/>
+<area shape="rect" id="node5" href="$classCHeatSolver.html#a89c9ece2b98a950e53f4ee9482968186" title="Constructor of the class." alt="" coords="455,56,647,83"/>
+<area shape="rect" id="node6" href="$classCTransLMSolver.html#a4975cbf30f2954e3da1244832999eda0" title=" " alt="" coords="433,107,669,133"/>
+<area shape="rect" id="node7" href="$classCTurbSASolver.html#a06a8b09d1563dd48f364ff6e97c25cd8" title="Constructor." alt="" coords="441,157,661,184"/>
+<area shape="rect" id="node8" href="$classCTurbSSTSolver.html#a84beba65418c7c2ca4f4843b989b360a" title="Constructor." alt="" coords="435,208,667,235"/>
+<area shape="rect" id="node3" href="$classCFluidIteration.html#a9ce0d8765aff42207afcd2c9ab6f71d8" title="Perform a single iteration of the fluid system." alt="" coords="216,5,385,32"/>
+<area shape="rect" id="node4" href="$classCFluidIteration.html#ae4c454356af70246063fdcba4accb068" title="Iterate the fluid system for a number of Inner_Iter iterations." alt="" coords="5,5,168,32"/>
+</map>

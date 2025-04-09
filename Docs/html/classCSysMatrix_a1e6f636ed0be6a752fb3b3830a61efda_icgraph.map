@@ -1,0 +1,11 @@
+<map id="CSysMatrix::UpdateBlocks" name="CSysMatrix::UpdateBlocks">
+<area shape="rect" id="node1" title="Update 4 blocks ii, ij, ji, jj (add to i* sub from j*)." alt="" coords="531,166,725,193"/>
+<area shape="rect" id="node2" href="$classCNEMOEulerSolver.html#a7765314bdcc7440ec4b1826ab6cf16f3" title="Compute the spatial integration using a centered scheme." alt="" coords="271,5,483,47"/>
+<area shape="rect" id="node3" href="$classCIncEulerSolver.html#a80e45f4af7302e9334c8663f9e3ae88b" title="Compute the spatial integration using a centered scheme." alt="" coords="281,71,472,112"/>
+<area shape="rect" id="node4" href="$util_8hpp.html#a2b3edc92a968743cdc11b2e393d7c3fc" title="Update the matrix and right&#45;hand&#45;side of a linear system." alt="" coords="299,137,455,163"/>
+<area shape="rect" id="node7" href="$classCEulerSolver.html#aa9729921eed9546daca6ca891ad2a9bb" title="Compute the spatial integration using a upwind scheme." alt="" coords="295,188,458,229"/>
+<area shape="rect" id="node8" href="$classCIncEulerSolver.html#aa1a06c3eef34a7f82f5bca304d563b4a" title="Compute the spatial integration using a upwind scheme." alt="" coords="286,253,467,295"/>
+<area shape="rect" id="node9" href="$classCNEMOEulerSolver.html#a427284b43fbe1f9c373096cc4bbe5781" title="Compute the spatial integration using a upwind scheme." alt="" coords="275,319,478,360"/>
+<area shape="rect" id="node5" href="$classCCenteredBase.html#ac9b1510a81f92bcdc4c319b415d1ea82" title="Implementation of the base centered flux." alt="" coords="5,111,223,138"/>
+<area shape="rect" id="node6" href="$classCRoeBase.html#a66014e97b96e951548712bc65bb2857e" title="Implementation of the base Roe flux." alt="" coords="23,162,205,189"/>
+</map>

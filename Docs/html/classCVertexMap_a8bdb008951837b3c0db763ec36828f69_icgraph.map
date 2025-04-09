@@ -1,0 +1,11 @@
+<map id="CVertexMap::SetIsVertex" name="CVertexMap::SetIsVertex">
+<area shape="rect" id="node1" title="Set the vertex status of a point." alt="" coords="517,143,700,170"/>
+<area shape="rect" id="node2" href="$classCSobolevSmoothingVariable.html#a8e64d673c8189c5c5803b0cd3fcdba5c" title="Mark a point as boundary of a boundary." alt="" coords="261,5,468,47"/>
+<area shape="rect" id="node4" href="$classCDiscAdjFEABoundVariable.html#a06eebd60f9117612b8f5658b95f049a0" title="Set whether a node is on the boundary." alt="" coords="265,71,464,112"/>
+<area shape="rect" id="node6" href="$classCDiscAdjMeshBoundVariable.html#ac0efd2c50e564e35d008cb6d9fd383f9" title="Set whether a node is on the boundary." alt="" coords="260,136,469,177"/>
+<area shape="rect" id="node8" href="$classCFEABoundVariable.html#a6c0d392c1bf6075aa782367229a56a8f" title="Set whether a node is on the boundary." alt="" coords="285,201,444,243"/>
+<area shape="rect" id="node9" href="$classCMeshBoundVariable.html#aed981cbbf49952d191ca0babdca79de4" title="Set whether a node is on the boundary." alt="" coords="285,267,445,308"/>
+<area shape="rect" id="node3" href="$classCGradientSmoothingSolver.html#a388e06af9042060ac43193566bb03cc8" title="Constructor of the class." alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node5" href="$classCDiscAdjFEASolver.html#ae74a58b4ee4459687d1c4f4e0d0e15ff" title=" " alt="" coords="31,71,186,112"/>
+<area shape="rect" id="node7" href="$classCDiscAdjMeshSolver.html#a346e76045c3b527d32288d0d9a7a2bab" title=" " alt="" coords="27,136,191,177"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="CConfig::GetWall_HeatFlux" name="CConfig::GetWall_HeatFlux">
+<area shape="rect" id="node1" title="Get the wall heat flux on a constant heat flux boundary." alt="" coords="771,163,968,190"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__NSSolver.html#ac55acb75de727685caa05b9273267f8e" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="515,5,694,47"/>
+<area shape="rect" id="node3" href="$classCHeatSolver.html#ac8bd9350053fa2937ba6a4262f46fa2a" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="489,71,720,98"/>
+<area shape="rect" id="node4" href="$classCNEMONSSolver.html#a1d9ff4495625b00bfbf46b3ad87c4167" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="493,123,716,164"/>
+<area shape="rect" id="node6" href="$classCNEMONSSolver.html#acd1bedbd2a7588cfa7a86831d4c9dfc9" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="493,188,716,229"/>
+<area shape="rect" id="node7" href="$classCFEM__DG__NSSolver.html#a5118d674e7eb6f4865fb53f6f20eac1c" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="501,253,709,295"/>
+<area shape="rect" id="node8" href="$classCGeometry.html#a15dd9fe9352493c70f21b217bab034ea" title="Set the data containers for customized boundary conditions." alt="" coords="487,319,723,346"/>
+<area shape="rect" id="node5" href="$classCNEMONSSolver.html#aa52e178cc5f052026e73735d6e9b847f" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="181,163,439,190"/>
+<area shape="rect" id="node9" href="$classCDriver.html#a2db38ef6359a77231cf866302b0929e8" title="Initialize Python interface functionalities. When using multigrid, it is important to call this after..." alt="" coords="213,312,407,353"/>
+<area shape="rect" id="node10" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="5,319,133,346"/>
+</map>

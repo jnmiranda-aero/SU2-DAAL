@@ -1,0 +1,9 @@
+<map id="CFlowVariable::GetVelocity2" name="CFlowVariable::GetVelocity2">
+<area shape="rect" id="node1" title="Get the squared norm of the velocity." alt="" coords="883,60,1089,87"/>
+<area shape="rect" id="node2" href="$classCIncEulerSolver.html#a3e20d6912dc1a1806424e31b12bd80f4" title="Update the Beta parameter for the incompressible preconditioner." alt="" coords="629,23,812,65"/>
+<area shape="rect" id="node6" href="$classCEulerSolver.html#a0c511d1e0a149308c0efffa9e6b9db85" title="Compute the preconditioner for convergence acceleration by Roe&#45;Turkel method." alt="" coords="607,89,835,116"/>
+<area shape="rect" id="node3" href="$classCIncEulerSolver.html#ac50d02e914c4337e73d2c4878b12c59d" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="276,31,559,57"/>
+<area shape="rect" id="node4" href="$classCIncEulerSolver.html#aac33066eba6bdbe02693afb992e307d8" title="Compute primitive variables and their gradients." alt="" coords="5,5,228,32"/>
+<area shape="rect" id="node5" href="$classCIncNSSolver.html#aaaff5cfe93aa72a689248c80b2ea9149" title="Restart residual and compute gradients." alt="" coords="13,56,221,83"/>
+<area shape="rect" id="node7" href="$classCEulerSolver.html#afd623280ddc50fbc59b7ddcc9e638217" title="Prepare an implicit iteration." alt="" coords="311,82,523,123"/>
+</map>

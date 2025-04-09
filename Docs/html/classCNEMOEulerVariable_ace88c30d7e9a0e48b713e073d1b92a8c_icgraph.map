@@ -1,0 +1,8 @@
+<map id="CNEMOEulerVariable::GetSoundSpeed" name="CNEMOEulerVariable::GetSoundSpeed">
+<area shape="rect" id="node1" title="Get the speed of the sound." alt="" coords="848,53,1005,94"/>
+<area shape="rect" id="node2" href="$classCNEMOEulerSolver.html#aa07c0832428ab3bb9aef437d98f1fd26" title="Set the maximum value of the eigenvalue." alt="" coords="577,23,780,65"/>
+<area shape="rect" id="node6" href="$classCNEMOEulerSolver.html#a2c43958aea35df86bce9cdaf1461232c" title="Compute the time step for solving the Euler equations." alt="" coords="557,89,800,116"/>
+<area shape="rect" id="node3" href="$classCNEMOEulerSolver.html#a27f21d6dbfb7f6c600f759caf7625087" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="297,23,509,65"/>
+<area shape="rect" id="node4" href="$classCNEMOEulerSolver.html#a3c5a59b5c1c9195757626bff151dbaa9" title="Compute the velocity^2, SoundSpeed, Pressure, Enthalpy, Viscosity." alt="" coords="5,5,249,32"/>
+<area shape="rect" id="node5" href="$classCNEMONSSolver.html#aef1c13c42cd8103377619f7d94660d6a" title="Restart residual and compute gradients." alt="" coords="13,56,242,83"/>
+</map>

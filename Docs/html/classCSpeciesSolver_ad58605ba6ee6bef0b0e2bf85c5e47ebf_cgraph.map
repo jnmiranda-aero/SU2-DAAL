@@ -1,0 +1,6 @@
+<map id="CSpeciesSolver::Viscous_Residual" name="CSpeciesSolver::Viscous_Residual">
+<area shape="rect" id="node1" title="Compute the viscous flux for the turbulent equation at a particular edge." alt="" coords="5,49,185,90"/>
+<area shape="rect" id="node2" href="$classCSpeciesVariable.html#aae13cb2b3f3513150226afaa146b2cef" title="Get the value of the mass diffusivity." alt="" coords="237,5,469,32"/>
+<area shape="rect" id="node3" href="$classCNumerics.html#af6b1e11963e6a4b8ec03459f8bcccf6a" title="Set the diffusion coefficient." alt="" coords="245,56,460,83"/>
+<area shape="rect" id="node4" href="$classCScalarSolver.html#ab460d200968b7d9e19f9f408c38d5006" title="Compute the viscous flux for the scalar equation at a particular edge." alt="" coords="233,107,472,149"/>
+</map>

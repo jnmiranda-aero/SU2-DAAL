@@ -1,0 +1,6 @@
+<map id="CPoint::SetColor" name="CPoint::SetColor">
+<area shape="rect" id="node1" title="Set a color to the point that comes from the grid partitioning." alt="" coords="417,46,544,73"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#af0b666209dbd671fdaf3104cbcda5445" title="Load the local grid points after partitioning (owned and ghost) into the geometry class objects." alt="" coords="211,5,369,47"/>
+<area shape="rect" id="node4" href="$classCPhysicalGeometry.html#a27f2280d718b6ce42b4ff31476f5e32b" title="Set the domains for grid grid partitioning using ParMETIS." alt="" coords="211,71,369,112"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#addad3f466423ba9243a396763d442f9a" title="Accepts a geometry container holding a linearly partitioned grid with coloring performed by ParMETIS,..." alt="" coords="5,5,163,47"/>
+</map>

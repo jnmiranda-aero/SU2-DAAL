@@ -1,0 +1,10 @@
+<map id="COutput::SetMultizoneHistoryOutput" name="COutput::SetMultizoneHistoryOutput">
+<area shape="rect" id="node1" title=" " alt="" coords="1052,93,1267,135"/>
+<area shape="rect" id="node2" href="$classCMultizoneDriver.html#ae72bb40195e4066bc4be4adfb0df29e9" title="Check the convergence at the outer level." alt="" coords="740,71,1004,98"/>
+<area shape="rect" id="node7" href="$classCDiscAdjMultizoneDriver.html#af996aecdb6d20aa4fc81c9b67295abf5" title="[Overload] Run an discrete adjoint update of all solvers within multiple zones." alt="" coords="763,126,981,153"/>
+<area shape="rect" id="node3" href="$classCMultizoneDriver.html#a264bb90660193f4c197a3b64df8ccb22" title="Run a Block Gauss&#45;Seidel iteration in all physical zones." alt="" coords="484,5,692,47"/>
+<area shape="rect" id="node6" href="$classCMultizoneDriver.html#a6a3c67903b810b5cd8c392691ff2e86e" title="Run a Block&#45;Jacobi iteration in all physical zones." alt="" coords="485,71,691,98"/>
+<area shape="rect" id="node4" href="$classCMultizoneDriver.html#abe9df84668f2019fb5e1921752994dea" title="Solves one time iteration." alt="" coords="268,42,436,69"/>
+<area shape="rect" id="node5" href="$classCMultizoneDriver.html#a48545e4827cc34298f792995e06d90dd" title="[Overload] Launch the computation for multizone problems." alt="" coords="5,42,220,69"/>
+<area shape="rect" id="node8" href="$classCDiscAdjMultizoneDriver.html#a75de0a1a482ceeed4301a384f1515092" title="[Overload] Launch the computation for discrete adjoint multizone problems." alt="" coords="496,123,680,164"/>
+</map>

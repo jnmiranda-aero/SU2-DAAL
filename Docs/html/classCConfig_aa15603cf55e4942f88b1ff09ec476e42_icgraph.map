@@ -1,0 +1,12 @@
+<map id="CConfig::GetThermal_Conductivity_Ref" name="CConfig::GetThermal_Conductivity_Ref">
+<area shape="rect" id="node1" title="Get the value of the reference thermal conductivity for non&#45;dimensionalization." alt="" coords="619,115,776,156"/>
+<area shape="rect" id="node2" href="$classCConjugateHeatInterface.html#a11264c7dda7df147258e1ee89b315ea8" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="326,5,513,47"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="277,71,561,98"/>
+<area shape="rect" id="node5" href="$classCIncEulerSolver.html#a2cffaa24417cb3803d36d38b3874d6d0" title="Set the solver nondimensionalization." alt="" coords="268,122,571,149"/>
+<area shape="rect" id="node7" href="$classCFEM__DG__EulerSolver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="319,176,520,217"/>
+<area shape="rect" id="node9" href="$classCFlowOutput.html#aff6a6f11c9f53f559bab9ca94b21cd2a" title="Write the forces breakdown file." alt="" coords="324,241,515,283"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460" title="Main constructor of this class." alt="" coords="15,61,211,87"/>
+<area shape="rect" id="node6" href="$classCIncEulerSolver.html#a2a0c72c1d1d79e45c69da03e01f6281a" title="Constructor of the class." alt="" coords="16,112,209,153"/>
+<area shape="rect" id="node8" href="$classCFEM__DG__EulerSolver.html#a70d30ef9e7cd7620d54ec73f4b1ed28c" title=" " alt="" coords="25,177,200,219"/>
+<area shape="rect" id="node10" href="$classCFlowOutput.html#aaac3fb7b2575967b157c306065ab1ea8" title="Write any additional files defined for the current solver." alt="" coords="5,243,220,284"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="CNEMOEulerSolver::CNEMOEulerSolver" name="CNEMOEulerSolver::CNEMOEulerSolver">
+<area shape="rect" id="node1" title="Contructor of the class." alt="" coords="5,1339,240,1380"/>
+<area shape="rect" id="node2" href="$classCFVMFlowSolverBase.html#a9e2d5fb6a392dfffc4e84fc203cf103f" title="Allocate member variables." alt="" coords="334,125,566,196"/>
+<area shape="rect" id="node3" href="$classCFVMFlowSolverBase.html#a34c8c74df2239d8d6ecf4204aed084aa" title="Allocate small member variables that ideally should not be used." alt="" coords="319,221,581,306"/>
+<area shape="rect" id="node4" href="$classCFVMFlowSolverBase.html#ae06b2ffc1a1010f31dcfea2c24dbf46a" title="Communicate the initial solver state." alt="" coords="334,331,566,401"/>
+<area shape="rect" id="node5" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="677,698,859,725"/>
+<area shape="rect" id="node7" href="$classCConfig.html#aa824c1a1b3c7cd05b7be414a76e0b250" title="Get the angle of attack of the body. This is the angle between a reference line on a lifting body (of..." alt="" coords="703,799,833,826"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a25bfd5255f84135494ca2c368a848f98" title="Get the angle of sideslip of the body. It relates to the rotation of the aircraft centerline from the..." alt="" coords="704,850,832,877"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a1eb754aa86fb8154bc9eefea616b7cf9" title="Determines if problem is adjoint." alt="" coords="362,1309,538,1351"/>
+<area shape="rect" id="node10" href="$classCConfig.html#af30dc08c28dd72bfcedc6a5a4e224036" title="Get the value of the non&#45;dimensionalized freestream density." alt="" coords="691,901,845,943"/>
+<area shape="rect" id="node11" href="$classCConfig.html#a1756760d4a98f886411a703d71bda3f2" title="Get the direct differentation method." alt="" coords="367,1375,533,1402"/>
+<area shape="rect" id="node12" href="$classCConfig.html#ab3928c4e6debcf50dcd0d38985f6980c" title="Get the indicator whether we are solving an discrete adjoint problem." alt="" coords="689,5,847,47"/>
+<area shape="rect" id="node13" href="$classCConfig.html#a6352cd90308195b5fc1ba7eab02d46c1" title="Get information about dynamic grids." alt="" coords="353,1426,547,1453"/>
+<area shape="rect" id="node14" href="$classCConfig.html#af7c4169d5b73657a9a3ea94b54931f91" title="Add any numbers necessary to the filename (iteration number, zone ID ...)" alt="" coords="369,1477,531,1503"/>
+<area shape="rect" id="node15" href="$classCConfig.html#a463e52337786b9fbbbaaadbe15f6bad5" title="Provides the gas mass fractions of the flow." alt="" coords="341,1527,559,1554"/>
+<area shape="rect" id="node16" href="$classCConfig.html#a568405f750ddcd4f702197e66b477ff9" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="355,1579,545,1620"/>
+<area shape="rect" id="node17" href="$classCConfig.html#a5a078901bb388e9caa9cb856e3348f0b" title="Get the value of the Mach number (velocity divided by speed of sound)." alt="" coords="699,967,837,994"/>
+<area shape="rect" id="node18" href="$classCGeometry.html#ace7f7fe876f629f5bd5f92d4805a1a4b" title="Get number of coordinates." alt="" coords="369,1645,531,1671"/>
+<area shape="rect" id="node19" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="360,1695,540,1722"/>
+<area shape="rect" id="node20" href="$classCGeometry.html#a275fb07cd99ab79d7a04b4862280169d" title="Get number of points." alt="" coords="367,1746,533,1773"/>
+<area shape="rect" id="node21" href="$classCGeometry.html#ac84179060bbac1fe5e856ea3da850b6e" title="Get number of real points (that belong to the domain)." alt="" coords="341,1797,559,1823"/>
+<area shape="rect" id="node22" href="$classCConfig.html#acca4077dbb4f00718adc5e831b561927" title="Provides the number of species present in the gas mixture." alt="" coords="369,1847,531,1874"/>
+<area shape="rect" id="node23" href="$classCGeometry.html#a83adc5e529673587c0aae63212262c31" title="Get number of zones." alt="" coords="367,1898,533,1925"/>
+<area shape="rect" id="node24" href="$classCConfig.html#a71d391a22f5b0b7d2bcfb1e0028374da" title="Get the value of the non&#45;dimensionalized freestream pressure." alt="" coords="689,1019,847,1060"/>
+<area shape="rect" id="node25" href="$classCConfig.html#ae55bdae4e8b4e61fd07a857005cc6799" title="Provides the restart information." alt="" coords="693,749,843,775"/>
+<area shape="rect" id="node26" href="$classCConfig.html#adcabc4f6a112bad643edb968a79e6866" title="For some problems like adjoint or the linearized equations it is necessary to restart the flow soluti..." alt="" coords="356,1949,544,1975"/>
+<area shape="rect" id="node27" href="$classCConfig.html#aeca467e3a7c02d72b28ade957614035c" title="Get the restart iteration." alt="" coords="361,1999,539,2026"/>
+<area shape="rect" id="node28" href="$classCConfig.html#afa49e1ce7793a31cc572d957caffaef9" title="Get the value of the non&#45;dimensionalized freestream temperature." alt="" coords="675,1084,861,1125"/>
+<area shape="rect" id="node29" href="$classCConfig.html#a275abdba5185cad0b9b1d8a0284f564d" title="Get the value of the non&#45;dimensionalized vibrational&#45;electronic freestream temperature." alt="" coords="675,1149,861,1191"/>
+<area shape="rect" id="node30" href="$classCConfig.html#ac47e04d76ce865893a94dcedd3c9b6a5" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="667,1215,869,1242"/>
+<area shape="rect" id="node31" href="$classCConfig.html#a394c8970c51a8aa733dca7f810e6fd4c" title="Get the starting direct iteration number for the unsteady adjoint (reverse time integration)." alt="" coords="346,2050,554,2077"/>
+<area shape="rect" id="node32" href="$classCConfig.html#ae33781eb89184d511e23b7e247d21c8a" title="Get the vector of the non&#45;dimensionalized freestream velocity." alt="" coords="691,1267,845,1308"/>
+<area shape="rect" id="node33" href="$classCSysMatrix.html#ae17220ac30c2abcc7fdd3c5dc8f04571" title="Initializes the sparse matrix." alt="" coords="370,477,530,503"/>
+<area shape="rect" id="node44" href="$namespaceSU2__TYPE.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="394,2101,506,2127"/>
+<area shape="rect" id="node45" href="$classCSolver.html#a154aed3dea449c2277488620cccd5e79" title="Read the metadata from a native SU2 restart file (ASCII or binary)." alt="" coords="350,736,550,777"/>
+<area shape="rect" id="node46" href="$classCSolver.html#ad982896202dae6e41bfd3568f597cf46" title="Call this method to set &quot;base_nodes&quot; after the &quot;nodes&quot; variable of the derived solver is instantiated..." alt="" coords="343,2152,557,2193"/>
+<area shape="rect" id="node47" href="$namespaceSU2__TYPE.html#ab0b85db43e1495ffbb0f2c823f24935e" title="Set the derivative value of the datatype (needs to be implemented for each new type)." alt="" coords="358,2218,542,2245"/>
+<area shape="rect" id="node48" href="$classCNEMOEulerSolver.html#ad23673d38da9e895e4802b6d4d000c1b" title="Set the fluid solver nondimensionalization." alt="" coords="288,1005,612,1031"/>
+<area shape="rect" id="node49" href="$classCNEMOEulerVariable.html#aaf86b1f3586f5b0b8015ddf1311d7ce4" title="Set all the primitive variables for compressible flows." alt="" coords="371,2269,529,2311"/>
+<area shape="rect" id="node50" href="$classCNEMOEulerSolver.html#a1b6a2fff685b4bf521c51c847cd0bc08" title="Set reference values for pressure, forces, etc." alt="" coords="330,2335,570,2376"/>
+<area shape="rect" id="node6" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="924,698,1109,725"/>
+<area shape="rect" id="node34" href="$omp__structure_8hpp.html#a6a308c63005823370a2ffd6a82f3868f" title="Compute a chunk size based on totalWork and number of threads such that all threads get the same numb..." alt="" coords="676,319,860,346"/>
+<area shape="rect" id="node35" href="$classcontainer__details_1_1AccessorImpl.html#a5b5318f7212e57c13e464c398f74b3d5" title=" " alt="" coords="695,371,841,412"/>
+<area shape="rect" id="node36" href="$classCGeometry.html#a23b0c8683a48437d049bdfd8ca05a216" title="Get the edge to sparse pattern map." alt="" coords="660,436,876,477"/>
+<area shape="rect" id="node37" href="$classCConfig.html#a8b36810235437e0319ccab9d7e0e5db0" title="Get the kind of preconditioner for the implicit solver." alt="" coords="674,501,862,543"/>
+<area shape="rect" id="node38" href="$classCConfig.html#a968a1fa9afc1e0df8bd1b5c9f6359ea8" title="Get the kind of preconditioner for the implicit solver." alt="" coords="674,567,862,608"/>
+<area shape="rect" id="node39" href="$classCConfig.html#aaca6df27a6a89d5795c1ea514f67dfe8" title="Get the kind of preconditioner for the gradient smoothing." alt="" coords="683,632,853,673"/>
+<area shape="rect" id="node40" href="$classCConfig.html#aa3e3027bc3231172777ee296694d5e63" title="Get the kind of preconditioner for the implicit solver." alt="" coords="679,71,857,112"/>
+<area shape="rect" id="node41" href="$classCConfig.html#a8a176b0a0c34db4d6dcc9e55e240e37b" title="Get the kind of SU2 software component." alt="" coords="685,137,851,163"/>
+<area shape="rect" id="node42" href="$classCConfig.html#a5bfe7f8f9c3ab60aa2f7b33027dc8690" title="Get the ILU fill&#45;in level for the linear solver." alt="" coords="697,188,839,229"/>
+<area shape="rect" id="node43" href="$classCConfig.html#aa5becd94866dc4463a2600bac129ce7a" title="Get the number of threads per rank to use for ILU and LU_SGS preconditioners." alt="" coords="686,253,850,295"/>
+</map>

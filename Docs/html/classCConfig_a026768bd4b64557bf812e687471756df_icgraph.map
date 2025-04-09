@@ -1,0 +1,11 @@
+<map id="CConfig::GetFEMSolver" name="CConfig::GetFEMSolver">
+<area shape="rect" id="node1" title="Return true if a high order FEM solver is in use." alt="" coords="696,137,868,163"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#a075a737b341a64de5463ddd41096692e" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file." alt="" coords="465,5,623,47"/>
+<area shape="rect" id="node3" href="$classCDiscAdjDeformationDriver.html#ac2c88041c6779b61cde9db5afd943e9d" title="Construction of the edge&#45;based data structure." alt="" coords="440,71,648,112"/>
+<area shape="rect" id="node5" href="$SU2__SOL_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="517,137,571,163"/>
+<area shape="rect" id="node6" href="$classCDriver.html#a69bf3f15f78f4293d9b02c0f2ac545a7" title="Read in the config and mesh files." alt="" coords="195,187,378,214"/>
+<area shape="rect" id="node8" href="$classCDriver.html#aebfaa7d180ed13e44f71fed2f6d5b128" title="Restart of the solvers from the restart files." alt="" coords="461,238,627,265"/>
+<area shape="rect" id="node4" href="$classCDiscAdjDeformationDriver.html#a7ee59aebccb12d730fe2e5d1fbe7b216" title="Constructor of the class." alt="" coords="181,71,392,112"/>
+<area shape="rect" id="node7" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="5,238,133,265"/>
+<area shape="rect" id="node9" href="$classCDriver.html#ae57e1a2eb7e8f19259176afdab83e840" title="Definition and allocation of all solution classes." alt="" coords="199,289,375,315"/>
+</map>

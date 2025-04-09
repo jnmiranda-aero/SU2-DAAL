@@ -10,7 +10,7 @@ var classCFEMStandardElementBase =
     [ "GetNIntegration", "classCFEMStandardElementBase.html#aa5ad06a05a1d7b66bccca65521168a3b", null ],
     [ "GetOrderExact", "classCFEMStandardElementBase.html#abe6a4f4c7ef2c18de80c0936f4ae9395", null ],
     [ "GetVTK_Type", "classCFEMStandardElementBase.html#a3a739564577c5df4be8022f785a60c23", null ],
-    [ "GetWeightsIntegration", "classCFEMStandardElementBase.html#abf33578c3a19de596dc704d3d4d00039", null ],
+    [ "GetWeightsIntegration", "classCFEMStandardElementBase.html#a07b708843f8de8a1f5a4f7113866f10e", null ],
     [ "GradVandermonde1D", "classCFEMStandardElementBase.html#a34213421edd976bb6e16ed9e6781f06a", null ],
     [ "GradVandermonde2D_Quadrilateral", "classCFEMStandardElementBase.html#a91c4b9ebff6a2d9cf70494fa23dd612f", null ],
     [ "GradVandermonde2D_Triangle", "classCFEMStandardElementBase.html#a0729a28972f87e2bd13b63941c88a8ac", null ],

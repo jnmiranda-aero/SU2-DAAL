@@ -1,0 +1,4 @@
+<map id="CConstantPrandtl" name="CConstantPrandtl">
+<area shape="rect" id="node1" title="Defines a non&#45;constant laminar thermal conductivity using a constant Prandtl&#39;s number." alt="" coords="15,80,149,107"/>
+<area shape="rect" id="node2" href="$classCConductivityModel.html" title="Interface class for defining the thermal conductivity model." alt="" coords="5,5,159,32"/>
+</map>

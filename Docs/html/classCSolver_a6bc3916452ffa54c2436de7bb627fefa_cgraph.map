@@ -1,0 +1,14 @@
+<map id="CSolver::SetSolution_Limiter" name="CSolver::SetSolution_Limiter">
+<area shape="rect" id="node1" title="Compute slope limiter." alt="" coords="5,217,160,258"/>
+<area shape="rect" id="node2" href="$group__FvmAlgos.html#ga98ad7a9a40934caf2774d32c4c277c05" title="A wrapper funtion that calls specialized implementations depending on &quot;LimiterKind&quot;...." alt="" coords="246,56,378,83"/>
+<area shape="rect" id="node7" href="$classCVariable.html#a18fee07edc76930704432233b89572bf" title="Get the value of the primitive gradient for MUSCL reconstruction." alt="" coords="227,107,397,149"/>
+<area shape="rect" id="node8" href="$classCConfig.html#aa19c5f5780613a62cae13b9b6bab0239" title="Get the method for limiting the spatial gradients." alt="" coords="208,173,416,200"/>
+<area shape="rect" id="node9" href="$classCVariable.html#ab4f777128f4b2375b5203c410fca7fcf" title="Get the slope limiter." alt="" coords="231,224,393,251"/>
+<area shape="rect" id="node10" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="228,275,396,301"/>
+<area shape="rect" id="node11" href="$classCVariable.html#af17abc72a545ebd4b36f850a74d1855b" title="Get the min solution." alt="" coords="211,325,413,352"/>
+<area shape="rect" id="node12" href="$classCVariable.html#ae7da20d95a739c44a020629db6769629" title="Get the min solution." alt="" coords="213,376,411,403"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="464,5,645,32"/>
+<area shape="rect" id="node5" href="$classCGeometry.html#ace7f7fe876f629f5bd5f92d4805a1a4b" title="Get number of coordinates." alt="" coords="474,56,635,83"/>
+<area shape="rect" id="node6" href="$classCGeometry.html#a275fb07cd99ab79d7a04b4862280169d" title="Get number of points." alt="" coords="471,107,638,133"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="693,5,879,32"/>
+</map>

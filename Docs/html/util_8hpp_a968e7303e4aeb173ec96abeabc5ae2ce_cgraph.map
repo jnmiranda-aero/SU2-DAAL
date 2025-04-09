@@ -1,0 +1,5 @@
+<map id="stopPreacc" name="stopPreacc">
+<area shape="rect" id="node1" title="Stop the AD preaccumulation." alt="" coords="5,31,99,57"/>
+<area shape="rect" id="node2" href="$namespaceAD.html#a309d057a92faa60a3a760254678ec9ea" title="Ends a preaccumulation section and computes the local Jacobi matrix of a code section using the varia..." alt="" coords="157,5,273,32"/>
+<area shape="rect" id="node3" href="$namespaceAD.html#a96f26aa5f6909173e990e03b864fec33" title="Sets the scalar outputs of a preaccumulation section." alt="" coords="147,56,283,83"/>
+</map>

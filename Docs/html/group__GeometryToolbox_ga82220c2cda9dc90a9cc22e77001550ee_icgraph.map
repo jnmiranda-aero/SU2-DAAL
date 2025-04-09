@@ -1,0 +1,9 @@
+<map id="GeometryToolbox::TangentProjection" name="GeometryToolbox::TangentProjection">
+<area shape="rect" id="node1" title="Tangent projection" alt="" coords="605,115,801,157"/>
+<area shape="rect" id="node2" href="$classCAvgGrad__Base.html#aeabe16549d86ccfb5ff74b41671af745" title="Scale the stress tensor using a predefined wall stress." alt="" coords="325,64,533,91"/>
+<area shape="rect" id="node6" href="$classCNEMONSSolver.html#aa32b1221a071e0ecd2de381615b8adca" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="300,115,557,157"/>
+<area shape="rect" id="node7" href="$classCFVMFlowSolverBase.html#af46a894bd89c2367215f64fa7ea7d02d" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="347,181,511,222"/>
+<area shape="rect" id="node3" href="$classCAvgGrad__Flow.html#a24116483420da4c85e134442cbce7590" title="Compute the viscous flow residual using an average of gradients." alt="" coords="5,5,252,32"/>
+<area shape="rect" id="node4" href="$classCAvgGradInc__Flow.html#a01d7de2a96934050c3cc1ccda489dd0c" title="Compute the viscous flow residual using an average of gradients." alt="" coords="24,57,233,98"/>
+<area shape="rect" id="node5" href="$classCGeneralAvgGrad__Flow.html#af77f9f862b6b097256d3521a829e97d9" title="Compute the viscous flow residual using an average of gradients." alt="" coords="41,122,216,163"/>
+</map>

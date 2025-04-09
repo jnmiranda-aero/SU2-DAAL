@@ -1,0 +1,32 @@
+<map id="CFlowOutput::SetNearfieldInverseDesign" name="CFlowOutput::SetNearfieldInverseDesign">
+<area shape="rect" id="node1" title="Set nearfield inverse design output field values (and also into the solver)." alt="" coords="5,643,200,685"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="267,5,478,32"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a0db599277ab9197511cfd263b4da10f8" title=" " alt="" coords="279,56,466,83"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a15eaf7d952aeee1b381a8b548be9403f" title=" " alt="" coords="275,107,470,133"/>
+<area shape="rect" id="node5" href="$classCConfig.html#aa824c1a1b3c7cd05b7be414a76e0b250" title="Get the angle of attack of the body. This is the angle between a reference line on a lifting body (of..." alt="" coords="308,157,437,184"/>
+<area shape="rect" id="node6" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="265,208,481,235"/>
+<area shape="rect" id="node7" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="306,259,439,285"/>
+<area shape="rect" id="node8" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="299,309,446,336"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a8f918c61ea424a6fec21e3a935d2c23c" title="Get the integration limits for the equivalent area computation." alt="" coords="284,360,461,387"/>
+<area shape="rect" id="node10" href="$classCConfig.html#a1abdb34923883df5b121e6fd67fd8ce6" title="Get the integration limits for the equivalent area computation." alt="" coords="272,411,473,437"/>
+<area shape="rect" id="node11" href="$classCConfig.html#aadb7da7c125ec24ecf83b9aaf5472eeb" title="Value of the azimuthal line to fix due to a misalignments of the nearfield." alt="" coords="265,461,480,488"/>
+<area shape="rect" id="node12" href="$classCConfig.html#a0b5df9254891b32a88e83880778f9261" title="Get the value of the Gamma of fluid (ratio of specific heats)." alt="" coords="295,512,450,539"/>
+<area shape="rect" id="node13" href="$classCConfig.html#a5a078901bb388e9caa9cb856e3348f0b" title="Get the value of the Mach number (velocity divided by speed of sound)." alt="" coords="303,563,442,589"/>
+<area shape="rect" id="node14" href="$classCConfig.html#ae003cd8f406eaaa91849a774c9a20730" title="Get the kind of boundary for each marker." alt="" coords="299,614,447,655"/>
+<area shape="rect" id="node15" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="283,680,463,707"/>
+<area shape="rect" id="node16" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="303,731,442,757"/>
+<area shape="rect" id="node17" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="301,781,445,808"/>
+<area shape="rect" id="node18" href="$classCVertex.html#a57cacfe764770e6c0e54c278cb584f7c" title="Copy the the normal vector of a face." alt="" coords="297,832,449,859"/>
+<area shape="rect" id="node19" href="$classCGeometry.html#a00b7f7e71ff42bd38f39147366dd093a" title="Get number of vertices." alt="" coords="285,883,461,909"/>
+<area shape="rect" id="node20" href="$classCConfig.html#abd7ba56a182284f00644b8d2b81a8c17" title="Get the output precision to be used in &lt;ofstream&gt;.precision(value) for history and SU2_DOT output." alt="" coords="299,934,446,975"/>
+<area shape="rect" id="node21" href="$classCVariable.html#ad08820234eeedeb13105e603af2c67ad" title="A virtual member." alt="" coords="287,1000,458,1027"/>
+<area shape="rect" id="node22" href="$classCConfig.html#a71d391a22f5b0b7d2bcfb1e0028374da" title="Get the value of the non&#45;dimensionalized freestream pressure." alt="" coords="293,1051,452,1093"/>
+<area shape="rect" id="node23" href="$classCConfig.html#ab05a2ea2f4079504565628130bee2ae3" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="248,1117,497,1144"/>
+<area shape="rect" id="node24" href="$classCOutput.html#a1c1f836992f419544472329a44b8836e" title="Set the value of a history output field." alt="" coords="275,1169,470,1210"/>
+<area shape="rect" id="node27" href="$classCSolver.html#a2ec69a0c934d7f159ffa8063f44b5840" title="A virtual member." alt="" coords="265,1235,480,1261"/>
+<area shape="rect" id="node28" href="$namespaceSU2__TYPE.html#a30b9631dab5a12a0c4a93552ff302f0a" title="Casts the primitive value to short (uses GetValue, already implemented for each type)." alt="" coords="308,1285,437,1312"/>
+<area shape="rect" id="node30" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="349,1336,396,1363"/>
+<area shape="rect" id="node25" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="545,1176,727,1203"/>
+<area shape="rect" id="node26" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="775,1176,960,1203"/>
+<area shape="rect" id="node29" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="559,1285,713,1312"/>
+</map>

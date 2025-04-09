@@ -1,0 +1,12 @@
+<map id="SU2_CFD/include/gradients/correctGradientsSymmetry.hpp" name="SU2_CFD/include/gradients/correctGradientsSymmetry.hpp">
+<area shape="rect" id="node1" title="Implements the symmetry boundary conditions for the gradient computations." alt="" coords="116,5,344,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,102,68,129"/>
+<area shape="rect" id="node3" title=" " alt="" coords="93,102,178,129"/>
+<area shape="rect" id="node4" href="$omp__structure_8hpp.html" title="OpenMP interface header, provides compatibility functions if the code is built without OpenMP support..." alt="" coords="202,95,447,136"/>
+<area shape="rect" id="node9" href="$geometry__toolbox_8hpp.html" title="Collection of common lightweight geometry&#45;oriented methods." alt="" coords="471,95,711,136"/>
+<area shape="rect" id="node5" title=" " alt="" coords="160,184,231,211"/>
+<area shape="rect" id="node6" href="$code__config_8hpp.html" title="Header file for collecting common macros, definitions and type configurations." alt="" coords="255,184,394,211"/>
+<area shape="rect" id="node8" title=" " alt="" coords="418,184,477,211"/>
+<area shape="rect" id="node7" title=" " alt="" coords="279,259,371,285"/>
+<area shape="rect" id="node10" title=" " alt="" coords="560,184,623,211"/>
+</map>

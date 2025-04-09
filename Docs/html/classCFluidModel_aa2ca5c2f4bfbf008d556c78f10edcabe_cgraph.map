@@ -1,0 +1,9 @@
+<map id="CFluidModel::MakeMassDiffusivityModel" name="CFluidModel::MakeMassDiffusivityModel">
+<area shape="rect" id="node1" title="Instantiate the right type of mass diffusivity model based on config." alt="" coords="5,122,252,163"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="313,5,494,32"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a4aac5a74c1e515710054f8ac8b9353dd" title="Get the value of the Lewis number for each species." alt="" coords="323,57,484,98"/>
+<area shape="rect" id="node5" href="$classCConfig.html#ab70aa89c8e2f7c568a33b568c3d18f23" title="Get the value of the non&#45;dimensional constant mass diffusivity." alt="" coords="318,122,489,163"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a377fb11c4c29f506337afc8b78378fcc" title="Get the value of the mass diffusivity model." alt="" coords="300,187,507,229"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a5f170bedb98a9dd0b7f45d049eebfde7" title="Get the value of the laminar Schmidt number for scalar transport." alt="" coords="325,253,481,294"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="555,5,740,32"/>
+</map>

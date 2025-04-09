@@ -1,0 +1,4 @@
+<map id="CNumerics::Compute_NodalStress_Term" name="CNumerics::Compute_NodalStress_Term">
+<area shape="rect" id="node1" title="A virtual member to compute the nodal stress term in non&#45;linear structural problems." alt="" coords="217,5,377,47"/>
+<area shape="rect" id="node2" href="$classCFEASolver.html#adfa3c71fcff35fa46d21a3b615e4b7f8" title="Compute the nodal stress terms and add them to the residual." alt="" coords="5,5,169,47"/>
+</map>

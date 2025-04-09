@@ -1,0 +1,9 @@
+<map id="CNumerics::GetPMatrix_inv" name="CNumerics::GetPMatrix_inv">
+<area shape="rect" id="node1" title="Computation of the matrix P^{&#45;1}, this matrix diagonalize the conservative Jacobians in the form $P^{..." alt="" coords="312,132,513,159"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a4ad4a65b3fc5a51b1561436736f7f7ca" title="Impose the boundary condition using characteristic recostruction." alt="" coords="37,5,233,32"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a8e036f2dff1d945d814c93a74159a3cc" title="Impose the boundary condition using characteristic recostruction." alt="" coords="19,56,250,83"/>
+<area shape="rect" id="node4" href="$classCUpwAUSM__Flow.html#a792ec6c1b75f7bbacc33566bbe7c0e88" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="5,107,264,133"/>
+<area shape="rect" id="node5" href="$classCUpwMSW__Flow.html#a15a276b8ee87e46dec630512f62c1b94" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="8,157,261,184"/>
+<area shape="rect" id="node6" href="$classCUpwGeneralRoe__Flow.html#ae7835fc0d44bb290bef95f1e5ce3d90f" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="47,209,222,250"/>
+<area shape="rect" id="node7" href="$classCUpwRoe__AdjFlow.html#a190e5469a9419ffe74e23fe0c651a115" title="Compute the adjoint Roe&#39;s flux between two nodes i and j." alt="" coords="29,274,240,315"/>
+</map>

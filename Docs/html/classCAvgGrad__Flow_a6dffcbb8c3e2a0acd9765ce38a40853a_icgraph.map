@@ -1,0 +1,4 @@
+<map id="CAvgGrad_Flow::SetHeatFluxVector" name="CAvgGrad_Flow::SetHeatFluxVector">
+<area shape="rect" id="node1" title="Compute the heat flux due to molecular and turbulent diffusivity." alt="" coords="300,5,511,47"/>
+<area shape="rect" id="node2" href="$classCAvgGrad__Flow.html#a24116483420da4c85e134442cbce7590" title="Compute the viscous flow residual using an average of gradients." alt="" coords="5,13,252,39"/>
+</map>

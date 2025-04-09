@@ -1,0 +1,52 @@
+<map id="CNEMOEulerSolver::Upwind_Residual" name="CNEMOEulerSolver::Upwind_Residual">
+<area shape="rect" id="node1" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,1183,208,1225"/>
+<area shape="rect" id="node2" href="$classCSysVector.html#aa463275cba394503a9778529fdaa4494" title="Add &quot;block&quot; to the vector, see SetBlock." alt="" coords="591,5,755,32"/>
+<area shape="rect" id="node3" href="$classCNEMOEulerSolver.html#a4bfa388bfa0893ee0efaabeca2d5735d" title="Check for unphysical points." alt="" coords="256,227,507,253"/>
+<area shape="rect" id="node9" href="$classCNumerics.html#aa464552735cb16e4ed12b83d04c5d964" title="Check if residual constains a NaN value." alt="" coords="265,493,497,520"/>
+<area shape="rect" id="node11" href="$classCNEMOEulerSolver.html#ac4a0f3b23aa55bcb5a9db6c928809c59" title="Recompute the extrapolated quantities, after MUSCL reconstruction, in a more thermodynamically consis..." alt="" coords="275,362,487,403"/>
+<area shape="rect" id="node16" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="273,544,489,571"/>
+<area shape="rect" id="node17" href="$classCConfig.html#aa495414133c826e5f6651d4ce82d0ef6" title="Get the level of MPI communications to be performed." alt="" coords="287,595,475,621"/>
+<area shape="rect" id="node18" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="315,645,448,672"/>
+<area shape="rect" id="node19" href="$classCNEMOEulerVariable.html#a529cb0910de468af8a0337b998e84a06" title="Returns the value of Cvve at the specified node." alt="" coords="303,697,460,738"/>
+<area shape="rect" id="node20" href="$classCNEMOEulerVariable.html#ad6573f71d80fa566ae0316a0cee6b345" title="Set partial derivative of pressure w.r.t. density ." alt="" coords="303,762,460,803"/>
+<area shape="rect" id="node21" href="$classCNEMOEulerVariable.html#a0125bb2fcd972ed625e2a7df7a38f518" title="Set partial derivative of temperature w.r.t. density ." alt="" coords="303,827,460,869"/>
+<area shape="rect" id="node22" href="$classCNEMOEulerVariable.html#afd2365662dfdf7df2a99d9fb3cead538" title="Set partial derivative of vib.&#45;el. temperature w.r.t. density ." alt="" coords="303,893,460,934"/>
+<area shape="rect" id="node23" href="$classCNEMOEulerVariable.html#a8d384ce066e1e62a4fd05493a1c0a5fe" title="Returns the stored value of Eve at the specified node." alt="" coords="303,958,460,999"/>
+<area shape="rect" id="node24" href="$classCNEMOEulerSolver.html#af99203adc82c9a3e9a65fe70bc3416e6" title="Compute the pressure at the infinity." alt="" coords="277,1023,485,1065"/>
+<area shape="rect" id="node25" href="$classCNEMOEulerVariable.html#a01c5e98b3b8c4771749f8a4717fe85af" title="Returns the stored value of Gamma at the specified node." alt="" coords="303,1089,460,1130"/>
+<area shape="rect" id="node26" href="$classCFlowVariable.html#a4d07016305eebeb1aedfdc4706da0c47" title="Get the array of the reconstruction variables gradient at a node." alt="" coords="280,1154,483,1195"/>
+<area shape="rect" id="node27" href="$classCConfig.html#a31504bfdad401a8879a9e0a121320f96" title="Get the method for limiting the spatial gradients." alt="" coords="258,1220,505,1247"/>
+<area shape="rect" id="node28" href="$classCConfig.html#ad16f71356f146b530fb1fbb45444525c" title="Get the kind of time integration method." alt="" coords="287,1271,476,1313"/>
+<area shape="rect" id="node29" href="$classCConfig.html#a077d982f11185a84929f8fec40b79938" title="Get the kind of upwind convective numerical scheme for the flow equations." alt="" coords="268,1337,495,1364"/>
+<area shape="rect" id="node30" href="$classCFlowVariable.html#ad0f118b359e064d94e1eddf15d6bad51" title="Get the value of the primitive variables gradient." alt="" coords="285,1389,477,1430"/>
+<area shape="rect" id="node31" href="$classCConfig.html#a97ba000591a72e4d8f0fc71bc75bd38a" title="Get if the upwind scheme used MUSCL or not." alt="" coords="288,1455,475,1481"/>
+<area shape="rect" id="node32" href="$classCGeometry.html#aba89cceede61b33426b2783385431f5b" title="Get number of edges." alt="" coords="298,1505,465,1532"/>
+<area shape="rect" id="node33" href="$classCEdge.html#a5cd6f283cb2f3e4dfc037c0db6ae1055" title="Get left/right node index defining the edge." alt="" coords="317,1556,445,1583"/>
+<area shape="rect" id="node34" href="$classCVariable.html#a10c304d236917136f8906e2798f391b4" title="Get the value of the non&#45;physical boolean at a point." alt="" coords="280,1607,483,1633"/>
+<area shape="rect" id="node35" href="$classCEdge.html#a4ace970590e47bd39ea5780c3e0e2037" title="Copy the the normal vector of a face." alt="" coords="310,1657,453,1684"/>
+<area shape="rect" id="node37" href="$classCFlowVariable.html#a852271c741f1e7cdb1d391941266d344" title="Get a primitive variable." alt="" coords="279,1708,484,1735"/>
+<area shape="rect" id="node38" href="$classCVariable.html#afec545423f883bcd961ac9f1e5d18dd2" title="Get the pressure sensor." alt="" coords="302,1759,461,1785"/>
+<area shape="rect" id="node39" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="297,1809,465,1836"/>
+<area shape="rect" id="node40" href="$classCNEMOEulerSolver.html#af4422f49b4d3a3c85a15e519e93c7ce8" title="Set all the conserved variables from the primitive vector.." alt="" coords="268,427,495,469"/>
+<area shape="rect" id="node44" href="$classCBaseMPIWrapper.html#adfe0cc3203ae26745e12fb885af0629b" title=" " alt="" coords="282,1860,481,1887"/>
+<area shape="rect" id="node45" href="$classCVariable.html#af0eb973b8a2a22b1d1608e4af22022b8" title="Set the value of the non&#45;physical point." alt="" coords="281,1911,481,1937"/>
+<area shape="rect" id="node46" href="$classCConfig.html#aa3920e3a8f281a8e015ca82571aa2c72" title="Set the current number of non&#45;physical reconstructions for 2nd&#45;order upwinding." alt="" coords="291,1962,472,2003"/>
+<area shape="rect" id="node47" href="$classCSysVector.html#a71ea6ec1ebdb77535b976bb40e7659a6" title="Subtract &quot;block&quot; from the vector, see AddBlock." alt="" coords="285,121,478,148"/>
+<area shape="rect" id="node48" href="$classCSysMatrix.html#a1e6f636ed0be6a752fb3b3830a61efda" title="Update 4 blocks ii, ij, ji, jj (add to i* sub from j*)." alt="" coords="284,2028,479,2055"/>
+<area shape="rect" id="node49" href="$structLimiterHelpers.html#a7e864dd369967ec38644a0a5fb3cf555" title=" " alt="" coords="284,2079,479,2121"/>
+<area shape="rect" id="node4" href="$classCNEMOEulerVariable.html#a655254c35ef7a63d509ab90c288a8e8e" title="Retrieves the value of the soundspeed in the primitive variable vector." alt="" coords="595,57,752,98"/>
+<area shape="rect" id="node5" href="$classCNEMOEulerVariable.html#a24cfa7d8f30e0c179e94c2bd147ecb42" title="Retrieves the value of the pressure in the primitive variable vector." alt="" coords="595,122,752,163"/>
+<area shape="rect" id="node6" href="$classCNEMOEulerVariable.html#a18cf86a19d9ee761bd0be1f90bcd2e33" title="Retrieves the value of the species density in the primitive variable vector." alt="" coords="595,187,752,229"/>
+<area shape="rect" id="node7" href="$classCNEMOEulerVariable.html#af45e7025f7ed138b4c1e39d6a2521891" title="Retrieves the value of the in temperature the primitive variable vector." alt="" coords="595,421,752,462"/>
+<area shape="rect" id="node8" href="$classCNEMOEulerVariable.html#a7738e64c7df199868382c1af97ed9c89" title="Retrieves the value of the vibe&#45;elec temperature in the primitive variable vector." alt="" coords="595,253,752,294"/>
+<area shape="rect" id="node10" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="596,735,751,761"/>
+<area shape="rect" id="node12" href="$classCNEMOGas.html#a5f31f0eebb925a0a8a51198ca58fbd51" title="Compute ratio of specific heats (Gamma)." alt="" coords="566,319,781,345"/>
+<area shape="rect" id="node14" href="$classCNEMOGas.html#aa1fcdfc3922e1e1779ba689736ab7db6" title="Compute vector of species V&#45;E energy." alt="" coords="555,369,792,396"/>
+<area shape="rect" id="node15" href="$classCNEMOGas.html#a1504562f343368d93897601cb43aea70" title="Set mixture thermodynamic state." alt="" coords="557,487,790,513"/>
+<area shape="rect" id="node13" href="$classCNEMOGas.html#a9c700828e55a8ecd33acf4ac5c0bd58b" title="Compute rhoCvtr." alt="" coords="840,319,1051,345"/>
+<area shape="rect" id="node36" href="$classC2DContainer.html#ab6d9161cd08887f034322ebcbc3deb12" title=" " alt="" coords="600,1657,747,1684"/>
+<area shape="rect" id="node41" href="$classCNEMOGas.html#a89d736160daedb454338c71f4239d152" title="Compute mixture energies (total internal energy and vibrational energy)." alt="" coords="567,538,780,579"/>
+<area shape="rect" id="node42" href="$classCNEMOEulerVariable.html#a9abc604e06f90161a2658d99582d8a3b" title="Retrieves the value of the total density in the primitive variable vector." alt="" coords="595,603,752,645"/>
+<area shape="rect" id="node43" href="$classCNEMOEulerVariable.html#a448a2fc8bfc5479e51267c59acb1acf4" title="Retrieves the value of the velocity in the primitive variable vector." alt="" coords="595,669,752,710"/>
+<area shape="rect" id="node50" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="619,2087,728,2113"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="CNEMOEulerSolver::SetTime_Step" name="CNEMOEulerSolver::SetTime_Step">
+<area shape="rect" id="node1" title="Compute the time step for solving the Euler equations." alt="" coords="5,246,248,273"/>
+<area shape="rect" id="node2" href="$classCNEMOEulerVariable.html#aaa48e38fc8ce46d3776b98591c1cedad" title="Get the density of the flow." alt="" coords="355,5,512,47"/>
+<area shape="rect" id="node3" href="$classCVariable.html#adae2e4228e113624b7ab1f9ab1a493c6" title="A virtual member." alt="" coords="330,71,537,98"/>
+<area shape="rect" id="node4" href="$classCVariable.html#a0acbe55ca86de2c0205ae921193e9e95" title="A virtual member." alt="" coords="320,122,547,149"/>
+<area shape="rect" id="node5" href="$classCNEMOEulerVariable.html#ab3869841734e4265c4be3dced10a37c1" title="Get the mixture specific heat at constant volume (trans.&#45;rot.)." alt="" coords="355,173,512,215"/>
+<area shape="rect" id="node6" href="$classCNEMOEulerVariable.html#a7bb3978c6abd00e52cc636bad2f426bd" title="Get the mixture specific heat at constant volume (vib.&#45;el.)." alt="" coords="355,239,512,280"/>
+<area shape="rect" id="node7" href="$classCNEMOEulerVariable.html#ace88c30d7e9a0e48b713e073d1b92a8c" title="Get the speed of the sound." alt="" coords="355,304,512,345"/>
+<area shape="rect" id="node8" href="$classCVariable.html#a05aa9ee34c744629c72742c05ceab246" title="A virtual member." alt="" coords="308,370,559,397"/>
+<area shape="rect" id="node9" href="$classCVariable.html#aa5bded7c79dfd758ef3a45674e8d6c58" title="A virtual member." alt="" coords="296,421,571,447"/>
+<area shape="rect" id="node10" href="$classCFVMFlowSolverBase.html#aceafd6d8a3ef6e189711df90c7dbe38e" title="Generic implementation to compute the time step based on CFL and conv/visc eigenvalues." alt="" coords="317,472,549,543"/>
+</map>

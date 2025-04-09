@@ -1,0 +1,11 @@
+<map id="CFEMStandardElementBase::LagrangianBasisFunctionAndDerivativesTriangle" name="CFEMStandardElementBase::LagrangianBasisFunctionAndDerivativesTriangle">
+<area shape="rect" id="node1" title="Function, which determines the values of the Lagrangian interpolation functions and its derivatives i..." alt="" coords="5,97,223,153"/>
+<area shape="rect" id="node2" href="$classCFEMStandardElementBase.html#a0729a28972f87e2bd13b63941c88a8ac" title="Function, which computes the gradients of the Vandermonde matrix for a standard triangle." alt="" coords="271,136,497,177"/>
+<area shape="rect" id="node7" href="$classCFEMStandardElementBase.html#af353f709009424cbc2a120f9d86c5443" title="Static function, which computes the inverse of the given square matrix." alt="" coords="283,5,485,47"/>
+<area shape="rect" id="node8" href="$classCFEMStandardElementBase.html#a7125e7dfe720d068372e54aed46612d5" title="Function, which carries out a matrix matrix multiplication to obtain data in points and stores the re..." alt="" coords="283,71,485,112"/>
+<area shape="rect" id="node9" href="$classCFEMStandardElementBase.html#a575759433b33801396b3ed285a5c8b56" title="Function, which computes the Vandermonde matrix for a standard triangle." alt="" coords="283,201,485,243"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="545,87,727,114"/>
+<area shape="rect" id="node5" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="581,202,691,229"/>
+<area shape="rect" id="node6" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="613,147,659,174"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="775,87,960,114"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CGeometry::GetAverageTurboNormal" name="CGeometry::GetAverageTurboNormal">
+<area shape="rect" id="node1" title="Get the average normal at a specific span for a given marker in the turbomachinery reference of frame..." alt="" coords="255,39,469,80"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a220a1c92ae192cc3962acf187cc0628c" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="14,5,198,47"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#afe2f428da073b80f64c41422971f9748" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="5,71,207,112"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="CTurbSolver::Impose_Fixed_Values" name="CTurbSolver::Impose_Fixed_Values">
+<area shape="rect" id="node1" title="Impose fixed values to turbulence quantities." alt="" coords="5,307,160,349"/>
+<area shape="rect" id="node2" href="$classCSysMatrix.html#a9473b0224c9b9a2749571db0bbd22a70" title="Deletes the values of the row i of the sparse matrix." alt="" coords="208,5,415,32"/>
+<area shape="rect" id="node3" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="745,264,963,291"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="221,107,402,133"/>
+<area shape="rect" id="node6" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="245,157,378,184"/>
+<area shape="rect" id="node7" href="$classCConfig.html#ad16f71356f146b530fb1fbb45444525c" title="Get the kind of time integration method." alt="" coords="217,209,406,250"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a62d7091736e72ff5f44d984104d966f8" title="Get whether fixed values for turbulence quantities are applied." alt="" coords="226,274,397,315"/>
+<area shape="rect" id="node9" href="$classCConfig.html#abd0f0ab159059f0eee0d931e1c9a871d" title="Get shift of the upstream half&#45;plane where fixed values for turbulence quantities are applied." alt="" coords="223,339,399,381"/>
+<area shape="rect" id="node10" href="$classCConfig.html#ae33781eb89184d511e23b7e247d21c8a" title="Get the vector of the non&#45;dimensionalized freestream velocity." alt="" coords="234,405,389,446"/>
+<area shape="rect" id="node11" href="$group__GeometryToolbox.html#gad8b24e50333c9a8378f7abf18222f36a" title=" " alt="" coords="221,471,402,497"/>
+<area shape="rect" id="node14" href="$classCSysVector.html#a9990ad4ea225c98a1af50e00fecbc56f" title="Set the values to zero for one block." alt="" coords="213,521,410,548"/>
+<area shape="rect" id="node15" href="$classCVariable.html#a22fbbd7bc6491672843000644a05c6a5" title="Set the value of the solution, all variables." alt="" coords="228,572,395,599"/>
+<area shape="rect" id="node16" href="$classCVariable.html#a6ee4d8d450971204cc054a33d6473732" title="Set the value of the old solution." alt="" coords="214,623,409,649"/>
+<area shape="rect" id="node5" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="487,107,673,133"/>
+<area shape="rect" id="node12" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="557,420,603,447"/>
+<area shape="rect" id="node13" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="463,471,697,497"/>
+</map>

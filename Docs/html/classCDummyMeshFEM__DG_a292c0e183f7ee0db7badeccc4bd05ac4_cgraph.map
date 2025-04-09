@@ -1,0 +1,11 @@
+<map id="CDummyMeshFEM_DG::CDummyMeshFEM_DG" name="CDummyMeshFEM_DG::CDummyMeshFEM_DG">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,129,248,170"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a8e3cd051652fcd2a642ec3591b34ec53" title="Get the format of the input/output grid." alt="" coords="296,5,511,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#adaa7bfcd974eb962594dff876d795f1a" title="Get name of the input grid." alt="" coords="300,56,507,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#ad534643104581040e9aea7a06c31dbd2" title="Gets the number of dimensions in the mesh file." alt="" coords="334,107,473,133"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a27dc07a71d7798a849c68eda017144c8" title="Get the number of time levels for time accurate local time stepping." alt="" coords="327,158,480,199"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="313,224,493,251"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a39ff50a0f3deda9134f1c44b4d5053b7" title="Gets the number of zones in the mesh file." alt="" coords="331,275,475,301"/>
+<area shape="rect" id="node5" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="559,191,740,217"/>
+<area shape="rect" id="node6" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="788,191,973,217"/>
+</map>

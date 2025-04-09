@@ -1,0 +1,4 @@
+<map id="CSolver::SetAdjoint_SolutionExtra" name="CSolver::SetAdjoint_SolutionExtra">
+<area shape="rect" id="node1" title="Seed the adjoint of the extra solution at the output." alt="" coords="249,5,396,47"/>
+<area shape="rect" id="node2" href="$classCDiscAdjSolver.html#a653aa04f4f6369f494a0807ab2c5b043" title="Sets the adjoint values of the output of the flow (+turb.) iteration before evaluation of the tape." alt="" coords="5,5,201,47"/>
+</map>

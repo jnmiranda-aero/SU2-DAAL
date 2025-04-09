@@ -1,0 +1,7 @@
+<map id="SU2_CFD/include/variables/CHeatVariable.hpp" name="SU2_CFD/include/variables/CHeatVariable.hpp">
+<area shape="rect" id="node1" title="Class for defining the variables of the finite&#45;volume heat equation solver." alt="" coords="174,5,371,47"/>
+<area shape="rect" id="node2" href="$CHeatSolver_8hpp.html" title="Headers of the CHeatSolver class." alt="" coords="81,95,265,136"/>
+<area shape="rect" id="node5" href="$CHeatVariable_8cpp.html" title="Definition of the variables for heat equation problems." alt="" coords="289,95,459,136"/>
+<area shape="rect" id="node3" href="$CHeatSolver_8cpp.html" title="Main subroutines for solving the heat equation." alt="" coords="5,184,161,225"/>
+<area shape="rect" id="node4" href="$CSolverFactory_8cpp.html" title="Main subroutines for CSolverFactoryclass." alt="" coords="185,184,341,225"/>
+</map>

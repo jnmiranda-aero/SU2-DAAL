@@ -1,0 +1,8 @@
+<map id="CGeometry::SetCustomBoundary" name="CGeometry::SetCustomBoundary">
+<area shape="rect" id="node1" title="Set the data containers for customized boundary conditions." alt="" coords="5,143,241,170"/>
+<area shape="rect" id="node2" href="$classCConfig.html#aad944681c909f30b1c07155cd9c832c0" title="Get the wall temperature (static) at an isothermal boundary." alt="" coords="301,5,475,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#ae003cd8f406eaaa91849a774c9a20730" title="Get the kind of boundary for each marker." alt="" coords="314,71,462,112"/>
+<area shape="rect" id="node4" href="$classCConfig.html#acf8910da77f327b190e1a37211a23f10" title="Get the Python customization for a marker val_marker." alt="" coords="314,136,462,177"/>
+<area shape="rect" id="node5" href="$classCConfig.html#ab8c9c1f45950a29355be4ff357049440" title="Get the index of the surface defined in the geometry file." alt="" coords="314,201,462,243"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a9c0d647f573e7e4404db808f3bbc2012" title="Get the wall heat flux on a constant heat flux boundary." alt="" coords="289,267,487,294"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CFlowOutput::AddAerodynamicCoefficients" name="CFlowOutput::AddAerodynamicCoefficients">
+<area shape="rect" id="node1" title="Add aerodynamic coefficients as output fields." alt="" coords="5,90,231,131"/>
+<area shape="rect" id="node2" href="$classCOutput.html#ad5ee424d364346cbd6dc27ffbab35e0a" title="Add a new field to the history output." alt="" coords="279,5,477,32"/>
+<area shape="rect" id="node3" href="$classCOutput.html#a8777541eeb47d01a7cc0cf646dfb44bb" title="Add a new field per surface marker to the history output." alt="" coords="279,57,477,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a4558fc163c393e628050e7a2273673f1" title="Get the name of the surface defined in the geometry file." alt="" coords="293,122,463,163"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a6e65810e59b8015104b84c4fd5b1d7f9" title="Get the total number of monitoring markers." alt="" coords="300,187,456,229"/>
+</map>

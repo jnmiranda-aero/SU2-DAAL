@@ -1,0 +1,6 @@
+<map id="CConfig::GetPreferentialDiffusion" name="CConfig::GetPreferentialDiffusion">
+<area shape="rect" id="node1" title="Preferential diffusion combustion problem." alt="" coords="253,71,432,112"/>
+<area shape="rect" id="node2" href="$classCSpeciesFlameletVariable.html#a8a3f3d293e63c5674a3a4a00e98a5148" title="Constructor of the class." alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node3" href="$classCSpeciesFlameletSolver.html#aee0e7fac4103cec39936c9f3e0c9e4f4" title="Restart residual and compute gradients." alt="" coords="15,71,195,112"/>
+<area shape="rect" id="node4" href="$classCSpeciesFlameletSolver.html#a736b1d7ee4006457731975b183b88004" title="Compute the fluxes due to viscous and preferential diffusion effects of the flamelet species at a par..." alt="" coords="15,160,195,201"/>
+</map>

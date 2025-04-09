@@ -1,0 +1,4 @@
+<map id="CAvgGrad_Scalar::FinishResidualCalc" name="CAvgGrad_Scalar::FinishResidualCalc">
+<area shape="rect" id="node1" title="Model&#45;specific steps in the ComputeResidual method, derived classes should compute the Flux and Jacob..." alt="" coords="253,13,516,39"/>
+<area shape="rect" id="node2" href="$classCAvgGrad__Scalar.html#a04be01597eab746241e04edf5c00ed0e" title="Compute the viscous residual using an average of gradients without correction." alt="" coords="5,5,205,47"/>
+</map>

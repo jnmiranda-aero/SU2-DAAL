@@ -1,0 +1,9 @@
+<map id="CPhysicalGeometry::LoadSurfaceElements" name="CPhysicalGeometry::LoadSurfaceElements">
+<area shape="rect" id="node1" title="Load the local surface elements after partitioning (owned and ghost) into the geometry class objects." alt="" coords="5,159,168,200"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a626e9f08cb8c1f960eae155fc522ca82" title="Get the send&#45;receive information for a marker val_marker." alt="" coords="237,5,385,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#ab8c9c1f45950a29355be4ff357049440" title="Get the index of the surface defined in the geometry file." alt="" coords="237,71,385,112"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a561073e0d8337afb1ead2080499b11af" title="Get the total number of boundary markers in the cfg plus the possible send/receive domains." alt="" coords="216,137,407,163"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a6f6d16d0585be1c3782d3296658f9f45" title="number Turbomachinery performance option specified from config file." alt="" coords="233,188,389,229"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a82bd1f76cf9574ecfc48c44bef277cd5" title="Set if a marker val_marker is going to be sent or receive val_index from another domain." alt="" coords="238,253,385,295"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a3d64a9bbafa5f87e2559f34cc297a9c4" title="Set the value of the index val_index (read from the geometry file) for the marker val_marker." alt="" coords="238,319,385,360"/>
+</map>

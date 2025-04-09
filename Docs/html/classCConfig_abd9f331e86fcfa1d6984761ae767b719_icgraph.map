@@ -1,0 +1,8 @@
+<map id="CConfig::GetRefGeom" name="CConfig::GetRefGeom">
+<area shape="rect" id="node1" title="Decide whether it&#39;s necessary to read a reference geometry." alt="" coords="256,115,420,141"/>
+<area shape="rect" id="node2" href="$classCFEASolver.html#a1d4c7d17d9c7143d3079fc78fae1599d" title=" " alt="" coords="17,5,197,32"/>
+<area shape="rect" id="node3" href="$classCFEAVariable.html#af903380be6b3b699751e694d896af2c1" title="Constructor of the class." alt="" coords="5,56,208,83"/>
+<area shape="rect" id="node4" href="$classCElasticityOutput.html#ac3013524b0fb8f257aa9b66fd16d531d" title="Load the history output field values." alt="" coords="35,107,178,149"/>
+<area shape="rect" id="node5" href="$classCFEASolver.html#ab4fa9086b598c5778c9c0403a5626d1b" title="Postprocessing." alt="" coords="5,173,208,200"/>
+<area shape="rect" id="node6" href="$classCElasticityOutput.html#a1a77df37022eb5389f3e1f817897e568" title="Set the available history output fields." alt="" coords="21,225,193,266"/>
+</map>

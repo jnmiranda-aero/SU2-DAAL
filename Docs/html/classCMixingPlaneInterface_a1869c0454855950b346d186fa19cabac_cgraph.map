@@ -1,0 +1,5 @@
+<map id="CMixingPlaneInterface::SetSpanWiseLevels" name="CMixingPlaneInterface::SetSpanWiseLevels">
+<area shape="rect" id="node1" title="Initialize quantities for spanwise sections for interpolation." alt="" coords="5,23,175,65"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a03c8979b4b994e80d0928b1ec7f2726a" title="number span&#45;wise sections to compute performance for turbomachinery." alt="" coords="224,5,452,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a50c6d8787325e09d732ecb9c4af96e93" title="number span&#45;wise sections to compute 3D BC and performance for turbomachinery." alt="" coords="223,56,453,83"/>
+</map>

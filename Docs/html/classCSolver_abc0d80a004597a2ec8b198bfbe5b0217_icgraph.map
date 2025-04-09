@@ -1,0 +1,8 @@
+<map id="CSolver::GetAdjoint" name="CSolver::GetAdjoint">
+<area shape="rect" id="node1" title="Get information whether the initialization is an adjoint solver or not." alt="" coords="721,46,871,73"/>
+<area shape="rect" id="node2" href="$classCDiscAdjSinglezoneDriver.html#ac5a9bbc8bf431a06a4ec315a514c9428" title="Record one iteration of a flow iteration in within multiple zones." alt="" coords="483,39,673,80"/>
+<area shape="rect" id="node3" href="$classCDiscAdjSinglezoneDriver.html#af4087bc4859a336b67555336d8f28aaf" title="Record the main computational path." alt="" coords="244,5,435,47"/>
+<area shape="rect" id="node5" href="$classCDiscAdjSinglezoneDriver.html#ad328a74dd89ed2e335b22c4bf2b53cb0" title="Record the secondary computational path." alt="" coords="244,71,435,112"/>
+<area shape="rect" id="node4" href="$classCDiscAdjSinglezoneDriver.html#a231f69c77c922207c235930508b1db67" title="Preprocess the single&#45;zone iteration." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node6" href="$classCDiscAdjSinglezoneDriver.html#a8646cc443849a97868c59003066bb850" title="Postprocess the adjoint iteration for ZONE_0." alt="" coords="5,71,196,112"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="CPhysicalGeometry::DetermineTimeLevelElements" name="CPhysicalGeometry::DetermineTimeLevelElements">
+<area shape="rect" id="node1" title="Determine the time level of the elements when time accurate local time stepping is employed." alt="" coords="5,690,225,731"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="286,5,497,32"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a33bad5506b8315fde26c1f31a42ce97c" title=" " alt="" coords="294,56,489,83"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="301,107,482,133"/>
+<area shape="rect" id="node6" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="283,157,499,184"/>
+<area shape="rect" id="node7" href="$classCConfig.html#af30dc08c28dd72bfcedc6a5a4e224036" title="Get the value of the non&#45;dimensionalized freestream density." alt="" coords="315,209,468,250"/>
+<area shape="rect" id="node8" href="$classCPrimalGrid.html#ab692d03041f0e4c6322303efc38337b3" title="Get the index of the domain element of which this boundary element is a face." alt="" coords="273,275,509,301"/>
+<area shape="rect" id="node9" href="$classCPrimalGrid.html#ac3b3491572100880afc44a274f3367c8" title="Virtual function to make available the pointer to the vector for the donor elements for the wall func..." alt="" coords="289,326,494,367"/>
+<area shape="rect" id="node10" href="$classCConfig.html#a0b5df9254891b32a88e83880778f9261" title="Get the value of the Gamma of fluid (ratio of specific heats)." alt="" coords="314,392,469,419"/>
+<area shape="rect" id="node11" href="$classCPrimalGrid.html#a54f86db40189b0f81ca3c3867b5d8874" title="Make available the length scale of the element." alt="" coords="286,443,497,469"/>
+<area shape="rect" id="node12" href="$classCConfig.html#a5a078901bb388e9caa9cb856e3348f0b" title="Get the value of the Mach number (velocity divided by speed of sound)." alt="" coords="322,493,461,520"/>
+<area shape="rect" id="node13" href="$classCPrimalGrid.html#aca4652b6514e978f14a2c357e91cef28" title="Virtual function to make available the number of DOFs of the solution in the element." alt="" coords="293,544,489,571"/>
+<area shape="rect" id="node14" href="$classCPrimalGrid.html#abb55552e43077ab2374848b7897b2f98" title="Virtual function to make available the number of donor elements for the wall function treatment." alt="" coords="284,595,499,637"/>
+<area shape="rect" id="node15" href="$classCConfig.html#a27dc07a71d7798a849c68eda017144c8" title="Get the number of time levels for time accurate local time stepping." alt="" coords="315,661,468,702"/>
+<area shape="rect" id="node16" href="$classCPrimalGrid.html#a4d539a008fcff596006d0714d5a2b004" title="Virtual function to make available the polynomial degree of the solution." alt="" coords="297,727,486,753"/>
+<area shape="rect" id="node17" href="$classCConfig.html#a502035c2b049606186e11e01b7df626a" title="Get the value of the laminar Prandtl number." alt="" coords="299,777,483,804"/>
+<area shape="rect" id="node18" href="$classCPrimalGrid.html#a6cd7664dd5911c20c2a6b6adcfcab0f5" title="Make available the time level of the element." alt="" coords="292,828,491,855"/>
+<area shape="rect" id="node19" href="$classCConfig.html#ae33781eb89184d511e23b7e247d21c8a" title="Get the vector of the non&#45;dimensionalized freestream velocity." alt="" coords="314,879,469,921"/>
+<area shape="rect" id="node20" href="$classCConfig.html#a07714d2b67cf861cdb43891e2ff4f318" title="Get the value of the non&#45;dimensionalized freestream viscosity." alt="" coords="310,945,473,986"/>
+<area shape="rect" id="node21" href="$classCBaseMPIWrapper.html#a4009cae40f1e050b3635a8d803dbfa3d" title=" " alt="" coords="299,1011,484,1037"/>
+<area shape="rect" id="node22" href="$classCBaseMPIWrapper.html#abe6ea390a8bef50649e393e1dbe3b1ec" title=" " alt="" coords="298,1061,485,1088"/>
+<area shape="rect" id="node23" href="$classCBaseMPIWrapper.html#a89e5c8b06b4c1c64ade3f78c6f0ed0e2" title=" " alt="" coords="300,1112,483,1139"/>
+<area shape="rect" id="node24" href="$classCBaseMPIWrapper.html#adfe0cc3203ae26745e12fb885af0629b" title=" " alt="" coords="292,1163,491,1189"/>
+<area shape="rect" id="node25" href="$classCBaseMPIWrapper.html#a6b6d07031fc7ffdc9022f1df45ae381e" title=" " alt="" coords="292,1214,491,1255"/>
+<area shape="rect" id="node26" href="$classCPrimalGrid.html#a9d761193724126ff11675aac7385d9d5" title="Set the time level of the element." alt="" coords="293,1280,490,1307"/>
+<area shape="rect" id="node27" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="368,1331,415,1357"/>
+<area shape="rect" id="node28" href="$classCBaseMPIWrapper.html#a01c02f8c0c799ccd15023f0c2c3cae27" title=" " alt="" coords="294,1381,489,1408"/>
+<area shape="rect" id="node5" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="557,107,743,133"/>
+</map>

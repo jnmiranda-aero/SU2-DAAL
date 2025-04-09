@@ -1,0 +1,4 @@
+<map id="CPrimalGrid::SetOwnerFace" name="CPrimalGrid::SetOwnerFace">
+<area shape="rect" id="node1" title="Set the boolean to indicate whether or not this element owns the face between the current and the adj..." alt="" coords="240,13,440,39"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#a0a1295415b0ff3105673f5733682e151" title="Set the domains for FEM grid partitioning using ParMETIS." alt="" coords="5,5,192,47"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CSolver::TurboAverageProcess" name="CSolver::TurboAverageProcess">
+<area shape="rect" id="node1" title="virtual member." alt="" coords="525,81,744,108"/>
+<area shape="rect" id="node2" href="$classCTurboIteration.html#a2b7a9de17346bfc5758fd156cdabef1a" title="Postprocesses the fluid system before heading to another physics system or the next iteration." alt="" coords="247,5,453,32"/>
+<area shape="rect" id="node3" href="$classCTurboIteration.html#a59731c7650647007182d30589ef3965b" title="Preprocessing to prepare for an iteration of the physics." alt="" coords="250,56,450,83"/>
+<area shape="rect" id="node4" href="$classCDriver.html#ad384010214279eafb529661d49312c1e" title="Initiate value for static mesh movement such as the gridVel for the ROTATING frame." alt="" coords="223,107,477,133"/>
+<area shape="rect" id="node6" href="$classCIntegration.html#af7aa23ef26b19cb2e73a8df6c7924d91" title="Do the space integration of the numerical system." alt="" coords="275,158,425,199"/>
+<area shape="rect" id="node5" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="26,107,154,133"/>
+<area shape="rect" id="node7" href="$classCSingleGridIntegration.html#a62ebec93c34c032bcfacc24f8613fd9b" title="Do the numerical integration (implicit) of the turbulence solver." alt="" coords="5,158,175,199"/>
+</map>

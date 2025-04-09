@@ -1,0 +1,20 @@
+<map id="CFEAVariable::CFEAVariable" name="CFEAVariable::CFEAVariable">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,371,208,397"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a424e952127d9f46fc73e8e0ed2b130ed" title="Decide whether to apply dead loads to the model." alt="" coords="279,5,447,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#ab3928c4e6debcf50dcd0d38985f6980c" title="Get the indicator whether we are solving an discrete adjoint problem." alt="" coords="285,57,442,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#ab3fdf060d59e990ed2e9418e8df56ad7" title="Check if the simulation we are running is a FSI simulation." alt="" coords="264,123,463,149"/>
+<area shape="rect" id="node5" href="$classCConfig.html#abafdda03255a7f71a9701ded02f6d231" title="Get whether the simulation we are running is a multizone simulation." alt="" coords="280,174,447,215"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a1cb01724397ce2448f6d3836577a16de" title="Decide whether it&#39;s necessary to read a reference geometry." alt="" coords="279,240,448,267"/>
+<area shape="rect" id="node7" href="$classCConfig.html#abd9f331e86fcfa1d6984761ae767b719" title="Decide whether it&#39;s necessary to read a reference geometry." alt="" coords="281,291,445,317"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a85d2e3cf43b77c63642c40c235b853f3" title="Check if the multizone problem is solved for time domain." alt="" coords="266,341,461,368"/>
+<area shape="rect" id="node9" href="$classCConfig.html#aaf3e38ba9bf594bc2d636158d1dbf305" title="Get topology optimization." alt="" coords="283,393,444,434"/>
+<area shape="rect" id="node10" href="$classC2DContainer.html#adefb48b593f76aa322e228fea8f76127" title="Request a change of size." alt="" coords="284,459,443,485"/>
+<area shape="rect" id="node11" href="$classCVariable.html#aa47456564bac33106a460be201d4c843" title="Set the value of the solution in the previous BGS subiteration." alt="" coords="256,509,471,536"/>
+<area shape="rect" id="node15" href="$classCFEAVariable.html#a89b90cd415ec5d156acd48120f27e505" title=" " alt="" coords="279,561,448,602"/>
+<area shape="rect" id="node16" href="$classCFEAVariable.html#a0ba711c6dfe3603d9951b86a595e4550" title=" " alt="" coords="279,626,448,667"/>
+<area shape="rect" id="node17" href="$classCFEAVariable.html#a2b1a9b9c0219daad1b3084238c603abb" title="Wrappers to solution to access velocity and acceleration by name." alt="" coords="265,692,461,719"/>
+<area shape="rect" id="node18" href="$classCFEAVariable.html#a5d03632509de81c5e06c1a46cc1f8c08" title=" " alt="" coords="279,743,448,785"/>
+<area shape="rect" id="node12" href="$classcontainer__details_1_1AccessorImpl.html#a5b5318f7212e57c13e464c398f74b3d5" title=" " alt="" coords="519,443,665,485"/>
+<area shape="rect" id="node13" href="$omp__structure_8hpp.html#a3af8b37ed645164f4c3441fa75e5fa76" title="Copy data from one array&#45;like object to another in parallel." alt="" coords="540,509,644,536"/>
+<area shape="rect" id="node14" href="$classC2DContainer.html#a8278113dbcf54123f9852e7e44583759" title=" " alt="" coords="519,560,665,587"/>
+</map>

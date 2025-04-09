@@ -1,0 +1,5 @@
+<map id="CFEMStandardElementBase::GetNDOFsStatic" name="CFEMStandardElementBase::GetNDOFsStatic">
+<area shape="rect" id="node1" title="Static function, which makes available the number of DOFs for an element corresponding to the argumen..." alt="" coords="489,5,692,47"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#ab884b171a834b35e6ee2829af7c9d859" title="Reads for the FEM solver the geometry of the grid and adjust the boundary conditions with the configu..." alt="" coords="211,5,441,47"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#a075a737b341a64de5463ddd41096692e" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file." alt="" coords="5,5,163,47"/>
+</map>

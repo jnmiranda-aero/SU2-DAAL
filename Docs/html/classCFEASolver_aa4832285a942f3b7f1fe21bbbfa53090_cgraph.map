@@ -1,0 +1,9 @@
+<map id="CFEASolver::Set_VertexEliminationSchedule" name="CFEASolver::Set_VertexEliminationSchedule">
+<area shape="rect" id="node1" title="Mitigation for an issue with Dirichlet boundary conditions and MPI, some ranks do not get enough of t..." alt="" coords="5,150,255,191"/>
+<area shape="rect" id="node2" href="$classCFEASolverBase.html#a1cfb4329edf9b0d4d4ed6836329c689f" title="Communicate extra vertices for elimination in the linear system." alt="" coords="303,91,531,133"/>
+<area shape="rect" id="node6" href="$classCPoint.html#a8a53865a92d645b1b74c4d817b4aae10" title="Get the global index in a parallel computation." alt="" coords="600,157,773,184"/>
+<area shape="rect" id="node7" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="347,208,486,235"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a137ef06ade0c4f94d2a61f9b8817b6a7" title=" " alt="" coords="582,5,791,32"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a0db599277ab9197511cfd263b4da10f8" title=" " alt="" coords="593,56,780,83"/>
+<area shape="rect" id="node5" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="579,107,795,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CConfig::GetKind_InitOption" name="CConfig::GetKind_InitOption">
+<area shape="rect" id="node1" title="free stream option to initialize the solution" alt="" coords="660,64,863,91"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="308,9,592,36"/>
+<area shape="rect" id="node4" href="$classCNEMOEulerSolver.html#ad23673d38da9e895e4802b6d4d000c1b" title="Set the fluid solver nondimensionalization." alt="" coords="288,64,612,91"/>
+<area shape="rect" id="node6" href="$classCFEM__DG__EulerSolver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="349,118,551,159"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460" title="Main constructor of this class." alt="" coords="25,5,221,32"/>
+<area shape="rect" id="node5" href="$classCNEMOEulerSolver.html#a192d56e184ee19ad0b0dd3282b74f1e6" title="Contructor of the class." alt="" coords="5,57,240,98"/>
+<area shape="rect" id="node7" href="$classCFEM__DG__EulerSolver.html#a70d30ef9e7cd7620d54ec73f4b1ed28c" title=" " alt="" coords="35,122,210,163"/>
+</map>

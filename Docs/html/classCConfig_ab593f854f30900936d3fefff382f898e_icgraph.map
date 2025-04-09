@@ -1,0 +1,4 @@
+<map id="CConfig::GetKind_ConvNumScheme_Species" name="CConfig::GetKind_ConvNumScheme_Species">
+<area shape="rect" id="node1" title="Get the kind of convective numerical scheme for the Species equations (upwind)." alt="" coords="252,5,455,47"/>
+<area shape="rect" id="node2" href="$classCDriver.html#aafbb91232ec4106d2bb92e6cde323dff" title="Helper to instantiate species transport numerics specialized for different flow solvers." alt="" coords="5,5,204,47"/>
+</map>

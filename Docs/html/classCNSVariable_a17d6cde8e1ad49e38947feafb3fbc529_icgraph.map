@@ -1,0 +1,5 @@
+<map id="CNSVariable::GetEddyViscosity" name="CNSVariable::GetEddyViscosity">
+<area shape="rect" id="node1" title="Get the eddy viscosity of the flow." alt="" coords="209,46,433,73"/>
+<area shape="rect" id="node2" href="$classCNSVariable.html#a71e190265f85ef8f0cb414275dba59f7" title="Set the new solution for Roe Dissipation." alt="" coords="5,5,161,47"/>
+<area shape="rect" id="node3" href="$classCNSVariable.html#ae8391103a386186f112deaa91e04cee7" title="Set the new solution for Roe Dissipation." alt="" coords="5,71,161,112"/>
+</map>

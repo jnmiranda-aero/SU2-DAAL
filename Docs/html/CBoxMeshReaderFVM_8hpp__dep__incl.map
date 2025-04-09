@@ -1,0 +1,5 @@
+<map id="Common/include/geometry/meshreader/CBoxMeshReaderFVM.hpp" name="Common/include/geometry/meshreader/CBoxMeshReaderFVM.hpp">
+<area shape="rect" id="node1" title="Header file for the class CBoxMeshReaderFVM. The implementations are in the CBoxMeshReaderFVM...." alt="" coords="67,5,347,47"/>
+<area shape="rect" id="node2" href="$CPhysicalGeometry_8cpp.html" title="Implementation of the physical geometry class." alt="" coords="5,102,184,143"/>
+<area shape="rect" id="node3" href="$CBoxMeshReaderFVM_8cpp.html" title="Reads a 3D box grid into linear partitions for the finite volume solver (FVM)." alt="" coords="209,95,431,151"/>
+</map>

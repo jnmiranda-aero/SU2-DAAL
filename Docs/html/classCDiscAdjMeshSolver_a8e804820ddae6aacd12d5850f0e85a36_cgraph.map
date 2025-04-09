@@ -1,0 +1,5 @@
+<map id="CDiscAdjMeshSolver::RegisterSolution" name="CDiscAdjMeshSolver::RegisterSolution">
+<area shape="rect" id="node1" title="Performs the preprocessing of the AD&#45;based mesh adjoint solver. Registers all necessary variables on ..." alt="" coords="5,27,161,69"/>
+<area shape="rect" id="node2" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="211,5,355,32"/>
+<area shape="rect" id="node3" href="$classCVariable.html#a644356993636cb240d2cfa7f7078f09e" title="A virtual member. Register the reference coordinates of the mesh." alt="" coords="209,57,356,98"/>
+</map>

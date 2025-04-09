@@ -1,0 +1,13 @@
+<map id="CNumerics::SetDiffusionCoeff" name="CNumerics::SetDiffusionCoeff">
+<area shape="rect" id="node1" title="Set the diffusion coefficient." alt="" coords="488,209,703,235"/>
+<area shape="rect" id="node2" href="$classCNEMOEulerSolver.html#af35c1b20663aa6051487296077034f05" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="256,5,427,47"/>
+<area shape="rect" id="node3" href="$classCNEMOEulerSolver.html#a1448f7a4a713ada22016532249a56a95" title="Impose a supersonic inlet boundary condition." alt="" coords="256,71,427,112"/>
+<area shape="rect" id="node4" href="$classCNEMOEulerSolver.html#a0758ca67e16c9f1f0f8fe5c8ec661cf7" title="Source term integration." alt="" coords="243,136,440,177"/>
+<area shape="rect" id="node5" href="$classCSpeciesSolver.html#a02c01af54949033097952c6562e2ee64" title="Source term computation for axisymmetric flow." alt="" coords="254,201,429,243"/>
+<area shape="rect" id="node7" href="$classCSpeciesFlameletSolver.html#a736b1d7ee4006457731975b183b88004" title="Compute the fluxes due to viscous and preferential diffusion effects of the flamelet species at a par..." alt="" coords="251,291,431,332"/>
+<area shape="rect" id="node8" href="$classCHeatSolver.html#a2d350250cad8bfed473c6d86064565f3" title="Compute the viscous flux for the scalar equation at a particular edge." alt="" coords="261,356,422,397"/>
+<area shape="rect" id="node10" href="$classCSpeciesSolver.html#ad58605ba6ee6bef0b0e2bf85c5e47ebf" title="Compute the viscous flux for the turbulent equation at a particular edge." alt="" coords="251,445,431,487"/>
+<area shape="rect" id="node6" href="$classCSpeciesFlameletSolver.html#ab432a7c07b01ab72e43e9a423e4e757f" title="Source term computation." alt="" coords="10,201,190,243"/>
+<area shape="rect" id="node9" href="$classCHeatSolver.html#a28c9bfdc4b9410d4a01ab373a69d7a5b" title="Compute the viscous residuals for the turbulent equation." alt="" coords="19,356,181,397"/>
+<area shape="rect" id="node11" href="$classCSpeciesSolver.html#a0bd0626f424abe221a960b1237b80496" title="Constructor of the class." alt="" coords="5,445,195,487"/>
+</map>

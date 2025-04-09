@@ -1,0 +1,52 @@
+<map id="CFVMFlowSolverBase::BC_Periodic" name="CFVMFlowSolverBase::BC_Periodic">
+<area shape="rect" id="node1" title="Impose a periodic boundary condition by summing contributions from the complete control volume." alt="" coords="5,571,169,612"/>
+<area shape="rect" id="node2" href="$classCSolver.html#a6b9c3e0290bce84f14ad3fde8ffa8658" title="Routine to complete the set of non&#45;blocking periodic communications launched by InitiatePeriodicComms..." alt="" coords="217,571,412,612"/>
+<area shape="rect" id="node11" href="$classCConfig.html#a8d41ac571359049bbdc4b7927e7c328a" title="Get the total number of periodic markers." alt="" coords="495,5,651,47"/>
+<area shape="rect" id="node26" href="$classCSolver.html#a1a6e3eee698f471925178d422a0c3724" title="Routine to load a solver quantity into the data structures for MPI periodic communication and to laun..." alt="" coords="225,1631,404,1672"/>
+<area shape="rect" id="node3" href="$classCSysVector.html#aa463275cba394503a9778529fdaa4494" title="Add &quot;block&quot; to the vector, see SetBlock." alt="" coords="491,426,655,453"/>
+<area shape="rect" id="node4" href="$classCSysMatrix.html#a5a4ef7eeb7f009450f575660108ed7be" title="Non overwrite version of SetBlock2Diag, also with scaling." alt="" coords="472,477,675,503"/>
+<area shape="rect" id="node5" href="$classCVariable.html#a90383034bdbbf6b9230ecb27b043374f" title="Add the value of the spectral radius." alt="" coords="489,527,658,554"/>
+<area shape="rect" id="node6" href="$classCVariable.html#ad20c6c9494cc08a50403cea1a4b65795" title="Add value to the Rmatrix for least squares gradient calculations." alt="" coords="489,578,658,605"/>
+<area shape="rect" id="node7" href="$classCVariable.html#a1a920f04028a1c5ae487550cef89920a" title="Increment the value of the undivided laplacian of the solution." alt="" coords="485,629,662,655"/>
+<area shape="rect" id="node8" href="$classCSysMatrix.html#a9473b0224c9b9a2749571db0bbd22a70" title="Deletes the values of the row i of the sparse matrix." alt="" coords="470,679,677,706"/>
+<area shape="rect" id="node9" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="735,1233,916,1259"/>
+<area shape="rect" id="node10" href="$classCVariable.html#aef3ea2cd0a87d55835bb2bd332678489" title="Get the value of the time step." alt="" coords="478,831,669,858"/>
+<area shape="rect" id="node12" href="$classCPoint.html#a49aa3858a7980bdf135f30d835bfebe9" title="Get the number of neighbor of a point." alt="" coords="492,730,655,757"/>
+<area shape="rect" id="node13" href="$classCSolver.html#a4cb94f79e1bb4dedc9e4c37606f3775c" title="Helper function to define the type and number of variables per point for each communication type." alt="" coords="474,883,673,924"/>
+<area shape="rect" id="node14" href="$classCPoint.html#adf424286ce88194f4c162a65ab0b14cf" title="Get the missing component of area or volume for a control volume on a periodic marker." alt="" coords="475,949,671,975"/>
+<area shape="rect" id="node15" href="$classCVariable.html#af17abc72a545ebd4b36f850a74d1855b" title="Get the min solution." alt="" coords="472,999,675,1026"/>
+<area shape="rect" id="node16" href="$classCVariable.html#ae7da20d95a739c44a020629db6769629" title="Get the min solution." alt="" coords="474,1050,673,1077"/>
+<area shape="rect" id="node17" href="$namespacePeriodicCommHelpers.html#ad278a2337065d80d53bcf78dfe73eaf7" title=" " alt="" coords="490,1101,657,1143"/>
+<area shape="rect" id="node18" href="$namespacePeriodicCommHelpers.html#a04bf09361d0170e48b14dc8d742da6b0" title=" " alt="" coords="490,1167,657,1208"/>
+<area shape="rect" id="node19" href="$classCVariable.html#a75d51484f25650269294a7925c0f5a3e" title="Set the value of the time step." alt="" coords="479,71,667,98"/>
+<area shape="rect" id="node20" href="$classCPoint.html#a28f69d74670361558e0fd31947cec519" title="Set the number of neighbor (artificial dissipation)." alt="" coords="493,122,653,149"/>
+<area shape="rect" id="node21" href="$classCPoint.html#a04fae9e559f1a077087f46208de8579c" title="Set the missing component of area or volume for a control volume on a periodic marker." alt="" coords="476,173,671,199"/>
+<area shape="rect" id="node22" href="$classCVariable.html#a22fbbd7bc6491672843000644a05c6a5" title="Set the value of the solution, all variables." alt="" coords="490,223,657,250"/>
+<area shape="rect" id="node23" href="$classCVariable.html#a6ee4d8d450971204cc054a33d6473732" title="Set the value of the old solution." alt="" coords="476,274,671,301"/>
+<area shape="rect" id="node24" href="$classCBaseMPIWrapper.html#a01c02f8c0c799ccd15023f0c2c3cae27" title=" " alt="" coords="476,325,671,351"/>
+<area shape="rect" id="node25" href="$classCBaseMPIWrapper.html#a5f4a1382f625fbbfb2c6224a87591825" title=" " alt="" coords="472,375,675,402"/>
+<area shape="rect" id="node27" href="$classCGeometry.html#a3c81679606eb3deaf3bd0c4294a80eae" title="Routine to allocate buffers for periodic communications. Also called to dynamically reallocate if not..." alt="" coords="469,2480,677,2521"/>
+<area shape="rect" id="node28" href="$group__GeometryToolbox.html#ga600fb4ee993ae4c3b985082d51994881" title=" " alt="" coords="472,1334,675,1361"/>
+<area shape="rect" id="node29" href="$classCSysMatrix.html#a47036e07a622b3c93751016a2e6239fe" title="Get a pointer to the start of block &quot;ij&quot;." alt="" coords="492,1385,655,1411"/>
+<area shape="rect" id="node30" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="507,1435,640,1462"/>
+<area shape="rect" id="node31" href="$classCVariable.html#a4892ca545884011b7903a8e35c43b43f" title="A virtual member." alt="" coords="491,1486,656,1513"/>
+<area shape="rect" id="node32" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="500,1537,647,1563"/>
+<area shape="rect" id="node33" href="$classCConfig.html#afbf664fbd8b2c75c5874432fdc185937" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="479,1587,668,1614"/>
+<area shape="rect" id="node34" href="$classCVariable.html#af0b6afbd2666eab791d902f50fc3e869" title="Get the value of the spectral radius." alt="" coords="490,1638,657,1665"/>
+<area shape="rect" id="node35" href="$classCConfig.html#ab8c9c1f45950a29355be4ff357049440" title="Get the index of the surface defined in the geometry file." alt="" coords="499,1689,647,1731"/>
+<area shape="rect" id="node36" href="$classCConfig.html#ae3f698e50dc72c02aec172bbc3747798" title="Return true if a NEMO solver is in use." alt="" coords="475,1755,672,1782"/>
+<area shape="rect" id="node37" href="$classCPoint.html#a89c049459e1c4b71ca86fcc8a5360070" title="Provides information about if a point belongs to a periodic boundary (without MPI)." alt="" coords="469,1806,678,1833"/>
+<area shape="rect" id="node38" href="$classCConfig.html#a23429512366edc5571342f9e3440ac1b" title="Angles of rotation for a rotational periodic boundary." alt="" coords="463,1857,684,1883"/>
+<area shape="rect" id="node39" href="$classCConfig.html#aede3f0e248c90e1ed1e4302f358e37e8" title="Center of rotation for a rotational periodic boundary." alt="" coords="463,1907,683,1934"/>
+<area shape="rect" id="node40" href="$classCConfig.html#ab30e5ffef19779d6d59d195fa8fb5746" title="Translation vector for a translational periodic boundary." alt="" coords="460,1958,687,1985"/>
+<area shape="rect" id="node41" href="$classCPoint.html#aaf8ce82e815afc59927fd23fc5bc34e2" title="Provides information about if a point belong to the physical boundaries (without MPI)." alt="" coords="468,2009,679,2035"/>
+<area shape="rect" id="node42" href="$classCPoint.html#a9bc468188cd5bf36508e0aaf2ecb762f" title="Get the entire point adjacency information in compressed format (CSR)." alt="" coords="506,2059,641,2086"/>
+<area shape="rect" id="node43" href="$classCVariable.html#ad08820234eeedeb13105e603af2c67ad" title="A virtual member." alt="" coords="488,2110,659,2137"/>
+<area shape="rect" id="node44" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="489,2161,657,2187"/>
+<area shape="rect" id="node45" href="$classCPoint.html#a35a504401472dfa76ef1187a5675414f" title="Get area or volume of the control volume." alt="" coords="501,2211,645,2238"/>
+<area shape="rect" id="node46" href="$classCGeometry.html#a60a44b5d0d4261cf6f420ccfc91757e3" title="Routine to launch non&#45;blocking recvs only for all periodic communication with neighboring partitions." alt="" coords="462,2262,685,2289"/>
+<area shape="rect" id="node47" href="$classCGeometry.html#a3b0f9d3d7c63f4aca8529b15e12ea78e" title="Routine to launch a single non&#45;blocking send once the buffer is loaded for a periodic commucation." alt="" coords="462,1233,685,1259"/>
+<area shape="rect" id="node48" href="$classC2DContainer.html#adefb48b593f76aa322e228fea8f76127" title="Request a change of size." alt="" coords="494,2313,653,2339"/>
+<area shape="rect" id="node49" href="$group__GeometryToolbox.html#ga096060ce1ab901c92fd03f55da4cc406" title="Apply a rotation matrix (R) about origin (O) to a point at distance (d) from it to obtain new coordin..." alt="" coords="479,2363,667,2390"/>
+<area shape="rect" id="node50" href="$group__GeometryToolbox.html#ga3d2f77f7f0ea57f6d7256a29a2d00f7e" title="Compute a 3D rotation matrix." alt="" coords="473,2415,673,2456"/>
+</map>

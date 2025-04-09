@@ -1,0 +1,7 @@
+<map id="CNumerics::AddQCR" name="CNumerics::AddQCR">
+<area shape="rect" id="node1" title="Add a correction using a Quadratic Constitutive Relation to the stress tensor." alt="" coords="300,97,455,124"/>
+<area shape="rect" id="node2" href="$classCAvgGrad__Flow.html#a24116483420da4c85e134442cbce7590" title="Compute the viscous flow residual using an average of gradients." alt="" coords="5,5,252,32"/>
+<area shape="rect" id="node3" href="$classCAvgGradInc__Flow.html#a01d7de2a96934050c3cc1ccda489dd0c" title="Compute the viscous flow residual using an average of gradients." alt="" coords="24,57,233,98"/>
+<area shape="rect" id="node4" href="$classCGeneralAvgGrad__Flow.html#af77f9f862b6b097256d3521a829e97d9" title="Compute the viscous flow residual using an average of gradients." alt="" coords="41,122,216,163"/>
+<area shape="rect" id="node5" href="$classCFVMFlowSolverBase.html#af46a894bd89c2367215f64fa7ea7d02d" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="47,187,211,229"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="CSolver::SetVertexTractionsAdjoint" name="CSolver::SetVertexTractionsAdjoint">
+<area shape="rect" id="node1" title="Set the adjoints of the vertex tractions to the AD structure." alt="" coords="5,150,207,191"/>
+<area shape="rect" id="node2" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="271,5,418,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="255,56,435,83"/>
+<area shape="rect" id="node4" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="275,107,414,133"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a1e07d3641838843be05ed58424d39f4f" title="Determines whether a marker with index iMarker is a solid boundary." alt="" coords="259,157,430,184"/>
+<area shape="rect" id="node6" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="267,208,422,235"/>
+<area shape="rect" id="node7" href="$namespaceAD.html#a49a954dc442cd06cc43cd61a451d76e5" title="Sets the adjoint value at index to val." alt="" coords="275,259,414,285"/>
+<area shape="rect" id="node8" href="$namespaceAD.html#a93909396dd20444ea1ad3100003ff08c" title="Evaluates and saves gradient data from a variable." alt="" coords="291,309,398,336"/>
+</map>

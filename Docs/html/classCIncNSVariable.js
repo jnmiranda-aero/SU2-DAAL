@@ -4,7 +4,7 @@ var classCIncNSVariable =
     [ "GetDES_LengthScale", "classCIncNSVariable.html#ad4e82716546a2e7f16f3be42723221fa", null ],
     [ "GetEddyViscosity", "classCIncNSVariable.html#a23796d143bed45092b61f485ad383995", null ],
     [ "GetLaminarViscosity", "classCIncNSVariable.html#a4cd73e2828b82d33c23d0f8ead625470", null ],
-    [ "GetTau_Wall", "classCIncNSVariable.html#a1a656ad208afb280531c0fa592092cba", null ],
+    [ "GetTau_Wall", "classCIncNSVariable.html#a3a8f35348d5f94eda39597a9d273b929", null ],
     [ "GetTau_Wall", "classCIncNSVariable.html#a99266e6d63b36f3087140c7a69058cd5", null ],
     [ "GetThermalConductivity", "classCIncNSVariable.html#a522f1046e6222a70051d287ab78d952b", null ],
     [ "SetDES_LengthScale", "classCIncNSVariable.html#a34649e3a3fb42e069d688cbc5c14d0c6", null ],

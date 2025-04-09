@@ -1,0 +1,16 @@
+<map id="CVolumetricMovement::ComputeSolid_Wall_Distance" name="CVolumetricMovement::ComputeSolid_Wall_Distance">
+<area shape="rect" id="node1" title="Compute the minimum distance to the nearest solid surface." alt="" coords="5,285,176,341"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="227,5,437,32"/>
+<area shape="rect" id="node3" href="$classCADTPointsOnlyClass.html#a6c59523d6f08fcdfcd1b36d9909dace6" title="Function, which determines the nearest node in the ADT for the given coordinate." alt="" coords="240,57,424,98"/>
+<area shape="rect" id="node5" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="224,123,440,149"/>
+<area shape="rect" id="node6" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="265,173,399,200"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="242,224,422,251"/>
+<area shape="rect" id="node8" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="263,275,401,301"/>
+<area shape="rect" id="node9" href="$classCGeometry.html#a275fb07cd99ab79d7a04b4862280169d" title="Get number of points." alt="" coords="249,325,415,352"/>
+<area shape="rect" id="node10" href="$classCGeometry.html#a00b7f7e71ff42bd38f39147366dd093a" title="Get number of vertices." alt="" coords="244,376,420,403"/>
+<area shape="rect" id="node11" href="$classCConfig.html#a1e07d3641838843be05ed58424d39f4f" title="Determines whether a marker with index iMarker is a solid boundary." alt="" coords="247,427,417,453"/>
+<area shape="rect" id="node12" href="$classCADTBaseClass.html#acf2c06bc3b8b87b85aaf62571092df07" title="Function, which returns whether or not the ADT is empty." alt="" coords="239,477,425,504"/>
+<area shape="rect" id="node13" href="$classCPoint.html#acfd5de2b62bf970457f546ba24c03ed4" title="Set the value of the distance to the nearest wall." alt="" coords="239,528,425,555"/>
+<area shape="rect" id="node14" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="309,579,355,605"/>
+<area shape="rect" id="node4" href="$omp__structure_8hpp.html#aad63dd7e34961dbbd2e8774e7f6bc2d0" title="Index of current thread, akin to MPI rank." alt="" coords="488,64,652,91"/>
+</map>

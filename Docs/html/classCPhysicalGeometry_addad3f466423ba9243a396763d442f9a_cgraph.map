@@ -1,0 +1,52 @@
+<map id="CPhysicalGeometry::CPhysicalGeometry" name="CPhysicalGeometry::CPhysicalGeometry">
+<area shape="rect" id="node1" title="Accepts a geometry container holding a linearly partitioned grid with coloring performed by ParMETIS,..." alt="" coords="5,1639,163,1680"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="476,2147,687,2174"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#ae378288dab74085ca549a652369a6f76" title="Distributes the coloring from ParMETIS so that each rank has complete information about the local gri..." alt="" coords="241,440,398,481"/>
+<area shape="rect" id="node8" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="735,1129,951,1155"/>
+<area shape="rect" id="node10" href="$classCGeometry.html#af255155486a734241d17301914b93e8c" title="Retrieve total number of nodes in a simulation across all processors (including halos)." alt="" coords="497,5,665,47"/>
+<area shape="rect" id="node19" href="$classCPhysicalGeometry.html#a53c554e57be8227097d529b75cc9dc49" title="Broadcast the marker tags for all boundaries from the master rank to all other ranks." alt="" coords="239,1448,399,1489"/>
+<area shape="rect" id="node25" href="$classCPhysicalGeometry.html#a34925ec2db6f388d2bd8bad6ad38a137" title="Distribute the grid points, including ghost points, across all ranks based on a ParMETIS coloring." alt="" coords="241,567,398,608"/>
+<area shape="rect" id="node27" href="$classCPhysicalGeometry.html#ab129d8da80848e89b8e97e309f4c1bc0" title="Distribute the connectivity for a single surface element type in all markers across all ranks based o..." alt="" coords="211,811,428,852"/>
+<area shape="rect" id="node28" href="$classCPhysicalGeometry.html#a8d4cb42ae0466bac05c43aa9c12d9412" title="Distribute the connectivity for a single volume element type across all ranks based on a ParMETIS col..." alt="" coords="211,903,428,944"/>
+<area shape="rect" id="node30" href="$classCConfig.html#a310b11210ca741b596fd42c552f87b16" title="Get the size of the edge groups colored for OpenMP parallelization of edge loops." alt="" coords="225,1609,414,1651"/>
+<area shape="rect" id="node31" href="$classCGeometry.html#ace7f7fe876f629f5bd5f92d4805a1a4b" title="Get number of coordinates." alt="" coords="239,1675,400,1702"/>
+<area shape="rect" id="node32" href="$classCGeometry.html#a83adc5e529673587c0aae63212262c31" title="Get number of zones." alt="" coords="236,1726,403,1753"/>
+<area shape="rect" id="node33" href="$classCConfig.html#ab95541bd4f7a07fa46e26ea0638a656e" title="Check if the gradient smoothing is active." alt="" coords="215,1777,424,1803"/>
+<area shape="rect" id="node34" href="$classCPhysicalGeometry.html#af0b666209dbd671fdaf3104cbcda5445" title="Load the local grid points after partitioning (owned and ghost) into the geometry class objects." alt="" coords="241,1972,398,2013"/>
+<area shape="rect" id="node39" href="$classCPhysicalGeometry.html#ae8bc780573f7358809e4556f75a3f5de" title="Load the local surface elements after partitioning (owned and ghost) into the geometry class objects." alt="" coords="238,1544,401,1585"/>
+<area shape="rect" id="node43" href="$classCPhysicalGeometry.html#a770c1c52d374c64f3cce53471a920b06" title="Load the local volume elements after partitioning (owned and ghost) into the geometry class objects." alt="" coords="238,2140,401,2181"/>
+<area shape="rect" id="node46" href="$classCPhysicalGeometry.html#abb92b4ce2bf3bf4448180558a1dee85a" title="Partition the marker connectivity held on the master rank according to a linear partitioning." alt="" coords="216,1055,423,1096"/>
+<area shape="rect" id="node49" href="$classCPhysicalGeometry.html#a7b533d7040deb63e8d8498cb2867e84c" title="Routine to compute the initial linear partitioning offset counts and store in persistent data structu..." alt="" coords="241,2205,398,2247"/>
+<area shape="rect" id="node50" href="$classC2DContainer.html#adefb48b593f76aa322e228fea8f76127" title="Request a change of size." alt="" coords="240,2271,399,2298"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#ade915135d4560a390849e5744488b5ef" title=" " alt="" coords="483,675,679,702"/>
+<area shape="rect" id="node5" href="$classCPhysicalGeometry.html#af4280607f8bcb8feaff6daba48a9e686" title="Routine to complete the set of non&#45;blocking communications launched with InitiateComms() with MPI_Wai..." alt="" coords="503,844,660,885"/>
+<area shape="rect" id="node6" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="491,910,672,937"/>
+<area shape="rect" id="node7" href="$classCPoint.html#a852297a7e4908f8bccd4e48f14df5c4c" title="Get the color of a point, the color indicates to which subdomain the point belong to." alt="" coords="517,371,646,398"/>
+<area shape="rect" id="node9" href="$classCLinearPartitioner.html#a707f3e0894f386e591083318ee7765b7" title="Get the first index of the current rank&#39;s linear partition." alt="" coords="497,71,665,112"/>
+<area shape="rect" id="node11" href="$classCPoint.html#a8a53865a92d645b1b74c4d817b4aae10" title="Get the global index in a parallel computation." alt="" coords="495,422,668,449"/>
+<area shape="rect" id="node12" href="$classCLinearPartitioner.html#a27c8cbcde5662cdbb0dbebecef3fa84b" title="Get the last index of the current rank&#39;s linear partition." alt="" coords="498,188,665,229"/>
+<area shape="rect" id="node13" href="$classCGeometry.html#a3cac58e3b4dd3f8350bd308acb7e3bc1" title="Get number of elements." alt="" coords="498,625,665,651"/>
+<area shape="rect" id="node14" href="$classCPrimalGrid.html#ad07e4929bb7093fd08f1314a57739cce" title="Get number of nodes of the element." alt="" coords="491,254,671,281"/>
+<area shape="rect" id="node15" href="$classCPrimalGrid.html#a6353b89f5a8a3948cd475da6152bf077" title="Get the nodes shared by the primal grid element." alt="" coords="499,961,664,987"/>
+<area shape="rect" id="node16" href="$classCGeometry.html#a275fb07cd99ab79d7a04b4862280169d" title="Get number of points." alt="" coords="498,473,665,499"/>
+<area shape="rect" id="node17" href="$classCLinearPartitioner.html#a15582f67cb6ec435a2f677591d0735b5" title="Get the rank that owns the index based on the linear partitioning." alt="" coords="485,305,677,347"/>
+<area shape="rect" id="node18" href="$classCPhysicalGeometry.html#a52f4041e9784f1165192417cf09387d2" title="Routine to launch non&#45;blocking sends and recvs amongst all processors." alt="" coords="503,727,660,768"/>
+<area shape="rect" id="node20" href="$classCBaseMPIWrapper.html#a0db599277ab9197511cfd263b4da10f8" title=" " alt="" coords="488,1295,675,1322"/>
+<area shape="rect" id="node21" href="$classCConfig.html#ab8c9c1f45950a29355be4ff357049440" title="Get the index of the surface defined in the geometry file." alt="" coords="507,1513,655,1555"/>
+<area shape="rect" id="node22" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="491,1346,671,1373"/>
+<area shape="rect" id="node23" href="$classCConfig.html#a82bd1f76cf9574ecfc48c44bef277cd5" title="Set if a marker val_marker is going to be sent or receive val_index from another domain." alt="" coords="508,1579,655,1620"/>
+<area shape="rect" id="node24" href="$classCConfig.html#a3d64a9bbafa5f87e2559f34cc297a9c4" title="Set the value of the index val_index (read from the geometry file) for the marker val_marker." alt="" coords="508,1448,655,1489"/>
+<area shape="rect" id="node26" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="515,523,648,550"/>
+<area shape="rect" id="node29" href="$classCPrimalGrid.html#ad506ad8f97dd70d71c1ee6f407df4cf5" title="Get VTK type." alt="" coords="484,1062,679,1089"/>
+<area shape="rect" id="node35" href="$classCGeometry.html#a1950b86a664c5da4d7df2a8b3d361a67" title="Retrieve total number of nodes in a simulation across all processors (excluding halos)." alt="" coords="497,2081,665,2123"/>
+<area shape="rect" id="node36" href="$classCPoint.html#adfce10ea45ab90407e18b393f412cfbf" title="Set a color to the point that comes from the grid partitioning." alt="" coords="518,1878,645,1905"/>
+<area shape="rect" id="node37" href="$classCPoint.html#af3545cace579269797a534b6a10a42e1" title="Set the coordinates for the control volume." alt="" coords="516,1929,647,1955"/>
+<area shape="rect" id="node38" href="$classCPoint.html#a6ebbb35fdc230e1bef0d870dd5c09ab2" title="Set the global index in a parallel computation." alt="" coords="496,2030,667,2057"/>
+<area shape="rect" id="node40" href="$classCConfig.html#a626e9f08cb8c1f960eae155fc522ca82" title="Get the send&#45;receive information for a marker val_marker." alt="" coords="507,1644,655,1685"/>
+<area shape="rect" id="node41" href="$classCConfig.html#a561073e0d8337afb1ead2080499b11af" title="Get the total number of boundary markers in the cfg plus the possible send/receive domains." alt="" coords="486,1710,677,1737"/>
+<area shape="rect" id="node42" href="$classCConfig.html#a6f6d16d0585be1c3782d3296658f9f45" title="number Turbomachinery performance option specified from config file." alt="" coords="503,1761,659,1803"/>
+<area shape="rect" id="node44" href="$classCGeometry.html#ae5a06c51dbefb9e83ff68e2df9bf9cc3" title="Retrieve total number of elements in a simulation across all processors (excluding halos)." alt="" coords="497,2249,665,2291"/>
+<area shape="rect" id="node45" href="$classCPrimalGrid.html#aecfb4701d5097d6316d7fbac53ae3802" title="Set the global index for an element in a parallel computation." alt="" coords="478,2315,685,2342"/>
+<area shape="rect" id="node47" href="$classCPhysicalGeometry.html#a38fc16269e09e2c19f09ef1326662cb7" title="Get the processor that owns the global numbering index based on the linear partitioning." alt="" coords="503,1113,660,1155"/>
+<area shape="rect" id="node48" href="$classCGeometry.html#a99963e6bd2e4a26d4562f7ea5e8b8873" title="Get the number of boundary elements." alt="" coords="498,1179,665,1220"/>
+</map>

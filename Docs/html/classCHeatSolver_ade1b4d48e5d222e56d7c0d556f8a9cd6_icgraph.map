@@ -1,0 +1,5 @@
+<map id="CHeatSolver::IsothermalBoundaryCondition" name="CHeatSolver::IsothermalBoundaryCondition">
+<area shape="rect" id="node1" title="Applies an isothermal condition to a vertex of a marker." alt="" coords="295,23,537,65"/>
+<area shape="rect" id="node2" href="$classCHeatSolver.html#a425001a48ff8e440183ac9d74ed5e15c" title="Impose the inlet boundary condition." alt="" coords="43,5,209,32"/>
+<area shape="rect" id="node3" href="$classCHeatSolver.html#a8f1b5ef62ec17b74df8c3f95b6a55e31" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="5,56,247,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CConfig::GetRelaxation_Factor_Adjoint" name="CConfig::GetRelaxation_Factor_Adjoint">
+<area shape="rect" id="node1" title="Get the relaxation factor for solution updates of adjoint solvers." alt="" coords="275,39,448,80"/>
+<area shape="rect" id="node2" href="$classCDiscAdjSolver.html#a197e13969a8007038486acaabc5902c8" title="Sets the adjoint values of the input variables of the flow (+turb.) iteration after tape has been eva..." alt="" coords="5,5,227,47"/>
+<area shape="rect" id="node3" href="$classCAdjEulerSolver.html#ab35fe7a0b2f840506e91d49961e07485" title="Update the solution using an implicit solver." alt="" coords="25,71,207,112"/>
+</map>

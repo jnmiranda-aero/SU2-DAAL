@@ -1,0 +1,6 @@
+<map id="CNumerics::SetDistance" name="CNumerics::SetDistance">
+<area shape="rect" id="node1" title="Set the value of the distance from the nearest wall." alt="" coords="225,78,404,105"/>
+<area shape="rect" id="node2" href="$classCAdjNSSolver.html#a3f7289e94076471c23e53da293b69645" title="Source term computation." alt="" coords="10,5,173,47"/>
+<area shape="rect" id="node3" href="$classCAdjTurbSolver.html#a5f05f842f8d9a3de8a5f438a663dd413" title="Source term computation." alt="" coords="5,71,177,112"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#a3173ebda0dc28e9fc17ced219fc60e9a" title="Source term integration." alt="" coords="13,136,170,177"/>
+</map>

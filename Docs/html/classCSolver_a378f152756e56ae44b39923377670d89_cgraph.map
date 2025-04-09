@@ -1,0 +1,11 @@
+<map id="CSolver::SetAuxVar_Gradient_LS" name="CSolver::SetAuxVar_Gradient_LS">
+<area shape="rect" id="node1" title="Compute the Least Squares gradient of the auxiliary variable." alt="" coords="5,125,152,166"/>
+<area shape="rect" id="node2" href="$group__FvmAlgos.html#gaea8d836040dfd0ee3dd0adf6fbc1b911" title="Instantiations for 2D and 3D." alt="" coords="200,31,429,57"/>
+<area shape="rect" id="node6" href="$classCVariable.html#ac92170d10d6ff7685c55f66105bd6c2a" title="Get the entire Aux matrix of the problem." alt="" coords="234,81,395,108"/>
+<area shape="rect" id="node7" href="$classCVariable.html#ad43c887251a67276ddb46b7d2320d224" title="Get the gradient of the auxilary variables." alt="" coords="206,132,423,159"/>
+<area shape="rect" id="node8" href="$classCVariable.html#a6374f3577665817f4f524f7c2182174a" title="Get the number of auxiliary variables." alt="" coords="230,183,399,209"/>
+<area shape="rect" id="node9" href="$classCVariable.html#a3cb7309c324e7527b12d235e6bdaa327" title="Get the value of the Rmatrix entry for least squares gradient calculations." alt="" coords="231,233,398,260"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="477,5,659,32"/>
+<area shape="rect" id="node5" href="$classCGeometry.html#ace7f7fe876f629f5bd5f92d4805a1a4b" title="Get number of coordinates." alt="" coords="487,56,649,83"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="707,5,892,32"/>
+</map>

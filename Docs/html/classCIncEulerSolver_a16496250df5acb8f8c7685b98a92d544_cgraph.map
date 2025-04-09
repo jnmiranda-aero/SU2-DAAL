@@ -1,0 +1,6 @@
+<map id="CIncEulerSolver::RegisterSolutionExtra" name="CIncEulerSolver::RegisterSolutionExtra">
+<area shape="rect" id="node1" title="Register In&#45; or Output." alt="" coords="5,64,192,105"/>
+<area shape="rect" id="node2" href="$classCConfig.html#aae21b37c088347be2a7e02fc0ad4e4c4" title="Get information about the streamwise periodicity (None, Pressure_Drop, Massflow)." alt="" coords="240,5,456,47"/>
+<area shape="rect" id="node3" href="$namespaceAD.html#a142308d54379f7aaa1c72195fb5fe992" title="Registers the variable as an input. I.e. as a leaf of the computational graph." alt="" coords="280,71,416,98"/>
+<area shape="rect" id="node4" href="$namespaceAD.html#ae381e45797545e980376c4aeb3f5afdc" title="Registers the variable as an output. I.e. as the root of the computational graph." alt="" coords="275,122,421,149"/>
+</map>

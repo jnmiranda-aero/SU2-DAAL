@@ -1,0 +1,39 @@
+<map id="CConfig::GetStructuralProblem" name="CConfig::GetStructuralProblem">
+<area shape="rect" id="node1" title="Return true if a structural solver is in use." alt="" coords="825,1039,1045,1066"/>
+<area shape="rect" id="node2" href="$classCSysMatrix.html#ae17220ac30c2abcc7fdd3c5dc8f04571" title="Initializes the sparse matrix." alt="" coords="583,458,743,485"/>
+<area shape="rect" id="node21" href="$classCDriver.html#aedc08d3b6ea02eeed60695e5c4d52336" title="InitializeGeometryFVM." alt="" coords="548,1111,777,1138"/>
+<area shape="rect" id="node24" href="$classCDriver.html#a65c1e626dd5f40013544034bb1629f1a" title="Definition and allocation of all interface classes." alt="" coords="566,986,759,1013"/>
+<area shape="rect" id="node25" href="$classCDeformationDriver.html#a87e04020865a0667acb8aab363200226" title="Output the mesh." alt="" coords="586,909,739,951"/>
+<area shape="rect" id="node28" href="$classCDriver.html#aebfaa7d180ed13e44f71fed2f6d5b128" title="Restart of the solvers from the restart files." alt="" coords="579,1039,746,1066"/>
+<area shape="rect" id="node30" href="$classCConfig.html#acd89f93bfce0d43b33d22d7e3ea9e2c9" title="Set multizone properties." alt="" coords="580,1194,745,1221"/>
+<area shape="rect" id="node37" href="$classCPhysicalGeometry.html#a9c3acdee10579102b039ffe93498cc2b" title="Compute surface area (positive z&#45;direction) for force coefficient non&#45;dimensionalization." alt="" coords="584,1245,741,1287"/>
+<area shape="rect" id="node3" href="$classCAdjEulerSolver.html#a0a739888df9436d4707665d152a7af1a" title=" " alt="" coords="283,509,481,551"/>
+<area shape="rect" id="node4" href="$classCAdjNSSolver.html#a323f1dc7c0b9fe00d1911eeeea365d46" title=" " alt="" coords="278,575,486,602"/>
+<area shape="rect" id="node5" href="$classCAdjTurbSolver.html#a621bdae0b081f25a67425cc037cd90a2" title=" " alt="" coords="289,627,475,668"/>
+<area shape="rect" id="node6" href="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460" title="Main constructor of this class." alt="" coords="284,693,480,719"/>
+<area shape="rect" id="node7" href="$classCFEASolver.html#a1d4c7d17d9c7143d3079fc78fae1599d" title=" " alt="" coords="292,743,472,770"/>
+<area shape="rect" id="node8" href="$classCGradientSmoothingSolver.html#a388e06af9042060ac43193566bb03cc8" title="Constructor of the class." alt="" coords="279,795,485,836"/>
+<area shape="rect" id="node9" href="$classCHeatSolver.html#a89c9ece2b98a950e53f4ee9482968186" title="Constructor of the class." alt="" coords="286,861,478,887"/>
+<area shape="rect" id="node10" href="$classCIncEulerSolver.html#a2a0c72c1d1d79e45c69da03e01f6281a" title="Constructor of the class." alt="" coords="285,5,479,47"/>
+<area shape="rect" id="node11" href="$classCMeshSolver.html#a728930536c48c01f17b91808115fdb91" title="Constructor of the class." alt="" coords="282,71,482,98"/>
+<area shape="rect" id="node12" href="$classCNEMOEulerSolver.html#a192d56e184ee19ad0b0dd3282b74f1e6" title="Contructor of the class." alt="" coords="265,123,499,164"/>
+<area shape="rect" id="node13" href="$classCRadP1Solver.html#ae423cf9af88b527eb54ebce86227d96a" title=" " alt="" coords="276,189,488,215"/>
+<area shape="rect" id="node14" href="$classCTransLMSolver.html#a4975cbf30f2954e3da1244832999eda0" title=" " alt="" coords="264,239,500,266"/>
+<area shape="rect" id="node15" href="$classCTurbSASolver.html#a06a8b09d1563dd48f364ff6e97c25cd8" title="Constructor." alt="" coords="272,290,492,317"/>
+<area shape="rect" id="node16" href="$classCTurbSSTSolver.html#a84beba65418c7c2ca4f4843b989b360a" title="Constructor." alt="" coords="266,341,498,367"/>
+<area shape="rect" id="node17" href="$classCVolumetricMovement.html#a6a95354e05a54fa2d2422f07de8bcc78" title="Constructor of the class." alt="" coords="293,392,471,433"/>
+<area shape="rect" id="node18" href="$classCSpeciesSolver.html#a3add249849d759ed3feec4f335aa9cde" title=" " alt="" coords="289,458,475,485"/>
+<area shape="rect" id="node19" href="$classCSpeciesFlameletSolver.html#ad28daa94ec7a426fd00201bf6139da04" title="Define a Flamelet Generated Manifold species solver." alt="" coords="17,419,205,460"/>
+<area shape="rect" id="node20" href="$classCSpeciesSolver.html#a3a7863355bb316fe760afeb1db4ca66c" title="Constructor of the class." alt="" coords="16,484,205,525"/>
+<area shape="rect" id="node22" href="$classCDriver.html#a13e45636e813ccc36b5e4a42adb18d96" title="Construction of the edge&#45;based data structure and the multi&#45;grid structure." alt="" coords="282,1114,482,1141"/>
+<area shape="rect" id="node23" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="47,1063,175,1090"/>
+<area shape="rect" id="node26" href="$classCDeformationDriver.html#aa6da6453a3790a001ed9cb135926e107" title="Launch the driver computation." alt="" coords="289,911,475,938"/>
+<area shape="rect" id="node27" href="$SU2__DEF_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="83,911,138,938"/>
+<area shape="rect" id="node29" href="$classCDriver.html#ae57e1a2eb7e8f19259176afdab83e840" title="Definition and allocation of all solution classes." alt="" coords="294,1013,470,1039"/>
+<area shape="rect" id="node31" href="$classCDiscAdjDeformationDriver.html#a5767994acae0d567d903301249d2b3e4" title="Read in the config and mesh files." alt="" coords="281,1333,483,1375"/>
+<area shape="rect" id="node33" href="$SU2__SOL_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="355,1282,409,1309"/>
+<area shape="rect" id="node34" href="$classCDeformationDriver.html#aff331db8d83151bfff9502311c607043" title="Read in the config and mesh files." alt="" coords="305,1216,459,1257"/>
+<area shape="rect" id="node36" href="$classCDriver.html#a69bf3f15f78f4293d9b02c0f2ac545a7" title="Read in the config and mesh files." alt="" coords="291,1165,473,1191"/>
+<area shape="rect" id="node32" href="$classCDiscAdjDeformationDriver.html#a7ee59aebccb12d730fe2e5d1fbe7b216" title="Constructor of the class." alt="" coords="5,1333,216,1375"/>
+<area shape="rect" id="node35" href="$classCDeformationDriver.html#a598689718de003eea6540a042e6c7994" title="Constructor of the class." alt="" coords="30,1216,191,1257"/>
+</map>

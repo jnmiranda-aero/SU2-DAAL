@@ -1,0 +1,9 @@
+<map id="CSourceIncStreamwisePeriodic_Outlet::ComputeResidual" name="CSourceIncStreamwisePeriodic_Outlet::ComputeResidual">
+<area shape="rect" id="node1" title="Source term integration for boundary heat sink." alt="" coords="5,125,228,166"/>
+<area shape="rect" id="node2" href="$group__SIMD.html#gaf7650d08e2a58ed700276ddc70f72f96" title=" " alt="" coords="373,5,418,32"/>
+<area shape="rect" id="node3" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="287,56,504,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#ab99f4c81b2b9dd7e4b0f917ad8c5e829" title="Get the reference value for the heat flux." alt="" coords="296,107,495,133"/>
+<area shape="rect" id="node5" href="$classCConfig.html#ab42b9aeaf6b44dc414bb7ad751c40576" title="Get the value of the initial temperature for incompressible flows." alt="" coords="276,157,515,184"/>
+<area shape="rect" id="node6" href="$classCConfig.html#add55d31e0d273d9accdfbb093518ba15" title="Get the value of the artificial periodic outlet heat." alt="" coords="305,209,485,250"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a218d027f78cd801a8734a2d4581591ad" title="Get the value of the reference temperature for non&#45;dimensionalization." alt="" coords="288,275,503,301"/>
+</map>

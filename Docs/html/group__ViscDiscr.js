@@ -84,7 +84,7 @@ var group__ViscDiscr =
       [ "~CAvgGradCorrected_NEMO", "classCAvgGradCorrected__NEMO.html#ac80398be9ba5e2a929089b3d01a08185", null ],
       [ "ComputeResidual", "classCAvgGradCorrected__NEMO.html#a842de3caec637a1fde8ba4409c5e48dd", null ]
     ] ],
-    [ "CAvgGrad_Scalar< FlowIndices >", "classCAvgGrad__Scalar.html", [
+    [ "CAvgGrad_Scalar", "classCAvgGrad__Scalar.html", [
       [ "CAvgGrad_Scalar", "classCAvgGrad__Scalar.html#a72488f1c22b208a3b1127f9e458a17e9", null ],
       [ "ComputeResidual", "classCAvgGrad__Scalar.html#a04be01597eab746241e04edf5c00ed0e", null ],
       [ "ExtraADPreaccIn", "classCAvgGrad__Scalar.html#affa0b67357a7e9b0251aa83b485ea9f9", null ],
@@ -99,7 +99,7 @@ var group__ViscDiscr =
       [ "Proj_Mean_GradScalarVar", "classCAvgGrad__Scalar.html#add4b96ccfdae51de311e9f9d27246bb0", null ],
       [ "proj_vector_ij", "classCAvgGrad__Scalar.html#a8a34f190b36967c83b77b99ffc8f206c", null ]
     ] ],
-    [ "CAvgGrad_Species< FlowIndices >", "classCAvgGrad__Species.html", [
+    [ "CAvgGrad_Species", "classCAvgGrad__Species.html", [
       [ "CAvgGrad_Species", "classCAvgGrad__Species.html#aafc401b18746a4a7cb6c0f60211876d6", null ]
     ] ],
     [ "CViscous_Template", "classCViscous__Template.html", [
@@ -107,24 +107,24 @@ var group__ViscDiscr =
       [ "~CViscous_Template", "classCViscous__Template.html#a439e9956d92349faef5b8bf031c259d3", null ],
       [ "ComputeResidual", "classCViscous__Template.html#a76322c86c240e497e1ad4e452322dd33", null ]
     ] ],
-    [ "CAvgGrad_TransLM< FlowIndices >", "classCAvgGrad__TransLM.html", [
+    [ "CAvgGrad_TransLM", "classCAvgGrad__TransLM.html", [
       [ "CAvgGrad_TransLM", "classCAvgGrad__TransLM.html#a0bb4e717d73ca4c3990e2a9e075d4aef", null ]
     ] ],
-    [ "CAvgGrad_TurbSA< FlowIndices >", "classCAvgGrad__TurbSA.html", [
+    [ "CAvgGrad_TurbSA", "classCAvgGrad__TurbSA.html", [
       [ "CAvgGrad_TurbSA", "classCAvgGrad__TurbSA.html#a74410a08007cda0a0d9bd5b52b153642", null ]
     ] ],
-    [ "CAvgGrad_TurbSA_Neg< FlowIndices >", "classCAvgGrad__TurbSA__Neg.html", [
+    [ "CAvgGrad_TurbSA_Neg", "classCAvgGrad__TurbSA__Neg.html", [
       [ "CAvgGrad_TurbSA_Neg", "classCAvgGrad__TurbSA__Neg.html#a15f3dd8b0617b83bc7d01291521cacae", null ]
     ] ],
-    [ "CAvgGrad_TurbSST< FlowIndices >", "classCAvgGrad__TurbSST.html", [
+    [ "CAvgGrad_TurbSST", "classCAvgGrad__TurbSST.html", [
       [ "CAvgGrad_TurbSST", "classCAvgGrad__TurbSST.html#a8bafbec8ba95a0f345ac49710e5e715f", null ],
       [ "SetF1blending", "classCAvgGrad__TurbSST.html#ab77b8539f4d8db93e688f9756c53f194", null ]
     ] ],
-    [ "CNoViscousFlux< NDIM >", "classCNoViscousFlux.html", [
+    [ "CNoViscousFlux", "classCNoViscousFlux.html", [
       [ "CNoViscousFlux", "classCNoViscousFlux.html#ac0f18d1429d6cb0abbe79e0f464a585c", null ],
       [ "viscousTerms", "classCNoViscousFlux.html#a21e6b178fcdc31763e7f5814c27e0248", null ]
     ] ],
-    [ "CCompressibleViscousFluxBase< NDIM, Derived >", "classCCompressibleViscousFluxBase.html", [
+    [ "CCompressibleViscousFluxBase", "classCCompressibleViscousFluxBase.html", [
       [ "CCompressibleViscousFluxBase", "classCCompressibleViscousFluxBase.html#ab41adbe00b0e4f67568d24364ac70a0b", null ],
       [ "viscousTerms", "classCCompressibleViscousFluxBase.html#a2ed1fc02c008a93e70565d1616aba51c", null ],
       [ "viscousTerms", "classCCompressibleViscousFluxBase.html#a71992376825d66ce25f7363fa7e7932c", null ],
@@ -144,16 +144,16 @@ var group__ViscDiscr =
       [ "useSA_QCR", "classCCompressibleViscousFluxBase.html#a12266673cabd1d3b80e42aab28d616ea", null ],
       [ "wallFun", "classCCompressibleViscousFluxBase.html#a2e347f09b7b6d5cbdd0d94e68d7102ae", null ]
     ] ],
-    [ "CCompressibleViscousFlux< NDIM >", "classCCompressibleViscousFlux.html", [
+    [ "CCompressibleViscousFlux", "classCCompressibleViscousFlux.html", [
       [ "Base", "classCCompressibleViscousFlux.html#a3678c797e4ab6ba3c61e92731df4ef5d", null ],
       [ "CCompressibleViscousFlux", "classCCompressibleViscousFlux.html#a8c922df598d0fcfd050810769bf8edd9", null ],
-      [ "energyJacobian", "classCCompressibleViscousFlux.html#a151928c19fad242c72a37de51b041fff", null ],
+      [ "energyJacobian", "classCCompressibleViscousFlux.html#a1980ad9c184b1038afc418e1b3069699", null ],
       [ "thermalConductivity", "classCCompressibleViscousFlux.html#a484d4b859d2eb1521cc78da1a104478e", null ]
     ] ],
-    [ "CGeneralCompressibleViscousFlux< NDIM >", "classCGeneralCompressibleViscousFlux.html", [
+    [ "CGeneralCompressibleViscousFlux", "classCGeneralCompressibleViscousFlux.html", [
       [ "Base", "classCGeneralCompressibleViscousFlux.html#a2145000c222795050a891d625fe22f74", null ],
       [ "CGeneralCompressibleViscousFlux", "classCGeneralCompressibleViscousFlux.html#afc8bfa1e5b658121adee948efc1ddfc4", null ],
-      [ "energyJacobian", "classCGeneralCompressibleViscousFlux.html#a9cfeebb5b28c7ff8f650e0440172a5c3", null ],
+      [ "energyJacobian", "classCGeneralCompressibleViscousFlux.html#a4a9f05c73fd502f0fac44fcfa21e69f0", null ],
       [ "thermalConductivity", "classCGeneralCompressibleViscousFlux.html#a78b3964c66e3a57d43a97dade693978b", null ]
     ] ]
 ];

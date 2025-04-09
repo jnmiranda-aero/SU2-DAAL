@@ -1,0 +1,4 @@
+<map id="CFEMStandardInternalFace::GetMatDerBasisElemIntegrationTransposeSide1" name="CFEMStandardInternalFace::GetMatDerBasisElemIntegrationTransposeSide1">
+<area shape="rect" id="node1" title="Function, which makes available the transpose of the matrix with the derivatives of the element basis..." alt="" coords="269,5,509,61"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__NSSolver.html#a407d8b7c0f6944c2f08ee7fb9b28aa0c" title="Compute the spatial residual for the given range of faces." alt="" coords="5,13,221,54"/>
+</map>

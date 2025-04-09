@@ -1,0 +1,7 @@
+<map id="CUpwRoeBase_Flow" name="CUpwRoeBase_Flow">
+<area shape="rect" id="node1" title="Intermediate base class for Roe schemes on ideal gas." alt="" coords="163,80,317,107"/>
+<area shape="rect" id="node3" href="$classCUpwL2Roe__Flow.html" title="Class for solving an approximate Riemann solver of L2Roe for the flow equations." alt="" coords="5,155,144,181"/>
+<area shape="rect" id="node4" href="$classCUpwLMRoe__Flow.html" title="Class for solving an approximate Riemann solver of LMRoe for the flow equations." alt="" coords="169,155,311,181"/>
+<area shape="rect" id="node5" href="$classCUpwRoe__Flow.html" title="Class for solving an approximate Riemann solver of Roe for the flow equations." alt="" coords="336,155,459,181"/>
+<area shape="rect" id="node2" href="$classCNumerics.html" title="Class for defining the numerical methods." alt="" coords="193,5,287,32"/>
+</map>

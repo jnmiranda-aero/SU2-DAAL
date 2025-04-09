@@ -1,0 +1,4 @@
+<map id="CFVMFlowSolverBase::InstantiateEdgeNumerics" name="CFVMFlowSolverBase::InstantiateEdgeNumerics">
+<area shape="rect" id="node1" title="Instantiate a SIMD numerics object." alt="" coords="217,5,412,47"/>
+<area shape="rect" id="node2" href="$classCFVMFlowSolverBase.html#a8c19de20d537852775225aa6d201f00f" title="Method to compute convective and viscous residual contribution using vectorized numerics." alt="" coords="5,5,169,47"/>
+</map>

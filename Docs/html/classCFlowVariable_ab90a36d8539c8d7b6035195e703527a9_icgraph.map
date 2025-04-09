@@ -1,0 +1,5 @@
+<map id="CFlowVariable::UpdateNonPhysicalEdgeCounter" name="CFlowVariable::UpdateNonPhysicalEdgeCounter">
+<area shape="rect" id="node1" title="Updates the non&#45;physical counter of an edge." alt="" coords="235,39,431,80"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#aa9729921eed9546daca6ca891ad2a9bb" title="Compute the spatial integration using a upwind scheme." alt="" coords="15,5,177,47"/>
+<area shape="rect" id="node3" href="$classCIncEulerSolver.html#aa1a06c3eef34a7f82f5bca304d563b4a" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,71,187,112"/>
+</map>

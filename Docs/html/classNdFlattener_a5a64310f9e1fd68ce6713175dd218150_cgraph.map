@@ -1,0 +1,6 @@
+<map id="NdFlattener::initialize" name="NdFlattener::initialize">
+<area shape="rect" id="node1" title="Initialize a flattener with K indices by combining distributed flatteners with (K&#45;1) indices each." alt="" coords="5,56,168,83"/>
+<area shape="rect" id="node2" href="$classNdFlattener.html#a5b98791c321c5c1764fb90669c0c308c" title="Allocate the indices array after nNodes has been determined." alt="" coords="216,5,375,32"/>
+<area shape="rect" id="node3" href="$classNdFlattener.html#a634f7ddd660f9903febef4c9d0c8bc44" title="Count the distributed flatteners&#39; numbers of nodes, and set nNodes." alt="" coords="216,56,375,83"/>
+<area shape="rect" id="node4" href="$classNdFlattener.html#afb55df030157d587a9154544a943be3e" title="Gather the distributed flatteners&#39; data and index arrays into the allocated arrays." alt="" coords="224,107,367,133"/>
+</map>

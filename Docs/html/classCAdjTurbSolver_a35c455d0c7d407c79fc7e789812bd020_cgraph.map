@@ -1,0 +1,18 @@
+<map id="CAdjTurbSolver::Upwind_Residual" name="CAdjTurbSolver::Upwind_Residual">
+<area shape="rect" id="node1" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,327,183,369"/>
+<area shape="rect" id="node2" href="$classCSysMatrix.html#a03a189a2120be05e21fbd9b120549427" title="Add a scaled block (in flat format) to the sparse matrix (see SetBlock)." alt="" coords="267,5,433,32"/>
+<area shape="rect" id="node3" href="$classCSysVector.html#aa463275cba394503a9778529fdaa4494" title="Add &quot;block&quot; to the vector, see SetBlock." alt="" coords="268,56,432,83"/>
+<area shape="rect" id="node4" href="$classCSysMatrix.html#a5a4ef7eeb7f009450f575660108ed7be" title="Non overwrite version of SetBlock2Diag, also with scaling." alt="" coords="249,107,451,133"/>
+<area shape="rect" id="node5" href="$classCNumerics.html#aa0ca13663a047ef2640b377b33875e29" title="Compute the numerical residual." alt="" coords="242,157,458,184"/>
+<area shape="rect" id="node6" href="$classCVariable.html#a07d4f954fe5a79e6f85adab3d462d73c" title="Get the gradient of the entire solution." alt="" coords="265,208,435,235"/>
+<area shape="rect" id="node7" href="$classCGeometry.html#aba89cceede61b33426b2783385431f5b" title="Get number of edges." alt="" coords="267,259,433,285"/>
+<area shape="rect" id="node8" href="$classCEdge.html#a5cd6f283cb2f3e4dfc037c0db6ae1055" title="Get left/right node index defining the edge." alt="" coords="286,309,414,336"/>
+<area shape="rect" id="node9" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="278,360,422,387"/>
+<area shape="rect" id="node10" href="$classCEdge.html#a4ace970590e47bd39ea5780c3e0e2037" title="Copy the the normal vector of a face." alt="" coords="279,411,421,437"/>
+<area shape="rect" id="node12" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="266,461,434,488"/>
+<area shape="rect" id="node13" href="$classCNumerics.html#a2d59a0969bac4b0e43b74ba4ec4d1eff" title="Set the value of the conservative variables." alt="" coords="246,512,454,539"/>
+<area shape="rect" id="node14" href="$classCNumerics.html#a93fd2262832ae5081317548f2f9cdbb3" title="Set the value of the normal vector to the face between two points." alt="" coords="265,563,435,589"/>
+<area shape="rect" id="node15" href="$classCNumerics.html#a8c5ce8e8a1cb2c0bb03bf408d9a80d68" title="Set the gradient of the scalar variables." alt="" coords="231,613,469,640"/>
+<area shape="rect" id="node16" href="$classCNumerics.html#aaf211e0fafb2ffea485a888cc5a3a725" title="Set the value of the adjoint turbulent variable." alt="" coords="242,664,458,691"/>
+<area shape="rect" id="node11" href="$classC2DContainer.html#ab6d9161cd08887f034322ebcbc3deb12" title=" " alt="" coords="517,411,664,437"/>
+</map>

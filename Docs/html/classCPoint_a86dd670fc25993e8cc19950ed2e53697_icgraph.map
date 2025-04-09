@@ -1,0 +1,6 @@
+<map id="CPoint::SetDomain" name="CPoint::SetDomain">
+<area shape="rect" id="node1" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="217,78,361,105"/>
+<area shape="rect" id="node2" href="$classCMultiGridGeometry.html#a59a712b6935d3057542cc1481e44c1c3" title="Constructor of the class." alt="" coords="5,5,169,47"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#a1932ad72c420cb68fc9e0c13ae77d695" title="Set the send receive boundaries of the grid." alt="" coords="9,71,166,112"/>
+<area shape="rect" id="node4" href="$classCPhysicalGeometry.html#a15b82329219f6927e581bb6c70edbc5a" title="Set a renumbering using a Reverse Cuthill&#45;McKee Algorithm." alt="" coords="9,136,166,177"/>
+</map>

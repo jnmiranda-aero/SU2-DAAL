@@ -1,0 +1,5 @@
+<map id="CSolver::ResidualReductions_FromAllThreads" name="CSolver::ResidualReductions_FromAllThreads">
+<area shape="rect" id="node1" title="&quot;Add&quot; local residual variables of all threads to compute global residual variables." alt="" coords="5,23,213,65"/>
+<area shape="rect" id="node2" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="281,5,415,32"/>
+<area shape="rect" id="node3" href="$classCPoint.html#a8a53865a92d645b1b74c4d817b4aae10" title="Get the global index in a parallel computation." alt="" coords="261,56,435,83"/>
+</map>

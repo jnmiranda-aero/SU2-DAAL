@@ -1,0 +1,8 @@
+<map id="CFlowVariable::GetGradient_Reconstruction" name="CFlowVariable::GetGradient_Reconstruction">
+<area shape="rect" id="node1" title="Get the array of the reconstruction variables gradient at a node." alt="" coords="549,104,752,145"/>
+<area shape="rect" id="node2" href="$classCNEMONSSolver.html#aed93127447e3f92ba0c25a33adef7065" title="Compute the gradient of the primitive variables using Green&#45;Gauss method, and stores the result in th..." alt="" coords="283,5,501,47"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#aa9729921eed9546daca6ca891ad2a9bb" title="Compute the spatial integration using a upwind scheme." alt="" coords="311,71,473,112"/>
+<area shape="rect" id="node5" href="$classCIncEulerSolver.html#aa1a06c3eef34a7f82f5bca304d563b4a" title="Compute the spatial integration using a upwind scheme." alt="" coords="301,136,483,177"/>
+<area shape="rect" id="node6" href="$classCNEMOEulerSolver.html#a427284b43fbe1f9c373096cc4bbe5781" title="Compute the spatial integration using a upwind scheme." alt="" coords="291,201,493,243"/>
+<area shape="rect" id="node3" href="$classCNEMONSSolver.html#aef1c13c42cd8103377619f7d94660d6a" title="Restart residual and compute gradients." alt="" coords="5,13,235,39"/>
+</map>

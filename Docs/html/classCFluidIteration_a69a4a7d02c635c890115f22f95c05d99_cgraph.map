@@ -1,0 +1,7 @@
+<map id="CFluidIteration::ComputeTurboPerformance" name="CFluidIteration::ComputeTurboPerformance">
+<area shape="rect" id="node1" title="Computes turboperformance." alt="" coords="5,86,191,127"/>
+<area shape="rect" id="node2" href="$classCGeometry.html#ace7f7fe876f629f5bd5f92d4805a1a4b" title="Get number of coordinates." alt="" coords="273,5,435,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a2caf35ccfb5e2b96bd5f53054c42fee6" title="number Turbomachinery performance option specified from config file." alt="" coords="276,57,432,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a50c6d8787325e09d732ecb9c4af96e93" title="number span&#45;wise sections to compute 3D BC and performance for turbomachinery." alt="" coords="239,123,469,149"/>
+<area shape="rect" id="node5" href="$classCSolver.html#a0b3e22c09165a759fd92b1b2878502ad" title="Get Primal variables for turbo performance computation iteration can be executed by multiple threads." alt="" coords="255,173,453,200"/>
+</map>

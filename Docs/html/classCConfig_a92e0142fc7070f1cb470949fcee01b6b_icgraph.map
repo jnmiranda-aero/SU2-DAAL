@@ -1,0 +1,9 @@
+<map id="CConfig::GetMarker_CfgFile_ZoneInterface" name="CConfig::GetMarker_CfgFile_ZoneInterface">
+<area shape="rect" id="node1" title="Get the multi&#45;physics interface information from the config definition for the marker val_marker." alt="" coords="801,96,973,137"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#a23692062ec01893ef6b5ae53fcbbf022" title="Loads the boundary elements (markers) from the mesh reader object into the primal element data struct..." alt="" coords="501,9,753,51"/>
+<area shape="rect" id="node5" href="$classCPhysicalGeometry.html#aa222a46292ba9ba3b03e581587bdbfb6" title="Reads for the FEM solver the geometry of the grid and adjust the boundary conditions with the configu..." alt="" coords="211,71,453,112"/>
+<area shape="rect" id="node6" href="$classCPhysicalGeometry.html#ab884b171a834b35e6ee2829af7c9d859" title="Reads for the FEM solver the geometry of the grid and adjust the boundary conditions with the configu..." alt="" coords="217,136,447,177"/>
+<area shape="rect" id="node7" href="$classCPhysicalGeometry.html#a1932ad72c420cb68fc9e0c13ae77d695" title="Set the send receive boundaries of the grid." alt="" coords="549,180,706,221"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#a88fc7f2ba5656a97d1e34884b51ae984" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file in para..." alt="" coords="253,5,411,47"/>
+<area shape="rect" id="node4" href="$classCPhysicalGeometry.html#a075a737b341a64de5463ddd41096692e" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file." alt="" coords="5,71,163,112"/>
+</map>

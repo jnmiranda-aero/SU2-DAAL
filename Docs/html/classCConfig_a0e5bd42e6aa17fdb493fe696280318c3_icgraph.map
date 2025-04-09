@@ -1,0 +1,14 @@
+<map id="CConfig::GetOutlet_Pressure" name="CConfig::GetOutlet_Pressure">
+<area shape="rect" id="node1" title="Get the back pressure (static) at an outlet boundary." alt="" coords="849,156,992,197"/>
+<area shape="rect" id="node2" href="$classCAdjEulerSolver.html#a606732a2540893587de80506c5d0ac70" title="Impose the outlet boundary condition." alt="" coords="628,5,780,47"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#ad26d60369d28b647c7aded1b0753bd95" title="Impose the outlet boundary condition." alt="" coords="615,71,793,98"/>
+<area shape="rect" id="node4" href="$classCIncEulerSolver.html#afc1e6b64c1d323261468e1aa04b110ad" title="Impose the outlet boundary condition." alt="" coords="629,123,779,164"/>
+<area shape="rect" id="node5" href="$classCNEMOEulerSolver.html#ad9c735fad084c25c2b24b9ccd3503fa8" title="Impose the outlet boundary condition." alt="" coords="619,188,789,229"/>
+<area shape="rect" id="node6" href="$classCFEM__DG__EulerSolver.html#a3233306f97b6173c5c109cae04a4c9be" title="Function, which computes the boundary states in the integration points of the boundary face by applyi..." alt="" coords="614,253,794,295"/>
+<area shape="rect" id="node9" href="$classCIncEulerSolver.html#aacea1dc960644b2fb82b191b17bf9056" title="A virtual member." alt="" coords="607,319,801,360"/>
+<area shape="rect" id="node7" href="$classCFEM__DG__EulerSolver.html#a869796e928f7618ea7f47d9ebc80cf76" title="Impose the outlet boundary condition.It is a virtual function, because for Navier&#45;Stokes it is overwr..." alt="" coords="334,192,501,233"/>
+<area shape="rect" id="node8" href="$classCFEM__DG__NSSolver.html#afa7d6c1243dd1f7a29408f272c26b02d" title="Impose the outlet boundary condition." alt="" coords="328,257,507,299"/>
+<area shape="rect" id="node10" href="$classCIncEulerSolver.html#ac50d02e914c4337e73d2c4878b12c59d" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="276,326,559,353"/>
+<area shape="rect" id="node11" href="$classCIncEulerSolver.html#aac33066eba6bdbe02693afb992e307d8" title="Compute primitive variables and their gradients." alt="" coords="5,301,228,327"/>
+<area shape="rect" id="node12" href="$classCIncNSSolver.html#aaaff5cfe93aa72a689248c80b2ea9149" title="Restart residual and compute gradients." alt="" coords="13,351,221,378"/>
+</map>

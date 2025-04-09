@@ -1,0 +1,6 @@
+<map id="CAvgGrad_Base::SetStressTensor" name="CAvgGrad_Base::SetStressTensor">
+<area shape="rect" id="node1" title="Calculate the viscous + turbulent stress tensor." alt="" coords="300,57,495,98"/>
+<area shape="rect" id="node2" href="$classCAvgGrad__Flow.html#a24116483420da4c85e134442cbce7590" title="Compute the viscous flow residual using an average of gradients." alt="" coords="5,5,252,32"/>
+<area shape="rect" id="node3" href="$classCAvgGradInc__Flow.html#a01d7de2a96934050c3cc1ccda489dd0c" title="Compute the viscous flow residual using an average of gradients." alt="" coords="24,57,233,98"/>
+<area shape="rect" id="node4" href="$classCGeneralAvgGrad__Flow.html#af77f9f862b6b097256d3521a829e97d9" title="Compute the viscous flow residual using an average of gradients." alt="" coords="41,122,216,163"/>
+</map>

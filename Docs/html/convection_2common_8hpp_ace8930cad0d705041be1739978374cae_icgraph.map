@@ -1,0 +1,4 @@
+<map id="roeDissipation" name="roeDissipation">
+<area shape="rect" id="node1" title="(Low) Dissipation coefficient for Roe schemes." alt="" coords="244,5,360,32"/>
+<area shape="rect" id="node2" href="$classCRoeScheme.html#aebe2600096cab484748c0a9df38fb2ab" title="Updates flux and Jacobians with standard Roe dissipation." alt="" coords="5,5,196,32"/>
+</map>

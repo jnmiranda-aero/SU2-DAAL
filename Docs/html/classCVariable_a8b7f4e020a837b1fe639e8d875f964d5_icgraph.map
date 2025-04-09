@@ -1,0 +1,52 @@
+<map id="CVariable::GetGradient_Primitive" name="CVariable::GetGradient_Primitive">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="1084,708,1255,749"/>
+<area shape="rect" id="node2" href="$classCAdjNSSolver.html#a159875229feba5b14c433990e5a89d60" title="Impose via the residual or brute force the Navier&#45;Stokes adjoint boundary condition (heat flux)." alt="" coords="787,533,1036,559"/>
+<area shape="rect" id="node3" href="$classCAdjEulerSolver.html#aa87a2220c946b47cb35c395c035f96e5" title="Compute the inviscid sensitivity of the functional." alt="" coords="819,584,1003,625"/>
+<area shape="rect" id="node4" href="$namespaceCommHelpers.html#afe0e4edeb87c652ab9830b5139241561" title=" " alt="" coords="802,715,1021,742"/>
+<area shape="rect" id="node45" href="$namespacePeriodicCommHelpers.html#ad278a2337065d80d53bcf78dfe73eaf7" title=" " alt="" coords="828,649,995,691"/>
+<area shape="rect" id="node48" href="$classCAdjNSSolver.html#a3f7289e94076471c23e53da293b69645" title="Source term computation." alt="" coords="830,767,993,808"/>
+<area shape="rect" id="node49" href="$classCAdjTurbSolver.html#a5f05f842f8d9a3de8a5f438a663dd413" title="Source term computation." alt="" coords="825,832,997,873"/>
+<area shape="rect" id="node50" href="$classCAdjNSSolver.html#a6e72f094190680fa7fb078d7aae9c1d8" title="Compute the viscous sensitivity of the functional." alt="" coords="827,897,996,939"/>
+<area shape="rect" id="node5" href="$classCSolver.html#a3912ec3b77bf15b77790be7399f4fa53" title="Routine to complete the set of non&#45;blocking communications launched by InitiateComms() and unpacking ..." alt="" coords="545,1101,738,1127"/>
+<area shape="rect" id="node44" href="$classCSolver.html#aab651e902cb3020b525c154cb76c4264" title="Routine to load a solver quantity into the data structures for MPI point&#45;to&#45;point communication and t..." alt="" coords="553,1151,729,1178"/>
+<area shape="rect" id="node6" href="$classCAdjEulerSolver.html#a0a739888df9436d4707665d152a7af1a" title=" " alt="" coords="273,685,470,727"/>
+<area shape="rect" id="node7" href="$classCAdjNSSolver.html#a323f1dc7c0b9fe00d1911eeeea365d46" title=" " alt="" coords="267,751,475,778"/>
+<area shape="rect" id="node8" href="$classCAdjTurbSolver.html#a621bdae0b081f25a67425cc037cd90a2" title=" " alt="" coords="279,803,464,844"/>
+<area shape="rect" id="node9" href="$classCHeatSolver.html#a89c9ece2b98a950e53f4ee9482968186" title="Constructor of the class." alt="" coords="275,269,467,295"/>
+<area shape="rect" id="node10" href="$group__PySU2.html#ga28e8e41ab6223500b17b656779574d39" title="Communicate the boundary mesh displacements." alt="" coords="270,868,473,909"/>
+<area shape="rect" id="node11" href="$classCFVMFlowSolverBase.html#a3eb0fbabf1ce42ccc0fe626473800e09" title="Generic implementation to complete an implicit iteration, i.e. update the solution." alt="" coords="255,320,488,361"/>
+<area shape="rect" id="node12" href="$group__FvmAlgos.html#ga32c639c72ec9d09a704d5f8056f28c35" title="Compute the gradient of a field using the Green&#45;Gauss theorem." alt="" coords="278,385,465,427"/>
+<area shape="rect" id="node13" href="$group__FvmAlgos.html#ga01c113d467c9ccfdfe83ec5b3d48d321" title="Compute the gradient of a field using inverse&#45;distance&#45;weighted or unweighted Least&#45;Squares approxima..." alt="" coords="278,5,465,47"/>
+<area shape="rect" id="node14" href="$group__FvmAlgos.html#ga4639562695f9dc19f098e6d00fcacde1" title="Generic limiter computation for methods based on one limiter value per point (as opposed to one per e..." alt="" coords="287,71,455,98"/>
+<area shape="rect" id="node15" href="$classCSpeciesSolver.html#a3a7863355bb316fe760afeb1db4ca66c" title="Constructor of the class." alt="" coords="277,933,466,975"/>
+<area shape="rect" id="node16" href="$classCTransLMSolver.html#a4975cbf30f2954e3da1244832999eda0" title=" " alt="" coords="253,999,489,1026"/>
+<area shape="rect" id="node17" href="$classCTurbSASolver.html#a06a8b09d1563dd48f364ff6e97c25cd8" title="Constructor." alt="" coords="261,1050,481,1077"/>
+<area shape="rect" id="node18" href="$classCTurbSSTSolver.html#a84beba65418c7c2ca4f4843b989b360a" title="Constructor." alt="" coords="255,1101,487,1127"/>
+<area shape="rect" id="node19" href="$classCMeshSolver.html#a573e4ddd63b680f5705f402ec317820b" title="Grid deformation using the linear elasticity equations." alt="" coords="272,1151,471,1178"/>
+<area shape="rect" id="node20" href="$classCFVMFlowSolverBase.html#ac30c9255150f29da2915a85264a1676c" title="Generic implementation of explicit iterations with a preconditioner." alt="" coords="283,1203,459,1244"/>
+<area shape="rect" id="node21" href="$classCAdjEulerSolver.html#ac6851acd72ffdbf5299680d5d92e065e" title="Update the solution using a explicit Euler scheme." alt="" coords="280,1268,463,1309"/>
+<area shape="rect" id="node22" href="$classCAdjEulerSolver.html#a853b9218167a682db73ca73c0fccc2cc" title="Update the solution using a Runge&#45;Kutta strategy." alt="" coords="280,1333,463,1375"/>
+<area shape="rect" id="node23" href="$classCAdjEulerSolver.html#ab35fe7a0b2f840506e91d49961e07485" title="Update the solution using an implicit solver." alt="" coords="280,1399,463,1440"/>
+<area shape="rect" id="node24" href="$classCAdjTurbSolver.html#a119fd6cc599337fd229174474d69f0fb" title="Update the solution using an implicit solver." alt="" coords="283,1464,460,1505"/>
+<area shape="rect" id="node25" href="$classCRadP1Solver.html#a23716727a079c099d449da9befa86696" title="Update the solution using an implicit solver." alt="" coords="270,1529,473,1571"/>
+<area shape="rect" id="node26" href="$classCAdjEulerSolver.html#a4bc9fada01b433e9194d4c0d67adbbbd" title="Load a solution from a restart file." alt="" coords="265,1595,477,1622"/>
+<area shape="rect" id="node27" href="$classCSpeciesSolver.html#a40ecea72824a266fcda6347d08a4fcea" title="Load a solution from a restart file." alt="" coords="267,1646,475,1673"/>
+<area shape="rect" id="node28" href="$classCTransLMSolver.html#a6f940c3ebc5092d9d06306159300713d" title="Load a solution from a restart file." alt="" coords="266,1697,477,1723"/>
+<area shape="rect" id="node29" href="$classCBaselineSolver.html#aa5fad3af8c5b48950679d5c5a3a91ec4" title="Load a solution from a restart file." alt="" coords="264,1747,479,1774"/>
+<area shape="rect" id="node30" href="$classCFEASolver.html#ac693299e88dfc4daaf1b2f410ec8351d" title="Load a solution from a restart file." alt="" coords="280,1798,463,1825"/>
+<area shape="rect" id="node31" href="$classCHeatSolver.html#a0cc2cf63a1cd34b15be77cf3233beaae" title="Load a solution from a restart file." alt="" coords="277,1849,466,1875"/>
+<area shape="rect" id="node32" href="$classCMeshSolver.html#a7049d436ca386344acd2424eceb39ef4" title="Load a solution from a restart file." alt="" coords="5,1899,199,1926"/>
+<area shape="rect" id="node33" href="$classCRadSolver.html#a9f64999fe5bfcb69fb4349d00d6d8ef5" title="Load a solution from a restart file." alt="" coords="280,1950,463,1977"/>
+<area shape="rect" id="node34" href="$classCTurbSolver.html#a7b62bcdb84f3345f560a6110905d7fb3" title="Load a solution from a restart file." alt="" coords="279,2001,464,2027"/>
+<area shape="rect" id="node35" href="$classCFVMFlowSolverBase.html#a7cf80881bcda9a08b9c8cf78e7a3bc8d" title="General implementation to load a flow solution from a restart file." alt="" coords="289,2052,453,2093"/>
+<area shape="rect" id="node36" href="$classCMeshSolver.html#accd7241ab78f3ccd19e918ccda4fb6e3" title="Load the geometries at the previous time states n and nM1." alt="" coords="247,1899,496,1926"/>
+<area shape="rect" id="node37" href="$classCAdjEulerSolver.html#af1b72ed76900f821d2f51942cb4252db" title="Compute the sensor for higher order dissipation control in rotating problems." alt="" coords="264,2117,479,2159"/>
+<area shape="rect" id="node38" href="$classCFVMFlowSolverBase.html#afb9ed896e3882658d23042a5ee15c9d2" title="Compute the dissipation sensor for centered schemes." alt="" coords="276,122,467,178"/>
+<area shape="rect" id="node39" href="$classCSpeciesFlameletSolver.html#ae9d618734213fca7565d4290a4a36f68" title="Set the initial condition for the scalar transport problem." alt="" coords="281,2183,461,2224"/>
+<area shape="rect" id="node40" href="$classCAdjEulerSolver.html#aeefdb4354432a35e1fc5c7db5a5f8043" title="Set the initial condition for the Euler Equations." alt="" coords="275,503,467,544"/>
+<area shape="rect" id="node41" href="$classCHeatSolver.html#a1faf13aa03d2eed01366294a83622cab" title="Set the initial condition for the FEM structural problem." alt="" coords="256,569,487,595"/>
+<area shape="rect" id="node42" href="$classCFVMFlowSolverBase.html#adc3a96a8ca25902058864c18b533192d" title="Compute the max eigenvalue, gemeric implementation." alt="" coords="274,203,469,244"/>
+<area shape="rect" id="node43" href="$classCNEMOEulerSolver.html#ae3b9dab24a842ae04b745c5303ec52aa" title="Compute the Pressure sensor for NEMO schemes." alt="" coords="256,620,487,661"/>
+<area shape="rect" id="node46" href="$classCSolver.html#a6b9c3e0290bce84f14ad3fde8ffa8658" title="Routine to complete the set of non&#45;blocking periodic communications launched by InitiatePeriodicComms..." alt="" coords="544,200,739,241"/>
+<area shape="rect" id="node47" href="$classCSolver.html#a1a6e3eee698f471925178d422a0c3724" title="Routine to load a solver quantity into the data structures for MPI periodic communication and to laun..." alt="" coords="552,265,731,307"/>
+</map>

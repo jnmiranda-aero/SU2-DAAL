@@ -1,0 +1,7 @@
+<map id="CConfig::GetKappa_4th_AdjFlow" name="CConfig::GetKappa_4th_AdjFlow">
+<area shape="rect" id="node1" title="Value of the calibrated constant for the high order method (center scheme)." alt="" coords="541,39,713,80"/>
+<area shape="rect" id="node2" href="$classCCentJST__AdjFlow.html#a7822739aeee9c8ee0f0fd72b28858572" title="Constructor of the class." alt="" coords="283,5,489,47"/>
+<area shape="rect" id="node3" href="$classCAdjEulerSolver.html#af1b72ed76900f821d2f51942cb4252db" title="Compute the sensor for higher order dissipation control in rotating problems." alt="" coords="279,71,493,112"/>
+<area shape="rect" id="node4" href="$classCAdjEulerSolver.html#a64baf8c7af6006bdc4ad0919f7c2507a" title="Initialize the residual vectors." alt="" coords="5,53,231,79"/>
+<area shape="rect" id="node5" href="$classCAdjNSSolver.html#a0669f6fb8ef7cd7800d151d4aff7d3f6" title="Restart residual and compute gradients." alt="" coords="13,103,223,130"/>
+</map>

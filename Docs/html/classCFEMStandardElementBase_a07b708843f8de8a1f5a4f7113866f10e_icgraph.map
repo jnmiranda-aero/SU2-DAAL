@@ -1,0 +1,12 @@
+<map id="CFEMStandardElementBase::GetWeightsIntegration" name="CFEMStandardElementBase::GetWeightsIntegration">
+<area shape="rect" id="node1" title="Function, which makes available the weights in the integration points." alt="" coords="748,169,951,211"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__NSSolver.html#a5118d674e7eb6f4865fb53f6f20eac1c" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="488,5,696,47"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__EulerSolver.html#a218c89d657364d7282515fec1d2453bc" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="509,71,675,112"/>
+<area shape="rect" id="node4" href="$classCFEM__DG__EulerSolver.html#a8875e58364f55e735fc3732f545d5f29" title="Compute the spatial residual for the given range of faces. It is a virtual function,..." alt="" coords="509,136,675,177"/>
+<area shape="rect" id="node8" href="$classCFEM__DG__NSSolver.html#a407d8b7c0f6944c2f08ee7fb9b28aa0c" title="Compute the spatial residual for the given range of faces." alt="" coords="484,201,700,243"/>
+<area shape="rect" id="node9" href="$classCFEM__DG__EulerSolver.html#ae6c2fff0649a4d8fd723ee9776778003" title="Compute the volume contributions to the spatial residual. It is a virtual function,..." alt="" coords="509,267,675,308"/>
+<area shape="rect" id="node10" href="$classCFEM__DG__NSSolver.html#ace5ac45857734f2e764b4072249e5c2d" title="Compute the volume contributions to the spatial residual." alt="" coords="487,332,697,373"/>
+<area shape="rect" id="node5" href="$classCFEM__DG__EulerSolver.html#ae807ca68b2d465020b63d617d54e339a" title="Function, which processes the list of tasks to be executed by the DG solver." alt="" coords="269,201,436,243"/>
+<area shape="rect" id="node6" href="$classCFEM__DG__EulerSolver.html#a0fe3772f40c29248f26fb08fa215af4e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="5,168,221,209"/>
+<area shape="rect" id="node7" href="$classCFEM__DG__EulerSolver.html#a370cb798d700bb080b52ec22834f78da" title="Function, which controls the computation of the spatial Jacobian." alt="" coords="19,233,208,275"/>
+</map>

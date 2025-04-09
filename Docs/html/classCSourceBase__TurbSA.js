@@ -2,6 +2,8 @@ var classCSourceBase__TurbSA =
 [
     [ "CSourceBase_TurbSA", "classCSourceBase__TurbSA.html#a0c509998d009493ef6512ade18125cc3", null ],
     [ "ComputeResidual", "classCSourceBase__TurbSA.html#a98179f7fb85368f815c070b96774b6de", null ],
+    [ "ResidualAxisymmetricDiffusion", "classCSourceBase__TurbSA.html#aeb02868a9caf060ef5330c95447ccf1f", null ],
+    [ "axisymmetric", "classCSourceBase__TurbSA.html#af8e2c1c6d8f36f6ad9152e177a1e9cae", null ],
     [ "idx", "classCSourceBase__TurbSA.html#a00e11b799492615212b3b14c16d3d862", null ],
     [ "Jacobian_Buffer", "classCSourceBase__TurbSA.html#a63c5ade30bab8f97a3912bf8c255ed42", null ],
     [ "Jacobian_i", "classCSourceBase__TurbSA.html#a65fa5354905f35fa407d3e7c628962a3", null ],

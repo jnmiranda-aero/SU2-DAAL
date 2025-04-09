@@ -1,0 +1,35 @@
+<map id="CNEMOEulerSolver::Centered_Residual" name="CNEMOEulerSolver::Centered_Residual">
+<area shape="rect" id="node1" title="Compute the spatial integration using a centered scheme." alt="" coords="5,837,217,878"/>
+<area shape="rect" id="node2" href="$classCSysVector.html#aa463275cba394503a9778529fdaa4494" title="Add &quot;block&quot; to the vector, see SetBlock." alt="" coords="545,437,709,464"/>
+<area shape="rect" id="node3" href="$classCNumerics.html#aa464552735cb16e4ed12b83d04c5d964" title="Check if residual constains a NaN value." alt="" coords="265,5,497,32"/>
+<area shape="rect" id="node5" href="$classCNumerics.html#aa0ca13663a047ef2640b377b33875e29" title="Compute the numerical residual." alt="" coords="273,107,489,133"/>
+<area shape="rect" id="node6" href="$classCNEMOEulerVariable.html#a529cb0910de468af8a0337b998e84a06" title="Returns the value of Cvve at the specified node." alt="" coords="303,158,460,199"/>
+<area shape="rect" id="node7" href="$classCNEMOEulerVariable.html#ad6573f71d80fa566ae0316a0cee6b345" title="Set partial derivative of pressure w.r.t. density ." alt="" coords="303,223,460,265"/>
+<area shape="rect" id="node8" href="$classCNEMOEulerVariable.html#a0125bb2fcd972ed625e2a7df7a38f518" title="Set partial derivative of temperature w.r.t. density ." alt="" coords="303,289,460,330"/>
+<area shape="rect" id="node9" href="$classCNEMOEulerVariable.html#afd2365662dfdf7df2a99d9fb3cead538" title="Set partial derivative of vib.&#45;el. temperature w.r.t. density ." alt="" coords="303,354,460,395"/>
+<area shape="rect" id="node10" href="$classCNEMOEulerVariable.html#a8d384ce066e1e62a4fd05493a1c0a5fe" title="Returns the stored value of Eve at the specified node." alt="" coords="303,419,460,461"/>
+<area shape="rect" id="node11" href="$classCNEMOEulerVariable.html#a01c5e98b3b8c4771749f8a4717fe85af" title="Returns the stored value of Gamma at the specified node." alt="" coords="303,485,460,526"/>
+<area shape="rect" id="node12" href="$classCConfig.html#ad16f71356f146b530fb1fbb45444525c" title="Get the kind of time integration method." alt="" coords="287,550,476,591"/>
+<area shape="rect" id="node13" href="$classCVariable.html#af0b6afbd2666eab791d902f50fc3e869" title="Get the value of the spectral radius." alt="" coords="298,616,465,643"/>
+<area shape="rect" id="node14" href="$classCGeometry.html#aba89cceede61b33426b2783385431f5b" title="Get number of edges." alt="" coords="298,667,465,693"/>
+<area shape="rect" id="node15" href="$classCPoint.html#a49aa3858a7980bdf135f30d835bfebe9" title="Get the number of neighbor of a point." alt="" coords="300,717,463,744"/>
+<area shape="rect" id="node16" href="$classCEdge.html#a5cd6f283cb2f3e4dfc037c0db6ae1055" title="Get left/right node index defining the edge." alt="" coords="317,768,445,795"/>
+<area shape="rect" id="node17" href="$classCEdge.html#a4ace970590e47bd39ea5780c3e0e2037" title="Copy the the normal vector of a face." alt="" coords="310,1528,453,1555"/>
+<area shape="rect" id="node19" href="$classCFlowVariable.html#a852271c741f1e7cdb1d391941266d344" title="Get a primitive variable." alt="" coords="279,869,484,896"/>
+<area shape="rect" id="node20" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="297,920,465,947"/>
+<area shape="rect" id="node21" href="$classCNumerics.html#a2d59a0969bac4b0e43b74ba4ec4d1eff" title="Set the value of the conservative variables." alt="" coords="277,971,485,997"/>
+<area shape="rect" id="node22" href="$classCNumerics.html#af07f872d61d872a0f94159778a843b8d" title="Set the vib&#45;elec specific heat." alt="" coords="304,1021,459,1048"/>
+<area shape="rect" id="node23" href="$classCNumerics.html#a60cf04c55bb20ff1b97fe2c1fb4be89b" title="Set the pressure derivatives." alt="" coords="303,1072,459,1099"/>
+<area shape="rect" id="node24" href="$classCNumerics.html#a832ef2e9985d009a8e76e73f542632b7" title="Set the temperature derivatives." alt="" coords="303,1123,459,1149"/>
+<area shape="rect" id="node25" href="$classCNumerics.html#a140865200dd935db388833891ec03d6c" title="Set the vib&#45;el temperture derivatives." alt="" coords="295,1173,467,1200"/>
+<area shape="rect" id="node26" href="$classCNumerics.html#aa77967b37163c8a0681082edcebd901a" title="Set the vib&#45;elec energy." alt="" coords="308,1224,455,1251"/>
+<area shape="rect" id="node27" href="$classCNumerics.html#aaecf63381d1338882f589b69ab42bc8c" title="Set the ratio of specific heats." alt="" coords="294,1275,469,1301"/>
+<area shape="rect" id="node28" href="$classCNumerics.html#a0b91fdb82ec676ef7426b8e2b963cba3" title="Set the value of the spectral radius." alt="" coords="294,1325,469,1352"/>
+<area shape="rect" id="node29" href="$classCNumerics.html#a3a325233fabba63421dd5d0596b6a7ca" title="Set the number of neighbor to a point." alt="" coords="291,1376,472,1403"/>
+<area shape="rect" id="node30" href="$classCNumerics.html#a93fd2262832ae5081317548f2f9cdbb3" title="Set the value of the normal vector to the face between two points." alt="" coords="296,1427,467,1453"/>
+<area shape="rect" id="node31" href="$classCNumerics.html#a028c500ba7ce96d3af061fc8218f76f1" title="Set the value of the primitive variables." alt="" coords="291,1477,472,1504"/>
+<area shape="rect" id="node32" href="$classCSysVector.html#a71ea6ec1ebdb77535b976bb40e7659a6" title="Subtract &quot;block&quot; from the vector, see AddBlock." alt="" coords="285,819,478,845"/>
+<area shape="rect" id="node33" href="$classCSysMatrix.html#a1e6f636ed0be6a752fb3b3830a61efda" title="Update 4 blocks ii, ij, ji, jj (add to i* sub from j*)." alt="" coords="284,1579,479,1605"/>
+<area shape="rect" id="node4" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="550,5,705,32"/>
+<area shape="rect" id="node18" href="$classC2DContainer.html#ab6d9161cd08887f034322ebcbc3deb12" title=" " alt="" coords="554,1528,701,1555"/>
+</map>

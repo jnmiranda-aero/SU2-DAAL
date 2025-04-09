@@ -1,0 +1,7 @@
+<map id="CSolver::GetnPrimVarGrad" name="CSolver::GetnPrimVarGrad">
+<area shape="rect" id="node1" title="Get the number of variables of the problem." alt="" coords="459,35,652,61"/>
+<area shape="rect" id="node2" href="$classCDriver.html#a5294ec170c889821b57d4ec7b8dc2c3c" title="Definition and allocation of all solver classes." alt="" coords="213,5,411,32"/>
+<area shape="rect" id="node4" href="$classCScalarSolver.html#a7a5250679bf3984b0e9b1a2d9641936f" title="Compute the spatial integration using a upwind scheme." alt="" coords="227,57,397,98"/>
+<area shape="rect" id="node3" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="21,5,149,32"/>
+<area shape="rect" id="node5" href="$classCHeatSolver.html#a6ae942fed49ba1b235dd757ee801f917" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,57,165,98"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CConfig::GetOutlet_MassFlow" name="CConfig::GetOutlet_MassFlow">
+<area shape="rect" id="node1" title="Get the back pressure (static) at an outlet boundary." alt="" coords="849,39,992,80"/>
+<area shape="rect" id="node2" href="$classCIncEulerSolver.html#afc1e6b64c1d323261468e1aa04b110ad" title="Impose the outlet boundary condition." alt="" coords="629,5,779,47"/>
+<area shape="rect" id="node3" href="$classCIncEulerSolver.html#aacea1dc960644b2fb82b191b17bf9056" title="A virtual member." alt="" coords="607,71,801,112"/>
+<area shape="rect" id="node4" href="$classCIncEulerSolver.html#ac50d02e914c4337e73d2c4878b12c59d" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="276,78,559,105"/>
+<area shape="rect" id="node5" href="$classCIncEulerSolver.html#aac33066eba6bdbe02693afb992e307d8" title="Compute primitive variables and their gradients." alt="" coords="5,53,228,79"/>
+<area shape="rect" id="node6" href="$classCIncNSSolver.html#aaaff5cfe93aa72a689248c80b2ea9149" title="Restart residual and compute gradients." alt="" coords="13,103,221,130"/>
+</map>

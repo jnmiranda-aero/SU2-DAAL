@@ -1,0 +1,5 @@
+<map id="CFEAVariable" name="CFEAVariable">
+<area shape="rect" id="node1" title="Class for defining the variables of the FEM structural problem." alt="" coords="27,80,135,107"/>
+<area shape="rect" id="node3" href="$classCFEABoundVariable.html" title="Class that adds storage of boundary variables (tractions) to CFEAVariable." alt="" coords="5,155,156,181"/>
+<area shape="rect" id="node2" href="$classCVariable.html" title="Main class for defining the variables." alt="" coords="39,5,123,32"/>
+</map>

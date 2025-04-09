@@ -1,0 +1,10 @@
+<map id="updateLinearSystem" name="updateLinearSystem">
+<area shape="rect" id="node1" title="Update the matrix and right&#45;hand&#45;side of a linear system." alt="" coords="5,132,161,159"/>
+<area shape="rect" id="node2" href="$namespaceAD.html#a17303e0b54570243d54732b02655f9a5" title="Start a passive region, i.e. stop recording." alt="" coords="239,5,374,32"/>
+<area shape="rect" id="node3" href="$namespaceAD.html#af5a5809a923faf03119828c329bc2db7" title="End a passive region, i.e. start recording if we were recording before." alt="" coords="245,56,368,83"/>
+<area shape="rect" id="node4" href="$classCSysVector.html#acceb60ca98fa7ede9520adde322009eb" title="Set &quot;block&quot; to the vector." alt="" coords="227,107,387,133"/>
+<area shape="rect" id="node5" href="$classCSysMatrix.html#ad10c231690cd58c0d0962ea2454f4339" title="Sets 2 blocks ij and ji (add to i* sub from j*) associated with one edge of an FVM&#45;type sparse patter..." alt="" coords="223,157,391,184"/>
+<area shape="rect" id="node6" href="$classCSysMatrix.html#a1e6f636ed0be6a752fb3b3830a61efda" title="Update 4 blocks ii, ij, ji, jj (add to i* sub from j*)." alt="" coords="209,208,404,235"/>
+<area shape="rect" id="node7" href="$classCSysVector.html#abb37fe6195ac6fdedab01b409966be28" title="Add to iPoint, subtract from jPoint." alt="" coords="210,259,403,285"/>
+<area shape="rect" id="node8" href="$classCSysVector.html#aa463275cba394503a9778529fdaa4494" title="Add &quot;block&quot; to the vector, see SetBlock." alt="" coords="452,259,616,285"/>
+</map>

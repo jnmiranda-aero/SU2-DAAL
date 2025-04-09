@@ -1,0 +1,6 @@
+<map id="CFlowVariable::GetLimiter_Primitive" name="CFlowVariable::GetLimiter_Primitive">
+<area shape="rect" id="node1" title="Get the value of the primitive variables gradient." alt="" coords="256,71,448,112"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#aa9729921eed9546daca6ca891ad2a9bb" title="Compute the spatial integration using a upwind scheme." alt="" coords="25,5,188,47"/>
+<area shape="rect" id="node3" href="$classCIncEulerSolver.html#aa1a06c3eef34a7f82f5bca304d563b4a" title="Compute the spatial integration using a upwind scheme." alt="" coords="16,71,197,112"/>
+<area shape="rect" id="node4" href="$classCNEMOEulerSolver.html#a427284b43fbe1f9c373096cc4bbe5781" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,136,208,177"/>
+</map>

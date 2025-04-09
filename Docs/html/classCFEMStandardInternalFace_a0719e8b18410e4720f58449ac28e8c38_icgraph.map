@@ -1,0 +1,5 @@
+<map id="CFEMStandardInternalFace::GetNDOFsElemSide0" name="CFEMStandardInternalFace::GetNDOFsElemSide0">
+<area shape="rect" id="node1" title="Function, which makes available the number of DOFs of the element on side 0 of the face." alt="" coords="269,39,465,80"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__EulerSolver.html#a677fa998b78bd489a3f8bee0d56623dd" title=" " alt="" coords="26,5,201,47"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__NSSolver.html#a407d8b7c0f6944c2f08ee7fb9b28aa0c" title="Compute the spatial residual for the given range of faces." alt="" coords="5,71,221,112"/>
+</map>

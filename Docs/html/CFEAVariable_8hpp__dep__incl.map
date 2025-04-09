@@ -1,0 +1,7 @@
+<map id="SU2_CFD/include/variables/CFEAVariable.hpp" name="SU2_CFD/include/variables/CFEAVariable.hpp">
+<area shape="rect" id="node1" title="Class for defining the variables of the FEM structural problem." alt="" coords="185,5,382,47"/>
+<area shape="rect" id="node2" href="$CFEABoundVariable_8hpp.html" title="Class for defining the variables on the FEA boundaries for FSI applications." alt="" coords="81,95,278,136"/>
+<area shape="rect" id="node5" href="$CFEAVariable_8cpp.html" title="Definition of the variables for FEM elastic structural problems." alt="" coords="303,95,472,136"/>
+<area shape="rect" id="node3" href="$CFEASolver_8cpp.html" title="Main subroutines for solving direct FEM elasticity problems." alt="" coords="5,184,161,225"/>
+<area shape="rect" id="node4" href="$CFEABoundVariable_8cpp.html" title="Definition of the variables for FEM elastic structural problems." alt="" coords="186,184,367,225"/>
+</map>

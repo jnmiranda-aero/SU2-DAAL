@@ -1,0 +1,5 @@
+<map id="CNumerics::GetAdjViscousFlux_Jac" name="CNumerics::GetAdjViscousFlux_Jac">
+<area shape="rect" id="node1" title="Compute viscous residual and jacobian." alt="" coords="264,39,459,80"/>
+<area shape="rect" id="node2" href="$classCAvgGrad__AdjFlow.html#aaf8a81428299b85f7e6a08c26389bae4" title="Residual computation." alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node3" href="$classCAvgGradCorrected__AdjFlow.html#a57c234e2f8ce58a578223d5b39c8bdf5" title="Compute the adjoint flow viscous residual in a non&#45;conservative way using an average of gradients and..." alt="" coords="7,71,215,112"/>
+</map>

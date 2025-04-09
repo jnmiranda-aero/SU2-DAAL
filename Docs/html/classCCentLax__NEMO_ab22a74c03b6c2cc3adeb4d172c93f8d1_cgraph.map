@@ -1,0 +1,17 @@
+<map id="CCentLax_NEMO::ComputeResidual" name="CCentLax_NEMO::ComputeResidual">
+<area shape="rect" id="node1" title="Compute the flow residual using a Lax method." alt="" coords="5,283,260,309"/>
+<area shape="rect" id="node2" href="$classCNEMOGas.html#a424da7362e12de29fcebf761cb8eabaa" title="Compute derivative of pressure w.r.t. conservative variables." alt="" coords="328,107,525,133"/>
+<area shape="rect" id="node8" href="$classCNEMOGas.html#aa1fcdfc3922e1e1779ba689736ab7db6" title="Compute vector of species V&#45;E energy." alt="" coords="308,173,545,200"/>
+<area shape="rect" id="node9" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="884,327,1101,353"/>
+<area shape="rect" id="node10" href="$classCNEMONumerics.html#a00c3520411501dad471994224495c593" title="Compute the projected inviscid flux vector." alt="" coords="319,275,534,317"/>
+<area shape="rect" id="node11" href="$classCNEMONumerics.html#aa830e825531e3cd516b45dfdad5567d8" title="Compute the projection of the inviscid Jacobian matrices for the two&#45;temperature model." alt="" coords="319,341,534,382"/>
+<area shape="rect" id="node12" href="$group__GeometryToolbox.html#gad8b24e50333c9a8378f7abf18222f36a" title=" " alt="" coords="336,407,517,433"/>
+<area shape="rect" id="node15" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="372,457,481,484"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="624,5,805,32"/>
+<area shape="rect" id="node5" href="$classCNEMOGas.html#a99fcf844d1e87f6883e1cfb363be74b3" title="Get reference temperature." alt="" coords="599,56,830,83"/>
+<area shape="rect" id="node6" href="$classCNEMOGas.html#a67fbebd4d497989fb7d0ae3c1d242689" title="Get species T&#45;R specific heats at constant volume." alt="" coords="597,107,832,133"/>
+<area shape="rect" id="node7" href="$classCNEMOGas.html#a21a832de3dae09a10308643423f9336e" title="Get species formation enthalpy." alt="" coords="593,158,836,199"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="900,5,1085,32"/>
+<area shape="rect" id="node13" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="691,377,738,404"/>
+<area shape="rect" id="node14" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="597,428,832,455"/>
+</map>

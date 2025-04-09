@@ -1,0 +1,2 @@
+#sbatch job.sh && ./Allwatch 
+./job && ./Allwatch && ./Allplot

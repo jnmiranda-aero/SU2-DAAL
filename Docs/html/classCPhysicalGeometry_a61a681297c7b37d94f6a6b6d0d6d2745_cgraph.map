@@ -1,0 +1,15 @@
+<map id="CPhysicalGeometry::SetElement_Connectivity" name="CPhysicalGeometry::SetElement_Connectivity">
+<area shape="rect" id="node1" title="Set elements which surround an element." alt="" coords="5,201,192,242"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#a3fbeb35875c64e226e3b3086a2e546c2" title="Find repeated nodes between two elements to identify the common face." alt="" coords="255,91,413,133"/>
+<area shape="rect" id="node4" href="$classCPrimalGrid.html#a97b8d237861fce6067367e3c06318c20" title="Get number of faces of the element." alt="" coords="493,5,668,32"/>
+<area shape="rect" id="node6" href="$classCPrimalGrid.html#afed544f838cb2c35964b343f0002ad6a" title="Get number of nodes of a face of the element." alt="" coords="476,157,685,184"/>
+<area shape="rect" id="node7" href="$classCPrimalGrid.html#a6353b89f5a8a3948cd475da6152bf077" title="Get the nodes shared by the primal grid element." alt="" coords="498,208,663,235"/>
+<area shape="rect" id="node8" href="$classCPoint.html#a483b8bcaf0bf4e00a61be382307e3985" title="Get all the elements that compose the control volume." alt="" coords="270,309,398,336"/>
+<area shape="rect" id="node12" href="$classCPoint.html#ae6503512446e94ec37d50c048f054443" title="Get the number of elements that compose the control volume." alt="" coords="266,259,402,285"/>
+<area shape="rect" id="node13" href="$classCPrimalGrid.html#a9f64be74bd55c3fc9378fa5131c7b109" title="Set the elements that surround an element." alt="" coords="240,361,428,402"/>
+<area shape="rect" id="node3" href="$classCPrimalGrid.html#a968851a20d3813133cf13537ef7711d1" title="Get nodes contained in a face." alt="" coords="497,107,664,133"/>
+<area shape="rect" id="node5" href="$classCPrimalGrid.html#ad07e4929bb7093fd08f1314a57739cce" title="Get number of nodes of the element." alt="" coords="491,56,671,83"/>
+<area shape="rect" id="node9" href="$classCCompressedSparsePattern.html#a8c4b5a2720a4ebb463c0d8152f052e4d" title=" " alt="" coords="479,310,682,351"/>
+<area shape="rect" id="node10" href="$classCCompressedSparsePattern.html#abbca9e2c2e9f3d3f568772f9edf0c0aa" title=" " alt="" coords="733,281,936,322"/>
+<area shape="rect" id="node11" href="$classC2DContainer.html#a8278113dbcf54123f9852e7e44583759" title=" " alt="" coords="984,288,1131,315"/>
+</map>

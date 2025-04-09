@@ -1,0 +1,10 @@
+<map id="CConfig::GetStreamwise_Periodic_Temperature" name="CConfig::GetStreamwise_Periodic_Temperature">
+<area shape="rect" id="node1" title="Get information about the streamwise periodicity Energy equation handling." alt="" coords="468,163,648,204"/>
+<area shape="rect" id="node2" href="$classCFlowIncOutput.html#a6887162e4142b214c7be9bfe40a0d94b" title="Constructor of the class." alt="" coords="205,5,397,47"/>
+<area shape="rect" id="node3" href="$classCIncEulerVariable.html#a60b16f308075dae1bcf3c95b5905b90b" title="Constructor of the class." alt="" coords="229,71,373,112"/>
+<area shape="rect" id="node4" href="$classCIncNSVariable.html#a036055b255d661d3d0b7eebf169653b0" title="Constructor of the class." alt="" coords="187,137,415,163"/>
+<area shape="rect" id="node5" href="$classCSourceIncStreamwise__Periodic.html#a46d37edfeb8bbd9e1de96f2c81740ca3" title="Constructor of the class." alt="" coords="181,187,420,243"/>
+<area shape="rect" id="node6" href="$classCDriver.html#a5294ec170c889821b57d4ec7b8dc2c3c" title="Definition and allocation of all solver classes." alt="" coords="202,267,399,294"/>
+<area shape="rect" id="node8" href="$classCIncEulerSolver.html#a5f9ced3a85731749b16d6f1bac9460f6" title="Source term integration." alt="" coords="213,319,389,360"/>
+<area shape="rect" id="node7" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="5,267,133,294"/>
+</map>

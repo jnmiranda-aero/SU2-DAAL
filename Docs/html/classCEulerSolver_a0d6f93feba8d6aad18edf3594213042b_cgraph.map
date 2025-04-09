@@ -1,0 +1,52 @@
+<map id="CEulerSolver::CommonPreprocessing" name="CEulerSolver::CommonPreprocessing">
+<area shape="rect" id="node1" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="5,1103,268,1130"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="604,1613,815,1639"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="601,1663,817,1690"/>
+<area shape="rect" id="node4" href="$classCConfig.html#aa495414133c826e5f6651d4ce82d0ef6" title="Get the level of MPI communications to be performed." alt="" coords="340,417,528,443"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a1eb754aa86fb8154bc9eefea616b7cf9" title="Determines if problem is adjoint." alt="" coords="346,468,522,509"/>
+<area shape="rect" id="node6" href="$classCConfig.html#ab3928c4e6debcf50dcd0d38985f6980c" title="Get the indicator whether we are solving an discrete adjoint problem." alt="" coords="631,5,788,47"/>
+<area shape="rect" id="node7" href="$classCConfig.html#ae688e355a74025050498d8c03aee35b2" title="Get information about whether to use fixed CL mode." alt="" coords="333,585,535,611"/>
+<area shape="rect" id="node8" href="$classCConfig.html#ac98947febf35f20117815114d9371593" title="Get the kind of center convective numerical scheme for the flow equations." alt="" coords="316,635,552,662"/>
+<area shape="rect" id="node9" href="$classCConfig.html#ac664a20b0a09ab14844dc6326290f0a0" title="Get the kind of convective numerical scheme for the flow equations (centered or upwind)." alt="" coords="333,687,535,728"/>
+<area shape="rect" id="node10" href="$classCConfig.html#ac918ef9330aef4d77346ab40d12ed178" title="Get the Kind of Roe Low Dissipation Scheme for Unsteady flows." alt="" coords="600,1791,819,1818"/>
+<area shape="rect" id="node11" href="$classCConfig.html#ad16f71356f146b530fb1fbb45444525c" title="Get the kind of time integration method." alt="" coords="339,804,529,845"/>
+<area shape="rect" id="node12" href="$classCConfig.html#a077d982f11185a84929f8fec40b79938" title="Get the kind of upwind convective numerical scheme for the flow equations." alt="" coords="321,870,547,897"/>
+<area shape="rect" id="node13" href="$classCConfig.html#a6a932676936a4820c68acf7b0f0fbf0b" title="Get the total number of boundary markers." alt="" coords="631,71,787,112"/>
+<area shape="rect" id="node14" href="$classCConfig.html#aa9cff95a1ef0297bd9b00196b135322d" title="Get the total number of boundary markers." alt="" coords="631,136,787,177"/>
+<area shape="rect" id="node15" href="$classCConfig.html#aeb570adc15cf09e8cbfac9e62352abb3" title="Get the total number of boundary markers." alt="" coords="631,201,787,243"/>
+<area shape="rect" id="node16" href="$classCConfig.html#ab656a5e3e5dc0f91ec2bcff0127874c1" title="Get the total number of boundary markers." alt="" coords="631,267,787,308"/>
+<area shape="rect" id="node17" href="$classCEulerSolver.html#ad8b538a82e5a7a7e3903ec29954b1d07" title="Compute the Fan face Mach number." alt="" coords="346,972,522,1013"/>
+<area shape="rect" id="node38" href="$classCFVMFlowSolverBase.html#a1b0175f84e884c015bf48e2e6e7c78bd" title="Utility to set the value of a member variables safely, and so that the new values are seen by all thr..." alt="" coords="331,1205,537,1276"/>
+<area shape="rect" id="node39" href="$classCEulerSolver.html#a6af5752ae941083a42f1d5761adb27ef" title="Parallelization of Undivided Laplacian." alt="" coords="351,1300,517,1341"/>
+<area shape="rect" id="node40" href="$classCEulerSolver.html#a147d5ae75cf7de115e4be2c23ba95f6d" title="Update the AoA and freestream velocity at the farfield." alt="" coords="342,1037,526,1079"/>
+<area shape="rect" id="node41" href="$classCEulerSolver.html#a4432952bec1a64ea33d6c007a4edf4d0" title="Compute the dissipation sensor for centered schemes." alt="" coords="337,1417,531,1459"/>
+<area shape="rect" id="node42" href="$classCEulerSolver.html#ae9346f0feebb8b28613bfc7838d3d121" title="Update the AoA and freestream velocity at the farfield." alt="" coords="327,1483,541,1510"/>
+<area shape="rect" id="node43" href="$classCEulerSolver.html#ab1d1a9cf835e4fa232711959f7768be3" title="Compute the max eigenvalue." alt="" coords="353,1535,515,1576"/>
+<area shape="rect" id="node44" href="$classCConfig.html#a434fe0922532828b7e40ded865c5ce51" title="Set the current number of non&#45;physical nodes in the solution." alt="" coords="343,1600,525,1641"/>
+<area shape="rect" id="node45" href="$classCEulerSolver.html#a5ca2856cb7c17dcef0012c82677816f4" title="Compute the velocity^2, SoundSpeed, Pressure, Enthalpy, Viscosity." alt="" coords="337,1665,531,1707"/>
+<area shape="rect" id="node46" href="$classCEulerSolver.html#a9a04314743655b068012312dc9aca9f1" title="A virtual member." alt="" coords="355,1731,513,1772"/>
+<area shape="rect" id="node47" href="$classCEulerSolver.html#a82314e58faf4d98a5f3733f43d64de92" title="Compute the undivided laplacian for the solution." alt="" coords="334,1796,534,1837"/>
+<area shape="rect" id="node48" href="$classCEulerSolver.html#aad67b818e2f5c133118d2a4cca7845f3" title="Compute Ducros Sensor for Roe Dissipation." alt="" coords="343,1861,525,1903"/>
+<area shape="rect" id="node49" href="$classCSysMatrix.html#a8f974ad2e089dccfc99ea21a4ef5a819" title="Sets to zero all the entries of the sparse matrix." alt="" coords="347,1927,521,1954"/>
+<area shape="rect" id="node50" href="$classCSysVector.html#aa179ddab500faadee96bebecff9e201d" title="Sets to zero all the entries of the vector." alt="" coords="347,1978,521,2005"/>
+<area shape="rect" id="node18" href="$classCConfig.html#a870bfde4c82967ce550b55372d930370" title="Get the back pressure (static) at an outlet boundary." alt="" coords="633,1299,786,1340"/>
+<area shape="rect" id="node19" href="$classCConfig.html#a20b9f62101a6039ccebb87d104463acf" title="Get the back pressure (static) at an outlet boundary." alt="" coords="633,332,786,373"/>
+<area shape="rect" id="node20" href="$classCConfig.html#a0a44207613acabb2ec09ecb18e4f5ccc" title="Get the origin of the actuator disk." alt="" coords="633,1429,786,1471"/>
+<area shape="rect" id="node21" href="$classCConfig.html#ae3392736f39e4286e7905d179c2ac421" title="Get the back pressure (static) at an outlet boundary." alt="" coords="633,397,786,439"/>
+<area shape="rect" id="node22" href="$classCConfig.html#a7e61d38d5ea9b75094b2faed23df7d07" title="Get the format of the output solution." alt="" coords="613,1495,806,1522"/>
+<area shape="rect" id="node23" href="$classCConfig.html#a5b23e4e220234a49c3c941e914e21742" title="Get the origin of the actuator disk." alt="" coords="612,463,807,490"/>
+<area shape="rect" id="node24" href="$classCConfig.html#a60e669cbf3e8900e619a9f3c565ff21d" title="Get the origin of the actuator disk." alt="" coords="633,1547,786,1588"/>
+<area shape="rect" id="node25" href="$classCConfig.html#af2767e74f2ced1ac3a950732d180b5d1" title="Get the origin of the actuator disk." alt="" coords="633,1364,786,1405"/>
+<area shape="rect" id="node26" href="$classCConfig.html#a56bd717cc30338a0c5d8492d974fb3d3" title="Get the tip radius of th actuator disk." alt="" coords="633,515,786,556"/>
+<area shape="rect" id="node27" href="$classCConfig.html#aa7df5de77b1c3148c7187d04a109461b" title="Get the back pressure (static) at an outlet boundary." alt="" coords="633,580,786,621"/>
+<area shape="rect" id="node28" href="$classCConfig.html#a7351e30b51dbc6cbe5635f5f443c557c" title="Get the back pressure (static) at an outlet boundary." alt="" coords="633,645,786,687"/>
+<area shape="rect" id="node29" href="$classCConfig.html#a4692c069ecb5dad73aad95ca41fff4b2" title="Get the back pressure (static) at an outlet boundary." alt="" coords="633,711,786,752"/>
+<area shape="rect" id="node30" href="$classCConfig.html#a34c8a893bd8bd6f3be5cc3d32be27888" title="Get the back pressure (static) at an outlet boundary." alt="" coords="633,776,786,817"/>
+<area shape="rect" id="node31" href="$classCConfig.html#aca0145ce1455f656bdfa782c03c1d657" title="Get the back pressure (static) at an outlet boundary." alt="" coords="618,841,801,883"/>
+<area shape="rect" id="node32" href="$classCConfig.html#adc34f81e96f7fb394b65bd5322766b35" title="Get the back pressure (static) at an outlet boundary." alt="" coords="618,907,801,948"/>
+<area shape="rect" id="node33" href="$classCConfig.html#a140c0524ea3b4a6f6f6bc099bb51799a" title="Get the back pressure (static) at an outlet boundary." alt="" coords="618,972,801,1013"/>
+<area shape="rect" id="node34" href="$classCConfig.html#a57fce4bc449964b0f1778031f928f7ae" title="Get the back pressure (static) at an outlet boundary." alt="" coords="618,1037,801,1079"/>
+<area shape="rect" id="node35" href="$classCConfig.html#aef68205e66241ca3d8e4d8b13811ff14" title="Get the back pressure (static) at an outlet boundary." alt="" coords="618,1103,801,1144"/>
+<area shape="rect" id="node36" href="$classCConfig.html#a047bc22e7eb52250bb966732045fae39" title="Get the back pressure (static) at an outlet boundary." alt="" coords="618,1168,801,1209"/>
+<area shape="rect" id="node37" href="$classCConfig.html#a6004d779f9bc1f33db5b8159e82a8c62" title="Get the back pressure (static) at an outlet boundary." alt="" coords="618,1233,801,1275"/>
+</map>

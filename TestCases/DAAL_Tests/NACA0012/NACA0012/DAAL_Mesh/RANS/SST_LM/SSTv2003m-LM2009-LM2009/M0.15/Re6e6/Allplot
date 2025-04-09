@@ -1,0 +1,189 @@
+#!/bin/bash
+
+# Define the files to be monitored
+CONV_FILE="flow_conv_.dat"  # Path to your flow_conv file
+SURF_FILE="flow_surf_.dat"  # Path to your flow_surf file
+
+# Define the column headers you want to plot
+HEADER1="rms[Rho]"  # Header from flow_conv file
+HEADER3="Avg CFL"  # Header from flow_conv file
+HEADER_DT_MAX="Max DT" # Max DT for plot 2
+HEADER_DT_MIN="Min DT" # Min DT for plot 2
+HEADER_SOLVER_ITER="Linear_Solver_Iterations"  # Header for solver iterations
+HEADER_SOLVER_RES="LinSolRes" # Header for solver residual
+HEADER_X="x"  # X coordinate header from flow_surf file
+HEADER4="Pressure_Coefficient"  # Header from flow_surf file
+HEADER5="Skin_Friction_Coefficient_x"  # Header from flow_surf file
+
+# Log file for debugging
+LOGFILE="debug_log.txt"
+
+# Clear previous log file
+> $LOGFILE
+
+# Function to print and get the column number by header for conv file
+get_column_number() {
+    local file="$1"
+    local header="$2"
+    awk -v header="$header" -F, 'NR==2 {
+        for (i=1; i<=NF; i++) {
+            original = $i
+            gsub(/^[ \t]+|[ \t]+$/, "", $i)  # Remove leading/trailing spaces
+            gsub(/^"|"$/, "", $i)  # Remove double quotes
+            if ($i == header) {
+                print i
+                break
+            }
+        }
+    }' "$file"
+}
+
+# Function to print and get the column number by header for surf file
+get_column_number_surf() {
+    local file="$1"
+    local header="$2"
+    awk -v header="$header" -F, 'NR==2 {
+        sub(/^VARIABLES = /, "")
+        gsub(/^[ \t]+|[ \t]+$/, "", $0)
+        for (i=1; i<=NF; i++) {
+            original = $i
+            gsub(/^[ \t]+|[ \t]+$/, "", $i)
+            gsub(/^"|"$/, "", $i)
+            if ($i == header) {
+                print i
+                break
+            }
+        }
+    }' "$file"
+}
+
+# Get column numbers for the desired headers
+COLUMN1=$(get_column_number "$CONV_FILE" "$HEADER1")
+COLUMN3=$(get_column_number "$CONV_FILE" "$HEADER3")
+COLUMN_DT_MAX=$(get_column_number "$CONV_FILE" "$HEADER_DT_MAX")
+COLUMN_DT_MIN=$(get_column_number "$CONV_FILE" "$HEADER_DT_MIN")
+COLUMN_SOLVER_ITER=$(get_column_number "$CONV_FILE" "$HEADER_SOLVER_ITER")
+COLUMN_SOLVER_RES=$(get_column_number "$CONV_FILE" "$HEADER_SOLVER_RES")
+COLUMN_X=$(get_column_number_surf "$SURF_FILE" "$HEADER_X")
+COLUMN4=$(get_column_number_surf "$SURF_FILE" "$HEADER4")
+COLUMN5=$(get_column_number_surf "$SURF_FILE" "$HEADER5")
+
+# Debugging output: Print the column indices
+echo "Column for $HEADER1: $COLUMN1" >> $LOGFILE
+echo "Column for $HEADER3: $COLUMN3" >> $LOGFILE
+echo "Column for $HEADER_DT_MAX: $COLUMN_DT_MAX" >> $LOGFILE
+echo "Column for $HEADER_DT_MIN: $COLUMN_DT_MIN" >> $LOGFILE
+echo "Column for $HEADER_SOLVER_ITER: $COLUMN_SOLVER_ITER" >> $LOGFILE
+echo "Column for $HEADER_SOLVER_RES: $COLUMN_SOLVER_RES" >> $LOGFILE
+echo "Column for $HEADER_X: $COLUMN_X" >> $LOGFILE
+echo "Column for $HEADER4: $COLUMN4" >> $LOGFILE
+echo "Column for $HEADER5: $COLUMN5" >> $LOGFILE
+
+# Generate temporary files to store parsed data
+TMPFILE1=$(mktemp)
+TMPFILE3=$(mktemp)
+TMPFILE_DT_MAX=$(mktemp)
+TMPFILE_DT_MIN=$(mktemp)
+TMPFILE_SOLVER_ITER=$(mktemp)
+TMPFILE_SOLVER_RES=$(mktemp)
+TMPFILE4=$(mktemp)
+TMPFILE5=$(mktemp)
+
+# Function to parse the desired columns
+parse_columns() {
+    awk -F, -v col1="$COLUMN1" -v col3="$COLUMN3" -v col_dt_max="$COLUMN_DT_MAX" -v col_dt_min="$COLUMN_DT_MIN" -v col_solver_iter="$COLUMN_SOLVER_ITER" -v col_solver_res="$COLUMN_SOLVER_RES" 'NR > 2 {
+        if ($col1 != "" && $col3 != "" && $col_dt_max != "" && $col_dt_min != "" && $col_solver_iter != "" && $col_solver_res != "") {
+            print $col1 > "'$TMPFILE1'"
+            print $col3 > "'$TMPFILE3'"
+            print $col_dt_max > "'$TMPFILE_DT_MAX'"
+            print $col_dt_min > "'$TMPFILE_DT_MIN'"
+            print $col_solver_iter > "'$TMPFILE_SOLVER_ITER'"
+            print $col_solver_res > "'$TMPFILE_SOLVER_RES'"
+        }
+    }' "$CONV_FILE"
+
+    awk -F'\t' -v colx="$COLUMN_X" -v coly1="$COLUMN4" -v coly2="$COLUMN5" 'NR > 2 {
+        if ($colx != "" && $coly1 != "" && $coly2 != "") {
+            print $colx, $coly1 > "'$TMPFILE4'"
+            print $colx, $coly2 > "'$TMPFILE5'"
+        }
+    }' "$SURF_FILE"
+}
+
+# Start an infinite loop to update plots
+while true; do
+    # Parse columns to update data
+    parse_columns
+
+    # Gnuplot command to generate a 3x2 plot layout
+    gnuplot <<-EOFMarker
+        set terminal pngcairo size 1600,1200
+        set output 'Allplotlive.png'
+        set multiplot layout 3,2 title "Live Visualization of Solution"
+
+        # Plot 1: rms[Rho] and Avg CFL vs Iteration (1,1)
+        set title "rms[Rho] and Avg CFL vs Iteration"
+        set xlabel "Iteration"
+        set ylabel "rms[Rho]"
+        set y2label "Avg CFL"
+        set ytics nomirror
+        set y2tics
+        plot "$TMPFILE1" with lines title "rms[Rho]", \
+             "$TMPFILE3" axes x1y2 with lines title "Avg CFL"
+
+        # Plot 2: rms[Rho], Avg CFL, Max CFL, Min CFL vs Iteration (1,2)
+        set title "rms[Rho], Avg CFL, Max CFL, Min CFL vs Iteration"
+        set xlabel "Iteration"
+        set ylabel "rms[Rho]"
+        set y2label "CFL Values"
+        set ytics nomirror
+        set y2tics
+        plot "$TMPFILE1" with lines title "rms[Rho]", \
+             "$TMPFILE3" axes x1y2 with lines title "Avg CFL", \
+             "$TMPFILE_DT_MAX" axes x1y2 with lines title "Max CFL", \
+             "$TMPFILE_DT_MIN" axes x1y2 with lines title "Min CFL"
+
+        # Plot 3: Pressure Coefficient vs x (2,2) [swapped position with skin friction]
+        set title "Pressure Coefficient vs x"
+        set xlabel "x"
+        set ylabel "Pressure Coefficient"
+        set yrange [*:*] reverse
+        plot "$TMPFILE4" using 1:2 with lines title "Pressure Coefficient"
+
+        # Plot 4: Max DT, Min DT, Avg CFL vs Iteration (2,1)
+        set title "Max DT, Min DT, Avg CFL vs Iteration"
+        set xlabel "Iteration"
+        set ylabel "DT Values"
+        set y2label "Avg CFL"
+        set ytics nomirror
+        set y2tics
+        plot "$TMPFILE_DT_MAX" with lines title "Max DT", \
+             "$TMPFILE_DT_MIN" with lines title "Min DT", \
+             "$TMPFILE3" axes x1y2 with lines title "Avg CFL"
+
+        # Plot 5: Skin Friction Coefficient vs x (3,2) [moved up]
+        set title "Skin Friction Coefficient vs x"
+        set xlabel "x"
+        set ylabel "Skin Friction Coefficient"
+        set yrange [*:*] reverse
+        plot "$TMPFILE5" using 1:2 with lines title "Skin Friction Coefficient"
+
+        # Plot 6: LinSolRes and Linear Solver Iterations vs Iteration (3,1) [swapped position]
+        set title "LinSolRes and Linear Solver Iterations vs Iteration"
+        set xlabel "Iteration"
+        set ylabel "LinSolRes"
+        set y2label "Linear Solver Iterations"
+        set ytics nomirror
+        set y2tics
+        plot "$TMPFILE_SOLVER_RES" with lines title "LinSolRes", \
+             "$TMPFILE_SOLVER_ITER" axes x1y2 with lines title "Linear Solver Iterations"
+
+        unset multiplot
+EOFMarker
+
+    # Pause before updating again
+    sleep 1
+done
+
+# Clean up temporary files on exit
+trap "rm -f $TMPFILE1 $TMPFILE3 $TMPFILE_DT_MAX $TMPFILE_DT_MIN $TMPFILE_SOLVER_ITER $TMPFILE_SOLVER_RES $TMPFILE4 $TMPFILE5" EXIT

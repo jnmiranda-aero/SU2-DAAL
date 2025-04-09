@@ -1,0 +1,8 @@
+<map id="CSolver::RegisterVertexTractions" name="CSolver::RegisterVertexTractions">
+<area shape="rect" id="node1" title="Register the vertex tractions as output." alt="" coords="5,107,240,133"/>
+<area shape="rect" id="node2" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="305,5,451,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="288,56,468,83"/>
+<area shape="rect" id="node4" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="309,107,447,133"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a1e07d3641838843be05ed58424d39f4f" title="Determines whether a marker with index iMarker is a solid boundary." alt="" coords="293,157,463,184"/>
+<area shape="rect" id="node6" href="$namespaceAD.html#ae381e45797545e980376c4aeb3f5afdc" title="Registers the variable as an output. I.e. as the root of the computational graph." alt="" coords="305,208,451,235"/>
+</map>

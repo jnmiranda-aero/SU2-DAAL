@@ -1,0 +1,48 @@
+<map id="CFVMFlowSolverBase::Friction_Forces" name="CFVMFlowSolverBase::Friction_Forces">
+<area shape="rect" id="node1" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="5,1121,169,1162"/>
+<area shape="rect" id="node2" href="$classCNumerics.html#a0d75e98c8aa9a8a60fa2b4ef9e17523b" title="Add a correction using a Quadratic Constitutive Relation to the stress tensor." alt="" coords="249,5,404,32"/>
+<area shape="rect" id="node3" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="578,40,625,67"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="221,364,432,391"/>
+<area shape="rect" id="node5" href="$classCFVMFlowSolverBase.html#a6ac412730f14108d28b53977c1e6be68" title="Compute the buffet sensor." alt="" coords="245,415,409,457"/>
+<area shape="rect" id="node6" href="$classCNumerics.html#a18b6238c38e05339954c0bb6121203d1" title="Compute the stress tensor from the velocity gradients." alt="" coords="227,481,427,522"/>
+<area shape="rect" id="node7" href="$group__GeometryToolbox.html#ga600fb4ee993ae4c3b985082d51994881" title=" " alt="" coords="225,107,428,133"/>
+<area shape="rect" id="node9" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="821,128,930,155"/>
+<area shape="rect" id="node10" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="767,267,984,293"/>
+<area shape="rect" id="node11" href="$classCConfig.html#aa824c1a1b3c7cd05b7be414a76e0b250" title="Get the angle of attack of the body. This is the angle between a reference line on a lifting body (of..." alt="" coords="262,547,391,573"/>
+<area shape="rect" id="node12" href="$classCConfig.html#a25bfd5255f84135494ca2c368a848f98" title="Get the angle of sideslip of the body. It relates to the rotation of the aircraft centerline from the..." alt="" coords="263,597,391,624"/>
+<area shape="rect" id="node13" href="$classCConfig.html#a509e098ac64a59535a8e59ec2de6f68b" title="Get information about the axisymmetric frame." alt="" coords="229,648,424,675"/>
+<area shape="rect" id="node14" href="$classCConfig.html#af55f72b198dca8a670616aa7ba5a5506" title="Determines whether a marker with index iMarker is a catalytic boundary." alt="" coords="229,699,425,725"/>
+<area shape="rect" id="node15" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="219,749,435,776"/>
+<area shape="rect" id="node16" href="$classCConfig.html#aa495414133c826e5f6651d4ce82d0ef6" title="Get the level of MPI communications to be performed." alt="" coords="233,800,421,827"/>
+<area shape="rect" id="node17" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="260,851,393,877"/>
+<area shape="rect" id="node18" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="253,901,400,928"/>
+<area shape="rect" id="node19" href="$classCConfig.html#a085accf5825cdba0219fc734f4fadb8c" title="Flag for whether to solve the energy equation for incompressible flows." alt="" coords="253,953,401,994"/>
+<area shape="rect" id="node20" href="$classCConfig.html#a1431ababf767a9f74ff74fe9ef647957" title="Get the value of specific gas constant." alt="" coords="220,1019,433,1045"/>
+<area shape="rect" id="node21" href="$classCConfig.html#ab99f4c81b2b9dd7e4b0f917ad8c5e829" title="Get the reference value for the heat flux." alt="" coords="227,1069,426,1096"/>
+<area shape="rect" id="node22" href="$classCConfig.html#a70fa75374f533da62b71207d589d6211" title="Get the monitoring information for a marker val_marker." alt="" coords="253,1121,401,1162"/>
+<area shape="rect" id="node23" href="$classCConfig.html#ab8c9c1f45950a29355be4ff357049440" title="Get the index of the surface defined in the geometry file." alt="" coords="253,1186,401,1227"/>
+<area shape="rect" id="node24" href="$classCConfig.html#a4558fc163c393e628050e7a2273673f1" title="Get the name of the surface defined in the geometry file." alt="" coords="242,1251,411,1293"/>
+<area shape="rect" id="node25" href="$classCConfig.html#ae3f698e50dc72c02aec172bbc3747798" title="Return true if a NEMO solver is in use." alt="" coords="228,1317,425,1344"/>
+<area shape="rect" id="node26" href="$classCConfig.html#a6e65810e59b8015104b84c4fd5b1d7f9" title="Get the total number of monitoring markers." alt="" coords="249,1369,405,1410"/>
+<area shape="rect" id="node27" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="257,1435,396,1461"/>
+<area shape="rect" id="node28" href="$classCVertex.html#a57cacfe764770e6c0e54c278cb584f7c" title="Copy the the normal vector of a face." alt="" coords="251,1485,403,1512"/>
+<area shape="rect" id="node29" href="$classCVertex.html#ab8b0e96f9384b0a861c7a70616976b75" title="Get the value of the closest neighbor." alt="" coords="251,1537,403,1578"/>
+<area shape="rect" id="node30" href="$classCConfig.html#adffe6cb61fba135a6f5d08f774980ad0" title="Get the total number of rough markers." alt="" coords="237,1603,417,1629"/>
+<area shape="rect" id="node31" href="$classCConfig.html#acca4077dbb4f00718adc5e831b561927" title="Provides the number of species present in the gas mixture." alt="" coords="246,1653,407,1680"/>
+<area shape="rect" id="node32" href="$classCConfig.html#a502035c2b049606186e11e01b7df626a" title="Get the value of the laminar Prandtl number." alt="" coords="235,1704,419,1731"/>
+<area shape="rect" id="node33" href="$classCConfig.html#a515e35504ab34bf25d222e377f3b4c81" title="Get the reference area for non dimensional coefficient computation. If the value from the is 0 then,..." alt="" coords="249,1755,404,1781"/>
+<area shape="rect" id="node34" href="$classCConfig.html#afe9547710c70982ff9eee4504e3c4a69" title="Get the reference length for computing moment (the default value is 1)." alt="" coords="242,1805,411,1832"/>
+<area shape="rect" id="node35" href="$classCConfig.html#a67306b97ff437e1b9939c3f8561c6e4a" title="Get reference origin for moment computation." alt="" coords="217,1856,436,1883"/>
+<area shape="rect" id="node36" href="$classCConfig.html#a66aa27cc745f1c7328987376dbd6788d" title="Get parsed SA option data structure." alt="" coords="219,1907,434,1933"/>
+<area shape="rect" id="node37" href="$classCConfig.html#ad59acb5f80aaddccaa0f2f5bef3e3e78" title="Determines if problem is viscous." alt="" coords="250,1957,403,1984"/>
+<area shape="rect" id="node38" href="$classCConfig.html#a890cf694cae683bb44a36c1fa1160e65" title="Determines whether a marker with index iMarker is a viscous no&#45;slip boundary." alt="" coords="233,2008,421,2035"/>
+<area shape="rect" id="node39" href="$classCConfig.html#a043a4b5195c03df603bba6202c9349e8" title="Get the wall function treatment for the given boundary marker." alt="" coords="233,2059,420,2101"/>
+<area shape="rect" id="node40" href="$classCConfig.html#ac8a5df35e1da7e94dd0afeca4664c4f1" title="Get the value of the minimum Y+ value below which the wall function is deactivated." alt="" coords="241,2125,412,2166"/>
+<area shape="rect" id="node41" href="$classCConfig.html#a894eb084ee6db70a6e274ac071c2a194" title="Get the type of wall and roughness height on a wall boundary (Heatflux or Isothermal)." alt="" coords="225,2190,428,2231"/>
+<area shape="rect" id="node42" href="$group__GeometryToolbox.html#gad8b24e50333c9a8378f7abf18222f36a" title=" " alt="" coords="236,208,417,235"/>
+<area shape="rect" id="node44" href="$structCFVMFlowSolverBase_1_1AeroCoeffs.html#ac6698290103395319792e4506c75abe5" title=" " alt="" coords="245,2255,409,2297"/>
+<area shape="rect" id="node45" href="$structCFVMFlowSolverBase_1_1AeroCoeffsArray.html#a087806668f13351f4488e6af6847a84d" title="Sets all values to zero at a particular index." alt="" coords="230,2321,423,2362"/>
+<area shape="rect" id="node46" href="$group__GeometryToolbox.html#ga82220c2cda9dc90a9cc22e77001550ee" title="Tangent projection" alt="" coords="503,259,699,301"/>
+<area shape="rect" id="node8" href="$group__GeometryToolbox.html#ga3db86410486389a5cda59b3d0ab17f66" title=" " alt="" coords="502,91,701,133"/>
+<area shape="rect" id="node43" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="484,208,719,235"/>
+</map>

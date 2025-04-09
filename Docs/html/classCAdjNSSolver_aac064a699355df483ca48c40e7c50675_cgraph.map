@@ -1,0 +1,29 @@
+<map id="CAdjNSSolver::BC_HeatFlux_Wall" name="CAdjNSSolver::BC_HeatFlux_Wall">
+<area shape="rect" id="node1" title="Impose via the residual or brute force the Navier&#45;Stokes adjoint boundary condition (heat flux)." alt="" coords="5,620,244,647"/>
+<area shape="rect" id="node2" href="$classCSysMatrix.html#a9473b0224c9b9a2749571db0bbd22a70" title="Deletes the values of the row i of the sparse matrix." alt="" coords="305,5,511,32"/>
+<area shape="rect" id="node3" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="341,56,475,83"/>
+<area shape="rect" id="node4" href="$classCVariable.html#a4892ca545884011b7903a8e35c43b43f" title="A virtual member." alt="" coords="325,107,491,133"/>
+<area shape="rect" id="node5" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="335,157,481,184"/>
+<area shape="rect" id="node6" href="$classCVariable.html#adae2e4228e113624b7ab1f9ab1a493c6" title="A virtual member." alt="" coords="305,208,511,235"/>
+<area shape="rect" id="node7" href="$classCVariable.html#a525636dad6b2064101677df44f274443" title="A virtual member." alt="" coords="322,259,494,285"/>
+<area shape="rect" id="node8" href="$classCAdjEulerVariable.html#a79bc01240b870051482bdffaabc863f9" title="Get the value of the force projection vector." alt="" coords="331,310,485,351"/>
+<area shape="rect" id="node9" href="$classCVariable.html#a07d4f954fe5a79e6f85adab3d462d73c" title="Get the gradient of the entire solution." alt="" coords="323,376,493,403"/>
+<area shape="rect" id="node10" href="$classCConfig.html#a9182d3dbb0b3bfa2ebb944f18795f5ca" title="Get information about the grid movement." alt="" coords="305,427,511,453"/>
+<area shape="rect" id="node11" href="$classCPoint.html#a65d855a9c2ad2971546038b34acd5b92" title="Get the value of the grid velocity at the point." alt="" coords="337,477,479,504"/>
+<area shape="rect" id="node12" href="$classCConfig.html#ad16f71356f146b530fb1fbb45444525c" title="Get the kind of time integration method." alt="" coords="313,529,503,570"/>
+<area shape="rect" id="node13" href="$classCVariable.html#a0acbe55ca86de2c0205ae921193e9e95" title="A virtual member." alt="" coords="295,595,521,621"/>
+<area shape="rect" id="node14" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="339,645,477,672"/>
+<area shape="rect" id="node15" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="336,696,480,723"/>
+<area shape="rect" id="node16" href="$classCVertex.html#a57cacfe764770e6c0e54c278cb584f7c" title="Copy the the normal vector of a face." alt="" coords="332,747,484,773"/>
+<area shape="rect" id="node17" href="$classCVertex.html#ab8b0e96f9384b0a861c7a70616976b75" title="Get the value of the closest neighbor." alt="" coords="332,798,484,839"/>
+<area shape="rect" id="node18" href="$classCConfig.html#a502035c2b049606186e11e01b7df626a" title="Get the value of the laminar Prandtl number." alt="" coords="316,864,500,891"/>
+<area shape="rect" id="node19" href="$classCConfig.html#a4b89ad15fa82f93ca8ccfe945e2c14a7" title="Get the value of the turbulent Prandtl number." alt="" coords="317,915,499,941"/>
+<area shape="rect" id="node20" href="$classCVariable.html#ad08820234eeedeb13105e603af2c67ad" title="A virtual member." alt="" coords="323,965,493,992"/>
+<area shape="rect" id="node21" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="324,1016,492,1043"/>
+<area shape="rect" id="node22" href="$classCVariable.html#a6ee4d8d450971204cc054a33d6473732" title="Set the value of the old solution." alt="" coords="311,1067,505,1093"/>
+<area shape="rect" id="node23" href="$classCAdjEulerVariable.html#a14a7a77262dfba287156315a5142e923" title="Set the momentum part of the truncation error to zero." alt="" coords="310,1118,506,1159"/>
+<area shape="rect" id="node24" href="$classCSysVector.html#a71ea6ec1ebdb77535b976bb40e7659a6" title="Subtract &quot;block&quot; from the vector, see AddBlock." alt="" coords="311,1184,505,1211"/>
+<area shape="rect" id="node26" href="$classCSysMatrix.html#a423b77066cf386dd6e4b95a656e4aadb" title="Short&#45;hand to AddBlock2Diag with alpha = &#45;1, i.e. subtracts from the current diagonal." alt="" coords="292,1235,524,1261"/>
+<area shape="rect" id="node25" href="$classCSysVector.html#aa463275cba394503a9778529fdaa4494" title="Add &quot;block&quot; to the vector, see SetBlock." alt="" coords="591,1184,755,1211"/>
+<area shape="rect" id="node27" href="$classCSysMatrix.html#a5a4ef7eeb7f009450f575660108ed7be" title="Non overwrite version of SetBlock2Diag, also with scaling." alt="" coords="572,1235,775,1261"/>
+</map>

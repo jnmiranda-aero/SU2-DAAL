@@ -1,0 +1,10 @@
+<map id="CConfig::GetKind_Inlet" name="CConfig::GetKind_Inlet">
+<area shape="rect" id="node1" title="Get the kind of inlet boundary condition treatment (total conditions or mass flow)." alt="" coords="861,101,1029,127"/>
+<area shape="rect" id="node2" href="$classCAdjEulerSolver.html#ae32700e955c44bc12de7a818d8e412bf" title="Impose the inlet boundary condition." alt="" coords="647,5,799,47"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a908e4ec3ecb8f2f8af197bb30a1aed70" title="Impose a subsonic inlet boundary condition." alt="" coords="639,71,806,98"/>
+<area shape="rect" id="node4" href="$classCNEMOEulerSolver.html#a715d85f7c0791a1258fba5746257cba0" title="Impose a subsonic inlet boundary condition." alt="" coords="637,123,808,164"/>
+<area shape="rect" id="node5" href="$classCSolver.html#aa6d85b1177b7acacfbf083e8c58da55c" title="Load a inlet profile data from file into a particular solver." alt="" coords="632,189,813,215"/>
+<area shape="rect" id="node6" href="$classCDriver.html#acb98c972bfd29fc1bab737d7c117544a" title="Preprocess the inlets via file input for all solvers." alt="" coords="405,189,584,215"/>
+<area shape="rect" id="node7" href="$classCDriver.html#ae57e1a2eb7e8f19259176afdab83e840" title="Definition and allocation of all solution classes." alt="" coords="181,189,357,215"/>
+<area shape="rect" id="node8" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="5,189,133,215"/>
+</map>

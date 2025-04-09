@@ -1,0 +1,18 @@
+<map id="CConfig::GetIsothermal_Temperature" name="CConfig::GetIsothermal_Temperature">
+<area shape="rect" id="node1" title="Get the wall temperature (static) at an isothermal boundary." alt="" coords="917,323,1091,364"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__NSSolver.html#aea70aaab1228b018aab7f2d588de9704" title="Impose an isothermal condition at the wall." alt="" coords="647,5,825,47"/>
+<area shape="rect" id="node3" href="$classCHeatSolver.html#a8f1b5ef62ec17b74df8c3f95b6a55e31" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="615,71,857,98"/>
+<area shape="rect" id="node4" href="$classCRadP1Solver.html#abb0db79e413975c0a42821e7191ed551" title="Impose an isothermal wall boundary condition." alt="" coords="611,122,861,149"/>
+<area shape="rect" id="node5" href="$classCNEMONSSolver.html#ae3d2c5f1c94cb3d01b7f351ce3105f31" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="321,165,555,207"/>
+<area shape="rect" id="node7" href="$classCNEMONSSolver.html#a1c4746b9e1e0c7232f1bd06535c22b14" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="619,224,853,265"/>
+<area shape="rect" id="node8" href="$classCNEMONSSolver.html#aa32b1221a071e0ecd2de381615b8adca" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="607,289,865,331"/>
+<area shape="rect" id="node9" href="$classCMMSNSTwoHalfCirclesSolution.html#afb31f8a5302b2a376a1781805fefb3f1" title=" " alt="" coords="617,355,855,396"/>
+<area shape="rect" id="node10" href="$classCMMSNSTwoHalfSpheresSolution.html#a8a5a9229428c02216ec39243e5738c2c" title=" " alt="" coords="613,420,859,461"/>
+<area shape="rect" id="node11" href="$classCMMSNSUnitQuadSolutionWallBC.html#a8a073b252ded24ccdb874d41b6e1660a" title=" " alt="" coords="603,485,869,527"/>
+<area shape="rect" id="node12" href="$classCFEM__DG__NSSolver.html#a5118d674e7eb6f4865fb53f6f20eac1c" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="632,551,840,592"/>
+<area shape="rect" id="node13" href="$classCHeatSolver.html#a447eade2ad3bd715f4357e89dc31ec7d" title="Evaluate heat&#45;flux related objectives." alt="" coords="641,617,831,643"/>
+<area shape="rect" id="node14" href="$classCGeometry.html#a15dd9fe9352493c70f21b217bab034ea" title="Set the data containers for customized boundary conditions." alt="" coords="618,667,854,694"/>
+<area shape="rect" id="node6" href="$classCNEMONSSolver.html#a8c6c80e6e8f2aed2ff80c78a8e5aec9e" title="Generic implementation of the isothermal wall." alt="" coords="5,202,273,229"/>
+<area shape="rect" id="node15" href="$classCDriver.html#a2db38ef6359a77231cf866302b0929e8" title="Initialize Python interface functionalities. When using multigrid, it is important to call this after..." alt="" coords="341,660,535,701"/>
+<area shape="rect" id="node16" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="75,667,203,694"/>
+</map>

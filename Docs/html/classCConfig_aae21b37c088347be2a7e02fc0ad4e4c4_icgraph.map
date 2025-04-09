@@ -1,0 +1,26 @@
+<map id="CConfig::GetKind_Streamwise_Periodic" name="CConfig::GetKind_Streamwise_Periodic">
+<area shape="rect" id="node1" title="Get information about the streamwise periodicity (None, Pressure_Drop, Massflow)." alt="" coords="904,451,1120,492"/>
+<area shape="rect" id="node2" href="$classCFlowIncOutput.html#a6887162e4142b214c7be9bfe40a0d94b" title="Constructor of the class." alt="" coords="642,5,834,47"/>
+<area shape="rect" id="node3" href="$classCIncEulerSolver.html#a2a0c72c1d1d79e45c69da03e01f6281a" title="Constructor of the class." alt="" coords="641,71,835,112"/>
+<area shape="rect" id="node4" href="$classCIncEulerVariable.html#a60b16f308075dae1bcf3c95b5905b90b" title="Constructor of the class." alt="" coords="666,136,810,177"/>
+<area shape="rect" id="node5" href="$classCIncNSSolver.html#a82152ac7e91fb1c5c073d98a1f08e2aa" title="Constructor of the class." alt="" coords="636,202,840,229"/>
+<area shape="rect" id="node6" href="$classCIncEulerSolver.html#a259efa7fad5ed88bbd6d9ca43a9c21ea" title="Extract the adjoint of the extra solution at the input." alt="" coords="649,253,827,295"/>
+<area shape="rect" id="node7" href="$classCDriver.html#a13e45636e813ccc36b5e4a42adb18d96" title="Construction of the edge&#45;based data structure and the multi&#45;grid structure." alt="" coords="638,319,838,346"/>
+<area shape="rect" id="node9" href="$classCDriver.html#a5294ec170c889821b57d4ec7b8dc2c3c" title="Definition and allocation of all solver classes." alt="" coords="639,370,837,397"/>
+<area shape="rect" id="node10" href="$classCAdjFlowIncOutput.html#aeaa468fb58cf41f28d4fa216c4274f29" title="Load the history output field values." alt="" coords="661,421,815,463"/>
+<area shape="rect" id="node11" href="$classCIncNSSolver.html#aaaff5cfe93aa72a689248c80b2ea9149" title="Restart residual and compute gradients." alt="" coords="634,487,842,514"/>
+<area shape="rect" id="node12" href="$classCIncEulerSolver.html#a16496250df5acb8f8c7685b98a92d544" title="Register In&#45; or Output." alt="" coords="645,539,831,580"/>
+<area shape="rect" id="node13" href="$classCIncEulerSolver.html#a7d37fdf70d54affe287041336a7d3baf" title="Seed the adjoint of the extra solution at the output." alt="" coords="639,604,837,645"/>
+<area shape="rect" id="node14" href="$classCFlowOutput.html#ad5ff0360271937e65692893a69b4923a" title="Set flow surface output field values." alt="" coords="620,670,856,697"/>
+<area shape="rect" id="node18" href="$classCAdjFlowIncOutput.html#ade7ecb21141ada7f6c3a1ad28c0786af" title="Set the available history output fields." alt="" coords="652,721,824,763"/>
+<area shape="rect" id="node19" href="$classCIncEulerSolver.html#a5f9ced3a85731749b16d6f1bac9460f6" title="Source term integration." alt="" coords="650,787,826,828"/>
+<area shape="rect" id="node20" href="$classCFlowOutput.html#aaac3fb7b2575967b157c306065ab1ea8" title="Write any additional files defined for the current solver." alt="" coords="329,845,544,887"/>
+<area shape="rect" id="node21" href="$classCFlowOutput.html#a24f4c787a51ac3ed909d70bb9a782ba1" title="Write information to meta data file." alt="" coords="631,903,845,930"/>
+<area shape="rect" id="node8" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="373,345,501,371"/>
+<area shape="rect" id="node15" href="$classCFlowCompOutput.html#a393cb19a691990ee6e88f844eccc79ed" title="Load the history output field values." alt="" coords="306,619,567,646"/>
+<area shape="rect" id="node16" href="$classCFlowIncOutput.html#a466112efa2e3a89cdd2456701a0480b5" title="Load the history output field values." alt="" coords="315,670,558,697"/>
+<area shape="rect" id="node17" href="$classCNEMOCompOutput.html#a7a9f1a32fe55e6a967a27eb38408ec99" title="Load the history output field values." alt="" coords="301,721,572,747"/>
+<area shape="rect" id="node22" href="$classCFlowOutput.html#a6202e5ad2932ba40ff66d2b51e669e49" title="Write additional output for fixed CL mode." alt="" coords="322,911,551,952"/>
+<area shape="rect" id="node23" href="$classCFlowCompOutput.html#ae4e6bec297f0eea058ffcd089bed713c" title="Write any additional output defined for the current solver." alt="" coords="10,877,249,919"/>
+<area shape="rect" id="node24" href="$classCNEMOCompOutput.html#aea0e7a8444fa082f20ab61d3ed418972" title="Write any additional output defined for the current solver." alt="" coords="5,943,253,984"/>
+</map>

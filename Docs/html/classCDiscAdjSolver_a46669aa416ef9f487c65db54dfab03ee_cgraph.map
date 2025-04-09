@@ -1,0 +1,27 @@
+<map id="CDiscAdjSolver::RegisterVariables" name="CDiscAdjSolver::RegisterVariables">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="5,627,188,669"/>
+<area shape="rect" id="node2" href="$classCConfig.html#aa824c1a1b3c7cd05b7be414a76e0b250" title="Get the angle of attack of the body. This is the angle between a reference line on a lifting body (of..." alt="" coords="289,5,419,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a25bfd5255f84135494ca2c368a848f98" title="Get the angle of sideslip of the body. It relates to the rotation of the aircraft centerline from the..." alt="" coords="290,56,418,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a9e487db59e70e83ca75e919e084cb9b9" title="Verify if there is Turbomachinery performance option specified from config file." alt="" coords="236,107,472,133"/>
+<area shape="rect" id="node5" href="$classCConfig.html#af67ea6bec75e003c19b804455e35bb91" title="Get the inlet velocity or pressure imposed for incompressible flow." alt="" coords="266,157,442,184"/>
+<area shape="rect" id="node6" href="$classCConfig.html#add3b741b1341257b15216366c5dd5bfd" title="Get the outlet pressure imposed as BC for incompressible flow." alt="" coords="241,208,467,235"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a1926d01b3599f7b023d523f850f5d0be" title="Get the inlet temperature imposed as BC for incompressible flow." alt="" coords="239,259,469,285"/>
+<area shape="rect" id="node8" href="$classCConfig.html#afbf664fbd8b2c75c5874432fdc185937" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="259,309,449,336"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a5a078901bb388e9caa9cb856e3348f0b" title="Get the value of the Mach number (velocity divided by speed of sound)." alt="" coords="285,360,423,387"/>
+<area shape="rect" id="node10" href="$classCConfig.html#a71d391a22f5b0b7d2bcfb1e0028374da" title="Get the value of the non&#45;dimensionalized freestream pressure." alt="" coords="275,411,433,453"/>
+<area shape="rect" id="node11" href="$classCConfig.html#a3ff17cb08be7970e257849aebd2a25a6" title="Get the outlet pressure imposed as BC for internal flow." alt="" coords="251,477,457,504"/>
+<area shape="rect" id="node12" href="$classCConfig.html#afa49e1ce7793a31cc572d957caffaef9" title="Get the value of the non&#45;dimensionalized freestream temperature." alt="" coords="261,529,447,570"/>
+<area shape="rect" id="node13" href="$classCConfig.html#ac98a2bbe616c073dbeb158fb3c32f6ae" title="Get the inlet total temperature imposed as BC for internal flow." alt="" coords="246,594,462,635"/>
+<area shape="rect" id="node14" href="$classCConfig.html#ae33781eb89184d511e23b7e247d21c8a" title="Get the vector of the non&#45;dimensionalized freestream velocity." alt="" coords="277,659,431,701"/>
+<area shape="rect" id="node15" href="$classCConfig.html#afad4537005c210e8a7fc015a51b8ae4c" title="Get the value of the reference velocity for non&#45;dimensionalization." alt="" coords="262,725,446,752"/>
+<area shape="rect" id="node16" href="$namespaceAD.html#a142308d54379f7aaa1c72195fb5fe992" title="Registers the variable as an input. I.e. as a leaf of the computational graph." alt="" coords="286,776,422,803"/>
+<area shape="rect" id="node17" href="$classCConfig.html#a813294fd07ec7acc3c6692f85f221a22" title="Set the inlet velocity or pressure imposed as BC for incompressible flow." alt="" coords="267,827,441,853"/>
+<area shape="rect" id="node18" href="$classCConfig.html#adcc3a9b11155f756826ba03092cebc8b" title="Set the outlet pressure imposed as BC for incompressible flow." alt="" coords="242,877,466,904"/>
+<area shape="rect" id="node19" href="$classCConfig.html#a352864c2d50ce962164f25b1cca848b0" title="Set the inlet temperature imposed as BC for incompressible flow." alt="" coords="241,928,467,955"/>
+<area shape="rect" id="node20" href="$classCConfig.html#aa81134852bfae258be83fcbb88bea0a6" title="Set the nondimensionalized freestream pressure." alt="" coords="275,979,433,1021"/>
+<area shape="rect" id="node21" href="$classCSolver.html#aec0c19265a348b27923f34eb8130875c" title="A virtual member." alt="" coords="263,1045,445,1072"/>
+<area shape="rect" id="node22" href="$classCConfig.html#a7dd670398f48fdfae37c60f2ca0516dc" title="Set the outlet pressure imposed as BC for internal flow." alt="" coords="251,1096,457,1123"/>
+<area shape="rect" id="node23" href="$classCConfig.html#afaa9eb2373caea9d89df79ff693c4a0d" title="Set the non&#45;dimensional freestream temperature." alt="" coords="263,1147,445,1189"/>
+<area shape="rect" id="node24" href="$classCSolver.html#a7274d727e8433926b03ef8a8e54ef0da" title="A virtual member." alt="" coords="251,1213,457,1240"/>
+<area shape="rect" id="node25" href="$classCConfig.html#ae8b150f4dfc93a9f697a45de11a0a858" title="Set the inlet total temperature imposed as BC for internal flow." alt="" coords="247,1265,461,1306"/>
+</map>

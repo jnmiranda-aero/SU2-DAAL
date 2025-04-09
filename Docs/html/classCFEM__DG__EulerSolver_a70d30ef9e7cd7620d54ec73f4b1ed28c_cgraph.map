@@ -1,0 +1,52 @@
+<map id="CFEM_DG_EulerSolver::CFEM_DG_EulerSolver" name="CFEM_DG_EulerSolver::CFEM_DG_EulerSolver">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1273,180,1315"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a0b5df9254891b32a88e83880778f9261" title="Get the value of the Gamma of fluid (ratio of specific heats)." alt="" coords="251,1251,406,1278"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__EulerSolver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="228,1303,429,1344"/>
+<area shape="rect" id="node4" href="$classPrintingToolbox_1_1CTablePrinter.html#af3ddbf0da1a37cc37be7caac031dd4c4" title="Add a column to the table by specifiying the header name and the width." alt="" coords="495,5,711,47"/>
+<area shape="rect" id="node5" href="$classCConfig.html#ac97b7a466e350cf5bb07f59e92d5f710" title="Get the value of the critical pressure." alt="" coords="525,71,681,112"/>
+<area shape="rect" id="node6" href="$classCConfig.html#aa824c1a1b3c7cd05b7be414a76e0b250" title="Get the angle of attack of the body. This is the angle between a reference line on a lifting body (of..." alt="" coords="539,137,668,163"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a25bfd5255f84135494ca2c368a848f98" title="Get the angle of sideslip of the body. It relates to the rotation of the aircraft centerline from the..." alt="" coords="539,187,667,214"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a60704d55b1335825d46dd4b7e5488268" title="Function to make available whether or not the entropy must be computed." alt="" coords="522,239,685,280"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a95f12a968f4553caf9bea4576fbf5812" title="If we are prforming an unsteady simulation, there is only one value of the time step for the complete..." alt="" coords="499,305,707,331"/>
+<area shape="rect" id="node10" href="$classCConfig.html#a0acfef8e480970316e9e672eacd59e9b" title="If we are prforming an unsteady simulation, there is only one value of the time step for the complete..." alt="" coords="489,355,717,382"/>
+<area shape="rect" id="node11" href="$classCFluidModel.html#aea74264efe7875c6f8c0aa62e3ccd62a" title="Get fluid density." alt="" coords="511,406,695,433"/>
+<area shape="rect" id="node12" href="$classCConfig.html#a2cb974cc24ef5df2976b0725ec62400a" title="Get the value of the freestream density." alt="" coords="527,457,680,499"/>
+<area shape="rect" id="node13" href="$classCConfig.html#af30dc08c28dd72bfcedc6a5a4e224036" title="Get the value of the non&#45;dimensionalized freestream density." alt="" coords="527,523,680,564"/>
+<area shape="rect" id="node14" href="$classCConfig.html#a3fc33aec68f64b757f1f9f3514cb97de" title="Get the value of the reference density for non&#45;dimensionalization." alt="" coords="512,589,695,615"/>
+<area shape="rect" id="node15" href="$classCConfig.html#ae0560a2af73d360500134fb3a9c251ae" title="Get the value of the freestream energy." alt="" coords="529,640,677,681"/>
+<area shape="rect" id="node16" href="$classCConfig.html#afb412b420434a4b1a1dfb7be485b5c45" title="Get the value of the non&#45;dimensionalized freestream energy." alt="" coords="529,705,677,747"/>
+<area shape="rect" id="node17" href="$classCConfig.html#aacd309c23c5d0e6605398072f7fd65b6" title="Get the value of the reference energy for non&#45;dimensionalization." alt="" coords="515,771,692,798"/>
+<area shape="rect" id="node18" href="$classCConfig.html#abcea1b740b0b907b5db34c01de6e74d6" title="Returns the name of the fluid we are using in CoolProp." alt="" coords="513,822,694,849"/>
+<area shape="rect" id="node19" href="$classCConfig.html#a1cbe3f352a54757066fc75112343d30c" title="Get the value of specific gas constant." alt="" coords="507,873,700,899"/>
+<area shape="rect" id="node20" href="$classCCoolProp.html#a4b3e2bc755bf42c06fafe9cc6bb94a14" title="Get the value of specific gas constant." alt="" coords="498,923,709,950"/>
+<area shape="rect" id="node21" href="$classCConfig.html#aebfb3f25485baca7c446630ffd4f744f" title="Get the reference value for the specific gas constant." alt="" coords="492,974,715,1001"/>
+<area shape="rect" id="node22" href="$classCConfig.html#a1431ababf767a9f74ff74fe9ef647957" title="Get the value of specific gas constant." alt="" coords="497,1025,710,1051"/>
+<area shape="rect" id="node23" href="$classCConfig.html#a9182d3dbb0b3bfa2ebb944f18795f5ca" title="Get information about the grid movement." alt="" coords="500,1075,707,1102"/>
+<area shape="rect" id="node24" href="$classCConfig.html#acd8ad5627f0ef500dddc707b7e298527" title="Get the value of the thermal conductivity model." alt="" coords="493,1127,714,1168"/>
+<area shape="rect" id="node25" href="$classCConfig.html#a120698f22c0de262c4ffa659ee7ec49f" title="Fluid model that we are using." alt="" coords="498,1193,709,1219"/>
+<area shape="rect" id="node26" href="$classCConfig.html#af2d6ffff0f49615d08c1b755a71bba0d" title="free stream option to initialize the solution" alt="" coords="496,1244,711,1285"/>
+<area shape="rect" id="node27" href="$classCConfig.html#a17b091e40a201c61340ee47414c40d77" title="free stream option to initialize the solution" alt="" coords="502,1310,705,1337"/>
+<area shape="rect" id="node28" href="$classCConfig.html#a77312cf52a5ba2cc1239b7cee6fce7a7" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="513,1361,693,1387"/>
+<area shape="rect" id="node29" href="$classCConfig.html#a42cf888b42ce34079b2e3987bbf147dd" title="Get the kind of the turbulence model." alt="" coords="520,1412,687,1453"/>
+<area shape="rect" id="node30" href="$classCConfig.html#a43b34c838ba25ed2030ee823025f8693" title="Get the value of the viscosity model." alt="" coords="504,1477,703,1519"/>
+<area shape="rect" id="node31" href="$classCFluidModel.html#ad0e35cb58779dc8fe3265c85b6c29905" title="Get fluid dynamic viscosity." alt="" coords="480,1543,727,1570"/>
+<area shape="rect" id="node32" href="$classCConfig.html#aa8e9fff7ea95095b24af1d6d85e709ef" title="Get the value of the Reynolds length." alt="" coords="530,1595,677,1636"/>
+<area shape="rect" id="node33" href="$classCConfig.html#a5a078901bb388e9caa9cb856e3348f0b" title="Get the value of the Mach number (velocity divided by speed of sound)." alt="" coords="534,1661,673,1687"/>
+<area shape="rect" id="node34" href="$classCConfig.html#a5442ec644c8d291d3e07c158ba5d54a4" title="Get the mach number based on the mesh velocity and freestream quantities." alt="" coords="508,1711,699,1738"/>
+<area shape="rect" id="node35" href="$classCConfig.html#a24e3e69ee06afc40e125bbb7a3000105" title="Get the maximum simulation time for time&#45;domain problems." alt="" coords="518,1762,689,1789"/>
+<area shape="rect" id="node36" href="$classCConfig.html#ae6f2ae4b14dac6f6b8a605e0dbf8232b" title="Get the magnitude of the free&#45;stream velocity of the fluid." alt="" coords="528,1813,679,1855"/>
+<area shape="rect" id="node37" href="$classCConfig.html#aa8a6c2794b61c4b979774476daa31d24" title="Get the non&#45;dimensional magnitude of the free&#45;stream velocity of the fluid." alt="" coords="528,1879,679,1920"/>
+<area shape="rect" id="node38" href="$classCConfig.html#a8ad0309e2c5e3e108f57283f485da84b" title="Get the value of the constant viscosity." alt="" coords="509,1945,697,1971"/>
+<area shape="rect" id="node39" href="$classCConfig.html#afd7ee77c964a1f8788f381fa058abebb" title="Get the value of the non&#45;dimensional constant viscosity." alt="" coords="499,1995,707,2022"/>
+<area shape="rect" id="node40" href="$classCConfig.html#ac0cbff2302cdafd7ec8763d8cccb5c96" title="Get the value of the reference viscosity for Sutherland model." alt="" coords="527,2046,679,2073"/>
+<area shape="rect" id="node41" href="$classCConfig.html#ad39a443e4e279629992ee5b0a28369d4" title="Get the value of the non&#45;dimensional reference viscosity for Sutherland model." alt="" coords="517,2097,689,2123"/>
+<area shape="rect" id="node42" href="$classCConfig.html#a156a993be17167f5423d7f214eacacd1" title="Get the value of the reference S for Sutherland model." alt="" coords="534,2147,673,2174"/>
+<area shape="rect" id="node43" href="$classCConfig.html#a749fbc1203269c6d558df3a15420e4d6" title="Get the value of the non&#45;dimensional reference S for Sutherland model." alt="" coords="524,2198,683,2225"/>
+<area shape="rect" id="node44" href="$classCConfig.html#af9e1b33acd0dadb62a72c01f869bf458" title="Get the value of the reference temperature for Sutherland model." alt="" coords="483,2249,724,2275"/>
+<area shape="rect" id="node45" href="$classCConfig.html#a7f4cbbdfb39947eb017ecf426312c058" title="Get the value of the non&#45;dimensional reference temperature for Sutherland model." alt="" coords="497,2300,709,2341"/>
+<area shape="rect" id="node46" href="$classCConfig.html#a2a1b3c69057e4fe0bb595715d68c226a" title="Get the value of the non&#45;dimensionalized freestream viscosity." alt="" coords="487,2366,719,2393"/>
+<area shape="rect" id="node47" href="$classCConfig.html#aa0a0c73d5e090c06207da47dd18edc74" title="Get the value of the non&#45;dimensionalized freestream viscosity." alt="" coords="477,2417,729,2443"/>
+<area shape="rect" id="node48" href="$classCConfig.html#a502035c2b049606186e11e01b7df626a" title="Get the value of the laminar Prandtl number." alt="" coords="511,2467,695,2494"/>
+<area shape="rect" id="node49" href="$classCConfig.html#a4b89ad15fa82f93ca8ccfe945e2c14a7" title="Get the value of the turbulent Prandtl number." alt="" coords="512,2518,695,2545"/>
+<area shape="rect" id="node50" href="$classCFluidModel.html#aee63b54308942e8b61b62a12a3278029" title="Get fluid pressure." alt="" coords="508,2569,699,2595"/>
+</map>

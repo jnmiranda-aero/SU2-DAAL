@@ -1,0 +1,52 @@
+<map id="WriteFiles" name="WriteFiles">
+<area shape="rect" id="node1" title=" " alt="" coords="5,495,92,521"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a2298deab9cdc00a1c09f6e7cf6c8e07c" title="GetnVolumeOutputFiles." alt="" coords="145,233,349,274"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a16f99e8cc6c1bf42cc4a7b15e5d1dee1" title="Get the name of the file with the surface information for the flow problem." alt="" coords="165,298,328,339"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a032b7d16a6ce08d53d69d3f258a89588" title="Get the name of the file with the flow variables." alt="" coords="171,363,323,405"/>
+<area shape="rect" id="node5" href="$classCConfig.html#adfae5472df18b9be89665c415e0061df" title="GetVolumeOutputFiles." alt="" coords="149,429,345,470"/>
+<area shape="rect" id="node6" href="$classCOutput.html#ac4bf70d669b489fb52c8e63b6d06e4ed" title="Load the data from the solvers into the data sorters and sort it for the linear partitioning." alt="" coords="174,495,319,521"/>
+<area shape="rect" id="node22" href="$classCOutput.html#a3a35f6e09eaf499f1f709088cb80e702" title="Collects history data from the solvers, monitors the convergence and writes to screen and history fil..." alt="" coords="149,545,344,572"/>
+<area shape="rect" id="node31" href="$classCOutput.html#a1a32b17a5f71410111fe700878d1b898" title="Sets the surface output filename." alt="" coords="140,1261,353,1288"/>
+<area shape="rect" id="node32" href="$classCOutput.html#aff24cd2d07fb142159b0342df5fd25b9" title="Sets the volume output filename." alt="" coords="140,1312,353,1339"/>
+<area shape="rect" id="node33" href="$classCOutput.html#a153a24cacc90f827f1e8751815764a4c" title="Allocates the appropriate file writer based on the chosen format and writes sorted data to file." alt="" coords="169,1211,324,1237"/>
+<area shape="rect" id="node7" href="$classCOutput.html#a576a9991a81b18368a1f8ad09b8c65cf" title="Allocates the data sorters if necessary." alt="" coords="420,284,633,311"/>
+<area shape="rect" id="node8" href="$classCOutput.html#ac54efb9d794c522e1bef6cb4ed0d5b9f" title="Load up the values of the requested volume fields into ::Local_Data array." alt="" coords="422,233,631,260"/>
+<area shape="rect" id="node19" href="$classCParallelDataSorter.html#a44dd56ef2671d15e21eacf3fda758a83" title="Sort the output data for each grid node into a linear partitioning across all processors." alt="" coords="746,807,895,849"/>
+<area shape="rect" id="node9" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="747,5,894,32"/>
+<area shape="rect" id="node10" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="731,691,911,717"/>
+<area shape="rect" id="node11" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="751,56,890,83"/>
+<area shape="rect" id="node12" href="$classCGeometry.html#ac84179060bbac1fe5e856ea3da850b6e" title="Get number of real points (that belong to the domain)." alt="" coords="711,107,930,133"/>
+<area shape="rect" id="node13" href="$classCGeometry.html#a00b7f7e71ff42bd38f39147366dd093a" title="Get number of vertices." alt="" coords="733,157,909,184"/>
+<area shape="rect" id="node14" href="$classCMeshFEM.html#a98cac5880bf32dd7a81e90cfe3e83faa" title="Function, which makes available the number of owned volume elements in the local FEM mesh." alt="" coords="704,208,937,235"/>
+<area shape="rect" id="node15" href="$classCConfig.html#a1e07d3641838843be05ed58424d39f4f" title="Determines whether a marker with index iMarker is a solid boundary." alt="" coords="735,259,906,285"/>
+<area shape="rect" id="node16" href="$classCOutput.html#a01f7c43d229c94a9e8e954a538e5e66e" title="Set the values of the volume output fields for a surface point." alt="" coords="723,309,918,336"/>
+<area shape="rect" id="node17" href="$classCOutput.html#ad9fcb944022e0d7131d89987458a02ce" title="Set the values of the volume output fields for a point." alt="" coords="723,360,918,387"/>
+<area shape="rect" id="node18" href="$classCOutput.html#a379815a77f3a10e96834a95ff74d57f1" title="Set the values of the volume output fields for a point." alt="" coords="709,411,932,437"/>
+<area shape="rect" id="node20" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="992,789,1203,816"/>
+<area shape="rect" id="node21" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="989,840,1205,867"/>
+<area shape="rect" id="node23" href="$classCOutput.html#a8e7c6b3e1b544cfbb2df8aea60dfa632" title="Monitor the convergence of an output field." alt="" coords="701,640,940,667"/>
+<area shape="rect" id="node24" href="$classCConfig.html#a63b0d6add42381653e7fd36acfa9afad" title="Get the Starting Iteration for the windowing approach in Sensitivity Analysis for period&#45;averaged out..." alt="" coords="700,461,941,488"/>
+<area shape="rect" id="node25" href="$classCOutput.html#a6babc71093859506fc4ff953467b376f" title="Load values of the history fields common for all solvers." alt="" coords="401,705,652,732"/>
+<area shape="rect" id="node27" href="$classCOutput.html#a0e243627ea7e1ef04e68cd9b51d2736b" title="Load the history output field values." alt="" coords="431,655,623,681"/>
+<area shape="rect" id="node28" href="$classCOutput.html#abf0226a5664f3309f2b7e1b4be6296c2" title="Monitor the time convergence of the specified windowed&#45;time&#45;averaged ouput." alt="" coords="401,385,652,412"/>
+<area shape="rect" id="node29" href="$classCOutput.html#aeb8eeb121eddd2aeb2d24de85799b62a" title="Write screen and history output." alt="" coords="429,538,625,579"/>
+<area shape="rect" id="node30" href="$classCOutput.html#ac02c6daceb4e9d22890e56a7f7a55671" title="Postprocess_HistoryData." alt="" coords="407,436,646,463"/>
+<area shape="rect" id="node26" href="$classCOutput.html#a2b5d97ac7f4b857ac171765a3eb54851" title="Get the value of particular history output field." alt="" coords="729,742,913,783"/>
+<area shape="rect" id="node34" href="$classCFileWriter.html#a52e95fd22f6b2a8308d61f45baf63f14" title="Get the bandwith used for the last writing." alt="" coords="429,1520,624,1547"/>
+<area shape="rect" id="node35" href="$classCConfig.html#af7c4169d5b73657a9a3ea94b54931f91" title="Add any numbers necessary to the filename (iteration number, zone ID ...)" alt="" coords="445,1571,608,1597"/>
+<area shape="rect" id="node36" href="$classCConfig.html#af654704b35b4044878f3f51c00646978" title="Add steady iteration number to the filename (does not overwrite previous files)" alt="" coords="431,1621,623,1648"/>
+<area shape="rect" id="node37" href="$classCConfig.html#a1d6335b8fdef6fbcd9a08f7503d73ec1" title="Provides the number of varaibles." alt="" coords="457,1672,597,1699"/>
+<area shape="rect" id="node38" href="$classCConfig.html#a39ff50a0f3deda9134f1c44b4d5053b7" title="Gets the number of zones in the mesh file." alt="" coords="455,1723,599,1749"/>
+<area shape="rect" id="node39" href="$classCConfig.html#a60b72ebe49a6d318584944af24435989" title="Set the sum of the bandwidth for writing binary restarts (to be averaged later)." alt="" coords="451,1774,602,1815"/>
+<area shape="rect" id="node40" href="$classCConfig.html#a6a372823bb1dd2d55e81488b720752d6" title="Augment the input filename with the iteration number for an unsteady file." alt="" coords="444,858,609,899"/>
+<area shape="rect" id="node41" href="$classCConfig.html#a9667091b52bebfe6ffbe631ba1921bf2" title="Get information about writing the performance summary at the end of a calculation." alt="" coords="419,924,635,951"/>
+<area shape="rect" id="node42" href="$classCConfig.html#ae9ed022279a560ca553875e37a066c35" title="Flag for whether restart solution files are overwritten." alt="" coords="437,975,617,1017"/>
+<area shape="rect" id="node43" href="$classCConfig.html#aa4479ec281523722b0d2abd32793b686" title="Flag for whether visualization files are overwritten." alt="" coords="435,1106,618,1147"/>
+<area shape="rect" id="node44" href="$classCConfig.html#a007e689c5a84a2028d936757711064fb" title="Flag for whether visualization files are overwritten." alt="" coords="435,1171,618,1213"/>
+<area shape="rect" id="node45" href="$classPrintingToolbox_1_1CTablePrinter.html#ad3691499a7bfa024bf97a7fc00ef33c7" title="Set the alignment of the table entries (CENTER only works for the header at the moment)." alt="" coords="419,1237,635,1278"/>
+<area shape="rect" id="node46" href="$classCConfig.html#a9a06687acc9a585a507fe9164c708f8b" title="Set the sum of the bandwidth for writing binary restarts (to be averaged later)." alt="" coords="453,1302,601,1343"/>
+<area shape="rect" id="node47" href="$classCParallelDataSorter.html#a07cb46b33f5de77f0d7f305162c20f2c" title="Sort the connectivities (volume and surface) into data structures." alt="" coords="746,1215,895,1257"/>
+<area shape="rect" id="node48" href="$namespacePrintingToolbox.html#a382f3911ccba468c241c530ae0c78b63" title=" " alt="" coords="749,1298,892,1339"/>
+<area shape="rect" id="node49" href="$classCFileWriter.html#a25c62a2451f48cd1fd73e23676e3bb86" title="Write sorted data to file." alt="" coords="443,1419,611,1445"/>
+<area shape="rect" id="node50" href="$classCParaviewVTMFileWriter.html#aac5315e351adbf70fd745bfbd5d197d1" title="Write all data of the zones, boundaries into the folder." alt="" coords="435,1041,618,1082"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="CNEMOEulerSolver::SetPressureDiffusionSensor" name="CNEMOEulerSolver::SetPressureDiffusionSensor">
+<area shape="rect" id="node1" title="Compute the Pressure sensor for NEMO schemes." alt="" coords="5,1399,236,1440"/>
+<area shape="rect" id="node2" href="$classCSolver.html#a3912ec3b77bf15b77790be7399f4fa53" title="Routine to complete the set of non&#45;blocking communications launched by InitiateComms() and unpacking ..." alt="" coords="290,1326,483,1353"/>
+<area shape="rect" id="node24" href="$classCVariable.html#a79ebe4ea3cc8eccd8b004256c5492a9e" title="Set pressure sensor." alt="" coords="578,1789,735,1815"/>
+<area shape="rect" id="node32" href="$classCNEMOEulerVariable.html#a24cfa7d8f30e0c179e94c2bd147ecb42" title="Retrieves the value of the pressure in the primitive variable vector." alt="" coords="308,1428,465,1469"/>
+<area shape="rect" id="node33" href="$classCPoint.html#a9bc468188cd5bf36508e0aaf2ecb762f" title="Get the entire point adjacency information in compressed format (CSR)." alt="" coords="319,1494,454,1521"/>
+<area shape="rect" id="node34" href="$classCFlowVariable.html#a852271c741f1e7cdb1d391941266d344" title="Get a primitive variable." alt="" coords="284,1545,489,1571"/>
+<area shape="rect" id="node35" href="$classCSolver.html#aab651e902cb3020b525c154cb76c4264" title="Routine to load a solver quantity into the data structures for MPI point&#45;to&#45;point communication and t..." alt="" coords="299,534,475,561"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="842,357,1023,383"/>
+<area shape="rect" id="node5" href="$classCSolver.html#a9dfb6a45565fc73c24054ff4bd93414f" title="Helper function to define the type and number of variables per point for each communication type." alt="" coords="537,879,776,906"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a85d2e3cf43b77c63642c40c235b853f3" title="Check if the multizone problem is solved for time domain." alt="" coords="835,914,1030,941"/>
+<area shape="rect" id="node8" href="$namespaceCommHelpers.html#afe0e4edeb87c652ab9830b5139241561" title=" " alt="" coords="547,1082,766,1109"/>
+<area shape="rect" id="node13" href="$namespaceCommHelpers.html#a3015cef1e9d85b6bc92038246bac555a" title=" " alt="" coords="553,1031,761,1058"/>
+<area shape="rect" id="node16" href="$classCVariable.html#abf55f051089ec13d9c0422ed3389a9dc" title="Set the variable solution at time n." alt="" coords="570,1621,743,1663"/>
+<area shape="rect" id="node20" href="$classCVariable.html#a527a337871bb37c3bb2df40c2b946884" title="Set the variable solution at time n&#45;1." alt="" coords="570,1504,743,1545"/>
+<area shape="rect" id="node21" href="$classCVariable.html#a840431a0403b4bddd0a99dbfdf365795" title="A virtual member. Set the boundary displacement." alt="" coords="561,1570,752,1597"/>
+<area shape="rect" id="node22" href="$classCVariable.html#afc0086076d62561f31a39f774c297428" title="Set the value of the spectral radius." alt="" coords="574,1687,739,1714"/>
+<area shape="rect" id="node23" href="$classCVariable.html#a91256a1e927c5a529d853d0f127243de" title="Set the value of the eddy viscosity." alt="" coords="585,1738,728,1765"/>
+<area shape="rect" id="node25" href="$classCVariable.html#a22fbbd7bc6491672843000644a05c6a5" title="Set the value of the solution, all variables." alt="" coords="573,1133,740,1159"/>
+<area shape="rect" id="node26" href="$classCVariable.html#af87029baec777039085fb1ff17ee9555" title="Set the value of the acceleration (Structural Analysis)." alt="" coords="573,1184,740,1225"/>
+<area shape="rect" id="node27" href="$classCVariable.html#a6ee4d8d450971204cc054a33d6473732" title="Set the value of the old solution." alt="" coords="559,1250,754,1277"/>
+<area shape="rect" id="node28" href="$classCVariable.html#a5c1430d98acd399f1371f23e6fae053f" title="Set the value of the velocity (Structural Analysis)." alt="" coords="560,1301,753,1327"/>
+<area shape="rect" id="node29" href="$classCVariable.html#a70f0c6e3ddcf2fdcde3b90f217a0d4a3" title="Set a value to the undivided laplacian." alt="" coords="570,1351,743,1378"/>
+<area shape="rect" id="node30" href="$classCBaseMPIWrapper.html#a01c02f8c0c799ccd15023f0c2c3cae27" title=" " alt="" coords="559,1402,754,1429"/>
+<area shape="rect" id="node31" href="$classCBaseMPIWrapper.html#a5f4a1382f625fbbfb2c6224a87591825" title=" " alt="" coords="555,1453,758,1479"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="1089,357,1275,383"/>
+<area shape="rect" id="node6" href="$classCVariable.html#a6374f3577665817f4f524f7c2182174a" title="Get the number of auxiliary variables." alt="" coords="848,863,1017,890"/>
+<area shape="rect" id="node9" href="$classCVariable.html#ad43c887251a67276ddb46b7d2320d224" title="Get the gradient of the auxilary variables." alt="" coords="824,1265,1041,1291"/>
+<area shape="rect" id="node10" href="$classCVariable.html#a07d4f954fe5a79e6f85adab3d462d73c" title="Get the gradient of the entire solution." alt="" coords="847,1082,1018,1109"/>
+<area shape="rect" id="node11" href="$classCVariable.html#a8b7f4e020a837b1fe639e8d875f964d5" title="A virtual member." alt="" coords="847,1133,1018,1175"/>
+<area shape="rect" id="node12" href="$classCVariable.html#a18fee07edc76930704432233b89572bf" title="Get the value of the primitive gradient for MUSCL reconstruction." alt="" coords="847,1199,1018,1240"/>
+<area shape="rect" id="node14" href="$classCVariable.html#ab4f777128f4b2375b5203c410fca7fcf" title="Get the slope limiter." alt="" coords="852,1031,1013,1058"/>
+<area shape="rect" id="node15" href="$classCVariable.html#aa270f046d6bb56c65899db35c4489fd4" title="Get the primitive variables limiter." alt="" coords="852,965,1013,1007"/>
+<area shape="rect" id="node17" href="$classcontainer__details_1_1AccessorImpl.html#a5b5318f7212e57c13e464c398f74b3d5" title=" " alt="" coords="859,1508,1006,1549"/>
+<area shape="rect" id="node18" href="$omp__structure_8hpp.html#a3af8b37ed645164f4c3441fa75e5fa76" title="Copy data from one array&#45;like object to another in parallel." alt="" coords="881,1575,985,1602"/>
+<area shape="rect" id="node19" href="$classC2DContainer.html#a8278113dbcf54123f9852e7e44583759" title=" " alt="" coords="859,1627,1006,1654"/>
+<area shape="rect" id="node36" href="$classCGeometry.html#ab8d78a9f4017431b7542e154f58a7e63" title="Routine to allocate buffers for point&#45;to&#45;point MPI communications. Also called to dynamically realloc..." alt="" coords="541,407,772,434"/>
+<area shape="rect" id="node37" href="$classCVariable.html#a7e382eae45700e5c1e8973292c08f128" title="A virtual member. Get the value of the displacement imposed at the boundary." alt="" coords="561,458,753,485"/>
+<area shape="rect" id="node38" href="$classCVariable.html#af0b6afbd2666eab791d902f50fc3e869" title="Get the value of the spectral radius." alt="" coords="573,509,740,535"/>
+<area shape="rect" id="node39" href="$classCVariable.html#ad35ee29420764dda0bbb574f7a7253e7" title="Get the value of the eddy viscosity." alt="" coords="585,559,729,586"/>
+<area shape="rect" id="node40" href="$classCVariable.html#afec545423f883bcd961ac9f1e5d18dd2" title="Get the pressure sensor." alt="" coords="577,610,736,637"/>
+<area shape="rect" id="node41" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="573,661,741,687"/>
+<area shape="rect" id="node42" href="$classCVariable.html#aef2fdf091198070a00d12cdb4dea3ff6" title="Get the acceleration (Structural Analysis)." alt="" coords="573,712,741,753"/>
+<area shape="rect" id="node43" href="$classCVariable.html#a70a9df6b6cc631f9c3b9a3ef7b3ecfe4" title="Get the old solution of the problem (Runge&#45;Kutta method)" alt="" coords="558,778,755,805"/>
+<area shape="rect" id="node44" href="$classCVariable.html#a9162db789c2ca2b71159697cc500fcce" title="Get the solution at time n." alt="" coords="573,5,741,47"/>
+<area shape="rect" id="node45" href="$classCVariable.html#a584e438afb716aa0ffce4ccc9b469ef6" title="Get the solution at time n&#45;1." alt="" coords="573,123,741,164"/>
+<area shape="rect" id="node46" href="$classCVariable.html#ae403ee21871629716cbabead1c587dac" title="Get the velocity (Structural Analysis)." alt="" coords="559,239,754,266"/>
+<area shape="rect" id="node47" href="$classCVariable.html#a1dd90f7826e65b6b9fe15becaf82b1af" title="Get the undivided laplacian of the solution." alt="" coords="566,291,747,332"/>
+<area shape="rect" id="node48" href="$classCGeometry.html#a0951357cde88070db559d6d2511a515d" title="Routine to launch non&#45;blocking recvs only for all point&#45;to&#45;point communication with neighboring parti..." alt="" coords="559,71,754,98"/>
+<area shape="rect" id="node50" href="$classCGeometry.html#a3fd5ef26d01c258616c8bd5f83e345f5" title="Routine to launch a single non&#45;blocking send once the buffer is loaded for a point&#45;to&#45;point commucati..." alt="" coords="559,189,754,215"/>
+<area shape="rect" id="node49" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="825,130,1041,157"/>
+</map>

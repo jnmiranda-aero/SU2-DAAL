@@ -1,0 +1,11 @@
+<map id="SU2_CFD/include/variables/CRadVariable.hpp" name="SU2_CFD/include/variables/CRadVariable.hpp">
+<area shape="rect" id="node1" title="Class for defining the variables of the radiation solver." alt="" coords="261,5,459,47"/>
+<area shape="rect" id="node2" href="$CRadSolver_8hpp.html" title="Declaration and inlines of the class to compute a generic radiation solver." alt="" coords="71,95,255,136"/>
+<area shape="rect" id="node6" href="$CRadSolver_8cpp.html" title=" " alt="" coords="214,184,370,225"/>
+<area shape="rect" id="node7" href="$CRadP1Variable_8hpp.html" title="Class for defining the variables of the P1 radiation model." alt="" coords="329,95,527,136"/>
+<area shape="rect" id="node9" href="$CRadVariable_8cpp.html" title="Definition of the radiation variables." alt="" coords="551,95,721,136"/>
+<area shape="rect" id="node3" href="$CRadP1Solver_8hpp.html" title="Declaration and inlines of the class to compute a P1 radiation problem." alt="" coords="5,184,189,225"/>
+<area shape="rect" id="node4" href="$CRadP1Solver_8cpp.html" title="Main subroutines for solving P1 radiation problems." alt="" coords="265,273,421,315"/>
+<area shape="rect" id="node5" href="$CSolverFactory_8cpp.html" title="Main subroutines for CSolverFactoryclass." alt="" coords="19,273,175,315"/>
+<area shape="rect" id="node8" href="$CRadP1Variable_8cpp.html" title="Definition of the P1 model variables." alt="" coords="446,184,615,225"/>
+</map>

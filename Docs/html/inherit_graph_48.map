@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCGeometry.html" title="Parent class for defining the geometry of the problem (complete geometry, multigrid agglomerated geom..." alt="" coords="5,81,101,108"/>
+<area shape="rect" id="node2" href="$classCDummyGeometry.html" title="Class for defining a geometry that does not contain any points/elements. Can be used for initializing..." alt="" coords="153,5,301,32"/>
+<area shape="rect" id="node3" href="$classCMeshFEM.html" title="Base class for the FEM solver." alt="" coords="180,56,275,83"/>
+<area shape="rect" id="node6" href="$classCMultiGridGeometry.html" title="Class for defining the multigrid geometry, the main delicated part is the agglomeration stage,..." alt="" coords="149,107,305,133"/>
+<area shape="rect" id="node7" href="$classCPhysicalGeometry.html" title="Class for reading a defining the primal grid which is read from the grid file in ...." alt="" coords="152,157,303,184"/>
+<area shape="rect" id="node4" href="$classCMeshFEM__DG.html" title="Class which contains all the variables for the DG FEM solver." alt="" coords="353,56,475,83"/>
+<area shape="rect" id="node5" href="$classCDummyMeshFEM__DG.html" title="Class for defining a DG geometry that does not contain any points/elements. Can be used for initializ..." alt="" coords="523,56,696,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CDriver::InitializeIntegration" name="CDriver::InitializeIntegration">
+<area shape="rect" id="node1" title="Definition and allocation of all integration classes." alt="" coords="5,101,212,127"/>
+<area shape="rect" id="node2" href="$classCIntegrationFactory.html#a07a370118efa6af50008afa8a8c8287b" title="Create the integration container based on the current main solver." alt="" coords="260,35,467,76"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a1d6335b8fdef6fbcd9a08f7503d73ec1" title="Provides the number of varaibles." alt="" coords="293,101,433,127"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a77312cf52a5ba2cc1239b7cee6fce7a7" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="273,151,453,178"/>
+<area shape="rect" id="node3" href="$classCIntegrationFactory.html#a167060fe51398ee82ea119096bbc3dad" title="Create a new integration instance based on the current sub solver." alt="" coords="551,5,701,47"/>
+<area shape="rect" id="node4" href="$classCSolverFactory.html#aa18fba170c898b27ad270bfef119cacd" title="Return a sub solver object that contains information about the solver allocated at a specific memory ..." alt="" coords="515,71,737,98"/>
+</map>

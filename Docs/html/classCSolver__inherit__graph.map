@@ -1,0 +1,41 @@
+<map id="CSolver" name="CSolver">
+<area shape="rect" id="node1" title=" " alt="" coords="5,593,77,619"/>
+<area shape="rect" id="node2" href="$classCFVMFlowSolverBase.html" title=" " alt="" coords="669,153,872,209"/>
+<area shape="rect" id="node5" href="$classCFVMFlowSolverBase.html" title=" " alt="" coords="640,33,901,89"/>
+<area shape="rect" id="node8" href="$classCFVMFlowSolverBase.html" title=" " alt="" coords="647,238,894,294"/>
+<area shape="rect" id="node11" href="$classCScalarSolver.html" title=" " alt="" coords="655,439,886,466"/>
+<area shape="rect" id="node16" href="$classCScalarSolver.html" title=" " alt="" coords="643,337,898,363"/>
+<area shape="rect" id="node19" href="$classCScalarSolver.html" title=" " alt="" coords="653,506,888,533"/>
+<area shape="rect" id="node21" href="$classCAdjEulerSolver.html" title="Main class for defining the Euler&#39;s adjoint flow solver." alt="" coords="176,542,303,569"/>
+<area shape="rect" id="node23" href="$classCAdjTurbSolver.html" title="Main class for defining the adjoint turbulence model solver." alt="" coords="179,593,299,619"/>
+<area shape="rect" id="node24" href="$classCBaselineSolver.html" title="Main class for defining a baseline solution from a restart file (for output)." alt="" coords="175,643,303,670"/>
+<area shape="rect" id="node25" href="$classCBaselineSolver__FEM.html" title="Main class for defining a baseline solution from a restart file for the DG&#45;FEM solver output." alt="" coords="158,694,321,721"/>
+<area shape="rect" id="node26" href="$classCDiscAdjFEASolver.html" title="Main class for defining the discrete adjoint solver for FE structural problems." alt="" coords="166,745,313,771"/>
+<area shape="rect" id="node27" href="$classCDiscAdjMeshSolver.html" title="Main class for defining the discrete adjoint solver for mesh deformation problems." alt="" coords="161,795,317,822"/>
+<area shape="rect" id="node28" href="$classCDiscAdjSolver.html" title="Main class for defining the discrete adjoint solver." alt="" coords="179,846,300,873"/>
+<area shape="rect" id="node29" href="$classCFEASolverBase.html" title="Base class for FEM elasticity solvers." alt="" coords="175,897,304,923"/>
+<area shape="rect" id="node33" href="$classCFEM__DG__EulerSolver.html" title="Main class for defining the Euler Discontinuous Galerkin finite element flow solver." alt="" coords="156,947,323,974"/>
+<area shape="rect" id="node35" href="$classCFVMFlowSolverBase.html" title=" " alt="" coords="127,195,351,236"/>
+<area shape="rect" id="node36" href="$classCRadSolver.html" title=" " alt="" coords="191,998,288,1025"/>
+<area shape="rect" id="node38" href="$classCScalarSolver.html" title="Main class for defining a scalar solver." alt="" coords="127,441,352,467"/>
+<area shape="rect" id="node39" href="$classCTemplateSolver.html" title="Main class for defining the template model solver." alt="" coords="173,1049,305,1075"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html" title="Class for compressible inviscid flow problems, serves as base for Navier&#45;Stokes/RANS." alt="" coords="971,167,1076,194"/>
+<area shape="rect" id="node4" href="$classCNSSolver.html" title="Main class for defining the Navier&#45;Stokes flow solver." alt="" coords="1190,167,1281,194"/>
+<area shape="rect" id="node6" href="$classCIncEulerSolver.html" title="Main class for defining the incompressible Euler flow solver." alt="" coords="961,47,1085,74"/>
+<area shape="rect" id="node7" href="$classCIncNSSolver.html" title="Main class for defining the incompressible Navier&#45;Stokes flow solver." alt="" coords="1181,47,1290,74"/>
+<area shape="rect" id="node9" href="$classCNEMOEulerSolver.html" title="Main class for defining the NEMO Euler&#39;s flow solver." alt="" coords="951,253,1096,279"/>
+<area shape="rect" id="node10" href="$classCNEMONSSolver.html" title="Main class for defining the NEMO Navier&#45;Stokes flow solver." alt="" coords="1170,253,1301,279"/>
+<area shape="rect" id="node12" href="$classCTurbSolver.html" title="Main class for defining the turbulence model solver." alt="" coords="974,439,1073,466"/>
+<area shape="rect" id="node13" href="$classCTransLMSolver.html" title="Main class for defining the transition model solver." alt="" coords="1173,490,1298,517"/>
+<area shape="rect" id="node14" href="$classCTurbSASolver.html" title="Main class for defining the turbulence model solver." alt="" coords="1177,389,1294,415"/>
+<area shape="rect" id="node15" href="$classCTurbSSTSolver.html" title="Main class for defining the turbulence model solver." alt="" coords="1174,439,1297,466"/>
+<area shape="rect" id="node17" href="$classCSpeciesSolver.html" title="Main class for defining the species transport solver." alt="" coords="962,337,1085,363"/>
+<area shape="rect" id="node18" href="$classCSpeciesFlameletSolver.html" title="Main class for defining the flamelet model solver." alt="" coords="1145,337,1325,363"/>
+<area shape="rect" id="node20" href="$classCHeatSolver.html" title="Main class for defining the finite&#45;volume heat solver." alt="" coords="972,506,1075,533"/>
+<area shape="rect" id="node22" href="$classCAdjNSSolver.html" title="Main class for defining the Navier&#45;Stokes&#39; adjoint flow solver." alt="" coords="715,570,826,597"/>
+<area shape="rect" id="node30" href="$classCFEASolver.html" title="Main class for defining a FEM solver for elastic structural problems." alt="" coords="722,897,819,923"/>
+<area shape="rect" id="node32" href="$classCGradientSmoothingSolver.html" title="Main class for defining a Sobolev&#45;based gradient smoothing." alt="" coords="671,846,870,873"/>
+<area shape="rect" id="node31" href="$classCMeshSolver.html" title="Mesh deformation solver (pseudo elasticity)." alt="" coords="970,897,1077,923"/>
+<area shape="rect" id="node34" href="$classCFEM__DG__NSSolver.html" title="Main class for defining the Navier&#45;Stokes Discontinuous Galerkin finite element flow solver." alt="" coords="695,947,847,974"/>
+<area shape="rect" id="node37" href="$classCRadP1Solver.html" title=" " alt="" coords="714,998,827,1025"/>
+</map>

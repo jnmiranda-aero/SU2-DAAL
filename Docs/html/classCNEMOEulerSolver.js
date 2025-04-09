@@ -17,7 +17,7 @@ var classCNEMOEulerSolver =
     [ "ComputeUnderRelaxationFactor", "classCNEMOEulerSolver.html#a8a5722997cf285632ffc0a494d5af79e", null ],
     [ "ExplicitEuler_Iteration", "classCNEMOEulerSolver.html#a1761255bd3e346958540247ec775f41b", null ],
     [ "ExplicitRK_Iteration", "classCNEMOEulerSolver.html#ad122b614d3d0525459711bb65cbd5cf9", null ],
-    [ "GetFluidModel", "classCNEMOEulerSolver.html#a1378a6f179bb91d9fc1ee1e8e04e4044", null ],
+    [ "GetFluidModel", "classCNEMOEulerSolver.html#af99203adc82c9a3e9a65fe70bc3416e6", null ],
     [ "PrepareImplicitIteration", "classCNEMOEulerSolver.html#abaf55c17f5ccde479e2c5cf5338f72d9", null ],
     [ "Preprocessing", "classCNEMOEulerSolver.html#a3c5a59b5c1c9195757626bff151dbaa9", null ],
     [ "PrintVerificationError", "classCNEMOEulerSolver.html#ac837b10a124cd2ac5dd18051af6c0902", null ],

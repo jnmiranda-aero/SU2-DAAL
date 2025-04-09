@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['linear_20algebra_0',['Dense linear algebra',['../group__BLAS.html',1,'']]],
-  ['linear_20systems_1',['Sparse linear systems',['../group__SpLinSys.html',1,'']]],
-  ['look_20up_20and_20interpolation_2',['Look up and interpolation',['../group__LookUpInterp.html',1,'']]]
+  ['utility_20classes_20and_20functions_18226',['Utility classes and functions',['../group__Toolboxes.html',1,'']]]
 ];

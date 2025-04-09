@@ -1,0 +1,8 @@
+<map id="CVerificationSolution::GetError_Max" name="CVerificationSolution::GetError_Max">
+<area shape="rect" id="node1" title="Get the global maximum error for verification cases." alt="" coords="512,103,669,144"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__EulerSolver.html#a141f2b877000daec03e9aeb68ce6aebf" title="Compute the global error measures (L2, Linf) for verification cases." alt="" coords="250,37,443,79"/>
+<area shape="rect" id="node5" href="$classCEulerSolver.html#ac27970bc2f17bc5d85aa6ec3ad08999a" title="Print verification error to screen." alt="" coords="239,103,455,144"/>
+<area shape="rect" id="node6" href="$classCIncEulerSolver.html#ad49db6af0797eb6ffabad575fb282815" title="Print verification error to screen." alt="" coords="229,168,464,209"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__EulerSolver.html#a5f05845eb2f1bb8619d7da896e6aa3f3" title="Update the solution using the classical fourth&#45;order Runge&#45;Kutta scheme." alt="" coords="5,5,181,47"/>
+<area shape="rect" id="node4" href="$classCFEM__DG__EulerSolver.html#a980de4518bb9a77a25146d56ae072acf" title="Update the solution using a Runge&#45;Kutta scheme." alt="" coords="10,71,177,112"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CConfig::GetNuFactor_FreeStream" name="CConfig::GetNuFactor_FreeStream">
+<area shape="rect" id="node1" title="Get the value of the non&#45;dimensionalized freestream turbulence intensity." alt="" coords="900,64,1060,105"/>
+<area shape="rect" id="node2" href="$classCTurbSASolver.html#a9cdd12aa912c00c12dbb80cc21c7977a" title="Impose the inlet boundary condition." alt="" coords="653,5,831,47"/>
+<area shape="rect" id="node3" href="$classCTurbSASolver.html#a06a8b09d1563dd48f364ff6e97c25cd8" title="Constructor." alt="" coords="632,71,852,98"/>
+<area shape="rect" id="node4" href="$classCSolver.html#aa6d85b1177b7acacfbf083e8c58da55c" title="Load a inlet profile data from file into a particular solver." alt="" coords="651,122,833,149"/>
+<area shape="rect" id="node5" href="$classCDriver.html#acb98c972bfd29fc1bab737d7c117544a" title="Preprocess the inlets via file input for all solvers." alt="" coords="405,122,584,149"/>
+<area shape="rect" id="node6" href="$classCDriver.html#ae57e1a2eb7e8f19259176afdab83e840" title="Definition and allocation of all solution classes." alt="" coords="181,122,357,149"/>
+<area shape="rect" id="node7" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="5,122,133,149"/>
+</map>

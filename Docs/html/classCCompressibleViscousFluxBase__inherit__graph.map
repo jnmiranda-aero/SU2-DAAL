@@ -1,0 +1,8 @@
+<map id="CCompressibleViscousFluxBase&lt; NDIM, Derived &gt;" name="CCompressibleViscousFluxBase&lt; NDIM, Derived &gt;">
+<area shape="rect" id="node1" title="Decorator class to add viscous fluxes (compressible flow)." alt="" coords="181,54,380,95"/>
+<area shape="rect" id="node3" href="$classCCompressibleViscousFluxBase.html" title=" " alt="" coords="641,5,904,61"/>
+<area shape="rect" id="node5" href="$classCCompressibleViscousFluxBase.html" title=" " alt="" coords="642,85,903,141"/>
+<area shape="rect" id="node2" href="$classCNumericsSIMD.html" title="Base class to define the interface." alt="" coords="5,61,132,88"/>
+<area shape="rect" id="node4" href="$classCGeneralCompressibleViscousFlux.html" title="Decorator class to add viscous fluxes (compressible flow, real gas)." alt="" coords="953,13,1175,54"/>
+<area shape="rect" id="node6" href="$classCCompressibleViscousFlux.html" title="Decorator class to add viscous fluxes (compressible flow, ideal gas)." alt="" coords="965,93,1163,134"/>
+</map>

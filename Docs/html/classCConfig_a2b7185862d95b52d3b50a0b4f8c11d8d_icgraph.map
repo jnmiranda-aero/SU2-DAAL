@@ -1,0 +1,7 @@
+<map id="CConfig::GetPrintInlet_InterpolatedData" name="CConfig::GetPrintInlet_InterpolatedData">
+<area shape="rect" id="node1" title="Get whether to print inlet interpolated data or not." alt="" coords="861,5,1024,47"/>
+<area shape="rect" id="node2" href="$classCSolver.html#aa6d85b1177b7acacfbf083e8c58da55c" title="Load a inlet profile data from file into a particular solver." alt="" coords="632,13,813,39"/>
+<area shape="rect" id="node3" href="$classCDriver.html#acb98c972bfd29fc1bab737d7c117544a" title="Preprocess the inlets via file input for all solvers." alt="" coords="405,13,584,39"/>
+<area shape="rect" id="node4" href="$classCDriver.html#ae57e1a2eb7e8f19259176afdab83e840" title="Definition and allocation of all solution classes." alt="" coords="181,13,357,39"/>
+<area shape="rect" id="node5" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="5,13,133,39"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CConfig::GetWallFunction_Treatment" name="CConfig::GetWallFunction_Treatment">
+<area shape="rect" id="node1" title="Get the wall function treatment for the given boundary marker." alt="" coords="507,144,693,185"/>
+<area shape="rect" id="node2" href="$classCIncNSSolver.html#a20df3bf692b483420474f500c981584f" title="Impose the (received) conjugate heat variables." alt="" coords="245,5,453,47"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#ac8396196dddd6caec922418eaf7d7a2a" title="Compute the weights of the FEM graph for ParMETIS." alt="" coords="249,71,449,112"/>
+<area shape="rect" id="node5" href="$classCPhysicalGeometry.html#acef4e18142b580bf09f21e5b71387d5f" title="Determine the donor elements for the boundary elements on viscous wall boundaries when wall functions..." alt="" coords="240,137,459,193"/>
+<area shape="rect" id="node6" href="$classCFVMFlowSolverBase.html#af46a894bd89c2367215f64fa7ea7d02d" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="267,217,431,259"/>
+<area shape="rect" id="node7" href="$classCMeshFEM__DG.html#a098dcce939b1b802fc8946cbd4d9d0c6" title="Function, which carries out the preprocessing tasks when wall functions are used." alt="" coords="243,283,455,324"/>
+<area shape="rect" id="node4" href="$classCPhysicalGeometry.html#a0a1295415b0ff3105673f5733682e151" title="Set the domains for FEM grid partitioning using ParMETIS." alt="" coords="5,108,192,149"/>
+</map>

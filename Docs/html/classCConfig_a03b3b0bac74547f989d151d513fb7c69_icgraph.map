@@ -1,0 +1,7 @@
+<map id="CConfig::GetNScalars" name="CConfig::GetNScalars">
+<area shape="rect" id="node1" title="Get the number of total transported scalars for flamelet model." alt="" coords="281,97,441,124"/>
+<area shape="rect" id="node2" href="$classCFluidFlamelet.html#ab5942552ea425d1d203fd8bb0aa1dfcb" title=" " alt="" coords="5,5,233,32"/>
+<area shape="rect" id="node3" href="$classCSpeciesFlameletSolver.html#ad28daa94ec7a426fd00201bf6139da04" title="Define a Flamelet Generated Manifold species solver." alt="" coords="25,57,213,98"/>
+<area shape="rect" id="node4" href="$classCSpeciesFlameletVariable.html#a8a3f3d293e63c5674a3a4a00e98a5148" title="Constructor of the class." alt="" coords="19,122,219,163"/>
+<area shape="rect" id="node5" href="$classCSpeciesFlameletSolver.html#ae9d618734213fca7565d4290a4a36f68" title="Set the initial condition for the scalar transport problem." alt="" coords="29,187,209,229"/>
+</map>

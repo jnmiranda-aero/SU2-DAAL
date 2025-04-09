@@ -1,0 +1,6 @@
+<map id="SU2_TYPE::Short" name="SU2_TYPE::Short">
+<area shape="rect" id="node1" title="Casts the primitive value to short (uses GetValue, already implemented for each type)." alt="" coords="605,35,735,61"/>
+<area shape="rect" id="node2" href="$classCSurfaceMovement.html#af72337ffcc3c207f8788b280a790b508" title="Read the free form information from the grid input file." alt="" coords="315,5,557,32"/>
+<area shape="rect" id="node3" href="$classCFlowOutput.html#a2167086849749769f93a0078f738c1e2" title="Set nearfield inverse design output field values (and also into the solver)." alt="" coords="339,57,533,98"/>
+<area shape="rect" id="node4" href="$classCFlowCompOutput.html#a393cb19a691990ee6e88f844eccc79ed" title="Load the history output field values." alt="" coords="5,64,267,91"/>
+</map>

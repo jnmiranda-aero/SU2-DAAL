@@ -1,0 +1,11 @@
+<map id="CNEMOGas::ComputeSpeciesEnthalpy" name="CNEMOGas::ComputeSpeciesEnthalpy">
+<area shape="rect" id="node1" title="Compute species enthalpies." alt="" coords="649,123,863,164"/>
+<area shape="rect" id="node2" href="$classCNEMONSSolver.html#ae3d2c5f1c94cb3d01b7f351ce3105f31" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="345,5,578,47"/>
+<area shape="rect" id="node4" href="$classCSource__NEMO.html#aa86a638c43ce759be11a0b39377e8608" title="Residual of axissymetric source term." alt="" coords="321,71,601,98"/>
+<area shape="rect" id="node5" href="$classCNEMONumerics.html#a6a91373e6cc521d5730ea901ee2f0864" title="TSL&#45;Approximation of Viscous NS Jacobians for arbitrary equations of state." alt="" coords="336,123,587,164"/>
+<area shape="rect" id="node6" href="$classCNEMONumerics.html#a8f1d3fe0803cf04933f32b6b866dd752" title="Compute the projection of the viscous fluxes into a direction." alt="" coords="354,188,569,229"/>
+<area shape="rect" id="node9" href="$classCNEMONSVariable.html#aaf19bc249dae14fccd4a739901a83efd" title="Set all the primitive variables for compressible flows." alt="" coords="350,254,573,281"/>
+<area shape="rect" id="node3" href="$classCNEMONSSolver.html#a8c6c80e6e8f2aed2ff80c78a8e5aec9e" title="Generic implementation of the isothermal wall." alt="" coords="5,13,273,39"/>
+<area shape="rect" id="node7" href="$classCAvgGrad__NEMO.html#a5095f559a521ac219d97b1d23ec79d71" title="Compute the viscous flow residual using an average of gradients." alt="" coords="11,166,267,193"/>
+<area shape="rect" id="node8" href="$classCAvgGradCorrected__NEMO.html#a842de3caec637a1fde8ba4409c5e48dd" title="Compute the viscous flow residual using an average of gradients." alt="" coords="41,217,237,259"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CConfig::GetUpdate_AoA" name="CConfig::GetUpdate_AoA">
+<area shape="rect" id="node1" title="Get information about whether to update the AoA for fixed lift mode." alt="" coords="561,31,744,57"/>
+<area shape="rect" id="node2" href="$classCAdjEulerSolver.html#a5265a44e6c43dee677c9f26333148432" title="Update the AoA and freestream velocity at the farfield." alt="" coords="279,31,513,57"/>
+<area shape="rect" id="node3" href="$classCAdjEulerSolver.html#a64baf8c7af6006bdc4ad0919f7c2507a" title="Initialize the residual vectors." alt="" coords="5,5,231,32"/>
+<area shape="rect" id="node4" href="$classCAdjNSSolver.html#a0669f6fb8ef7cd7800d151d4aff7d3f6" title="Restart residual and compute gradients." alt="" coords="13,56,223,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CConfig::GetLinear_Solver_Restart_Frequency" name="CConfig::GetLinear_Solver_Restart_Frequency">
+<area shape="rect" id="node1" title="Get restart frequency of the linear solver for the implicit formulation." alt="" coords="216,5,415,47"/>
+<area shape="rect" id="node2" href="$classCSysSolve.html#a9dfc6ff5d7af62a52d498ec4a26520a2" title="Flexible Generalized Minimal Residual method with restarts (frequency comes from config)." alt="" coords="5,5,168,47"/>
+</map>

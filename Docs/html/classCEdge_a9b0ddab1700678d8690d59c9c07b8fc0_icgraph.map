@@ -1,0 +1,5 @@
+<map id="CEdge::GetVolume" name="CEdge::GetVolume">
+<area shape="rect" id="node1" title="Compute the volume associated with an edge (3D version)." alt="" coords="276,46,419,73"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#a7cb41549dc077f561b34e1595847a3c0" title="Compute 3 grid quality metrics: orthogonality angle, dual cell aspect ratio, and dual cell volume rat..." alt="" coords="5,5,228,47"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#a0111aae7c2041c5c58b183bd337cdee6" title="Set the edge structure of the control volume." alt="" coords="38,71,195,112"/>
+</map>

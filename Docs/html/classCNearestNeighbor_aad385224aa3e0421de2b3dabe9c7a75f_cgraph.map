@@ -1,0 +1,25 @@
+<map id="CNearestNeighbor::SetTransferCoeff" name="CNearestNeighbor::SetTransferCoeff">
+<area shape="rect" id="node1" title="Set up transfer matrix defining relation between two meshes." alt="" coords="5,473,228,515"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="540,61,751,87"/>
+<area shape="rect" id="node3" href="$classCInterpolator.html#a9c2a32da64f71f2a572432aea04a74bf" title="Check whether an interface should be processed or not, i.e. if it is part of the zones." alt="" coords="276,53,489,95"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="537,123,753,150"/>
+<area shape="rect" id="node5" href="$classCInterpolator.html#aa979af5b55b5e841d4e4bc1465c5e644" title="Collect and communicate vertex info: coord, global point." alt="" coords="303,339,463,380"/>
+<area shape="rect" id="node8" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="579,446,712,473"/>
+<area shape="rect" id="node9" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="572,227,719,254"/>
+<area shape="rect" id="node11" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="576,278,715,305"/>
+<area shape="rect" id="node12" href="$classC2DContainer.html#adefb48b593f76aa322e228fea8f76127" title="Request a change of size." alt="" coords="566,497,725,523"/>
+<area shape="rect" id="node13" href="$classCInterpolator.html#ae172af44fdeaab02740a3feee56c6c02" title="Determine array sizes used to collect and send coordinate and global point information." alt="" coords="291,171,475,212"/>
+<area shape="rect" id="node14" href="$classCConfig.html#a662505c242a7c84016e6f58467501908" title="Find the marker index (if any) that is part of a given interface pair." alt="" coords="277,506,488,533"/>
+<area shape="rect" id="node15" href="$classCConfig.html#a7b750ac75536d32d586928e11ba14277" title="Get the number of FSI interface markers val_marker." alt="" coords="309,557,457,599"/>
+<area shape="rect" id="node16" href="$classCGeometry.html#ace7f7fe876f629f5bd5f92d4805a1a4b" title="Get number of coordinates." alt="" coords="302,623,463,650"/>
+<area shape="rect" id="node17" href="$classCGeometry.html#a00b7f7e71ff42bd38f39147366dd093a" title="Get number of vertices." alt="" coords="295,674,471,701"/>
+<area shape="rect" id="node18" href="$omp__structure_8hpp.html#a2f7befecc7b1a4eaade8d81fa6524225" title="Maximum number of threads available." alt="" coords="297,725,468,751"/>
+<area shape="rect" id="node19" href="$omp__structure_8hpp.html#aad63dd7e34961dbbd2e8774e7f6bc2d0" title="Index of current thread, akin to MPI rank." alt="" coords="301,775,465,802"/>
+<area shape="rect" id="node20" href="$omp__structure_8hpp.html#a1c00281f52b615b111a4990b2d2a5157" title="Integer division rounding up." alt="" coords="333,826,432,853"/>
+<area shape="rect" id="node21" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="359,877,406,903"/>
+<area shape="rect" id="node22" href="$group__GeometryToolbox.html#ga3db86410486389a5cda59b3d0ab17f66" title=" " alt="" coords="283,928,482,969"/>
+<area shape="rect" id="node6" href="$classCBaseMPIWrapper.html#a137ef06ade0c4f94d2a61f9b8817b6a7" title=" " alt="" coords="541,177,750,203"/>
+<area shape="rect" id="node7" href="$classcontainer__details_1_1AccessorImpl.html#a5b5318f7212e57c13e464c398f74b3d5" title=" " alt="" coords="572,329,719,371"/>
+<area shape="rect" id="node10" href="$classCPoint.html#a8a53865a92d645b1b74c4d817b4aae10" title="Get the global index in a parallel computation." alt="" coords="559,395,732,422"/>
+<area shape="rect" id="node23" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="591,935,700,962"/>
+</map>

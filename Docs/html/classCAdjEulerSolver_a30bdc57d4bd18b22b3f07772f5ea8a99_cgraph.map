@@ -1,0 +1,36 @@
+<map id="CAdjEulerSolver::Centered_Residual" name="CAdjEulerSolver::Centered_Residual">
+<area shape="rect" id="node1" title="Compute the spatial integration using a centered scheme for the adjoint equations." alt="" coords="5,738,199,779"/>
+<area shape="rect" id="node2" href="$classCNumerics.html#aa0ca13663a047ef2640b377b33875e29" title="Compute the numerical residual." alt="" coords="255,5,471,32"/>
+<area shape="rect" id="node3" href="$classCVariable.html#a525636dad6b2064101677df44f274443" title="A virtual member." alt="" coords="277,56,449,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a9182d3dbb0b3bfa2ebb944f18795f5ca" title="Get information about the grid movement." alt="" coords="259,107,466,133"/>
+<area shape="rect" id="node5" href="$classCPoint.html#a65d855a9c2ad2971546038b34acd5b92" title="Get the value of the grid velocity at the point." alt="" coords="291,157,434,184"/>
+<area shape="rect" id="node6" href="$classCConfig.html#aef335760724e0367ef46cd2714ce236d" title="Get the kind of center convective numerical scheme for the adjoint flow equations." alt="" coords="263,209,462,250"/>
+<area shape="rect" id="node7" href="$classCConfig.html#ad16f71356f146b530fb1fbb45444525c" title="Get the kind of time integration method." alt="" coords="268,274,457,315"/>
+<area shape="rect" id="node8" href="$classCVariable.html#af0b6afbd2666eab791d902f50fc3e869" title="Get the value of the spectral radius." alt="" coords="279,340,446,367"/>
+<area shape="rect" id="node9" href="$classCGeometry.html#aba89cceede61b33426b2783385431f5b" title="Get number of edges." alt="" coords="279,391,446,417"/>
+<area shape="rect" id="node10" href="$classCPoint.html#a49aa3858a7980bdf135f30d835bfebe9" title="Get the number of neighbor of a point." alt="" coords="281,441,444,468"/>
+<area shape="rect" id="node11" href="$classCEdge.html#a5cd6f283cb2f3e4dfc037c0db6ae1055" title="Get left/right node index defining the edge." alt="" coords="299,492,427,519"/>
+<area shape="rect" id="node12" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="291,543,435,569"/>
+<area shape="rect" id="node13" href="$classCEdge.html#a4ace970590e47bd39ea5780c3e0e2037" title="Copy the the normal vector of a face." alt="" coords="291,593,434,620"/>
+<area shape="rect" id="node15" href="$classCVariable.html#afec545423f883bcd961ac9f1e5d18dd2" title="Get the pressure sensor." alt="" coords="283,644,442,671"/>
+<area shape="rect" id="node16" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="279,695,447,721"/>
+<area shape="rect" id="node17" href="$classCVariable.html#accd7f99df9e45684edbc57057fbb0270" title="A virtual member." alt="" coords="265,745,460,772"/>
+<area shape="rect" id="node18" href="$classCVariable.html#a1dd90f7826e65b6b9fe15becaf82b1af" title="Get the undivided laplacian of the solution." alt="" coords="272,797,453,838"/>
+<area shape="rect" id="node19" href="$classCNumerics.html#a7a305597659a44840687afc1c1e0da6b" title="Set the value of the adjoint variable." alt="" coords="268,863,457,889"/>
+<area shape="rect" id="node20" href="$classCNumerics.html#a2d59a0969bac4b0e43b74ba4ec4d1eff" title="Set the value of the conservative variables." alt="" coords="259,913,467,940"/>
+<area shape="rect" id="node21" href="$classCNumerics.html#a83c9715c87f8ee21f9340dadef8cd74f" title="Set the value of the enthalpy." alt="" coords="273,964,452,991"/>
+<area shape="rect" id="node22" href="$classCNumerics.html#a3f116b5718153aefee7a22735797af29" title="Set the velocity of the computational grid." alt="" coords="278,1015,447,1041"/>
+<area shape="rect" id="node23" href="$classCNumerics.html#a0b91fdb82ec676ef7426b8e2b963cba3" title="Set the value of the spectral radius." alt="" coords="275,1065,450,1092"/>
+<area shape="rect" id="node24" href="$classCNumerics.html#a3a325233fabba63421dd5d0596b6a7ca" title="Set the number of neighbor to a point." alt="" coords="272,1116,453,1143"/>
+<area shape="rect" id="node25" href="$classCNumerics.html#a93fd2262832ae5081317548f2f9cdbb3" title="Set the value of the normal vector to the face between two points." alt="" coords="277,1167,448,1193"/>
+<area shape="rect" id="node26" href="$classCNumerics.html#a577baa8846d297140f03ef9729368f73" title="Set the value of the pressure sensor." alt="" coords="279,1217,446,1244"/>
+<area shape="rect" id="node27" href="$classCNumerics.html#ac748862c7bd24c58afeecc924269040f" title="Set the value of the sound speed." alt="" coords="261,1268,464,1295"/>
+<area shape="rect" id="node28" href="$classCNumerics.html#a2fef2b3db6dd808f8bfc9f3b2b3429b8" title="Set the value of undivided laplacian." alt="" coords="269,1319,457,1361"/>
+<area shape="rect" id="node29" href="$classCSysMatrix.html#aaa63a679856fad3b4e76f9085b0ca40f" title="Subtracts the specified block to the sparse matrix (see AddBlock)." alt="" coords="265,1385,460,1412"/>
+<area shape="rect" id="node31" href="$classCSysVector.html#a71ea6ec1ebdb77535b976bb40e7659a6" title="Subtract &quot;block&quot; from the vector, see AddBlock." alt="" coords="266,1436,459,1463"/>
+<area shape="rect" id="node33" href="$classCSysMatrix.html#a423b77066cf386dd6e4b95a656e4aadb" title="Short&#45;hand to AddBlock2Diag with alpha = &#45;1, i.e. subtracts from the current diagonal." alt="" coords="247,1487,479,1513"/>
+<area shape="rect" id="node14" href="$classC2DContainer.html#ab6d9161cd08887f034322ebcbc3deb12" title=" " alt="" coords="555,593,701,620"/>
+<area shape="rect" id="node30" href="$classCSysMatrix.html#a03a189a2120be05e21fbd9b120549427" title="Add a scaled block (in flat format) to the sparse matrix (see SetBlock)." alt="" coords="545,1385,711,1412"/>
+<area shape="rect" id="node32" href="$classCSysVector.html#aa463275cba394503a9778529fdaa4494" title="Add &quot;block&quot; to the vector, see SetBlock." alt="" coords="546,1436,710,1463"/>
+<area shape="rect" id="node34" href="$classCSysMatrix.html#a5a4ef7eeb7f009450f575660108ed7be" title="Non overwrite version of SetBlock2Diag, also with scaling." alt="" coords="527,1487,729,1513"/>
+</map>

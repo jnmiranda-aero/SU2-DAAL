@@ -1,0 +1,7 @@
+<map id="CFileWriter::DetermineFilesize" name="CFileWriter::DetermineFilesize">
+<area shape="rect" id="node1" title="Determine the file size." alt="" coords="248,101,468,127"/>
+<area shape="rect" id="node2" href="$classCParaviewFileWriter.html#a4dd1f50c85da3cbd781ac9aaa124f124" title="Write sorted data to file in paraview file format." alt="" coords="26,5,179,47"/>
+<area shape="rect" id="node3" href="$classCSU2FileWriter.html#a0a839ebbda62ba0686ff54e3857e8046" title="Write sorted data to file in SU2 ASCII file format." alt="" coords="5,71,200,98"/>
+<area shape="rect" id="node4" href="$classCTecplotBinaryFileWriter.html#af453c340ddc5a37305a24afb2bcd26a9" title="Write sorted data to file in tecplot binary file format." alt="" coords="11,123,194,164"/>
+<area shape="rect" id="node5" href="$classCTecplotFileWriter.html#ac49dc1eecd1146a678454dffe949afe5" title="Write sorted data to file in tecplot ASCII file format." alt="" coords="33,188,173,229"/>
+</map>

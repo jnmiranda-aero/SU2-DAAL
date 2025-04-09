@@ -1,0 +1,4 @@
+<map id="CFEM_DG_EulerSolver::Shock_Capturing_DG" name="CFEM_DG_EulerSolver::Shock_Capturing_DG">
+<area shape="rect" id="node1" title="Compute the artificial viscosity for shock capturing in DG. It is a virtual function,..." alt="" coords="5,5,172,47"/>
+<area shape="rect" id="node2" href="$classCConfig.html#afa721d24bb2ffcb31bc0743f64dd33ee" title="Get the kind of shock capturing method in FEM DG solver." alt="" coords="220,5,387,47"/>
+</map>

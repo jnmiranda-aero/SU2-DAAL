@@ -1,0 +1,5 @@
+<map id="CSolver::SetnSlidingStates" name="CSolver::SetnSlidingStates">
+<area shape="rect" id="node1" title="Set the number of outer states for fluid interface nodes." alt="" coords="232,46,427,73"/>
+<area shape="rect" id="node2" href="$classCSlidingInterface.html#a138372183195f68747b652191b12f0b5" title="A virtual member, initializes the target variable for sliding mesh." alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node3" href="$classCSlidingInterface.html#a6a697a12145624ddef41858628e59dfb" title="Set the variable that has been received from the target mesh into the target mesh." alt="" coords="23,71,166,112"/>
+</map>

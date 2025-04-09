@@ -1,0 +1,9 @@
+<map id="CConfig::GetInlet_Velocity" name="CConfig::GetInlet_Velocity">
+<area shape="rect" id="node1" title="Get the velocity vector at a supersonic inlet boundary." alt="" coords="861,71,1052,98"/>
+<area shape="rect" id="node2" href="$classCNEMOEulerSolver.html#a1448f7a4a713ada22016532249a56a95" title="Impose a supersonic inlet boundary condition." alt="" coords="637,5,808,47"/>
+<area shape="rect" id="node3" href="$classCSolver.html#aa6d85b1177b7acacfbf083e8c58da55c" title="Load a inlet profile data from file into a particular solver." alt="" coords="632,71,813,98"/>
+<area shape="rect" id="node7" href="$classCFVMFlowSolverBase.html#a219e1d9dec14b50deb6214610f59757e" title="Set a uniform inlet profile." alt="" coords="641,123,805,164"/>
+<area shape="rect" id="node4" href="$classCDriver.html#acb98c972bfd29fc1bab737d7c117544a" title="Preprocess the inlets via file input for all solvers." alt="" coords="405,71,584,98"/>
+<area shape="rect" id="node5" href="$classCDriver.html#ae57e1a2eb7e8f19259176afdab83e840" title="Definition and allocation of all solution classes." alt="" coords="181,71,357,98"/>
+<area shape="rect" id="node6" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="5,71,133,98"/>
+</map>

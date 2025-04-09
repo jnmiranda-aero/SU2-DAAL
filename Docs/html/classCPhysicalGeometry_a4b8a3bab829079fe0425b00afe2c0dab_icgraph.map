@@ -1,0 +1,4 @@
+<map id="CPhysicalGeometry::DeterminePeriodicFacesFEMGrid" name="CPhysicalGeometry::DeterminePeriodicFacesFEMGrid">
+<area shape="rect" id="node1" title="Determine the neighboring information for periodic faces of a FEM grid." alt="" coords="240,5,475,47"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#a0a1295415b0ff3105673f5733682e151" title="Set the domains for FEM grid partitioning using ParMETIS." alt="" coords="5,5,192,47"/>
+</map>

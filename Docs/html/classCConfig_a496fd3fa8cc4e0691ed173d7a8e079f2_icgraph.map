@@ -1,0 +1,4 @@
+<map id="CConfig::SetHeatSource_Rot_Z" name="CConfig::SetHeatSource_Rot_Z">
+<area shape="rect" id="node1" title="Set the rotation angle of the volumetric heat source in axis Z." alt="" coords="280,5,456,47"/>
+<area shape="rect" id="node2" href="$group__PySU2.html#ga5b1ebb9c3142e5abda0cf8879abb8e89" title="Set the position of the heat source." alt="" coords="5,13,232,39"/>
+</map>

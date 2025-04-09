@@ -1,0 +1,7 @@
+<map id="CNSSolver" name="CNSSolver">
+<area shape="rect" id="node1" title="Main class for defining the Navier&#45;Stokes flow solver." alt="" coords="61,381,152,408"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html" title="Class for compressible inviscid flow problems, serves as base for Navier&#45;Stokes/RANS." alt="" coords="54,305,159,332"/>
+<area shape="rect" id="node3" href="$classCFVMFlowSolverBase.html" title=" " alt="" coords="5,200,208,256"/>
+<area shape="rect" id="node4" href="$classCSolver.html" title=" " alt="" coords="65,5,137,32"/>
+<area shape="rect" id="node5" href="$classCFVMFlowSolverBase.html" title=" " alt="" coords="123,81,347,123"/>
+</map>

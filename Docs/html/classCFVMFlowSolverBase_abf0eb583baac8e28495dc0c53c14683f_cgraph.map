@@ -1,0 +1,17 @@
+<map id="CFVMFlowSolverBase::EvaluateCommonObjFunc" name="CFVMFlowSolverBase::EvaluateCommonObjFunc">
+<area shape="rect" id="node1" title="Evaluate common part of objective function to all solvers." alt="" coords="5,417,204,458"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a99e6285b421215b1995965cd534976ae" title="Get the kind of objective function. There are several options: Drag coefficient, Lift coefficient,..." alt="" coords="252,5,443,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a6e65810e59b8015104b84c4fd5b1d7f9" title="Get the total number of monitoring markers." alt="" coords="269,57,425,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#aae19435bb4c26d4c3381d717e2cee064" title="Get the massflow at an outlet boundary." alt="" coords="271,122,423,163"/>
+<area shape="rect" id="node5" href="$classCConfig.html#ae83c62e67d54ab9218f4d451f4d96eb0" title="Get the momentum distortion at the surface." alt="" coords="263,187,431,229"/>
+<area shape="rect" id="node6" href="$classCConfig.html#ad5f262ea67ab2fb181c5fa5146a7cf79" title="Get the pressure at an outlet boundary." alt="" coords="271,253,423,294"/>
+<area shape="rect" id="node7" href="$classCConfig.html#ae737a0ea7c69c92b1927b070d6bd58a8" title="Get the pressure drop between two surfaces." alt="" coords="271,318,423,359"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a52c05341b204082a94dee85d4a818fc5" title="Get the secondary flow strength at the surface." alt="" coords="271,383,423,425"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a75fad7c6233581733167d28e4cddfc23" title="Get the relative secondary flow strength at the surface." alt="" coords="267,449,427,490"/>
+<area shape="rect" id="node10" href="$classCConfig.html#add0e2e74702898f639820619c1301dfa" title="Get avg species_0 at a boundary." alt="" coords="271,514,423,555"/>
+<area shape="rect" id="node11" href="$classCConfig.html#af583f3ffd9b41557c21ada674ac19901" title="Get the species variance at a boundary." alt="" coords="271,579,423,621"/>
+<area shape="rect" id="node12" href="$classCConfig.html#a784b1cca9946f3d50edda1e8253d300b" title="Get the temperature at an outlet boundary." alt="" coords="271,645,423,686"/>
+<area shape="rect" id="node13" href="$classCConfig.html#a423b882c56a7a97e4fffd26772a32975" title="Get the total pressure at an outlet boundary." alt="" coords="271,710,423,751"/>
+<area shape="rect" id="node14" href="$classCConfig.html#a8304cb78304483a918f78cced3601dca" title="Get the streamwise flow uniformity at the surface." alt="" coords="271,775,423,817"/>
+<area shape="rect" id="node15" href="$classCConfig.html#a614c55e8d7945a11d92d7b51851291c2" title="Get the weight of objective function. There are several options: Drag coefficient,..." alt="" coords="273,841,421,882"/>
+</map>

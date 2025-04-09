@@ -1,0 +1,11 @@
+<map id="CAdjElasticityOutput::SetHistoryOutputFields" name="CAdjElasticityOutput::SetHistoryOutputFields">
+<area shape="rect" id="node1" title="Set the available history output fields." alt="" coords="5,179,185,221"/>
+<area shape="rect" id="node2" href="$classCOutput.html#ad5ee424d364346cbd6dc27ffbab35e0a" title="Add a new field to the history output." alt="" coords="233,5,432,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a62ca95c832d0e3492d1a55320b0c06e8" title="Decide whether to apply DE effects to the model." alt="" coords="247,56,419,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a424e952127d9f46fc73e8e0ed2b130ed" title="Decide whether to apply dead loads to the model." alt="" coords="249,107,417,133"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a98aa6a85c12b07a8428a04d264b2d26f" title="Get the number of different materials for the elasticity solver." alt="" coords="235,157,431,184"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a5e7b3c84f3758518ab6c15cd9aa074da" title="Get the number of different values for the modulus of the electric field." alt="" coords="253,209,412,250"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a1332c6dca314455ec30e77738914da47" title="Identifies if the mesh is matching or not (temporary, while implementing interpolation procedures)." alt="" coords="239,275,426,301"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a85d2e3cf43b77c63642c40c235b853f3" title="Check if the multizone problem is solved for time domain." alt="" coords="235,325,430,352"/>
+<area shape="rect" id="node9" href="$namespacePrintingToolbox.html#a382f3911ccba468c241c530ae0c78b63" title=" " alt="" coords="261,377,404,418"/>
+</map>

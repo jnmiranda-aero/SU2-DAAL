@@ -1,0 +1,6 @@
+<map id="CVariable::SetSolution_Pred" name="CVariable::SetSolution_Pred">
+<area shape="rect" id="node1" title="A virtual member. Set the value of the old solution." alt="" coords="241,64,444,91"/>
+<area shape="rect" id="node2" href="$classCFEASolver.html#ac693299e88dfc4daaf1b2f410ec8351d" title="Load a solution from a restart file." alt="" coords="8,5,191,32"/>
+<area shape="rect" id="node3" href="$classCFEASolver.html#ae0e96ff4b61e4928db3d2e55616ff8f6" title="Predictor for structural displacements based on previous iterations." alt="" coords="5,57,193,98"/>
+<area shape="rect" id="node4" href="$classCFEASolver.html#a5b1b860ae2496eca84fc5ba91509147a" title="Aitken&#39;s relaxation of the solution." alt="" coords="16,122,183,163"/>
+</map>

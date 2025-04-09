@@ -1,0 +1,7 @@
+<map id="CEulerSolver::ComputeBackVelocity" name="CEulerSolver::ComputeBackVelocity">
+<area shape="rect" id="node1" title="it take a velocity in the cartesian reference of framework and transform into the turbomachinery fram..." alt="" coords="284,78,488,119"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a40fad0a57e8dcba8a8f4d4fa8eab02f0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="35,5,206,32"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a8e036f2dff1d945d814c93a74159a3cc" title="Impose the boundary condition using characteristic recostruction." alt="" coords="5,56,236,83"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#aba587fb4b29f6925b9a669b0f31d449f" title="Set the solution using the Freestream values." alt="" coords="16,107,225,149"/>
+<area shape="rect" id="node5" href="$classCEulerSolver.html#afe2f428da073b80f64c41422971f9748" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="20,173,221,214"/>
+</map>

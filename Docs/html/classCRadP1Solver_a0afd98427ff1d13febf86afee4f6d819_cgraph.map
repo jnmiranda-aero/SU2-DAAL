@@ -1,0 +1,14 @@
+<map id="CRadP1Solver::Source_Residual" name="CRadP1Solver::Source_Residual">
+<area shape="rect" id="node1" title="Source term computation." alt="" coords="5,201,171,242"/>
+<area shape="rect" id="node2" href="$classCNumerics.html#aa0ca13663a047ef2640b377b33875e29" title="Compute the numerical residual." alt="" coords="227,5,443,32"/>
+<area shape="rect" id="node3" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="263,56,407,83"/>
+<area shape="rect" id="node4" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="251,107,419,133"/>
+<area shape="rect" id="node5" href="$classCPoint.html#a35a504401472dfa76ef1187a5675414f" title="Get area or volume of the control volume." alt="" coords="263,157,407,184"/>
+<area shape="rect" id="node6" href="$classCNumerics.html#a028c500ba7ce96d3af061fc8218f76f1" title="Set the value of the primitive variables." alt="" coords="244,208,425,235"/>
+<area shape="rect" id="node7" href="$classCNumerics.html#ad29b2a0cb771eca1276a336596da083c" title="Set the value of the radiation variable." alt="" coords="251,259,419,285"/>
+<area shape="rect" id="node8" href="$classCNumerics.html#a53c24228ba235c1a0c2e4509243e5e88" title="Set the value of the volume of the control volume." alt="" coords="249,309,420,336"/>
+<area shape="rect" id="node9" href="$classCSysVector.html#a71ea6ec1ebdb77535b976bb40e7659a6" title="Subtract &quot;block&quot; from the vector, see AddBlock." alt="" coords="238,360,431,387"/>
+<area shape="rect" id="node11" href="$classCSysMatrix.html#a423b77066cf386dd6e4b95a656e4aadb" title="Short&#45;hand to AddBlock2Diag with alpha = &#45;1, i.e. subtracts from the current diagonal." alt="" coords="219,411,451,437"/>
+<area shape="rect" id="node10" href="$classCSysVector.html#aa463275cba394503a9778529fdaa4494" title="Add &quot;block&quot; to the vector, see SetBlock." alt="" coords="518,360,682,387"/>
+<area shape="rect" id="node12" href="$classCSysMatrix.html#a5a4ef7eeb7f009450f575660108ed7be" title="Non overwrite version of SetBlock2Diag, also with scaling." alt="" coords="499,411,701,437"/>
+</map>

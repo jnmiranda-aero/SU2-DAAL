@@ -1,0 +1,10 @@
+<map id="CFEMStandardElementBase::Vandermonde1D" name="CFEMStandardElementBase::Vandermonde1D">
+<area shape="rect" id="node1" title="Function, which computes the Vandermonde matrix for a standard 1D edge." alt="" coords="556,123,759,165"/>
+<area shape="rect" id="node2" href="$classCFEMStandardElement.html#a0ce8e7aff7657aa636844f04bae3eac4" title="Function, which computes the Lagrangian basis functions and its derivatives for the given parametric ..." alt="" coords="275,5,502,61"/>
+<area shape="rect" id="node3" href="$classCFEMStandardElement.html#a7e662dc2ab1b4dc7a5b56cd70929af9d" title="Function, which computes the Lagrangian basis functions for the given parametric coordinates." alt="" coords="303,86,475,127"/>
+<area shape="rect" id="node4" href="$classCFEMStandardElementBase.html#abe2839ae5c0b57a17bb0b01e49a48f92" title="Function, which determines the values of the Lagrangian interpolation functions and its derivatives i..." alt="" coords="280,152,497,208"/>
+<area shape="rect" id="node7" href="$classCMeshFEM__DG.html#a99d173245492ca71a355d4c40b40b306" title="Function, which computes the time coefficients for the ADER&#45;DG predictor step." alt="" coords="269,233,508,274"/>
+<area shape="rect" id="node5" href="$classCFEMStandardBoundaryFace.html#a5a92fa174c37322a3ebd640d12ab8b3b" title="Alternative constructor." alt="" coords="5,98,221,139"/>
+<area shape="rect" id="node6" href="$classCFEMStandardInternalFace.html#a03fc34bc2e61074ab778a30b940fb634" title="Alternative constructor." alt="" coords="11,163,215,205"/>
+<area shape="rect" id="node8" href="$classCMeshFEM__DG.html#a4f30fa4373463f802c8d6f685c837263" title="Function, which computes the metric terms of the volume elements." alt="" coords="9,233,218,274"/>
+</map>

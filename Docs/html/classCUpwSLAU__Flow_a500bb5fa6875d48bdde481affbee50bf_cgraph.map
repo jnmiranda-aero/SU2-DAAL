@@ -1,0 +1,9 @@
+<map id="CUpwSLAU_Flow::ComputeMassAndPressureFluxes" name="CUpwSLAU_Flow::ComputeMassAndPressureFluxes">
+<area shape="rect" id="node1" title="Mass flux and pressure for the SLAU and SLAU2 schemes." alt="" coords="5,74,239,115"/>
+<area shape="rect" id="node2" href="$classCNumerics.html#a4ca83d358fc275fff714bec4cc747217" title="Calculate the central/upwind blending function for a face" alt="" coords="287,31,516,57"/>
+<area shape="rect" id="node6" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="347,81,456,108"/>
+<area shape="rect" id="node7" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="378,132,425,159"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="583,5,764,32"/>
+<area shape="rect" id="node5" href="$classCConfig.html#ac918ef9330aef4d77346ab40d12ed178" title="Get the Kind of Roe Low Dissipation Scheme for Unsteady flows." alt="" coords="564,56,783,83"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="831,5,1016,32"/>
+</map>

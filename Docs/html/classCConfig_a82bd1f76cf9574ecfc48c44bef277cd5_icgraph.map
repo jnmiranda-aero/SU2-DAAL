@@ -1,0 +1,12 @@
+<map id="CConfig::SetMarker_All_SendRecv" name="CConfig::SetMarker_All_SendRecv">
+<area shape="rect" id="node1" title="Set if a marker val_marker is going to be sent or receive val_index from another domain." alt="" coords="801,165,948,207"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#a53c554e57be8227097d529b75cc9dc49" title="Broadcast the marker tags for all boundaries from the master rank to all other ranks." alt="" coords="547,5,707,47"/>
+<area shape="rect" id="node4" href="$classCPhysicalGeometry.html#ae8bc780573f7358809e4556f75a3f5de" title="Load the local surface elements after partitioning (owned and ghost) into the geometry class objects." alt="" coords="546,71,709,112"/>
+<area shape="rect" id="node5" href="$classCPhysicalGeometry.html#a23692062ec01893ef6b5ae53fcbbf022" title="Loads the boundary elements (markers) from the mesh reader object into the primal element data struct..." alt="" coords="501,136,753,177"/>
+<area shape="rect" id="node8" href="$classCPhysicalGeometry.html#aa222a46292ba9ba3b03e581587bdbfb6" title="Reads for the FEM solver the geometry of the grid and adjust the boundary conditions with the configu..." alt="" coords="211,195,453,236"/>
+<area shape="rect" id="node9" href="$classCPhysicalGeometry.html#ab884b171a834b35e6ee2829af7c9d859" title="Reads for the FEM solver the geometry of the grid and adjust the boundary conditions with the configu..." alt="" coords="217,260,447,301"/>
+<area shape="rect" id="node10" href="$classCPhysicalGeometry.html#a1932ad72c420cb68fc9e0c13ae77d695" title="Set the send receive boundaries of the grid." alt="" coords="549,304,706,345"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#addad3f466423ba9243a396763d442f9a" title="Accepts a geometry container holding a linearly partitioned grid with coloring performed by ParMETIS,..." alt="" coords="253,35,411,76"/>
+<area shape="rect" id="node6" href="$classCPhysicalGeometry.html#a88fc7f2ba5656a97d1e34884b51ae984" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file in para..." alt="" coords="253,129,411,171"/>
+<area shape="rect" id="node7" href="$classCPhysicalGeometry.html#a075a737b341a64de5463ddd41096692e" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file." alt="" coords="5,195,163,236"/>
+</map>

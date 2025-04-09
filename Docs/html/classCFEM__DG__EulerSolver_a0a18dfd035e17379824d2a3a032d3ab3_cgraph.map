@@ -1,0 +1,5 @@
+<map id="CFEM_DG_EulerSolver::AccumulateSpaceTimeResidualADEROwnedElem" name="CFEM_DG_EulerSolver::AccumulateSpaceTimeResidualADEROwnedElem">
+<area shape="rect" id="node1" title="Function, which accumulates the space time residual of the ADER&#45;DG time integration scheme for the ow..." alt="" coords="5,31,240,87"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a27dc07a71d7798a849c68eda017144c8" title="Get the number of time levels for time accurate local time stepping." alt="" coords="325,5,478,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a7dafeca44456165716652649d1238bb3" title="Get the weights of the time integration points for ADER&#45;DG." alt="" coords="288,71,515,112"/>
+</map>

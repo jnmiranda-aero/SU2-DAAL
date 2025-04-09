@@ -1,0 +1,8 @@
+<map id="CNumericsRadiation::CNumericsRadiation" name="CNumericsRadiation::CNumericsRadiation">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,123,168,164"/>
+<area shape="rect" id="node2" href="$classCConfig.html#ac002d243231f861e1cb4c1ccd53abaad" title="Get the value of the absorption coefficient of the medium." alt="" coords="237,5,410,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#afbf664fbd8b2c75c5874432fdc185937" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="229,71,418,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#af27d6f00a4eac4b19ff8c5fafea23150" title="Get the kind of integration scheme (explicit or implicit) for the radiation equations." alt="" coords="229,123,418,164"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a1090e27b6b116b77739aa76882901dae" title="Get the value of the scattering coefficient of the medium." alt="" coords="239,188,408,229"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a218d027f78cd801a8734a2d4581591ad" title="Get the value of the reference temperature for non&#45;dimensionalization." alt="" coords="216,254,431,281"/>
+</map>

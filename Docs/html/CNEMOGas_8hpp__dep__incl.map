@@ -1,0 +1,51 @@
+<map id="SU2_CFD/include/fluid/CNEMOGas.hpp" name="SU2_CFD/include/fluid/CNEMOGas.hpp">
+<area shape="rect" id="node1" title="Defines the nonequilibrium gas model." alt="" coords="1521,5,1687,47"/>
+<area shape="rect" id="node2" href="$CMutationTCLib_8hpp.html" title="Defines the class for the link to Mutation++ ThermoChemistry library." alt="" coords="1187,95,1352,136"/>
+<area shape="rect" id="node3" href="$CNEMONumerics_8hpp.html" title="Base class template NEMO numerics." alt="" coords="982,184,1191,225"/>
+<area shape="rect" id="node19" href="$CSU2TCLib_8hpp.html" title="Defines the classes for different user defined ThermoChemistry libraries." alt="" coords="1439,95,1604,136"/>
+<area shape="rect" id="node21" href="$CNEMOEulerSolver_8hpp.html" title="Headers of the CNEMOEulerSolver class." alt="" coords="1793,184,1977,225"/>
+<area shape="rect" id="node25" href="$CNEMOEulerVariable_8hpp.html" title="Class for defining the variables of the compressible NEMO Euler solver." alt="" coords="1865,95,2063,136"/>
+<area shape="rect" id="node49" href="$CNEMOGas_8cpp.html" title="Source of the nonequilibrium gas model." alt="" coords="2087,102,2329,129"/>
+<area shape="rect" id="node18" href="$CNEMOEulerSolver_8cpp.html" title="Headers of the CNEMOEulerSolver class." alt="" coords="1673,273,1847,315"/>
+<area shape="rect" id="node4" href="$NEMO_2convection_2ausm__slau_8hpp.html" title="Declaration of numerics classes for the AUSM and SLAU family of schemes in NEMO." alt="" coords="227,273,469,315"/>
+<area shape="rect" id="node7" href="$lax_8hpp.html" title="Declaration of numerics classes for Lax centered scheme." alt="" coords="493,273,691,315"/>
+<area shape="rect" id="node9" href="$msw_8hpp.html" title="Declaration of numerics classes for modified Steger&#45;Warming scheme." alt="" coords="715,273,917,315"/>
+<area shape="rect" id="node11" href="$NEMO_2convection_2roe_8hpp.html" title="Declarations of numerics classes for Roe&#45;type schemes in NEMO." alt="" coords="1400,273,1597,315"/>
+<area shape="rect" id="node13" href="$NEMO__diffusion_8hpp.html" title="Declarations of numerics classes for viscous flux computation." alt="" coords="1174,273,1375,315"/>
+<area shape="rect" id="node15" href="$NEMO__sources_8hpp.html" title="Declarations of numerics classes for source&#45;term integration." alt="" coords="5,273,203,315"/>
+<area shape="rect" id="node17" href="$CNEMONumerics_8cpp.html" title="Implementation of the base for NEMO numerics classes. Contains methods for common tasks,..." alt="" coords="941,273,1149,315"/>
+<area shape="rect" id="node5" href="$CDriver_8cpp.html" title="The main subroutines for driving single or multi&#45;zone problems." alt="" coords="940,370,1095,411"/>
+<area shape="rect" id="node6" href="$NEMO_2convection_2ausm__slau_8cpp.html" title="Implementations of the AUSM&#45;family of schemes in NEMO." alt="" coords="257,363,439,419"/>
+<area shape="rect" id="node8" href="$lax_8cpp.html" title="Implementations of Lax centered scheme." alt="" coords="496,370,688,411"/>
+<area shape="rect" id="node10" href="$msw_8cpp.html" title="Implementations of the modified Steger&#45;Warming scheme." alt="" coords="713,370,916,411"/>
+<area shape="rect" id="node12" href="$NEMO_2convection_2roe_8cpp.html" title="Implementations of Roe&#45;type schemes in NEMO." alt="" coords="1402,370,1595,411"/>
+<area shape="rect" id="node14" href="$NEMO__diffusion_8cpp.html" title="Implementation of numerics classes for discretization of viscous fluxes in fluid flow NEMO problems." alt="" coords="1175,370,1375,411"/>
+<area shape="rect" id="node16" href="$NEMO__sources_8cpp.html" title="Implementation of numerics classes for integration of source terms in fluid flow NEMO problems." alt="" coords="7,370,201,411"/>
+<area shape="rect" id="node20" href="$CSU2TCLib_8cpp.html" title="Source of user defined 2T nonequilibrium gas model." alt="" coords="1307,191,1546,218"/>
+<area shape="rect" id="node22" href="$CNEMONSSolver_8hpp.html" title="Headers of the CNEMONSSolver class." alt="" coords="1923,273,2107,315"/>
+<area shape="rect" id="node24" href="$CSolverFactory_8cpp.html" title="Main subroutines for CSolverFactoryclass." alt="" coords="2071,556,2227,597"/>
+<area shape="rect" id="node23" href="$CNEMONSSolver_8cpp.html" title="Headers of the CNEMONSSolver class." alt="" coords="1973,370,2133,411"/>
+<area shape="rect" id="node26" href="$CNEMONSVariable_8hpp.html" title="Class for defining the variables of the compressible NEMO Navier&#45;Stokes solver." alt="" coords="2023,184,2220,225"/>
+<area shape="rect" id="node28" href="$CPrimitiveIndices_8hpp.html" title="Abstract representation of flow primitive variable indices that tries to be efficient." alt="" coords="2308,184,2505,225"/>
+<area shape="rect" id="node47" href="$species__sources_8cpp.html" title="Implementation of numerics classes for integration of species transport source&#45;terms." alt="" coords="2530,184,2742,225"/>
+<area shape="rect" id="node48" href="$CNEMOEulerVariable_8cpp.html" title="Definition of the solution fields." alt="" coords="2766,184,2954,225"/>
+<area shape="rect" id="node27" href="$CNEMONSVariable_8cpp.html" title="Definition of the solution fields." alt="" coords="2181,273,2355,315"/>
+<area shape="rect" id="node29" href="$CScalarSolver_8hpp.html" title="Headers of the CScalarSolver class." alt="" coords="2379,273,2563,315"/>
+<area shape="rect" id="node45" href="$CDriverBase_8cpp.html" title=" " alt="" coords="2587,273,2741,315"/>
+<area shape="rect" id="node46" href="$CFlowOutput_8cpp.html" title="Common functions for flow output." alt="" coords="2766,273,2917,315"/>
+<area shape="rect" id="node30" href="$CHeatSolver_8hpp.html" title="Headers of the CHeatSolver class." alt="" coords="2365,370,2549,411"/>
+<area shape="rect" id="node32" href="$CScalarSolver_8inl.html" title="Main subroutines of CScalarSolver class." alt="" coords="2573,370,2757,411"/>
+<area shape="rect" id="node35" href="$CSpeciesSolver_8hpp.html" title="Headers of the CSpeciesSolver class." alt="" coords="2157,370,2341,411"/>
+<area shape="rect" id="node38" href="$CTurbSolver_8hpp.html" title="Headers of the CTurbSolver class." alt="" coords="2781,370,2965,411"/>
+<area shape="rect" id="node31" href="$CHeatSolver_8cpp.html" title="Main subroutines for solving the heat equation." alt="" coords="2393,467,2549,508"/>
+<area shape="rect" id="node33" href="$CSpeciesSolver_8cpp.html" title="Main subroutines of CSpeciesSolver class." alt="" coords="2213,467,2369,508"/>
+<area shape="rect" id="node34" href="$CTurbSolver_8cpp.html" title="Main subroutines of CTurbSolver class." alt="" coords="2573,467,2729,508"/>
+<area shape="rect" id="node36" href="$CSpeciesFlameletSolver_8hpp.html" title="Headers of the CSpeciesFlameletSolver class." alt="" coords="1637,467,1848,508"/>
+<area shape="rect" id="node37" href="$CSpeciesFlameletSolver_8cpp.html" title="Main subroutines of CSpeciesFlameletSolver class." alt="" coords="1567,556,1777,597"/>
+<area shape="rect" id="node39" href="$CTransLMSolver_8hpp.html" title="Headers of the CTransLMSolver class." alt="" coords="3169,467,3353,508"/>
+<area shape="rect" id="node41" href="$CTurbSASolver_8hpp.html" title="Headers of the CTurbSASolver class." alt="" coords="2753,467,2937,508"/>
+<area shape="rect" id="node43" href="$CTurbSSTSolver_8hpp.html" title="Headers of the CTurbSSTSolver class." alt="" coords="2961,467,3145,508"/>
+<area shape="rect" id="node40" href="$CTransLMSolver_8cpp.html" title="Main subroutines for Langtry&#45;Menter Transition model solver." alt="" coords="3183,556,3339,597"/>
+<area shape="rect" id="node42" href="$CTurbSASolver_8cpp.html" title="Main subroutines of CTurbSASolver class." alt="" coords="2767,556,2923,597"/>
+<area shape="rect" id="node44" href="$CTurbSSTSolver_8cpp.html" title="Main subroutines of CTurbSSTSolver class." alt="" coords="2975,556,3131,597"/>
+</map>

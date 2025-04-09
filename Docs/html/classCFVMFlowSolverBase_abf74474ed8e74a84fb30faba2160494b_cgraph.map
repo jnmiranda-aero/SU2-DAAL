@@ -1,0 +1,11 @@
+<map id="CFVMFlowSolverBase::SumEdgeFluxes" name="CFVMFlowSolverBase::SumEdgeFluxes">
+<area shape="rect" id="node1" title="Sum the edge fluxes for each cell to populate the residual vector, only used on coarse grids." alt="" coords="5,132,169,173"/>
+<area shape="rect" id="node2" href="$classCSysVector.html#aa463275cba394503a9778529fdaa4494" title="Add &quot;block&quot; to the vector, see SetBlock." alt="" coords="482,190,646,217"/>
+<area shape="rect" id="node3" href="$classCSysVector.html#a06df692a3fb2c11146aa10ee5e76a182" title="Get pointer to a block." alt="" coords="235,63,397,90"/>
+<area shape="rect" id="node4" href="$classCPoint.html#a373a79919286952eff3ff785a1586ac2" title="Get inner iterator to loop over neighbor edges." alt="" coords="249,13,383,39"/>
+<area shape="rect" id="node7" href="$classCEdge.html#a5cd6f283cb2f3e4dfc037c0db6ae1055" title="Get left/right node index defining the edge." alt="" coords="252,165,380,191"/>
+<area shape="rect" id="node8" href="$classCSysVector.html#a9990ad4ea225c98a1af50e00fecbc56f" title="Set the values to zero for one block." alt="" coords="217,215,415,242"/>
+<area shape="rect" id="node9" href="$classCSysVector.html#a71ea6ec1ebdb77535b976bb40e7659a6" title="Subtract &quot;block&quot; from the vector, see AddBlock." alt="" coords="219,114,413,141"/>
+<area shape="rect" id="node5" href="$classCCompressedSparsePattern.html#a69b7d1cd5652311246a3fba8c5f0e3f5" title=" " alt="" coords="463,5,665,47"/>
+<area shape="rect" id="node6" href="$classcontainer__details_1_1AccessorImpl.html#a5b5318f7212e57c13e464c398f74b3d5" title=" " alt="" coords="713,5,860,47"/>
+</map>

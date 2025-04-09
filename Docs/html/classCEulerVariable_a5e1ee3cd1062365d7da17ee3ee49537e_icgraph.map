@@ -1,0 +1,13 @@
+<map id="CEulerVariable::GetPressure" name="CEulerVariable::GetPressure">
+<area shape="rect" id="node1" title="Get the flow pressure." alt="" coords="817,195,1021,222"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a11facef76cf89c53ed82c54895c057a9" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="590,5,747,47"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a908e4ec3ecb8f2f8af197bb30a1aed70" title="Impose a subsonic inlet boundary condition." alt="" coords="585,71,752,98"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#a220a1c92ae192cc3962acf187cc0628c" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="577,123,761,164"/>
+<area shape="rect" id="node5" href="$classCEulerSolver.html#a4effd63e51aef9426ea0e327c104bb30" title="It computes Fourier transformation for the needed quantities along the pitch for each span in turboma..." alt="" coords="577,188,761,229"/>
+<area shape="rect" id="node6" href="$classCEulerSolver.html#a4432952bec1a64ea33d6c007a4edf4d0" title="Compute the dissipation sensor for centered schemes." alt="" coords="572,253,765,295"/>
+<area shape="rect" id="node10" href="$classCEulerSolver.html#a82314e58faf4d98a5f3733f43d64de92" title="Compute the undivided laplacian for the solution." alt="" coords="569,319,769,360"/>
+<area shape="rect" id="node11" href="$classCEulerSolver.html#afe2f428da073b80f64c41422971f9748" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="568,384,769,425"/>
+<area shape="rect" id="node7" href="$classCEulerSolver.html#a0d6f93feba8d6aad18edf3594213042b" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="257,294,520,321"/>
+<area shape="rect" id="node8" href="$classCEulerSolver.html#ab08b6aa95648e7ab973f9f247fe54b31" title="Compute primitive variables and their gradients." alt="" coords="5,269,209,295"/>
+<area shape="rect" id="node9" href="$classCNSSolver.html#af83e7cb773797239cdc98fc4d202d32f" title="Restart residual and compute gradients." alt="" coords="13,319,202,346"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="CGeometry::ComputeModifiedSymmetryNormals" name="CGeometry::ComputeModifiedSymmetryNormals">
+<area shape="rect" id="node1" title="Computes modified normals at intersecting symmetry planes." alt="" coords="5,153,224,194"/>
+<area shape="rect" id="node2" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="784,152,1001,179"/>
+<area shape="rect" id="node3" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="289,43,436,70"/>
+<area shape="rect" id="node4" href="$classCConfig.html#ae003cd8f406eaaa91849a774c9a20730" title="Get the kind of boundary for each marker." alt="" coords="289,94,437,136"/>
+<area shape="rect" id="node5" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="293,160,432,187"/>
+<area shape="rect" id="node6" href="$classCVertex.html#a57cacfe764770e6c0e54c278cb584f7c" title="Copy the the normal vector of a face." alt="" coords="287,211,439,238"/>
+<area shape="rect" id="node7" href="$classCPoint.html#aa23a2b42b38e6d611038eeafdb7051d0" title="Get the vertex that compose the control volume for a marker." alt="" coords="294,262,431,288"/>
+<area shape="rect" id="node8" href="$group__GeometryToolbox.html#gad8b24e50333c9a8378f7abf18222f36a" title=" " alt="" coords="272,312,453,339"/>
+<area shape="rect" id="node9" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="595,262,642,288"/>
+<area shape="rect" id="node10" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="501,312,736,339"/>
+</map>

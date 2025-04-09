@@ -1,0 +1,4 @@
+<map id="CConfig::GetDirichletSurfaceBound" name="CConfig::GetDirichletSurfaceBound">
+<area shape="rect" id="node1" title="Check if we use zero Dirichlet boundarys on the bound of the surface." alt="" coords="296,5,503,47"/>
+<area shape="rect" id="node2" href="$classCGradientSmoothingSolver.html#a0382b58490654ebb76c1999713160724" title="Main routine to apply the method only on the surface for mesh sensitivities Projects and smoothes onl..." alt="" coords="5,5,248,47"/>
+</map>

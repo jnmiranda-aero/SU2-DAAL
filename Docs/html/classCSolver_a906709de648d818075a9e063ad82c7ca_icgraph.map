@@ -1,0 +1,6 @@
+<map id="CSolver::RegisterSolutionExtra" name="CSolver::RegisterSolutionExtra">
+<area shape="rect" id="node1" title="Register In&#45; or Output." alt="" coords="240,71,427,112"/>
+<area shape="rect" id="node2" href="$classCDiscAdjSolver.html#aa229f12a021f2b1a7b4467fe000dc0b9" title=" " alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node3" href="$classCDiscAdjSolver.html#ab6592e845c8a040daa892707b0ac57d6" title="Performs the preprocessing of the adjoint AD&#45;based solver. Registers all necessary variables that are..." alt="" coords="7,71,190,112"/>
+<area shape="rect" id="node4" href="$classCDiscAdjSolver.html#a00f168c587fac0143133047806825b72" title="Performs the preprocessing of the adjoint AD&#45;based solver. Registers all necessary variables on the t..." alt="" coords="7,136,190,177"/>
+</map>

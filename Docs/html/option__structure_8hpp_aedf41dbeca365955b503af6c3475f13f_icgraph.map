@@ -1,0 +1,7 @@
+<map id="nFacesOfElementType" name="nFacesOfElementType">
+<area shape="rect" id="node1" title="Get the number of faces of the element." alt="" coords="547,35,712,61"/>
+<area shape="rect" id="node2" href="$classCPrimalGridFEM.html#a3aec831e226c68f1bb405ec224b54b1d" title="Constructor using data to initialize the element." alt="" coords="256,5,499,32"/>
+<area shape="rect" id="node3" href="$classCPrimalGridFEM.html#ac3054ca92ecdd09e3867195fbb2d808a" title="Static member function to get the local the corner points of all the faces of this element...." alt="" coords="281,57,474,98"/>
+<area shape="rect" id="node4" href="$classCVolumeElementFEM.html#a66d631783d0af82815effed04881bfbf" title="Get all the corner points of all the faces of this element. It must be made sure that the numbering o..." alt="" coords="16,23,197,65"/>
+<area shape="rect" id="node5" href="$classCPrimalGridFEM.html#aaa086beb057f409aadfc173bbf6c3197" title="Get all the corner points of all the faces of this element. It must be made sure that the numbering o..." alt="" coords="5,89,208,130"/>
+</map>

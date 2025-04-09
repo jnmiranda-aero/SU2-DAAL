@@ -1,0 +1,5 @@
+<map id="CFEMStandardElement::GetMatVandermondeInv" name="CFEMStandardElement::GetMatVandermondeInv">
+<area shape="rect" id="node1" title="Function, which makes available the matrix storage of the inverse of Vandermonde matrix of solution D..." alt="" coords="499,5,687,47"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__NSSolver.html#a04fa3111afb642b208d97efe113ff1cf" title="Per&#45;Olof Persson&#39;s method for capturing shock in DG." alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__NSSolver.html#ac91dc7ef6eb5a6ede92a91708201e782" title="Compute the artificial viscosity for shock capturing in DG." alt="" coords="5,5,204,47"/>
+</map>

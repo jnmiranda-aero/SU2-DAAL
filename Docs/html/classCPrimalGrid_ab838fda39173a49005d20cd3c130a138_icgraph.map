@@ -1,0 +1,5 @@
+<map id="CPrimalGrid::SetDomainElement" name="CPrimalGrid::SetDomainElement">
+<area shape="rect" id="node1" title="Set the index of the domain element of which this boundary element is a face." alt="" coords="240,46,475,73"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#af4476da662ee1160781bb00d9b0f50c8" title="Set the volume element associated to each boundary element." alt="" coords="20,5,177,47"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#a0a1295415b0ff3105673f5733682e151" title="Set the domains for FEM grid partitioning using ParMETIS." alt="" coords="5,71,192,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CConfig::GetTotalDV_Penalty" name="CConfig::GetTotalDV_Penalty">
+<area shape="rect" id="node1" title="Get the penalty weight value for the objective function." alt="" coords="465,5,619,47"/>
+<area shape="rect" id="node2" href="$classCFEASolver.html#a189b5d1e3d6a83b6f0124eb16acc1a95" title="Compute the penalty due to the stiffness increase." alt="" coords="256,5,417,47"/>
+<area shape="rect" id="node3" href="$classCFEASolver.html#ab4fa9086b598c5778c9c0403a5626d1b" title="Postprocessing." alt="" coords="5,13,208,39"/>
+</map>

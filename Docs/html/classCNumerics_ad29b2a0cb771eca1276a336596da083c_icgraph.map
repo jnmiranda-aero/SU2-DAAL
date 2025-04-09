@@ -1,0 +1,5 @@
+<map id="CNumerics::SetRadVar" name="CNumerics::SetRadVar">
+<area shape="rect" id="node1" title="Set the value of the radiation variable." alt="" coords="224,46,392,73"/>
+<area shape="rect" id="node2" href="$classCRadP1Solver.html#a0afd98427ff1d13febf86afee4f6d819" title="Source term computation." alt="" coords="8,5,173,47"/>
+<area shape="rect" id="node3" href="$classCRadP1Solver.html#a63240e4981e0dcb2963799c9aada11f4" title="Compute the viscous residuals for the turbulent equation." alt="" coords="5,71,176,112"/>
+</map>

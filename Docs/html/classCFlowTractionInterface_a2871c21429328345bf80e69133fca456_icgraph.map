@@ -1,0 +1,5 @@
+<map id="CFlowTractionInterface::ComputeVertexAreas" name="CFlowTractionInterface::ComputeVertexAreas">
+<area shape="rect" id="node1" title="Computes vertex areas (FEA side) for when tractions need to be integrated." alt="" coords="273,39,444,80"/>
+<area shape="rect" id="node2" href="$classCDiscAdjFlowTractionInterface.html#a74f759fe6787e453fe99d80cec16becd" title="Retrieve some constants needed for the calculations." alt="" coords="5,5,225,47"/>
+<area shape="rect" id="node3" href="$classCFlowTractionInterface.html#a027d7b92f6e0cc271fabd9a46b60616a" title="Retrieve some constants needed for the calculations." alt="" coords="26,71,205,112"/>
+</map>

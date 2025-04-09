@@ -1,0 +1,11 @@
+<map id="CFluidModel::SetTDState_hs" name="CFluidModel::SetTDState_hs">
+<area shape="rect" id="node1" title="virtual member that would be different for each gas model implemented" alt="" coords="561,85,768,112"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a4ad4a65b3fc5a51b1561436736f7f7ca" title="Impose the boundary condition using characteristic recostruction." alt="" coords="300,5,496,32"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a8e036f2dff1d945d814c93a74159a3cc" title="Impose the boundary condition using characteristic recostruction." alt="" coords="283,56,513,83"/>
+<area shape="rect" id="node4" href="$classCFEM__DG__EulerSolver.html#a5bfdc0bca1daa8e5d716d4fc3c7f5867" title="Function, which computes the boundary states in the integration points of the boundary face by applyi..." alt="" coords="299,107,497,149"/>
+<area shape="rect" id="node7" href="$classCTurbomachineryState.html#a9d68929143e8392efdce0024d0db6711" title=" " alt="" coords="313,173,483,214"/>
+<area shape="rect" id="node5" href="$classCFEM__DG__EulerSolver.html#aaff04081aba8d9e24f0e615161e8020f" title="Impose the boundary condition using characteristic reconstruction. It is a virtual function,..." alt="" coords="37,42,203,83"/>
+<area shape="rect" id="node6" href="$classCFEM__DG__NSSolver.html#a22b8079ccea001f1a35d236bfb2750d4" title="Impose the boundary condition using characteristic reconstruction." alt="" coords="31,107,209,149"/>
+<area shape="rect" id="node8" href="$classCTurbineBladePerformance.html#aaa35eca235d0770990ba278a06955340" title=" " alt="" coords="21,173,219,214"/>
+<area shape="rect" id="node9" href="$classCCompressorBladePerformance.html#a0f893ece6419441d7e0060a0f08ed2b1" title=" " alt="" coords="5,238,235,279"/>
+</map>

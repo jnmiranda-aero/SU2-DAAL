@@ -1,0 +1,11 @@
+<map id="CWallModelLogLaw::WallShearStressAndHeatFlux" name="CWallModelLogLaw::WallShearStressAndHeatFlux">
+<area shape="rect" id="node1" title="Function, which computes the wall shear stress and heat flux from the data at the exchange location." alt="" coords="5,175,225,217"/>
+<area shape="rect" id="node2" href="$group__SIMD.html#gaf7650d08e2a58ed700276ddc70f72f96" title=" " alt="" coords="386,5,431,32"/>
+<area shape="rect" id="node3" href="$classCFluidModel.html#a9b12761e0a9de292d4929f053e9047f7" title="Get fluid specific heat at constant pressure." alt="" coords="333,56,484,83"/>
+<area shape="rect" id="node4" href="$classCFluidModel.html#aa413b297485cf36c0498b7a64f048ece" title="Get fluid specific heat at constant volume." alt="" coords="333,107,484,133"/>
+<area shape="rect" id="node5" href="$classCFluidModel.html#aea74264efe7875c6f8c0aa62e3ccd62a" title="Get fluid density." alt="" coords="317,157,501,184"/>
+<area shape="rect" id="node6" href="$classCFluidModel.html#ad0e35cb58779dc8fe3265c85b6c29905" title="Get fluid dynamic viscosity." alt="" coords="285,208,532,235"/>
+<area shape="rect" id="node7" href="$classCFluidModel.html#a376bce2f006ecf2393ac1c25ff734c2a" title="Get fluid thermal conductivity." alt="" coords="273,259,544,285"/>
+<area shape="rect" id="node8" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="354,309,463,336"/>
+<area shape="rect" id="node9" href="$classCFluidModel.html#a32d65726b075ea29a29f806d12cf0a5a" title="virtual member that would be different for each gas model implemented" alt="" coords="305,360,512,387"/>
+</map>

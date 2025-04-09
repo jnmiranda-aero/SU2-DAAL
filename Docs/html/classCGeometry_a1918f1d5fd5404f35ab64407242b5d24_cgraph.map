@@ -1,0 +1,13 @@
+<map id="CGeometry::GetEdgeColoring" name="CGeometry::GetEdgeColoring">
+<area shape="rect" id="node1" title="Get the edge coloring." alt="" coords="5,148,217,175"/>
+<area shape="rect" id="node2" href="$group__Graph.html#gaea8c9d7c72288411a5bc2c8dc14c7086" title="Computes the efficiency of a grid coloring for given number of threads and chunk size." alt="" coords="299,5,436,32"/>
+<area shape="rect" id="node4" href="$group__Graph.html#ga527868d0180e46647d482ad97bba6b32" title="Color contiguous groups of outer indices of a sparse pattern such that within each color,..." alt="" coords="295,123,439,149"/>
+<area shape="rect" id="node7" href="$classCCompressedSparsePattern.html#a1e38e3a6aba12be3be4804b1c132721d" title=" " alt="" coords="266,57,469,98"/>
+<area shape="rect" id="node9" href="$classCEdge.html#a5cd6f283cb2f3e4dfc037c0db6ae1055" title="Get left/right node index defining the edge." alt="" coords="303,173,431,200"/>
+<area shape="rect" id="node10" href="$omp__structure_8hpp.html#a2f7befecc7b1a4eaade8d81fa6524225" title="Maximum number of threads available." alt="" coords="517,260,688,287"/>
+<area shape="rect" id="node11" href="$classCGeometry.html#a44e61cae2c9f90993e25988f794acb9f" title="Force the natural (sequential) edge coloring." alt="" coords="265,225,469,266"/>
+<area shape="rect" id="node3" href="$omp__structure_8hpp.html#a1c00281f52b615b111a4990b2d2a5157" title="Integer division rounding up." alt="" coords="553,5,652,32"/>
+<area shape="rect" id="node5" href="$group__Graph.html#gaa96cec8c2a59051ef7562b474f7ca0a1" title="Create the natural coloring (equivalent to the normal sequential loop order) for a given number of in..." alt="" coords="520,205,685,232"/>
+<area shape="rect" id="node6" href="$classcontainer__details_1_1AccessorImpl.html#a5b5318f7212e57c13e464c398f74b3d5" title=" " alt="" coords="736,198,883,239"/>
+<area shape="rect" id="node8" href="$classcontainer__details_1_1AccessorImpl.html#a7b309031025a2ca25e938c3536494ece" title=" " alt="" coords="523,57,682,98"/>
+</map>

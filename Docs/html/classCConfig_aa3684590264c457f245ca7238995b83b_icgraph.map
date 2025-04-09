@@ -1,0 +1,9 @@
+<map id="CConfig::GetKind_TimeIntScheme_AdjTurb" name="CConfig::GetKind_TimeIntScheme_AdjTurb">
+<area shape="rect" id="node1" title="Get the kind of integration scheme (explicit or implicit) for the adjoint turbulence equations." alt="" coords="261,169,451,211"/>
+<area shape="rect" id="node2" href="$classCUpwLin__AdjTurb.html#a81bd707418dbdc9a23023d729fec8a19" title="Compute the adjoint upwind flux between two nodes i and j." alt="" coords="9,5,210,47"/>
+<area shape="rect" id="node3" href="$classCAvgGrad__AdjTurb.html#aa89d7df3e7fc6c345cbfef333f3d6b79" title="Compute the adjoint turbulent residual using average of gradients and a derivative correction." alt="" coords="5,71,213,112"/>
+<area shape="rect" id="node4" href="$classCAvgGradCorrected__AdjTurb.html#ab406d5307f9270164a09b4ceaeeed756" title="Compute the adjoint turbulent residual using average of gradients and a derivative correction." alt="" coords="7,136,211,177"/>
+<area shape="rect" id="node5" href="$classCSourceConservative__AdjTurb.html#a7f75c945c2c5d86c020172a8118703c7" title="Source term integration using a conservative scheme." alt="" coords="9,201,209,243"/>
+<area shape="rect" id="node6" href="$classCSourcePieceWise__AdjTurb.html#aa1777b31db2d353ae98d01c88b00c2e5" title="Source term integration of the adjoint turbulence equation." alt="" coords="11,267,208,308"/>
+<area shape="rect" id="node7" href="$classCUpwSca__AdjTurb.html#a038611efb386fee94446152139b38b17" title=" " alt="" coords="7,332,212,373"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CSpeciesVariable::GetDiffusivity" name="CSpeciesVariable::GetDiffusivity">
+<area shape="rect" id="node1" title="Get the value of the mass diffusivity." alt="" coords="471,123,703,150"/>
+<area shape="rect" id="node2" href="$classCSpeciesSolver.html#ab8d9f5313c0f76388b4926f0815d3e1c" title="Impose the fluid interface boundary condition using tranfer data." alt="" coords="259,5,407,47"/>
+<area shape="rect" id="node3" href="$classCSpeciesSolver.html#a02c01af54949033097952c6562e2ee64" title="Source term computation for axisymmetric flow." alt="" coords="245,71,420,112"/>
+<area shape="rect" id="node5" href="$classCSpeciesFlameletSolver.html#a736b1d7ee4006457731975b183b88004" title="Compute the fluxes due to viscous and preferential diffusion effects of the flamelet species at a par..." alt="" coords="243,160,423,201"/>
+<area shape="rect" id="node6" href="$classCSpeciesSolver.html#ad58605ba6ee6bef0b0e2bf85c5e47ebf" title="Compute the viscous flux for the turbulent equation at a particular edge." alt="" coords="243,249,423,291"/>
+<area shape="rect" id="node4" href="$classCSpeciesFlameletSolver.html#ab432a7c07b01ab72e43e9a423e4e757f" title="Source term computation." alt="" coords="10,71,190,112"/>
+<area shape="rect" id="node7" href="$classCSpeciesSolver.html#a0bd0626f424abe221a960b1237b80496" title="Constructor of the class." alt="" coords="5,249,195,291"/>
+</map>

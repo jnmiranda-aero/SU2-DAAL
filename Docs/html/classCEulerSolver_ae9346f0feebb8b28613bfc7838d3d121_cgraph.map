@@ -1,0 +1,14 @@
+<map id="CEulerSolver::SetFarfield_AoA" name="CEulerSolver::SetFarfield_AoA">
+<area shape="rect" id="node1" title="Update the AoA and freestream velocity at the farfield." alt="" coords="5,112,220,138"/>
+<area shape="rect" id="node2" href="$classCConfig.html#aa824c1a1b3c7cd05b7be414a76e0b250" title="Get the angle of attack of the body. This is the angle between a reference line on a lifting body (of..." alt="" coords="544,14,673,41"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a9c2647c821e1b4c62af4676aab80fdcb" title="Get the value for the lift curve slope for fixed CL mode." alt="" coords="281,36,459,62"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a079a90396222697f01e0c365285c915d" title="Get the current FSI iteration number." alt="" coords="291,86,449,113"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a32f628d1d3d3e2e4888886e4cadf167b" title="Set the angle of attack." alt="" coords="307,137,433,164"/>
+<area shape="rect" id="node6" href="$classCEulerSolver.html#ab4fa5557c81f931fc824483e62ead218" title="Set gradients of coefficients for fixed CL mode." alt="" coords="268,188,472,230"/>
+<area shape="rect" id="node12" href="$classCFVMFlowSolverBase.html#a0985f8ac370fdeddf5817c58c35c4d53" title="Updates the components of the farfield velocity vector." alt="" coords="275,254,465,324"/>
+<area shape="rect" id="node7" href="$classCConfig.html#ae2a0ddd50ec6acbd74f76c7f9f167c66" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="529,94,688,121"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a6d8949230a604c04494dc5c1089d5236" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="520,145,697,172"/>
+<area shape="rect" id="node9" href="$classCConfig.html#afd39f185663752b3a48f73ff05ce89e2" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="524,196,693,222"/>
+<area shape="rect" id="node10" href="$classCConfig.html#ad7f68b41f4633cff714b1b983d90d8ea" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="524,246,693,273"/>
+<area shape="rect" id="node11" href="$classCConfig.html#a8dd670373454018b59e99a11804d4477" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="525,297,693,324"/>
+</map>

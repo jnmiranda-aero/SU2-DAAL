@@ -1,0 +1,14 @@
+<map id="CNEMOGas::ComputeGamma" name="CNEMOGas::ComputeGamma">
+<area shape="rect" id="node1" title="Compute ratio of specific heats (Gamma)." alt="" coords="1212,97,1427,123"/>
+<area shape="rect" id="node2" href="$classCNEMOEulerSolver.html#ac4a0f3b23aa55bcb5a9db6c928809c59" title="Recompute the extrapolated quantities, after MUSCL reconstruction, in a more thermodynamically consis..." alt="" coords="896,5,1108,47"/>
+<area shape="rect" id="node4" href="$classCNEMOEulerSolver.html#ad23673d38da9e895e4802b6d4d000c1b" title="Set the fluid solver nondimensionalization." alt="" coords="840,71,1164,98"/>
+<area shape="rect" id="node6" href="$classCNEMONSVariable.html#aaf19bc249dae14fccd4a739901a83efd" title="Set all the primitive variables for compressible flows." alt="" coords="891,122,1113,149"/>
+<area shape="rect" id="node7" href="$classCNEMOEulerVariable.html#aaf86b1f3586f5b0b8015ddf1311d7ce4" title="Set all the primitive variables for compressible flows." alt="" coords="923,173,1081,215"/>
+<area shape="rect" id="node3" href="$classCNEMOEulerSolver.html#a427284b43fbe1f9c373096cc4bbe5781" title="Compute the spatial integration using a upwind scheme." alt="" coords="573,5,776,47"/>
+<area shape="rect" id="node5" href="$classCNEMOEulerSolver.html#a192d56e184ee19ad0b0dd3282b74f1e6" title="Contructor of the class." alt="" coords="557,80,792,121"/>
+<area shape="rect" id="node8" href="$classCNEMOEulerSolver.html#a1448f7a4a713ada22016532249a56a95" title="Impose a supersonic inlet boundary condition." alt="" coords="589,164,760,205"/>
+<area shape="rect" id="node9" href="$classCNEMOEulerSolver.html#aa3498ebe1779c01daf8380d6a7d0aa7d" title="Computes primitive variables." alt="" coords="558,229,791,271"/>
+<area shape="rect" id="node10" href="$classCNEMOEulerSolver.html#a27f21d6dbfb7f6c600f759caf7625087" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="297,229,509,271"/>
+<area shape="rect" id="node11" href="$classCNEMOEulerSolver.html#a3c5a59b5c1c9195757626bff151dbaa9" title="Compute the velocity^2, SoundSpeed, Pressure, Enthalpy, Viscosity." alt="" coords="5,211,249,238"/>
+<area shape="rect" id="node12" href="$classCNEMONSSolver.html#aef1c13c42cd8103377619f7d94660d6a" title="Restart residual and compute gradients." alt="" coords="13,262,242,289"/>
+</map>

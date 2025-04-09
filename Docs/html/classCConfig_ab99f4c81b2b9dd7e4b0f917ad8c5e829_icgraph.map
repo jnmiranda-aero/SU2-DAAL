@@ -1,0 +1,13 @@
+<map id="CConfig::GetHeat_Flux_Ref" name="CConfig::GetHeat_Flux_Ref">
+<area shape="rect" id="node1" title="Get the reference value for the heat flux." alt="" coords="589,261,788,287"/>
+<area shape="rect" id="node2" href="$classCHeatSolver.html#a557bceb05d8bf8cb7ea1fb03d4690e06" title="Impose the (received) conjugate heat variables." alt="" coords="325,5,527,47"/>
+<area shape="rect" id="node3" href="$classCHeatSolver.html#ac8bd9350053fa2937ba6a4262f46fa2a" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="311,71,541,98"/>
+<area shape="rect" id="node4" href="$classCNEMONSSolver.html#a1d9ff4495625b00bfbf46b3ad87c4167" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="315,123,537,164"/>
+<area shape="rect" id="node6" href="$classCNEMONSSolver.html#acd1bedbd2a7588cfa7a86831d4c9dfc9" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="315,188,537,229"/>
+<area shape="rect" id="node7" href="$classCSourceIncStreamwisePeriodic__Outlet.html#abc639a9578b2cc60f99cb38744ca03b7" title="Source term integration for boundary heat sink." alt="" coords="315,253,537,295"/>
+<area shape="rect" id="node8" href="$classCFVMFlowSolverBase.html#af46a894bd89c2367215f64fa7ea7d02d" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="344,319,508,360"/>
+<area shape="rect" id="node9" href="$classCFEM__DG__NSSolver.html#a5118d674e7eb6f4865fb53f6f20eac1c" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="322,384,530,425"/>
+<area shape="rect" id="node10" href="$classCConjugateHeatInterface.html#a11264c7dda7df147258e1ee89b315ea8" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="333,449,519,491"/>
+<area shape="rect" id="node11" href="$classCHeatSolver.html#a447eade2ad3bd715f4357e89dc31ec7d" title="Evaluate heat&#45;flux related objectives." alt="" coords="331,515,521,542"/>
+<area shape="rect" id="node5" href="$classCNEMONSSolver.html#aa52e178cc5f052026e73735d6e9b847f" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="5,163,263,190"/>
+</map>

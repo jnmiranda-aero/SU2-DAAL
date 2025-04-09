@@ -1,0 +1,20 @@
+<map id="SU2_CFD/include/fluid/CSU2TCLib.hpp" name="SU2_CFD/include/fluid/CSU2TCLib.hpp">
+<area shape="rect" id="node1" title="Defines the classes for different user defined ThermoChemistry libraries." alt="" coords="1007,5,1172,47"/>
+<area shape="rect" id="node2" href="$CNEMONumerics_8hpp.html" title="Base class template NEMO numerics." alt="" coords="737,95,946,136"/>
+<area shape="rect" id="node17" href="$CSU2TCLib_8cpp.html" title="Source of user defined 2T nonequilibrium gas model." alt="" coords="970,102,1209,129"/>
+<area shape="rect" id="node18" href="$CNEMOEulerSolver_8cpp.html" title="Headers of the CNEMOEulerSolver class." alt="" coords="1233,95,1407,136"/>
+<area shape="rect" id="node3" href="$NEMO_2convection_2ausm__slau_8hpp.html" title="Declaration of numerics classes for the AUSM and SLAU family of schemes in NEMO." alt="" coords="1188,184,1431,225"/>
+<area shape="rect" id="node6" href="$lax_8hpp.html" title="Declaration of numerics classes for Lax centered scheme." alt="" coords="71,184,268,225"/>
+<area shape="rect" id="node8" href="$msw_8hpp.html" title="Declaration of numerics classes for modified Steger&#45;Warming scheme." alt="" coords="292,184,495,225"/>
+<area shape="rect" id="node10" href="$NEMO_2convection_2roe_8hpp.html" title="Declarations of numerics classes for Roe&#45;type schemes in NEMO." alt="" coords="519,184,716,225"/>
+<area shape="rect" id="node12" href="$NEMO__diffusion_8hpp.html" title="Declarations of numerics classes for viscous flux computation." alt="" coords="741,184,942,225"/>
+<area shape="rect" id="node14" href="$NEMO__sources_8hpp.html" title="Declarations of numerics classes for source&#45;term integration." alt="" coords="967,184,1164,225"/>
+<area shape="rect" id="node16" href="$CNEMONumerics_8cpp.html" title="Implementation of the base for NEMO numerics classes. Contains methods for common tasks,..." alt="" coords="1455,184,1663,225"/>
+<area shape="rect" id="node4" href="$CDriver_8cpp.html" title="The main subroutines for driving single or multi&#45;zone problems." alt="" coords="667,281,821,322"/>
+<area shape="rect" id="node5" href="$NEMO_2convection_2ausm__slau_8cpp.html" title="Implementations of the AUSM&#45;family of schemes in NEMO." alt="" coords="1288,273,1469,329"/>
+<area shape="rect" id="node7" href="$lax_8cpp.html" title="Implementations of Lax centered scheme." alt="" coords="5,281,197,322"/>
+<area shape="rect" id="node9" href="$msw_8cpp.html" title="Implementations of the modified Steger&#45;Warming scheme." alt="" coords="221,281,424,322"/>
+<area shape="rect" id="node11" href="$NEMO_2convection_2roe_8cpp.html" title="Implementations of Roe&#45;type schemes in NEMO." alt="" coords="449,281,642,322"/>
+<area shape="rect" id="node13" href="$NEMO__diffusion_8cpp.html" title="Implementation of numerics classes for discretization of viscous fluxes in fluid flow NEMO problems." alt="" coords="845,281,1045,322"/>
+<area shape="rect" id="node15" href="$NEMO__sources_8cpp.html" title="Implementation of numerics classes for integration of source terms in fluid flow NEMO problems." alt="" coords="1069,281,1264,322"/>
+</map>

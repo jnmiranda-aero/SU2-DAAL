@@ -1,0 +1,13 @@
+<map id="CFEM_DG_EulerSolver::ADER_DG_PredictorStep" name="CFEM_DG_EulerSolver::ADER_DG_PredictorStep">
+<area shape="rect" id="node1" title="Function, carries out the predictor step of the ADER&#45;DG time integration." alt="" coords="5,170,192,211"/>
+<area shape="rect" id="node2" href="$classCBlasStructure.html#ad282634317e0a32bce7896e2ddc40043" title="Function, which carries out a dense matrix product. It is a limited version of the BLAS gemm function..." alt="" coords="277,31,445,57"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a130d8db7462654c06ef802d98a223f3f" title="Get the kind of scheme (aliased or non&#45;aliased) to be used in the predictor step of ADER&#45;DG." alt="" coords="274,82,449,123"/>
+<area shape="rect" id="node8" href="$classCConfig.html#aafef6383db26beffe0b0379d349cdf1b" title="Get the number time DOFs for ADER&#45;DG." alt="" coords="240,148,483,175"/>
+<area shape="rect" id="node9" href="$classCConfig.html#aa432bc27281cf5258b0a7ad68c814f4f" title="Get the number time integration points for ADER&#45;DG." alt="" coords="254,199,469,241"/>
+<area shape="rect" id="node10" href="$classCConfig.html#a82d3faf3154d13bf694af4d818ef91c7" title="Function to make available the matrix size in vectorization in order to optimize the gemm performance..." alt="" coords="246,265,477,292"/>
+<area shape="rect" id="node11" href="$classCConfig.html#a7dafeca44456165716652649d1238bb3" title="Get the weights of the time integration points for ADER&#45;DG." alt="" coords="248,317,475,358"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a2843524e5245c2c6128acdd20e746f4a" title="Start the timer for profiling subroutines." alt="" coords="532,5,688,32"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a695fe18134532a43b328845dd0cce3bb" title="Stop the timer for the GEMM profiling and store results." alt="" coords="531,56,689,83"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#adcf32aa628d4b515e8835bc5c56fbf08" title=" " alt="" coords="737,31,931,57"/>
+<area shape="rect" id="node5" href="$omp__structure_8hpp.html#a649bd48ab038a72108f11f5a85316266" title="Return the wall time." alt="" coords="979,31,1105,57"/>
+</map>

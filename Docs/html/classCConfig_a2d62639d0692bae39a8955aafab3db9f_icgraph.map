@@ -1,0 +1,6 @@
+<map id="CConfig::GetmaxTurkelBeta" name="CConfig::GetmaxTurkelBeta">
+<area shape="rect" id="node1" title="Get the minimum value of Beta for Roe&#45;Turkel preconditioner." alt="" coords="571,31,771,57"/>
+<area shape="rect" id="node2" href="$classCUpwTurkel__Flow.html#aa0580519b5a7af16e861b0ad95f3316f" title="Constructor of the class." alt="" coords="265,5,523,32"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a0c511d1e0a149308c0efffa9e6b9db85" title="Compute the preconditioner for convergence acceleration by Roe&#45;Turkel method." alt="" coords="280,56,508,83"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#afd623280ddc50fbc59b7ddcc9e638217" title="Prepare an implicit iteration." alt="" coords="5,49,217,90"/>
+</map>

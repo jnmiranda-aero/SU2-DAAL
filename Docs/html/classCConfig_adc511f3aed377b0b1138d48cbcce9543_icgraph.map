@@ -1,0 +1,10 @@
+<map id="CConfig::SetHeat_Flux_Ref" name="CConfig::SetHeat_Flux_Ref">
+<area shape="rect" id="node1" title="Set the heat flux reference value." alt="" coords="660,81,856,108"/>
+<area shape="rect" id="node2" href="$classCHeatSolver.html#a89c9ece2b98a950e53f4ee9482968186" title="Constructor of the class." alt="" coords="354,5,546,32"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="308,56,592,83"/>
+<area shape="rect" id="node5" href="$classCIncEulerSolver.html#a2cffaa24417cb3803d36d38b3874d6d0" title="Set the solver nondimensionalization." alt="" coords="299,107,601,133"/>
+<area shape="rect" id="node7" href="$classCNEMOEulerSolver.html#ad23673d38da9e895e4802b6d4d000c1b" title="Set the fluid solver nondimensionalization." alt="" coords="288,164,612,191"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460" title="Main constructor of this class." alt="" coords="25,48,221,75"/>
+<area shape="rect" id="node6" href="$classCIncEulerSolver.html#a2a0c72c1d1d79e45c69da03e01f6281a" title="Constructor of the class." alt="" coords="26,99,219,141"/>
+<area shape="rect" id="node8" href="$classCNEMOEulerSolver.html#a192d56e184ee19ad0b0dd3282b74f1e6" title="Contructor of the class." alt="" coords="5,165,240,206"/>
+</map>

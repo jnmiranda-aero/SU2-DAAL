@@ -1,0 +1,17 @@
+<map id="CConfig::GetKind_Gradient_Method_Recon" name="CConfig::GetKind_Gradient_Method_Recon">
+<area shape="rect" id="node1" title="Get the kind of method for computation of spatial gradients used for upwind reconstruction." alt="" coords="603,267,797,309"/>
+<area shape="rect" id="node2" href="$classCScalarSolver.html#aa6238dd670ce793d763fc35598b52dcf" title="Gradient and Limiter computation." alt="" coords="284,5,555,32"/>
+<area shape="rect" id="node3" href="$classCAdjEulerSolver.html#a64baf8c7af6006bdc4ad0919f7c2507a" title="Initialize the residual vectors." alt="" coords="8,56,233,83"/>
+<area shape="rect" id="node4" href="$classCAdjNSSolver.html#a0669f6fb8ef7cd7800d151d4aff7d3f6" title="Restart residual and compute gradients." alt="" coords="15,107,226,133"/>
+<area shape="rect" id="node5" href="$classCEulerSolver.html#ab08b6aa95648e7ab973f9f247fe54b31" title="Compute primitive variables and their gradients." alt="" coords="317,275,521,301"/>
+<area shape="rect" id="node6" href="$classCIncEulerSolver.html#aac33066eba6bdbe02693afb992e307d8" title="Compute primitive variables and their gradients." alt="" coords="308,325,531,352"/>
+<area shape="rect" id="node7" href="$classCIncNSSolver.html#aaaff5cfe93aa72a689248c80b2ea9149" title="Restart residual and compute gradients." alt="" coords="315,376,523,403"/>
+<area shape="rect" id="node8" href="$classCNEMONSSolver.html#aef1c13c42cd8103377619f7d94660d6a" title="Restart residual and compute gradients." alt="" coords="305,427,534,453"/>
+<area shape="rect" id="node9" href="$classCNSSolver.html#af83e7cb773797239cdc98fc4d202d32f" title="Restart residual and compute gradients." alt="" coords="325,477,514,504"/>
+<area shape="rect" id="node10" href="$classCRadP1Solver.html#a34c7a29cb038e85c793685b1a76edac6" title="Restart residual and compute gradients." alt="" coords="15,309,227,336"/>
+<area shape="rect" id="node11" href="$classCFVMFlowSolverBase.html#aa00cb2f438eff709117ab4ffe61c3542" title="Compute the gradient of the primitive variables using a Least&#45;Squares method, and stores the result i..." alt="" coords="322,529,517,570"/>
+<area shape="rect" id="node12" href="$classCSolver.html#a65af02f97fcf03a0f44c15dbb48522b9" title="Compute the Least Squares gradient of the solution." alt="" coords="342,158,497,199"/>
+<area shape="rect" id="node13" href="$classCTransLMSolver.html#aa2cb59dfa880122b3c0485f9d2db78c6" title="Computes the effective intermtittency." alt="" coords="5,157,236,184"/>
+<area shape="rect" id="node14" href="$classCTurbSSTSolver.html#a9f9394f05aa34e96e4bf2dd00447789a" title="Computes the eddy viscosity." alt="" coords="6,208,235,235"/>
+<area shape="rect" id="node15" href="$classCAdjTurbSolver.html#a2ed1cbeeeaaeb94ba0e6c9103459b1fe" title="Initializate the residual vectors." alt="" coords="11,259,230,285"/>
+</map>

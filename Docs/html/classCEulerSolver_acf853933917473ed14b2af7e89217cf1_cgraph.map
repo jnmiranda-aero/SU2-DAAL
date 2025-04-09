@@ -1,0 +1,4 @@
+<map id="CEulerSolver::Centered_Residual" name="CEulerSolver::Centered_Residual">
+<area shape="rect" id="node1" title="Compute the spatial integration using a centered scheme." alt="" coords="5,20,177,61"/>
+<area shape="rect" id="node2" href="$classCFVMFlowSolverBase.html#a8c19de20d537852775225aa6d201f00f" title="Method to compute convective and viscous residual contribution using vectorized numerics." alt="" coords="225,5,413,76"/>
+</map>

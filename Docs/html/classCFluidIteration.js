@@ -7,6 +7,6 @@ var classCFluidIteration =
     [ "Postprocess", "classCFluidIteration.html#a3f065978d2a1745b812bf4457d34684b", null ],
     [ "Preprocess", "classCFluidIteration.html#a7fb34e44cf4a20e8104ab826324f2d9f", null ],
     [ "Solve", "classCFluidIteration.html#ae4c454356af70246063fdcba4accb068", null ],
-    [ "TurboMonitor", "classCFluidIteration.html#ab601b7113f580f239890502bc4bb2aad", null ],
+    [ "TurboMonitor", "classCFluidIteration.html#a3f9245cfaa052a2dfba3a07da02e6d9f", null ],
     [ "Update", "classCFluidIteration.html#a64c0f94e1a8cf86032f784b514b94571", null ]
 ];

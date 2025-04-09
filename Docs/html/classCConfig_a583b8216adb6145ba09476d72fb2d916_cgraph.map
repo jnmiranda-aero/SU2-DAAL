@@ -1,0 +1,5 @@
+<map id="CConfig::GetMultizone_FileName" name="CConfig::GetMultizone_FileName">
+<area shape="rect" id="node1" title="Append the zone index to the restart or the solution files." alt="" coords="5,5,172,47"/>
+<area shape="rect" id="node2" href="$namespaceSU2__TYPE.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="220,13,332,39"/>
+<area shape="rect" id="node3" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="380,13,535,39"/>
+</map>

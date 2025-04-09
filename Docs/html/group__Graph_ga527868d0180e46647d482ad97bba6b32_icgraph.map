@@ -1,0 +1,10 @@
+<map id="colorSparsePattern" name="colorSparsePattern">
+<area shape="rect" id="node1" title="Color contiguous groups of outer indices of a sparse pattern such that within each color,..." alt="" coords="795,96,939,123"/>
+<area shape="rect" id="node2" href="$classCGeometry.html#a1918f1d5fd5404f35ab64407242b5d24" title="Get the edge coloring." alt="" coords="523,64,735,91"/>
+<area shape="rect" id="node5" href="$classCGeometry.html#a0958106e0ba545db5ff7fdcf7a8583ba" title="Get the element coloring." alt="" coords="512,121,747,148"/>
+<area shape="rect" id="node3" href="$classCScalarSolver.html#a1afc69d5b797a6ca3951cc43e5594313" title="Constructor of the class." alt="" coords="253,5,464,32"/>
+<area shape="rect" id="node4" href="$classCFVMFlowSolverBase.html#add3f32c09f3bb0032ed4cc4144ec8b10" title="Initialize thread parallel variables." alt="" coords="257,57,460,98"/>
+<area shape="rect" id="node6" href="$classCFEASolver.html#abcef9eb21dd43cbf8598bdfea0f9fef8" title="Actions required to initialize the supporting variables for hybrid parallel execution." alt="" coords="261,122,457,163"/>
+<area shape="rect" id="node7" href="$classCFEASolver.html#a1d4c7d17d9c7143d3079fc78fae1599d" title=" " alt="" coords="15,104,195,131"/>
+<area shape="rect" id="node8" href="$classCMeshSolver.html#a728930536c48c01f17b91808115fdb91" title="Constructor of the class." alt="" coords="5,155,205,181"/>
+</map>

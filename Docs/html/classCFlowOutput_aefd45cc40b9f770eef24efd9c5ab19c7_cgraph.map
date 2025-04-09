@@ -1,0 +1,13 @@
+<map id="CFlowOutput::SetHeatCoefficients" name="CFlowOutput::SetHeatCoefficients">
+<area shape="rect" id="node1" title="Set the value of the heat flux coefficients." alt="" coords="5,227,248,254"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a6e65810e59b8015104b84c4fd5b1d7f9" title="Get the total number of monitoring markers." alt="" coords="332,5,488,47"/>
+<area shape="rect" id="node3" href="$classCSolver.html#aa47bbb6dc515521a0934b681accc88ad" title="A virtual member." alt="" coords="334,71,486,112"/>
+<area shape="rect" id="node4" href="$classCSolver.html#a44f39d7097656dc2a13ce3128de8e73a" title="A virtual member." alt="" coords="334,136,486,177"/>
+<area shape="rect" id="node5" href="$classCSolver.html#a3a9516a882682f02bd9ab15d209740e5" title="A virtual member." alt="" coords="310,202,510,229"/>
+<area shape="rect" id="node6" href="$classCSolver.html#a0c8e48066fa800e6190a08b742ece837" title="A virtual member." alt="" coords="296,253,524,279"/>
+<area shape="rect" id="node7" href="$classCConfig.html#ad59acb5f80aaddccaa0f2f5bef3e3e78" title="Determines if problem is viscous." alt="" coords="333,303,487,330"/>
+<area shape="rect" id="node8" href="$classCOutput.html#a1c0620a8f72bfe5611a4c18ba9530981" title="Set the value of a history output field for a specific surface marker." alt="" coords="313,355,507,396"/>
+<area shape="rect" id="node11" href="$classCOutput.html#a1c1f836992f419544472329a44b8836e" title="Set the value of a history output field." alt="" coords="313,420,507,461"/>
+<area shape="rect" id="node9" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="572,395,753,422"/>
+<area shape="rect" id="node10" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="801,395,987,422"/>
+</map>

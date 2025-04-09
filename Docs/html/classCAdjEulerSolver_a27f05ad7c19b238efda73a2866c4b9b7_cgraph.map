@@ -1,0 +1,37 @@
+<map id="CAdjEulerSolver::Upwind_Residual" name="CAdjEulerSolver::Upwind_Residual">
+<area shape="rect" id="node1" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,754,188,795"/>
+<area shape="rect" id="node2" href="$classCNumerics.html#aa0ca13663a047ef2640b377b33875e29" title="Compute the numerical residual." alt="" coords="244,5,460,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a622b8d5489590e58a6485c9095ed5edf" title="Get the limit value for the adjoint variables." alt="" coords="261,56,443,83"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="244,107,460,133"/>
+<area shape="rect" id="node5" href="$classCConfig.html#aa495414133c826e5f6651d4ce82d0ef6" title="Get the level of MPI communications to be performed." alt="" coords="258,157,446,184"/>
+<area shape="rect" id="node6" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="285,208,419,235"/>
+<area shape="rect" id="node7" href="$classCAdjEulerVariable.html#a84210343f4eaba79978962bcdefdaf23" title="Get the array of the reconstruction variables gradient at a node." alt="" coords="249,259,455,301"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a9182d3dbb0b3bfa2ebb944f18795f5ca" title="Get information about the grid movement." alt="" coords="249,325,455,352"/>
+<area shape="rect" id="node9" href="$classCPoint.html#a65d855a9c2ad2971546038b34acd5b92" title="Get the value of the grid velocity at the point." alt="" coords="281,376,423,403"/>
+<area shape="rect" id="node10" href="$classCConfig.html#aba1a437d929fef85ee9ea86dae47925f" title="Get the method for limiting the spatial gradients." alt="" coords="248,427,456,469"/>
+<area shape="rect" id="node11" href="$classCConfig.html#ad16f71356f146b530fb1fbb45444525c" title="Get the kind of time integration method." alt="" coords="257,493,447,534"/>
+<area shape="rect" id="node12" href="$classCVariable.html#ab4f777128f4b2375b5203c410fca7fcf" title="Get the slope limiter." alt="" coords="271,559,433,585"/>
+<area shape="rect" id="node13" href="$classCConfig.html#ad31701c49b730e8db724c9db975abcfb" title="Get if the upwind scheme used MUSCL or not." alt="" coords="248,609,456,636"/>
+<area shape="rect" id="node14" href="$classCGeometry.html#aba89cceede61b33426b2783385431f5b" title="Get number of edges." alt="" coords="269,660,435,687"/>
+<area shape="rect" id="node15" href="$classCEdge.html#a5cd6f283cb2f3e4dfc037c0db6ae1055" title="Get left/right node index defining the edge." alt="" coords="288,711,416,737"/>
+<area shape="rect" id="node16" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="280,761,424,788"/>
+<area shape="rect" id="node17" href="$classCVariable.html#a10c304d236917136f8906e2798f391b4" title="Get the value of the non&#45;physical boolean at a point." alt="" coords="251,812,453,839"/>
+<area shape="rect" id="node18" href="$classCEdge.html#a4ace970590e47bd39ea5780c3e0e2037" title="Copy the the normal vector of a face." alt="" coords="281,863,423,889"/>
+<area shape="rect" id="node20" href="$classCVariable.html#a634a803b0d397aec7a44420cd5159079" title="Get the primitive variables for all points." alt="" coords="265,913,439,940"/>
+<area shape="rect" id="node22" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="268,964,436,991"/>
+<area shape="rect" id="node23" href="$classCBaseMPIWrapper.html#adfe0cc3203ae26745e12fb885af0629b" title=" " alt="" coords="253,1015,451,1041"/>
+<area shape="rect" id="node24" href="$classCNumerics.html#a7a305597659a44840687afc1c1e0da6b" title="Set the value of the adjoint variable." alt="" coords="257,1065,447,1092"/>
+<area shape="rect" id="node25" href="$classCNumerics.html#a3f116b5718153aefee7a22735797af29" title="Set the velocity of the computational grid." alt="" coords="267,1116,437,1143"/>
+<area shape="rect" id="node26" href="$classCVariable.html#af0eb973b8a2a22b1d1608e4af22022b8" title="Set the value of the non&#45;physical point." alt="" coords="252,1167,452,1193"/>
+<area shape="rect" id="node27" href="$classCConfig.html#aa3920e3a8f281a8e015ca82571aa2c72" title="Set the current number of non&#45;physical reconstructions for 2nd&#45;order upwinding." alt="" coords="261,1218,443,1259"/>
+<area shape="rect" id="node28" href="$classCNumerics.html#a93fd2262832ae5081317548f2f9cdbb3" title="Set the value of the normal vector to the face between two points." alt="" coords="267,1284,437,1311"/>
+<area shape="rect" id="node29" href="$classCNumerics.html#a028c500ba7ce96d3af061fc8218f76f1" title="Set the value of the primitive variables." alt="" coords="261,1335,443,1361"/>
+<area shape="rect" id="node30" href="$classCSysMatrix.html#aaa63a679856fad3b4e76f9085b0ca40f" title="Subtracts the specified block to the sparse matrix (see AddBlock)." alt="" coords="255,1385,449,1412"/>
+<area shape="rect" id="node32" href="$classCSysVector.html#a71ea6ec1ebdb77535b976bb40e7659a6" title="Subtract &quot;block&quot; from the vector, see AddBlock." alt="" coords="255,1436,449,1463"/>
+<area shape="rect" id="node34" href="$classCSysMatrix.html#a423b77066cf386dd6e4b95a656e4aadb" title="Short&#45;hand to AddBlock2Diag with alpha = &#45;1, i.e. subtracts from the current diagonal." alt="" coords="236,1487,468,1513"/>
+<area shape="rect" id="node19" href="$classC2DContainer.html#ab6d9161cd08887f034322ebcbc3deb12" title=" " alt="" coords="544,863,691,889"/>
+<area shape="rect" id="node21" href="$classCVariable.html#a57eb0e83f25f08d544f92b75e3f8b617" title=" " alt="" coords="523,913,712,940"/>
+<area shape="rect" id="node31" href="$classCSysMatrix.html#a03a189a2120be05e21fbd9b120549427" title="Add a scaled block (in flat format) to the sparse matrix (see SetBlock)." alt="" coords="535,1385,700,1412"/>
+<area shape="rect" id="node33" href="$classCSysVector.html#aa463275cba394503a9778529fdaa4494" title="Add &quot;block&quot; to the vector, see SetBlock." alt="" coords="535,1436,699,1463"/>
+<area shape="rect" id="node35" href="$classCSysMatrix.html#a5a4ef7eeb7f009450f575660108ed7be" title="Non overwrite version of SetBlock2Diag, also with scaling." alt="" coords="516,1487,719,1513"/>
+</map>

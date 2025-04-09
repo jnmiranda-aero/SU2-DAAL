@@ -1,0 +1,10 @@
+<map id="SU2_CFD/include/variables/CBaselineVariable.hpp" name="SU2_CFD/include/variables/CBaselineVariable.hpp">
+<area shape="rect" id="node1" title="Main class for defining the variables of a baseline solution from a restart file (for output)." alt="" coords="377,5,574,47"/>
+<area shape="rect" id="node2" href="$CBaselineSolver_8hpp.html" title=" " alt="" coords="283,95,467,136"/>
+<area shape="rect" id="node8" href="$CBaselineVariable_8cpp.html" title="Definition of the solution fields." alt="" coords="491,95,662,136"/>
+<area shape="rect" id="node3" href="$CBaselineSolver_8cpp.html" title="Main subroutines for CBaselineSolver class." alt="" coords="5,184,164,225"/>
+<area shape="rect" id="node4" href="$CSolverFactory_8cpp.html" title="Main subroutines for CSolverFactoryclass." alt="" coords="188,184,344,225"/>
+<area shape="rect" id="node5" href="$CDiscAdjDeformationDriver_8cpp.html" title="Main subroutines for driving the projection of sensitivities." alt="" coords="369,184,601,225"/>
+<area shape="rect" id="node6" href="$SU2__SOL_8hpp.html" title="Headers of the main subroutines of the code SU2_SOL. The subroutines and functions are in the SU2_SOL..." alt="" coords="625,184,787,225"/>
+<area shape="rect" id="node7" href="$SU2__SOL_8cpp.html" title="Main file for the solution export/conversion code (SU2_SOL)." alt="" coords="610,273,802,300"/>
+</map>

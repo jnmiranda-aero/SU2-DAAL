@@ -1,0 +1,11 @@
+<map id="CConfig::GetKind_Data_Riemann" name="CConfig::GetKind_Data_Riemann">
+<area shape="rect" id="node1" title="Get Kind Data of Riemann boundary." alt="" coords="511,125,681,166"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a4ad4a65b3fc5a51b1561436736f7f7ca" title="Impose the boundary condition using characteristic recostruction." alt="" coords="249,5,445,32"/>
+<area shape="rect" id="node3" href="$classCTurbSolver.html#a06a6a0bf51e15e00da2e5fd628f9f217" title="Impose via the residual the Euler wall boundary condition." alt="" coords="252,56,443,83"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#a8e036f2dff1d945d814c93a74159a3cc" title="Impose the boundary condition using characteristic recostruction." alt="" coords="232,107,463,133"/>
+<area shape="rect" id="node5" href="$classCTurbSolver.html#ad7423afd493a05e8ec1813d499f54e14" title="Impose via the residual the Euler wall boundary condition." alt="" coords="235,157,460,184"/>
+<area shape="rect" id="node6" href="$classCFEM__DG__EulerSolver.html#a5bfdc0bca1daa8e5d716d4fc3c7f5867" title="Function, which computes the boundary states in the integration points of the boundary face by applyi..." alt="" coords="248,209,447,250"/>
+<area shape="rect" id="node9" href="$classCEulerSolver.html#afe2f428da073b80f64c41422971f9748" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="247,274,448,315"/>
+<area shape="rect" id="node7" href="$classCFEM__DG__EulerSolver.html#aaff04081aba8d9e24f0e615161e8020f" title="Impose the boundary condition using characteristic reconstruction. It is a virtual function,..." alt="" coords="11,175,178,217"/>
+<area shape="rect" id="node8" href="$classCFEM__DG__NSSolver.html#a22b8079ccea001f1a35d236bfb2750d4" title="Impose the boundary condition using characteristic reconstruction." alt="" coords="5,241,184,282"/>
+</map>

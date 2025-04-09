@@ -1,0 +1,12 @@
+<map id="CConfig::GetIter_Avg_Objective" name="CConfig::GetIter_Avg_Objective">
+<area shape="rect" id="node1" title="Number of iterations to average (reverse time integration)." alt="" coords="1049,103,1205,144"/>
+<area shape="rect" id="node2" href="$classCDiscAdjMultizoneDriver.html#a249f7719c986035cde861eed2c61b4dd" title="Initialize the adjoint value of the objective function." alt="" coords="814,69,998,111"/>
+<area shape="rect" id="node7" href="$classCDiscAdjSinglezoneDriver.html#a8e307423a8cbcade647c85e03f37a990" title="Initialize the adjoint value of the objective function." alt="" coords="811,135,1001,176"/>
+<area shape="rect" id="node3" href="$classCDiscAdjMultizoneDriver.html#a7a644ee8fc2141f2083b91afd2cab856" title="Evaluate the gradient of the objective function and add to &quot;External&quot;." alt="" coords="503,5,763,47"/>
+<area shape="rect" id="node6" href="$classCDiscAdjMultizoneDriver.html#a9d998fae109427a1061069800ad931c3" title="Evaluate sensitivites for the current adjoint solution and output files." alt="" coords="541,71,725,112"/>
+<area shape="rect" id="node4" href="$classCDiscAdjMultizoneDriver.html#af996aecdb6d20aa4fc81c9b67295abf5" title="[Overload] Run an discrete adjoint update of all solvers within multiple zones." alt="" coords="237,46,455,73"/>
+<area shape="rect" id="node5" href="$classCDiscAdjMultizoneDriver.html#a75de0a1a482ceeed4301a384f1515092" title="[Overload] Launch the computation for discrete adjoint multizone problems." alt="" coords="5,39,189,80"/>
+<area shape="rect" id="node8" href="$classCDiscAdjSinglezoneDriver.html#a8f953f7bd46ee86ade056068e5eb2419" title="Run a single iteration of the discrete adjoint solver with a single zone." alt="" coords="521,139,745,166"/>
+<area shape="rect" id="node9" href="$classCDiscAdjSinglezoneDriver.html#ad328a74dd89ed2e335b22c4bf2b53cb0" title="Record the secondary computational path." alt="" coords="537,191,728,232"/>
+<area shape="rect" id="node10" href="$classCDiscAdjSinglezoneDriver.html#a8646cc443849a97868c59003066bb850" title="Postprocess the adjoint iteration for ZONE_0." alt="" coords="251,191,441,232"/>
+</map>

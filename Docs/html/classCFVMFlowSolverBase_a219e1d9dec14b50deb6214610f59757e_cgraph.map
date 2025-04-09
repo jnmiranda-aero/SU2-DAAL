@@ -1,0 +1,11 @@
+<map id="CFVMFlowSolverBase::SetUniformInlet" name="CFVMFlowSolverBase::SetUniformInlet">
+<area shape="rect" id="node1" title="Set a uniform inlet profile." alt="" coords="5,175,169,217"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a344c68a434b392d050fcc48a2b9a7602" title="Get the pressure at a supersonic inlet boundary." alt="" coords="231,5,425,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a5abe82b7c69838de9ec9f43296a0376d" title="Get the temperature at a supersonic inlet boundary." alt="" coords="217,56,439,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#aa266280c381866a0551b118e930dbf82" title="Get the velocity vector at a supersonic inlet boundary." alt="" coords="233,107,423,133"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a8a7281e9456eea94c0010bb5bc691bfb" title="Get the flow direction unit vector at an inlet boundary." alt="" coords="237,157,419,184"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a27e3db1bd715030983e86ff028d427ee" title="Get the total pressure at an inlet boundary." alt="" coords="243,208,413,235"/>
+<area shape="rect" id="node7" href="$classCConfig.html#ae7459740565d6d194dec5395b4851620" title="Get the total temperature at an inlet boundary." alt="" coords="243,259,413,285"/>
+<area shape="rect" id="node8" href="$classCConfig.html#ae003cd8f406eaaa91849a774c9a20730" title="Get the kind of boundary for each marker." alt="" coords="254,310,402,351"/>
+<area shape="rect" id="node9" href="$classCConfig.html#ab8c9c1f45950a29355be4ff357049440" title="Get the index of the surface defined in the geometry file." alt="" coords="254,375,402,417"/>
+</map>

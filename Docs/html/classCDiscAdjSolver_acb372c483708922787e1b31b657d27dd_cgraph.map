@@ -1,0 +1,4 @@
+<map id="CDiscAdjSolver::GetHasHybridParallel" name="CDiscAdjSolver::GetHasHybridParallel">
+<area shape="rect" id="node1" title="Depends on the direct solver." alt="" coords="5,5,225,47"/>
+<area shape="rect" id="node2" href="$classCSolver.html#a4cb0233ceca5d9b694441bba02f7fe8e" title="Whether the methods of the solver called by multi/single&#45;grid iteration can be executed by multiple t..." alt="" coords="273,13,492,39"/>
+</map>

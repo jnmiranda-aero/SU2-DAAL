@@ -1,0 +1,6 @@
+<map id="CMeshFEM::ComputeNormalsFace" name="CMeshFEM::ComputeNormalsFace">
+<area shape="rect" id="node1" title="Function, which computes the information of the normals in the integration points of a face." alt="" coords="555,46,800,73"/>
+<area shape="rect" id="node2" href="$classCMeshFEM.html#aaeee8619d2ccd25d5d35332f2afd13b7" title="Function, which computes the metric terms of the faces of a physical boundary." alt="" coords="263,5,507,47"/>
+<area shape="rect" id="node4" href="$classCMeshFEM__DG.html#a3d4741a57aa6edce660894e7873ea3e6" title="Function, which computes the metric terms for internal matching faces." alt="" coords="280,71,489,112"/>
+<area shape="rect" id="node3" href="$classCMeshFEM__DG.html#a7f08d0f58d93b1883afe60ec117b9d7c" title="Function, which computes the metric terms of the surface elements, both internal faces and physical b..." alt="" coords="5,39,215,80"/>
+</map>

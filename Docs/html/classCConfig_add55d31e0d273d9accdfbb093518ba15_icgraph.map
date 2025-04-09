@@ -1,0 +1,4 @@
+<map id="CConfig::GetStreamwise_Periodic_OutletHeat" name="CConfig::GetStreamwise_Periodic_OutletHeat">
+<area shape="rect" id="node1" title="Get the value of the artificial periodic outlet heat." alt="" coords="276,5,456,47"/>
+<area shape="rect" id="node2" href="$classCSourceIncStreamwisePeriodic__Outlet.html#abc639a9578b2cc60f99cb38744ca03b7" title="Source term integration for boundary heat sink." alt="" coords="5,5,228,47"/>
+</map>

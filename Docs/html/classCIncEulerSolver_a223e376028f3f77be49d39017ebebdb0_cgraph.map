@@ -1,0 +1,6 @@
+<map id="CIncEulerSolver::SetMax_Eigenvalue" name="CIncEulerSolver::SetMax_Eigenvalue">
+<area shape="rect" id="node1" title="Compute the max eigenvalue." alt="" coords="5,85,187,127"/>
+<area shape="rect" id="node2" href="$classCIncEulerVariable.html#aadb29c1a48fc3c3209bbafc1dabae27c" title="Get the value of beta squared for the incompressible flow." alt="" coords="286,5,430,47"/>
+<area shape="rect" id="node3" href="$classCFVMFlowSolverBase.html#adc3a96a8ca25902058864c18b533192d" title="Compute the max eigenvalue, gemeric implementation." alt="" coords="235,71,481,141"/>
+<area shape="rect" id="node4" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="335,166,381,193"/>
+</map>

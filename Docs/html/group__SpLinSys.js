@@ -1,58 +1,58 @@
 var group__SpLinSys =
 [
-    [ "CPreconditioner< ScalarType >", "classCPreconditioner.html", [
+    [ "CPreconditioner", "classCPreconditioner.html", [
       [ "~CPreconditioner", "group__SpLinSys.html#gad26cefada3f05216b142770688403774", null ],
       [ "Build", "classCPreconditioner.html#a4107c7c58d894d1067b91a5e6e140946", null ],
       [ "IsIdentity", "classCPreconditioner.html#acd274ef50ed8a59b9f251396cd130fda", null ],
       [ "operator()", "classCPreconditioner.html#a5a48f3f884034bc5441f050effa75f3c", null ]
     ] ],
-    [ "CJacobiPreconditioner< ScalarType >", "classCJacobiPreconditioner.html", [
+    [ "CJacobiPreconditioner", "classCJacobiPreconditioner.html", [
       [ "CJacobiPreconditioner", "classCJacobiPreconditioner.html#afe02ffa3912b6b8d1987469c18dac539", null ],
       [ "CJacobiPreconditioner", "classCJacobiPreconditioner.html#a95e811afb99aa92697bfa32a367305b8", null ],
       [ "Build", "classCJacobiPreconditioner.html#a5db4511964f02e9567d00851c3a19d40", null ],
       [ "operator()", "classCJacobiPreconditioner.html#a9da76c92bb4cbdc05fdaa73bd40a012c", null ]
     ] ],
-    [ "CILUPreconditioner< ScalarType >", "classCILUPreconditioner.html", [
+    [ "CILUPreconditioner", "classCILUPreconditioner.html", [
       [ "CILUPreconditioner", "classCILUPreconditioner.html#a2589de08cbf0802a61e14c0e77a7658c", null ],
       [ "CILUPreconditioner", "classCILUPreconditioner.html#afae0d77053302bfec2668b0ff349800d", null ],
       [ "Build", "classCILUPreconditioner.html#ab308e1a29aa78b0b81b976239b064958", null ],
       [ "operator()", "classCILUPreconditioner.html#a63cbac38cfdc3d7bc06b9c0675b45bbf", null ]
     ] ],
-    [ "CLU_SGSPreconditioner< ScalarType >", "classCLU__SGSPreconditioner.html", [
+    [ "CLU_SGSPreconditioner", "classCLU__SGSPreconditioner.html", [
       [ "CLU_SGSPreconditioner", "classCLU__SGSPreconditioner.html#a0ca1af8702bfe609ddb5aef9025b34bd", null ],
       [ "CLU_SGSPreconditioner", "classCLU__SGSPreconditioner.html#a24f7cc5eb58c4fc304ba7929852d88d2", null ],
       [ "operator()", "classCLU__SGSPreconditioner.html#a6b69a9509eb619422f49f84772338270", null ]
     ] ],
-    [ "CLineletPreconditioner< ScalarType >", "classCLineletPreconditioner.html", [
+    [ "CLineletPreconditioner", "classCLineletPreconditioner.html", [
       [ "CLineletPreconditioner", "classCLineletPreconditioner.html#a6e0a4933e2b28c35a75a8b0cac9a09f9", null ],
       [ "CLineletPreconditioner", "classCLineletPreconditioner.html#a4bfee1c8550942c586d9dab5bcc9f3fa", null ],
       [ "Build", "classCLineletPreconditioner.html#a3a39eefea6c4884d9b8e10af8a425190", null ],
       [ "operator()", "classCLineletPreconditioner.html#a83145de3211bd97bcd13937a910c4819", null ]
     ] ],
-    [ "CPastixPreconditioner< ScalarType >", "classCPastixPreconditioner.html", [
+    [ "CPastixPreconditioner", "classCPastixPreconditioner.html", [
       [ "CPastixPreconditioner", "classCPastixPreconditioner.html#a54d9e4a9c0ed855607ac4cd1bf27350c", null ],
       [ "CPastixPreconditioner", "classCPastixPreconditioner.html#ad31e9c04e613b328e2075fc089a8a167", null ],
       [ "Build", "classCPastixPreconditioner.html#a06e4013a4bd7a7e2987cf5ac1064e0ce", null ],
       [ "operator()", "classCPastixPreconditioner.html#ac65bc3d78293d6bab8cae0787d77280f", null ]
     ] ],
     [ "CSysMatrixComms", "structCSysMatrixComms.html", null ],
-    [ "CMatrixVectorProduct< ScalarType >", "classCMatrixVectorProduct.html", [
+    [ "CMatrixVectorProduct", "classCMatrixVectorProduct.html", [
       [ "~CMatrixVectorProduct", "classCMatrixVectorProduct.html#a027bfe997dd0d7187934734a1186e9da", null ],
       [ "operator()", "classCMatrixVectorProduct.html#ad76d1fdd500a2baf00e8f3d26fe2b240", null ]
     ] ],
-    [ "CSysMatrixVectorProduct< ScalarType >", "classCSysMatrixVectorProduct.html", [
+    [ "CSysMatrixVectorProduct", "classCSysMatrixVectorProduct.html", [
       [ "CSysMatrixVectorProduct", "classCSysMatrixVectorProduct.html#a2f8abda02d9b189b0dd291ec89f4ed8f", null ],
       [ "CSysMatrixVectorProduct", "classCSysMatrixVectorProduct.html#a6c6792bb785abf405ca72ed9087e5698", null ],
       [ "operator()", "classCSysMatrixVectorProduct.html#a386aef6a5f3eeec44687e90e6f572f33", null ]
     ] ],
-    [ "CPastixWrapper< ScalarType >", "classCPastixWrapper.html", [
+    [ "CPastixWrapper", "classCPastixWrapper.html", [
       [ "CPastixWrapper", "classCPastixWrapper.html#a2f01ea73d1db955e1728f122f2a42b55", null ],
       [ "CPastixWrapper", "classCPastixWrapper.html#a16968962c73785344309247af3cc7bd7", null ],
       [ "CPastixWrapper", "classCPastixWrapper.html#a5e554ca8c1644c84b942ba3e98a0adb4", null ],
       [ "~CPastixWrapper", "classCPastixWrapper.html#a1afa5a58c2269aa373073c2d89addc4a", null ],
       [ "Factorize", "classCPastixWrapper.html#a46ac5616ba10248bd4b8251ead9a6cab", null ],
-      [ "operator=", "classCPastixWrapper.html#ad3aa8fe074b15538b9504b797b91d22a", null ],
-      [ "operator=", "classCPastixWrapper.html#ae986a3e2fb726abf2eb02468f644924d", null ],
+      [ "operator=", "classCPastixWrapper.html#aae5e1ee84c149db42b1b263a2bb00208", null ],
+      [ "operator=", "classCPastixWrapper.html#a5f0601752914ddfb0e56091b836ea8ba", null ],
       [ "SetMatrix", "classCPastixWrapper.html#a9156eb5739a39bcd68433b8ea77eec53", null ],
       [ "SetTransposedSolve", "classCPastixWrapper.html#ad8bd39a8a63b066b21f1b5237054daa9", null ],
       [ "Solve", "classCPastixWrapper.html#a547b94a25dcd99388f96be3679fb6192", null ],
@@ -63,7 +63,7 @@ var group__SpLinSys =
       [ "rowptr", "classCPastixWrapper.html#a507500cb5088373a72b678644aad542e", null ],
       [ "values", "classCPastixWrapper.html#a7ec1e4bf0e5a76a4f8e1b160c65829a9", null ]
     ] ],
-    [ "CSysMatrix< ScalarType >", "classCSysMatrix.html", [
+    [ "CSysMatrix", "classCSysMatrix.html", [
       [ "CSysMatrix", "classCSysMatrix.html#a6cf49a4f57520b363f596dc4f984442b", null ],
       [ "~CSysMatrix", "classCSysMatrix.html#a79dd4c794573dec6de3cd7dd48e43e92", null ],
       [ "AddBlock", "classCSysMatrix.html#a4e790de7150305ead6dec6bfa2bbdf0c", null ],
@@ -85,8 +85,8 @@ var group__SpLinSys =
       [ "DeleteValsRowi", "classCSysMatrix.html#a9473b0224c9b9a2749571db0bbd22a70", null ],
       [ "EnforceSolutionAtDOF", "classCSysMatrix.html#a29af75953ba8c52e236b2a27fb7d0d60", null ],
       [ "EnforceSolutionAtNode", "classCSysMatrix.html#a1bfdb06825f0165504b84aa68e918208", null ],
-      [ "GetBlock", "classCSysMatrix.html#a9475dee81728166b5d78ca990f5ca824", null ],
-      [ "GetBlock", "classCSysMatrix.html#a8f5b31dfcee98f6e92f54de4a2e6a625", null ],
+      [ "GetBlock", "classCSysMatrix.html#a9ec390e1dd36f2e71ecbac8f73805d57", null ],
+      [ "GetBlock", "classCSysMatrix.html#a47036e07a622b3c93751016a2e6239fe", null ],
       [ "GetBlock", "classCSysMatrix.html#a9a4575238916f9594f840a704913eeee", null ],
       [ "Initialize", "classCSysMatrix.html#ae17220ac30c2abcc7fdd3c5dc8f04571", null ],
       [ "MatrixMatrixAddition", "classCSysMatrix.html#a29db4f59f36097c710f802f71836d16f", null ],
@@ -113,7 +113,7 @@ var group__SpLinSys =
       [ "nEdge", "classCSysMatrix.html#a2c71df40847d37ffd55797c81cd32672", null ],
       [ "ptr", "classCSysMatrix.html#af36ac8f531da9fbee294a79596ec15a2", null ]
     ] ],
-    [ "CSysSolve< ScalarType >", "classCSysSolve.html", [
+    [ "CSysSolve", "classCSysSolve.html", [
       [ "MatrixType", "classCSysSolve.html#a5659f4343119191f12ecb6598119a914", null ],
       [ "PrecondType", "classCSysSolve.html#a7c107cc7276b5279ca26b2d139d40da6", null ],
       [ "ProductType", "classCSysSolve.html#adbb8a249aa2ff6361580e87800d71f46", null ],
@@ -134,7 +134,7 @@ var group__SpLinSys =
       [ "Solve", "classCSysSolve.html#a8b6b6ec9a70f8207cbf0b7a5c37eaef8", null ],
       [ "Solve_b", "classCSysSolve.html#a070d6692abebe9e24228932f8e618925", null ]
     ] ],
-    [ "CSysVector< ScalarType >", "classCSysVector.html", [
+    [ "CSysVector", "classCSysVector.html", [
       [ "CSysVector", "classCSysVector.html#a674b4c6d7aa557727794b82b80d64fc0", null ],
       [ "~CSysVector", "classCSysVector.html#a3d2914fda17006412377ed8046bb301b", null ],
       [ "CSysVector", "classCSysVector.html#aff5a46f7063437df614885e3ab8a669f", null ],
@@ -143,11 +143,11 @@ var group__SpLinSys =
       [ "CSysVector", "classCSysVector.html#af8d776ef6058c66179d93f30f18dd85b", null ],
       [ "CSysVector", "classCSysVector.html#a3b612b35cac6975b72111a42c1a00623", null ],
       [ "AddBlock", "classCSysVector.html#aa463275cba394503a9778529fdaa4494", null ],
-      [ "begin", "classCSysVector.html#aebb63d5ce2d86607dd6616b861d6c05a", null ],
+      [ "begin", "classCSysVector.html#a88b0fcc6197a6ad74c718f6247f863d8", null ],
       [ "dot", "classCSysVector.html#a96c613a08177a0f6105a635a92b138b0", null ],
-      [ "end", "classCSysVector.html#ab4f4e864727e4d70ccaccadf1fcc0740", null ],
-      [ "GetBlock", "classCSysVector.html#a7c44ba3d52f199c303747e7469e712ca", null ],
-      [ "GetBlock", "classCSysVector.html#af2a6833ef4891c1ca2484b61be4d4293", null ],
+      [ "end", "classCSysVector.html#afb3bd379d070879a52c0dffc866f911f", null ],
+      [ "GetBlock", "classCSysVector.html#a06df692a3fb2c11146aa10ee5e76a182", null ],
+      [ "GetBlock", "classCSysVector.html#a78f84fea2a834e3107e7d5d517f29162", null ],
       [ "GetLocSize", "classCSysVector.html#a8350bcd4cff50b455ee26898ebb66afd", null ],
       [ "GetNBlk", "classCSysVector.html#a36e34edad9ea54a9d0a153fc5035980c", null ],
       [ "GetNBlkDomain", "classCSysVector.html#a291257913c3bd91e40f8ab2c154e2d92", null ],
@@ -156,21 +156,21 @@ var group__SpLinSys =
       [ "Initialize", "classCSysVector.html#a657e0820c46bf8f3913d9742a182864c", null ],
       [ "Initialize", "classCSysVector.html#a2303f0238d1dca335e2241d6387fa954", null ],
       [ "norm", "classCSysVector.html#a55d36be09dfc5bed32246727f25cb7f5", null ],
-      [ "operator()", "classCSysVector.html#a8ca419fa3500b14c1daab946305fe5c6", null ],
-      [ "operator()", "classCSysVector.html#a040165002f08b5dfa1d14db1d870c83e", null ],
-      [ "operator*=", "classCSysVector.html#ae6cbae38192927af96670be88007e104", null ],
-      [ "operator*=", "classCSysVector.html#ae6521ae32ca0284eb6b2c7e49d3da228", null ],
-      [ "operator+=", "classCSysVector.html#af8316e29c1c6b3bc24969d49f000f8f9", null ],
-      [ "operator+=", "classCSysVector.html#acc4855caee2b911c583b7cb97bcc5402", null ],
-      [ "operator-=", "classCSysVector.html#a151291dc5547757c1988b2df6fd2b17c", null ],
-      [ "operator-=", "classCSysVector.html#aa66dd295975fc450b12ba5761653de34", null ],
-      [ "operator/=", "classCSysVector.html#a726f3fe4d06dcd5a0873f93dfdd4e5f2", null ],
-      [ "operator/=", "classCSysVector.html#a9da50520a2079d5ae07cfe51fdc92f7a", null ],
-      [ "operator=", "classCSysVector.html#a04572771096d5b04f2986e1e573c6a01", null ],
-      [ "operator=", "classCSysVector.html#a4ec4ffc2fbb977e645492c9ce0ca9628", null ],
-      [ "operator=", "classCSysVector.html#aa84838611906295b241f4638db0c73c2", null ],
-      [ "operator[]", "classCSysVector.html#a29eb738e4178a7fff8f1222310f1d730", null ],
-      [ "operator[]", "classCSysVector.html#aba4bec90d0d846d9a12fa6b8a03bc460", null ],
+      [ "operator()", "classCSysVector.html#a55aa3320deffae03af04b635fafc7afc", null ],
+      [ "operator()", "classCSysVector.html#a6f78ad936ddd7a131125bce8787124dc", null ],
+      [ "operator*=", "classCSysVector.html#ae590c061fa3e95e444502b62fc2ec35e", null ],
+      [ "operator*=", "classCSysVector.html#a587782212183dcc919f6659ace0eb965", null ],
+      [ "operator+=", "classCSysVector.html#aebd0f2cc6be2be650dd0e7fb00b21bfd", null ],
+      [ "operator+=", "classCSysVector.html#ad19c729f09e039bbee6d43764da56ccf", null ],
+      [ "operator-=", "classCSysVector.html#a5e58941bb89dd1709789dec74f5be897", null ],
+      [ "operator-=", "classCSysVector.html#a7be3933a6e2d0a9a34a9d269f5d50fcf", null ],
+      [ "operator/=", "classCSysVector.html#a718e894dfd904397f64d88cd89f4e541", null ],
+      [ "operator/=", "classCSysVector.html#a32217b553247b85d0f246d80bb686b43", null ],
+      [ "operator=", "classCSysVector.html#a3fec1dcb8a4821ead289151232a4453b", null ],
+      [ "operator=", "classCSysVector.html#a481747120e0f3caaec0eeaec0436a808", null ],
+      [ "operator=", "classCSysVector.html#a875d1cff2eb07c97ce739ba1e626e264", null ],
+      [ "operator[]", "classCSysVector.html#a4c8669788a2dd59394e604e3e5bcede2", null ],
+      [ "operator[]", "classCSysVector.html#ad4127cd6c520376347558131490de8fb", null ],
       [ "PassiveCopy", "classCSysVector.html#abb61e5a4d69be0562ced01831edfa924", null ],
       [ "SetBlock", "classCSysVector.html#a1bea42fad945a61161b0b8feaa766c59", null ],
       [ "SetBlock", "classCSysVector.html#acceb60ca98fa7ede9520adde322009eb", null ],
@@ -182,6 +182,6 @@ var group__SpLinSys =
       [ "UpdateBlocks", "classCSysVector.html#abb37fe6195ac6fdedab01b409966be28", null ],
       [ "norm", "classCSysVector.html#ab1b49e8ba54eba1766fb808674476952", null ]
     ] ],
-    [ "CPreconditioner::Create", "group__SpLinSys.html#ga5c5c0e2edeab83bfee2969cad5d4d519", null ],
-    [ "CPreconditioner::~CPreconditioner", "group__SpLinSys.html#gad26cefada3f05216b142770688403774", null ]
+    [ "Create", "group__SpLinSys.html#ga5c5c0e2edeab83bfee2969cad5d4d519", null ],
+    [ "~CPreconditioner", "group__SpLinSys.html#gad26cefada3f05216b142770688403774", null ]
 ];

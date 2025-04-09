@@ -12,7 +12,7 @@ var classCIncEulerVariable =
     [ "GetStreamwise_Periodic_RecoveredTemperature", "classCIncEulerVariable.html#aa12311522ce8264a17a7646da67e88c6", null ],
     [ "GetTemperature", "classCIncEulerVariable.html#a83ea0fb80f729e0636702cb9ad8f9fac", null ],
     [ "GetVelocity", "classCIncEulerVariable.html#ab8a0bc37de1ef84311928bb426263f7a", null ],
-    [ "GetVelocityGradient", "classCIncEulerVariable.html#a1f762c364cb41d02f61c6487289e658d", null ],
+    [ "GetVelocityGradient", "classCIncEulerVariable.html#a701690860096159875d5a56a1c1d9660", null ],
     [ "SetBetaInc2", "classCIncEulerVariable.html#a6b46af3312443d36615a84c0e3425194", null ],
     [ "SetDensity", "classCIncEulerVariable.html#ae394f7fcb010c18629cf9b1241d9ac4a", null ],
     [ "SetPressure", "classCIncEulerVariable.html#ad0aac559b10e289278681688f89d1028", null ],

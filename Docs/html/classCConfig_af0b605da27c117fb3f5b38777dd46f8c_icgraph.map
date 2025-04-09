@@ -1,0 +1,6 @@
+<map id="CConfig::GetSecondaryFlow_ActDisk" name="CConfig::GetSecondaryFlow_ActDisk">
+<area shape="rect" id="node1" title="Get the value of the non&#45;dimensionalized actuator disk turbulence intensity." alt="" coords="477,39,680,80"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a9315eac22cbd58c5bb4a3e4282484a92" title="Impose an actuator disk inlet boundary condition." alt="" coords="241,46,429,73"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a90fc349055f88a9e46f09d2f36b6bd7f" title="Impose the engine inflow boundary condition." alt="" coords="5,5,193,47"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#a31a66b0142e407b05c68e70f7ebafff5" title="Impose the engine exhaust boundary condition." alt="" coords="5,71,193,112"/>
+</map>

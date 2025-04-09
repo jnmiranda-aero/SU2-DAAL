@@ -1,0 +1,14 @@
+<map id="CNSSolver::Evaluate_ObjFunc" name="CNSSolver::Evaluate_ObjFunc">
+<area shape="rect" id="node1" title="Compute weighted&#45;sum &quot;combo&quot; objective output." alt="" coords="5,426,160,467"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#ac5b894698943daaa4b67945e0d58e659" title="Compute weighted&#45;sum &quot;combo&quot; objective output." alt="" coords="208,297,379,338"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a99e6285b421215b1995965cd534976ae" title="Get the kind of objective function. There are several options: Drag coefficient, Lift coefficient,..." alt="" coords="438,405,629,432"/>
+<area shape="rect" id="node10" href="$classCConfig.html#a6e65810e59b8015104b84c4fd5b1d7f9" title="Get the total number of monitoring markers." alt="" coords="455,457,611,498"/>
+<area shape="rect" id="node12" href="$classCConfig.html#a614c55e8d7945a11d92d7b51851291c2" title="Get the weight of objective function. There are several options: Drag coefficient,..." alt="" coords="459,522,607,563"/>
+<area shape="rect" id="node3" href="$classCFVMFlowSolverBase.html#abf0eb583baac8e28495dc0c53c14683f" title="Evaluate common part of objective function to all solvers." alt="" coords="427,107,640,178"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a37e977df54c5914bd175af1f90e6c6bc" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="453,203,614,229"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a169c941d6a2a4d5d83b468745a63314e" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="448,253,619,280"/>
+<area shape="rect" id="node6" href="$classCConfig.html#af7b2a1f4879fb4ebe121b32c9f7031c8" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="448,304,619,331"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a938257413551afbcfcded497e4bfb387" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="448,355,619,381"/>
+<area shape="rect" id="node8" href="$classCConfig.html#ae688e355a74025050498d8c03aee35b2" title="Get information about whether to use fixed CL mode." alt="" coords="432,5,635,32"/>
+<area shape="rect" id="node11" href="$classCConfig.html#ad289135200ddfb6a2794e67a1a31d7c6" title="Get the mach number at an outlet boundary." alt="" coords="436,56,631,83"/>
+</map>

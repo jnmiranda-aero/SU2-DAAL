@@ -2,39 +2,55 @@ var annotated_dup =
 [
     [ "container_details", "namespacecontainer__details.html", [
       [ "AccessorImpl", "classcontainer__details_1_1AccessorImpl.html", "classcontainer__details_1_1AccessorImpl" ],
-      [ "AccessorImpl< Index_t, Scalar_t, StorageType::ColumnMajor, AlignSize, DynamicSize, 1 >", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01StorageType_1_1ColumnMa796973543d848b265efb82373c342009.html", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01StorageType_1_1ColumnMa796973543d848b265efb82373c342009" ],
-      [ "AccessorImpl< Index_t, Scalar_t, StorageType::ColumnMajor, AlignSize, StaticRows, 1 >", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01StorageType_1_1ColumnMaeef7c92cf149dfd4e623b48034940711.html", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01StorageType_1_1ColumnMaeef7c92cf149dfd4e623b48034940711" ],
-      [ "AccessorImpl< Index_t, Scalar_t, StorageType::RowMajor, AlignSize, 1, DynamicSize >", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01StorageType_1_1RowMajord45f9e554541faec4210df2e5e29e43a.html", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01StorageType_1_1RowMajord45f9e554541faec4210df2e5e29e43a" ],
-      [ "AccessorImpl< Index_t, Scalar_t, StorageType::RowMajor, AlignSize, 1, StaticCols >", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01StorageType_1_1RowMajor35550d3991c639765a36a4ff9cbc9cb8.html", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01StorageType_1_1RowMajor35550d3991c639765a36a4ff9cbc9cb8" ],
-      [ "AccessorImpl< Index_t, Scalar_t, Store, AlignSize, DynamicSize, DynamicSize >", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01Store_00_01AlignSize_001fcc1ab2f4cab6b085b7bed8b79ab435.html", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01Store_00_01AlignSize_001fcc1ab2f4cab6b085b7bed8b79ab435" ],
       [ "AccessorImpl< Index_t, Scalar_t, Store, AlignSize, DynamicSize, StaticCols >", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01Store_00_01AlignSize_00f80936387ab6a32a7950ac87d91a2950.html", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01Store_00_01AlignSize_00f80936387ab6a32a7950ac87d91a2950" ],
-      [ "AccessorImpl< Index_t, Scalar_t, Store, AlignSize, StaticRows, DynamicSize >", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01Store_00_01AlignSize_001f1d8dc77378cfb16709f6ca4d991d9a.html", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01Store_00_01AlignSize_001f1d8dc77378cfb16709f6ca4d991d9a" ]
+      [ "AccessorImpl< Index_t, Scalar_t, Store, AlignSize, StaticRows, DynamicSize >", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01Store_00_01AlignSize_001f1d8dc77378cfb16709f6ca4d991d9a.html", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01Store_00_01AlignSize_001f1d8dc77378cfb16709f6ca4d991d9a" ],
+      [ "AccessorImpl< Index_t, Scalar_t, Store, AlignSize, DynamicSize, DynamicSize >", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01Store_00_01AlignSize_001fcc1ab2f4cab6b085b7bed8b79ab435.html", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01Store_00_01AlignSize_001fcc1ab2f4cab6b085b7bed8b79ab435" ],
+      [ "AccessorImpl< Index_t, Scalar_t, StorageType::ColumnMajor, AlignSize, StaticRows, 1 >", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01StorageType_1_1ColumnMaeef7c92cf149dfd4e623b48034940711.html", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01StorageType_1_1ColumnMaeef7c92cf149dfd4e623b48034940711" ],
+      [ "AccessorImpl< Index_t, Scalar_t, StorageType::ColumnMajor, AlignSize, DynamicSize, 1 >", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01StorageType_1_1ColumnMa796973543d848b265efb82373c342009.html", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01StorageType_1_1ColumnMa796973543d848b265efb82373c342009" ],
+      [ "AccessorImpl< Index_t, Scalar_t, StorageType::RowMajor, AlignSize, 1, StaticCols >", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01StorageType_1_1RowMajor35550d3991c639765a36a4ff9cbc9cb8.html", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01StorageType_1_1RowMajor35550d3991c639765a36a4ff9cbc9cb8" ],
+      [ "AccessorImpl< Index_t, Scalar_t, StorageType::RowMajor, AlignSize, 1, DynamicSize >", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01StorageType_1_1RowMajord45f9e554541faec4210df2e5e29e43a.html", "classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01StorageType_1_1RowMajord45f9e554541faec4210df2e5e29e43a" ]
     ] ],
     [ "detail", "namespacedetail.html", [
-      [ "BaselineSA", "structdetail_1_1BaselineSA.html", "structdetail_1_1BaselineSA" ],
+      [ "Omega", "structdetail_1_1Omega.html", [
+        [ "Bsl", "structdetail_1_1Omega_1_1Bsl.html", null ],
+        [ "Edw", "structdetail_1_1Omega_1_1Edw.html", null ]
+      ] ],
+      [ "ft2", "structdetail_1_1ft2.html", [
+        [ "Nonzero", "structdetail_1_1ft2_1_1Nonzero.html", null ],
+        [ "Zero", "structdetail_1_1ft2_1_1Zero.html", null ]
+      ] ],
+      [ "ModVort", "structdetail_1_1ModVort.html", [
+        [ "Bsl", "structdetail_1_1ModVort_1_1Bsl.html", null ],
+        [ "Edw", "structdetail_1_1ModVort_1_1Edw.html", null ],
+        [ "Neg", "structdetail_1_1ModVort_1_1Neg.html", null ]
+      ] ],
+      [ "r", "structdetail_1_1r.html", [
+        [ "Bsl", "structdetail_1_1r_1_1Bsl.html", null ],
+        [ "Edw", "structdetail_1_1r_1_1Edw.html", null ]
+      ] ],
+      [ "SourceTerms", "structdetail_1_1SourceTerms.html", [
+        [ "Bsl", "structdetail_1_1SourceTerms_1_1Bsl.html", null ],
+        [ "Neg", "structdetail_1_1SourceTerms_1_1Neg.html", null ]
+      ] ],
       [ "CCompressibilityCorrection", "classdetail_1_1CCompressibilityCorrection.html", "classdetail_1_1CCompressibilityCorrection" ],
-      [ "EdwardsSA", "structdetail_1_1EdwardsSA.html", "structdetail_1_1EdwardsSA" ],
-      [ "ft2", "structdetail_1_1ft2.html", "structdetail_1_1ft2" ],
-      [ "ModVort", "structdetail_1_1ModVort.html", "structdetail_1_1ModVort" ],
+      [ "BaselineSA", "structdetail_1_1BaselineSA.html", "structdetail_1_1BaselineSA" ],
       [ "NegativeSA", "structdetail_1_1NegativeSA.html", "structdetail_1_1NegativeSA" ],
-      [ "Omega", "structdetail_1_1Omega.html", "structdetail_1_1Omega" ],
-      [ "r", "structdetail_1_1r.html", "structdetail_1_1r" ],
-      [ "SourceTerms", "structdetail_1_1SourceTerms.html", "structdetail_1_1SourceTerms" ]
+      [ "EdwardsSA", "structdetail_1_1EdwardsSA.html", "structdetail_1_1EdwardsSA" ]
     ] ],
     [ "helpers", "namespacehelpers.html", [
+      [ "IndexAccumulator_Base", "classhelpers_1_1IndexAccumulator__Base.html", "classhelpers_1_1IndexAccumulator__Base" ],
       [ "IndexAccumulator", "classhelpers_1_1IndexAccumulator.html", "classhelpers_1_1IndexAccumulator" ],
-      [ "IndexAccumulator< 1, Nd_t_, Check >", "classhelpers_1_1IndexAccumulator_3_011_00_01Nd__t___00_01Check_01_4.html", "classhelpers_1_1IndexAccumulator_3_011_00_01Nd__t___00_01Check_01_4" ],
-      [ "IndexAccumulator_Base", "classhelpers_1_1IndexAccumulator__Base.html", "classhelpers_1_1IndexAccumulator__Base" ]
+      [ "IndexAccumulator< 1, Nd_t_, Check >", "classhelpers_1_1IndexAccumulator_3_011_00_01Nd__t___00_01Check_01_4.html", "classhelpers_1_1IndexAccumulator_3_011_00_01Nd__t___00_01Check_01_4" ]
     ] ],
     [ "PrintingToolbox", "namespacePrintingToolbox.html", [
       [ "CTablePrinter", "classPrintingToolbox_1_1CTablePrinter.html", "classPrintingToolbox_1_1CTablePrinter" ]
     ] ],
     [ "simd", "namespacesimd.html", [
       [ "SizeTag", "namespacesimd_1_1SizeTag.html", [
-        [ "EIGHT", "structsimd_1_1SizeTag_1_1EIGHT.html", null ],
+        [ "TWO", "structsimd_1_1SizeTag_1_1TWO.html", null ],
         [ "FOUR", "structsimd_1_1SizeTag_1_1FOUR.html", null ],
-        [ "SIXTEEN", "structsimd_1_1SizeTag_1_1SIXTEEN.html", null ],
-        [ "TWO", "structsimd_1_1SizeTag_1_1TWO.html", null ]
+        [ "EIGHT", "structsimd_1_1SizeTag_1_1EIGHT.html", null ],
+        [ "SIXTEEN", "structsimd_1_1SizeTag_1_1SIXTEEN.html", null ]
       ] ],
       [ "Array", "classsimd_1_1Array.html", "classsimd_1_1Array" ]
     ] ],
@@ -43,27 +59,18 @@ var annotated_dup =
       [ "Passive< su2double >", "structSU2__TYPE_1_1Passive_3_01su2double_01_4.html", null ]
     ] ],
     [ "VecExpr", "namespaceVecExpr.html", [
-      [ "abs_", "classVecExpr_1_1abs__.html", "classVecExpr_1_1abs__" ],
-      [ "add_", "classVecExpr_1_1add__.html", "classVecExpr_1_1add__" ],
+      [ "CVecExpr", "classVecExpr_1_1CVecExpr.html", "classVecExpr_1_1CVecExpr" ],
+      [ "Bcast", "classVecExpr_1_1Bcast.html", "classVecExpr_1_1Bcast" ],
       [ "add_lref_if", "structVecExpr_1_1add__lref__if.html", "structVecExpr_1_1add__lref__if" ],
       [ "add_lref_if< T, true >", "structVecExpr_1_1add__lref__if_3_01T_00_01true_01_4.html", "structVecExpr_1_1add__lref__if_3_01T_00_01true_01_4" ],
-      [ "Bcast", "classVecExpr_1_1Bcast.html", "classVecExpr_1_1Bcast" ],
-      [ "CVecExpr", "classVecExpr_1_1CVecExpr.html", "classVecExpr_1_1CVecExpr" ],
-      [ "div_", "classVecExpr_1_1div__.html", "classVecExpr_1_1div__" ],
-      [ "eq_", "classVecExpr_1_1eq__.html", "classVecExpr_1_1eq__" ],
-      [ "ge_", "classVecExpr_1_1ge__.html", "classVecExpr_1_1ge__" ],
-      [ "gt_", "classVecExpr_1_1gt__.html", "classVecExpr_1_1gt__" ],
-      [ "le_", "classVecExpr_1_1le__.html", "classVecExpr_1_1le__" ],
-      [ "lt_", "classVecExpr_1_1lt__.html", "classVecExpr_1_1lt__" ],
+      [ "minus_", "classVecExpr_1_1minus__.html", "classVecExpr_1_1minus__" ],
+      [ "abs_", "classVecExpr_1_1abs__.html", "classVecExpr_1_1abs__" ],
+      [ "sqrt_", "classVecExpr_1_1sqrt__.html", "classVecExpr_1_1sqrt__" ],
+      [ "sign_", "classVecExpr_1_1sign__.html", "classVecExpr_1_1sign__" ],
       [ "max_", "classVecExpr_1_1max__.html", "classVecExpr_1_1max__" ],
       [ "min_", "classVecExpr_1_1min__.html", "classVecExpr_1_1min__" ],
-      [ "minus_", "classVecExpr_1_1minus__.html", "classVecExpr_1_1minus__" ],
-      [ "mul_", "classVecExpr_1_1mul__.html", "classVecExpr_1_1mul__" ],
-      [ "ne_", "classVecExpr_1_1ne__.html", "classVecExpr_1_1ne__" ],
       [ "pow_", "classVecExpr_1_1pow__.html", "classVecExpr_1_1pow__" ],
-      [ "sign_", "classVecExpr_1_1sign__.html", "classVecExpr_1_1sign__" ],
-      [ "sqrt_", "classVecExpr_1_1sqrt__.html", "classVecExpr_1_1sqrt__" ],
-      [ "sub_", "classVecExpr_1_1sub__.html", "classVecExpr_1_1sub__" ]
+      [ "add_", "classVecExpr_1_1add__.html", "classVecExpr_1_1add__" ]
     ] ],
     [ "ARRAY_T", "classARRAY__T.html", "classARRAY__T" ],
     [ "C1DInterpolation", "classC1DInterpolation.html", "classC1DInterpolation" ],

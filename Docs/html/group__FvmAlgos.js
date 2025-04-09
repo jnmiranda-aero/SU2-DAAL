@@ -1,11 +1,11 @@
 var group__FvmAlgos =
 [
-    [ "CLimiterDetails< LimiterKind >", "structCLimiterDetails.html", [
+    [ "CLimiterDetails", "structCLimiterDetails.html", [
       [ "geometricFactor", "structCLimiterDetails.html#a52b3b86e46952f722bc4d847b3fb6c4a", null ],
       [ "limiterFunction", "structCLimiterDetails.html#aeff9c651f7c72e0cd16bf0d5d71403e6", null ],
       [ "preprocess", "structCLimiterDetails.html#a8bcd1c1f478a455576e159a1673cd8b8", null ]
     ] ],
-    [ "LimiterHelpers< Type >", "structLimiterHelpers.html", null ],
+    [ "LimiterHelpers", "structLimiterHelpers.html", null ],
     [ "CLimiterDetails< LIMITER::BARTH_JESPERSEN >", "structCLimiterDetails_3_01LIMITER_1_1BARTH__JESPERSEN_01_4.html", [
       [ "geometricFactor", "structCLimiterDetails_3_01LIMITER_1_1BARTH__JESPERSEN_01_4.html#a17c9bd47a69aec0da4f303b440be7c73", null ],
       [ "limiterFunction", "structCLimiterDetails_3_01LIMITER_1_1BARTH__JESPERSEN_01_4.html#a09352f797e6051b9efcf9fb929a76f79", null ],
@@ -58,13 +58,15 @@ var group__FvmAlgos =
       [ "eps2", "structCLimiterDetails_3_01LIMITER_1_1WALL__DISTANCE_01_4.html#ae5dd5d7a38491552820a9c4510d54a73", null ],
       [ "sharpCoeff", "structCLimiterDetails_3_01LIMITER_1_1WALL__DISTANCE_01_4.html#a5b85402a9544180ffe5ca34c4ee67b96", null ]
     ] ],
-    [ "detail::computeGradientsGreenGauss", "group__FvmAlgos.html#ga031dfb21c1777c986ae93d716ec4568b", null ],
-    [ "computeGradientsGreenGauss", "group__FvmAlgos.html#gabc5144134fe922fe1bbd5db893ef2c29", null ],
-    [ "detail::computeGradientsLeastSquares", "group__FvmAlgos.html#ga186a32bf8b211a50432fe55a6a608c21", null ],
-    [ "computeGradientsLeastSquares", "group__FvmAlgos.html#gab862f00f600596f6a062cddd29ca7da5", null ],
+    [ "computeGradientsGreenGauss", "group__FvmAlgos.html#ga32c639c72ec9d09a704d5f8056f28c35", null ],
+    [ "computeGradientsGreenGauss", "group__FvmAlgos.html#ga787bc4eedceb98a7aa533856b6f5bc1a", null ],
+    [ "computeGradientsLeastSquares", "group__FvmAlgos.html#ga01c113d467c9ccfdfe83ec5b3d48d321", null ],
+    [ "computeGradientsLeastSquares", "group__FvmAlgos.html#gaea8d836040dfd0ee3dd0adf6fbc1b911", null ],
     [ "computeLimiters", "group__FvmAlgos.html#ga98ad7a9a40934caf2774d32c4c277c05", null ],
     [ "computeLimiters_impl", "group__FvmAlgos.html#ga4639562695f9dc19f098e6d00fcacde1", null ],
-    [ "detail::computeSmatrix", "group__FvmAlgos.html#gad25e4dc6bff243b183e7799048f7c14c", null ],
-    [ "detail::computeSmatrix", "group__FvmAlgos.html#gab075c48123f51f6e98054541bde2d2ab", null ],
-    [ "detail::solveLeastSquares", "group__FvmAlgos.html#ga9958d5c208f07e6c16cc9951f3d3d68f", null ]
+    [ "computeSmatrix", "group__FvmAlgos.html#gad25e4dc6bff243b183e7799048f7c14c", null ],
+    [ "computeSmatrix", "group__FvmAlgos.html#gab075c48123f51f6e98054541bde2d2ab", null ],
+    [ "correctGradient", "group__FvmAlgos.html#ga2a54d2932eec644384d8766f16c9688f", null ],
+    [ "correctGradientsSymmetry", "group__FvmAlgos.html#gaf308dec151f11da3124639f0eb1ec3dd", null ],
+    [ "solveLeastSquares", "group__FvmAlgos.html#ga9958d5c208f07e6c16cc9951f3d3d68f", null ]
 ];

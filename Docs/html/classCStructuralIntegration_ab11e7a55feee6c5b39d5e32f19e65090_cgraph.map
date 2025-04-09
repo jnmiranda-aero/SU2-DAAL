@@ -1,0 +1,15 @@
+<map id="CStructuralIntegration::SetDualTime_Solver" name="CStructuralIntegration::SetDualTime_Solver">
+<area shape="rect" id="node1" title="Save the solution at different time steps, and reset certain fields for the next timestep." alt="" coords="5,247,171,288"/>
+<area shape="rect" id="node2" href="$classCSolver.html#a132ad22ea25f96f9eff45f319dab91df" title="A virtual member." alt="" coords="221,5,415,47"/>
+<area shape="rect" id="node3" href="$classCSolver.html#ab840f66d53bebbdcefd00a5df37854dc" title="A virtual member." alt="" coords="221,71,415,112"/>
+<area shape="rect" id="node4" href="$classCConfig.html#ab3fdf060d59e990ed2e9418e8df56ad7" title="Check if the simulation we are running is a FSI simulation." alt="" coords="219,137,417,163"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a798db1b852455fa86d9d04098a3ccf19" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="223,188,413,229"/>
+<area shape="rect" id="node6" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="246,254,390,281"/>
+<area shape="rect" id="node7" href="$classCConfig.html#ac7b671985bcacb8cf7ab4156ae32ae07" title="Get whether a relaxation parameter is used for FSI applications." alt="" coords="231,305,405,331"/>
+<area shape="rect" id="node8" href="$classCSolver.html#af57ab4cc92d03225c6bfc791efbd06ea" title="A virtual member." alt="" coords="222,356,414,397"/>
+<area shape="rect" id="node9" href="$classCVariable.html#abf55f051089ec13d9c0422ed3389a9dc" title="Set the variable solution at time n." alt="" coords="231,421,405,463"/>
+<area shape="rect" id="node13" href="$classCSolver.html#a1a4063538e0abc8740b3b2ade533ed18" title="A virtual member." alt="" coords="241,487,395,528"/>
+<area shape="rect" id="node10" href="$classcontainer__details_1_1AccessorImpl.html#a5b5318f7212e57c13e464c398f74b3d5" title=" " alt="" coords="465,363,612,404"/>
+<area shape="rect" id="node11" href="$omp__structure_8hpp.html#a3af8b37ed645164f4c3441fa75e5fa76" title="Copy data from one array&#45;like object to another in parallel." alt="" coords="487,429,591,455"/>
+<area shape="rect" id="node12" href="$classC2DContainer.html#a8278113dbcf54123f9852e7e44583759" title=" " alt="" coords="465,479,612,506"/>
+</map>

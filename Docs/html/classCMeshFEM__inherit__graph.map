@@ -1,0 +1,6 @@
+<map id="CMeshFEM" name="CMeshFEM">
+<area shape="rect" id="node1" title="Base class for the FEM solver." alt="" coords="45,80,139,107"/>
+<area shape="rect" id="node3" href="$classCMeshFEM__DG.html" title="Class which contains all the variables for the DG FEM solver." alt="" coords="31,155,153,181"/>
+<area shape="rect" id="node2" href="$classCGeometry.html" title="Parent class for defining the geometry of the problem (complete geometry, multigrid agglomerated geom..." alt="" coords="44,5,140,32"/>
+<area shape="rect" id="node4" href="$classCDummyMeshFEM__DG.html" title="Class for defining a DG geometry that does not contain any points/elements. Can be used for initializ..." alt="" coords="5,229,179,256"/>
+</map>

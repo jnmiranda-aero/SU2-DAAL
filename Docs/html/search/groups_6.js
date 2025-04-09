@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['history_20and_20file_20output_0',['Screen, history, and file output',['../group__Output.html',1,'']]]
+  ['python_20wrapper_20functions_18217',['Python Wrapper functions',['../group__PySU2.html',1,'']]]
 ];

@@ -1,0 +1,30 @@
+<map id="COutput::COutput" name="COutput::COutput">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,650,141,677"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="455,770,636,797"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a45af91caecf4cb05f4ecac4e7a2d2097" title="Get the number of iterations that are considered in the Cauchy convergence criteria." alt="" coords="223,71,373,112"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a54d79b52fc5c4198157ef11582cbe0f0" title="Get the value of convergence criteria for the Cauchy method in the direct, adjoint or linearized prob..." alt="" coords="207,137,389,163"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a5f9af0aa92f819a6c19d3f062d95d91f" title="Get the convergence fields for monitoring." alt="" coords="211,187,385,214"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a86d9f156005ee6bc4e29f40442401834" title="Get the name of the file with the convergence history of the problem." alt="" coords="195,238,401,265"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a0d621cd7f5ae0d10dd13fae610db028a" title="Get the history output field iField." alt="" coords="201,289,395,331"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a1d6335b8fdef6fbcd9a08f7503d73ec1" title="Provides the number of varaibles." alt="" coords="228,355,368,382"/>
+<area shape="rect" id="node10" href="$classCConfig.html#ac84b4bb9dea8f738b0de0981c2d2fd1a" title="Value of the minimum residual value (log10 scale)." alt="" coords="195,406,401,433"/>
+<area shape="rect" id="node11" href="$classCConfig.html#a61c920139166480ec24575d47a39b5a6" title="Append the zone index to the restart or the solution files." alt="" coords="215,5,381,47"/>
+<area shape="rect" id="node14" href="$classCConfig.html#afa2401f582eb2f7210b27f87307c63a4" title="Get the number of convergence monitoring fields for inner convergence monitoring. return Number of co..." alt="" coords="207,523,389,550"/>
+<area shape="rect" id="node15" href="$classCConfig.html#a782722f59658cefdcffe477fffd73f55" title="Get the number of history output variables requested." alt="" coords="197,574,399,601"/>
+<area shape="rect" id="node16" href="$classCConfig.html#a14e82049bc8b28475aa90d68e0a8c7af" title="Get the number of screen output variables requested (maximum 6)" alt="" coords="199,625,397,651"/>
+<area shape="rect" id="node17" href="$classCConfig.html#a2e6ae015ae8b53dc0131076ddd8850c5" title="Get the number of history output variables requested." alt="" coords="196,675,400,702"/>
+<area shape="rect" id="node18" href="$classCConfig.html#aed3b4ece9d4aa7636a66f4ad44c95e7c" title="Get the number of convergence monitoring fields for time convergence monitoring. return Number of con..." alt="" coords="211,727,385,768"/>
+<area shape="rect" id="node19" href="$classCConfig.html#ae55bdae4e8b4e61fd07a857005cc6799" title="Provides the restart information." alt="" coords="223,793,373,819"/>
+<area shape="rect" id="node20" href="$classCConfig.html#aeca467e3a7c02d72b28ade957614035c" title="Get the restart iteration." alt="" coords="209,843,387,870"/>
+<area shape="rect" id="node21" href="$classCConfig.html#a131c5280895f204bdf520c760c660837" title="Get the screen output field iField." alt="" coords="203,895,393,936"/>
+<area shape="rect" id="node22" href="$classCConfig.html#a4ac4d812d4065f2955d72733cd0c4f6f" title="Get the format of the output solution." alt="" coords="223,960,373,1001"/>
+<area shape="rect" id="node23" href="$classCConfig.html#a85d2e3cf43b77c63642c40c235b853f3" title="Check if the multizone problem is solved for time domain." alt="" coords="201,1026,395,1053"/>
+<area shape="rect" id="node24" href="$classCConfig.html#a6a372823bb1dd2d55e81488b720752d6" title="Augment the input filename with the iteration number for an unsteady file." alt="" coords="215,457,381,499"/>
+<area shape="rect" id="node25" href="$classCConfig.html#a433d4611e28e1570f24d6a569fdb8c68" title="Get the history output field iField." alt="" coords="200,1128,396,1169"/>
+<area shape="rect" id="node26" href="$classCConfig.html#a0716bc4313328e0e653dd9c3ebb1f939" title="Get the number of iterations that are considered in the Cauchy convergence criteria for the windowed ..." alt="" coords="205,1193,391,1235"/>
+<area shape="rect" id="node27" href="$classCConfig.html#a1ce27a955069e46c24eb24c632417475" title="Get the value of convergence criteria for the Cauchy method for the time averaged windowed objective ..." alt="" coords="189,1259,407,1286"/>
+<area shape="rect" id="node28" href="$classCConfig.html#a6488e2c2719b113455703d26fabde70a" title="Get functional that is going to be used to evaluate the convergence of the windowed time average of t..." alt="" coords="215,1311,381,1352"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="684,770,869,797"/>
+<area shape="rect" id="node12" href="$namespaceSU2__TYPE.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="489,13,601,39"/>
+<area shape="rect" id="node13" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="699,13,854,39"/>
+</map>

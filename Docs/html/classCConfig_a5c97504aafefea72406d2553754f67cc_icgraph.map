@@ -1,0 +1,6 @@
+<map id="CConfig::GetSpatialFourier" name="CConfig::GetSpatialFourier">
+<area shape="rect" id="node1" title="Verify if there is mixing plane interface specified from config file." alt="" coords="441,35,635,61"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a40fad0a57e8dcba8a8f4d4fa8eab02f0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="223,5,393,32"/>
+<area shape="rect" id="node3" href="$classCIntegration.html#af7aa23ef26b19cb2e73a8df6c7924d91" title="Do the space integration of the numerical system." alt="" coords="233,57,383,98"/>
+<area shape="rect" id="node4" href="$classCSingleGridIntegration.html#a62ebec93c34c032bcfacc24f8613fd9b" title="Do the numerical integration (implicit) of the turbulence solver." alt="" coords="5,57,175,98"/>
+</map>

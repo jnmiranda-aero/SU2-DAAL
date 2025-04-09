@@ -1,0 +1,4 @@
+<map id="CConfig::GetParMETIS_PointWeight" name="CConfig::GetParMETIS_PointWeight">
+<area shape="rect" id="node1" title="Get the ParMETIS load balancing weight for points." alt="" coords="212,5,375,47"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#a27f2280d718b6ce42b4ff31476f5e32b" title="Set the domains for grid grid partitioning using ParMETIS." alt="" coords="5,5,164,47"/>
+</map>

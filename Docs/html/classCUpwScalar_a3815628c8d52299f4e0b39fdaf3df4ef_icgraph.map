@@ -1,0 +1,4 @@
+<map id="CUpwScalar::FinishResidualCalc" name="CUpwScalar::FinishResidualCalc">
+<area shape="rect" id="node1" title="Model&#45;specific steps in the ComputeResidual method, derived classes compute the Flux and its Jacobian..." alt="" coords="276,5,507,32"/>
+<area shape="rect" id="node2" href="$classCUpwScalar.html#af30d3fd2b982ed558923432dfc896ad3" title="Compute the scalar upwind flux between two nodes i and j." alt="" coords="5,5,228,32"/>
+</map>

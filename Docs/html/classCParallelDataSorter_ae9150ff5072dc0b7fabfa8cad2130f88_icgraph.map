@@ -1,0 +1,8 @@
+<map id="CParallelDataSorter::GetnElemGlobal" name="CParallelDataSorter::GetnElemGlobal">
+<area shape="rect" id="node1" title="Get the global number of elements." alt="" coords="497,78,647,119"/>
+<area shape="rect" id="node2" href="$classCParallelDataSorter.html#a31329f73e624456af5f988c149d483a2" title="Set the total number of elements after sorting individual element types." alt="" coords="300,78,449,119"/>
+<area shape="rect" id="node3" href="$classCFEMDataSorter.html#a64ab49586d00b34fc18ba4f672b9ff10" title="Sort the connectivities (volume and surface) into data structures used for output file writing." alt="" coords="6,5,251,32"/>
+<area shape="rect" id="node4" href="$classCFVMDataSorter.html#a0a1b263a6fddcf58bd0cff475f5db975" title="Sort the connectivities (volume and surface) into data structures used for output file writing." alt="" coords="5,56,252,83"/>
+<area shape="rect" id="node5" href="$classCSurfaceFEMDataSorter.html#a164bb09b5fcfaca2c080130bb0d3599a" title="Sort the connectivities (volume and surface) into data structures used for output file writing...." alt="" coords="39,107,218,149"/>
+<area shape="rect" id="node6" href="$classCSurfaceFVMDataSorter.html#a9d9da9912882fd078f7f8c5be02c3803" title="Sort the connectivities (volume and surface) into data structures used for output file writing...." alt="" coords="39,173,218,214"/>
+</map>

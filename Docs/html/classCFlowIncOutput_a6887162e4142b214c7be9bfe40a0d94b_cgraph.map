@@ -1,0 +1,15 @@
+<map id="CFlowIncOutput::CFlowIncOutput" name="CFlowIncOutput::CFlowIncOutput">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,352,197,393"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a085accf5825cdba0219fc734f4fadb8c" title="Flag for whether to solve the energy equation for incompressible flows." alt="" coords="293,5,441,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a1d6335b8fdef6fbcd9a08f7503d73ec1" title="Provides the number of varaibles." alt="" coords="297,71,437,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a7416428b6139fe85180e5e8d190506aa" title="Get the kind of the species model." alt="" coords="272,123,461,164"/>
+<area shape="rect" id="node5" href="$classCConfig.html#aae21b37c088347be2a7e02fc0ad4e4c4" title="Get information about the streamwise periodicity (None, Pressure_Drop, Massflow)." alt="" coords="259,188,475,229"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a42cf888b42ce34079b2e3987bbf147dd" title="Get the kind of the turbulence model." alt="" coords="283,253,450,295"/>
+<area shape="rect" id="node7" href="$classCConfig.html#af3031af8509878702b4045584ab16ed3" title="Get the name of the restart file for the flow variables." alt="" coords="291,319,442,360"/>
+<area shape="rect" id="node8" href="$classCConfig.html#aee399839d7c6bfcf5264df681d0b6e52" title="Get information about the streamwise periodicity Energy equation handling." alt="" coords="277,384,457,425"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a16f99e8cc6c1bf42cc4a7b15e5d1dee1" title="Get the name of the file with the surface information for the flow problem." alt="" coords="285,449,448,491"/>
+<area shape="rect" id="node10" href="$classCConfig.html#a85d2e3cf43b77c63642c40c235b853f3" title="Check if the multizone problem is solved for time domain." alt="" coords="269,515,464,542"/>
+<area shape="rect" id="node11" href="$classCConfig.html#a032b7d16a6ce08d53d69d3f258a89588" title="Get the name of the file with the flow variables." alt="" coords="291,567,443,608"/>
+<area shape="rect" id="node12" href="$classCConfig.html#a6c5a2aaac3040fabbfe15752ea19780e" title="Get the heat equation." alt="" coords="291,632,442,673"/>
+<area shape="rect" id="node13" href="$classCOutput.html#a1bc579cd9df2166419d6e5e2d1d2c901" title="Request the history fields common for all solvers." alt="" coords="245,698,488,725"/>
+</map>

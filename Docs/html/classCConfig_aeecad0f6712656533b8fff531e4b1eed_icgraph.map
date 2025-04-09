@@ -1,0 +1,5 @@
+<map id="CConfig::GetInc_Outlet_Damping" name="CConfig::GetInc_Outlet_Damping">
+<area shape="rect" id="node1" title="Get the damping factor applied to pressure updates at incompressible mass flow outlet." alt="" coords="229,39,399,80"/>
+<area shape="rect" id="node2" href="$classCIncEulerSolver.html#afc1e6b64c1d323261468e1aa04b110ad" title="Impose the outlet boundary condition." alt="" coords="18,5,169,47"/>
+<area shape="rect" id="node3" href="$classCIncEulerSolver.html#a5f9ced3a85731749b16d6f1bac9460f6" title="Source term integration." alt="" coords="5,71,181,112"/>
+</map>

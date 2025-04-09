@@ -1,0 +1,7 @@
+<map id="Common/include/geometry/primal_grid/CPrimalGridFEM.hpp" name="Common/include/geometry/primal_grid/CPrimalGridFEM.hpp">
+<area shape="rect" id="node1" title="Headers of the main subroutines for storing the primal grid structure. The subroutines and functions ..." alt="" coords="296,5,535,47"/>
+<area shape="rect" id="node2" href="$fem__cgns__elements_8hpp.html" title="Headers of the classes and functions for reading CGNS files with high order elements...." alt="" coords="5,95,191,136"/>
+<area shape="rect" id="node3" href="$fem__geometry__structure_8cpp.html" title="Functions for creating the primal grid for the FEM solver." alt="" coords="215,95,399,136"/>
+<area shape="rect" id="node4" href="$geometry__structure__fem__part_8cpp.html" title="Main subroutines for distributin the grid for the Fluid FEM solver." alt="" coords="424,95,625,136"/>
+<area shape="rect" id="node5" href="$CPrimalGridFEM_8cpp.html" title="Main classes for defining the primal grid elements." alt="" coords="650,95,887,136"/>
+</map>

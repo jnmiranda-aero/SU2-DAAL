@@ -1,9 +1,9 @@
 var vectorization_8hpp =
 [
-    [ "simd::SizeTag::TWO", "structsimd_1_1SizeTag_1_1TWO.html", null ],
-    [ "simd::SizeTag::FOUR", "structsimd_1_1SizeTag_1_1FOUR.html", null ],
-    [ "simd::SizeTag::EIGHT", "structsimd_1_1SizeTag_1_1EIGHT.html", null ],
-    [ "simd::SizeTag::SIXTEEN", "structsimd_1_1SizeTag_1_1SIXTEEN.html", null ],
+    [ "TWO", "structsimd_1_1SizeTag_1_1TWO.html", null ],
+    [ "FOUR", "structsimd_1_1SizeTag_1_1FOUR.html", null ],
+    [ "EIGHT", "structsimd_1_1SizeTag_1_1EIGHT.html", null ],
+    [ "SIXTEEN", "structsimd_1_1SizeTag_1_1SIXTEEN.html", null ],
     [ "ARRAY_BOILERPLATE", "vectorization_8hpp.html#aad159ceca321f4ae4ef62f629dd6c7fd", null ],
     [ "ARRAY_T", "group__SIMD.html#gab28d4d69a0864c7daedb0f039f1b0904", null ],
     [ "FOREACH", "vectorization_8hpp.html#a7454d4a34d1c455e775211e6c1198fdb", null ],

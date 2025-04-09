@@ -1,0 +1,9 @@
+<map id="CFluidModel::SetLaminarViscosityModel" name="CFluidModel::SetLaminarViscosityModel">
+<area shape="rect" id="node1" title="Set viscosity model." alt="" coords="600,57,844,98"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="259,9,543,36"/>
+<area shape="rect" id="node4" href="$classCIncEulerSolver.html#a2cffaa24417cb3803d36d38b3874d6d0" title="Set the solver nondimensionalization." alt="" coords="249,64,552,91"/>
+<area shape="rect" id="node6" href="$classCFEM__DG__EulerSolver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="300,118,501,159"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460" title="Main constructor of this class." alt="" coords="5,5,201,32"/>
+<area shape="rect" id="node5" href="$classCIncEulerSolver.html#a2a0c72c1d1d79e45c69da03e01f6281a" title="Constructor of the class." alt="" coords="7,57,200,98"/>
+<area shape="rect" id="node7" href="$classCFEM__DG__EulerSolver.html#a70d30ef9e7cd7620d54ec73f4b1ed28c" title=" " alt="" coords="16,122,191,163"/>
+</map>

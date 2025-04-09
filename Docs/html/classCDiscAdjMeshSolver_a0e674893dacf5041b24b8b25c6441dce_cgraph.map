@@ -1,0 +1,7 @@
+<map id="CDiscAdjMeshSolver::SetRecording" name="CDiscAdjMeshSolver::SetRecording">
+<area shape="rect" id="node1" title="Prepare the solver for a new recording." alt="" coords="5,64,161,105"/>
+<area shape="rect" id="node2" href="$classCDiscAdjMeshBoundVariable.html#ae5f0b2d0870466c473e27592298db2cf" title="Get the value of the displacement imposed at the boundary." alt="" coords="209,5,419,47"/>
+<area shape="rect" id="node4" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="242,71,386,98"/>
+<area shape="rect" id="node5" href="$classCVariable.html#a840431a0403b4bddd0a99dbfdf365795" title="A virtual member. Set the boundary displacement." alt="" coords="219,122,409,149"/>
+<area shape="rect" id="node3" href="$classCVertexMap.html#ae62665f7065cb9e31c2aec1ec90c0afc" title="Convert a point index to vertex index." alt="" coords="467,13,677,39"/>
+</map>

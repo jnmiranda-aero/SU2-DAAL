@@ -1,0 +1,5 @@
+<map id="CConfig::GetTopology_Search_Limit" name="CConfig::GetTopology_Search_Limit">
+<area shape="rect" id="node1" title="Get the maximum &quot;logical radius&quot; (degree of neighborhood) to consider in the neighbor search." alt="" coords="489,5,651,47"/>
+<area shape="rect" id="node2" href="$classCFEASolver.html#a7e11c36921b2c146ca2fd7d1a0512ffd" title="Filter the density field for topology optimization applications." alt="" coords="249,5,441,47"/>
+<area shape="rect" id="node3" href="$classCFEASolver.html#a353159e003821dae0668dcfe7281bd68" title="Set residuals to zero." alt="" coords="5,13,201,39"/>
+</map>

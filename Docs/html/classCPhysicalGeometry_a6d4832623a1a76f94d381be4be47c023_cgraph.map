@@ -1,0 +1,8 @@
+<map id="CPhysicalGeometry::SetBoundTecPlot" name="CPhysicalGeometry::SetBoundTecPlot">
+<area shape="rect" id="node1" title="Set the output file for boundaries in Tecplot." alt="" coords="5,107,163,149"/>
+<area shape="rect" id="node2" href="$classCPoint.html#aee8456be1ccbc1d3532b29a8f6d8878c" title="Provides information about if a point belong to the boundaries." alt="" coords="222,5,379,32"/>
+<area shape="rect" id="node3" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="234,56,367,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a1f6283ef302ebfc352d3cb6b0a34b08d" title="Get the plotting information for a marker val_marker." alt="" coords="227,107,375,149"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="211,173,391,200"/>
+<area shape="rect" id="node6" href="$classCPrimalGrid.html#a6353b89f5a8a3948cd475da6152bf077" title="Get the nodes shared by the primal grid element." alt="" coords="218,224,383,251"/>
+</map>

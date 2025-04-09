@@ -1,0 +1,52 @@
+<map id="CEulerSolver::TurboAverageProcess" name="CEulerSolver::TurboAverageProcess">
+<area shape="rect" id="node1" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="5,1233,207,1274"/>
+<area shape="rect" id="node2" href="$group__SIMD.html#gaf7650d08e2a58ed700276ddc70f72f96" title=" " alt="" coords="633,50,678,76"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="271,236,481,263"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#a364acc3006e3dd89993bb06db62488fd" title="it take a velocity in the cartesian reference of framework and transform into the turbomachinery fram..." alt="" coords="274,288,478,329"/>
+<area shape="rect" id="node5" href="$classCEulerSolver.html#a5e3f6f32251ecccedd9018487e8118f0" title="it take a velocity in the cartesian reference of framework and transform into the turbomachinery fram..." alt="" coords="273,353,479,394"/>
+<area shape="rect" id="node6" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="285,419,467,446"/>
+<area shape="rect" id="node8" href="$classCTurboVertex.html#a72553841f50964c0c3a2847623162e0d" title="get face Area associate to the vertex." alt="" coords="291,470,461,496"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a149fe458b48278e8e41082d109d9ba41" title="Get mach limit for average massflow&#45;based procedure ." alt="" coords="264,520,488,547"/>
+<area shape="rect" id="node10" href="$classCGeometry.html#a18a047ab5bc0f2e4228b547ec9ece0db" title="Get the average normal at a specific span for a given marker in the turbomachinery reference of frame..." alt="" coords="269,572,483,613"/>
+<area shape="rect" id="node11" href="$classCConfig.html#a66dc2659eeb8675240c6b2aa96de3be0" title="Verify if there is any Riemann Boundary Condition option specified from config file." alt="" coords="281,638,471,664"/>
+<area shape="rect" id="node12" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="268,688,484,715"/>
+<area shape="rect" id="node13" href="$classCEulerVariable.html#ab8ef32400854040ecb883825f907bed3" title="Get the density of the flow." alt="" coords="277,739,475,766"/>
+<area shape="rect" id="node14" href="$classCEulerVariable.html#acaf8904fb43c0f0c8600c0da5b5397af" title="Get the enthalpy of the flow." alt="" coords="273,790,479,816"/>
+<area shape="rect" id="node16" href="$classCEulerSolver.html#accba81bb7af172dea84d9d1826cab862" title="Compute the pressure at the infinity." alt="" coords="551,104,759,131"/>
+<area shape="rect" id="node18" href="$classCConfig.html#a6addffe7feb27af55b293ae3107da164" title="Get the var 1 for the Giels BC." alt="" coords="290,840,462,867"/>
+<area shape="rect" id="node19" href="$classCConfig.html#a1d6335b8fdef6fbcd9a08f7503d73ec1" title="Provides the number of varaibles." alt="" coords="306,891,446,918"/>
+<area shape="rect" id="node20" href="$classCConfig.html#a92b562d845bd1cf09c60118f7d2a96da" title="Get the kind of mixing process for averaging quantities at the boundaries." alt="" coords="280,942,472,984"/>
+<area shape="rect" id="node21" href="$classCConfig.html#a31881e198abedf14f815562917f6cb16" title="Get Kind Data for the Giles BC." alt="" coords="291,1008,461,1049"/>
+<area shape="rect" id="node22" href="$classCConfig.html#add316d9d3df8e7ad23763a203add8dc0" title="Get Kind Data of Riemann boundary." alt="" coords="291,1073,461,1114"/>
+<area shape="rect" id="node23" href="$classCConfig.html#a43ce30c5ca78f3bc155590874be6158d" title="Get the kind of mixing process for averaging quantities at the boundaries." alt="" coords="265,1138,487,1180"/>
+<area shape="rect" id="node24" href="$classCConfig.html#a42cf888b42ce34079b2e3987bbf147dd" title="Get the kind of the turbulence model." alt="" coords="293,1204,459,1245"/>
+<area shape="rect" id="node25" href="$classCConfig.html#af2e6f0468842a345575889120e849c4a" title="Get the kind of turbomachinery architecture." alt="" coords="255,1270,497,1296"/>
+<area shape="rect" id="node26" href="$classCConfig.html#a2f8b0b48a0a97e4bb282a3f1ac711780" title="Get the Giles boundary information for a marker val_marker." alt="" coords="302,1321,450,1362"/>
+<area shape="rect" id="node27" href="$classCConfig.html#ab8c9c1f45950a29355be4ff357049440" title="Get the index of the surface defined in the geometry file." alt="" coords="302,1386,450,1428"/>
+<area shape="rect" id="node28" href="$classCConfig.html#a489191993251fecdfec09e65446b2fa3" title="Get the Turbomachinery information for a marker val_marker." alt="" coords="297,1452,455,1493"/>
+<area shape="rect" id="node29" href="$classCConfig.html#ae92ecce81d1a01aff7bb2df3c525f61c" title="Get the Turbomachinery flag information for a marker val_marker." alt="" coords="283,1517,469,1558"/>
+<area shape="rect" id="node30" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="286,1583,466,1610"/>
+<area shape="rect" id="node31" href="$classCConfig.html#a2caf35ccfb5e2b96bd5f53054c42fee6" title="number Turbomachinery performance option specified from config file." alt="" coords="298,1634,454,1676"/>
+<area shape="rect" id="node32" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="307,1700,445,1727"/>
+<area shape="rect" id="node33" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="304,1751,448,1778"/>
+<area shape="rect" id="node34" href="$classCVertex.html#a57cacfe764770e6c0e54c278cb584f7c" title="Copy the the normal vector of a face." alt="" coords="300,1802,452,1828"/>
+<area shape="rect" id="node35" href="$classCConfig.html#a50c6d8787325e09d732ecb9c4af96e93" title="number span&#45;wise sections to compute 3D BC and performance for turbomachinery." alt="" coords="261,1852,491,1879"/>
+<area shape="rect" id="node36" href="$classCGeometry.html#a9eb8d5a06f628a26525092f651fb594a" title="A total number of vertex independently from the MPI partions." alt="" coords="263,1903,489,1930"/>
+<area shape="rect" id="node37" href="$classCGeometry.html#a81c34ad0099221f81fb0beb88f994148" title="Get number of vertices." alt="" coords="272,1954,480,1980"/>
+<area shape="rect" id="node38" href="$classCEulerVariable.html#a5e1ee3cd1062365d7da17ee3ee49537e" title="Get the flow pressure." alt="" coords="274,2004,478,2031"/>
+<area shape="rect" id="node40" href="$classCConfig.html#a75b1f9203bdb8ced64323a100fa3aef9" title="Get the value of the reference pressure for non&#45;dimensionalization." alt="" coords="282,2055,470,2082"/>
+<area shape="rect" id="node41" href="$classCConfig.html#aa993ad5d9cf8ef69619d29f043149960" title="Get the var 1 at Riemann boundary." alt="" coords="277,2106,475,2132"/>
+<area shape="rect" id="node42" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="292,2156,460,2183"/>
+<area shape="rect" id="node43" href="$classCFluidModel.html#a114d121d918607fe923446ad733b2c62" title="Get fluid speed of sound." alt="" coords="269,2207,483,2234"/>
+<area shape="rect" id="node45" href="$classCGeometry.html#a0f8752f57588e44465ab07e34490ac0e" title="Get the value of the total area for each span." alt="" coords="282,2258,470,2284"/>
+<area shape="rect" id="node46" href="$classCTurboVertex.html#ad72f5115828f49f0fafdc66b00f3ece4" title="Copy the the turbo normal vector of a face." alt="" coords="265,2308,487,2335"/>
+<area shape="rect" id="node47" href="$classCGeometry.html#a8b4ea7303813a238f47b4d42b5a0de5d" title="Get the value of the total area for each span." alt="" coords="273,2359,479,2386"/>
+<area shape="rect" id="node48" href="$classCEulerVariable.html#afb2ba375855bc63c9bc96227efaece99" title="Get the velocity of the flow." alt="" coords="276,2410,476,2436"/>
+<area shape="rect" id="node49" href="$classCEulerSolver.html#ad3cdd2a1dd358b558857951b8a339318" title="it performs a mixed out average of the nodes of a boundary." alt="" coords="289,69,463,110"/>
+<area shape="rect" id="node50" href="$classCFluidModel.html#a7748f80460e9a907b0d0002e98d4d281" title="virtual member that would be different for each gas model implemented" alt="" coords="545,171,765,198"/>
+<area shape="rect" id="node7" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="563,419,748,446"/>
+<area shape="rect" id="node15" href="$structCEulerVariable_1_1CIndices.html#a51689ac54181da96fae9c8556f287796" title=" " alt="" coords="565,782,745,824"/>
+<area shape="rect" id="node17" href="$omp__structure_8hpp.html#aad63dd7e34961dbbd2e8774e7f6bc2d0" title="Index of current thread, akin to MPI rank." alt="" coords="813,104,977,131"/>
+<area shape="rect" id="node39" href="$structCEulerVariable_1_1CIndices.html#a71ffbd849fd584ff3a787411497d3007" title=" " alt="" coords="565,1997,745,2038"/>
+<area shape="rect" id="node44" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="632,2207,679,2234"/>
+</map>

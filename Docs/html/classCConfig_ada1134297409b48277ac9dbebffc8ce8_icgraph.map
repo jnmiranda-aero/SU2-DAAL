@@ -1,0 +1,8 @@
+<map id="CConfig::GetRiemann_FlowDir" name="CConfig::GetRiemann_FlowDir">
+<area shape="rect" id="node1" title="Get the Flowdir at Riemann boundary." alt="" coords="511,49,672,90"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a4ad4a65b3fc5a51b1561436736f7f7ca" title="Impose the boundary condition using characteristic recostruction." alt="" coords="249,5,445,32"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a8e036f2dff1d945d814c93a74159a3cc" title="Impose the boundary condition using characteristic recostruction." alt="" coords="232,56,463,83"/>
+<area shape="rect" id="node4" href="$classCFEM__DG__EulerSolver.html#a5bfdc0bca1daa8e5d716d4fc3c7f5867" title="Function, which computes the boundary states in the integration points of the boundary face by applyi..." alt="" coords="248,107,447,149"/>
+<area shape="rect" id="node5" href="$classCFEM__DG__EulerSolver.html#aaff04081aba8d9e24f0e615161e8020f" title="Impose the boundary condition using characteristic reconstruction. It is a virtual function,..." alt="" coords="11,74,178,115"/>
+<area shape="rect" id="node6" href="$classCFEM__DG__NSSolver.html#a22b8079ccea001f1a35d236bfb2750d4" title="Impose the boundary condition using characteristic reconstruction." alt="" coords="5,139,184,181"/>
+</map>

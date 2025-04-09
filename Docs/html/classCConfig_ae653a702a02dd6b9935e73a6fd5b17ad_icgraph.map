@@ -1,0 +1,11 @@
+<map id="CConfig::SetInitial_BCThrust" name="CConfig::SetInitial_BCThrust">
+<area shape="rect" id="node1" title="Get the value of the non&#45;dimensionalized actuator disk turbulence intensity." alt="" coords="816,119,955,161"/>
+<area shape="rect" id="node2" href="$classCSolver.html#a154aed3dea449c2277488620cccd5e79" title="Read the metadata from a native SU2 restart file (ASCII or binary)." alt="" coords="568,71,768,113"/>
+<area shape="rect" id="node6" href="$classCEulerSolver.html#a147d5ae75cf7de115e4be2c23ba95f6d" title="Update the AoA and freestream velocity at the farfield." alt="" coords="576,151,760,193"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460" title="Main constructor of this class." alt="" coords="291,5,487,32"/>
+<area shape="rect" id="node4" href="$classCIncEulerSolver.html#a2a0c72c1d1d79e45c69da03e01f6281a" title="Constructor of the class." alt="" coords="292,57,485,98"/>
+<area shape="rect" id="node5" href="$classCNEMOEulerSolver.html#a192d56e184ee19ad0b0dd3282b74f1e6" title="Contructor of the class." alt="" coords="271,122,506,163"/>
+<area shape="rect" id="node7" href="$classCEulerSolver.html#a0d6f93feba8d6aad18edf3594213042b" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="257,188,520,215"/>
+<area shape="rect" id="node8" href="$classCEulerSolver.html#ab08b6aa95648e7ab973f9f247fe54b31" title="Compute primitive variables and their gradients." alt="" coords="5,163,209,189"/>
+<area shape="rect" id="node9" href="$classCNSSolver.html#af83e7cb773797239cdc98fc4d202d32f" title="Restart residual and compute gradients." alt="" coords="13,213,202,240"/>
+</map>

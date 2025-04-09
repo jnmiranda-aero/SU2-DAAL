@@ -1,0 +1,10 @@
+<map id="CConductivityModel" name="CConductivityModel">
+<area shape="rect" id="node1" title="Interface class for defining the thermal conductivity model." alt="" coords="5,157,159,184"/>
+<area shape="rect" id="node2" href="$classCConstantConductivity.html" title="Defines a constant thermal conductivity model." alt="" coords="253,5,423,32"/>
+<area shape="rect" id="node3" href="$classCConstantConductivityRANS.html" title="Defines a constant laminar thermal conductivity along with a turbulent Prandtl number for including e..." alt="" coords="235,56,441,83"/>
+<area shape="rect" id="node4" href="$classCConstantPrandtl.html" title="Defines a non&#45;constant laminar thermal conductivity using a constant Prandtl&#39;s number." alt="" coords="271,107,405,133"/>
+<area shape="rect" id="node5" href="$classCConstantPrandtlRANS.html" title="Defines a non&#45;constant effective thermal conductivity for RANS problems using Prandtl numbers." alt="" coords="253,157,423,184"/>
+<area shape="rect" id="node6" href="$classCCoolPropConductivity.html" title="Defines conductivity model from CoolProp." alt="" coords="253,208,423,235"/>
+<area shape="rect" id="node7" href="$classCPolynomialConductivity.html" title="Defines a non&#45;constant laminar thermal conductivity using a polynomial function of temperature." alt="" coords="225,259,451,285"/>
+<area shape="rect" id="node8" href="$classCPolynomialConductivityRANS.html" title="Defines a non&#45;constant thermal conductivity using a polynomial function of temperature for RANS probl..." alt="" coords="207,309,469,336"/>
+</map>

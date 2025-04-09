@@ -1,0 +1,21 @@
+<map id="CDriver::InitializeInterface" name="CDriver::InitializeInterface">
+<area shape="rect" id="node1" title="Definition and allocation of all interface classes." alt="" coords="5,389,199,416"/>
+<area shape="rect" id="node2" href="$classCInterpolator.html#aba0867c4f1cb94cdee09bba53d3db126" title="Check whether two zones have a common interface." alt="" coords="259,111,454,153"/>
+<area shape="rect" id="node8" href="$group__Interfaces.html#ga844fa74779f466148d9b5878f09e2f34" title="Factory method for CInterpolator objects." alt="" coords="279,258,434,299"/>
+<area shape="rect" id="node9" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="531,207,713,233"/>
+<area shape="rect" id="node14" href="$classCConfig.html#ac16cfd3d6a403999662636a94c34e9a6" title="Get option of whether to use conservative interpolation between zones." alt="" coords="262,323,451,365"/>
+<area shape="rect" id="node15" href="$classCConfig.html#ace61be93af4e96f53b22e1a94c647821" title="Return true if a fluid solver is in use." alt="" coords="262,389,451,416"/>
+<area shape="rect" id="node16" href="$classCConfig.html#a605eb8cfb0618fbfb9fc84499b659762" title="Return true if a heat solver is in use." alt="" coords="263,440,451,467"/>
+<area shape="rect" id="node17" href="$classCSolver.html#a7d44cf864d55a58a519ceb639b3b4a45" title="Get the number of variables of the problem." alt="" coords="275,491,438,517"/>
+<area shape="rect" id="node18" href="$classCSolver.html#a0d5dd4e8f99684cfcc50560fd6684c35" title="Get the number of variables of the problem." alt="" coords="291,541,423,568"/>
+<area shape="rect" id="node19" href="$classCConfig.html#aa89d8d244474c95cd3137adcbfafb1da" title="Return true if a structural solver is in use." alt="" coords="247,592,467,619"/>
+<area shape="rect" id="node3" href="$classCInterpolator.html#a9c2a32da64f71f2a572432aea04a74bf" title="Check whether an interface should be processed or not, i.e. if it is part of the zones." alt="" coords="515,23,729,65"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a662505c242a7c84016e6f58467501908" title="Find the marker index (if any) that is part of a given interface pair." alt="" coords="517,89,727,116"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a7b750ac75536d32d586928e11ba14277" title="Get the number of FSI interface markers val_marker." alt="" coords="548,141,696,182"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="780,5,991,32"/>
+<area shape="rect" id="node5" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="777,56,993,83"/>
+<area shape="rect" id="node11" href="$classCConfig.html#a9368763b88c401c8563ec7add42139e6" title="Get the interpolation method used for matching between zones." alt="" coords="515,257,729,284"/>
+<area shape="rect" id="node12" href="$classCBaseMPIWrapper.html#a63e1f265b788b4e56cb7ebdeba29b78e" title=" " alt="" coords="519,308,725,335"/>
+<area shape="rect" id="node13" href="$classCInterpolator.html#ac9bd7064962ecd667a9922ed6dfccd93" title="Print information about the interpolation." alt="" coords="519,359,725,385"/>
+<area shape="rect" id="node10" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="793,207,978,233"/>
+</map>

@@ -1,0 +1,40 @@
+<map id="CFlowOutput::SetCustomOutputs" name="CFlowOutput::SetCustomOutputs">
+<area shape="rect" id="node1" title="Compute the custom outputs." alt="" coords="5,756,241,783"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="293,100,504,127"/>
+<area shape="rect" id="node3" href="$classCFlowOutput.html#ae38cc29acf082f5efc60daeaf65d522a" title="Helper for custom outputs, converts variable names to indices and pointers which are then used to eva..." alt="" coords="289,151,508,193"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="583,308,764,335"/>
+<area shape="rect" id="node14" href="$classCFlowOutput.html#adad75562bdaf13161c131ed0cf35190a" title="Returns the axisymmetric factor for a point on a marker." alt="" coords="300,268,497,295"/>
+<area shape="rect" id="node15" href="$classCConfig.html#a509e098ac64a59535a8e59ec2de6f68b" title="Get information about the axisymmetric frame." alt="" coords="301,319,496,345"/>
+<area shape="rect" id="node16" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="291,369,507,396"/>
+<area shape="rect" id="node17" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="332,420,465,447"/>
+<area shape="rect" id="node18" href="$classCConfig.html#ab3928c4e6debcf50dcd0d38985f6980c" title="Get the indicator whether we are solving an discrete adjoint problem." alt="" coords="320,471,477,513"/>
+<area shape="rect" id="node19" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="325,537,472,564"/>
+<area shape="rect" id="node20" href="$classCPoint.html#a8a53865a92d645b1b74c4d817b4aae10" title="Get the global index in a parallel computation." alt="" coords="312,588,485,615"/>
+<area shape="rect" id="node21" href="$classCConfig.html#afbf664fbd8b2c75c5874432fdc185937" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="304,639,493,665"/>
+<area shape="rect" id="node22" href="$classCConfig.html#ab8c9c1f45950a29355be4ff357049440" title="Get the index of the surface defined in the geometry file." alt="" coords="325,690,473,731"/>
+<area shape="rect" id="node23" href="$classCConfig.html#ae3f698e50dc72c02aec172bbc3747798" title="Return true if a NEMO solver is in use." alt="" coords="300,756,497,783"/>
+<area shape="rect" id="node24" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="309,807,489,833"/>
+<area shape="rect" id="node25" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="329,857,468,884"/>
+<area shape="rect" id="node26" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="327,908,471,935"/>
+<area shape="rect" id="node27" href="$classCVertex.html#a57cacfe764770e6c0e54c278cb584f7c" title="Copy the the normal vector of a face." alt="" coords="323,959,475,985"/>
+<area shape="rect" id="node28" href="$classCGeometry.html#ac84179060bbac1fe5e856ea3da850b6e" title="Get number of real points (that belong to the domain)." alt="" coords="289,1009,508,1036"/>
+<area shape="rect" id="node29" href="$classCConfig.html#acca4077dbb4f00718adc5e831b561927" title="Provides the number of species present in the gas mixture." alt="" coords="318,1060,479,1087"/>
+<area shape="rect" id="node30" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="315,1111,483,1137"/>
+<area shape="rect" id="node31" href="$group__GeometryToolbox.html#gad8b24e50333c9a8378f7abf18222f36a" title=" " alt="" coords="308,1228,489,1255"/>
+<area shape="rect" id="node32" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="650,1279,697,1305"/>
+<area shape="rect" id="node35" href="$classCOutput.html#a1c1f836992f419544472329a44b8836e" title="Set the value of a history output field." alt="" coords="301,1162,496,1203"/>
+<area shape="rect" id="node36" href="$group__GeometryToolbox.html#ga3db86410486389a5cda59b3d0ab17f66" title=" " alt="" coords="299,1330,498,1371"/>
+<area shape="rect" id="node38" href="$namespacePrintingToolbox.html#a8847e43f5ff9dd98f59658edce9da4d6" title=" " alt="" coords="319,1396,478,1423"/>
+<area shape="rect" id="node6" href="$classCOutput.html#a63d0e938cb68357fb461c52e53dc1f15" title="Returns a pointer to the value of an history output." alt="" coords="581,38,766,79"/>
+<area shape="rect" id="node7" href="$namespacePrintingToolbox.html#a51e75cb0cbc3607ee171ab151ca06a11" title=" " alt="" coords="870,5,1025,32"/>
+<area shape="rect" id="node8" href="$CPrimitiveIndices_8hpp.html#a2167c8a84ee8db2e4ad60d2dc2ceff02" title="Maps primitive variable names to their indices based on a CPrimitiveIndices object." alt="" coords="574,185,773,212"/>
+<area shape="rect" id="node5" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="855,371,1040,397"/>
+<area shape="rect" id="node9" href="$structCPrimitiveIndices.html#a2d578cc83703af0b8c0fd81e4d015c34" title=" " alt="" coords="857,253,1038,280"/>
+<area shape="rect" id="node10" href="$structCPrimitiveIndices.html#a0c8e46884c9176256f1da7a760614cb0" title=" " alt="" coords="875,305,1019,346"/>
+<area shape="rect" id="node11" href="$structCPrimitiveIndices.html#ad3e4f590750798a4cfdb033f174aa709" title=" " alt="" coords="875,57,1019,98"/>
+<area shape="rect" id="node12" href="$namespacePrintingToolbox.html#a382f3911ccba468c241c530ae0c78b63" title=" " alt="" coords="876,122,1019,163"/>
+<area shape="rect" id="node13" href="$structCPrimitiveIndices.html#abb39999cd1ccb638d5cc790ba56e48b2" title=" " alt="" coords="875,187,1019,229"/>
+<area shape="rect" id="node33" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="556,1228,791,1255"/>
+<area shape="rect" id="node34" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="839,1228,1056,1255"/>
+<area shape="rect" id="node37" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="619,1337,728,1364"/>
+</map>

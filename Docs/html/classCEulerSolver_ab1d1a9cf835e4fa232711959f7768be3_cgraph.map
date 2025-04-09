@@ -1,0 +1,6 @@
+<map id="CEulerSolver::SetMax_Eigenvalue" name="CEulerSolver::SetMax_Eigenvalue">
+<area shape="rect" id="node1" title="Compute the max eigenvalue." alt="" coords="5,45,168,87"/>
+<area shape="rect" id="node2" href="$classCEulerVariable.html#ab2b300dcf4067e7b996d7c9aaa02939f" title="Get the speed of the sound." alt="" coords="227,5,415,47"/>
+<area shape="rect" id="node4" href="$classCFVMFlowSolverBase.html#adc3a96a8ca25902058864c18b533192d" title="Compute the max eigenvalue, gemeric implementation." alt="" coords="216,71,425,141"/>
+<area shape="rect" id="node3" href="$structCEulerVariable_1_1CIndices.html#a638b7303e124cee6894893a22583d9c3" title=" " alt="" coords="473,5,653,47"/>
+</map>

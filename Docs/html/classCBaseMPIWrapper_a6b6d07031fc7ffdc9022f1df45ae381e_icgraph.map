@@ -1,0 +1,10 @@
+<map id="CBaseMPIWrapper::Reduce_scatter" name="CBaseMPIWrapper::Reduce_scatter">
+<area shape="rect" id="node1" title=" " alt="" coords="531,158,729,199"/>
+<area shape="rect" id="node2" href="$classCMeshFEM.html#ae74b12670fb49ad4d28836d9fc2aab8d" title="Redistributes the grid over the ranks and creates the halo layer." alt="" coords="274,5,449,32"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#acef4e18142b580bf09f21e5b71387d5f" title="Determine the donor elements for the boundary elements on viscous wall boundaries when wall functions..." alt="" coords="252,56,471,112"/>
+<area shape="rect" id="node4" href="$classCPhysicalGeometry.html#a0a1295415b0ff3105673f5733682e151" title="Set the domains for FEM grid partitioning using ParMETIS." alt="" coords="5,129,192,170"/>
+<area shape="rect" id="node5" href="$classCPhysicalGeometry.html#a18f63cc49f7dc20241a0599ad1426ba8" title="Determine the time level of the elements when time accurate local time stepping is employed." alt="" coords="251,187,471,229"/>
+<area shape="rect" id="node6" href="$classCPhysicalGeometry.html#aa222a46292ba9ba3b03e581587bdbfb6" title="Reads for the FEM solver the geometry of the grid and adjust the boundary conditions with the configu..." alt="" coords="240,253,483,294"/>
+<area shape="rect" id="node8" href="$classCMeshFEM__DG.html#ae72aa64c74d57aba222cd8b0179dc2e7" title="Set the send receive boundaries of the grid." alt="" coords="244,319,479,345"/>
+<area shape="rect" id="node7" href="$classCPhysicalGeometry.html#a075a737b341a64de5463ddd41096692e" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file." alt="" coords="20,253,177,294"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="CUpwMSW_Flow::ComputeResidual" name="CUpwMSW_Flow::ComputeResidual">
+<area shape="rect" id="node1" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="5,122,259,149"/>
+<area shape="rect" id="node2" href="$classCConfig.html#ad16f71356f146b530fb1fbb45444525c" title="Get the kind of time integration method." alt="" coords="313,5,502,47"/>
+<area shape="rect" id="node3" href="$classCNumerics.html#a0cdc123e57a6bfc79f12bbdc0d26fe72" title="Computation of the matrix P for a generic fluid model." alt="" coords="320,71,495,98"/>
+<area shape="rect" id="node4" href="$classCNumerics.html#a668f0459f14870291b9ff0cc3a916f35" title="Computation of the matrix P^{&#45;1}, this matrix diagonalize the conservative Jacobians in the form $P^{..." alt="" coords="307,122,508,149"/>
+<area shape="rect" id="node5" href="$group__GeometryToolbox.html#gad8b24e50333c9a8378f7abf18222f36a" title=" " alt="" coords="317,173,498,199"/>
+<area shape="rect" id="node9" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="353,223,462,250"/>
+<area shape="rect" id="node6" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="650,147,697,174"/>
+<area shape="rect" id="node7" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="556,198,791,225"/>
+<area shape="rect" id="node8" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="839,198,1056,225"/>
+</map>

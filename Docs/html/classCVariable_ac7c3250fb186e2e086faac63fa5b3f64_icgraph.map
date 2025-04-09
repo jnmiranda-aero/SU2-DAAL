@@ -1,0 +1,7 @@
+<map id="CVariable::RegisterSolution" name="CVariable::RegisterSolution">
+<area shape="rect" id="node1" title="Register the variables in the solution array as input/output variable." alt="" coords="236,111,435,138"/>
+<area shape="rect" id="node2" href="$classCDiscAdjFEASolver.html#a0491576fb4124a76ed2e33fcd30a36c4" title="Performs the preprocessing of the adjoint AD&#45;based solver. Registers all necessary variables that are..." alt="" coords="19,5,174,47"/>
+<area shape="rect" id="node3" href="$classCDiscAdjSolver.html#ab6592e845c8a040daa892707b0ac57d6" title="Performs the preprocessing of the adjoint AD&#45;based solver. Registers all necessary variables that are..." alt="" coords="5,71,188,112"/>
+<area shape="rect" id="node4" href="$classCDiscAdjFEASolver.html#a0303d2bff985ee50e087153a6f5d4b15" title="Performs the preprocessing of the adjoint AD&#45;based solver. Registers all necessary variables on the t..." alt="" coords="19,136,174,177"/>
+<area shape="rect" id="node5" href="$classCDiscAdjSolver.html#a00f168c587fac0143133047806825b72" title="Performs the preprocessing of the adjoint AD&#45;based solver. Registers all necessary variables on the t..." alt="" coords="5,201,188,243"/>
+</map>

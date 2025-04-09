@@ -1,0 +1,6 @@
+<map id="CNEMOEulerSolver::SetPressureDiffusionSensor" name="CNEMOEulerSolver::SetPressureDiffusionSensor">
+<area shape="rect" id="node1" title="Compute the Pressure sensor for NEMO schemes." alt="" coords="557,23,788,65"/>
+<area shape="rect" id="node2" href="$classCNEMOEulerSolver.html#a27f21d6dbfb7f6c600f759caf7625087" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="297,23,509,65"/>
+<area shape="rect" id="node3" href="$classCNEMOEulerSolver.html#a3c5a59b5c1c9195757626bff151dbaa9" title="Compute the velocity^2, SoundSpeed, Pressure, Enthalpy, Viscosity." alt="" coords="5,5,249,32"/>
+<area shape="rect" id="node4" href="$classCNEMONSSolver.html#aef1c13c42cd8103377619f7d94660d6a" title="Restart residual and compute gradients." alt="" coords="13,56,242,83"/>
+</map>

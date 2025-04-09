@@ -1,0 +1,8 @@
+<map id="CFlowVariable::GetVorticity" name="CFlowVariable::GetVorticity">
+<area shape="rect" id="node1" title="Get the values of the vorticity (3 values also in 2D)." alt="" coords="799,64,999,91"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#aad67b818e2f5c133118d2a4cca7845f3" title="Compute Ducros Sensor for Roe Dissipation." alt="" coords="568,23,751,65"/>
+<area shape="rect" id="node6" href="$classCEulerSolver.html#a3173ebda0dc28e9fc17ced219fc60e9a" title="Source term integration." alt="" coords="581,89,738,130"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a0d6f93feba8d6aad18edf3594213042b" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="257,31,520,57"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#ab08b6aa95648e7ab973f9f247fe54b31" title="Compute primitive variables and their gradients." alt="" coords="5,5,209,32"/>
+<area shape="rect" id="node5" href="$classCNSSolver.html#af83e7cb773797239cdc98fc4d202d32f" title="Restart residual and compute gradients." alt="" coords="13,56,202,83"/>
+</map>

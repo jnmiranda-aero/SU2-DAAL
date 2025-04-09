@@ -1,0 +1,29 @@
+<map id="CMeshSolver::Surface_Rotating" name="CMeshSolver::Surface_Rotating">
+<area shape="rect" id="node1" title="Rotating definition for deforming mesh." alt="" coords="5,754,169,795"/>
+<area shape="rect" id="node2" href="$classCVariable.html#a7e382eae45700e5c1e8973292c08f128" title="A virtual member. Get the value of the displacement imposed at the boundary." alt="" coords="239,5,431,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a0acfef8e480970316e9e672eacd59e9b" title="If we are prforming an unsteady simulation, there is only one value of the time step for the complete..." alt="" coords="221,56,449,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#af6d2475154c130e1671accace67efb33" title="Get the type of surface motion." alt="" coords="241,107,429,149"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a4c1facfb47bc3aee60dc92a350f0a82d" title="Get the value of the reference length for non&#45;dimensionalization. This value should always be 1 inter..." alt="" coords="247,173,423,200"/>
+<area shape="rect" id="node6" href="$classCConfig.html#aa92e30407f9aaad234c7a557019cd3c5" title="Get the motion information for a marker val_marker." alt="" coords="261,225,409,266"/>
+<area shape="rect" id="node7" href="$classCConfig.html#ab8c9c1f45950a29355be4ff357049440" title="Get the index of the surface defined in the geometry file." alt="" coords="261,290,409,331"/>
+<area shape="rect" id="node8" href="$classCConfig.html#ae0c6575b622cc298c1e749f776992470" title="Get the name of the surface defined in the geometry file." alt="" coords="261,355,409,397"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a1ff1fbe583af02e48a26da1ff1dd9c67" title="Get the mesh motion origin." alt="" coords="238,421,431,462"/>
+<area shape="rect" id="node10" href="$classCConfig.html#a0b659dde8a90ca7605910171871d9586" title="Get the rotation rate of the marker." alt="" coords="218,487,451,513"/>
+<area shape="rect" id="node11" href="$classCVariable.html#afe97b312c0685a1975a41b915f5d327a" title="A virtual member. Get the value of the undeformed coordinates." alt="" coords="259,538,410,579"/>
+<area shape="rect" id="node12" href="$classCConfig.html#aa795e49af7807741d81a62470fd7997d" title="Get if we should update the motion origin." alt="" coords="243,603,427,645"/>
+<area shape="rect" id="node13" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="245,669,425,696"/>
+<area shape="rect" id="node14" href="$classCConfig.html#a6e65810e59b8015104b84c4fd5b1d7f9" title="Get the total number of monitoring markers." alt="" coords="257,721,413,762"/>
+<area shape="rect" id="node15" href="$classCConfig.html#a8c20a13058f536cf7bf135bd82fc95a3" title="Get the total number of moving markers." alt="" coords="257,786,413,827"/>
+<area shape="rect" id="node16" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="265,852,404,879"/>
+<area shape="rect" id="node17" href="$classCConfig.html#ab3ab2f06b6d038aea73beed05cd13448" title="Get the value of the reference angular velocity for non&#45;dimensionalization." alt="" coords="245,903,424,929"/>
+<area shape="rect" id="node18" href="$classCConfig.html#ae2bc0ddfc474009ae0442d0cdf715e82" title="Get reference origin x&#45;coordinate for moment computation." alt="" coords="217,953,452,980"/>
+<area shape="rect" id="node19" href="$classCConfig.html#afedf678c54b1fd2a8ca8fb4a2c15f6ef" title="Get reference origin y&#45;coordinate for moment computation." alt="" coords="218,1004,451,1031"/>
+<area shape="rect" id="node20" href="$classCConfig.html#aae292489e72b3419177723578bb5970a" title="Get reference origin z&#45;coordinate for moment computation." alt="" coords="217,1055,452,1081"/>
+<area shape="rect" id="node21" href="$group__GeometryToolbox.html#ga096060ce1ab901c92fd03f55da4cc406" title="Apply a rotation matrix (R) about origin (O) to a point at distance (d) from it to obtain new coordin..." alt="" coords="241,1105,429,1132"/>
+<area shape="rect" id="node22" href="$group__GeometryToolbox.html#ga3d2f77f7f0ea57f6d7256a29a2d00f7e" title="Compute a 3D rotation matrix." alt="" coords="235,1157,435,1198"/>
+<area shape="rect" id="node23" href="$classCVariable.html#a840431a0403b4bddd0a99dbfdf365795" title="A virtual member. Set the boundary displacement." alt="" coords="239,1223,430,1249"/>
+<area shape="rect" id="node24" href="$classCConfig.html#a87ac399493e8df909571a644bc105783" title="Set the mesh motion origin." alt="" coords="239,1274,430,1315"/>
+<area shape="rect" id="node25" href="$classCConfig.html#a6ca8f557014e78ee9086efefa37513f1" title="Set reference origin x&#45;coordinate for moment computation." alt="" coords="219,1340,451,1367"/>
+<area shape="rect" id="node26" href="$classCConfig.html#a6adc72e34adb72c23b38cd1cf557ea19" title="Set reference origin y&#45;coordinate for moment computation." alt="" coords="219,1391,450,1417"/>
+<area shape="rect" id="node27" href="$classCConfig.html#a009fb5f6b1c3a184a5c03ae95996e6e7" title="Set reference origin z&#45;coordinate for moment computation." alt="" coords="219,1441,451,1468"/>
+</map>

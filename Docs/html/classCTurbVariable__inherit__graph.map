@@ -1,0 +1,8 @@
+<map id="CTurbVariable" name="CTurbVariable">
+<area shape="rect" id="node1" title="Base class for defining the variables of the turbulence model." alt="" coords="176,155,287,181"/>
+<area shape="rect" id="node4" href="$classCTransLMVariable.html" title="Transition model variables." alt="" coords="5,229,143,256"/>
+<area shape="rect" id="node5" href="$classCTurbSAVariable.html" title="Main class for defining the variables of the turbulence model." alt="" coords="167,229,295,256"/>
+<area shape="rect" id="node6" href="$classCTurbSSTVariable.html" title="Main class for defining the variables of the turbulence model." alt="" coords="320,229,455,256"/>
+<area shape="rect" id="node2" href="$classCScalarVariable.html" title="Base class for defining the shared variables of scalar solvers." alt="" coords="169,80,293,107"/>
+<area shape="rect" id="node3" href="$classCVariable.html" title="Main class for defining the variables." alt="" coords="189,5,273,32"/>
+</map>

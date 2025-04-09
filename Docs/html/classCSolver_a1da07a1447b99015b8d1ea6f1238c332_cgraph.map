@@ -1,0 +1,21 @@
+<map id="CSolver::BasicLoadRestart" name="CSolver::BasicLoadRestart">
+<area shape="rect" id="node1" title="Loads the solution from the restart file." alt="" coords="5,254,199,281"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="513,442,695,469"/>
+<area shape="rect" id="node4" href="$classCGeometry.html#a1950b86a664c5da4d7df2a8b3d361a67" title="Retrieve total number of nodes in a simulation across all processors (excluding halos)." alt="" coords="520,123,688,164"/>
+<area shape="rect" id="node5" href="$classCGeometry.html#a6b44ca6618da53444192bbd3329dea18" title="A virtual member." alt="" coords="520,5,688,47"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a82ddaa417553293be72a3ab2198f7d40" title="Flag for whether binary SU2 native restart files are read." alt="" coords="254,247,439,288"/>
+<area shape="rect" id="node7" href="$classCSolver.html#a2d9a54256f99b9881a0f9189cf73e902" title="Read a native SU2 restart file in ASCII format." alt="" coords="247,312,447,353"/>
+<area shape="rect" id="node17" href="$classCSolver.html#a014ca6bbee7673aec0ba83067a6716a0" title="Read a native SU2 restart file in binary format." alt="" coords="247,181,447,223"/>
+<area shape="rect" id="node19" href="$classCVariable.html#a22fbbd7bc6491672843000644a05c6a5" title="Set the value of the solution, all variables." alt="" coords="263,429,430,455"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="761,442,947,469"/>
+<area shape="rect" id="node8" href="$classCBaseMPIWrapper.html#a0db599277ab9197511cfd263b4da10f8" title=" " alt="" coords="511,239,697,266"/>
+<area shape="rect" id="node9" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="496,290,712,317"/>
+<area shape="rect" id="node10" href="$classCGeometry.html#ac84179060bbac1fe5e856ea3da850b6e" title="Get number of real points (that belong to the domain)." alt="" coords="495,189,713,215"/>
+<area shape="rect" id="node11" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="527,391,681,418"/>
+<area shape="rect" id="node12" href="$namespacePrintingToolbox.html#abd4b09ef601c48797157b3576d4c7141" title=" " alt="" coords="525,493,683,519"/>
+<area shape="rect" id="node13" href="$namespacePrintingToolbox.html#a8847e43f5ff9dd98f59658edce9da4d6" title=" " alt="" coords="525,543,683,570"/>
+<area shape="rect" id="node14" href="$namespacePrintingToolbox.html#a8d3bf1566f372942cfb12952d4fca751" title=" " alt="" coords="525,341,683,367"/>
+<area shape="rect" id="node15" href="$namespacePrintingToolbox.html#a434608584a5874efeb4799797cdda637" title=" " alt="" coords="773,366,935,393"/>
+<area shape="rect" id="node16" href="$namespacePrintingToolbox.html#a60e271bb6995e55d8c0a0522b714940d" title=" " alt="" coords="773,315,935,342"/>
+<area shape="rect" id="node18" href="$classCConfig.html#a8a176b0a0c34db4d6dcc9e55e240e37b" title="Get the kind of SU2 software component." alt="" coords="521,71,687,98"/>
+</map>

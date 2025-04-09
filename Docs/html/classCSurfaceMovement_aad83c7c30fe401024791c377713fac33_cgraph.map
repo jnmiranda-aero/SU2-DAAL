@@ -1,0 +1,13 @@
+<map id="CSurfaceMovement::SetRotation" name="CSurfaceMovement::SetRotation">
+<area shape="rect" id="node1" title="Set a rotation for surface movement." alt="" coords="5,249,240,276"/>
+<area shape="rect" id="node2" href="$classCVertex.html#a48027692d25e79b6202d0b2ae303aef5" title="Add the value of the coordinate variation due to a surface modification." alt="" coords="310,5,475,32"/>
+<area shape="rect" id="node3" href="$classCVertex.html#a3bc05f783b457bc722860db06bf14871" title="Get the value of the cartesian coordinate for the vertex." alt="" coords="321,56,464,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#af6f7c23871fd1b634ff53432ef1d04b9" title="Value of the design variable step, we use this value in design problems." alt="" coords="310,107,475,133"/>
+<area shape="rect" id="node5" href="$classCConfig.html#aaae83227f09eb4581bd01093377240be" title="Get the DV information for a marker val_marker." alt="" coords="319,158,467,199"/>
+<area shape="rect" id="node6" href="$classCGeometry.html#ace7f7fe876f629f5bd5f92d4805a1a4b" title="Get number of coordinates." alt="" coords="312,224,473,251"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="303,275,483,301"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a8337efa2e48c252eca24825437cb288b" title="Get the scale factor for the line search." alt="" coords="288,325,497,352"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a59a16b5d22ccd10cf9e3bd7790fdf7c3" title="Get a parameter of the particular design variable." alt="" coords="311,376,474,403"/>
+<area shape="rect" id="node10" href="$classCVertex.html#ab705d7477e40e6291d9633dcf8fa5ef3" title="Set the value of the coordinate variation due to a surface modification." alt="" coords="312,427,473,453"/>
+<area shape="rect" id="node11" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="369,477,416,504"/>
+</map>

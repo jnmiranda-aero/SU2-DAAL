@@ -1,0 +1,9 @@
+<map id="CFlowOutput::SetVolumeOutputFieldsScalarPrimitive" name="CFlowOutput::SetVolumeOutputFieldsScalarPrimitive">
+<area shape="rect" id="node1" title="Add scalar (turbulence/species) volume primitive fields for a point (FVMComp, FVMInc,..." alt="" coords="5,155,233,197"/>
+<area shape="rect" id="node2" href="$classCOutput.html#a964554201e1364eaf81a462e9ada48e3" title="Add a new field to the volume output." alt="" coords="281,5,483,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a7416428b6139fe85180e5e8d190506aa" title="Get the kind of the species model." alt="" coords="287,57,477,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#aa3491085ca1a0997d8fb58698bb64fb6" title="Get the kind of the transition model." alt="" coords="295,122,469,163"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a42cf888b42ce34079b2e3987bbf147dd" title="Get the kind of the turbulence model." alt="" coords="299,187,465,229"/>
+<area shape="rect" id="node6" href="$classCConfig.html#acca4077dbb4f00718adc5e831b561927" title="Provides the number of species present in the gas mixture." alt="" coords="301,253,463,280"/>
+<area shape="rect" id="node7" href="$namespacePrintingToolbox.html#a382f3911ccba468c241c530ae0c78b63" title=" " alt="" coords="311,305,453,346"/>
+</map>

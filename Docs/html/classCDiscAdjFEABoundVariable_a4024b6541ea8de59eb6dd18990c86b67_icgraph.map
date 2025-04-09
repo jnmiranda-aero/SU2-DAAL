@@ -1,0 +1,4 @@
+<map id="CDiscAdjFEABoundVariable::GetSourceTerm_DispAdjoint" name="CDiscAdjFEABoundVariable::GetSourceTerm_DispAdjoint">
+<area shape="rect" id="node1" title="Get the source term applied into the displacement adjoint coming from external solvers." alt="" coords="208,5,419,47"/>
+<area shape="rect" id="node2" href="$classCDiscAdjFEASolver.html#ac7d98d73aae00e73d6035197013f071c" title="Sets the adjoint values of the output of the flow (+turb.) iteration before evaluation of the tape." alt="" coords="5,5,160,47"/>
+</map>

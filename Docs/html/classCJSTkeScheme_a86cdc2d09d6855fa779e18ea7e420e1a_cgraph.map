@@ -1,0 +1,10 @@
+<map id="CJSTkeScheme::finalizeFlux" name="CJSTkeScheme::finalizeFlux">
+<area shape="rect" id="node1" title="Updates flux and Jacobians with 2nd order dissipation." alt="" coords="5,132,207,159"/>
+<area shape="rect" id="node2" href="$group__SIMD.html#gaf7650d08e2a58ed700276ddc70f72f96" title=" " alt="" coords="349,5,394,32"/>
+<area shape="rect" id="node3" href="$convection_2common_8hpp.html#acb2cdcd37f4ad8f2257645ef83e29a14" title="Correct spectral radius (avgLambda) for stretching." alt="" coords="281,107,461,133"/>
+<area shape="rect" id="node4" href="$util_8hpp.html#a7648e1f2c52290af24a78ffad125e541" title="Gather a single variable from index iPoint of a 1D container." alt="" coords="536,81,660,108"/>
+<area shape="rect" id="node6" href="$classCVariable.html#afec545423f883bcd961ac9f1e5d18dd2" title="Get the pressure sensor." alt="" coords="292,157,451,184"/>
+<area shape="rect" id="node7" href="$classCCenteredBase.html#a3ab01984a7303b5a58eecfa08071678e" title="Special treatment needed to fetch integer data." alt="" coords="255,208,488,264"/>
+<area shape="rect" id="node8" href="$convection_2common_8hpp.html#a965bebe6ff573453119bf7c995d0a29d" title="Update of a flux Jacobian due to a scalar dissipation term." alt="" coords="277,288,466,315"/>
+<area shape="rect" id="node5" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="543,197,653,224"/>
+</map>

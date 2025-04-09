@@ -1,0 +1,5 @@
+<map id="CDiscAdjVariable::SetDual_Time_Derivative" name="CDiscAdjVariable::SetDual_Time_Derivative">
+<area shape="rect" id="node1" title="Set/store the dual time contributions to the adjoint variable. Contains sum of contributions from 2 t..." alt="" coords="273,35,465,76"/>
+<area shape="rect" id="node2" href="$classCDiscAdjFEASolver.html#a427eedb9619af7d5dc937dc84979f53e" title="Update the dual&#45;time derivatives." alt="" coords="38,5,193,47"/>
+<area shape="rect" id="node3" href="$classCDiscAdjSolver.html#abc6832dfc11a8a603ea4166186727c8f" title="Update the dual&#45;time derivatives." alt="" coords="5,71,225,98"/>
+</map>

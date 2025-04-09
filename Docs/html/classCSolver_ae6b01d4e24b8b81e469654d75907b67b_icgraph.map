@@ -1,0 +1,11 @@
+<map id="CSolver::GetTotal_CQ" name="CSolver::GetTotal_CQ">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="836,83,996,109"/>
+<area shape="rect" id="node2" href="$classCAdjEulerSolver.html#ac2e134ff46b436a33eba9141c89e7e77" title="Created the force projection vector for adjoint boundary conditions." alt="" coords="597,33,788,74"/>
+<area shape="rect" id="node6" href="$classCFlowOutput.html#a33319295f8a12865930ed4c75ac7d210" title="Set the value of the rotating frame coefficients (CT, CQ and CMerit)." alt="" coords="597,107,788,149"/>
+<area shape="rect" id="node3" href="$classCAdjEulerSolver.html#a5265a44e6c43dee677c9f26333148432" title="Update the AoA and freestream velocity at the farfield." alt="" coords="297,31,531,57"/>
+<area shape="rect" id="node4" href="$classCAdjEulerSolver.html#a64baf8c7af6006bdc4ad0919f7c2507a" title="Initialize the residual vectors." alt="" coords="5,5,231,32"/>
+<area shape="rect" id="node5" href="$classCAdjNSSolver.html#a0669f6fb8ef7cd7800d151d4aff7d3f6" title="Restart residual and compute gradients." alt="" coords="13,56,223,83"/>
+<area shape="rect" id="node7" href="$classCFlowCompOutput.html#a393cb19a691990ee6e88f844eccc79ed" title="Load the history output field values." alt="" coords="283,81,545,108"/>
+<area shape="rect" id="node8" href="$classCFlowIncOutput.html#a466112efa2e3a89cdd2456701a0480b5" title="Load the history output field values." alt="" coords="293,132,535,159"/>
+<area shape="rect" id="node9" href="$classCNEMOCompOutput.html#a7a9f1a32fe55e6a967a27eb38408ec99" title="Load the history output field values." alt="" coords="279,183,549,209"/>
+</map>

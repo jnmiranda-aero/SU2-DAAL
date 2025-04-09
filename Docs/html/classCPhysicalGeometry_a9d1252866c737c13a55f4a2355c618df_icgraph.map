@@ -1,0 +1,6 @@
+<map id="CPhysicalGeometry::SortAdjacency" name="CPhysicalGeometry::SortAdjacency">
+<area shape="rect" id="node1" title="Routine to sort the adjacency for ParMETIS for graph partitioning in parallel." alt="" coords="621,5,779,47"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#add2602b741adf76bd26950faa9d11dea" title="Prepares the grid point adjacency based on a linearly partitioned mesh object needed by ParMETIS for ..." alt="" coords="416,5,573,47"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#a88fc7f2ba5656a97d1e34884b51ae984" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file in para..." alt="" coords="211,5,368,47"/>
+<area shape="rect" id="node4" href="$classCPhysicalGeometry.html#a075a737b341a64de5463ddd41096692e" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file." alt="" coords="5,5,163,47"/>
+</map>

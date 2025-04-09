@@ -1,0 +1,5 @@
+<map id="CMeshFEM_DG::CreateConnectivitiesQuadrilateralAdjacentPrism" name="CMeshFEM_DG::CreateConnectivitiesQuadrilateralAdjacentPrism">
+<area shape="rect" id="node1" title="Function, which computes the correct sequence of the connectivities of a quad adjacent to a prism,..." alt="" coords="604,5,869,47"/>
+<area shape="rect" id="node2" href="$classCMeshFEM__DG.html#a6640834bb680287577c101d1982f524e" title="Function, which computes the correct sequence of the connectivities of a face, such that it matches t..." alt="" coords="261,13,556,39"/>
+<area shape="rect" id="node3" href="$classCMeshFEM__DG.html#a1f627fc4d40b545b139486a83396874d" title="Function to create the faces used in the DG formulation." alt="" coords="5,13,213,39"/>
+</map>

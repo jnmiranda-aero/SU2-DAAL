@@ -1,0 +1,13 @@
+<map id="COutput::LoadDataIntoSorter" name="COutput::LoadDataIntoSorter">
+<area shape="rect" id="node1" title="Load up the values of the requested volume fields into ::Local_Data array." alt="" coords="5,233,215,260"/>
+<area shape="rect" id="node2" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="306,5,453,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="289,56,469,83"/>
+<area shape="rect" id="node4" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="310,107,449,133"/>
+<area shape="rect" id="node5" href="$classCGeometry.html#ac84179060bbac1fe5e856ea3da850b6e" title="Get number of real points (that belong to the domain)." alt="" coords="270,157,489,184"/>
+<area shape="rect" id="node6" href="$classCGeometry.html#a00b7f7e71ff42bd38f39147366dd093a" title="Get number of vertices." alt="" coords="291,208,467,235"/>
+<area shape="rect" id="node7" href="$classCMeshFEM.html#a98cac5880bf32dd7a81e90cfe3e83faa" title="Function, which makes available the number of owned volume elements in the local FEM mesh." alt="" coords="263,259,496,285"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a1e07d3641838843be05ed58424d39f4f" title="Determines whether a marker with index iMarker is a solid boundary." alt="" coords="294,309,465,336"/>
+<area shape="rect" id="node9" href="$classCOutput.html#a01f7c43d229c94a9e8e954a538e5e66e" title="Set the values of the volume output fields for a surface point." alt="" coords="282,360,477,387"/>
+<area shape="rect" id="node10" href="$classCOutput.html#ad9fcb944022e0d7131d89987458a02ce" title="Set the values of the volume output fields for a point." alt="" coords="282,411,477,437"/>
+<area shape="rect" id="node11" href="$classCOutput.html#a379815a77f3a10e96834a95ff74d57f1" title="Set the values of the volume output fields for a point." alt="" coords="268,461,491,488"/>
+</map>

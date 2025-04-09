@@ -34,7 +34,7 @@ var classCFEASolver =
     [ "GeneralizedAlpha_UpdateSolution", "classCFEASolver.html#ae7093ed0256ce5c606885492f2cdfbe3", null ],
     [ "Get_iElem_iDe", "classCFEASolver.html#ac920c565ce7146fbbed2f8ac4c2377e0", null ],
     [ "Get_ValCoord", "classCFEASolver.html#ad4309facfe4044d5f5a11209cc96c7eb", null ],
-    [ "GetBaseClassPointerToNodes", "classCFEASolver.html#ab1c623c6d7cdb214069209506f965aee", null ],
+    [ "GetBaseClassPointerToNodes", "classCFEASolver.html#a9a8332d54d0da3e7a93214203a150d34", null ],
     [ "GetForceCoeff", "classCFEASolver.html#a80801c1da3b963afd8de077b7fd5d415", null ],
     [ "GetFSI_ConvValue", "classCFEASolver.html#a7591f23358da4ef4e1468363197f7a7b", null ],
     [ "GetFSI_Residual", "classCFEASolver.html#a498ed6416e69639ab8bb20297171fe54", null ],

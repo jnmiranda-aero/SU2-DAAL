@@ -1,0 +1,4 @@
+<map id="CConfig::GetCFL_Rad" name="CConfig::GetCFL_Rad">
+<area shape="rect" id="node1" title="Get the value of the CFL condition for radiation solvers." alt="" coords="264,5,423,32"/>
+<area shape="rect" id="node2" href="$classCRadP1Solver.html#a6368d3843e2536f86b86dd746f7e1033" title="Compute the time step for solving the Radiation P1 equation." alt="" coords="5,5,216,32"/>
+</map>

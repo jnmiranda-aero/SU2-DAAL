@@ -1,0 +1,23 @@
+<map id="CFluidModel::GetLaminarViscosity" name="CFluidModel::GetLaminarViscosity">
+<area shape="rect" id="node1" title="Get fluid dynamic viscosity." alt="" coords="600,479,847,505"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a40fad0a57e8dcba8a8f4d4fa8eab02f0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="315,5,486,32"/>
+<area shape="rect" id="node3" href="$classCTurbSASolver.html#ab630c3c3f90b092d0b79fe9d91165c33" title="Impose the inlet boundary condition." alt="" coords="311,56,490,83"/>
+<area shape="rect" id="node4" href="$classCTurbSSTSolver.html#ad82e31e58c6d95db62377666c3554d3d" title="Impose the inlet boundary condition." alt="" coords="326,107,475,149"/>
+<area shape="rect" id="node5" href="$classCTurbSASolver.html#a9cdd12aa912c00c12dbb80cc21c7977a" title="Impose the inlet boundary condition." alt="" coords="311,173,490,214"/>
+<area shape="rect" id="node6" href="$classCTurbSSTSolver.html#a054ade13cc21d3d718c8fa2f2d514112" title="Impose the inlet boundary condition." alt="" coords="326,238,475,279"/>
+<area shape="rect" id="node7" href="$classCEulerSolver.html#a4ad4a65b3fc5a51b1561436736f7f7ca" title="Impose the boundary condition using characteristic recostruction." alt="" coords="303,304,499,331"/>
+<area shape="rect" id="node8" href="$classCEulerSolver.html#a8e036f2dff1d945d814c93a74159a3cc" title="Impose the boundary condition using characteristic recostruction." alt="" coords="285,355,516,381"/>
+<area shape="rect" id="node9" href="$classCFEM__DG__NSSolver.html#a5118d674e7eb6f4865fb53f6f20eac1c" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="297,406,505,447"/>
+<area shape="rect" id="node10" href="$classCFlowCompFEMOutput.html#ab3512aede5c10673392abc7e7a56d149" title="Set the values of the volume output fields for a point." alt="" coords="315,471,487,513"/>
+<area shape="rect" id="node11" href="$classCEulerSolver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="259,537,543,564"/>
+<area shape="rect" id="node13" href="$classCIncEulerSolver.html#a2cffaa24417cb3803d36d38b3874d6d0" title="Set the solver nondimensionalization." alt="" coords="249,588,552,615"/>
+<area shape="rect" id="node15" href="$classCFEM__DG__EulerSolver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="300,639,501,681"/>
+<area shape="rect" id="node17" href="$classCNSVariable.html#a0db8c1ede5090174259a69548d20c9fe" title="Set all the primitive variables for compressible flows." alt="" coords="309,705,492,732"/>
+<area shape="rect" id="node18" href="$classCIncNSVariable.html#a34a2a9cfecec39f383e2e7551b4e7736" title="Set all the primitive variables for incompressible flows." alt="" coords="300,756,501,783"/>
+<area shape="rect" id="node19" href="$classCFEM__DG__NSSolver.html#a1d77cb51e0eb51dfb95735ac965ac176" title="Function to compute the time step for solving the Navier&#45;Stokes equations." alt="" coords="275,807,526,833"/>
+<area shape="rect" id="node20" href="$classCFEM__DG__NSSolver.html#ace5ac45857734f2e764b4072249e5c2d" title="Compute the volume contributions to the spatial residual." alt="" coords="296,858,505,899"/>
+<area shape="rect" id="node21" href="$classCWallModelLogLaw.html#a53674f0daab4b25787ffe50a837419ca" title="Function, which computes the wall shear stress and heat flux from the data at the exchange location." alt="" coords="291,923,511,965"/>
+<area shape="rect" id="node12" href="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460" title="Main constructor of this class." alt="" coords="5,529,201,556"/>
+<area shape="rect" id="node14" href="$classCIncEulerSolver.html#a2a0c72c1d1d79e45c69da03e01f6281a" title="Constructor of the class." alt="" coords="7,581,200,622"/>
+<area shape="rect" id="node16" href="$classCFEM__DG__EulerSolver.html#a70d30ef9e7cd7620d54ec73f4b1ed28c" title=" " alt="" coords="16,646,191,687"/>
+</map>

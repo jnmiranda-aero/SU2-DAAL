@@ -19,7 +19,7 @@ var classCDriver =
     [ "InitializeGeometryDGFEM", "classCDriver.html#af592953f94edbc80bf75c82e4a263af1", null ],
     [ "InitializeGeometryFVM", "classCDriver.html#aedc08d3b6ea02eeed60695e5c4d52336", null ],
     [ "InitializeIntegration", "classCDriver.html#a46c2f76e7f4f8ce2bc3b132dd3a558b6", null ],
-    [ "InitializeInterface", "classCDriver.html#a6b21860c9c3d1305a20f8bfd64e834cc", null ],
+    [ "InitializeInterface", "classCDriver.html#a65c1e626dd5f40013544034bb1629f1a", null ],
     [ "InitializeNumerics", "classCDriver.html#a5294ec170c889821b57d4ec7b8dc2c3c", null ],
     [ "InitializeSolver", "classCDriver.html#ae57e1a2eb7e8f19259176afdab83e840", null ],
     [ "InstantiateSpeciesNumerics", "classCDriver.html#aafbb91232ec4106d2bb92e6cde323dff", null ],

@@ -1,0 +1,12 @@
+<map id="Common/include/basic_types/datatype_structure.hpp" name="Common/include/basic_types/datatype_structure.hpp">
+<area shape="rect" id="node1" title="Headers for generalized datatypes, defines an interface for AD types." alt="" coords="134,5,354,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,85,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="110,95,189,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="213,95,275,121"/>
+<area shape="rect" id="node5" href="$code__config_8hpp.html" title="Header file for collecting common macros, definitions and type configurations." alt="" coords="276,259,415,285"/>
+<area shape="rect" id="node7" href="$ad__structure_8hpp.html" title="Main routines for the algorithmic differentiation (AD) structure." alt="" coords="349,95,480,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="299,333,391,360"/>
+<area shape="rect" id="node8" href="$omp__structure_8hpp.html" title="OpenMP interface header, provides compatibility functions if the code is built without OpenMP support..." alt="" coords="401,169,549,211"/>
+<area shape="rect" id="node9" title=" " alt="" coords="439,259,510,285"/>
+<area shape="rect" id="node10" title=" " alt="" coords="535,259,593,285"/>
+</map>

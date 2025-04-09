@@ -1,0 +1,7 @@
+<map id="CSolver::ResidualReductions_PerThread" name="CSolver::ResidualReductions_PerThread">
+<area shape="rect" id="node1" title="&quot;Add&quot; residual at (iPoint,iVar) to residual variables local to the thread." alt="" coords="275,100,483,141"/>
+<area shape="rect" id="node2" href="$classCFVMFlowSolverBase.html#ac30c9255150f29da2915a85264a1676c" title="Generic implementation of explicit iterations with a preconditioner." alt="" coords="28,5,204,47"/>
+<area shape="rect" id="node3" href="$classCDiscAdjSolver.html#a197e13969a8007038486acaabc5902c8" title="Sets the adjoint values of the input variables of the flow (+turb.) iteration after tape has been eva..." alt="" coords="5,71,227,112"/>
+<area shape="rect" id="node4" href="$classCFEASolver.html#ab4fa9086b598c5778c9c0403a5626d1b" title="Postprocessing." alt="" coords="15,137,217,163"/>
+<area shape="rect" id="node5" href="$classCFVMFlowSolverBase.html#a46cfc420fe60646eb1634ca3f9149a05" title="Generic implementation to prepare an implicit iteration with an optional preconditioner applied to th..." alt="" coords="6,188,226,229"/>
+</map>

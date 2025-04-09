@@ -1,0 +1,6 @@
+<map id="CVariable::SetVal_ResTruncError_Zero" name="CVariable::SetVal_ResTruncError_Zero">
+<area shape="rect" id="node1" title="Set the truncation error to zero." alt="" coords="616,39,815,80"/>
+<area shape="rect" id="node2" href="$classCNEMONSSolver.html#a1d9ff4495625b00bfbf46b3ad87c4167" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="328,5,551,47"/>
+<area shape="rect" id="node4" href="$classCNEMONSSolver.html#aa32b1221a071e0ecd2de381615b8adca" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="311,71,568,112"/>
+<area shape="rect" id="node3" href="$classCNEMONSSolver.html#aa52e178cc5f052026e73735d6e9b847f" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="5,13,263,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CSourceVorticityConfinement" name="CSourceVorticityConfinement">
+<area shape="rect" id="node1" title="Class for a source term due to vorticity confinement." alt="" coords="5,155,217,181"/>
+<area shape="rect" id="node2" href="$classCSourceBase__Flow.html" title="Intermediate source term class to allocate the internally stored residual and Jacobian...." alt="" coords="39,80,184,107"/>
+<area shape="rect" id="node3" href="$classCNumerics.html" title="Class for defining the numerical methods." alt="" coords="65,5,158,32"/>
+</map>

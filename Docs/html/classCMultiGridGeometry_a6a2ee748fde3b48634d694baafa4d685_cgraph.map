@@ -1,0 +1,11 @@
+<map id="CMultiGridGeometry::MatchPeriodic" name="CMultiGridGeometry::MatchPeriodic">
+<area shape="rect" id="node1" title="Mach the periodic boundary conditions." alt="" coords="5,202,161,243"/>
+<area shape="rect" id="node2" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="226,5,373,32"/>
+<area shape="rect" id="node3" href="$classCPoint.html#a8a53865a92d645b1b74c4d817b4aae10" title="Get the global index in a parallel computation." alt="" coords="213,56,386,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#ae003cd8f406eaaa91849a774c9a20730" title="Get the kind of boundary for each marker." alt="" coords="225,107,373,149"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a3530ee9f3a5f5f286d2674e47de00a1a" title="Get an internal index that identify the periodic boundary conditions." alt="" coords="225,173,373,214"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="209,239,389,265"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a8d41ac571359049bbdc4b7927e7c328a" title="Get the total number of periodic markers." alt="" coords="221,290,377,331"/>
+<area shape="rect" id="node8" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="230,356,369,383"/>
+<area shape="rect" id="node9" href="$classCVertex.html#ae0fd51e8962899e5cd25dfe21fe2d7d6" title=" " alt="" coords="212,407,387,433"/>
+</map>

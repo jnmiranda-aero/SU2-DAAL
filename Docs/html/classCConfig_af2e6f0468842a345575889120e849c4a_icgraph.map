@@ -1,0 +1,14 @@
+<map id="CConfig::GetKind_TurboMachinery" name="CConfig::GetKind_TurboMachinery">
+<area shape="rect" id="node1" title="Get the kind of turbomachinery architecture." alt="" coords="284,311,527,337"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a40fad0a57e8dcba8a8f4d4fa8eab02f0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="35,5,206,32"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a8e036f2dff1d945d814c93a74159a3cc" title="Impose the boundary condition using characteristic recostruction." alt="" coords="5,56,236,83"/>
+<area shape="rect" id="node4" href="$classCPhysicalGeometry.html#aa3fbc055a43bbab16e7b5aa5ceecd14f" title="Set number of span wise level for turbomachinery computation." alt="" coords="42,107,199,149"/>
+<area shape="rect" id="node5" href="$classCPhysicalGeometry.html#af64e3443a9381960d56065bd61802ab3" title="Set turbo boundary vertex." alt="" coords="22,173,219,214"/>
+<area shape="rect" id="node6" href="$classCEulerSolver.html#a220a1c92ae192cc3962acf187cc0628c" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="29,238,213,279"/>
+<area shape="rect" id="node7" href="$classCEulerSolver.html#a4effd63e51aef9426ea0e327c104bb30" title="It computes Fourier transformation for the needed quantities along the pitch for each span in turboma..." alt="" coords="29,303,213,345"/>
+<area shape="rect" id="node8" href="$classCPhysicalGeometry.html#a4cc998068d7c155432682355c432b7b7" title="Set turbo boundary vertex." alt="" coords="42,369,199,410"/>
+<area shape="rect" id="node9" href="$classCEulerSolver.html#aba587fb4b29f6925b9a669b0f31d449f" title="Set the solution using the Freestream values." alt="" coords="16,434,225,475"/>
+<area shape="rect" id="node10" href="$classCPhysicalGeometry.html#a077e7ef5365c3a8ab069cb332f53e8aa" title="Set turbo boundary vertex." alt="" coords="42,499,199,541"/>
+<area shape="rect" id="node11" href="$classCEulerSolver.html#afe2f428da073b80f64c41422971f9748" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="20,565,221,606"/>
+<area shape="rect" id="node12" href="$classCPhysicalGeometry.html#a54c12f341098af662d0803d6f7c863a5" title="update turbo boundary vertex." alt="" coords="42,630,199,671"/>
+</map>

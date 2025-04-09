@@ -1,0 +1,6 @@
+<map id="CNSVariable" name="CNSVariable">
+<area shape="rect" id="node1" title="Class for defining the variables of the compressible Navier&#45;Stokes solver." alt="" coords="13,229,115,256"/>
+<area shape="rect" id="node2" href="$classCEulerVariable.html" title="Class for defining the variables of the compressible Euler solver." alt="" coords="5,155,123,181"/>
+<area shape="rect" id="node3" href="$classCFlowVariable.html" title="Class for defining the common variables of flow solvers." alt="" coords="7,80,121,107"/>
+<area shape="rect" id="node4" href="$classCVariable.html" title="Main class for defining the variables." alt="" coords="22,5,106,32"/>
+</map>

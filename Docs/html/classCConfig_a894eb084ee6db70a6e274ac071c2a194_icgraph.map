@@ -1,0 +1,17 @@
+<map id="CConfig::GetWallRoughnessProperties" name="CConfig::GetWallRoughnessProperties">
+<area shape="rect" id="node1" title="Get the type of wall and roughness height on a wall boundary (Heatflux or Isothermal)." alt="" coords="1000,145,1203,186"/>
+<area shape="rect" id="node2" href="$classCTurbSASolver.html#af459752616f30724d593fd5701fafa00" title="Impose the Navier&#45;Stokes wall boundary condition." alt="" coords="707,20,951,47"/>
+<area shape="rect" id="node4" href="$classCTurbSSTSolver.html#ab12b85db2fa0f335bd94732bd450a3c7" title="Impose the Navier&#45;Stokes wall boundary condition." alt="" coords="754,86,903,127"/>
+<area shape="rect" id="node6" href="$classCGeometry.html#a284247f13458eb39bc678dff5e0c7112" title="Compute the distances to the closest vertex on viscous walls over the entire domain." alt="" coords="705,181,952,208"/>
+<area shape="rect" id="node15" href="$classCFVMFlowSolverBase.html#af46a894bd89c2367215f64fa7ea7d02d" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="747,233,911,274"/>
+<area shape="rect" id="node3" href="$classCTurbSASolver.html#a4637e7b91db510ddcacfafd01817aafa" title="Impose the Navier&#45;Stokes wall boundary condition." alt="" coords="403,5,657,32"/>
+<area shape="rect" id="node5" href="$classCTurbSSTSolver.html#aacdfb401c6637c3e4e99b335b5859384" title="Impose the Navier&#45;Stokes wall boundary condition." alt="" coords="455,57,605,98"/>
+<area shape="rect" id="node7" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="466,123,594,149"/>
+<area shape="rect" id="node8" href="$classCMultizoneDriver.html#a53ec5acb13bb0e897515e098b11b10ac" title="Perform a dynamic mesh deformation, included grid velocity computation and the update of the multigri..." alt="" coords="429,174,631,215"/>
+<area shape="rect" id="node9" href="$classCSinglezoneDriver.html#a2f88f82c3b958d60452d5513daf5c128" title="Perform a dynamic mesh deformation, included grid velocity computation and the update of the multigri..." alt="" coords="449,239,611,281"/>
+<area shape="rect" id="node13" href="$classCDiscAdjFluidIteration.html#a5a072cbc3a0125554ba8be60d7261283" title="Compute necessary variables that depend on the conservative variables or the mesh node positions (e...." alt="" coords="447,305,613,346"/>
+<area shape="rect" id="node14" href="$classCDiscAdjHeatIteration.html#abedb4ebc3248b0b00235debf11d742d3" title="Compute necessary variables that depend on the conservative variables or the mesh node positions (e...." alt="" coords="447,370,613,411"/>
+<area shape="rect" id="node10" href="$classCSinglezoneDriver.html#a0b2c8c9b257915d6b19d72014f3bb82a" title="Preprocess the single&#45;zone iteration." alt="" coords="204,207,355,249"/>
+<area shape="rect" id="node12" href="$classCSinglezoneDriver.html#aec7315f833718d3f1ac6c2fb2b2a661b" title="Perform a mesh deformation as initial condition." alt="" coords="204,273,355,314"/>
+<area shape="rect" id="node11" href="$classCSinglezoneDriver.html#ac98c6acfe034381fb3b77c6753c4d734" title="[Overload] Launch the computation for single&#45;zone problems." alt="" coords="5,207,156,249"/>
+</map>

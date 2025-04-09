@@ -1,0 +1,9 @@
+<map id="CNumerics::SetLaminarViscosity" name="CNumerics::SetLaminarViscosity">
+<area shape="rect" id="node1" title="Set the laminar viscosity." alt="" coords="251,177,485,203"/>
+<area shape="rect" id="node2" href="$classCNEMOEulerSolver.html#af35c1b20663aa6051487296077034f05" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="19,5,189,47"/>
+<area shape="rect" id="node3" href="$classCNEMOEulerSolver.html#a1448f7a4a713ada22016532249a56a95" title="Impose a supersonic inlet boundary condition." alt="" coords="19,71,189,112"/>
+<area shape="rect" id="node4" href="$classCNEMOEulerSolver.html#a0758ca67e16c9f1f0f8fe5c8ec661cf7" title="Source term integration." alt="" coords="5,136,203,177"/>
+<area shape="rect" id="node5" href="$classCAdjNSSolver.html#a3f7289e94076471c23e53da293b69645" title="Source term computation." alt="" coords="23,201,185,243"/>
+<area shape="rect" id="node6" href="$classCAdjTurbSolver.html#a5f05f842f8d9a3de8a5f438a663dd413" title="Source term computation." alt="" coords="18,267,190,308"/>
+<area shape="rect" id="node7" href="$classCAdjTurbSolver.html#a7a5247a1cc0a32dd690fc4881fadd999" title="Compute the viscous residuals for the turbulent adjoint equation." alt="" coords="15,332,193,373"/>
+</map>

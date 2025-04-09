@@ -1,0 +1,8 @@
+<map id="CFluidModel::SetMassDiffusivityModel" name="CFluidModel::SetMassDiffusivityModel">
+<area shape="rect" id="node1" title="Set mass diffusivity model." alt="" coords="581,49,815,90"/>
+<area shape="rect" id="node2" href="$classCSpeciesSolver.html#a5ccb8c2120d645a83db3f6d1d08e7984" title="Restart residual and compute gradients." alt="" coords="281,5,502,32"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="249,56,533,83"/>
+<area shape="rect" id="node5" href="$classCFEM__DG__EulerSolver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="291,107,492,149"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460" title="Main constructor of this class." alt="" coords="5,56,201,83"/>
+<area shape="rect" id="node6" href="$classCFEM__DG__EulerSolver.html#a70d30ef9e7cd7620d54ec73f4b1ed28c" title=" " alt="" coords="16,107,191,149"/>
+</map>

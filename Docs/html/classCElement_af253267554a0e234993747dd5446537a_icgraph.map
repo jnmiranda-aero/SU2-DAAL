@@ -1,0 +1,11 @@
+<map id="CElement::ComputeArea" name="CElement::ComputeArea">
+<area shape="rect" id="node1" title="Compute the value of the area of the element." alt="" coords="541,81,724,108"/>
+<area shape="rect" id="node2" href="$classCElement.html#a77020a35b79dff20392f7726c72d2147" title="Compute the value of the area of the element in current coordinates (wrapper to ComputeArea(CURRENT))..." alt="" coords="259,5,490,32"/>
+<area shape="rect" id="node3" href="$classCGeometry.html#a8c44e8bde0b43a10d8455c1844177aae" title="Compute and store the volume of the primal elements." alt="" coords="271,56,478,83"/>
+<area shape="rect" id="node5" href="$classCMeshSolver.html#adf042699d3abf46135568ef991b7dd44" title="Compute the min and max volume of the elements in the domain." alt="" coords="256,107,493,133"/>
+<area shape="rect" id="node8" href="$classCFEASolver.html#a189b5d1e3d6a83b6f0124eb16acc1a95" title="Compute the penalty due to the stiffness increase." alt="" coords="294,169,455,210"/>
+<area shape="rect" id="node4" href="$classCFEASolver.html#a353159e003821dae0668dcfe7281bd68" title="Set residuals to zero." alt="" coords="9,45,205,72"/>
+<area shape="rect" id="node6" href="$classCMeshSolver.html#a728930536c48c01f17b91808115fdb91" title="Constructor of the class." alt="" coords="7,96,207,123"/>
+<area shape="rect" id="node7" href="$classCMeshSolver.html#a573e4ddd63b680f5705f402ec317820b" title="Grid deformation using the linear elasticity equations." alt="" coords="7,147,206,173"/>
+<area shape="rect" id="node9" href="$classCFEASolver.html#ab4fa9086b598c5778c9c0403a5626d1b" title="Postprocessing." alt="" coords="5,197,208,224"/>
+</map>

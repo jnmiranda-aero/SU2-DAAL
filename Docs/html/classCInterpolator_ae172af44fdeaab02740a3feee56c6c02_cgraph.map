@@ -1,0 +1,8 @@
+<map id="CInterpolator::Determine_ArraySize" name="CInterpolator::Determine_ArraySize">
+<area shape="rect" id="node1" title="Determine array sizes used to collect and send coordinate and global point information." alt="" coords="5,99,189,141"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a137ef06ade0c4f94d2a61f9b8817b6a7" title=" " alt="" coords="241,5,450,32"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="240,56,451,83"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="237,107,453,133"/>
+<area shape="rect" id="node5" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="272,157,419,184"/>
+<area shape="rect" id="node6" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="276,208,415,235"/>
+</map>

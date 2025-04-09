@@ -1,0 +1,12 @@
+<map id="correctGradientsSymmetry" name="correctGradientsSymmetry">
+<area shape="rect" id="node1" title="Correct gradients on symmetry and Euler (slip) markers to respect the conditions:" alt="" coords="5,147,204,174"/>
+<area shape="rect" id="node2" href="$classCConfig.html#ae003cd8f406eaaa91849a774c9a20730" title="Get the kind of boundary for each marker." alt="" coords="269,5,417,47"/>
+<area shape="rect" id="node3" href="$classCGeometry.html#ad2f9fe832b72d5a032d709d25879bbd2" title="Get number of markers." alt="" coords="253,71,432,98"/>
+<area shape="rect" id="node4" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="273,122,412,149"/>
+<area shape="rect" id="node5" href="$classCVertex.html#a57cacfe764770e6c0e54c278cb584f7c" title="Copy the the normal vector of a face." alt="" coords="267,173,419,199"/>
+<area shape="rect" id="node6" href="$classCGeometry.html#a00b7f7e71ff42bd38f39147366dd093a" title="Get number of vertices." alt="" coords="255,223,431,250"/>
+<area shape="rect" id="node7" href="$group__GeometryToolbox.html#gad8b24e50333c9a8378f7abf18222f36a" title=" " alt="" coords="252,274,433,301"/>
+<area shape="rect" id="node8" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="575,249,622,275"/>
+<area shape="rect" id="node9" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="481,299,716,326"/>
+<area shape="rect" id="node10" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="764,299,981,326"/>
+</map>

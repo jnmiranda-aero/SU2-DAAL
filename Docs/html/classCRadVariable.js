@@ -2,7 +2,7 @@ var classCRadVariable =
 [
     [ "CRadVariable", "classCRadVariable.html#a66877866c71a5c6d67b8e327a060b87b", null ],
     [ "~CRadVariable", "classCRadVariable.html#ad1c3de7ff582712a1e60a3c74776eaec", null ],
-    [ "GetRadiative_SourceTerm", "classCRadVariable.html#a2f555d10e941296b4cb16502464c9f00", null ],
+    [ "GetRadiative_SourceTerm", "classCRadVariable.html#a2183ece003cd7219f5785367a2dbf53b", null ],
     [ "GetVol_HeatSource", "classCRadVariable.html#a232eec659cf6667683ead2e9e375f893", null ],
     [ "ResetVol_HeatSource", "classCRadVariable.html#a3204d7216f80143f454744fba50ebe5f", null ],
     [ "SetRadiative_SourceTerm", "classCRadVariable.html#a22d7a39c4c0cfd178bc9120df86185c8", null ],

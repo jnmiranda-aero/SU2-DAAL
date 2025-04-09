@@ -1,0 +1,27 @@
+<map id="CSysVector::SetBlock_Zero" name="CSysVector::SetBlock_Zero">
+<area shape="rect" id="node1" title="Set the values to zero for one block." alt="" coords="892,490,1089,517"/>
+<area shape="rect" id="node2" href="$classCFVMFlowSolverBase.html#a51801a9f54e9b4184f58a7becda5bd04" title="Impose a custom or verification boundary condition." alt="" coords="640,5,804,47"/>
+<area shape="rect" id="node3" href="$classCAdjTurbSolver.html#a1a53831ac325af943189f6355dcdc77a" title="Impose the Navier&#45;Stokes turbulent adjoint boundary condition." alt="" coords="649,71,795,112"/>
+<area shape="rect" id="node4" href="$classCTurbSASolver.html#af459752616f30724d593fd5701fafa00" title="Impose the Navier&#45;Stokes wall boundary condition." alt="" coords="600,137,844,163"/>
+<area shape="rect" id="node6" href="$classCTurbSSTSolver.html#ab12b85db2fa0f335bd94732bd450a3c7" title="Impose the Navier&#45;Stokes wall boundary condition." alt="" coords="647,188,797,229"/>
+<area shape="rect" id="node8" href="$classCSpeciesSolver.html#aca27a19a7953503e2ff2ec8e06c838ee" title="Impose the inlet boundary condition." alt="" coords="648,253,796,295"/>
+<area shape="rect" id="node10" href="$classCAdjTurbSolver.html#a90a20eaa12710555aede53fa56bca0df" title="Impose an isothermal wall boundary condition (no&#45;slip)." alt="" coords="649,319,795,360"/>
+<area shape="rect" id="node11" href="$classCSpeciesSolver.html#a548512ab2846aa9efea881ad958db6c0" title="Impose the outlet boundary condition." alt="" coords="648,384,796,425"/>
+<area shape="rect" id="node12" href="$classCFVMFlowSolverBase.html#ae3dcd50af33a82348b11e50aa41f43a9" title="Implementation of implicit Euler iteration." alt="" coords="635,449,809,491"/>
+<area shape="rect" id="node13" href="$classCTurbSolver.html#a35849b2e45ccdde346861286955981cf" title="Impose fixed values to turbulence quantities." alt="" coords="645,515,799,556"/>
+<area shape="rect" id="node14" href="$classCAdjEulerSolver.html#a64baf8c7af6006bdc4ad0919f7c2507a" title="Initialize the residual vectors." alt="" coords="609,581,835,607"/>
+<area shape="rect" id="node15" href="$classCAdjNSSolver.html#a0669f6fb8ef7cd7800d151d4aff7d3f6" title="Restart residual and compute gradients." alt="" coords="617,631,827,658"/>
+<area shape="rect" id="node16" href="$classCAdjTurbSolver.html#a2ed1cbeeeaaeb94ba0e6c9103459b1fe" title="Initializate the residual vectors." alt="" coords="613,682,831,709"/>
+<area shape="rect" id="node17" href="$classCRadP1Solver.html#a34c7a29cb038e85c793685b1a76edac6" title="Restart residual and compute gradients." alt="" coords="616,733,828,759"/>
+<area shape="rect" id="node18" href="$classCSpeciesFlameletSolver.html#aee0e7fac4103cec39936c9f3e0c9e4f4" title="Restart residual and compute gradients." alt="" coords="632,784,812,825"/>
+<area shape="rect" id="node19" href="$classCNEMOEulerSolver.html#aa3498ebe1779c01daf8380d6a7d0aa7d" title="Computes primitive variables." alt="" coords="605,849,839,891"/>
+<area shape="rect" id="node23" href="$classCFVMFlowSolverBase.html#abf74474ed8e74a84fb30faba2160494b" title="Sum the edge fluxes for each cell to populate the residual vector, only used on coarse grids." alt="" coords="640,915,804,956"/>
+<area shape="rect" id="node5" href="$classCTurbSASolver.html#a4637e7b91db510ddcacfafd01817aafa" title="Impose the Navier&#45;Stokes wall boundary condition." alt="" coords="297,137,552,163"/>
+<area shape="rect" id="node7" href="$classCTurbSSTSolver.html#aacdfb401c6637c3e4e99b335b5859384" title="Impose the Navier&#45;Stokes wall boundary condition." alt="" coords="350,188,499,229"/>
+<area shape="rect" id="node9" href="$classCSpeciesFlameletSolver.html#a5224ee97bd1664cd1768bdc1d9fd375c" title="Impose the inlet boundary condition." alt="" coords="335,253,515,295"/>
+<area shape="rect" id="node20" href="$classCNEMOEulerSolver.html#a27f21d6dbfb7f6c600f759caf7625087" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="319,849,531,891"/>
+<area shape="rect" id="node21" href="$classCNEMOEulerSolver.html#a3c5a59b5c1c9195757626bff151dbaa9" title="Compute the velocity^2, SoundSpeed, Pressure, Enthalpy, Viscosity." alt="" coords="5,810,249,837"/>
+<area shape="rect" id="node22" href="$classCNEMONSSolver.html#aef1c13c42cd8103377619f7d94660d6a" title="Restart residual and compute gradients." alt="" coords="13,861,242,887"/>
+<area shape="rect" id="node24" href="$classCFVMFlowSolverBase.html#a0cac91b15aa61de657289b114bd796bc" title="Sums edge fluxes (if required) and computes the global error counter." alt="" coords="315,915,535,956"/>
+<area shape="rect" id="node25" href="$classCFVMFlowSolverBase.html#a8c19de20d537852775225aa6d201f00f" title="Method to compute convective and viscous residual contribution using vectorized numerics." alt="" coords="45,915,209,956"/>
+</map>

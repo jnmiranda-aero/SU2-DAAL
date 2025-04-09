@@ -1,0 +1,6 @@
+<map id="CSourceRotatingFrame_Flow::ComputeResidual" name="CSourceRotatingFrame_Flow::ComputeResidual">
+<area shape="rect" id="node1" title="Residual of the rotational frame source term." alt="" coords="5,64,188,105"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a568405f750ddcd4f702197e66b477ff9" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="239,5,428,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#ab3ab2f06b6d038aea73beed05cd13448" title="Get the value of the reference angular velocity for non&#45;dimensionalization." alt="" coords="244,71,423,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a3f9890ff8ca2b98646e4ebf3de8c9c13" title="Get the rotation rate of the mesh." alt="" coords="236,122,431,149"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CAdjFlowOutput::AddHistoryOutputFieldsAdjScalarLinsol" name="CAdjFlowOutput::AddHistoryOutputFieldsAdjScalarLinsol">
+<area shape="rect" id="node1" title="Add scalar (turbulence/species) history fields for the linear solver (FVMComp, FVMInc,..." alt="" coords="5,27,212,69"/>
+<area shape="rect" id="node2" href="$classCOutput.html#ad5ee424d364346cbd6dc27ffbab35e0a" title="Add a new field to the history output." alt="" coords="260,5,459,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a7416428b6139fe85180e5e8d190506aa" title="Get the kind of the species model." alt="" coords="265,57,454,98"/>
+</map>

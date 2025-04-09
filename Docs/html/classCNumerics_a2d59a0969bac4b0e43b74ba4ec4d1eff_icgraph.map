@@ -1,0 +1,19 @@
+<map id="CNumerics::SetConservative" name="CNumerics::SetConservative">
+<area shape="rect" id="node1" title="Set the value of the conservative variables." alt="" coords="265,503,473,530"/>
+<area shape="rect" id="node2" href="$classCAdjTurbSolver.html#ac49718a86c11d69f14e2e160d1929415" title="Impose the boundary condition to the far field using characteristics." alt="" coords="38,5,185,47"/>
+<area shape="rect" id="node3" href="$classCNEMOEulerSolver.html#af35c1b20663aa6051487296077034f05" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="26,71,197,112"/>
+<area shape="rect" id="node4" href="$classCNEMOEulerSolver.html#a715d85f7c0791a1258fba5746257cba0" title="Impose a subsonic inlet boundary condition." alt="" coords="26,136,197,177"/>
+<area shape="rect" id="node5" href="$classCNEMOEulerSolver.html#ad9c735fad084c25c2b24b9ccd3503fa8" title="Impose the outlet boundary condition." alt="" coords="26,201,197,243"/>
+<area shape="rect" id="node6" href="$classCNEMOEulerSolver.html#a1448f7a4a713ada22016532249a56a95" title="Impose a supersonic inlet boundary condition." alt="" coords="26,267,197,308"/>
+<area shape="rect" id="node7" href="$classCNEMOEulerSolver.html#a56fde05fcdc935ca387b46ee6bd7034e" title="Impose the supersonic outlet boundary condition." alt="" coords="26,332,197,373"/>
+<area shape="rect" id="node8" href="$classCNEMOEulerSolver.html#a7765314bdcc7440ec4b1826ab6cf16f3" title="Compute the spatial integration using a centered scheme." alt="" coords="5,397,217,439"/>
+<area shape="rect" id="node9" href="$classCAdjEulerSolver.html#a30bdc57d4bd18b22b3f07772f5ea8a99" title="Compute the spatial integration using a centered scheme for the adjoint equations." alt="" coords="15,463,208,504"/>
+<area shape="rect" id="node10" href="$classCIncEulerSolver.html#a5f9ced3a85731749b16d6f1bac9460f6" title="Source term integration." alt="" coords="23,528,199,569"/>
+<area shape="rect" id="node11" href="$classCNEMOEulerSolver.html#a0758ca67e16c9f1f0f8fe5c8ec661cf7" title="Source term integration." alt="" coords="13,593,210,635"/>
+<area shape="rect" id="node12" href="$classCAdjEulerSolver.html#ae216910d8440480535ade23935b75b92" title="Source term integration." alt="" coords="22,659,201,700"/>
+<area shape="rect" id="node13" href="$classCAdjNSSolver.html#a3f7289e94076471c23e53da293b69645" title="Source term computation." alt="" coords="30,724,193,765"/>
+<area shape="rect" id="node14" href="$classCAdjTurbSolver.html#a5f05f842f8d9a3de8a5f438a663dd413" title="Source term computation." alt="" coords="25,789,197,831"/>
+<area shape="rect" id="node15" href="$classCEulerSolver.html#a3173ebda0dc28e9fc17ced219fc60e9a" title="Source term integration." alt="" coords="33,855,190,896"/>
+<area shape="rect" id="node16" href="$classCAdjTurbSolver.html#a35c455d0c7d407c79fc7e789812bd020" title="Compute the spatial integration using a upwind scheme." alt="" coords="23,920,200,961"/>
+<area shape="rect" id="node17" href="$classCAdjTurbSolver.html#a7a5247a1cc0a32dd690fc4881fadd999" title="Compute the viscous residuals for the turbulent adjoint equation." alt="" coords="22,985,201,1027"/>
+</map>

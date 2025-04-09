@@ -1,0 +1,4 @@
+<map id="CNEMONSSolver::BC_HeatFluxCatalytic_Wall" name="CNEMONSSolver::BC_HeatFluxCatalytic_Wall">
+<area shape="rect" id="node1" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="311,5,533,47"/>
+<area shape="rect" id="node2" href="$classCNEMONSSolver.html#aa52e178cc5f052026e73735d6e9b847f" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="5,13,263,39"/>
+</map>

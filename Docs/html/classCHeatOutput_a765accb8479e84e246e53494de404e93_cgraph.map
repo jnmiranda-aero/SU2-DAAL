@@ -1,0 +1,9 @@
+<map id="CHeatOutput::CHeatOutput" name="CHeatOutput::CHeatOutput">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,159,204,185"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a1d6335b8fdef6fbcd9a08f7503d73ec1" title="Provides the number of varaibles." alt="" coords="303,5,443,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#af3031af8509878702b4045584ab16ed3" title="Get the name of the restart file for the flow variables." alt="" coords="298,57,449,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a16f99e8cc6c1bf42cc4a7b15e5d1dee1" title="Get the name of the file with the surface information for the flow problem." alt="" coords="292,122,455,163"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a85d2e3cf43b77c63642c40c235b853f3" title="Check if the multizone problem is solved for time domain." alt="" coords="276,188,471,215"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a032b7d16a6ce08d53d69d3f258a89588" title="Get the name of the file with the flow variables." alt="" coords="297,239,449,281"/>
+<area shape="rect" id="node7" href="$classCOutput.html#a1bc579cd9df2166419d6e5e2d1d2c901" title="Request the history fields common for all solvers." alt="" coords="252,305,495,332"/>
+</map>

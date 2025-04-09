@@ -13,6 +13,7 @@ var classCInterface =
     [ "RecoverTarget_Variable", "classCInterface.html#aecc0748fd0568e1e5364037e3da31c42", null ],
     [ "SetAverageTurboGeoValues", "classCInterface.html#a851a13a69d53ae621edc98816a0b8d16", null ],
     [ "SetAverageValues", "classCInterface.html#a00c51b5553f761b1afc914f0fb6172e3", null ],
+    [ "SetContactResistance", "classCInterface.html#a22ee73d459924bbe3381e0666baae9ca", null ],
     [ "SetSpanWiseLevels", "classCInterface.html#afbfcc3a7a6cbcff075d02cd2c09ddef9", null ],
     [ "SetTarget_Variable", "classCInterface.html#ab0acd2300d065c1f6018f4e516104ca5", null ],
     [ "Donor_Variable", "classCInterface.html#a746e97c463d8aca02c5d0e672327570e", null ],

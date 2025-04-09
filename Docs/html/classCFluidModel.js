@@ -24,6 +24,7 @@ var classCFluidModel =
     [ "GetMassDiffusivity", "classCFluidModel.html#a69fb6b4d4aaafff742b45c60946e56ec", null ],
     [ "GetnIter_Newton", "classCFluidModel.html#acea91f26bfd8b5c6ce1db4b87bf1ecc7", null ],
     [ "GetNScalars", "classCFluidModel.html#a745f5634ad45813f245079631c46ec40", null ],
+    [ "GetPreferentialDiffusion", "classCFluidModel.html#ac54a1ae92372e197d2034d22d3808e24", null ],
     [ "GetPressure", "classCFluidModel.html#aee63b54308942e8b61b62a12a3278029", null ],
     [ "GetSoundSpeed", "classCFluidModel.html#a114d121d918607fe923446ad733b2c62", null ],
     [ "GetSoundSpeed2", "classCFluidModel.html#a654e55c4c6bb3914b40fbc27410876ba", null ],

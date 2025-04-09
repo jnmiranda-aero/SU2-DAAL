@@ -1,0 +1,20 @@
+<map id="CSysSolve::Smoother_LinSolver" name="CSysSolve::Smoother_LinSolver">
+<area shape="rect" id="node1" title="Generic smoother (modified Richardson iteration with preconditioner)" alt="" coords="5,217,167,258"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="233,5,414,32"/>
+<area shape="rect" id="node4" href="$classCConfig.html#aa495414133c826e5f6651d4ce82d0ef6" title="Get the level of MPI communications to be performed." alt="" coords="229,56,417,83"/>
+<area shape="rect" id="node5" href="$classCConfig.html#aab49874886c4573676a309bf31d9cb2e" title="Get the relaxation factor for iterative linear smoothers." alt="" coords="215,107,432,149"/>
+<area shape="rect" id="node6" href="$classCSysVector.html#a36e34edad9ea54a9d0a153fc5035980c" title="return the number of blocks (typically number of nodes locally)" alt="" coords="245,173,402,200"/>
+<area shape="rect" id="node7" href="$classCSysVector.html#a291257913c3bd91e40f8ab2c154e2d92" title="return the number of blocks (typically number of nodes locally)" alt="" coords="219,224,427,251"/>
+<area shape="rect" id="node8" href="$classCSysVector.html#ac0b4bcd823f7905143430a7bbdcad6f2" title="return the number of variables at each block (typically number per node)" alt="" coords="245,275,402,301"/>
+<area shape="rect" id="node9" href="$classCBaseMPIWrapper.html#a63e1f265b788b4e56cb7ebdeba29b78e" title=" " alt="" coords="220,325,427,352"/>
+<area shape="rect" id="node10" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="246,376,401,403"/>
+<area shape="rect" id="node11" href="$classCSysVector.html#a55d36be09dfc5bed32246727f25cb7f5" title="L2 norm of the vector." alt="" coords="255,427,392,453"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="483,5,668,32"/>
+<area shape="rect" id="node12" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="552,401,599,428"/>
+<area shape="rect" id="node13" href="$classCSysVector.html#a5a7712aa50a8edc522e54bff5481493c" title="Squared L2 norm of the vector (via dot with self)." alt="" coords="480,452,671,479"/>
+<area shape="rect" id="node14" href="$classCSysVector.html#a96c613a08177a0f6105a635a92b138b0" title="Dot product between &quot;this&quot; and an expression." alt="" coords="719,452,843,479"/>
+<area shape="rect" id="node15" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="893,372,1104,399"/>
+<area shape="rect" id="node16" href="$omp__structure_8hpp.html#a9465b8cb1d384f41bbb5f3c04ec815de" title="Atomically update a (shared) lhs value with a (local) rhs value." alt="" coords="953,423,1045,449"/>
+<area shape="rect" id="node17" href="$classVecExpr_1_1CVecExpr.html#a115df29cff21df9afb1271565c42b37c" title="Cast the expression to Derived, usually to allow evaluation via operator[]." alt="" coords="923,474,1074,515"/>
+<area shape="rect" id="node18" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="891,540,1107,567"/>
+</map>

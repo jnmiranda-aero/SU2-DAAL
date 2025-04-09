@@ -1,0 +1,12 @@
+<map id="CSysSolve::RFGMRES_LinSolver" name="CSysSolve::RFGMRES_LinSolver">
+<area shape="rect" id="node1" title="Flexible Generalized Minimal Residual method with restarts (frequency comes from config)." alt="" coords="5,35,168,76"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a4cb8f098a3ab322cc8775fe200f8b3eb" title="Get restart frequency of the linear solver for the implicit formulation." alt="" coords="216,5,415,47"/>
+<area shape="rect" id="node3" href="$classCSysVector.html#a55d36be09dfc5bed32246727f25cb7f5" title="L2 norm of the vector." alt="" coords="247,71,384,98"/>
+<area shape="rect" id="node4" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="535,46,581,73"/>
+<area shape="rect" id="node5" href="$classCSysVector.html#a5a7712aa50a8edc522e54bff5481493c" title="Squared L2 norm of the vector (via dot with self)." alt="" coords="463,97,653,123"/>
+<area shape="rect" id="node6" href="$classCSysVector.html#a96c613a08177a0f6105a635a92b138b0" title="Dot product between &quot;this&quot; and an expression." alt="" coords="701,97,825,123"/>
+<area shape="rect" id="node7" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="876,17,1087,43"/>
+<area shape="rect" id="node8" href="$omp__structure_8hpp.html#a9465b8cb1d384f41bbb5f3c04ec815de" title="Atomically update a (shared) lhs value with a (local) rhs value." alt="" coords="935,67,1027,94"/>
+<area shape="rect" id="node9" href="$classVecExpr_1_1CVecExpr.html#a115df29cff21df9afb1271565c42b37c" title="Cast the expression to Derived, usually to allow evaluation via operator[]." alt="" coords="906,119,1057,160"/>
+<area shape="rect" id="node10" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="873,185,1089,211"/>
+</map>

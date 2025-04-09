@@ -1,0 +1,4 @@
+<map id="CLookUpTable::IsInTriangle" name="CLookUpTable::IsInTriangle">
+<area shape="rect" id="node1" title="Determine if a point P(val_CV1,val_CV2) is inside the triangle val_id_triangle." alt="" coords="260,13,456,39"/>
+<area shape="rect" id="node2" href="$classCLookUpTable.html#a1eae212e749b940e8fd21af522ed3352" title="Find the triangle within which the query point (val_CV1, val_CV2) is located." alt="" coords="5,5,212,47"/>
+</map>

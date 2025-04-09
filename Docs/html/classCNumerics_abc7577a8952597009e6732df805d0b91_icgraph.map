@@ -1,0 +1,8 @@
+<map id="CNumerics::GetInviscidProjFlux" name="CNumerics::GetInviscidProjFlux">
+<area shape="rect" id="node1" title="Compute the projected inviscid flux vector." alt="" coords="284,115,511,141"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a4ad4a65b3fc5a51b1561436736f7f7ca" title="Impose the boundary condition using characteristic recostruction." alt="" coords="23,5,219,32"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a8e036f2dff1d945d814c93a74159a3cc" title="Impose the boundary condition using characteristic recostruction." alt="" coords="5,56,236,83"/>
+<area shape="rect" id="node4" href="$classCUpwRoeBase__Flow.html#ae828f7505381432012daa1618ff9f030" title="Compute the flux from node i to node j, part common to most Roe schemes." alt="" coords="10,107,231,149"/>
+<area shape="rect" id="node5" href="$classCUpwTurkel__Flow.html#aeea8b3f88efb753429306fe3c2076af4" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="19,173,222,214"/>
+<area shape="rect" id="node6" href="$classCUpwGeneralRoe__Flow.html#ae7835fc0d44bb290bef95f1e5ce3d90f" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="33,238,208,279"/>
+</map>

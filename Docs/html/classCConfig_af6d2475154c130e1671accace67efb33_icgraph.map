@@ -1,0 +1,10 @@
+<map id="CConfig::GetKind_SurfaceMovement" name="CConfig::GetKind_SurfaceMovement">
+<area shape="rect" id="node1" title="Get the type of surface motion." alt="" coords="960,104,1148,145"/>
+<area shape="rect" id="node2" href="$classCMeshSolver.html#abfd3bd7eaf4b02cce6d682e241ac291b" title="Pitching definition for deforming mesh." alt="" coords="748,5,912,47"/>
+<area shape="rect" id="node6" href="$classCMeshSolver.html#a6afb12904c07abdff7bb2c44af692a2d" title="Plunging definition for deforming mesh." alt="" coords="748,71,912,112"/>
+<area shape="rect" id="node7" href="$classCMeshSolver.html#a55e7273d94df5b31b173972f61dbe47e" title="Rotating definition for deforming mesh." alt="" coords="748,136,912,177"/>
+<area shape="rect" id="node8" href="$classCMeshSolver.html#a6fbd13b364179305341daa23c491a82f" title="Translating definition for deforming mesh." alt="" coords="748,201,912,243"/>
+<area shape="rect" id="node3" href="$classCMeshSolver.html#a7d6d7ddc8fb135f6c4ef6313ff2f7e3c" title="Check the boundary vertex that are going to be moved." alt="" coords="501,104,700,145"/>
+<area shape="rect" id="node4" href="$classCMeshSolver.html#a0dde897c2a1bc27f95c5da3bb30e5c33" title="Compute the grid velocity form the velocity at deformable boundary." alt="" coords="252,75,453,116"/>
+<area shape="rect" id="node5" href="$classCMeshSolver.html#a573e4ddd63b680f5705f402ec317820b" title="Grid deformation using the linear elasticity equations." alt="" coords="5,111,204,138"/>
+</map>

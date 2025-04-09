@@ -1,0 +1,8 @@
+<map id="CSolver::SetImplicitPeriodic" name="CSolver::SetImplicitPeriodic">
+<area shape="rect" id="node1" title="Routine that sets the flag controlling implicit treatment for periodic BCs." alt="" coords="483,56,685,83"/>
+<area shape="rect" id="node2" href="$classCHeatSolver.html#a89c9ece2b98a950e53f4ee9482968186" title="Constructor of the class." alt="" coords="243,5,435,32"/>
+<area shape="rect" id="node3" href="$classCTurbSolver.html#a55406aa4a7c66a64ce90c1e507258b33" title="Constructor of the class." alt="" coords="247,56,431,83"/>
+<area shape="rect" id="node4" href="$classCSpeciesSolver.html#a3add249849d759ed3feec4f335aa9cde" title=" " alt="" coords="245,107,432,133"/>
+<area shape="rect" id="node5" href="$classCSpeciesFlameletSolver.html#ad28daa94ec7a426fd00201bf6139da04" title="Define a Flamelet Generated Manifold species solver." alt="" coords="6,66,194,107"/>
+<area shape="rect" id="node6" href="$classCSpeciesSolver.html#a3a7863355bb316fe760afeb1db4ca66c" title="Constructor of the class." alt="" coords="5,131,195,173"/>
+</map>

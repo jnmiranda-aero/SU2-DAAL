@@ -1,0 +1,42 @@
+<map id="CNEMONSSolver::BC_Smoluchowski_Maxwell" name="CNEMONSSolver::BC_Smoluchowski_Maxwell">
+<area shape="rect" id="node1" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="5,933,263,974"/>
+<area shape="rect" id="node2" href="$classCNEMOGas.html#a2d200cfe123034ab5258c3c800f037ba" title="Compute gas constant." alt="" coords="325,5,571,32"/>
+<area shape="rect" id="node3" href="$classCNumerics.html#a18b6238c38e05339954c0bb6121203d1" title="Compute the stress tensor from the velocity gradients." alt="" coords="348,57,548,98"/>
+<area shape="rect" id="node4" href="$group__GeometryToolbox.html#ga600fb4ee993ae4c3b985082d51994881" title=" " alt="" coords="347,123,549,149"/>
+<area shape="rect" id="node5" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="727,173,774,200"/>
+<area shape="rect" id="node8" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="916,283,1133,309"/>
+<area shape="rect" id="node9" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="357,1719,539,1745"/>
+<area shape="rect" id="node11" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="381,325,515,352"/>
+<area shape="rect" id="node12" href="$classCNEMOEulerVariable.html#aaa48e38fc8ce46d3776b98591c1cedad" title="Get the density of the flow." alt="" coords="369,377,527,418"/>
+<area shape="rect" id="node13" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="375,443,521,469"/>
+<area shape="rect" id="node14" href="$classCNEMOEulerVariable.html#a01c5e98b3b8c4771749f8a4717fe85af" title="Returns the stored value of Gamma at the specified node." alt="" coords="369,494,527,535"/>
+<area shape="rect" id="node15" href="$classCFlowVariable.html#a23eab98fe30de5f7cfff158eb929c24c" title="Get the value of the primitive variables gradient." alt="" coords="347,559,549,601"/>
+<area shape="rect" id="node16" href="$classCConfig.html#a395841c47b4890ae5abae63b359ff0c6" title="Indicates whether electron gas is present in the gas mixture." alt="" coords="365,625,531,652"/>
+<area shape="rect" id="node17" href="$classCConfig.html#aad944681c909f30b1c07155cd9c832c0" title="Get the wall temperature (static) at an isothermal boundary." alt="" coords="361,677,535,718"/>
+<area shape="rect" id="node18" href="$classCVariable.html#a0acbe55ca86de2c0205ae921193e9e95" title="A virtual member." alt="" coords="335,743,561,769"/>
+<area shape="rect" id="node19" href="$classCConfig.html#ab8c9c1f45950a29355be4ff357049440" title="Get the index of the surface defined in the geometry file." alt="" coords="374,794,522,835"/>
+<area shape="rect" id="node20" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="379,860,517,887"/>
+<area shape="rect" id="node21" href="$classCVertex.html#a57cacfe764770e6c0e54c278cb584f7c" title="Copy the the normal vector of a face." alt="" coords="372,911,524,937"/>
+<area shape="rect" id="node22" href="$classCVertex.html#ab8b0e96f9384b0a861c7a70616976b75" title="Get the value of the closest neighbor." alt="" coords="372,962,524,1003"/>
+<area shape="rect" id="node23" href="$classCNEMOEulerVariable.html#af68c03bea263bc4c8a0ec3a35bdbc928" title="Get the flow pressure." alt="" coords="369,1027,527,1069"/>
+<area shape="rect" id="node24" href="$classCNEMOEulerVariable.html#ab3869841734e4265c4be3dced10a37c1" title="Get the mixture specific heat at constant volume (trans.&#45;rot.)." alt="" coords="369,1093,527,1134"/>
+<area shape="rect" id="node25" href="$classCNEMOEulerVariable.html#a7bb3978c6abd00e52cc636bad2f426bd" title="Get the mixture specific heat at constant volume (vib.&#45;el.)." alt="" coords="369,1158,527,1199"/>
+<area shape="rect" id="node26" href="$classCNEMOEulerVariable.html#a5992e932d174b05ed0c71a9e5bed8a31" title="Get the temperature of the flow." alt="" coords="369,1223,527,1265"/>
+<area shape="rect" id="node27" href="$classCNEMOEulerVariable.html#abacc3e1a140dfe0173ecb3a38f142f68" title="A virtual member." alt="" coords="369,1289,527,1330"/>
+<area shape="rect" id="node28" href="$classCVariable.html#a05aa9ee34c744629c72742c05ceab246" title="A virtual member." alt="" coords="323,1355,573,1381"/>
+<area shape="rect" id="node29" href="$classCVariable.html#aa5bded7c79dfd758ef3a45674e8d6c58" title="A virtual member." alt="" coords="311,1405,585,1432"/>
+<area shape="rect" id="node30" href="$classCNEMOEulerVariable.html#af45e7025f7ed138b4c1e39d6a2521891" title="Retrieves the value of the in temperature the primitive variable vector." alt="" coords="369,1457,527,1498"/>
+<area shape="rect" id="node31" href="$classCNEMOEulerVariable.html#a7738e64c7df199868382c1af97ed9c89" title="Retrieves the value of the vibe&#45;elec temperature in the primitive variable vector." alt="" coords="369,1522,527,1563"/>
+<area shape="rect" id="node32" href="$classCNEMOEulerVariable.html#a448a2fc8bfc5479e51267c59acb1acf4" title="Retrieves the value of the velocity in the primitive variable vector." alt="" coords="369,1587,527,1629"/>
+<area shape="rect" id="node33" href="$classCNEMOEulerVariable.html#a0b25332658d2c3fa6725ca46041d55c9" title="Get the velocity of the flow." alt="" coords="369,1653,527,1694"/>
+<area shape="rect" id="node34" href="$group__GeometryToolbox.html#gad8b24e50333c9a8378f7abf18222f36a" title=" " alt="" coords="357,224,539,251"/>
+<area shape="rect" id="node36" href="$classCVariable.html#a605163537b4fa563a7ce95054a8a332d" title="Set the truncation error to zero." alt="" coords="349,1770,547,1811"/>
+<area shape="rect" id="node37" href="$classCNEMOEulerVariable.html#a514bf0108b74ecc5c4cc5d768363d597" title="Set the velocity vector from the old solution." alt="" coords="369,1835,527,1877"/>
+<area shape="rect" id="node38" href="$classCSysVector.html#a71ea6ec1ebdb77535b976bb40e7659a6" title="Subtract &quot;block&quot; from the vector, see AddBlock." alt="" coords="351,1952,545,1979"/>
+<area shape="rect" id="node40" href="$group__GeometryToolbox.html#ga82220c2cda9dc90a9cc22e77001550ee" title="Tangent projection" alt="" coords="653,275,849,317"/>
+<area shape="rect" id="node6" href="$group__GeometryToolbox.html#ga3db86410486389a5cda59b3d0ab17f66" title=" " alt="" coords="651,107,850,149"/>
+<area shape="rect" id="node7" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="970,115,1079,141"/>
+<area shape="rect" id="node10" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="658,1719,843,1745"/>
+<area shape="rect" id="node35" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="633,224,868,251"/>
+<area shape="rect" id="node39" href="$classCSysVector.html#aa463275cba394503a9778529fdaa4494" title="Add &quot;block&quot; to the vector, see SetBlock." alt="" coords="669,1952,833,1979"/>
+</map>

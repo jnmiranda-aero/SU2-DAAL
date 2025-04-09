@@ -1,0 +1,6 @@
+<map id="CConfig::GetHeatProblem" name="CConfig::GetHeatProblem">
+<area shape="rect" id="node1" title="Return true if a heat solver is in use." alt="" coords="423,42,611,69"/>
+<area shape="rect" id="node2" href="$classCConjugateHeatInterface.html#a11264c7dda7df147258e1ee89b315ea8" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="185,5,371,47"/>
+<area shape="rect" id="node3" href="$classCDriver.html#a65c1e626dd5f40013544034bb1629f1a" title="Definition and allocation of all interface classes." alt="" coords="181,71,375,98"/>
+<area shape="rect" id="node4" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="5,71,133,98"/>
+</map>

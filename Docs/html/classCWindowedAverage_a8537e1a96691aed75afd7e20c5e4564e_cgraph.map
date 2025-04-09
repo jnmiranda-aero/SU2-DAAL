@@ -1,0 +1,7 @@
+<map id="CWindowedAverage::AddValue" name="CWindowedAverage::AddValue">
+<area shape="rect" id="node1" title="Adds the instantaneous output of the current iteration to the values&#45;vector, if the current iteration..." alt="" coords="5,64,227,91"/>
+<area shape="rect" id="node2" href="$classCWindowingTools.html#a9129498e6544bd3ebe300d5e10bf0bad" title="Returns the value of a windowing function given by windowId at time&#45;step curTimeIter with given time&#45;..." alt="" coords="275,64,516,91"/>
+<area shape="rect" id="node3" href="$classCWindowingTools.html#a5149e1e6902b4fcb556a25321e527c0e" title="Returns the value of the Bump&#45;window function at time&#45;step i with given end&#45;time endTimeIter." alt="" coords="564,5,799,32"/>
+<area shape="rect" id="node4" href="$classCWindowingTools.html#aca36cc5f9c9a06e49dd524af2a38f4cc" title="Returns the value of the Hann&#45;Square&#45;window function at time&#45;step i with given end&#45;time endTimeIter." alt="" coords="566,57,797,98"/>
+<area shape="rect" id="node5" href="$classCWindowingTools.html#ae7749f0a71361b2e32b43a2a10a84037" title="Returns the value of the Hann&#45;window function at time&#45;step curTimeIter with given end&#45;time endTimeIte..." alt="" coords="566,123,797,149"/>
+</map>

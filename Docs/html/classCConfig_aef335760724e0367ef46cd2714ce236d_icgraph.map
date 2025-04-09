@@ -1,0 +1,8 @@
+<map id="CConfig::GetKind_Centered_AdjFlow" name="CConfig::GetKind_Centered_AdjFlow">
+<area shape="rect" id="node1" title="Get the kind of center convective numerical scheme for the adjoint flow equations." alt="" coords="455,89,653,131"/>
+<area shape="rect" id="node2" href="$classCAdjEulerSolver.html#a30bdc57d4bd18b22b3f07772f5ea8a99" title="Compute the spatial integration using a centered scheme for the adjoint equations." alt="" coords="197,5,391,47"/>
+<area shape="rect" id="node3" href="$classCDriver.html#a5294ec170c889821b57d4ec7b8dc2c3c" title="Definition and allocation of all solver classes." alt="" coords="195,71,393,98"/>
+<area shape="rect" id="node5" href="$classCAdjEulerSolver.html#a64baf8c7af6006bdc4ad0919f7c2507a" title="Initialize the residual vectors." alt="" coords="181,122,407,149"/>
+<area shape="rect" id="node6" href="$classCAdjNSSolver.html#a0669f6fb8ef7cd7800d151d4aff7d3f6" title="Restart residual and compute gradients." alt="" coords="189,173,399,199"/>
+<area shape="rect" id="node4" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="5,71,133,98"/>
+</map>

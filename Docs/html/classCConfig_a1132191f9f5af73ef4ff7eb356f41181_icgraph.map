@@ -1,0 +1,14 @@
+<map id="CConfig::GetSolution_AdjFileName" name="CConfig::GetSolution_AdjFileName">
+<area shape="rect" id="node1" title="Get the name of the file with the solution of the adjoint flow problem with drag objective function." alt="" coords="543,261,699,303"/>
+<area shape="rect" id="node2" href="$classCAdjEulerSolver.html#a0a739888df9436d4707665d152a7af1a" title=" " alt="" coords="276,5,473,47"/>
+<area shape="rect" id="node3" href="$classCAdjNSSolver.html#a323f1dc7c0b9fe00d1911eeeea365d46" title=" " alt="" coords="271,71,479,98"/>
+<area shape="rect" id="node4" href="$classCAdjTurbSolver.html#a621bdae0b081f25a67425cc037cd90a2" title=" " alt="" coords="282,123,467,164"/>
+<area shape="rect" id="node5" href="$classCAdjEulerSolver.html#a4bc9fada01b433e9194d4c0d67adbbbd" title="Load a solution from a restart file." alt="" coords="269,189,481,215"/>
+<area shape="rect" id="node6" href="$classCBaselineSolver.html#aa5fad3af8c5b48950679d5c5a3a91ec4" title="Load a solution from a restart file." alt="" coords="267,239,482,266"/>
+<area shape="rect" id="node7" href="$classCDiscAdjFEASolver.html#a30cbfd6dac6c80898c5624a96ab55b8c" title="Load a solution from a restart file." alt="" coords="297,291,452,332"/>
+<area shape="rect" id="node8" href="$classCDiscAdjSolver.html#adc04ad9d81d8669d0accabe899bdb39d" title="Load a solution from a restart file." alt="" coords="271,357,478,383"/>
+<area shape="rect" id="node9" href="$classCBaselineSolver.html#ad3404f10c41c7bffbd682cb650476689" title="Load a FSI solution from a restart file." alt="" coords="255,407,495,434"/>
+<area shape="rect" id="node10" href="$classCBaselineSolver.html#ab8e4b1b71d637dd0adee324d4a7a6315" title="Set the number of variables and string names from the restart file." alt="" coords="274,459,475,500"/>
+<area shape="rect" id="node12" href="$classCPhysicalGeometry.html#ae7f5d10bba7177600265f0d6bae116f3" title="Read the sensitivity from adjoint solution file and store it." alt="" coords="296,524,453,565"/>
+<area shape="rect" id="node11" href="$classCBaselineSolver.html#a996d9c6ee613b5b45a25a765f3c5e2cd" title=" " alt="" coords="5,459,207,500"/>
+</map>

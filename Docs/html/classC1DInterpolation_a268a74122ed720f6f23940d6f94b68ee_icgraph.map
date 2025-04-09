@@ -1,0 +1,8 @@
+<map id="C1DInterpolation::SetSpline" name="C1DInterpolation::SetSpline">
+<area shape="rect" id="node1" title="Virtual method for setting the coefficients of the respective spline." alt="" coords="477,78,679,105"/>
+<area shape="rect" id="node2" href="$classCLinearInterpolation.html#a9e192d9a8b0849106698acb6d75f4ced" title="Constructor of the CLinearInterpolation class." alt="" coords="260,5,423,47"/>
+<area shape="rect" id="node3" href="$classCAkimaInterpolation.html#afe4f9df5711058c4f12e7d1b6bcf2646" title="Build the spline." alt="" coords="263,71,419,112"/>
+<area shape="rect" id="node5" href="$classCCubicSpline.html#adebd09a8541c796bef56126c6dac8217" title="Build the spline." alt="" coords="253,137,429,163"/>
+<area shape="rect" id="node4" href="$classCAkimaInterpolation.html#a41f0cf7fa94a484a8fd0162b1f6c3df9" title="Constructor of the CAkimaInterpolation class." alt="" coords="23,71,187,112"/>
+<area shape="rect" id="node6" href="$classCCubicSpline.html#a54563f11c26c56e03c2eb1a792fce067" title="Constructor of the CCubicSpline class (defaults to natural spline)." alt="" coords="5,137,205,163"/>
+</map>

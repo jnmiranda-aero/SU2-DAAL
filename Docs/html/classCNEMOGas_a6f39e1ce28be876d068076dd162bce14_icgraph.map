@@ -1,0 +1,14 @@
+<map id="CNEMOGas::ComputeSpeciesCvVibEle" name="CNEMOGas::ComputeSpeciesCvVibEle">
+<area shape="rect" id="node1" title="Compute species V&#45;E specific heats at constant volume." alt="" coords="1595,45,1808,87"/>
+<area shape="rect" id="node2" href="$classCNEMOGas.html#af0c73197b27c05f2f516a77c2476d9d9" title="Compute rhoCvve." alt="" coords="1329,27,1547,54"/>
+<area shape="rect" id="node4" href="$classCNEMOEulerVariable.html#ad95dbeb3e9b5634fab7c6a768442c7b9" title="Set all the primitive and secondary variables from the conserved vector." alt="" coords="1117,71,1275,112"/>
+<area shape="rect" id="node3" href="$classCNEMOEulerSolver.html#ad9c735fad084c25c2b24b9ccd3503fa8" title="Impose the outlet boundary condition." alt="" coords="1111,5,1281,47"/>
+<area shape="rect" id="node5" href="$classCNEMONSVariable.html#aaf19bc249dae14fccd4a739901a83efd" title="Set all the primitive variables for compressible flows." alt="" coords="840,49,1063,75"/>
+<area shape="rect" id="node6" href="$classCNEMOEulerVariable.html#aaf86b1f3586f5b0b8015ddf1311d7ce4" title="Set all the primitive variables for compressible flows." alt="" coords="873,100,1030,141"/>
+<area shape="rect" id="node7" href="$classCNEMOEulerSolver.html#a1448f7a4a713ada22016532249a56a95" title="Impose a supersonic inlet boundary condition." alt="" coords="589,35,760,76"/>
+<area shape="rect" id="node8" href="$classCNEMOEulerSolver.html#a192d56e184ee19ad0b0dd3282b74f1e6" title="Contructor of the class." alt="" coords="557,100,792,141"/>
+<area shape="rect" id="node9" href="$classCNEMOEulerSolver.html#aa3498ebe1779c01daf8380d6a7d0aa7d" title="Computes primitive variables." alt="" coords="558,165,791,207"/>
+<area shape="rect" id="node10" href="$classCNEMOEulerSolver.html#a27f21d6dbfb7f6c600f759caf7625087" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="297,165,509,207"/>
+<area shape="rect" id="node11" href="$classCNEMOEulerSolver.html#a3c5a59b5c1c9195757626bff151dbaa9" title="Compute the velocity^2, SoundSpeed, Pressure, Enthalpy, Viscosity." alt="" coords="5,147,249,174"/>
+<area shape="rect" id="node12" href="$classCNEMONSSolver.html#aef1c13c42cd8103377619f7d94660d6a" title="Restart residual and compute gradients." alt="" coords="13,198,242,225"/>
+</map>

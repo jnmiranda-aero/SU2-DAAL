@@ -1,0 +1,5 @@
+<map id="CNEMONumerics::GetInviscidProjFlux" name="CNEMONumerics::GetInviscidProjFlux">
+<area shape="rect" id="node1" title="Compute the projected inviscid flux vector." alt="" coords="308,23,523,65"/>
+<area shape="rect" id="node2" href="$classCCentLax__NEMO.html#ab22a74c03b6c2cc3adeb4d172c93f8d1" title="Compute the flow residual using a Lax method." alt="" coords="5,5,260,32"/>
+<area shape="rect" id="node3" href="$classCUpwRoe__NEMO.html#a4f71a3690ffedda364bd36453c08fed0" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="5,56,260,83"/>
+</map>

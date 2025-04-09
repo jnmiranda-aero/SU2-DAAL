@@ -15,7 +15,7 @@ var namespaces_dup =
       [ "GetDerivative", "namespaceAD.html#a305f38ce692ce2f4269c05a022fe2ff5", null ],
       [ "Initialize", "namespaceAD.html#a5b11aa60f508a25dd27f629b3d5f7281", null ],
       [ "PausePreaccumulation", "namespaceAD.html#ad52c77e1fb6275bbff2bfab6aa498280", null ],
-      [ "PrintStatistics", "namespaceAD.html#a550da7d52493ef5d414a563f9ac2f737", null ],
+      [ "PrintStatistics", "namespaceAD.html#a3e4a9b347cb89d63a5c0ef72ec73fb9f", null ],
       [ "Push_TapePosition", "namespaceAD.html#a6346fb2cf00bd2a4b1566eb49e878b6e", null ],
       [ "RegisterInput", "namespaceAD.html#a142308d54379f7aaa1c72195fb5fe992", null ],
       [ "RegisterOutput", "namespaceAD.html#ae381e45797545e980376c4aeb3f5afdc", null ],
@@ -51,8 +51,8 @@ var namespaces_dup =
       [ "CreateInterpolator", "group__Interfaces.html#ga844fa74779f466148d9b5878f09e2f34", null ]
     ] ],
     [ "CommHelpers", "namespaceCommHelpers.html", [
-      [ "selectGradient", "namespaceCommHelpers.html#a691c54929c54c5e0b153a99f22217c8b", null ],
-      [ "selectLimiter", "namespaceCommHelpers.html#a88e9c22d59034b9b975cd978e1d99db1", null ]
+      [ "selectGradient", "namespaceCommHelpers.html#afe0e4edeb87c652ab9830b5139241561", null ],
+      [ "selectLimiter", "namespaceCommHelpers.html#a3015cef1e9d85b6bc92038246bac555a", null ]
     ] ],
     [ "container_details", "namespacecontainer__details.html", "namespacecontainer__details" ],
     [ "detail", "namespacedetail.html", "namespacedetail" ],
@@ -79,16 +79,16 @@ var namespaces_dup =
     [ "helpers", "namespacehelpers.html", "namespacehelpers" ],
     [ "mel", "namespacemel.html", "namespacemel" ],
     [ "MemoryAllocation", "namespaceMemoryAllocation.html", [
-      [ "aligned_alloc", "namespaceMemoryAllocation.html#ad8cfa2ce9bd9f5846eef3c9f6a9f7eeb", null ],
+      [ "aligned_alloc", "namespaceMemoryAllocation.html#ac5daad8b550520df8a10c6a51f64dbbf", null ],
       [ "aligned_free", "namespaceMemoryAllocation.html#a2f1102417dd438fa5d6614c40ddd3300", null ],
       [ "is_power_of_two", "namespaceMemoryAllocation.html#a37736b5f50544ea5ef7b9ac0de86c9a9", null ],
       [ "round_up", "namespaceMemoryAllocation.html#a4f4f11a3b87bdc406f349a6a44a578b7", null ]
     ] ],
     [ "PaStiX", "namespacePaStiX.html", null ],
     [ "PeriodicCommHelpers", "namespacePeriodicCommHelpers.html", [
-      [ "selectField", "namespacePeriodicCommHelpers.html#a759e604990e9151e0aec45361a76ede5", null ],
-      [ "selectGradient", "namespacePeriodicCommHelpers.html#a1fc07b93c26d00ddae225fd80c28c1fc", null ],
-      [ "selectLimiter", "namespacePeriodicCommHelpers.html#a2f2bc43a91b0f94b664e28069ee7abd4", null ]
+      [ "selectField", "namespacePeriodicCommHelpers.html#a8b5aafb75dc77a95920740f4527e49d5", null ],
+      [ "selectGradient", "namespacePeriodicCommHelpers.html#ad278a2337065d80d53bcf78dfe73eaf7", null ],
+      [ "selectLimiter", "namespacePeriodicCommHelpers.html#a04bf09361d0170e48b14dc8d742da6b0", null ]
     ] ],
     [ "PrintingToolbox", "namespacePrintingToolbox.html", "namespacePrintingToolbox" ],
     [ "simd", "namespacesimd.html", "namespacesimd" ],

@@ -1,0 +1,4 @@
+<map id="CNumerics::GetRoe_Dissipation" name="CNumerics::GetRoe_Dissipation">
+<area shape="rect" id="node1" title="Calculate the central/upwind blending function for a face" alt="" coords="287,13,516,39"/>
+<area shape="rect" id="node2" href="$classCUpwSLAU__Flow.html#a500bb5fa6875d48bdde481affbee50bf" title="Mass flux and pressure for the SLAU and SLAU2 schemes." alt="" coords="5,5,239,47"/>
+</map>

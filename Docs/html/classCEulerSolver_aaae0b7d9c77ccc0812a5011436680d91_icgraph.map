@@ -1,0 +1,5 @@
+<map id="CEulerSolver::BC_ActDisk_VariableLoad" name="CEulerSolver::BC_ActDisk_VariableLoad">
+<area shape="rect" id="node1" title="Impose an actuator disk with variable load boundary condition." alt="" coords="241,39,429,80"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a90fc349055f88a9e46f09d2f36b6bd7f" title="Impose the engine inflow boundary condition." alt="" coords="5,5,193,47"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a31a66b0142e407b05c68e70f7ebafff5" title="Impose the engine exhaust boundary condition." alt="" coords="5,71,193,112"/>
+</map>

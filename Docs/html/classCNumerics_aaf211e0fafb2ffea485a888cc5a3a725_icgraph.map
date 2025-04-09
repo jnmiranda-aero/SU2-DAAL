@@ -1,0 +1,8 @@
+<map id="CNumerics::SetTurbAdjointVar" name="CNumerics::SetTurbAdjointVar">
+<area shape="rect" id="node1" title="Set the value of the adjoint turbulent variable." alt="" coords="232,143,448,170"/>
+<area shape="rect" id="node2" href="$classCAdjTurbSolver.html#ac49718a86c11d69f14e2e160d1929415" title="Impose the boundary condition to the far field using characteristics." alt="" coords="21,5,168,47"/>
+<area shape="rect" id="node3" href="$classCAdjNSSolver.html#a3f7289e94076471c23e53da293b69645" title="Source term computation." alt="" coords="13,71,176,112"/>
+<area shape="rect" id="node4" href="$classCAdjTurbSolver.html#a5f05f842f8d9a3de8a5f438a663dd413" title="Source term computation." alt="" coords="9,136,181,177"/>
+<area shape="rect" id="node5" href="$classCAdjTurbSolver.html#a35c455d0c7d407c79fc7e789812bd020" title="Compute the spatial integration using a upwind scheme." alt="" coords="6,201,183,243"/>
+<area shape="rect" id="node6" href="$classCAdjTurbSolver.html#a7a5247a1cc0a32dd690fc4881fadd999" title="Compute the viscous residuals for the turbulent adjoint equation." alt="" coords="5,267,184,308"/>
+</map>

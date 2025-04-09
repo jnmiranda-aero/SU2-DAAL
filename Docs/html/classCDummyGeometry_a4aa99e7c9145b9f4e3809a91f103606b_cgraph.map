@@ -1,0 +1,11 @@
+<map id="CDummyGeometry::CDummyGeometry" name="CDummyGeometry::CDummyGeometry">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,132,287,159"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a8e3cd051652fcd2a642ec3591b34ec53" title="Get the format of the input/output grid." alt="" coords="341,5,556,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#adaa7bfcd974eb962594dff876d795f1a" title="Get name of the input grid." alt="" coords="345,56,552,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#ad534643104581040e9aea7a06c31dbd2" title="Gets the number of dimensions in the mesh file." alt="" coords="379,107,518,133"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="359,157,539,184"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a39ff50a0f3deda9134f1c44b4d5053b7" title="Gets the number of zones in the mesh file." alt="" coords="377,208,521,235"/>
+<area shape="rect" id="node9" href="$classCConfig.html#ab5e52685061a782a735e43cf371d9473" title="set number span&#45;wise sections to compute 3D BC and performance for turbomachinery." alt="" coords="335,259,563,285"/>
+<area shape="rect" id="node5" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="611,157,792,184"/>
+<area shape="rect" id="node6" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="840,157,1025,184"/>
+</map>

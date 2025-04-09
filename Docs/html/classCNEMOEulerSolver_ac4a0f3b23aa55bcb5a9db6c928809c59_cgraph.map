@@ -1,0 +1,7 @@
+<map id="CNEMOEulerSolver::ComputeConsistentExtrapolation" name="CNEMOEulerSolver::ComputeConsistentExtrapolation">
+<area shape="rect" id="node1" title="Recompute the extrapolated quantities, after MUSCL reconstruction, in a more thermodynamically consis..." alt="" coords="5,49,217,90"/>
+<area shape="rect" id="node2" href="$classCNEMOGas.html#a5f31f0eebb925a0a8a51198ca58fbd51" title="Compute ratio of specific heats (Gamma)." alt="" coords="277,5,491,32"/>
+<area shape="rect" id="node4" href="$classCNEMOGas.html#aa1fcdfc3922e1e1779ba689736ab7db6" title="Compute vector of species V&#45;E energy." alt="" coords="265,56,503,83"/>
+<area shape="rect" id="node5" href="$classCNEMOGas.html#a1504562f343368d93897601cb43aea70" title="Set mixture thermodynamic state." alt="" coords="267,107,501,133"/>
+<area shape="rect" id="node3" href="$classCNEMOGas.html#a9c700828e55a8ecd33acf4ac5c0bd58b" title="Compute rhoCvtr." alt="" coords="551,5,761,32"/>
+</map>

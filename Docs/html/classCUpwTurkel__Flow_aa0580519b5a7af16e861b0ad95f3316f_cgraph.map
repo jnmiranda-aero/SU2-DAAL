@@ -1,0 +1,8 @@
+<map id="CUpwTurkel_Flow::CUpwTurkel_Flow" name="CUpwTurkel_Flow::CUpwTurkel_Flow">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,115,263,141"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a6352cd90308195b5fc1ba7eab02d46c1" title="Get information about dynamic grids." alt="" coords="313,5,508,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a0b5df9254891b32a88e83880778f9261" title="Get the value of the Gamma of fluid (ratio of specific heats)." alt="" coords="333,56,488,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a568405f750ddcd4f702197e66b477ff9" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="316,107,505,149"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a2d62639d0692bae39a8955aafab3db9f" title="Get the minimum value of Beta for Roe&#45;Turkel preconditioner." alt="" coords="311,173,511,200"/>
+<area shape="rect" id="node6" href="$classCConfig.html#af7578a9526a73e0f7f5d5dd9676bff02" title="Get the minimum value of Beta for Roe&#45;Turkel preconditioner." alt="" coords="313,224,509,251"/>
+</map>

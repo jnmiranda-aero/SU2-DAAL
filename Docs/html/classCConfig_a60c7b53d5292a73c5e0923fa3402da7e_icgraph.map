@@ -1,0 +1,12 @@
+<map id="CConfig::GetAoS_Offset" name="CConfig::GetAoS_Offset">
+<area shape="rect" id="node1" title="Get the off set sideslip angle of the body. The solution and the geometry file are able to modifity t..." alt="" coords="845,163,1020,189"/>
+<area shape="rect" id="node2" href="$classCSolver.html#a154aed3dea449c2277488620cccd5e79" title="Read the metadata from a native SU2 restart file (ASCII or binary)." alt="" coords="591,90,791,131"/>
+<area shape="rect" id="node6" href="$classCFlowOutput.html#a24f4c787a51ac3ed909d70bb9a782ba1" title="Write information to meta data file." alt="" coords="584,195,797,221"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460" title="Main constructor of this class." alt="" coords="321,5,517,32"/>
+<area shape="rect" id="node4" href="$classCIncEulerSolver.html#a2a0c72c1d1d79e45c69da03e01f6281a" title="Constructor of the class." alt="" coords="322,57,515,98"/>
+<area shape="rect" id="node5" href="$classCNEMOEulerSolver.html#a192d56e184ee19ad0b0dd3282b74f1e6" title="Contructor of the class." alt="" coords="301,122,536,163"/>
+<area shape="rect" id="node7" href="$classCFlowOutput.html#a6202e5ad2932ba40ff66d2b51e669e49" title="Write additional output for fixed CL mode." alt="" coords="304,187,533,229"/>
+<area shape="rect" id="node10" href="$classCFlowOutput.html#aaac3fb7b2575967b157c306065ab1ea8" title="Write any additional files defined for the current solver." alt="" coords="311,253,526,294"/>
+<area shape="rect" id="node8" href="$classCFlowCompOutput.html#ae4e6bec297f0eea058ffcd089bed713c" title="Write any additional output defined for the current solver." alt="" coords="10,154,249,195"/>
+<area shape="rect" id="node9" href="$classCNEMOCompOutput.html#aea0e7a8444fa082f20ab61d3ed418972" title="Write any additional output defined for the current solver." alt="" coords="5,219,253,261"/>
+</map>

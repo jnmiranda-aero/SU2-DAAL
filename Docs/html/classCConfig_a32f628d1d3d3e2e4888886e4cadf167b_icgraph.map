@@ -1,0 +1,13 @@
+<map id="CConfig::SetAoA" name="CConfig::SetAoA">
+<area shape="rect" id="node1" title="Set the angle of attack." alt="" coords="831,127,957,153"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#ae42ef80597bae24c0e63411b6b2b8c2b" title="Check for convergence of the Fixed CL mode to the target CL." alt="" coords="594,25,757,66"/>
+<area shape="rect" id="node3" href="$classCSolver.html#a154aed3dea449c2277488620cccd5e79" title="Read the metadata from a native SU2 restart file (ASCII or binary)." alt="" coords="575,90,775,131"/>
+<area shape="rect" id="node7" href="$classCEulerSolver.html#ae9346f0feebb8b28613bfc7838d3d121" title="Update the AoA and freestream velocity at the farfield." alt="" coords="568,156,783,183"/>
+<area shape="rect" id="node11" href="$group__PySU2.html#ga0955902c346eed83364b3197a71b80b7" title="Set the angle of attack of the farfield." alt="" coords="587,207,763,233"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460" title="Main constructor of this class." alt="" coords="291,5,487,32"/>
+<area shape="rect" id="node5" href="$classCIncEulerSolver.html#a2a0c72c1d1d79e45c69da03e01f6281a" title="Constructor of the class." alt="" coords="292,57,485,98"/>
+<area shape="rect" id="node6" href="$classCNEMOEulerSolver.html#a192d56e184ee19ad0b0dd3282b74f1e6" title="Contructor of the class." alt="" coords="271,122,506,163"/>
+<area shape="rect" id="node8" href="$classCEulerSolver.html#a0d6f93feba8d6aad18edf3594213042b" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="257,188,520,215"/>
+<area shape="rect" id="node9" href="$classCEulerSolver.html#ab08b6aa95648e7ab973f9f247fe54b31" title="Compute primitive variables and their gradients." alt="" coords="5,163,209,189"/>
+<area shape="rect" id="node10" href="$classCNSSolver.html#af83e7cb773797239cdc98fc4d202d32f" title="Restart residual and compute gradients." alt="" coords="13,213,202,240"/>
+</map>

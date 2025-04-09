@@ -1,0 +1,34 @@
+<map id="CDiscAdjSolver::ExtractAdjoint_Solution" name="CDiscAdjSolver::ExtractAdjoint_Solution">
+<area shape="rect" id="node1" title="Sets the adjoint values of the input variables of the flow (+turb.) iteration after tape has been eva..." alt="" coords="5,626,227,667"/>
+<area shape="rect" id="node2" href="$classCVariable.html#acb44f7d71d6e55b18bd008b704327f4a" title="Add a value to the solution." alt="" coords="297,5,467,32"/>
+<area shape="rect" id="node3" href="$namespaceAD.html#af45472c273e9a0add1693e387797b3f9" title="Declare that the adjoints are being used, to protect against resizing." alt="" coords="300,56,464,83"/>
+<area shape="rect" id="node4" href="$namespaceAD.html#af35e8bf86eca658fdb8e49807755f6e3" title="Declare that the adjoints are no longer being used." alt="" coords="307,107,457,133"/>
+<area shape="rect" id="node5" href="$classCSolver.html#a2d96cb5b8acf4402e0ff9810e9e7c185" title="Extract the adjoint of the extra solution at the input." alt="" coords="296,158,468,199"/>
+<area shape="rect" id="node6" href="$classCVariable.html#afe58b1f46354f33341460a0e9536b5e3" title="Get the adjoint values of the solution." alt="" coords="275,224,489,251"/>
+<area shape="rect" id="node8" href="$classCVariable.html#a8888a5b67d3f1d4320ec5d90c1a7b9db" title=" " alt="" coords="275,341,489,382"/>
+<area shape="rect" id="node11" href="$classCVariable.html#a877dd26d6022099f794dd2db1bd8eb7c" title=" " alt="" coords="275,275,489,317"/>
+<area shape="rect" id="node12" href="$classCConfig.html#a079a90396222697f01e0c365285c915d" title="Get the current FSI iteration number." alt="" coords="303,407,461,433"/>
+<area shape="rect" id="node13" href="$classCSysSolve.html#afe58f8bce5ef95248c89afebd256052a" title="Get the number of iterations." alt="" coords="291,457,473,484"/>
+<area shape="rect" id="node14" href="$classCConfig.html#abafdda03255a7f71a9701ded02f6d231" title="Get whether the simulation we are running is a multizone simulation." alt="" coords="299,509,465,550"/>
+<area shape="rect" id="node15" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="310,575,454,601"/>
+<area shape="rect" id="node16" href="$classCConfig.html#abd3ec0e1993eb0012d299a82937b90db" title="Get the relaxation factor for solution updates of adjoint solvers." alt="" coords="295,626,469,667"/>
+<area shape="rect" id="node17" href="$classCSysSolve.html#a8309f4c3819dc3462a1ec6fc7a94bccc" title="Get the final residual." alt="" coords="293,692,471,719"/>
+<area shape="rect" id="node18" href="$classCVariable.html#a70a9df6b6cc631f9c3b9a3ef7b3ecfe4" title="Get the old solution of the problem (Runge&#45;Kutta method)" alt="" coords="283,743,481,769"/>
+<area shape="rect" id="node19" href="$classCVariable.html#a712b26d3d635391d70f6dd6900f21f89" title="Return the extra adjoint solution." alt="" coords="281,793,483,820"/>
+<area shape="rect" id="node20" href="$classCConfig.html#ac47e04d76ce865893a94dcedd3c9b6a5" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="281,844,483,871"/>
+<area shape="rect" id="node21" href="$classCSolver.html#ae1d1eb1766c3d598bea4514d5232bafe" title="&quot;Add&quot; local residual variables of all threads to compute global residual variables." alt="" coords="278,895,486,937"/>
+<area shape="rect" id="node24" href="$classCSolver.html#a4ae55e731801358be7c8d7685ae87fed" title="&quot;Add&quot; residual at (iPoint,iVar) to residual variables local to the thread." alt="" coords="278,961,486,1002"/>
+<area shape="rect" id="node25" href="$classCVariable.html#af7ab5687fab17a8840ebcbf1f1927634" title="Set old variables to the value of the current variables." alt="" coords="285,1027,479,1053"/>
+<area shape="rect" id="node29" href="$classCVariable.html#abf55f051089ec13d9c0422ed3389a9dc" title="Set the variable solution at time n." alt="" coords="295,1078,469,1119"/>
+<area shape="rect" id="node30" href="$classCVariable.html#a527a337871bb37c3bb2df40c2b946884" title="Set the variable solution at time n&#45;1." alt="" coords="295,1143,469,1185"/>
+<area shape="rect" id="node31" href="$classCSolver.html#a4f948638416cf63651bfa204f286e00c" title="Set number of linear solver iterations." alt="" coords="291,1209,473,1236"/>
+<area shape="rect" id="node32" href="$classCSolver.html#a57f38545147844c9c53bd419a9487904" title="Set the final linear solver residual." alt="" coords="289,1260,475,1287"/>
+<area shape="rect" id="node7" href="$namespaceAD.html#a305f38ce692ce2f4269c05a022fe2ff5" title="Extracts the adjoint value at index." alt="" coords="554,247,694,273"/>
+<area shape="rect" id="node9" href="$classC2DContainer.html#ab6d9161cd08887f034322ebcbc3deb12" title=" " alt="" coords="551,297,697,324"/>
+<area shape="rect" id="node10" href="$namespaceAD.html#a93909396dd20444ea1ad3100003ff08c" title="Evaluates and saves gradient data from a variable." alt="" coords="571,348,677,375"/>
+<area shape="rect" id="node22" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="557,877,691,904"/>
+<area shape="rect" id="node23" href="$classCPoint.html#a8a53865a92d645b1b74c4d817b4aae10" title="Get the global index in a parallel computation." alt="" coords="537,928,711,955"/>
+<area shape="rect" id="node26" href="$classcontainer__details_1_1AccessorImpl.html#a5b5318f7212e57c13e464c398f74b3d5" title=" " alt="" coords="551,1019,697,1061"/>
+<area shape="rect" id="node27" href="$omp__structure_8hpp.html#a3af8b37ed645164f4c3441fa75e5fa76" title="Copy data from one array&#45;like object to another in parallel." alt="" coords="572,1085,676,1112"/>
+<area shape="rect" id="node28" href="$classC2DContainer.html#a8278113dbcf54123f9852e7e44583759" title=" " alt="" coords="551,1136,697,1163"/>
+</map>

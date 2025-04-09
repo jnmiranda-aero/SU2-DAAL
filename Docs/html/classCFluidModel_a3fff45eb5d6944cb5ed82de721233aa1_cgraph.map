@@ -1,0 +1,13 @@
+<map id="CFluidModel::SetLaminarViscosityModel" name="CFluidModel::SetLaminarViscosityModel">
+<area shape="rect" id="node1" title="Set viscosity model." alt="" coords="5,191,249,233"/>
+<area shape="rect" id="node2" href="$classCFluidModel.html#a9355dadcf856cc47846bb392c4e463b5" title="Instantiate the right type of viscosity model based on config." alt="" coords="297,191,496,233"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="559,5,741,32"/>
+<area shape="rect" id="node5" href="$classCConfig.html#abcea1b740b0b907b5db34c01de6e74d6" title="Returns the name of the fluid we are using in CoolProp." alt="" coords="559,56,741,83"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a43b34c838ba25ed2030ee823025f8693" title="Get the value of the viscosity model." alt="" coords="551,107,749,149"/>
+<area shape="rect" id="node7" href="$classCConfig.html#afd7ee77c964a1f8788f381fa058abebb" title="Get the value of the non&#45;dimensional constant viscosity." alt="" coords="546,173,754,200"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a9a44fef98ee07b7f0db7d272cfdf1647" title="Get the temperature polynomial coefficient for viscosity." alt="" coords="544,224,756,251"/>
+<area shape="rect" id="node9" href="$classCConfig.html#ad39a443e4e279629992ee5b0a28369d4" title="Get the value of the non&#45;dimensional reference viscosity for Sutherland model." alt="" coords="564,275,736,301"/>
+<area shape="rect" id="node10" href="$classCConfig.html#a749fbc1203269c6d558df3a15420e4d6" title="Get the value of the non&#45;dimensional reference S for Sutherland model." alt="" coords="571,325,729,352"/>
+<area shape="rect" id="node11" href="$classCConfig.html#a7f4cbbdfb39947eb017ecf426312c058" title="Get the value of the non&#45;dimensional reference temperature for Sutherland model." alt="" coords="544,377,756,418"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="804,5,989,32"/>
+</map>

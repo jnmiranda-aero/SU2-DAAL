@@ -1,0 +1,5 @@
+<map id="CConfig::GetTimeIntegrationADER_DG" name="CConfig::GetTimeIntegrationADER_DG">
+<area shape="rect" id="node1" title="Get the location of the time integration points for ADER&#45;DG on the interval [&#45;1..1]." alt="" coords="549,5,756,47"/>
+<area shape="rect" id="node2" href="$classCMeshFEM__DG.html#a99d173245492ca71a355d4c40b40b306" title="Function, which computes the time coefficients for the ADER&#45;DG predictor step." alt="" coords="263,5,501,47"/>
+<area shape="rect" id="node3" href="$classCMeshFEM__DG.html#a4f30fa4373463f802c8d6f685c837263" title="Function, which computes the metric terms of the volume elements." alt="" coords="5,5,215,47"/>
+</map>

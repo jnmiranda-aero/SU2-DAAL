@@ -37,8 +37,8 @@ var structCSAVariables =
     [ "k2", "structCSAVariables.html#a727e7a2fcf2b61f30c3a4a8ddc13bfcf", null ],
     [ "norm2_Grad", "structCSAVariables.html#a7a2abac7b3570cef571d4356f36944c1", null ],
     [ "Omega", "structCSAVariables.html#a399a8cab9bcbd795f0bc58f9dcfee302", null ],
+    [ "Prod", "structCSAVariables.html#a51844068ec712e2b0aa7051d883f3aff", null ],
     [ "r", "structCSAVariables.html#abf0f729c923e1ce25ec60651a9afe86d", null ],
-    [ "S", "structCSAVariables.html#ad653c3c40866fa60feb73308493c22d2", null ],
     [ "Shat", "structCSAVariables.html#a8e2372d58283a72152fedf1792bca069", null ],
     [ "sigma", "structCSAVariables.html#a1e15e5a573437f23529944ba3e69c7d5", null ]
 ];

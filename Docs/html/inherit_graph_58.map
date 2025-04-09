@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCInterpolator.html" title="Main class for defining the interpolator, it requires a child class for each particular interpolation..." alt="" coords="5,107,112,133"/>
+<area shape="rect" id="node2" href="$classCIsoparametric.html" title="Isoparametric interpolation." alt="" coords="181,5,302,32"/>
+<area shape="rect" id="node3" href="$classCMirror.html" title="Mirror interpolation, transpose interpolation matrix of opposing mesh." alt="" coords="206,56,277,83"/>
+<area shape="rect" id="node4" href="$classCNearestNeighbor.html" title="Nearest Neighbor(s) interpolation." alt="" coords="171,107,312,133"/>
+<area shape="rect" id="node5" href="$classCRadialBasisFunction.html" title="Radial basis function interpolation." alt="" coords="160,157,323,184"/>
+<area shape="rect" id="node6" href="$classCSlidingMesh.html" title="Sliding mesh approach." alt="" coords="186,208,297,235"/>
+</map>

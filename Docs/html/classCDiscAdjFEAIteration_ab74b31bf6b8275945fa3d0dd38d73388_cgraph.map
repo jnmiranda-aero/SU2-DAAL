@@ -1,0 +1,7 @@
+<map id="CDiscAdjFEAIteration::InitializeAdjoint" name="CDiscAdjFEAIteration::InitializeAdjoint">
+<area shape="rect" id="node1" title="Initializes the adjoints of the output variables of the FEM iteration." alt="" coords="5,74,165,115"/>
+<area shape="rect" id="node2" href="$namespaceAD.html#af45472c273e9a0add1693e387797b3f9" title="Declare that the adjoints are being used, to protect against resizing." alt="" coords="213,5,377,32"/>
+<area shape="rect" id="node3" href="$namespaceAD.html#af35e8bf86eca658fdb8e49807755f6e3" title="Declare that the adjoints are no longer being used." alt="" coords="220,56,371,83"/>
+<area shape="rect" id="node4" href="$namespaceAD.html#a54790812306f45ddcc477a85abf9e78c" title="Resize the adjoint vector, for subsequent access without bounds checking." alt="" coords="223,107,368,133"/>
+<area shape="rect" id="node5" href="$classCSolver.html#a9ac047a78d8747b867f55b60be1ad348" title="A virtual member." alt="" coords="222,158,369,199"/>
+</map>

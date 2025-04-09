@@ -1,0 +1,7 @@
+<map id="CConfig::SetNonphysical_Reconstr" name="CConfig::SetNonphysical_Reconstr">
+<area shape="rect" id="node1" title="Set the current number of non&#45;physical reconstructions for 2nd&#45;order upwinding." alt="" coords="485,71,667,112"/>
+<area shape="rect" id="node2" href="$classCFVMFlowSolverBase.html#a0cac91b15aa61de657289b114bd796bc" title="Sums edge fluxes (if required) and computes the global error counter." alt="" coords="217,5,437,47"/>
+<area shape="rect" id="node4" href="$classCAdjEulerSolver.html#a27f05ad7c19b238efda73a2866c4b9b7" title="Compute the spatial integration using a upwind scheme." alt="" coords="236,71,419,112"/>
+<area shape="rect" id="node5" href="$classCNEMOEulerSolver.html#a427284b43fbe1f9c373096cc4bbe5781" title="Compute the spatial integration using a upwind scheme." alt="" coords="226,136,429,177"/>
+<area shape="rect" id="node3" href="$classCFVMFlowSolverBase.html#a8c19de20d537852775225aa6d201f00f" title="Method to compute convective and viscous residual contribution using vectorized numerics." alt="" coords="5,5,169,47"/>
+</map>

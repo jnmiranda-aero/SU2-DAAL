@@ -1,0 +1,13 @@
+<map id="CUpwAUSMPLUS_SLAU_Base_Flow::ComputeResidual" name="CUpwAUSMPLUS_SLAU_Base_Flow::ComputeResidual">
+<area shape="rect" id="node1" title="Compute the AUSM+ and SLAU family of schemes." alt="" coords="5,195,219,237"/>
+<area shape="rect" id="node2" href="$classCUpwAUSMPLUS__SLAU__Base__Flow.html#ad96f29ee3588d6311ed26f9f38769cf2" title="Compute the mass flux and pressure based on Primitives_i/j, derived classes must implement this metho..." alt="" coords="267,5,508,61"/>
+<area shape="rect" id="node3" href="$namespaceAD.html#a309d057a92faa60a3a760254678ec9ea" title="Ends a preaccumulation section and computes the local Jacobi matrix of a code section using the varia..." alt="" coords="329,85,445,112"/>
+<area shape="rect" id="node4" href="$classCConfig.html#ad16f71356f146b530fb1fbb45444525c" title="Get the kind of time integration method." alt="" coords="293,137,482,178"/>
+<area shape="rect" id="node5" href="$group__GeometryToolbox.html#gad8b24e50333c9a8378f7abf18222f36a" title=" " alt="" coords="297,203,478,229"/>
+<area shape="rect" id="node9" href="$namespaceAD.html#aa163589c94af6ddfdbcf901ecc76ac77" title="Sets the scalar inputs of a preaccumulation section." alt="" coords="325,253,450,280"/>
+<area shape="rect" id="node10" href="$namespaceAD.html#a96f26aa5f6909173e990e03b864fec33" title="Sets the scalar outputs of a preaccumulation section." alt="" coords="319,304,455,331"/>
+<area shape="rect" id="node11" href="$namespaceAD.html#a2a1e9c4b109fd751e84132c9495de3ff" title="Starts a new preaccumulation section and sets the input variables." alt="" coords="326,355,449,381"/>
+<area shape="rect" id="node6" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="650,177,697,204"/>
+<area shape="rect" id="node7" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="556,228,791,255"/>
+<area shape="rect" id="node8" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="839,228,1056,255"/>
+</map>

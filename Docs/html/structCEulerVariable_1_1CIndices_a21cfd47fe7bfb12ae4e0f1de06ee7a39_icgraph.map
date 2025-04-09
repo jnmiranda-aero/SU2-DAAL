@@ -1,0 +1,11 @@
+<map id="CEulerVariable::CIndices::LaminarViscosity" name="CEulerVariable::CIndices::LaminarViscosity">
+<area shape="rect" id="node1" title=" " alt="" coords="548,140,728,181"/>
+<area shape="rect" id="node2" href="$classCIncNSVariable.html#a4cd73e2828b82d33c23d0f8ead625470" title="Get the laminar viscosity of the flow." alt="" coords="275,5,480,47"/>
+<area shape="rect" id="node3" href="$classCNSVariable.html#a332467c6a745bb6d81fe2a43ae75ad5c" title="Get the laminar viscosity of the flow." alt="" coords="255,122,500,149"/>
+<area shape="rect" id="node4" href="$classCNSVariable.html#a71e190265f85ef8f0cb414275dba59f7" title="Set the new solution for Roe Dissipation." alt="" coords="28,73,184,115"/>
+<area shape="rect" id="node5" href="$classCNSVariable.html#ae8391103a386186f112deaa91e04cee7" title="Set the new solution for Roe Dissipation." alt="" coords="28,148,184,189"/>
+<area shape="rect" id="node6" href="$classCIncNSVariable.html#a70640d4f50753139bb8c09213491be8e" title="Set the laminar viscosity." alt="" coords="276,224,479,265"/>
+<area shape="rect" id="node8" href="$classCNSVariable.html#a2c8d7819438dc375f919ada6d2126b79" title="Set the laminar viscosity." alt="" coords="256,290,499,317"/>
+<area shape="rect" id="node7" href="$classCIncNSVariable.html#a34a2a9cfecec39f383e2e7551b4e7736" title="Set all the primitive variables for incompressible flows." alt="" coords="5,231,207,258"/>
+<area shape="rect" id="node9" href="$classCNSVariable.html#a0db8c1ede5090174259a69548d20c9fe" title="Set all the primitive variables for compressible flows." alt="" coords="15,290,197,317"/>
+</map>

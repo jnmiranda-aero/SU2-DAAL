@@ -1,0 +1,8 @@
+<map id="CAdjTurbSolver::BC_Isothermal_Wall" name="CAdjTurbSolver::BC_Isothermal_Wall">
+<area shape="rect" id="node1" title="Impose an isothermal wall boundary condition (no&#45;slip)." alt="" coords="5,99,152,141"/>
+<area shape="rect" id="node2" href="$classCSysMatrix.html#a9473b0224c9b9a2749571db0bbd22a70" title="Deletes the values of the row i of the sparse matrix." alt="" coords="200,5,407,32"/>
+<area shape="rect" id="node3" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="230,56,377,83"/>
+<area shape="rect" id="node4" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="234,107,373,133"/>
+<area shape="rect" id="node5" href="$classCSysVector.html#a9990ad4ea225c98a1af50e00fecbc56f" title="Set the values to zero for one block." alt="" coords="205,157,402,184"/>
+<area shape="rect" id="node6" href="$classCVariable.html#a6ee4d8d450971204cc054a33d6473732" title="Set the value of the old solution." alt="" coords="206,208,401,235"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="CAvgGrad_Scalar&lt; FlowIndices &gt;" name="CAvgGrad_Scalar&lt; FlowIndices &gt;">
+<area shape="rect" id="node1" title="Template class for computing viscous residual of scalar values." alt="" coords="148,136,388,163"/>
+<area shape="rect" id="node3" href="$classCAvgGrad__Species.html" title="Class for computing viscous term using average of gradients (species transport model)." alt="" coords="576,5,827,32"/>
+<area shape="rect" id="node4" href="$classCAvgGrad__TransLM.html" title="Class for computing viscous term using average of gradient with correction (LM transition model)." alt="" coords="575,56,828,83"/>
+<area shape="rect" id="node5" href="$classCAvgGrad__TurbSA.html" title="Class for computing viscous term using average of gradients (Spalart&#45;Allmaras Turbulence model)." alt="" coords="579,107,824,133"/>
+<area shape="rect" id="node6" href="$classCAvgGrad__TurbSA__Neg.html" title="Class for computing viscous term using average of gradients (Spalart&#45;Allmaras Turbulence model)." alt="" coords="616,158,787,199"/>
+<area shape="rect" id="node7" href="$classCAvgGrad__TurbSST.html" title="Class for computing viscous term using average of gradient with correction (Menter SST turbulence mod..." alt="" coords="576,224,827,251"/>
+<area shape="rect" id="node8" href="$classCAvgGrad__Scalar.html" title=" " alt="" coords="598,275,805,317"/>
+<area shape="rect" id="node2" href="$classCNumerics.html" title="Class for defining the numerical methods." alt="" coords="5,136,99,163"/>
+<area shape="rect" id="node9" href="$classCAvgGrad__Heat.html" title="Class for computing viscous term using average of gradients without correction (heat equation)." alt="" coords="877,283,1001,309"/>
+</map>

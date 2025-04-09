@@ -1,0 +1,7 @@
+<map id="CFlowOutput::AddHistoryOutputFieldsScalarLinsol" name="CFlowOutput::AddHistoryOutputFieldsScalarLinsol">
+<area shape="rect" id="node1" title="Add scalar (turbulence/species) history fields for the linear solver (FVMComp, FVMInc,..." alt="" coords="5,90,236,131"/>
+<area shape="rect" id="node2" href="$classCOutput.html#ad5ee424d364346cbd6dc27ffbab35e0a" title="Add a new field to the history output." alt="" coords="284,5,483,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a7416428b6139fe85180e5e8d190506aa" title="Get the kind of the species model." alt="" coords="289,57,478,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#aa3491085ca1a0997d8fb58698bb64fb6" title="Get the kind of the transition model." alt="" coords="297,122,470,163"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a42cf888b42ce34079b2e3987bbf147dd" title="Get the kind of the turbulence model." alt="" coords="300,187,467,229"/>
+</map>

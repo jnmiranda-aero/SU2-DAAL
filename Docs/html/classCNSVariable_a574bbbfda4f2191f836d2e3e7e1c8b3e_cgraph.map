@@ -1,0 +1,19 @@
+<map id="CNSVariable::SetSecondaryVar" name="CNSVariable::SetSecondaryVar">
+<area shape="rect" id="node1" title="Set all the secondary variables (partial derivatives) for compressible flows." alt="" coords="5,385,225,412"/>
+<area shape="rect" id="node2" href="$classCFluidModel.html#a00fe902fbb2d887c39d3c8f4fd1a3173" title="Get fluid thermal conductivity partial derivative." alt="" coords="277,5,476,32"/>
+<area shape="rect" id="node3" href="$classCFluidModel.html#a63cd1d4cd0e92a677e2a94a2c8cd3571" title="Get fluid thermal conductivity partial derivative." alt="" coords="277,56,476,83"/>
+<area shape="rect" id="node4" href="$classCFluidModel.html#a5ac056a1f3b0bf198444632853d77c71" title="Get fluid dynamic viscosity partial derivative." alt="" coords="273,107,480,133"/>
+<area shape="rect" id="node5" href="$classCFluidModel.html#abe5c1bbc7a5822be2ca700a296a0090a" title="Get fluid dynamic viscosity partial derivative." alt="" coords="273,157,480,184"/>
+<area shape="rect" id="node6" href="$classCFluidModel.html#a966e042a109e7a370288e90bd5f6a753" title="Get fluid pressure partial derivative." alt="" coords="279,208,474,235"/>
+<area shape="rect" id="node7" href="$classCFluidModel.html#a2863cabc6f166892d7cdfe3ff39cd485" title="Get fluid pressure partial derivative." alt="" coords="279,259,474,285"/>
+<area shape="rect" id="node8" href="$classCFluidModel.html#a97e4b48ada9559c76049aa36f8d5dac4" title="Get fluid temperature partial derivative." alt="" coords="279,309,474,336"/>
+<area shape="rect" id="node9" href="$classCFluidModel.html#ad4ef41efa2321350f54ad79d5a5a6e69" title="Get fluid temperature partial derivative." alt="" coords="279,360,474,387"/>
+<area shape="rect" id="node10" href="$classCNSVariable.html#a15eefbcf39f526ee9dd8b32929821829" title="Set the derivative of thermal conductivity with respect to density (at constant temperature)." alt="" coords="279,411,475,437"/>
+<area shape="rect" id="node11" href="$classCNSVariable.html#a3d749ea73bdc0f7dd45aa2ed713e768b" title="Set the derivative of thermal conductivity with respect to temperature (at constant density)." alt="" coords="279,461,475,488"/>
+<area shape="rect" id="node12" href="$classCNSVariable.html#a06236bec641147363b72294111efe689" title="Set the derivative of laminar viscosity with respect to density (at constant temperature)." alt="" coords="275,512,479,539"/>
+<area shape="rect" id="node13" href="$classCNSVariable.html#aadc2f7646fd33ea65e425749cf3b9ba5" title="Set the derivative of laminar viscosity with respect to temperature (at constant density)." alt="" coords="275,563,479,589"/>
+<area shape="rect" id="node14" href="$classCEulerVariable.html#a8df6d00795913b8152ffe2c49f902456" title="A virtual member." alt="" coords="273,613,480,640"/>
+<area shape="rect" id="node15" href="$classCEulerVariable.html#adb61c56c7cad26a064966300021645d7" title="A virtual member." alt="" coords="273,664,480,691"/>
+<area shape="rect" id="node16" href="$classCNSVariable.html#a812070edbc6e46c7e7d87ca50d860fa8" title="Set the derivative of temperature with respect to internal energy (at constant density)." alt="" coords="281,715,472,741"/>
+<area shape="rect" id="node17" href="$classCNSVariable.html#a6a3e8bf8015acc5aee17276b775e7a3b" title="Set the derivative of temperature with respect to density (at constant internal energy)." alt="" coords="281,765,472,792"/>
+</map>

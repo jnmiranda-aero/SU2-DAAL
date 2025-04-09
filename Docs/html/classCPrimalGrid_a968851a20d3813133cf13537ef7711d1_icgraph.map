@@ -1,0 +1,13 @@
+<map id="CPrimalGrid::GetFaces" name="CPrimalGrid::GetFaces">
+<area shape="rect" id="node1" title="Get nodes contained in a face." alt="" coords="511,267,677,294"/>
+<area shape="rect" id="node2" href="$classCGeometry.html#a89153b5d029a8e95b8e1546605e3a001" title="A virtual member." alt="" coords="251,129,452,171"/>
+<area shape="rect" id="node7" href="$classCPhysicalGeometry.html#a7cb41549dc077f561b34e1595847a3c0" title="Compute 3 grid quality metrics: orthogonality angle, dual cell aspect ratio, and dual cell volume rat..." alt="" coords="240,195,463,236"/>
+<area shape="rect" id="node8" href="$classCPhysicalGeometry.html#a3fbeb35875c64e226e3b3086a2e546c2" title="Find repeated nodes between two elements to identify the common face." alt="" coords="273,260,430,301"/>
+<area shape="rect" id="node10" href="$classCPhysicalGeometry.html#a0111aae7c2041c5c58b183bd337cdee6" title="Set the edge structure of the control volume." alt="" coords="273,325,430,367"/>
+<area shape="rect" id="node11" href="$classCPhysicalGeometry.html#a70c5b970b1349724f4d7d6e229058926" title="Visualize the structure of the control volume(s)." alt="" coords="263,391,440,432"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#a4f0167afbef6c7a7a57bbe03836bb272" title="Evaluate geometrical parameters of a wing." alt="" coords="20,5,177,47"/>
+<area shape="rect" id="node4" href="$classCPhysicalGeometry.html#a69b97925c1895172c5f3eb05fc14685b" title="Evaluate geometrical parameters of a wing." alt="" coords="20,71,177,112"/>
+<area shape="rect" id="node5" href="$classCPhysicalGeometry.html#a418d3f859009db11d95286e8d1968ef1" title="Evaluate geometrical parameters of a wing." alt="" coords="20,136,177,177"/>
+<area shape="rect" id="node6" href="$SU2__GEO_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="71,202,126,229"/>
+<area shape="rect" id="node9" href="$classCPhysicalGeometry.html#a61a681297c7b37d94f6a6b6d0d6d2745" title="Set elements which surround an element." alt="" coords="5,260,192,301"/>
+</map>

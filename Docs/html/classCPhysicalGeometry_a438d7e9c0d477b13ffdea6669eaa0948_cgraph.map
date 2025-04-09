@@ -1,0 +1,9 @@
+<map id="CPhysicalGeometry::SetWallDistance" name="CPhysicalGeometry::SetWallDistance">
+<area shape="rect" id="node1" title="Reduce the wall distance based on an previously constructed ADT." alt="" coords="5,115,163,156"/>
+<area shape="rect" id="node2" href="$classCADTElemClass.html#ae928a2f7267606715b1ca09c1b80c287" title="Function, which determines the nearest element in the ADT for the given coordinate." alt="" coords="211,5,413,47"/>
+<area shape="rect" id="node4" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="245,71,379,98"/>
+<area shape="rect" id="node5" href="$classCGeometry.html#a275fb07cd99ab79d7a04b4862280169d" title="Get number of points." alt="" coords="229,122,395,149"/>
+<area shape="rect" id="node6" href="$classCADTBaseClass.html#acf2c06bc3b8b87b85aaf62571092df07" title="Function, which returns whether or not the ADT is empty." alt="" coords="219,173,405,199"/>
+<area shape="rect" id="node7" href="$classCPoint.html#acfd5de2b62bf970457f546ba24c03ed4" title="Set the value of the distance to the nearest wall." alt="" coords="219,223,405,250"/>
+<area shape="rect" id="node3" href="$omp__structure_8hpp.html#aad63dd7e34961dbbd2e8774e7f6bc2d0" title="Index of current thread, akin to MPI rank." alt="" coords="461,13,625,39"/>
+</map>

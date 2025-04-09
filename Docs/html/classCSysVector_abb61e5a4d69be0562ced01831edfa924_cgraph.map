@@ -1,0 +1,7 @@
+<map id="CSysVector::PassiveCopy" name="CSysVector::PassiveCopy">
+<area shape="rect" id="node1" title="Set our values (resizing if required) by copying from other, the derivative information is lost." alt="" coords="5,81,191,108"/>
+<area shape="rect" id="node2" href="$classCSysVector.html#a36e34edad9ea54a9d0a153fc5035980c" title="return the number of blocks (typically number of nodes locally)" alt="" coords="264,5,421,32"/>
+<area shape="rect" id="node3" href="$classCSysVector.html#a291257913c3bd91e40f8ab2c154e2d92" title="return the number of blocks (typically number of nodes locally)" alt="" coords="239,56,447,83"/>
+<area shape="rect" id="node4" href="$classCSysVector.html#ac0b4bcd823f7905143430a7bbdcad6f2" title="return the number of variables at each block (typically number per node)" alt="" coords="264,107,421,133"/>
+<area shape="rect" id="node5" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="265,157,420,184"/>
+</map>

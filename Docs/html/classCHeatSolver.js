@@ -22,7 +22,7 @@ var classCHeatSolver =
     [ "SetTime_Step", "classCHeatSolver.html#a46a94222146629b60daac7226d0099c0", null ],
     [ "Upwind_Residual", "classCHeatSolver.html#a6ae942fed49ba1b235dd757ee801f917", null ],
     [ "Viscous_Residual", "classCHeatSolver.html#a28c9bfdc4b9410d4a01ab373a69d7a5b", null ],
-    [ "Viscous_Residual", "classCHeatSolver.html#a078a6e9d20e655c5926ffefac94ad360", null ],
+    [ "Viscous_Residual", "classCHeatSolver.html#a2d350250cad8bfed473c6d86064565f3", null ],
     [ "AllBound_AverageT", "classCHeatSolver.html#a93ace74a9f9b0fb1c23181ecefc969cb", null ],
     [ "AllBound_HeatFlux", "classCHeatSolver.html#aa0863e9d40eaff6474a0ce68730e217a", null ],
     [ "AverageT_per_Marker", "classCHeatSolver.html#aa26a6a1c3f30c1416140fe5ee59b2659", null ],

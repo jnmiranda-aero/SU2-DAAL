@@ -1,0 +1,4 @@
+<map id="CUpwRoeBase_Flow::FinalizeResidual" name="CUpwRoeBase_Flow::FinalizeResidual">
+<area shape="rect" id="node1" title="Derived classes must specialize this method to add the specifics of the scheme they implement (e...." alt="" coords="275,5,487,47"/>
+<area shape="rect" id="node2" href="$classCUpwRoeBase__Flow.html#ae828f7505381432012daa1618ff9f030" title="Compute the flux from node i to node j, part common to most Roe schemes." alt="" coords="5,5,227,47"/>
+</map>

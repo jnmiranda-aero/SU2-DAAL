@@ -1,0 +1,5 @@
+<map id="CTurbSSTSolver::BC_Fluid_Interface" name="CTurbSSTSolver::BC_Fluid_Interface">
+<area shape="rect" id="node1" title="Impose the fluid interface boundary condition using tranfer data." alt="" coords="5,35,155,76"/>
+<area shape="rect" id="node2" href="$classCScalarSolver.html#a72b57a00685a9745cd20e1ee5294c31d" title="Generic implementation of the fluid interface boundary condition for scalar solvers." alt="" coords="203,5,419,47"/>
+<area shape="rect" id="node3" href="$classCVariable.html#a8917b262cfd00020b568078370fe914a" title="Get the first blending function of the SST model." alt="" coords="217,71,404,98"/>
+</map>

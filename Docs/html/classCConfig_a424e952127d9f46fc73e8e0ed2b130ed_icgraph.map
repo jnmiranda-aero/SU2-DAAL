@@ -1,0 +1,12 @@
+<map id="CConfig::GetDeadLoad" name="CConfig::GetDeadLoad">
+<area shape="rect" id="node1" title="Decide whether to apply dead loads to the model." alt="" coords="524,213,692,240"/>
+<area shape="rect" id="node2" href="$classCFEAElasticity.html#a0088de84f05e90911e4ef517e8523418" title="Constructor of the class (overload)." alt="" coords="257,5,475,32"/>
+<area shape="rect" id="node3" href="$classCFEAVariable.html#af903380be6b3b699751e694d896af2c1" title="Constructor of the class." alt="" coords="265,56,467,83"/>
+<area shape="rect" id="node4" href="$classCFEASolver.html#a42b75d47f3f793224f3b04c74fe3e4f1" title="Compute the compliance objective function." alt="" coords="284,107,448,149"/>
+<area shape="rect" id="node6" href="$classCFEASolver.html#a703228b8706352d33f34cc0baf1f9b04" title="Iterate using an implicit Generalized Alpha solver." alt="" coords="256,173,476,214"/>
+<area shape="rect" id="node7" href="$classCFEASolver.html#a27e71a93f7f114cc8506f35c2ed957c3" title="Iterate using an implicit Newmark solver." alt="" coords="257,238,475,279"/>
+<area shape="rect" id="node8" href="$classCAdjElasticityOutput.html#a2d5c7ecbb41aa56b9fd72724bff78c2a" title="Load the history output field values." alt="" coords="288,303,444,345"/>
+<area shape="rect" id="node9" href="$classCFEASolver.html#a353159e003821dae0668dcfe7281bd68" title="Set residuals to zero." alt="" coords="268,369,464,396"/>
+<area shape="rect" id="node10" href="$classCAdjElasticityOutput.html#a65fa2d08a076f95be3bf6ac3844fd0e2" title="Set the available history output fields." alt="" coords="276,421,456,462"/>
+<area shape="rect" id="node5" href="$classCFEASolver.html#ab4fa9086b598c5778c9c0403a5626d1b" title="Postprocessing." alt="" coords="5,115,208,141"/>
+</map>

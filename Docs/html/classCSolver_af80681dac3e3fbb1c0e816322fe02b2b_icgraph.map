@@ -1,0 +1,8 @@
+<map id="CSolver::ResetCFLAdapt" name="CSolver::ResetCFLAdapt">
+<area shape="rect" id="node1" title="Reset the local CFL adaption variables." alt="" coords="469,97,649,123"/>
+<area shape="rect" id="node2" href="$classCIntegration.html#af5925ab429e81961af5f79740055e48e" title="Save the solution at different time steps, and reset certain fields for the next timestep." alt="" coords="227,89,421,131"/>
+<area shape="rect" id="node3" href="$classCAdjFluidIteration.html#aaa4380e135f019835555c79cb4cbece9" title="Updates the containers for the adjoint fluid system." alt="" coords="23,5,161,47"/>
+<area shape="rect" id="node4" href="$classCFEAIteration.html#a1112f9283b0bee1ac564a798a0090c21" title="Updates the containers for the FEM system." alt="" coords="9,71,175,98"/>
+<area shape="rect" id="node5" href="$classCFluidIteration.html#a64c0f94e1a8cf86032f784b514b94571" title="Updates the containers for the fluid system." alt="" coords="5,122,179,149"/>
+<area shape="rect" id="node6" href="$classCHeatIteration.html#ab0bc70fec8698abfb5292ab2e0a0dbff" title="Updates the containers for the heat system." alt="" coords="6,173,178,199"/>
+</map>

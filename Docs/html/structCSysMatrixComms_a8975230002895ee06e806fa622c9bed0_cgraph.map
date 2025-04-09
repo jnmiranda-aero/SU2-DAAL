@@ -1,0 +1,12 @@
+<map id="CSysMatrixComms::Initiate" name="CSysMatrixComms::Initiate">
+<area shape="rect" id="node1" title="Routine to load a vector quantity into the data structures for MPI point&#45;to&#45;point communication and t..." alt="" coords="5,107,205,133"/>
+<area shape="rect" id="node2" href="$classCGeometry.html#ab8d78a9f4017431b7542e154f58a7e63" title="Routine to allocate buffers for point&#45;to&#45;point MPI communications. Also called to dynamically realloc..." alt="" coords="253,5,484,32"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="549,107,731,133"/>
+<area shape="rect" id="node5" href="$classCSysVector.html#ac0b4bcd823f7905143430a7bbdcad6f2" title="return the number of variables at each block (typically number per node)" alt="" coords="290,208,447,235"/>
+<area shape="rect" id="node6" href="$classCGeometry.html#a0951357cde88070db559d6d2511a515d" title="Routine to launch non&#45;blocking recvs only for all point&#45;to&#45;point communication with neighboring parti..." alt="" coords="271,157,466,184"/>
+<area shape="rect" id="node9" href="$classCGeometry.html#a3fd5ef26d01c258616c8bd5f83e345f5" title="Routine to launch a single non&#45;blocking send once the buffer is loaded for a point&#45;to&#45;point commucati..." alt="" coords="271,56,466,83"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="796,107,981,133"/>
+<area shape="rect" id="node7" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="532,56,748,83"/>
+<area shape="rect" id="node8" href="$classCBaseMPIWrapper.html#a672b3e2ba61a86f9a157e7623389c000" title=" " alt="" coords="549,157,731,184"/>
+<area shape="rect" id="node10" href="$classCBaseMPIWrapper.html#a4009cae40f1e050b3635a8d803dbfa3d" title=" " alt="" coords="547,5,733,32"/>
+</map>

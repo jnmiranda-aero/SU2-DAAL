@@ -1,0 +1,5 @@
+<map id="CEulerVariable::SetNewtonSolverIterations" name="CEulerVariable::SetNewtonSolverIterations">
+<area shape="rect" id="node1" title="Set the number of iterations required by a Newton solver used by the fluid model." alt="" coords="249,23,445,65"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a40fad0a57e8dcba8a8f4d4fa8eab02f0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="18,5,189,32"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a4ad4a65b3fc5a51b1561436736f7f7ca" title="Impose the boundary condition using characteristic recostruction." alt="" coords="5,56,201,83"/>
+</map>

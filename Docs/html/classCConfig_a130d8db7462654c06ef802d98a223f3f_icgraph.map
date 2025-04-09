@@ -1,0 +1,9 @@
+<map id="CConfig::GetKind_ADER_Predictor" name="CConfig::GetKind_ADER_Predictor">
+<area shape="rect" id="node1" title="Get the kind of scheme (aliased or non&#45;aliased) to be used in the predictor step of ADER&#45;DG." alt="" coords="741,104,916,145"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__EulerSolver.html#a53f3bd445632823baa18657a29553842" title="Function, carries out the predictor step of the ADER&#45;DG time integration." alt="" coords="495,39,682,80"/>
+<area shape="rect" id="node6" href="$classCFEM__DG__EulerSolver.html#a677fa998b78bd489a3f8bee0d56623dd" title=" " alt="" coords="501,104,676,145"/>
+<area shape="rect" id="node7" href="$classCMeshFEM__DG.html#a4f30fa4373463f802c8d6f685c837263" title="Function, which computes the metric terms of the volume elements." alt="" coords="484,169,693,211"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__EulerSolver.html#ae807ca68b2d465020b63d617d54e339a" title="Function, which processes the list of tasks to be executed by the DG solver." alt="" coords="269,39,436,80"/>
+<area shape="rect" id="node4" href="$classCFEM__DG__EulerSolver.html#a0fe3772f40c29248f26fb08fa215af4e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="5,5,221,47"/>
+<area shape="rect" id="node5" href="$classCFEM__DG__EulerSolver.html#a370cb798d700bb080b52ec22834f78da" title="Function, which controls the computation of the spatial Jacobian." alt="" coords="19,71,208,112"/>
+</map>

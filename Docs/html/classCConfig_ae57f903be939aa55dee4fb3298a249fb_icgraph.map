@@ -1,0 +1,7 @@
+<map id="CConfig::GetUnst_CFL" name="CConfig::GetUnst_CFL">
+<area shape="rect" id="node1" title="Get the Courant Friedrich Levi number for unsteady simulations." alt="" coords="304,97,468,123"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__EulerSolver.html#a527d3a855eebf4e6b35103d8faf42f63" title="Function to compute the time step for solving the Euler equations." alt="" coords="47,5,214,47"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__NSSolver.html#a1d77cb51e0eb51dfb95735ac965ac176" title="Function to compute the time step for solving the Navier&#45;Stokes equations." alt="" coords="5,71,256,98"/>
+<area shape="rect" id="node4" href="$classCHeatSolver.html#a46a94222146629b60daac7226d0099c0" title="A virtual member." alt="" coords="30,122,231,149"/>
+<area shape="rect" id="node5" href="$classCFVMFlowSolverBase.html#aceafd6d8a3ef6e189711df90c7dbe38e" title="Generic implementation to compute the time step based on CFL and conv/visc eigenvalues." alt="" coords="49,173,213,215"/>
+</map>

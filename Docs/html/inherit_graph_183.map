@@ -1,0 +1,32 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCVariable.html" title="Main class for defining the variables." alt="" coords="5,259,89,285"/>
+<area shape="rect" id="node2" href="$classCAdjEulerVariable.html" title="Main class for defining the variables of the adjoint Euler solver." alt="" coords="173,5,311,32"/>
+<area shape="rect" id="node4" href="$classCAdjTurbVariable.html" title="Main class for defining the variables of the adjoint turbulence model." alt="" coords="176,56,308,83"/>
+<area shape="rect" id="node5" href="$classCBaselineVariable.html" title="Main class for defining the variables of a baseline solution from a restart file (for output)." alt="" coords="172,107,312,133"/>
+<area shape="rect" id="node6" href="$classCDiscAdjMeshBoundVariable.html" title="Main class for defining the variables on the mesh deformation boundaries for adjoint applications." alt="" coords="137,157,347,184"/>
+<area shape="rect" id="node7" href="$classCDiscAdjVariable.html" title="Main class for defining the variables of the adjoint solver." alt="" coords="175,208,309,235"/>
+<area shape="rect" id="node9" href="$classCFEAVariable.html" title="Class for defining the variables of the FEM structural problem." alt="" coords="188,259,296,285"/>
+<area shape="rect" id="node11" href="$classCFlowVariable.html" title="Class for defining the common variables of flow solvers." alt="" coords="185,309,299,336"/>
+<area shape="rect" id="node18" href="$classCMeshVariable.html" title=" " alt="" coords="183,360,301,387"/>
+<area shape="rect" id="node20" href="$classCRadVariable.html" title=" " alt="" coords="187,411,297,437"/>
+<area shape="rect" id="node22" href="$classCScalarVariable.html" title="Base class for defining the shared variables of scalar solvers." alt="" coords="180,461,304,488"/>
+<area shape="rect" id="node30" href="$classCSobolevSmoothingVariable.html" title=" " alt="" coords="139,512,345,539"/>
+<area shape="rect" id="node3" href="$classCAdjNSVariable.html" title="Main class for defining the variables of the adjoint Navier&#45;Stokes solver." alt="" coords="433,5,555,32"/>
+<area shape="rect" id="node8" href="$classCDiscAdjFEABoundVariable.html" title="Main class for defining the variables on the FEA boundaries for adjoint applications." alt="" coords="395,107,593,133"/>
+<area shape="rect" id="node10" href="$classCFEABoundVariable.html" title="Class that adds storage of boundary variables (tractions) to CFEAVariable." alt="" coords="419,157,569,184"/>
+<area shape="rect" id="node12" href="$classCEulerVariable.html" title="Class for defining the variables of the compressible Euler solver." alt="" coords="435,208,553,235"/>
+<area shape="rect" id="node14" href="$classCIncEulerVariable.html" title="Class for defining the variables of the incompressible Euler solver." alt="" coords="426,259,562,285"/>
+<area shape="rect" id="node16" href="$classCNEMOEulerVariable.html" title="Main class for defining the variables of the NEMO Euler&#39;s solver." alt="" coords="415,309,573,336"/>
+<area shape="rect" id="node13" href="$classCNSVariable.html" title="Class for defining the variables of the compressible Navier&#45;Stokes solver." alt="" coords="686,208,789,235"/>
+<area shape="rect" id="node15" href="$classCIncNSVariable.html" title="Class for defining the variables of the incompressible Navier&#45;Stokes solver." alt="" coords="677,259,798,285"/>
+<area shape="rect" id="node17" href="$classCNEMONSVariable.html" title="Main class for defining the variables of the NEMO Navier&#45;Stokes&#39; solver." alt="" coords="666,309,809,336"/>
+<area shape="rect" id="node19" href="$classCMeshBoundVariable.html" title=" " alt="" coords="414,360,574,387"/>
+<area shape="rect" id="node21" href="$classCRadP1Variable.html" title=" " alt="" coords="431,411,557,437"/>
+<area shape="rect" id="node23" href="$classCHeatVariable.html" title="Class for defining the variables of the finite&#45;volume heat equation solver." alt="" coords="437,461,551,488"/>
+<area shape="rect" id="node24" href="$classCSpeciesVariable.html" title="Base class for defining the variables of the species transport." alt="" coords="427,512,561,539"/>
+<area shape="rect" id="node26" href="$classCTurbVariable.html" title="Base class for defining the variables of the turbulence model." alt="" coords="439,575,549,601"/>
+<area shape="rect" id="node25" href="$classCSpeciesFlameletVariable.html" title="Base class for defining the variables of the flamelet model." alt="" coords="641,499,833,525"/>
+<area shape="rect" id="node27" href="$classCTransLMVariable.html" title="Transition model variables." alt="" coords="669,549,806,576"/>
+<area shape="rect" id="node28" href="$classCTurbSAVariable.html" title="Main class for defining the variables of the turbulence model." alt="" coords="673,600,801,627"/>
+<area shape="rect" id="node29" href="$classCTurbSSTVariable.html" title="Main class for defining the variables of the turbulence model." alt="" coords="670,651,805,677"/>
+</map>

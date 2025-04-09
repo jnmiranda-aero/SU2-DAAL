@@ -1,0 +1,40 @@
+<map id="CScalarSolver::BC_Fluid_Interface_impl" name="CScalarSolver::BC_Fluid_Interface_impl">
+<area shape="rect" id="node1" title="Generic implementation of the fluid interface boundary condition for scalar solvers." alt="" coords="5,869,183,910"/>
+<area shape="rect" id="node2" href="$classCScalarSolver.html#a84d924cabf82cfc8816045460af7dec2" title="Applies a convective flux correction to negate the effects of flow divergence at a BC node." alt="" coords="241,23,459,65"/>
+<area shape="rect" id="node6" href="$classCNumerics.html#aa0ca13663a047ef2640b377b33875e29" title="Compute the numerical residual." alt="" coords="242,89,458,116"/>
+<area shape="rect" id="node7" href="$classcontainer__details_1_1AccessorImpl.html#a5b5318f7212e57c13e464c398f74b3d5" title=" " alt="" coords="277,141,423,182"/>
+<area shape="rect" id="node8" href="$classCSysMatrix.html#a47036e07a622b3c93751016a2e6239fe" title="Get a pointer to the start of block &quot;ij&quot;." alt="" coords="269,207,431,233"/>
+<area shape="rect" id="node9" href="$classCNumerics.html#a2205376a2acee6fb1ca2e84c4ada306b" title="Obtain information on bounded scalar problem." alt="" coords="239,257,461,284"/>
+<area shape="rect" id="node10" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="283,308,417,335"/>
+<area shape="rect" id="node11" href="$classCVariable.html#a4892ca545884011b7903a8e35c43b43f" title="A virtual member." alt="" coords="267,359,433,385"/>
+<area shape="rect" id="node12" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="277,409,423,436"/>
+<area shape="rect" id="node13" href="$classCPoint.html#a65d855a9c2ad2971546038b34acd5b92" title="Get the value of the grid velocity at the point." alt="" coords="279,460,421,487"/>
+<area shape="rect" id="node14" href="$classCConfig.html#ae003cd8f406eaaa91849a774c9a20730" title="Get the kind of boundary for each marker." alt="" coords="276,511,424,553"/>
+<area shape="rect" id="node15" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="260,577,440,604"/>
+<area shape="rect" id="node16" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="281,628,419,655"/>
+<area shape="rect" id="node17" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="278,679,422,705"/>
+<area shape="rect" id="node18" href="$classCVertex.html#a57cacfe764770e6c0e54c278cb584f7c" title="Copy the the normal vector of a face." alt="" coords="274,729,426,756"/>
+<area shape="rect" id="node19" href="$classCVertex.html#ab8b0e96f9384b0a861c7a70616976b75" title="Get the value of the closest neighbor." alt="" coords="274,781,426,822"/>
+<area shape="rect" id="node20" href="$classCSolver.html#a7d44cf864d55a58a519ceb639b3b4a45" title="Get the number of variables of the problem." alt="" coords="269,847,431,873"/>
+<area shape="rect" id="node21" href="$classCScalarSolver.html#ab1011206cff91a2601a2ee2acea5a37b" title="Get the number of outer state for fluid interface nodes." alt="" coords="253,898,447,939"/>
+<area shape="rect" id="node22" href="$classCVariable.html#a634a803b0d397aec7a44420cd5159079" title="Get the primitive variables for all points." alt="" coords="263,1604,437,1631"/>
+<area shape="rect" id="node24" href="$classCSolver.html#a19be443b8f59d543bad3a627fff7990d" title="Get the outer state for fluid interface nodes." alt="" coords="259,1015,441,1041"/>
+<area shape="rect" id="node25" href="$classCScalarSolver.html#abaa3bafffeac88326c2e0e79252e320c" title="Get the outer state for fluid interface nodes." alt="" coords="257,1066,443,1107"/>
+<area shape="rect" id="node26" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="273,1132,427,1159"/>
+<area shape="rect" id="node27" href="$group__GeometryToolbox.html#gaff34e6c096a3c354c2b223713ca09095" title="Reflect a at b: c = 2*b &#45; a." alt="" coords="245,1183,455,1225"/>
+<area shape="rect" id="node28" href="$classCNumerics.html#a6ca4a8e17d68ea63f1dba96cd5f2967d" title="Set coordinates of the points." alt="" coords="270,1249,430,1276"/>
+<area shape="rect" id="node29" href="$classCNumerics.html#a3f116b5718153aefee7a22735797af29" title="Set the velocity of the computational grid." alt="" coords="265,1300,435,1327"/>
+<area shape="rect" id="node30" href="$classCNumerics.html#ab8090a20c3e38ee98e710dc5f2828459" title="SetMassFlux." alt="" coords="258,1351,442,1377"/>
+<area shape="rect" id="node31" href="$classCNumerics.html#a93fd2262832ae5081317548f2f9cdbb3" title="Set the value of the normal vector to the face between two points." alt="" coords="265,1401,435,1428"/>
+<area shape="rect" id="node32" href="$classCNumerics.html#a028c500ba7ce96d3af061fc8218f76f1" title="Set the value of the primitive variables." alt="" coords="259,1452,441,1479"/>
+<area shape="rect" id="node33" href="$classCNumerics.html#a6e1c4dea51983cbe489762bd43bae41d" title="Set the value of the scalar variable." alt="" coords="259,1503,441,1529"/>
+<area shape="rect" id="node34" href="$classCNumerics.html#a8c5ce8e8a1cb2c0bb03bf408d9a80d68" title="Set the gradient of the scalar variables." alt="" coords="231,1553,469,1580"/>
+<area shape="rect" id="node35" href="$classCSysVector.html#a71ea6ec1ebdb77535b976bb40e7659a6" title="Subtract &quot;block&quot; from the vector, see AddBlock." alt="" coords="253,964,447,991"/>
+<area shape="rect" id="node36" href="$classCSysMatrix.html#a423b77066cf386dd6e4b95a656e4aadb" title="Short&#45;hand to AddBlock2Diag with alpha = &#45;1, i.e. subtracts from the current diagonal." alt="" coords="234,1655,466,1681"/>
+<area shape="rect" id="node38" href="$structCPrimitiveIndices.html#abb39999cd1ccb638d5cc790ba56e48b2" title=" " alt="" coords="278,1706,422,1747"/>
+<area shape="rect" id="node3" href="$classCSysVector.html#aa463275cba394503a9778529fdaa4494" title="Add &quot;block&quot; to the vector, see SetBlock." alt="" coords="544,536,708,563"/>
+<area shape="rect" id="node4" href="$classCSysMatrix.html#ad230c61b0790b0bf25bba46a6711fc39" title="Adds the specified value to the diagonal of the (i, i) subblock of the matrix&#45;by&#45;blocks structure." alt="" coords="533,56,719,83"/>
+<area shape="rect" id="node5" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="517,5,735,32"/>
+<area shape="rect" id="node23" href="$classCVariable.html#a57eb0e83f25f08d544f92b75e3f8b617" title=" " alt="" coords="531,1604,721,1631"/>
+<area shape="rect" id="node37" href="$classCSysMatrix.html#a5a4ef7eeb7f009450f575660108ed7be" title="Non overwrite version of SetBlock2Diag, also with scaling." alt="" coords="525,1655,727,1681"/>
+</map>

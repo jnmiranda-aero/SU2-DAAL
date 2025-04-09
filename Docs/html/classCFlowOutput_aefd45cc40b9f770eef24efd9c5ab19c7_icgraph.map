@@ -1,0 +1,6 @@
+<map id="CFlowOutput::SetHeatCoefficients" name="CFlowOutput::SetHeatCoefficients">
+<area shape="rect" id="node1" title="Set the value of the heat flux coefficients." alt="" coords="324,56,567,83"/>
+<area shape="rect" id="node2" href="$classCFlowCompOutput.html#a393cb19a691990ee6e88f844eccc79ed" title="Load the history output field values." alt="" coords="10,5,271,32"/>
+<area shape="rect" id="node3" href="$classCFlowIncOutput.html#a466112efa2e3a89cdd2456701a0480b5" title="Load the history output field values." alt="" coords="19,56,262,83"/>
+<area shape="rect" id="node4" href="$classCNEMOCompOutput.html#a7a9f1a32fe55e6a967a27eb38408ec99" title="Load the history output field values." alt="" coords="5,107,276,133"/>
+</map>

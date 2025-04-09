@@ -1,0 +1,14 @@
+<map id="CVariable::GetThermalConductivity_ve" name="CVariable::GetThermalConductivity_ve">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="932,242,1207,269"/>
+<area shape="rect" id="node2" href="$classCNEMOEulerSolver.html#af35c1b20663aa6051487296077034f05" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="670,5,841,47"/>
+<area shape="rect" id="node3" href="$classCNEMONSSolver.html#a1d9ff4495625b00bfbf46b3ad87c4167" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="644,71,867,112"/>
+<area shape="rect" id="node5" href="$classCNEMONSSolver.html#acd1bedbd2a7588cfa7a86831d4c9dfc9" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="644,136,867,177"/>
+<area shape="rect" id="node6" href="$classCNEMONSSolver.html#a1c4746b9e1e0c7232f1bd06535c22b14" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="639,201,872,243"/>
+<area shape="rect" id="node9" href="$classCNEMONSSolver.html#aa32b1221a071e0ecd2de381615b8adca" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="627,267,884,308"/>
+<area shape="rect" id="node10" href="$classCNEMOEulerSolver.html#a1448f7a4a713ada22016532249a56a95" title="Impose a supersonic inlet boundary condition." alt="" coords="670,332,841,373"/>
+<area shape="rect" id="node11" href="$classCNEMOEulerSolver.html#a2c43958aea35df86bce9cdaf1461232c" title="Compute the time step for solving the Euler equations." alt="" coords="634,398,877,425"/>
+<area shape="rect" id="node12" href="$classCNEMOEulerSolver.html#a0758ca67e16c9f1f0f8fe5c8ec661cf7" title="Source term integration." alt="" coords="657,449,854,491"/>
+<area shape="rect" id="node4" href="$classCNEMONSSolver.html#aa52e178cc5f052026e73735d6e9b847f" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="321,111,579,138"/>
+<area shape="rect" id="node7" href="$classCNEMONSSolver.html#a8c6c80e6e8f2aed2ff80c78a8e5aec9e" title="Generic implementation of the isothermal wall." alt="" coords="5,231,273,258"/>
+<area shape="rect" id="node8" href="$classCNEMONSSolver.html#ae3d2c5f1c94cb3d01b7f351ce3105f31" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="333,253,567,295"/>
+</map>

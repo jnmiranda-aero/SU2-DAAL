@@ -1,0 +1,11 @@
+<map id="CEulerVariable::CIndices::SoundSpeed" name="CEulerVariable::CIndices::SoundSpeed">
+<area shape="rect" id="node1" title=" " alt="" coords="1080,82,1260,123"/>
+<area shape="rect" id="node2" href="$classCEulerVariable.html#ab2b300dcf4067e7b996d7c9aaa02939f" title="Get the speed of the sound." alt="" coords="844,82,1032,123"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#ab1d1a9cf835e4fa232711959f7768be3" title="Compute the max eigenvalue." alt="" coords="601,23,763,65"/>
+<area shape="rect" id="node7" href="$classCEulerSolver.html#a0c511d1e0a149308c0efffa9e6b9db85" title="Compute the preconditioner for convergence acceleration by Roe&#45;Turkel method." alt="" coords="568,89,796,116"/>
+<area shape="rect" id="node9" href="$classCEulerSolver.html#a8b5cd9b0e0e01824888f647dcfbf6988" title="Compute the time step for solving the Euler equations." alt="" coords="581,140,783,167"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#a0d6f93feba8d6aad18edf3594213042b" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="257,31,520,57"/>
+<area shape="rect" id="node5" href="$classCEulerSolver.html#ab08b6aa95648e7ab973f9f247fe54b31" title="Compute primitive variables and their gradients." alt="" coords="5,5,209,32"/>
+<area shape="rect" id="node6" href="$classCNSSolver.html#af83e7cb773797239cdc98fc4d202d32f" title="Restart residual and compute gradients." alt="" coords="13,56,202,83"/>
+<area shape="rect" id="node8" href="$classCEulerSolver.html#afd623280ddc50fbc59b7ddcc9e638217" title="Prepare an implicit iteration." alt="" coords="283,82,495,123"/>
+</map>

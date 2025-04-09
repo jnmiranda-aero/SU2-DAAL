@@ -1,0 +1,22 @@
+<map id="CRadP1Solver::BC_HeatFlux_Wall" name="CRadP1Solver::BC_HeatFlux_Wall">
+<area shape="rect" id="node1" title="Impose the Marshak BC on Heatflux wall boundaries." alt="" coords="5,340,245,367"/>
+<area shape="rect" id="node2" href="$classCRadP1Solver.html#abfe27f7a2dd3f371b52cfecd93acdc87" title="Impose the Marshak boundary condition." alt="" coords="293,340,496,367"/>
+<area shape="rect" id="node3" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="587,5,733,32"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a568405f750ddcd4f702197e66b477ff9" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="565,57,755,98"/>
+<area shape="rect" id="node5" href="$classCConfig.html#ab8c9c1f45950a29355be4ff357049440" title="Get the index of the surface defined in the geometry file." alt="" coords="586,122,734,163"/>
+<area shape="rect" id="node6" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="591,188,729,215"/>
+<area shape="rect" id="node7" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="588,239,732,265"/>
+<area shape="rect" id="node8" href="$classCVertex.html#a57cacfe764770e6c0e54c278cb584f7c" title="Copy the the normal vector of a face." alt="" coords="584,289,736,316"/>
+<area shape="rect" id="node9" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="576,340,744,367"/>
+<area shape="rect" id="node10" href="$classCVariable.html#a21a72a13ee2eb461b8c439c8eb4fce19" title="A virtual member." alt="" coords="561,391,759,417"/>
+<area shape="rect" id="node11" href="$classCConfig.html#a6ce0fba509b7e2c2272a0e889956a958" title="Get the wall emissivity at a boundary." alt="" coords="557,441,763,468"/>
+<area shape="rect" id="node12" href="$group__GeometryToolbox.html#gad8b24e50333c9a8378f7abf18222f36a" title=" " alt="" coords="569,492,751,519"/>
+<area shape="rect" id="node16" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="605,543,715,569"/>
+<area shape="rect" id="node17" href="$classCSysVector.html#a71ea6ec1ebdb77535b976bb40e7659a6" title="Subtract &quot;block&quot; from the vector, see AddBlock." alt="" coords="563,593,757,620"/>
+<area shape="rect" id="node19" href="$classCSysMatrix.html#a423b77066cf386dd6e4b95a656e4aadb" title="Short&#45;hand to AddBlock2Diag with alpha = &#45;1, i.e. subtracts from the current diagonal." alt="" coords="544,644,776,671"/>
+<area shape="rect" id="node13" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="918,467,965,493"/>
+<area shape="rect" id="node14" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="824,517,1059,544"/>
+<area shape="rect" id="node15" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="1107,517,1324,544"/>
+<area shape="rect" id="node18" href="$classCSysVector.html#aa463275cba394503a9778529fdaa4494" title="Add &quot;block&quot; to the vector, see SetBlock." alt="" coords="859,593,1023,620"/>
+<area shape="rect" id="node20" href="$classCSysMatrix.html#a5a4ef7eeb7f009450f575660108ed7be" title="Non overwrite version of SetBlock2Diag, also with scaling." alt="" coords="840,644,1043,671"/>
+</map>

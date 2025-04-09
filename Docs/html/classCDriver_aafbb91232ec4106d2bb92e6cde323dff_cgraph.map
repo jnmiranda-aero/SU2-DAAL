@@ -1,0 +1,8 @@
+<map id="CDriver::InstantiateSpeciesNumerics" name="CDriver::InstantiateSpeciesNumerics">
+<area shape="rect" id="node1" title="Helper to instantiate species transport numerics specialized for different flow solvers." alt="" coords="5,78,204,119"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="263,5,444,32"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a509e098ac64a59535a8e59ec2de6f68b" title="Get information about the axisymmetric frame." alt="" coords="256,56,451,83"/>
+<area shape="rect" id="node5" href="$classCConfig.html#ab593f854f30900936d3fefff382f898e" title="Get the kind of convective numerical scheme for the Species equations (upwind)." alt="" coords="252,107,455,149"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a15a61a6f9a1d415c3509018f4916c5c1" title="Get the number of multigrid levels." alt="" coords="266,173,441,200"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="503,5,688,32"/>
+</map>

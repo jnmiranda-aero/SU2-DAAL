@@ -1,0 +1,8 @@
+<map id="CFEM_DG_NSSolver::Shock_Capturing_DG_Persson" name="CFEM_DG_NSSolver::Shock_Capturing_DG_Persson">
+<area shape="rect" id="node1" title="Per&#45;Olof Persson&#39;s method for capturing shock in DG." alt="" coords="5,129,204,171"/>
+<area shape="rect" id="node2" href="$classCFEMStandardElement.html#af525d0cd36565e5d1a452eaf927e14d0" title="Function, which makes available the matrix storage of the inverse of Vandermonde matrix of solution D..." alt="" coords="269,5,457,47"/>
+<area shape="rect" id="node3" href="$classCFEMStandardElement.html#a007e03cd4cc6bd8f37e54411eaf0b23f" title="Function, which makes available the polynomial degree for this standard element." alt="" coords="278,71,449,112"/>
+<area shape="rect" id="node4" href="$classCFluidModel.html#a654e55c4c6bb3914b40fbc27410876ba" title="Get fluid speed of sound squared." alt="" coords="252,137,475,163"/>
+<area shape="rect" id="node5" href="$classCFluidModel.html#a0c795f4190d7f03963bd4ba50f43c641" title="virtual member that would be different for each gas model implemented" alt="" coords="253,187,473,214"/>
+<area shape="rect" id="node6" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="340,238,387,265"/>
+</map>

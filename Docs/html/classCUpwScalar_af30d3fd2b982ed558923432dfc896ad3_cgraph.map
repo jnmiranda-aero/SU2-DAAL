@@ -1,0 +1,11 @@
+<map id="CUpwScalar::ComputeResidual" name="CUpwScalar::ComputeResidual">
+<area shape="rect" id="node1" title="Compute the scalar upwind flux between two nodes i and j." alt="" coords="5,183,228,209"/>
+<area shape="rect" id="node2" href="$namespaceAD.html#a309d057a92faa60a3a760254678ec9ea" title="Ends a preaccumulation section and computes the local Jacobi matrix of a code section using the varia..." alt="" coords="333,5,449,32"/>
+<area shape="rect" id="node3" href="$classCUpwScalar.html#a4478421251a6eb7e553126eea2427c35" title="A pure virtual function. Derived classes must use it to register the additional variables they use as..." alt="" coords="283,56,499,83"/>
+<area shape="rect" id="node4" href="$classCUpwScalar.html#a3815628c8d52299f4e0b39fdaf3df4ef" title="Model&#45;specific steps in the ComputeResidual method, derived classes compute the Flux and its Jacobian..." alt="" coords="276,107,507,133"/>
+<area shape="rect" id="node5" href="$group__VecExpr.html#gaa1a2012ba7d4b10571ed831a1e27167f" title=" " alt="" coords="333,157,449,184"/>
+<area shape="rect" id="node6" href="$group__VecExpr.html#ga7d93aa7e7e2e0b1e3b5b3bb60c8c73c1" title=" " alt="" coords="335,208,447,235"/>
+<area shape="rect" id="node7" href="$namespaceAD.html#aa163589c94af6ddfdbcf901ecc76ac77" title="Sets the scalar inputs of a preaccumulation section." alt="" coords="329,259,454,285"/>
+<area shape="rect" id="node8" href="$namespaceAD.html#a96f26aa5f6909173e990e03b864fec33" title="Sets the scalar outputs of a preaccumulation section." alt="" coords="323,309,459,336"/>
+<area shape="rect" id="node9" href="$namespaceAD.html#a2a1e9c4b109fd751e84132c9495de3ff" title="Starts a new preaccumulation section and sets the input variables." alt="" coords="330,360,453,387"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="COutput::PreprocessHistoryOutput" name="COutput::PreprocessHistoryOutput">
+<area shape="rect" id="node1" title="Preprocess the history output by setting the history fields and opening the history file." alt="" coords="5,552,207,594"/>
+<area shape="rect" id="node2" href="$classPrintingToolbox_1_1CTablePrinter.html#af3ddbf0da1a37cc37be7caac031dd4c4" title="Add a column to the table by specifiying the header name and the width." alt="" coords="787,43,1003,84"/>
+<area shape="rect" id="node3" href="$classCOutput.html#a20d22a09cbeb3fb432169060622daace" title="CheckHistoryOutput." alt="" coords="255,109,469,136"/>
+<area shape="rect" id="node5" href="$classCConfig.html#abafdda03255a7f71a9701ded02f6d231" title="Get whether the simulation we are running is a multizone simulation." alt="" coords="279,523,445,564"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a39ff50a0f3deda9134f1c44b4d5053b7" title="Gets the number of zones in the mesh file." alt="" coords="290,589,434,616"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a97a3e8adf92a60addb737c639ed1ed3c" title="Check if the convergence history of each individual zone is written to file." alt="" coords="266,822,458,849"/>
+<area shape="rect" id="node10" href="$classCOutput.html#a6da61fc6d21c7c968678d612a939290d" title="Postprocess_HistoryFields." alt="" coords="258,756,466,798"/>
+<area shape="rect" id="node14" href="$classCOutput.html#a3407b42ec9ed68db746446e34d17dc3e" title="Open the history file and write the header." alt="" coords="261,389,463,416"/>
+<area shape="rect" id="node16" href="$classPrintingToolbox_1_1CTablePrinter.html#ad3691499a7bfa024bf97a7fc00ef33c7" title="Set the alignment of the table entries (CENTER only works for the header at the moment)." alt="" coords="520,167,736,208"/>
+<area shape="rect" id="node22" href="$classPrintingToolbox_1_1CTablePrinter.html#a4c36695262ac33182aee4e88546a3c2e" title="Set whether to print the line at the bottom of the table." alt="" coords="520,546,736,587"/>
+<area shape="rect" id="node24" href="$classCOutput.html#aa8b9438f7f915375c811afc23381755e" title="Set the history fields common for all solvers." alt="" coords="257,691,467,732"/>
+<area shape="rect" id="node25" href="$classCOutput.html#a57104a0a0e708b8983166b568ff24d01" title="Parses user&#45;defined outputs." alt="" coords="259,640,465,666"/>
+<area shape="rect" id="node27" href="$classCOutput.html#a79db9f998ceec693e9f30a946b042e5a" title="Set the available history output fields." alt="" coords="265,874,459,915"/>
+<area shape="rect" id="node4" href="$namespacePrintingToolbox.html#a382f3911ccba468c241c530ae0c78b63" title=" " alt="" coords="557,102,699,143"/>
+<area shape="rect" id="node7" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="537,612,719,638"/>
+<area shape="rect" id="node8" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="802,612,987,638"/>
+<area shape="rect" id="node11" href="$classCOutput.html#ad5ee424d364346cbd6dc27ffbab35e0a" title="Add a new field to the history output." alt="" coords="529,713,727,740"/>
+<area shape="rect" id="node12" href="$classCConfig.html#a1756760d4a98f886411a703d71bda3f2" title="Get the direct differentation method." alt="" coords="545,764,711,790"/>
+<area shape="rect" id="node13" href="$classCConfig.html#a85d2e3cf43b77c63642c40c235b853f3" title="Check if the multizone problem is solved for time domain." alt="" coords="531,814,725,841"/>
+<area shape="rect" id="node15" href="$classCConfig.html#abd7ba56a182284f00644b8d2b81a8c17" title="Get the output precision to be used in &lt;ofstream&gt;.precision(value) for history and SU2_DOT output." alt="" coords="555,284,701,326"/>
+<area shape="rect" id="node17" href="$classCOutput.html#a5411042863410de2e13390707fdadf21" title="Set the history file header." alt="" coords="517,233,739,260"/>
+<area shape="rect" id="node20" href="$classPrintingToolbox_1_1CTablePrinter.html#ab56b5f776cf03b72d6730508ee943ca8" title="Set the separator between columns (inner decoration)" alt="" coords="520,350,736,391"/>
+<area shape="rect" id="node21" href="$classPrintingToolbox_1_1CTablePrinter.html#a99b7d9fa9a270d8da75ccdaf2bf62a0e" title="Set the floating point precision." alt="" coords="520,415,736,456"/>
+<area shape="rect" id="node23" href="$classPrintingToolbox_1_1CTablePrinter.html#a137252437fa62fe6445dc7f203867fa3" title="Set whether to print the line at the top of the table." alt="" coords="520,480,736,522"/>
+<area shape="rect" id="node18" href="$classCConfig.html#a4ac4d812d4065f2955d72733cd0c4f6f" title="Get the format of the output solution." alt="" coords="819,194,970,235"/>
+<area shape="rect" id="node19" href="$classPrintingToolbox_1_1CTablePrinter.html#a475fafce69bdc78e973a2546e6e6be76" title="Print the header." alt="" coords="787,259,1003,300"/>
+<area shape="rect" id="node26" href="$classCConfig.html#ab2ecf99cf24e818ae41bdd5ec511fd19" title="Get the user expressions for custom outputs." alt="" coords="526,662,730,689"/>
+</map>

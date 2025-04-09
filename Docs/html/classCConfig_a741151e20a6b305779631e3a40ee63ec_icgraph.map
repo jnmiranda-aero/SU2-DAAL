@@ -1,0 +1,4 @@
+<map id="CConfig::GetInc_Inlet_UseNormal" name="CConfig::GetInc_Inlet_UseNormal">
+<area shape="rect" id="node1" title="Flag for whether the local boundary normal is used as the flow direction for an incompressible pressu..." alt="" coords="204,5,363,47"/>
+<area shape="rect" id="node2" href="$classCIncEulerSolver.html#ac0b00dbc68bbd80aa48f6249c6ea5c38" title="Impose a subsonic inlet boundary condition." alt="" coords="5,5,156,47"/>
+</map>

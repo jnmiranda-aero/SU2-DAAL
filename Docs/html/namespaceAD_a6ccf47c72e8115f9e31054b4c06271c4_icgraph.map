@@ -1,0 +1,14 @@
+<map id="AD::ClearAdjoints" name="AD::ClearAdjoints">
+<area shape="rect" id="node1" title="Clears the currently stored adjoints but keeps the computational graph." alt="" coords="1329,277,1465,303"/>
+<area shape="rect" id="node2" href="$classCDiscAdjMultizoneDriver.html#a1f5b9fcca6fa5bc7d34ec6ef98cd609b" title="Summary of all routines to evaluate the adjoints in iZone." alt="" coords="1077,108,1261,149"/>
+<area shape="rect" id="node5" href="$classCDiscAdjMultizoneDriver.html#af996aecdb6d20aa4fc81c9b67295abf5" title="[Overload] Run an discrete adjoint update of all solvers within multiple zones." alt="" coords="237,189,455,215"/>
+<area shape="rect" id="node8" href="$classCDiscAdjMultizoneDriver.html#a7a644ee8fc2141f2083b91afd2cab856" title="Evaluate the gradient of the objective function and add to &quot;External&quot;." alt="" coords="749,240,1009,281"/>
+<area shape="rect" id="node9" href="$classCDiscAdjMultizoneDriver.html#a9d998fae109427a1061069800ad931c3" title="Evaluate sensitivites for the current adjoint solution and output files." alt="" coords="510,296,694,337"/>
+<area shape="rect" id="node10" href="$classCDiscAdjSinglezoneDriver.html#a8f953f7bd46ee86ade056068e5eb2419" title="Run a single iteration of the discrete adjoint solver with a single zone." alt="" coords="1057,357,1281,383"/>
+<area shape="rect" id="node11" href="$classCDiscAdjSinglezoneDriver.html#ad328a74dd89ed2e335b22c4bf2b53cb0" title="Record the secondary computational path." alt="" coords="1074,408,1265,449"/>
+<area shape="rect" id="node3" href="$classCDiscAdjMultizoneDriver.html#a0e412d3476c8552ca4bd13cb4f050e0f" title="Run one inner iteration for a given zone." alt="" coords="787,93,971,135"/>
+<area shape="rect" id="node4" href="$classCDiscAdjMultizoneDriver.html#a9b6405abc0dbfc7983bc133af9fa2aed" title="Run inner iterations using a Krylov method (GMRES atm)." alt="" coords="510,5,694,47"/>
+<area shape="rect" id="node7" href="$classCDiscAdjMultizoneDriver_1_1AdjointProduct.html#a9012483daf0df98b1e47791ed57d75cd" title=" " alt="" coords="503,123,701,164"/>
+<area shape="rect" id="node6" href="$classCDiscAdjMultizoneDriver.html#a75de0a1a482ceeed4301a384f1515092" title="[Overload] Launch the computation for discrete adjoint multizone problems." alt="" coords="5,181,189,223"/>
+<area shape="rect" id="node12" href="$classCDiscAdjSinglezoneDriver.html#a8646cc443849a97868c59003066bb850" title="Postprocess the adjoint iteration for ZONE_0." alt="" coords="784,408,975,449"/>
+</map>

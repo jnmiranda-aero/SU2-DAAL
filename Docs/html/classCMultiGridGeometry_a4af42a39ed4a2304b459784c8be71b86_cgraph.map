@@ -1,0 +1,8 @@
+<map id="CMultiGridGeometry::SetMultiGridWallHeatFlux" name="CMultiGridGeometry::SetMultiGridWallHeatFlux">
+<area shape="rect" id="node1" title="Set a representative wall normal heat flux of the agglomerated control volume on a particular boundar..." alt="" coords="5,39,204,80"/>
+<area shape="rect" id="node2" href="$classCGeometry.html#ae9a5315f4841f4008784b5860d087499" title="Get the value of the customized normal heat flux at a specified vertex on a specified marker." alt="" coords="252,5,491,47"/>
+<area shape="rect" id="node3" href="$classCGeometry.html#a59da2e9606fd23fc4477a0bf4642a1c9" title="Set a representative wall value of the agglomerated control volumes on a particular boundary marker." alt="" coords="257,71,486,112"/>
+<area shape="rect" id="node4" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="539,27,685,54"/>
+<area shape="rect" id="node5" href="$classCPoint.html#aa23a2b42b38e6d611038eeafdb7051d0" title="Get the vertex that compose the control volume for a marker." alt="" coords="543,78,681,105"/>
+<area shape="rect" id="node6" href="$classCPoint.html#a35a504401472dfa76ef1187a5675414f" title="Get area or volume of the control volume." alt="" coords="540,129,684,155"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="CConfig::GetMarker_All_PyCustom" name="CConfig::GetMarker_All_PyCustom">
+<area shape="rect" id="node1" title="Get the Python customization for a marker val_marker." alt="" coords="751,125,899,166"/>
+<area shape="rect" id="node2" href="$classCHeatSolver.html#ac8bd9350053fa2937ba6a4262f46fa2a" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="456,5,687,32"/>
+<area shape="rect" id="node3" href="$classCHeatSolver.html#a8f1b5ef62ec17b74df8c3f95b6a55e31" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="451,56,692,83"/>
+<area shape="rect" id="node4" href="$group__PySU2.html#ga885143fabe4ac3b038e7328bae66a402" title="Get all the CHT boundary marker tags." alt="" coords="454,107,689,133"/>
+<area shape="rect" id="node5" href="$group__PySU2.html#ga28b4a11b8ba5feef8660f4d79ceeafb5" title="Get all the inlet boundary marker tags." alt="" coords="453,157,690,184"/>
+<area shape="rect" id="node6" href="$classCGeometry.html#a15dd9fe9352493c70f21b217bab034ea" title="Set the data containers for customized boundary conditions." alt="" coords="453,208,689,235"/>
+<area shape="rect" id="node9" href="$classCGeometry.html#a65d6e849b384ed08a35930f360aedda6" title="Update the multi&#45;grid structure for the customized boundary conditions." alt="" coords="440,259,703,301"/>
+<area shape="rect" id="node7" href="$classCDriver.html#a2db38ef6359a77231cf866302b0929e8" title="Initialize Python interface functionalities. When using multigrid, it is important to call this after..." alt="" coords="189,201,384,242"/>
+<area shape="rect" id="node8" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="5,208,133,235"/>
+<area shape="rect" id="node10" href="$group__PySU2.html#ga77b0a53f8b2462e44d5e34299e3ef1c6" title="Process the boundary conditions and update the multi&#45;grid structure." alt="" coords="181,266,392,307"/>
+</map>

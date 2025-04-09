@@ -1,0 +1,10 @@
+<map id="CTurboOutput::CTurboOutput" name="CTurboOutput::CTurboOutput">
+<area shape="rect" id="node1" title=" " alt="" coords="5,173,212,200"/>
+<area shape="rect" id="node2" href="$classCGeometry.html#ace7f7fe876f629f5bd5f92d4805a1a4b" title="Get number of coordinates." alt="" coords="295,5,456,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a2caf35ccfb5e2b96bd5f53054c42fee6" title="number Turbomachinery performance option specified from config file." alt="" coords="297,57,453,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a50c6d8787325e09d732ecb9c4af96e93" title="number span&#45;wise sections to compute 3D BC and performance for turbomachinery." alt="" coords="260,123,491,149"/>
+<area shape="rect" id="node5" href="$classCGeometry.html#a5a1e2a948ab36482c9721b6b24f6d018" title="Get the value of the inflow area at each span." alt="" coords="275,173,475,200"/>
+<area shape="rect" id="node6" href="$classCGeometry.html#a85819fe72a6cc1f86b07cb9ebcfe8342" title="Get the value of the outflow area at each span." alt="" coords="270,224,481,251"/>
+<area shape="rect" id="node7" href="$classCGeometry.html#ae34cb54686877337c43e967d2da8f049" title="Get the value of the inflow radius at each span." alt="" coords="267,275,484,301"/>
+<area shape="rect" id="node8" href="$classCGeometry.html#aaa7998d3f0abfd3df73e4bfd5880e676" title="Get the value of the outflow radius at each span." alt="" coords="261,325,489,352"/>
+</map>

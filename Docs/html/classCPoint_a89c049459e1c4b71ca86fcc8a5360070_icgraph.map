@@ -1,0 +1,23 @@
+<map id="CPoint::GetPeriodicBoundary" name="CPoint::GetPeriodicBoundary">
+<area shape="rect" id="node1" title="Provides information about if a point belongs to a periodic boundary (without MPI)." alt="" coords="1115,319,1324,346"/>
+<area shape="rect" id="node2" href="$classCSolver.html#a1a6e3eee698f471925178d422a0c3724" title="Routine to load a solver quantity into the data structures for MPI periodic communication and to laun..." alt="" coords="888,312,1067,353"/>
+<area shape="rect" id="node3" href="$classCFVMFlowSolverBase.html#a24ebe4d462bbef07ec992c8c4d3e3aa3" title="Impose a periodic boundary condition by summing contributions from the complete control volume." alt="" coords="641,5,805,47"/>
+<area shape="rect" id="node4" href="$classCHeatSolver.html#a89c9ece2b98a950e53f4ee9482968186" title="Constructor of the class." alt="" coords="627,71,819,98"/>
+<area shape="rect" id="node5" href="$classCFVMFlowSolverBase.html#a3eb0fbabf1ce42ccc0fe626473800e09" title="Generic implementation to complete an implicit iteration, i.e. update the solution." alt="" coords="607,123,840,164"/>
+<area shape="rect" id="node6" href="$group__FvmAlgos.html#ga32c639c72ec9d09a704d5f8056f28c35" title="Compute the gradient of a field using the Green&#45;Gauss theorem." alt="" coords="630,188,817,229"/>
+<area shape="rect" id="node7" href="$group__FvmAlgos.html#ga01c113d467c9ccfdfe83ec5b3d48d321" title="Compute the gradient of a field using inverse&#45;distance&#45;weighted or unweighted Least&#45;Squares approxima..." alt="" coords="630,253,817,295"/>
+<area shape="rect" id="node8" href="$group__FvmAlgos.html#ga4639562695f9dc19f098e6d00fcacde1" title="Generic limiter computation for methods based on one limiter value per point (as opposed to one per e..." alt="" coords="639,319,807,346"/>
+<area shape="rect" id="node9" href="$classCFVMFlowSolverBase.html#add3f32c09f3bb0032ed4cc4144ec8b10" title="Initialize thread parallel variables." alt="" coords="615,371,832,441"/>
+<area shape="rect" id="node10" href="$classCFVMFlowSolverBase.html#afb9ed896e3882658d23042a5ee15c9d2" title="Compute the dissipation sensor for centered schemes." alt="" coords="628,466,819,522"/>
+<area shape="rect" id="node11" href="$classCFVMFlowSolverBase.html#adc3a96a8ca25902058864c18b533192d" title="Compute the max eigenvalue, gemeric implementation." alt="" coords="626,547,821,588"/>
+<area shape="rect" id="node12" href="$classCEulerSolver.html#a82314e58faf4d98a5f3733f43d64de92" title="Compute the undivided laplacian for the solution." alt="" coords="623,612,823,653"/>
+<area shape="rect" id="node16" href="$classCSolver.html#ae9fa6bf0e3ef0dff07dd85e0a87eef4d" title="Compute the undivided laplacian for the solution variables." alt="" coords="640,687,807,728"/>
+<area shape="rect" id="node13" href="$classCEulerSolver.html#a0d6f93feba8d6aad18edf3594213042b" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="286,610,549,637"/>
+<area shape="rect" id="node14" href="$classCEulerSolver.html#ab08b6aa95648e7ab973f9f247fe54b31" title="Compute primitive variables and their gradients." alt="" coords="15,559,219,586"/>
+<area shape="rect" id="node15" href="$classCNSSolver.html#af83e7cb773797239cdc98fc4d202d32f" title="Restart residual and compute gradients." alt="" coords="22,610,211,637"/>
+<area shape="rect" id="node17" href="$classCIncEulerSolver.html#ac50d02e914c4337e73d2c4878b12c59d" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="276,661,559,687"/>
+<area shape="rect" id="node20" href="$classCAdjEulerSolver.html#a64baf8c7af6006bdc4ad0919f7c2507a" title="Initialize the residual vectors." alt="" coords="305,711,530,738"/>
+<area shape="rect" id="node21" href="$classCAdjNSSolver.html#a0669f6fb8ef7cd7800d151d4aff7d3f6" title="Restart residual and compute gradients." alt="" coords="312,762,523,789"/>
+<area shape="rect" id="node18" href="$classCIncEulerSolver.html#aac33066eba6bdbe02693afb992e307d8" title="Compute primitive variables and their gradients." alt="" coords="5,661,228,687"/>
+<area shape="rect" id="node19" href="$classCIncNSSolver.html#aaaff5cfe93aa72a689248c80b2ea9149" title="Restart residual and compute gradients." alt="" coords="13,711,221,738"/>
+</map>

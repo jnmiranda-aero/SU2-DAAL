@@ -1,0 +1,6 @@
+<map id="CDiscAdjMeshSolver::RegisterVariables" name="CDiscAdjMeshSolver::RegisterVariables">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="5,49,161,90"/>
+<area shape="rect" id="node2" href="$classCConfig.html#ab3fdf060d59e990ed2e9418e8df56ad7" title="Check if the simulation we are running is a FSI simulation." alt="" coords="209,5,408,32"/>
+<area shape="rect" id="node3" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="237,56,381,83"/>
+<area shape="rect" id="node4" href="$classCVariable.html#a6fa19565323bce1112b297b2a1627701" title="A virtual member. Register the boundary displacements of the mesh." alt="" coords="235,107,382,149"/>
+</map>

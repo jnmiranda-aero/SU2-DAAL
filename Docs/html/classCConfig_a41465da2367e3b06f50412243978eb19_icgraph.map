@@ -1,0 +1,5 @@
+<map id="CConfig::GetHeatSource_Rot_Z" name="CConfig::GetHeatSource_Rot_Z">
+<area shape="rect" id="node1" title="Get the rotation angle of the volumetric heat source in axis Z." alt="" coords="509,5,688,47"/>
+<area shape="rect" id="node2" href="$classCRadSolver.html#aa3a4be300964d302d7c39a90f746e638" title="Set the volumetric heat source." alt="" coords="265,5,461,47"/>
+<area shape="rect" id="node3" href="$classCRadP1Solver.html#ae423cf9af88b527eb54ebce86227d96a" title=" " alt="" coords="5,13,217,39"/>
+</map>

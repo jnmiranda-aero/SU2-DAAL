@@ -1,0 +1,52 @@
+<map id="CConfig::GetPressure_Ref" name="CConfig::GetPressure_Ref">
+<area shape="rect" id="node1" title="Get the value of the reference pressure for non&#45;dimensionalization." alt="" coords="1007,990,1195,1017"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#aaed2805cd896b61dd4a3898eb7db96f6" title="Impose the ancelle exhaust boundary condition." alt="" coords="705,5,888,47"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a216b1002e7b947286502596c7a168a74" title="Impose the nacelle inflow boundary condition." alt="" coords="705,71,888,112"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#a40fad0a57e8dcba8a8f4d4fa8eab02f0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="711,137,882,163"/>
+<area shape="rect" id="node5" href="$classCEulerSolver.html#a908e4ec3ecb8f2f8af197bb30a1aed70" title="Impose a subsonic inlet boundary condition." alt="" coords="713,187,880,214"/>
+<area shape="rect" id="node6" href="$classCIncEulerSolver.html#ac0b00dbc68bbd80aa48f6249c6ea5c38" title="Impose a subsonic inlet boundary condition." alt="" coords="721,239,872,280"/>
+<area shape="rect" id="node7" href="$classCNEMOEulerSolver.html#a715d85f7c0791a1258fba5746257cba0" title="Impose a subsonic inlet boundary condition." alt="" coords="711,304,882,345"/>
+<area shape="rect" id="node8" href="$classCAdjEulerSolver.html#a606732a2540893587de80506c5d0ac70" title="Impose the outlet boundary condition." alt="" coords="721,369,873,411"/>
+<area shape="rect" id="node9" href="$classCEulerSolver.html#ad26d60369d28b647c7aded1b0753bd95" title="Impose the outlet boundary condition." alt="" coords="707,435,886,462"/>
+<area shape="rect" id="node10" href="$classCIncEulerSolver.html#afc1e6b64c1d323261468e1aa04b110ad" title="Impose the outlet boundary condition." alt="" coords="721,487,872,528"/>
+<area shape="rect" id="node11" href="$classCNEMOEulerSolver.html#ad9c735fad084c25c2b24b9ccd3503fa8" title="Impose the outlet boundary condition." alt="" coords="711,552,882,593"/>
+<area shape="rect" id="node12" href="$classCEulerSolver.html#a4ad4a65b3fc5a51b1561436736f7f7ca" title="Impose the boundary condition using characteristic recostruction." alt="" coords="699,618,895,645"/>
+<area shape="rect" id="node13" href="$classCEulerSolver.html#a453f213de163fd34a89426ca05c59e33" title="Impose a supersonic inlet boundary condition." alt="" coords="692,669,901,711"/>
+<area shape="rect" id="node14" href="$classCEulerSolver.html#a8e036f2dff1d945d814c93a74159a3cc" title="Impose the boundary condition using characteristic recostruction." alt="" coords="681,735,912,762"/>
+<area shape="rect" id="node15" href="$classCFEM__DG__EulerSolver.html#af993f01423bbb8e24b8c2bb565bf55eb" title="Function, which computes the boundary states in the integration points of the boundary face by applyi..." alt="" coords="712,787,881,828"/>
+<area shape="rect" id="node18" href="$classCFEM__DG__EulerSolver.html#a3233306f97b6173c5c109cae04a4c9be" title="Function, which computes the boundary states in the integration points of the boundary face by applyi..." alt="" coords="707,852,887,893"/>
+<area shape="rect" id="node21" href="$classCFEM__DG__EulerSolver.html#a5bfdc0bca1daa8e5d716d4fc3c7f5867" title="Function, which computes the boundary states in the integration points of the boundary face by applyi..." alt="" coords="697,917,896,959"/>
+<area shape="rect" id="node24" href="$classCMMSNSTwoHalfCirclesSolution.html#afb31f8a5302b2a376a1781805fefb3f1" title=" " alt="" coords="677,983,916,1024"/>
+<area shape="rect" id="node25" href="$classCMMSNSTwoHalfSpheresSolution.html#a8a5a9229428c02216ec39243e5738c2c" title=" " alt="" coords="673,1048,920,1089"/>
+<area shape="rect" id="node26" href="$classCMMSNSUnitQuadSolutionWallBC.html#a8a073b252ded24ccdb874d41b6e1660a" title=" " alt="" coords="663,1113,930,1155"/>
+<area shape="rect" id="node27" href="$classCSolver.html#ad27011984bdd70773ab3cb3dde7d4894" title="Compute the tractions at the vertices." alt="" coords="677,1179,916,1206"/>
+<area shape="rect" id="node29" href="$classCEulerSolver.html#ad8b538a82e5a7a7e3903ec29954b1d07" title="Compute the Fan face Mach number." alt="" coords="363,1252,539,1293"/>
+<area shape="rect" id="node31" href="$classCEulerSolver.html#a53ff3a768a2f32a32b7c6c77bcacfec6" title="Read the actuator disk input file for the VARIABLE_LOAD type." alt="" coords="699,1281,895,1323"/>
+<area shape="rect" id="node32" href="$classCEulerSolver.html#a147d5ae75cf7de115e4be2c23ba95f6d" title="Update the AoA and freestream velocity at the farfield." alt="" coords="359,1329,543,1371"/>
+<area shape="rect" id="node33" href="$classCEulerSolver.html#a68a64ec341d648dfbaddcd2c80455dcf" title="Read and update the variable load actuator disk from input file for the BLADE_ELEMENT type." alt="" coords="705,1399,889,1440"/>
+<area shape="rect" id="node34" href="$classCFlowOutput.html#ad5ff0360271937e65692893a69b4923a" title="Set flow surface output field values." alt="" coords="679,1465,915,1491"/>
+<area shape="rect" id="node38" href="$classCEulerSolver.html#ad2e701dc22e44bd36cf64102ab1b335f" title="Set the initial condition for the Euler Equations." alt="" coords="711,1516,882,1557"/>
+<area shape="rect" id="node39" href="$classCEulerSolver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="655,1582,939,1609"/>
+<area shape="rect" id="node41" href="$classCIncEulerSolver.html#a2cffaa24417cb3803d36d38b3874d6d0" title="Set the solver nondimensionalization." alt="" coords="645,1633,948,1659"/>
+<area shape="rect" id="node43" href="$classCNEMOEulerSolver.html#ad23673d38da9e895e4802b6d4d000c1b" title="Set the fluid solver nondimensionalization." alt="" coords="635,1683,959,1710"/>
+<area shape="rect" id="node45" href="$classCFEM__DG__EulerSolver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="696,1735,897,1776"/>
+<area shape="rect" id="node47" href="$classCEulerSolver.html#afe2f428da073b80f64c41422971f9748" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="696,1800,897,1841"/>
+<area shape="rect" id="node48" href="$classCFlowOutput.html#aff6a6f11c9f53f559bab9ca94b21cd2a" title="Write the forces breakdown file." alt="" coords="701,1865,892,1907"/>
+<area shape="rect" id="node50" href="$classCFlowCompOutput.html#a05068951419e97bf9b190a2ca9d14202" title="Write the kinematic and thermodynamic variables at each spanwise division." alt="" coords="685,1931,908,1972"/>
+<area shape="rect" id="node16" href="$classCFEM__DG__EulerSolver.html#ade8441a575543603f4e4218fb52e33a2" title="Impose the subsonic inlet boundary condition. It is a virtual function, because for Navier&#45;Stokes it ..." alt="" coords="368,689,535,731"/>
+<area shape="rect" id="node17" href="$classCFEM__DG__NSSolver.html#a08d05db7c9f0a94dec17ab1eecd5c44d" title="Impose the subsonic inlet boundary condition." alt="" coords="362,755,541,796"/>
+<area shape="rect" id="node19" href="$classCFEM__DG__EulerSolver.html#a869796e928f7618ea7f47d9ebc80cf76" title="Impose the outlet boundary condition.It is a virtual function, because for Navier&#45;Stokes it is overwr..." alt="" coords="368,820,535,861"/>
+<area shape="rect" id="node20" href="$classCFEM__DG__NSSolver.html#afa7d6c1243dd1f7a29408f272c26b02d" title="Impose the outlet boundary condition." alt="" coords="362,885,541,927"/>
+<area shape="rect" id="node22" href="$classCFEM__DG__EulerSolver.html#aaff04081aba8d9e24f0e615161e8020f" title="Impose the boundary condition using characteristic reconstruction. It is a virtual function,..." alt="" coords="368,951,535,992"/>
+<area shape="rect" id="node23" href="$classCFEM__DG__NSSolver.html#a22b8079ccea001f1a35d236bfb2750d4" title="Impose the boundary condition using characteristic reconstruction." alt="" coords="362,1016,541,1057"/>
+<area shape="rect" id="node28" href="$classCFluidIteration.html#a3f065978d2a1745b812bf4457d34684b" title="Postprocesses the fluid system before heading to another physics system or the next iteration." alt="" coords="349,1179,553,1206"/>
+<area shape="rect" id="node30" href="$classCEulerSolver.html#a0d6f93feba8d6aad18edf3594213042b" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="5,1293,268,1319"/>
+<area shape="rect" id="node35" href="$classCFlowCompOutput.html#a393cb19a691990ee6e88f844eccc79ed" title="Load the history output field values." alt="" coords="321,1414,582,1441"/>
+<area shape="rect" id="node36" href="$classCFlowIncOutput.html#a466112efa2e3a89cdd2456701a0480b5" title="Load the history output field values." alt="" coords="330,1465,573,1491"/>
+<area shape="rect" id="node37" href="$classCNEMOCompOutput.html#a7a9f1a32fe55e6a967a27eb38408ec99" title="Load the history output field values." alt="" coords="316,1515,587,1542"/>
+<area shape="rect" id="node40" href="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460" title="Main constructor of this class." alt="" coords="353,1570,549,1597"/>
+<area shape="rect" id="node42" href="$classCIncEulerSolver.html#a2a0c72c1d1d79e45c69da03e01f6281a" title="Constructor of the class." alt="" coords="355,1621,548,1663"/>
+<area shape="rect" id="node44" href="$classCNEMOEulerSolver.html#a192d56e184ee19ad0b0dd3282b74f1e6" title="Contructor of the class." alt="" coords="334,1687,569,1728"/>
+<area shape="rect" id="node46" href="$classCFEM__DG__EulerSolver.html#a70d30ef9e7cd7620d54ec73f4b1ed28c" title=" " alt="" coords="364,1752,539,1793"/>
+<area shape="rect" id="node49" href="$classCFlowOutput.html#aaac3fb7b2575967b157c306065ab1ea8" title="Write any additional files defined for the current solver." alt="" coords="344,1865,559,1907"/>
+</map>

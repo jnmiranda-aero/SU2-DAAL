@@ -1,0 +1,6 @@
+<map id="CSource_NEMO::ComputeVibRelaxation" name="CSource_NEMO::ComputeVibRelaxation">
+<area shape="rect" id="node1" title="Residual of the translational to vibrational energy." alt="" coords="5,71,216,112"/>
+<area shape="rect" id="node2" href="$classCNEMOGas.html#ac60f971c3f90f4d6d88dd94ba98bcf96" title="Compute vibration enery source term jacobian." alt="" coords="267,5,494,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a8add01b31351e21599c687600c3c92d6" title="Indicates whether the VT source residual is limited." alt="" coords="267,71,495,112"/>
+<area shape="rect" id="node4" href="$classCNEMOGas.html#a1504562f343368d93897601cb43aea70" title="Set mixture thermodynamic state." alt="" coords="264,137,497,163"/>
+</map>

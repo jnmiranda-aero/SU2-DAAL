@@ -1,0 +1,9 @@
+<map id="CEulerVariable::CIndices::ThermalConductivity" name="CEulerVariable::CIndices::ThermalConductivity">
+<area shape="rect" id="node1" title=" " alt="" coords="572,93,752,135"/>
+<area shape="rect" id="node2" href="$classCIncNSVariable.html#a522f1046e6222a70051d287ab78d952b" title="Get the thermal conductivity of the flow." alt="" coords="286,5,493,47"/>
+<area shape="rect" id="node3" href="$classCNSVariable.html#ab7e282ae472c9c00d9b98c89fc0b0307" title="Get the thermal conductivity of the flow." alt="" coords="255,71,524,98"/>
+<area shape="rect" id="node4" href="$classCIncNSVariable.html#ad1d795e927be520a9e78220fbcbcc9ad" title="Set the thermal conductivity." alt="" coords="287,123,491,164"/>
+<area shape="rect" id="node6" href="$classCNSVariable.html#ac1bd1baf837da7e794531a92f9742f3c" title="Set the laminar viscosity." alt="" coords="256,189,523,215"/>
+<area shape="rect" id="node5" href="$classCIncNSVariable.html#a34a2a9cfecec39f383e2e7551b4e7736" title="Set all the primitive variables for incompressible flows." alt="" coords="5,130,207,157"/>
+<area shape="rect" id="node7" href="$classCNSVariable.html#a0db8c1ede5090174259a69548d20c9fe" title="Set all the primitive variables for compressible flows." alt="" coords="15,189,197,215"/>
+</map>

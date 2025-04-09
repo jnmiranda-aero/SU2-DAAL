@@ -1,0 +1,22 @@
+<map id="dot" name="dot">
+<area shape="rect" id="node1" title="Dot product." alt="" coords="1051,335,1093,361"/>
+<area shape="rect" id="node2" href="$classCFEASolver.html#a564030e469386df4b15d1b3f490392a5" title="Impose a load boundary condition normal to the boundary." alt="" coords="775,5,991,32"/>
+<area shape="rect" id="node3" href="$classCCenteredBase.html#ac9b1510a81f92bcdc4c319b415d1ea82" title="Implementation of the base centered flux." alt="" coords="499,107,716,133"/>
+<area shape="rect" id="node4" href="$classCRoeBase.html#a66014e97b96e951548712bc65bb2857e" title="Implementation of the base Roe flux." alt="" coords="516,183,699,209"/>
+<area shape="rect" id="node5" href="$diffusion_2common_8hpp.html#aaa1a54900a980b1486705bd157a1080e" title="Correct average gradient with the directional derivative to avoid decoupling." alt="" coords="546,309,669,336"/>
+<area shape="rect" id="node8" href="$classCPhysicalGeometry.html#a1823c0dcfe5570115da9b7db331daaa5" title="Determine whether or not the Jacobians of the elements and faces are constant and a length scale of t..." alt="" coords="764,411,1003,467"/>
+<area shape="rect" id="node10" href="$classCJSTmatScheme.html#a00ef231fc9b1fdb423150f7c0562ef05" title="Updates flux and Jacobians." alt="" coords="777,491,989,517"/>
+<area shape="rect" id="node11" href="$convection_2common_8hpp.html#a1190730e5c62468e59ac8063194750b5" title="Convective projected (onto normal) flux (compressible flow)." alt="" coords="821,107,946,133"/>
+<area shape="rect" id="node12" href="$convection_2common_8hpp.html#a9378724444e65e776e9b365e57c8565c" title="Jacobian of the convective flux (compressible flow, ideal gas)." alt="" coords="825,157,941,184"/>
+<area shape="rect" id="node13" href="$convection_2common_8hpp.html#a9881247736002af7eef1228f54b98d3c" title="Limited reconstruction with edge&#45;based limiter." alt="" coords="812,541,955,568"/>
+<area shape="rect" id="node15" href="$convection_2common_8hpp.html#a24eff78f4695adbe8bd846a6145e0f5d" title="Limited reconstruction with point&#45;based limiter." alt="" coords="812,592,955,619"/>
+<area shape="rect" id="node16" href="$convection_2common_8hpp.html#a57c1cacef5c49b6c0234b9f023ad8551" title="Unlimited reconstruction." alt="" coords="821,643,946,669"/>
+<area shape="rect" id="node17" href="$variables_8hpp.html#a3a77c6d51629ecf086e0c3621b162bb9" title="Compute Roe&#45;averaged variables from pair of primitive variables." alt="" coords="801,259,965,285"/>
+<area shape="rect" id="node18" href="$util_8hpp.html#a1cb82f5fc5ffb56374e87235ce51e261" title="Tangential projection." alt="" coords="815,360,952,387"/>
+<area shape="rect" id="node20" href="$diffusion_2common_8hpp.html#a45390ed9fa55e0e44a69ffa13c4a1f00" title="Viscous flux for compressible flows." alt="" coords="834,693,933,720"/>
+<area shape="rect" id="node6" href="$classCCompressibleViscousFluxBase.html#a2feac6faba6a30370c0632c74d6d4cf4" title="Add viscous contributions to flux and jacobians." alt="" coords="252,327,451,369"/>
+<area shape="rect" id="node7" href="$classCCompressibleViscousFluxBase.html#a2ed1fc02c008a93e70565d1616aba51c" title=" " alt="" coords="5,327,204,369"/>
+<area shape="rect" id="node9" href="$classCPhysicalGeometry.html#a0a1295415b0ff3105673f5733682e151" title="Set the domains for FEM grid partitioning using ParMETIS." alt="" coords="514,418,701,459"/>
+<area shape="rect" id="node14" href="$convection_2common_8hpp.html#ac6b30a384f12121f7351e13ac2460ce1" title="Retrieve primitive variables for points i/j, reconstructing them if needed." alt="" coords="527,592,688,619"/>
+<area shape="rect" id="node19" href="$diffusion_2common_8hpp.html#a18034f0265b5b1ae5e0d31ab09638ba9" title="Scale the stress tensor according to the target (from a wall function) magnitude in the tangential di..." alt="" coords="559,360,655,387"/>
+</map>

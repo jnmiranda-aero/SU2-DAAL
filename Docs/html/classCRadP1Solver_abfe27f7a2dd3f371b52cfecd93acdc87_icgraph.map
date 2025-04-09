@@ -1,0 +1,9 @@
+<map id="CRadP1Solver::BC_Marshak" name="CRadP1Solver::BC_Marshak">
+<area shape="rect" id="node1" title="Impose the Marshak boundary condition." alt="" coords="293,159,496,186"/>
+<area shape="rect" id="node2" href="$classCRadP1Solver.html#a3fe6a36acb081b47eff2de4c8b0e0fd7" title="Impose the Marshak BC on conjugate heat interfaces." alt="" coords="19,5,231,47"/>
+<area shape="rect" id="node3" href="$classCRadP1Solver.html#acc71fea1636d568694513efc4a07e268" title="Impose via the Marshak BC on Euler walls." alt="" coords="18,71,233,98"/>
+<area shape="rect" id="node4" href="$classCRadP1Solver.html#abf8015bb8d3f6cb29da118e8bdeca05d" title="Impose the Marshak BC on sliding interfaces." alt="" coords="36,123,215,164"/>
+<area shape="rect" id="node5" href="$classCRadP1Solver.html#af20bae041d9e18f6f09e6e2025d48b08" title="Impose the Marshak BC on Heatflux wall boundaries." alt="" coords="5,189,245,215"/>
+<area shape="rect" id="node6" href="$classCRadP1Solver.html#ae8362cfdf8d6db5464c0993e62448fde" title="Impose the Marshak BC on inlet boundaries." alt="" coords="38,239,213,266"/>
+<area shape="rect" id="node7" href="$classCRadP1Solver.html#a7363b0e5e1eefd9ced01fb82d14154f0" title="Impose the Marshak BC on outlet boundaries." alt="" coords="32,290,219,317"/>
+</map>

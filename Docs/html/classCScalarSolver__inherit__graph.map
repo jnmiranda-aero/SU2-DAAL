@@ -1,0 +1,14 @@
+<map id="CScalarSolver&lt; VariableType &gt;" name="CScalarSolver&lt; VariableType &gt;">
+<area shape="rect" id="node1" title="Main class for defining a scalar solver." alt="" coords="127,144,352,171"/>
+<area shape="rect" id="node3" href="$classCScalarSolver.html" title=" " alt="" coords="559,87,789,113"/>
+<area shape="rect" id="node8" href="$classCScalarSolver.html" title=" " alt="" coords="547,144,801,171"/>
+<area shape="rect" id="node11" href="$classCScalarSolver.html" title=" " alt="" coords="557,195,791,221"/>
+<area shape="rect" id="node2" href="$classCSolver.html" title=" " alt="" coords="5,144,77,171"/>
+<area shape="rect" id="node4" href="$classCTurbSolver.html" title="Main class for defining the turbulence model solver." alt="" coords="863,68,961,95"/>
+<area shape="rect" id="node5" href="$classCTransLMSolver.html" title="Main class for defining the transition model solver." alt="" coords="1050,5,1175,32"/>
+<area shape="rect" id="node6" href="$classCTurbSASolver.html" title="Main class for defining the turbulence model solver." alt="" coords="1054,56,1171,83"/>
+<area shape="rect" id="node7" href="$classCTurbSSTSolver.html" title="Main class for defining the turbulence model solver." alt="" coords="1051,107,1174,133"/>
+<area shape="rect" id="node9" href="$classCSpeciesSolver.html" title="Main class for defining the species transport solver." alt="" coords="851,144,973,171"/>
+<area shape="rect" id="node10" href="$classCSpeciesFlameletSolver.html" title="Main class for defining the flamelet model solver." alt="" coords="1023,157,1203,184"/>
+<area shape="rect" id="node12" href="$classCHeatSolver.html" title="Main class for defining the finite&#45;volume heat solver." alt="" coords="861,195,963,221"/>
+</map>

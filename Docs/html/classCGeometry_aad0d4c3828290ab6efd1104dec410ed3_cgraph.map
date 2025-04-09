@@ -1,0 +1,9 @@
+<map id="CGeometry::RegisterCoordinates" name="CGeometry::RegisterCoordinates">
+<area shape="rect" id="node1" title="Register the coordinates of the mesh nodes." alt="" coords="5,56,240,83"/>
+<area shape="rect" id="node2" href="$omp__structure_8hpp.html#a15e588e219ac407d67b02755aab67506" title="Number of threads in current team." alt="" coords="305,5,475,32"/>
+<area shape="rect" id="node3" href="$classCPoint.html#a9a9a2f4e628fc64d1f709fea60fc119e" title="Register coordinates of a point." alt="" coords="288,56,492,83"/>
+<area shape="rect" id="node7" href="$omp__structure_8hpp.html#a1c00281f52b615b111a4990b2d2a5157" title="Integer division rounding up." alt="" coords="341,107,439,133"/>
+<area shape="rect" id="node4" href="$namespaceAD.html#a142308d54379f7aaa1c72195fb5fe992" title="Registers the variable as an input. I.e. as a leaf of the computational graph." alt="" coords="545,5,681,32"/>
+<area shape="rect" id="node5" href="$namespaceAD.html#ae381e45797545e980376c4aeb3f5afdc" title="Registers the variable as an output. I.e. as the root of the computational graph." alt="" coords="540,56,687,83"/>
+<area shape="rect" id="node6" href="$namespaceAD.html#a93909396dd20444ea1ad3100003ff08c" title="Evaluates and saves gradient data from a variable." alt="" coords="560,107,667,133"/>
+</map>

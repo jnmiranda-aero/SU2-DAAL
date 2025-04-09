@@ -1,0 +1,9 @@
+<map id="CSolver::GetTotal_HeatFlux" name="CSolver::GetTotal_HeatFlux">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="621,56,821,83"/>
+<area shape="rect" id="node2" href="$classCAdjNSSolver.html#a159875229feba5b14c433990e5a89d60" title="Impose via the residual or brute force the Navier&#45;Stokes adjoint boundary condition (heat flux)." alt="" coords="324,5,573,32"/>
+<area shape="rect" id="node3" href="$classCHeatOutput.html#afe748d534531acb2983b6b3978e43916" title="Load the history output field values." alt="" coords="337,56,560,83"/>
+<area shape="rect" id="node4" href="$classCFlowOutput.html#aefd45cc40b9f770eef24efd9c5ab19c7" title="Set the value of the heat flux coefficients." alt="" coords="327,107,570,133"/>
+<area shape="rect" id="node5" href="$classCFlowCompOutput.html#a393cb19a691990ee6e88f844eccc79ed" title="Load the history output field values." alt="" coords="10,56,271,83"/>
+<area shape="rect" id="node6" href="$classCFlowIncOutput.html#a466112efa2e3a89cdd2456701a0480b5" title="Load the history output field values." alt="" coords="19,107,262,133"/>
+<area shape="rect" id="node7" href="$classCNEMOCompOutput.html#a7a9f1a32fe55e6a967a27eb38408ec99" title="Load the history output field values." alt="" coords="5,157,276,184"/>
+</map>

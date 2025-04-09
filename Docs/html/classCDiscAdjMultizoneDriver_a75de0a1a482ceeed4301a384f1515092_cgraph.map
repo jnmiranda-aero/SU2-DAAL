@@ -1,0 +1,52 @@
+<map id="CDiscAdjMultizoneDriver::StartSolver" name="CDiscAdjMultizoneDriver::StartSolver">
+<area shape="rect" id="node1" title="[Overload] Launch the computation for discrete adjoint multizone problems." alt="" coords="5,267,189,309"/>
+<area shape="rect" id="node2" href="$classCGeometry.html#a275fb07cd99ab79d7a04b4862280169d" title="Get number of points." alt="" coords="551,5,717,32"/>
+<area shape="rect" id="node3" href="$classCGeometry.html#ac84179060bbac1fe5e856ea3da850b6e" title="Get number of real points (that belong to the domain)." alt="" coords="237,157,456,184"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a22b101932c391aea5173975130f488fd" title="Get the number of time iterations." alt="" coords="547,325,721,352"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a85d2e3cf43b77c63642c40c235b853f3" title="Check if the multizone problem is solved for time domain." alt="" coords="537,275,731,301"/>
+<area shape="rect" id="node6" href="$classCDriver.html#a05b0b42d3a06f92f6c8a645bc9a5927d" title="Sum the number of primal or adjoint variables for all solvers in a given zone." alt="" coords="247,910,447,951"/>
+<area shape="rect" id="node7" href="$classCDiscAdjMultizoneDriver.html#a70b3462df525277dc025b7aa51c2e502" title="Setup the matrix of cross&#45;terms. Allocate necessary memory and initialize to zero." alt="" coords="255,9,439,50"/>
+<area shape="rect" id="node8" href="$classCDiscAdjMultizoneDriver.html#a9f35c0b26e3b325e4e0fef8ca8cc5b8c" title="Preprocess the multizone iteration." alt="" coords="255,209,439,250"/>
+<area shape="rect" id="node15" href="$classCDiscAdjMultizoneDriver.html#af996aecdb6d20aa4fc81c9b67295abf5" title="[Overload] Run an discrete adjoint update of all solvers within multiple zones." alt="" coords="238,859,455,885"/>
+<area shape="rect" id="node45" href="$classCDiscAdjMultizoneDriver.html#a42400d5fc2e9be45a7b1770c6f9beb84" title="Puts Solution into BGSSolution_k." alt="" coords="542,376,726,432"/>
+<area shape="rect" id="node9" href="$classCIteration.html#a2188de0627fe026e59b60b99bf3aa34d" title="A virtual member." alt="" coords="551,56,717,83"/>
+<area shape="rect" id="node10" href="$classCDiscAdjMultizoneDriver.html#a7599ea22350dd1027a77266916781d44" title="Puts dual time derivative vector to External." alt="" coords="531,107,737,149"/>
+<area shape="rect" id="node13" href="$classCConfig.html#a40da15666c94c59c6dff1ecda6f388fd" title="Set the current physical time." alt="" coords="540,173,728,200"/>
+<area shape="rect" id="node14" href="$classCConfig.html#adacd509eaa7fb19fd3d89a9c6a51222e" title="Set the current time iteration number." alt="" coords="556,224,712,251"/>
+<area shape="rect" id="node11" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="1119,416,1263,443"/>
+<area shape="rect" id="node12" href="$classCVariable.html#a10d3582e2b305581c1e75f5fe43880fa" title="Set Dual&#45;time derivative contributions to the external." alt="" coords="842,107,1017,149"/>
+<area shape="rect" id="node16" href="$classCDiscAdjMultizoneDriver.html#a3f1281a13573de3b1ba9acd367f23f80" title="Add External_Old vector to Solution." alt="" coords="837,1077,1021,1118"/>
+<area shape="rect" id="node18" href="$namespaceAD.html#a6ccf47c72e8115f9e31054b4c06271c4" title="Clears the currently stored adjoints but keeps the computational graph." alt="" coords="1366,1647,1502,1673"/>
+<area shape="rect" id="node19" href="$classCDiscAdjMultizoneDriver.html#a7a644ee8fc2141f2083b91afd2cab856" title="Evaluate the gradient of the objective function and add to &quot;External&quot;." alt="" coords="504,1563,764,1605"/>
+<area shape="rect" id="node23" href="$classCIteration.html#a12a5de315a443df924d6ff337ea819f3" title="A virtual member." alt="" coords="1098,1528,1285,1555"/>
+<area shape="rect" id="node26" href="$classCDiscAdjMultizoneDriver.html#a6858d2798084ac58973760b98cbc268d" title="Record one iteration of the primal problem within each zone." alt="" coords="837,1479,1021,1521"/>
+<area shape="rect" id="node27" href="$classCDiscAdjMultizoneDriver.html#a9d998fae109427a1061069800ad931c3" title="Evaluate sensitivites for the current adjoint solution and output files." alt="" coords="542,949,726,990"/>
+<area shape="rect" id="node30" href="$classCConfig.html#aedf3896a475f7729d217dfe27f6da3e8" title="Set the start time to track a phase of the code (preprocessing, compute, output)." alt="" coords="1105,772,1277,799"/>
+<area shape="rect" id="node31" href="$classCBaseMPIWrapper.html#adcf32aa628d4b515e8835bc5c56fbf08" title=" " alt="" coords="1095,848,1288,875"/>
+<area shape="rect" id="node33" href="$classCDiscAdjMultizoneDriver.html#a34a0cbc7038b9cf16d5aeab16c4c06f0" title="Puts BGSSolution_k back into Solution." alt="" coords="812,655,1047,697"/>
+<area shape="rect" id="node34" href="$classCDriver.html#a0501df3d3cf150fc74e2a4f8c2c2dae8" title="Get the solution of all solvers (adjoint or primal) in a zone." alt="" coords="1102,1143,1281,1169"/>
+<area shape="rect" id="node35" href="$classCOutput.html#a585498dfa05e2c633f5e556220ce1fa2" title="Get convergence of the problem." alt="" coords="539,1772,729,1799"/>
+<area shape="rect" id="node36" href="$classCConfig.html#a898cd36650fcc3a639c12e9b8ab8373a" title="Get the number of outer iterations." alt="" coords="546,1823,722,1849"/>
+<area shape="rect" id="node37" href="$classCConfig.html#ae55bdae4e8b4e61fd07a857005cc6799" title="Provides the restart information." alt="" coords="559,1873,709,1900"/>
+<area shape="rect" id="node38" href="$classCDiscAdjMultizoneDriver.html#a0e412d3476c8552ca4bd13cb4f050e0f" title="Run one inner iteration for a given zone." alt="" coords="837,1245,1021,1286"/>
+<area shape="rect" id="node42" href="$classCConfig.html#af57608dd44a9211af952763a67cbb2dc" title="Set the current FSI iteration number." alt="" coords="1113,1427,1269,1453"/>
+<area shape="rect" id="node44" href="$classCDiscAdjMultizoneDriver.html#a9b6405abc0dbfc7983bc133af9fa2aed" title="Run inner iterations using a Krylov method (GMRES atm)." alt="" coords="542,1135,726,1177"/>
+<area shape="rect" id="node47" href="$classCOutput.html#adab3a546cdcbe8f7123063b5489d9d2d" title=" " alt="" coords="527,457,741,498"/>
+<area shape="rect" id="node48" href="$classCConfig.html#a83b944512ee75c2997399e9ab39bd2db" title="Set the current FSI iteration number." alt="" coords="555,523,713,549"/>
+<area shape="rect" id="node49" href="$classCDiscAdjMultizoneDriver.html#a0376ab7c0cb40fa091ff34d3b99e597c" title="Compute BGS residuals." alt="" coords="542,574,726,615"/>
+<area shape="rect" id="node50" href="$classCDiscAdjMultizoneDriver.html#a9134ef81e03db2467dc8bfa67d2ab636" title="Extract contribution of iZone to jZone with BGS relaxation." alt="" coords="542,793,726,834"/>
+<area shape="rect" id="node17" href="$classCSolver.html#a0ece4e9ec78dcbcb3b9d980f01f7b17c" title="Add External to Solution vector." alt="" coords="1108,1077,1275,1118"/>
+<area shape="rect" id="node20" href="$classCDiscAdjMultizoneDriver.html#af87bb3b1389bed8051be0136f3e6c0c6" title="Add Solution vector to External." alt="" coords="837,1647,1021,1689"/>
+<area shape="rect" id="node21" href="$namespaceAD.html#a02ec06d93629cdd0724d268318d4dfe7" title="Computes the adjoints, i.e. the derivatives of the output with respect to the input variables." alt="" coords="1357,1317,1511,1344"/>
+<area shape="rect" id="node22" href="$classCSolver.html#a2e07e4867f2db7ac98c8332c9476c361" title="Get the maximal residual, this is useful for the convergence history." alt="" coords="848,1596,1011,1623"/>
+<area shape="rect" id="node24" href="$classCDiscAdjMultizoneDriver.html#a249f7719c986035cde861eed2c61b4dd" title="Initialize the adjoint value of the objective function." alt="" coords="837,1362,1021,1403"/>
+<area shape="rect" id="node25" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="1357,1423,1511,1449"/>
+<area shape="rect" id="node28" href="$classCIteration.html#a18fa7f7314e6b88f8c69e4fee4ba0f11" title=" " alt="" coords="1336,1096,1532,1123"/>
+<area shape="rect" id="node29" href="$classCMultizoneDriver.html#ad9b12dc5194755d1a06023898b056bcb" title="Output the solution in solution file." alt="" coords="836,873,1023,900"/>
+<area shape="rect" id="node32" href="$classCIteration.html#ad306d277e9a09f6e6c6d08590aa234a6" title="A virtual member." alt="" coords="843,823,1015,849"/>
+<area shape="rect" id="node39" href="$classCDiscAdjMultizoneDriver.html#a1f5b9fcca6fa5bc7d34ec6ef98cd609b" title="Summary of all routines to evaluate the adjoints in iZone." alt="" coords="1099,1310,1283,1351"/>
+<area shape="rect" id="node40" href="$classCIteration.html#adce4676bfff578335787fdb9437f1d00" title="A virtual member." alt="" coords="1119,1376,1263,1403"/>
+<area shape="rect" id="node41" href="$classCDriver.html#a837665d06bbba72637c54cd7316d766c" title="Set the solution of all solvers (adjoint or primal) in a zone." alt="" coords="1103,1193,1280,1220"/>
+<area shape="rect" id="node43" href="$classCDiscAdjMultizoneDriver.html#a06b9649273f7bdd9b06b1bb9a91314bb" title="Puts Solution into SolutionOld." alt="" coords="1095,1245,1288,1286"/>
+<area shape="rect" id="node46" href="$classCVariable.html#aa47456564bac33106a460be201d4c843" title="Set the value of the solution in the previous BGS subiteration." alt="" coords="822,365,1037,392"/>
+</map>

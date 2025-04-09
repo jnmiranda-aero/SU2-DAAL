@@ -1,0 +1,18 @@
+<map id="CEulerSolver::PrepareImplicitIteration" name="CEulerSolver::PrepareImplicitIteration">
+<area shape="rect" id="node1" title="Prepare an implicit iteration." alt="" coords="5,122,217,163"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a077d982f11185a84929f8fec40b79938" title="Get the kind of upwind convective numerical scheme for the flow equations." alt="" coords="280,5,507,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#aed4367265f117d29a053cfbcd3bd7b8b" title="Get information about the Low Mach Preconditioning." alt="" coords="265,56,521,83"/>
+<area shape="rect" id="node4" href="$classCFVMFlowSolverBase.html#a46cfc420fe60646eb1634ca3f9149a05" title="Generic implementation to prepare an implicit iteration with an optional preconditioner applied to th..." alt="" coords="276,107,511,178"/>
+<area shape="rect" id="node5" href="$classC2DContainer.html#adefb48b593f76aa322e228fea8f76127" title="Request a change of size." alt="" coords="314,203,473,229"/>
+<area shape="rect" id="node6" href="$classCEulerSolver.html#a0c511d1e0a149308c0efffa9e6b9db85" title="Compute the preconditioner for convergence acceleration by Roe&#45;Turkel method." alt="" coords="279,253,507,280"/>
+<area shape="rect" id="node7" href="$classCEulerVariable.html#acaf8904fb43c0f0c8600c0da5b5397af" title="Get the enthalpy of the flow." alt="" coords="570,72,775,99"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a5a078901bb388e9caa9cb856e3348f0b" title="Get the value of the Mach number (velocity divided by speed of sound)." alt="" coords="603,123,742,149"/>
+<area shape="rect" id="node10" href="$classCConfig.html#a2d62639d0692bae39a8955aafab3db9f" title="Get the minimum value of Beta for Roe&#45;Turkel preconditioner." alt="" coords="573,173,773,200"/>
+<area shape="rect" id="node11" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="589,224,757,251"/>
+<area shape="rect" id="node12" href="$classCEulerVariable.html#ab2b300dcf4067e7b996d7c9aaa02939f" title="Get the speed of the sound." alt="" coords="579,275,767,317"/>
+<area shape="rect" id="node14" href="$classCFlowVariable.html#a05985b673db2741ecca6077bf6687089" title="Get the squared norm of the velocity." alt="" coords="569,341,776,368"/>
+<area shape="rect" id="node15" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="618,392,727,419"/>
+<area shape="rect" id="node16" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="649,443,696,469"/>
+<area shape="rect" id="node8" href="$structCEulerVariable_1_1CIndices.html#a51689ac54181da96fae9c8556f287796" title=" " alt="" coords="824,65,1004,106"/>
+<area shape="rect" id="node13" href="$structCEulerVariable_1_1CIndices.html#a638b7303e124cee6894893a22583d9c3" title=" " alt="" coords="824,275,1004,317"/>
+</map>

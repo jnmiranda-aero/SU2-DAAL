@@ -1,0 +1,11 @@
+<map id="CPoint::SetGlobalIndex" name="CPoint::SetGlobalIndex">
+<area shape="rect" id="node1" title="Set the global index in a parallel computation." alt="" coords="764,141,935,167"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#a5b18644d915d3e44b80d64abae332943" title="Routine to load the CGNS grid points from a single zone into the proper SU2 data structures." alt="" coords="501,5,716,47"/>
+<area shape="rect" id="node5" href="$classCPhysicalGeometry.html#af0b666209dbd671fdaf3104cbcda5445" title="Load the local grid points after partitioning (owned and ghost) into the geometry class objects." alt="" coords="530,72,687,113"/>
+<area shape="rect" id="node7" href="$classCPhysicalGeometry.html#aa222a46292ba9ba3b03e581587bdbfb6" title="Reads for the FEM solver the geometry of the grid and adjust the boundary conditions with the configu..." alt="" coords="211,136,453,177"/>
+<area shape="rect" id="node8" href="$classCPhysicalGeometry.html#ab884b171a834b35e6ee2829af7c9d859" title="Reads for the FEM solver the geometry of the grid and adjust the boundary conditions with the configu..." alt="" coords="217,201,447,243"/>
+<area shape="rect" id="node9" href="$classCPhysicalGeometry.html#a15b82329219f6927e581bb6c70edbc5a" title="Set a renumbering using a Reverse Cuthill&#45;McKee Algorithm." alt="" coords="530,243,687,284"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#a88fc7f2ba5656a97d1e34884b51ae984" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file in para..." alt="" coords="253,5,411,47"/>
+<area shape="rect" id="node4" href="$classCPhysicalGeometry.html#a075a737b341a64de5463ddd41096692e" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file." alt="" coords="5,136,163,177"/>
+<area shape="rect" id="node6" href="$classCPhysicalGeometry.html#addad3f466423ba9243a396763d442f9a" title="Accepts a geometry container holding a linearly partitioned grid with coloring performed by ParMETIS,..." alt="" coords="253,71,411,112"/>
+</map>

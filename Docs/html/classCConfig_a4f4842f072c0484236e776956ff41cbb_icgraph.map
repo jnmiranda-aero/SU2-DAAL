@@ -1,0 +1,19 @@
+<map id="CConfig::GetPhysicalTime" name="CConfig::GetPhysicalTime">
+<area shape="rect" id="node1" title="Get the current physical time." alt="" coords="808,274,999,301"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__EulerSolver.html#a0e63fc77fc810025d45bfd8e0bf4d6dd" title="Impose the user customized boundary condition. It is a virtual function, because for Navier&#45;Stokes it..." alt="" coords="572,5,739,47"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__NSSolver.html#acd2193a119fc1162909b554e8acf11b2" title="Impose the user customized boundary condition." alt="" coords="566,71,745,112"/>
+<area shape="rect" id="node4" href="$classCFVMFlowSolverBase.html#a51801a9f54e9b4184f58a7becda5bd04" title="Impose a custom or verification boundary condition." alt="" coords="573,136,737,177"/>
+<area shape="rect" id="node5" href="$classCFEM__DG__EulerSolver.html#a141f2b877000daec03e9aeb68ce6aebf" title="Compute the global error measures (L2, Linf) for verification cases." alt="" coords="559,201,752,243"/>
+<area shape="rect" id="node8" href="$classCFVMFlowSolverBase.html#aaad58ddeb885dd666534a526846d0991" title="Compute the global error measures (L2, Linf) for verification cases." alt="" coords="559,267,752,308"/>
+<area shape="rect" id="node11" href="$classCIncEulerSolver.html#a5f9ced3a85731749b16d6f1bac9460f6" title="Source term integration." alt="" coords="567,332,743,373"/>
+<area shape="rect" id="node12" href="$classCEulerSolver.html#a3173ebda0dc28e9fc17ced219fc60e9a" title="Source term integration." alt="" coords="577,397,734,439"/>
+<area shape="rect" id="node13" href="$classCFEM__DG__EulerSolver.html#ae6c2fff0649a4d8fd723ee9776778003" title="Compute the volume contributions to the spatial residual. It is a virtual function,..." alt="" coords="572,463,739,504"/>
+<area shape="rect" id="node17" href="$classCFEM__DG__NSSolver.html#ace5ac45857734f2e764b4072249e5c2d" title="Compute the volume contributions to the spatial residual." alt="" coords="551,528,760,569"/>
+<area shape="rect" id="node6" href="$classCFEM__DG__EulerSolver.html#a5f05845eb2f1bb8619d7da896e6aa3f3" title="Update the solution using the classical fourth&#45;order Runge&#45;Kutta scheme." alt="" coords="298,136,474,177"/>
+<area shape="rect" id="node7" href="$classCFEM__DG__EulerSolver.html#a980de4518bb9a77a25146d56ae072acf" title="Update the solution using a Runge&#45;Kutta scheme." alt="" coords="303,201,469,243"/>
+<area shape="rect" id="node9" href="$classCFVMFlowSolverBase.html#a3eb0fbabf1ce42ccc0fe626473800e09" title="Generic implementation to complete an implicit iteration, i.e. update the solution." alt="" coords="269,267,503,308"/>
+<area shape="rect" id="node10" href="$classCFVMFlowSolverBase.html#ac30c9255150f29da2915a85264a1676c" title="Generic implementation of explicit iterations with a preconditioner." alt="" coords="298,332,474,373"/>
+<area shape="rect" id="node14" href="$classCFEM__DG__EulerSolver.html#ae807ca68b2d465020b63d617d54e339a" title="Function, which processes the list of tasks to be executed by the DG solver." alt="" coords="303,463,469,504"/>
+<area shape="rect" id="node15" href="$classCFEM__DG__EulerSolver.html#a0fe3772f40c29248f26fb08fa215af4e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="5,429,221,471"/>
+<area shape="rect" id="node16" href="$classCFEM__DG__EulerSolver.html#a370cb798d700bb080b52ec22834f78da" title="Function, which controls the computation of the spatial Jacobian." alt="" coords="19,495,208,536"/>
+</map>

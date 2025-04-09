@@ -1,0 +1,6 @@
+<map id="CConfig::SetnBlades" name="CConfig::SetnBlades">
+<area shape="rect" id="node1" title="number Turbomachinery blades computed using the pitch information." alt="" coords="484,42,637,69"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#af64e3443a9381960d56065bd61802ab3" title="Set turbo boundary vertex." alt="" coords="210,5,407,47"/>
+<area shape="rect" id="node3" href="$classCDriver.html#ad384010214279eafb529661d49312c1e" title="Initiate value for static mesh movement such as the gridVel for the ROTATING frame." alt="" coords="181,71,436,98"/>
+<area shape="rect" id="node4" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="5,71,133,98"/>
+</map>

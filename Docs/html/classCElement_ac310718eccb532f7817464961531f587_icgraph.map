@@ -1,0 +1,5 @@
+<map id="CElement::GetRef_Coord" name="CElement::GetRef_Coord">
+<area shape="rect" id="node1" title="Get the value of the coordinate of the nodes in the reference configuration." alt="" coords="296,46,479,73"/>
+<area shape="rect" id="node2" href="$classCFEALinearElasticity.html#a288e8d51aa0dbb19df8abbbbcdbac73d" title="Compute averaged nodal stresses (for post processing)." alt="" coords="5,5,248,47"/>
+<area shape="rect" id="node3" href="$classCFEALinearElasticity.html#a294b57499c97b1aeeb60330818f99ca4" title="Build the tangent stiffness matrix of an element." alt="" coords="29,71,225,112"/>
+</map>

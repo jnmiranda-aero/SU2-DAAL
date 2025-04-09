@@ -1,0 +1,5 @@
+<map id="CGeometry::GetCustomBoundaryTemperature" name="CGeometry::GetCustomBoundaryTemperature">
+<area shape="rect" id="node1" title="Get the value of the customized temperature at a specified vertex on a specified marker." alt="" coords="295,27,533,69"/>
+<area shape="rect" id="node2" href="$classCHeatSolver.html#a8f1b5ef62ec17b74df8c3f95b6a55e31" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="5,5,247,32"/>
+<area shape="rect" id="node3" href="$classCMultiGridGeometry.html#a8135342304e8dc5273be74bca8d391fc" title="Set a representative wall temperature of the agglomerated control volume on a particular boundary mar..." alt="" coords="15,57,237,98"/>
+</map>

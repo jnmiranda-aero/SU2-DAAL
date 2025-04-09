@@ -1,0 +1,8 @@
+<map id="CFEASolver::BC_Clamped_Post" name="CFEASolver::BC_Clamped_Post">
+<area shape="rect" id="node1" title="Enforce the solution to be 0 in the clamped nodes &#45; Avoids accumulation of numerical error." alt="" coords="5,107,228,133"/>
+<area shape="rect" id="node2" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="304,5,443,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a85d2e3cf43b77c63642c40c235b853f3" title="Check if the multizone problem is solved for time domain." alt="" coords="276,56,471,83"/>
+<area shape="rect" id="node4" href="$classCVariable.html#a22fbbd7bc6491672843000644a05c6a5" title="Set the value of the solution, all variables." alt="" coords="290,107,457,133"/>
+<area shape="rect" id="node5" href="$classCVariable.html#af87029baec777039085fb1ff17ee9555" title="Set the value of the acceleration (Structural Analysis)." alt="" coords="290,158,457,199"/>
+<area shape="rect" id="node6" href="$classCVariable.html#a5c1430d98acd399f1371f23e6fae053f" title="Set the value of the velocity (Structural Analysis)." alt="" coords="277,224,470,251"/>
+</map>

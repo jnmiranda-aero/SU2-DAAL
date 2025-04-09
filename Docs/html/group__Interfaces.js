@@ -46,6 +46,7 @@ var group__Interfaces =
       [ "CConjugateHeatInterface", "classCConjugateHeatInterface.html#a5f515120305532d9b9078a94b96c33fb", null ],
       [ "CConjugateHeatInterface", "classCConjugateHeatInterface.html#a35ae62e37a15691a03094eeb3dc7bd0b", null ],
       [ "GetDonor_Variable", "classCConjugateHeatInterface.html#a11264c7dda7df147258e1ee89b315ea8", null ],
+      [ "SetContactResistance", "classCConjugateHeatInterface.html#aaa92586de27937ecc09b032e3a299f27", null ],
       [ "SetTarget_Variable", "classCConjugateHeatInterface.html#a28e8fa418b1a7247255e1157a4969750", null ]
     ] ],
     [ "CDiscAdjFlowTractionInterface", "classCDiscAdjFlowTractionInterface.html", [
@@ -124,6 +125,7 @@ var group__Interfaces =
       [ "RecoverTarget_Variable", "classCInterface.html#aecc0748fd0568e1e5364037e3da31c42", null ],
       [ "SetAverageTurboGeoValues", "classCInterface.html#a851a13a69d53ae621edc98816a0b8d16", null ],
       [ "SetAverageValues", "classCInterface.html#a00c51b5553f761b1afc914f0fb6172e3", null ],
+      [ "SetContactResistance", "classCInterface.html#a22ee73d459924bbe3381e0666baae9ca", null ],
       [ "SetSpanWiseLevels", "classCInterface.html#afbfcc3a7a6cbcff075d02cd2c09ddef9", null ],
       [ "SetTarget_Variable", "classCInterface.html#ab0acd2300d065c1f6018f4e516104ca5", null ],
       [ "Donor_Variable", "classCInterface.html#a746e97c463d8aca02c5d0e672327570e", null ],
@@ -137,5 +139,5 @@ var group__Interfaces =
       [ "Target_Variable", "classCInterface.html#aab6ebc437e84d8c421430f35c345cc84", null ],
       [ "valAggregated", "classCInterface.html#aee26b00dfacfb05a5227781a30223603", null ]
     ] ],
-    [ "CInterpolatorFactory::CreateInterpolator", "group__Interfaces.html#ga844fa74779f466148d9b5878f09e2f34", null ]
+    [ "CreateInterpolator", "group__Interfaces.html#ga844fa74779f466148d9b5878f09e2f34", null ]
 ];

@@ -1,0 +1,9 @@
+<map id="CFluidModel::SetEnergy_Prho" name="CFluidModel::SetEnergy_Prho">
+<area shape="rect" id="node1" title="virtual member that would be different for each gas model implemented" alt="" coords="581,71,795,98"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#ad467ce7e89c0910acaf6ce91eb493fb0" title="Apply low Mach number correction to the primitives at two points, usually connected by an edge." alt="" coords="275,5,508,47"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="249,71,533,98"/>
+<area shape="rect" id="node6" href="$classCFEM__DG__EulerSolver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="291,123,492,164"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#aa9729921eed9546daca6ca891ad2a9bb" title="Compute the spatial integration using a upwind scheme." alt="" coords="22,5,185,47"/>
+<area shape="rect" id="node5" href="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460" title="Main constructor of this class." alt="" coords="5,71,201,98"/>
+<area shape="rect" id="node7" href="$classCFEM__DG__EulerSolver.html#a70d30ef9e7cd7620d54ec73f4b1ed28c" title=" " alt="" coords="16,123,191,164"/>
+</map>

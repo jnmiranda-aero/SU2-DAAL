@@ -1,0 +1,8 @@
+<map id="CEulerVariable::GetSecondary" name="CEulerVariable::GetSecondary">
+<area shape="rect" id="node1" title="Get all the secondary variables." alt="" coords="284,107,500,133"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a40fad0a57e8dcba8a8f4d4fa8eab02f0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="35,5,206,32"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a4ad4a65b3fc5a51b1561436736f7f7ca" title="Impose the boundary condition using characteristic recostruction." alt="" coords="23,56,219,83"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#a8e036f2dff1d945d814c93a74159a3cc" title="Impose the boundary condition using characteristic recostruction." alt="" coords="5,107,236,133"/>
+<area shape="rect" id="node5" href="$classCEulerSolver.html#a3173ebda0dc28e9fc17ced219fc60e9a" title="Source term integration." alt="" coords="42,158,199,199"/>
+<area shape="rect" id="node6" href="$classCEulerSolver.html#aa9729921eed9546daca6ca891ad2a9bb" title="Compute the spatial integration using a upwind scheme." alt="" coords="39,223,202,265"/>
+</map>

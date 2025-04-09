@@ -1,0 +1,14 @@
+<map id="CFEM_DG_EulerSolver::BC_Supersonic_Outlet" name="CFEM_DG_EulerSolver::BC_Supersonic_Outlet">
+<area shape="rect" id="node1" title="Impose the supersonic outlet boundary condition. It is a virtual function, because for Navier&#45;Stokes ..." alt="" coords="5,89,179,131"/>
+<area shape="rect" id="node2" href="$classCFEMStandardElementBase.html#aa5ad06a05a1d7b66bccca65521168a3b" title="Function, which makes available the number of integration points for this standard element." alt="" coords="508,5,711,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a82d3faf3154d13bf694af4d818ef91c7" title="Function to make available the matrix size in vectorization in order to optimize the gemm performance..." alt="" coords="227,63,457,90"/>
+<area shape="rect" id="node4" href="$classCFEM__DG__EulerSolver.html#a79debb4e2ee70feac94e9a420705dbf9" title="Function, which computes the left state of a boundary face." alt="" coords="239,114,445,170"/>
+<area shape="rect" id="node12" href="$classCFEM__DG__EulerSolver.html#ad358fa06c0e5b2762ad3258eb2c677e2" title="Template function, which determines some meta data for the chunk of elements/faces that must be treat..." alt="" coords="251,195,433,236"/>
+<area shape="rect" id="node5" href="$classCBlasStructure.html#ad282634317e0a32bce7896e2ddc40043" title="Function, which carries out a dense matrix product. It is a limited version of the BLAS gemm function..." alt="" coords="525,71,693,98"/>
+<area shape="rect" id="node10" href="$classCFEMStandardBoundaryFace.html#a19d1d508495d95239567972e425fd0c3" title="Function, which makes available the face basis functions in the integration points." alt="" coords="505,123,713,164"/>
+<area shape="rect" id="node11" href="$classCFEMStandardBoundaryFace.html#a26266f4d68d95c22bbb949fe6d8f5db6" title="Function, which makes available the number of DOFs of the face." alt="" coords="505,188,713,229"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a2843524e5245c2c6128acdd20e746f4a" title="Start the timer for profiling subroutines." alt="" coords="763,46,919,73"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a695fe18134532a43b328845dd0cce3bb" title="Stop the timer for the GEMM profiling and store results." alt="" coords="761,97,920,123"/>
+<area shape="rect" id="node7" href="$classCBaseMPIWrapper.html#adcf32aa628d4b515e8835bc5c56fbf08" title=" " alt="" coords="968,71,1161,98"/>
+<area shape="rect" id="node8" href="$omp__structure_8hpp.html#a649bd48ab038a72108f11f5a85316266" title="Return the wall time." alt="" coords="1209,71,1336,98"/>
+</map>

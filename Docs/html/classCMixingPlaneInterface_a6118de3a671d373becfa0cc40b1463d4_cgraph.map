@@ -1,0 +1,10 @@
+<map id="CMixingPlaneInterface::GetDonor_Variable" name="CMixingPlaneInterface::GetDonor_Variable">
+<area shape="rect" id="node1" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="5,150,175,191"/>
+<area shape="rect" id="node2" href="$classCSolver.html#aad101ce552d20296ad558407096c90a9" title="A virtual member." alt="" coords="225,5,432,32"/>
+<area shape="rect" id="node3" href="$classCSolver.html#a46d0aa6393e6ede628db41a4b70b6d7e" title="A virtual member." alt="" coords="236,56,421,83"/>
+<area shape="rect" id="node4" href="$classCSolver.html#a9068dae0cde73a012a407cc31971bfac" title="A virtual member." alt="" coords="241,107,416,133"/>
+<area shape="rect" id="node5" href="$classCSolver.html#a957050b63cf2ffe713ef82612405466e" title="A virtual member." alt="" coords="227,157,430,184"/>
+<area shape="rect" id="node6" href="$classCSolver.html#a518cb7849f092b7d3cdb11d8122c87e4" title="A virtual member." alt="" coords="223,208,435,235"/>
+<area shape="rect" id="node7" href="$classCSolver.html#af97ace4956ef36bea8b9c7dce22d711b" title="A virtual member." alt="" coords="233,259,424,301"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a42cf888b42ce34079b2e3987bbf147dd" title="Get the kind of the turbulence model." alt="" coords="245,325,412,366"/>
+</map>

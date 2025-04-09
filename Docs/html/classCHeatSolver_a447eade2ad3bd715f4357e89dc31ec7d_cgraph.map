@@ -1,0 +1,24 @@
+<map id="CHeatSolver::Heat_Fluxes" name="CHeatSolver::Heat_Fluxes">
+<area shape="rect" id="node1" title="Evaluate heat&#45;flux related objectives." alt="" coords="5,521,196,548"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="253,5,463,32"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="250,56,466,83"/>
+<area shape="rect" id="node4" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="291,107,425,133"/>
+<area shape="rect" id="node5" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="285,157,431,184"/>
+<area shape="rect" id="node6" href="$classCConfig.html#ab99f4c81b2b9dd7e4b0f917ad8c5e829" title="Get the reference value for the heat flux." alt="" coords="259,208,457,235"/>
+<area shape="rect" id="node7" href="$classCConfig.html#aad944681c909f30b1c07155cd9c832c0" title="Get the wall temperature (static) at an isothermal boundary." alt="" coords="271,259,445,301"/>
+<area shape="rect" id="node8" href="$classCConfig.html#ae003cd8f406eaaa91849a774c9a20730" title="Get the kind of boundary for each marker." alt="" coords="284,325,432,366"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a70fa75374f533da62b71207d589d6211" title="Get the monitoring information for a marker val_marker." alt="" coords="284,390,432,431"/>
+<area shape="rect" id="node10" href="$classCConfig.html#ab8c9c1f45950a29355be4ff357049440" title="Get the index of the surface defined in the geometry file." alt="" coords="284,455,432,497"/>
+<area shape="rect" id="node11" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="289,521,427,548"/>
+<area shape="rect" id="node12" href="$classCVertex.html#a57cacfe764770e6c0e54c278cb584f7c" title="Copy the the normal vector of a face." alt="" coords="282,572,434,599"/>
+<area shape="rect" id="node13" href="$classCVertex.html#ab8b0e96f9384b0a861c7a70616976b75" title="Get the value of the closest neighbor." alt="" coords="282,623,434,665"/>
+<area shape="rect" id="node14" href="$classCConfig.html#a502035c2b049606186e11e01b7df626a" title="Get the value of the laminar Prandtl number." alt="" coords="266,689,450,716"/>
+<area shape="rect" id="node15" href="$classCHeatVariable.html#a199a0599cf7453d3eb392d14e3fcc8af" title="Get the temperature of the point." alt="" coords="244,740,472,767"/>
+<area shape="rect" id="node16" href="$classCConfig.html#a218d027f78cd801a8734a2d4581591ad" title="Get the value of the reference temperature for non&#45;dimensionalization." alt="" coords="251,791,465,817"/>
+<area shape="rect" id="node17" href="$classCConfig.html#a5f2a8d5a5bd497c507d2799926161259" title="Get the value of the thermal diffusivity for solids." alt="" coords="246,841,470,868"/>
+<area shape="rect" id="node18" href="$classCConfig.html#a07714d2b67cf861cdb43891e2ff4f318" title="Get the value of the non&#45;dimensionalized freestream viscosity." alt="" coords="277,893,439,934"/>
+<area shape="rect" id="node19" href="$group__GeometryToolbox.html#gad8b24e50333c9a8378f7abf18222f36a" title=" " alt="" coords="267,1009,449,1036"/>
+<area shape="rect" id="node20" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="614,959,661,985"/>
+<area shape="rect" id="node21" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="520,1009,755,1036"/>
+<area shape="rect" id="node22" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="803,1009,1020,1036"/>
+</map>

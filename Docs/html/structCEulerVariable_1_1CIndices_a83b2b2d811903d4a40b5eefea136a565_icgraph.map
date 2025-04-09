@@ -1,0 +1,11 @@
+<map id="CEulerVariable::CIndices::EddyViscosity" name="CEulerVariable::CIndices::EddyViscosity">
+<area shape="rect" id="node1" title=" " alt="" coords="545,125,725,166"/>
+<area shape="rect" id="node2" href="$classCIncNSVariable.html#a23796d143bed45092b61f485ad383995" title="Get the eddy viscosity of the flow." alt="" coords="255,5,497,32"/>
+<area shape="rect" id="node3" href="$classCNSVariable.html#a17d6cde8e1ad49e38947feafb3fbc529" title="Get the eddy viscosity of the flow." alt="" coords="264,107,488,133"/>
+<area shape="rect" id="node4" href="$classCNSVariable.html#a71e190265f85ef8f0cb414275dba59f7" title="Set the new solution for Roe Dissipation." alt="" coords="28,57,184,98"/>
+<area shape="rect" id="node5" href="$classCNSVariable.html#ae8391103a386186f112deaa91e04cee7" title="Set the new solution for Roe Dissipation." alt="" coords="28,129,184,170"/>
+<area shape="rect" id="node6" href="$classCIncNSVariable.html#a917a2a7fe8a736646f6297b7955e72e6" title=" " alt="" coords="255,208,497,235"/>
+<area shape="rect" id="node8" href="$classCNSVariable.html#a0eb773011f19e8a2a661a48ea23d23b1" title=" " alt="" coords="265,259,487,285"/>
+<area shape="rect" id="node7" href="$classCIncNSVariable.html#a34a2a9cfecec39f383e2e7551b4e7736" title="Set all the primitive variables for incompressible flows." alt="" coords="5,208,207,235"/>
+<area shape="rect" id="node9" href="$classCNSVariable.html#a0db8c1ede5090174259a69548d20c9fe" title="Set all the primitive variables for compressible flows." alt="" coords="15,259,197,285"/>
+</map>

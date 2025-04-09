@@ -1,0 +1,16 @@
+<map id="CConfig::GetKind_Upwind_Flow" name="CConfig::GetKind_Upwind_Flow">
+<area shape="rect" id="node1" title="Get the kind of upwind convective numerical scheme for the flow equations." alt="" coords="608,225,835,251"/>
+<area shape="rect" id="node2" href="$classCNEMOEulerSolver.html#af35c1b20663aa6051487296077034f05" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="343,5,514,47"/>
+<area shape="rect" id="node3" href="$classCNEMOEulerSolver.html#ad9c735fad084c25c2b24b9ccd3503fa8" title="Impose the outlet boundary condition." alt="" coords="343,71,514,112"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#a0d6f93feba8d6aad18edf3594213042b" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="297,137,560,163"/>
+<area shape="rect" id="node7" href="$classCNEMOEulerSolver.html#a27f21d6dbfb7f6c600f759caf7625087" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="323,188,535,229"/>
+<area shape="rect" id="node10" href="$classCDriver.html#a5294ec170c889821b57d4ec7b8dc2c3c" title="Definition and allocation of all solver classes." alt="" coords="330,254,527,281"/>
+<area shape="rect" id="node12" href="$classCEulerSolver.html#afd623280ddc50fbc59b7ddcc9e638217" title="Prepare an implicit iteration." alt="" coords="323,305,535,347"/>
+<area shape="rect" id="node13" href="$classCEulerSolver.html#aa9729921eed9546daca6ca891ad2a9bb" title="Compute the spatial integration using a upwind scheme." alt="" coords="347,371,510,412"/>
+<area shape="rect" id="node14" href="$classCNEMOEulerSolver.html#a427284b43fbe1f9c373096cc4bbe5781" title="Compute the spatial integration using a upwind scheme." alt="" coords="327,436,530,477"/>
+<area shape="rect" id="node5" href="$classCEulerSolver.html#ab08b6aa95648e7ab973f9f247fe54b31" title="Compute primitive variables and their gradients." alt="" coords="25,86,229,113"/>
+<area shape="rect" id="node6" href="$classCNSSolver.html#af83e7cb773797239cdc98fc4d202d32f" title="Restart residual and compute gradients." alt="" coords="33,137,222,163"/>
+<area shape="rect" id="node8" href="$classCNEMOEulerSolver.html#a3c5a59b5c1c9195757626bff151dbaa9" title="Compute the velocity^2, SoundSpeed, Pressure, Enthalpy, Viscosity." alt="" coords="5,187,249,214"/>
+<area shape="rect" id="node9" href="$classCNEMONSSolver.html#aef1c13c42cd8103377619f7d94660d6a" title="Restart residual and compute gradients." alt="" coords="13,238,242,265"/>
+<area shape="rect" id="node11" href="$classCDriver.html#a3fca4a013a6efa9bbb38fe78a86b5f3d" title="Constructor of the class." alt="" coords="63,289,191,315"/>
+</map>

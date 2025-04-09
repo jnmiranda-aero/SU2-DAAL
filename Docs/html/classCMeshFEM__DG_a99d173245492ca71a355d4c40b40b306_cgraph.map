@@ -1,0 +1,12 @@
+<map id="CMeshFEM_DG::TimeCoefficientsPredictorADER_DG" name="CMeshFEM_DG::TimeCoefficientsPredictorADER_DG">
+<area shape="rect" id="node1" title="Function, which computes the time coefficients for the ADER&#45;DG predictor step." alt="" coords="5,195,244,236"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="583,330,764,357"/>
+<area shape="rect" id="node4" href="$classCConfig.html#aafef6383db26beffe0b0379d349cdf1b" title="Get the number time DOFs for ADER&#45;DG." alt="" coords="292,55,535,82"/>
+<area shape="rect" id="node5" href="$classCConfig.html#aa432bc27281cf5258b0a7ad68c814f4f" title="Get the number time integration points for ADER&#45;DG." alt="" coords="306,107,521,148"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a8c0bfead62747100e4e191f0b32c3221" title="Get the location of the time DOFs for ADER&#45;DG on the interval [&#45;1..1]." alt="" coords="296,173,531,199"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a58f6114fe4af9d47ba177b8058087e90" title="Get the location of the time integration points for ADER&#45;DG on the interval [&#45;1..1]." alt="" coords="310,224,517,265"/>
+<area shape="rect" id="node8" href="$classCFEMStandardElementBase.html#a34213421edd976bb6e16ed9e6781f06a" title="Function, which computes the gradient of the Vandermonde matrix for a standard 1D edge." alt="" coords="312,289,515,331"/>
+<area shape="rect" id="node9" href="$classCFEMStandardElementBase.html#af353f709009424cbc2a120f9d86c5443" title="Static function, which computes the inverse of the given square matrix." alt="" coords="312,355,515,396"/>
+<area shape="rect" id="node10" href="$classCFEMStandardElementBase.html#a66717d7ff89218ed12c27e5014e3cf22" title="Function, which computes the Vandermonde matrix for a standard 1D edge." alt="" coords="312,420,515,461"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="812,330,997,357"/>
+</map>

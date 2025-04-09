@@ -1,0 +1,5 @@
+<map id="CNEMONumerics::GetPMatrix_inv" name="CNEMONumerics::GetPMatrix_inv">
+<area shape="rect" id="node1" title="Computation of the matrix P^{&#45;1}, this matrix diagonalizes the conservative Jacobians in the form $P^..." alt="" coords="316,31,557,57"/>
+<area shape="rect" id="node2" href="$classCUpwMSW__NEMO.html#ab199750be78d7758f4dc6e0577ed5616" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="5,5,268,32"/>
+<area shape="rect" id="node3" href="$classCUpwRoe__NEMO.html#a4f71a3690ffedda364bd36453c08fed0" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="9,56,264,83"/>
+</map>

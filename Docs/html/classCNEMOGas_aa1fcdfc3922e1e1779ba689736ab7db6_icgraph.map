@@ -1,0 +1,17 @@
+<map id="CNEMOGas::ComputeSpeciesEve" name="CNEMOGas::ComputeSpeciesEve">
+<area shape="rect" id="node1" title="Compute vector of species V&#45;E energy." alt="" coords="1421,122,1659,149"/>
+<area shape="rect" id="node2" href="$classCNEMOEulerSolver.html#ac4a0f3b23aa55bcb5a9db6c928809c59" title="Recompute the extrapolated quantities, after MUSCL reconstruction, in a more thermodynamically consis..." alt="" coords="1136,5,1348,47"/>
+<area shape="rect" id="node4" href="$classCCentLax__NEMO.html#ab22a74c03b6c2cc3adeb4d172c93f8d1" title="Compute the flow residual using a Lax method." alt="" coords="1115,71,1369,98"/>
+<area shape="rect" id="node5" href="$classCUpwMSW__NEMO.html#ab199750be78d7758f4dc6e0577ed5616" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="1111,122,1373,149"/>
+<area shape="rect" id="node6" href="$classCUpwRoe__NEMO.html#a4f71a3690ffedda364bd36453c08fed0" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="1115,173,1369,199"/>
+<area shape="rect" id="node7" href="$classCNEMOEulerVariable.html#ad95dbeb3e9b5634fab7c6a768442c7b9" title="Set all the primitive and secondary variables from the conserved vector." alt="" coords="1163,224,1321,265"/>
+<area shape="rect" id="node3" href="$classCNEMOEulerSolver.html#a427284b43fbe1f9c373096cc4bbe5781" title="Compute the spatial integration using a upwind scheme." alt="" coords="850,5,1053,47"/>
+<area shape="rect" id="node8" href="$classCNEMONSVariable.html#aaf19bc249dae14fccd4a739901a83efd" title="Set all the primitive variables for compressible flows." alt="" coords="840,202,1063,229"/>
+<area shape="rect" id="node9" href="$classCNEMOEulerVariable.html#aaf86b1f3586f5b0b8015ddf1311d7ce4" title="Set all the primitive variables for compressible flows." alt="" coords="873,253,1030,295"/>
+<area shape="rect" id="node10" href="$classCNEMOEulerSolver.html#a1448f7a4a713ada22016532249a56a95" title="Impose a supersonic inlet boundary condition." alt="" coords="589,188,760,229"/>
+<area shape="rect" id="node11" href="$classCNEMOEulerSolver.html#a192d56e184ee19ad0b0dd3282b74f1e6" title="Contructor of the class." alt="" coords="557,253,792,295"/>
+<area shape="rect" id="node12" href="$classCNEMOEulerSolver.html#aa3498ebe1779c01daf8380d6a7d0aa7d" title="Computes primitive variables." alt="" coords="558,319,791,360"/>
+<area shape="rect" id="node13" href="$classCNEMOEulerSolver.html#a27f21d6dbfb7f6c600f759caf7625087" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="297,319,509,360"/>
+<area shape="rect" id="node14" href="$classCNEMOEulerSolver.html#a3c5a59b5c1c9195757626bff151dbaa9" title="Compute the velocity^2, SoundSpeed, Pressure, Enthalpy, Viscosity." alt="" coords="5,301,249,327"/>
+<area shape="rect" id="node15" href="$classCNEMONSSolver.html#aef1c13c42cd8103377619f7d94660d6a" title="Restart residual and compute gradients." alt="" coords="13,351,242,378"/>
+</map>

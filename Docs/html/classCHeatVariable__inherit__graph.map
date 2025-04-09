@@ -1,0 +1,5 @@
+<map id="CHeatVariable" name="CHeatVariable">
+<area shape="rect" id="node1" title="Class for defining the variables of the finite&#45;volume heat equation solver." alt="" coords="10,155,125,181"/>
+<area shape="rect" id="node2" href="$classCScalarVariable.html" title="Base class for defining the shared variables of scalar solvers." alt="" coords="5,80,129,107"/>
+<area shape="rect" id="node3" href="$classCVariable.html" title="Main class for defining the variables." alt="" coords="25,5,109,32"/>
+</map>

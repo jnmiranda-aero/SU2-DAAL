@@ -1,0 +1,5 @@
+<map id="CNEMONumerics::GetViscousProjFlux" name="CNEMONumerics::GetViscousProjFlux">
+<area shape="rect" id="node1" title="Compute the projection of the viscous fluxes into a direction." alt="" coords="309,27,524,69"/>
+<area shape="rect" id="node2" href="$classCAvgGrad__NEMO.html#a5095f559a521ac219d97b1d23ec79d71" title="Compute the viscous flow residual using an average of gradients." alt="" coords="5,5,261,32"/>
+<area shape="rect" id="node3" href="$classCAvgGradCorrected__NEMO.html#a842de3caec637a1fde8ba4409c5e48dd" title="Compute the viscous flow residual using an average of gradients." alt="" coords="35,57,231,98"/>
+</map>

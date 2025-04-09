@@ -1,0 +1,9 @@
+<map id="CGeometry::GetGlobalElementAdjacencyMatrix" name="CGeometry::GetGlobalElementAdjacencyMatrix">
+<area shape="rect" id="node1" title="Build the global (entire mesh!) adjacency matrix for the elements in compressed format...." alt="" coords="5,99,228,141"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="293,5,475,32"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="276,56,492,83"/>
+<area shape="rect" id="node5" href="$classCPrimalGrid.html#ab5fbcac35608267b8a6f02dcecef0f49" title="Get the element global index in a parallel computation." alt="" coords="279,107,489,133"/>
+<area shape="rect" id="node6" href="$classCPrimalGrid.html#aea7ebc2c6fc249328c81187827717fce" title="Get the elements that surround an element." alt="" coords="289,158,479,199"/>
+<area shape="rect" id="node7" href="$classCPrimalGrid.html#a97b8d237861fce6067367e3c06318c20" title="Get number of faces of the element." alt="" coords="297,224,471,251"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="540,5,725,32"/>
+</map>

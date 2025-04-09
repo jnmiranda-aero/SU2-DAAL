@@ -1,0 +1,12 @@
+<map id="reconstructPrimitives" name="reconstructPrimitives">
+<area shape="rect" id="node1" title="Retrieve primitive variables for points i/j, reconstructing them if needed." alt="" coords="5,183,167,209"/>
+<area shape="rect" id="node2" href="$group__SIMD.html#gaf7650d08e2a58ed700276ddc70f72f96" title=" " alt="" coords="263,5,309,32"/>
+<area shape="rect" id="node3" href="$group__VecExpr.html#gaa1a2012ba7d4b10571ed831a1e27167f" title=" " alt="" coords="228,56,344,83"/>
+<area shape="rect" id="node4" href="$group__VecExpr.html#ga7d93aa7e7e2e0b1e3b5b3bb60c8c73c1" title=" " alt="" coords="230,107,342,133"/>
+<area shape="rect" id="node5" href="$convection_2common_8hpp.html#a9881247736002af7eef1228f54b98d3c" title="Limited reconstruction with edge&#45;based limiter." alt="" coords="215,259,357,285"/>
+<area shape="rect" id="node7" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="405,284,515,311"/>
+<area shape="rect" id="node8" href="$convection_2common_8hpp.html#a24eff78f4695adbe8bd846a6145e0f5d" title="Limited reconstruction with point&#45;based limiter." alt="" coords="215,157,357,184"/>
+<area shape="rect" id="node9" href="$convection_2common_8hpp.html#a57c1cacef5c49b6c0234b9f023ad8551" title="Unlimited reconstruction." alt="" coords="223,208,349,235"/>
+<area shape="rect" id="node10" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="263,360,309,387"/>
+<area shape="rect" id="node6" href="$util_8hpp.html#a67fa0c6906ccf410ef038dede765af81" title="Dot product." alt="" coords="439,208,481,235"/>
+</map>

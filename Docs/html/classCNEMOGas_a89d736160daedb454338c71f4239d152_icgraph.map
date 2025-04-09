@@ -1,0 +1,9 @@
+<map id="CNEMOGas::ComputeMixtureEnergies" name="CNEMOGas::ComputeMixtureEnergies">
+<area shape="rect" id="node1" title="Compute mixture energies (total internal energy and vibrational energy)." alt="" coords="660,104,873,145"/>
+<area shape="rect" id="node2" href="$classCNEMOEulerSolver.html#ad9c735fad084c25c2b24b9ccd3503fa8" title="Impose the outlet boundary condition." alt="" coords="365,5,535,47"/>
+<area shape="rect" id="node3" href="$classCNEMOEulerVariable.html#a468c156010c928813b1a5dfa71c88938" title="Constructor of the class." alt="" coords="367,71,533,112"/>
+<area shape="rect" id="node4" href="$classCNEMOEulerSolver.html#af4422f49b4d3a3c85a15e519e93c7ce8" title="Set all the conserved variables from the primitive vector.." alt="" coords="337,136,563,177"/>
+<area shape="rect" id="node6" href="$classCNEMOEulerSolver.html#ad23673d38da9e895e4802b6d4d000c1b" title="Set the fluid solver nondimensionalization." alt="" coords="288,203,612,230"/>
+<area shape="rect" id="node5" href="$classCNEMOEulerSolver.html#a427284b43fbe1f9c373096cc4bbe5781" title="Compute the spatial integration using a upwind scheme." alt="" coords="21,133,224,175"/>
+<area shape="rect" id="node7" href="$classCNEMOEulerSolver.html#a192d56e184ee19ad0b0dd3282b74f1e6" title="Contructor of the class." alt="" coords="5,199,240,240"/>
+</map>

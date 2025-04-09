@@ -28,15 +28,15 @@ var group__FemAlgos =
       [ "ComputeGrad_SurfaceEmbedded", "classCElement.html#adeb29e1773d486476f66d8e77b26d921", null ],
       [ "ComputeLength", "classCElement.html#abb9d49ce761454211d346fa54fef21d7", null ],
       [ "ComputeVolume", "classCElement.html#ae86ec182eb42a61e95f8983a870dfcea", null ],
-      [ "Get_DHiDHj", "classCElement.html#ad947ab6578a7291794524bf0156102b5", null ],
-      [ "Get_FDL_a", "classCElement.html#a1b87d909348e1441dfbc3b481d0412c5", null ],
+      [ "Get_DHiDHj", "classCElement.html#a027dfc6429fe1f2c382172bcdfee6666", null ],
+      [ "Get_FDL_a", "classCElement.html#a3d17c3aa987a10165dcab3d9ee541a26", null ],
       [ "Get_HiHj", "classCElement.html#a7a0a0fba4a824ae3ec8dc490c4fcfef4", null ],
       [ "Get_iDe", "classCElement.html#a81c24fda8ff30988042966be1ac57cb0", null ],
       [ "Get_iDV", "classCElement.html#a9aca256c29c68f6be62c9a74f7a39fa8", null ],
       [ "Get_iProp", "classCElement.html#a316ca4ad94c25db42cca8a9c4d187fdc", null ],
-      [ "Get_Kab", "classCElement.html#a7cf58fa09507bb5cffc1f4dd147bda77", null ],
+      [ "Get_Kab", "classCElement.html#a077f170b754fd4533595bf6bc163b2a6", null ],
       [ "Get_Ks_ab", "classCElement.html#af5653dec1d4aba8cea8c4dfa42c497bc", null ],
-      [ "Get_Kt_a", "classCElement.html#a520c7ea7d5d1883661528918a2321780", null ],
+      [ "Get_Kt_a", "classCElement.html#a8b2b11078cc413d3de947f6437d4fb92", null ],
       [ "Get_Mab", "classCElement.html#ac848ce2c15df103416736e7b1da70963", null ],
       [ "Get_NodalStress", "classCElement.html#a1e2ce898ccfd1770a4744311f0041aa8", null ],
       [ "GetCurr_Coord", "classCElement.html#a4264daddbc6ade9f81ae1f7702d6c487", null ],
@@ -80,7 +80,7 @@ var group__FemAlgos =
       [ "NodalStress", "classCElement.html#a88bd9ee07d7a2f3710d9a53ca481b117", null ],
       [ "RefCoord", "classCElement.html#ab10eb6df3b696c959586274ea00cd0cf", null ]
     ] ],
-    [ "CElementWithKnownSizes< NGAUSS, NNODE, NDIM >", "classCElementWithKnownSizes.html", [
+    [ "CElementWithKnownSizes", "classCElementWithKnownSizes.html", [
       [ "CElementWithKnownSizes", "classCElementWithKnownSizes.html#a3063ed670c0073cef0e5467f051b3e35", null ],
       [ "ComputeGrad_impl", "classCElementWithKnownSizes.html#a0bf5db52f9363d93de630346ae174992", null ],
       [ "ComputeGrad_impl_surf_embedded", "classCElementWithKnownSizes.html#a79e736f7f74348c5dc591b1d70b5928a", null ],

@@ -1,0 +1,5 @@
+<map id="CNumerics::GetRMatrix" name="CNumerics::GetRMatrix">
+<area shape="rect" id="node1" title="Computation of the matrix R." alt="" coords="256,35,431,61"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a40fad0a57e8dcba8a8f4d4fa8eab02f0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="21,5,192,32"/>
+<area shape="rect" id="node3" href="$classCUpwTurkel__Flow.html#aeea8b3f88efb753429306fe3c2076af4" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="5,57,208,98"/>
+</map>

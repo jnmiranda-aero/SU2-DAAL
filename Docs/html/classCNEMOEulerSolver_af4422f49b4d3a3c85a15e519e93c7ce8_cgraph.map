@@ -1,0 +1,9 @@
+<map id="CNEMOEulerSolver::RecomputeConservativeVector" name="CNEMOEulerSolver::RecomputeConservativeVector">
+<area shape="rect" id="node1" title="Set all the conserved variables from the primitive vector.." alt="" coords="5,169,232,211"/>
+<area shape="rect" id="node2" href="$classCNEMOGas.html#a89d736160daedb454338c71f4239d152" title="Compute mixture energies (total internal energy and vibrational energy)." alt="" coords="290,5,503,47"/>
+<area shape="rect" id="node3" href="$classCNEMOEulerVariable.html#a9abc604e06f90161a2658d99582d8a3b" title="Retrieves the value of the total density in the primitive variable vector." alt="" coords="318,71,475,112"/>
+<area shape="rect" id="node4" href="$classCNEMOEulerVariable.html#af45e7025f7ed138b4c1e39d6a2521891" title="Retrieves the value of the in temperature the primitive variable vector." alt="" coords="318,136,475,177"/>
+<area shape="rect" id="node5" href="$classCNEMOEulerVariable.html#a7738e64c7df199868382c1af97ed9c89" title="Retrieves the value of the vibe&#45;elec temperature in the primitive variable vector." alt="" coords="318,201,475,243"/>
+<area shape="rect" id="node6" href="$classCNEMOEulerVariable.html#a448a2fc8bfc5479e51267c59acb1acf4" title="Retrieves the value of the velocity in the primitive variable vector." alt="" coords="318,267,475,308"/>
+<area shape="rect" id="node7" href="$classCNEMOGas.html#a1504562f343368d93897601cb43aea70" title="Set mixture thermodynamic state." alt="" coords="280,333,513,359"/>
+</map>

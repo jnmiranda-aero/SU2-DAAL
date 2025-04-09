@@ -1,0 +1,13 @@
+<map id="CAvgGradCorrected_NEMO::ComputeResidual" name="CAvgGradCorrected_NEMO::ComputeResidual">
+<area shape="rect" id="node1" title="Compute the viscous flow residual using an average of gradients." alt="" coords="5,156,201,197"/>
+<area shape="rect" id="node2" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="795,98,1012,125"/>
+<area shape="rect" id="node3" href="$classCNEMONumerics.html#a8f1d3fe0803cf04933f32b6b866dd752" title="Compute the projection of the viscous fluxes into a direction." alt="" coords="249,72,464,113"/>
+<area shape="rect" id="node6" href="$classCNEMONumerics.html#a63702d628627ee029d2ef7db7affbd8b" title="Staging function to compute viscous Jacobians." alt="" coords="249,291,464,332"/>
+<area shape="rect" id="node9" href="$group__GeometryToolbox.html#gad8b24e50333c9a8378f7abf18222f36a" title=" " alt="" coords="266,189,447,215"/>
+<area shape="rect" id="node10" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="606,239,653,266"/>
+<area shape="rect" id="node11" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="512,189,747,215"/>
+<area shape="rect" id="node4" href="$classCNEMOGas.html#ab5a26916ba6925f13c506c2def272969" title="Compute species enthalpies." alt="" coords="523,57,736,99"/>
+<area shape="rect" id="node5" href="$classCNumerics.html#a18b6238c38e05339954c0bb6121203d1" title="Compute the stress tensor from the velocity gradients." alt="" coords="529,123,729,164"/>
+<area shape="rect" id="node7" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="539,298,720,325"/>
+<area shape="rect" id="node8" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="811,298,996,325"/>
+</map>

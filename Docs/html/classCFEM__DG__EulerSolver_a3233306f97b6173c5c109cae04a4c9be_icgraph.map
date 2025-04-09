@@ -1,0 +1,5 @@
+<map id="CFEM_DG_EulerSolver::BoundaryStates_Outlet" name="CFEM_DG_EulerSolver::BoundaryStates_Outlet">
+<area shape="rect" id="node1" title="Function, which computes the boundary states in the integration points of the boundary face by applyi..." alt="" coords="232,39,412,80"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__EulerSolver.html#a869796e928f7618ea7f47d9ebc80cf76" title="Impose the outlet boundary condition.It is a virtual function, because for Navier&#45;Stokes it is overwr..." alt="" coords="11,5,178,47"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__NSSolver.html#afa7d6c1243dd1f7a29408f272c26b02d" title="Impose the outlet boundary condition." alt="" coords="5,71,184,112"/>
+</map>

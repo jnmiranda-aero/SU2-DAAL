@@ -1,0 +1,9 @@
+<map id="CEulerSolver::InstantiateEdgeNumerics" name="CEulerSolver::InstantiateEdgeNumerics">
+<area shape="rect" id="node1" title="Instantiate a SIMD numerics object." alt="" coords="5,74,188,115"/>
+<area shape="rect" id="node2" href="$classCNumericsSIMD.html#a83103fd2e3bc0dae25b2e23c000f93d4" title="Factory method." alt="" coords="236,5,476,32"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="265,56,447,83"/>
+<area shape="rect" id="node6" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="284,107,428,133"/>
+<area shape="rect" id="node7" href="$classCConfig.html#abccc1a50f4defcfad7da13b28ad74ab2" title="Get information about the Low Mach Correction." alt="" coords="245,157,467,184"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a63e1f265b788b4e56cb7ebdeba29b78e" title=" " alt="" coords="524,5,731,32"/>
+<area shape="rect" id="node5" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="535,56,720,83"/>
+</map>

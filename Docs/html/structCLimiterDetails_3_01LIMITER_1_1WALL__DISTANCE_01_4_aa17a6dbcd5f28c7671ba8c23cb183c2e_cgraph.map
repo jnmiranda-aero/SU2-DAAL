@@ -1,0 +1,6 @@
+<map id="CLimiterDetails&lt; LIMITER::WALL_DISTANCE &gt;::preprocess" name="CLimiterDetails&lt; LIMITER::WALL_DISTANCE &gt;::preprocess">
+<area shape="rect" id="node1" title="Store the reference lenght based eps^2 parameter." alt="" coords="5,64,236,105"/>
+<area shape="rect" id="node2" href="$classCConfig.html#ac421daafab2ffc8171aba0a05ce017ab" title="Get the value of sharp edge limiter." alt="" coords="305,5,466,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a7c7b4b489dcb3b505c091de0ae300891" title="Get the reference element length for computing the slope limiting epsilon." alt="" coords="284,71,487,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a3bd1de6bcb6cd7062816341b0d956459" title="Get the value of limiter coefficient." alt="" coords="312,123,459,164"/>
+</map>

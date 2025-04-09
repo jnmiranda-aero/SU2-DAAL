@@ -1,0 +1,5 @@
+<map id="CPrimalGrid::ResetJacobianConstantFaces" name="CPrimalGrid::ResetJacobianConstantFaces">
+<area shape="rect" id="node1" title="Reset the array, which stores whether or not the faces have a constant Jacobian, to false." alt="" coords="527,13,727,54"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#a1823c0dcfe5570115da9b7db331daaa5" title="Determine whether or not the Jacobians of the elements and faces are constant and a length scale of t..." alt="" coords="240,5,479,61"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#a0a1295415b0ff3105673f5733682e151" title="Set the domains for FEM grid partitioning using ParMETIS." alt="" coords="5,13,192,54"/>
+</map>

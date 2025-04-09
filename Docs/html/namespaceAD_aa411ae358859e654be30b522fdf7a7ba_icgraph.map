@@ -1,0 +1,16 @@
+<map id="AD::StartRecording" name="AD::StartRecording">
+<area shape="rect" id="node1" title="Start the recording of the operations and involved variables. If called, the computational graph of a..." alt="" coords="1061,115,1207,141"/>
+<area shape="rect" id="node2" href="$classCDiscAdjDeformationDriver.html#a6cb4f362b649e12ef2afad764de6d70a" title="Projection of the surface sensitivity using algorithmic differentiation (AD)." alt="" coords="811,13,1013,54"/>
+<area shape="rect" id="node5" href="$classCDiscAdjSinglezoneDriver.html#ac5a9bbc8bf431a06a4ec315a514c9428" title="Record one iteration of a flow iteration in within multiple zones." alt="" coords="817,107,1007,149"/>
+<area shape="rect" id="node10" href="$classCDiscAdjMultizoneDriver.html#a6858d2798084ac58973760b98cbc268d" title="Record one iteration of the primal problem within each zone." alt="" coords="820,202,1004,243"/>
+<area shape="rect" id="node3" href="$classCDiscAdjDeformationDriver.html#adb51f9096356607d6f48c05891dec0cb" title="Launch the driver computation." alt="" coords="515,5,750,32"/>
+<area shape="rect" id="node4" href="$SU2__DOT_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="319,5,373,32"/>
+<area shape="rect" id="node6" href="$classCDiscAdjSinglezoneDriver.html#af4087bc4859a336b67555336d8f28aaf" title="Record the main computational path." alt="" coords="537,57,728,98"/>
+<area shape="rect" id="node8" href="$classCDiscAdjSinglezoneDriver.html#ad328a74dd89ed2e335b22c4bf2b53cb0" title="Record the secondary computational path." alt="" coords="537,122,728,163"/>
+<area shape="rect" id="node7" href="$classCDiscAdjSinglezoneDriver.html#a231f69c77c922207c235930508b1db67" title="Preprocess the single&#45;zone iteration." alt="" coords="251,57,441,98"/>
+<area shape="rect" id="node9" href="$classCDiscAdjSinglezoneDriver.html#a8646cc443849a97868c59003066bb850" title="Postprocess the adjoint iteration for ZONE_0." alt="" coords="251,122,441,163"/>
+<area shape="rect" id="node11" href="$classCDiscAdjMultizoneDriver.html#a7a644ee8fc2141f2083b91afd2cab856" title="Evaluate the gradient of the objective function and add to &quot;External&quot;." alt="" coords="503,187,763,229"/>
+<area shape="rect" id="node12" href="$classCDiscAdjMultizoneDriver.html#af996aecdb6d20aa4fc81c9b67295abf5" title="[Overload] Run an discrete adjoint update of all solvers within multiple zones." alt="" coords="237,253,455,280"/>
+<area shape="rect" id="node14" href="$classCDiscAdjMultizoneDriver.html#a9d998fae109427a1061069800ad931c3" title="Evaluate sensitivites for the current adjoint solution and output files." alt="" coords="541,305,725,346"/>
+<area shape="rect" id="node13" href="$classCDiscAdjMultizoneDriver.html#a75de0a1a482ceeed4301a384f1515092" title="[Overload] Launch the computation for discrete adjoint multizone problems." alt="" coords="5,246,189,287"/>
+</map>

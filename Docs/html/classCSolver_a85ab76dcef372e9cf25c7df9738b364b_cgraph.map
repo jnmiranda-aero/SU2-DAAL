@@ -1,0 +1,9 @@
+<map id="CSolver::SetUpTypicalSectionWingModel" name="CSolver::SetUpTypicalSectionWingModel">
+<area shape="rect" id="node1" title="Sets up the generalized eigenvectors and eigenvalues needed to solve the aeroelastic equations." alt="" coords="5,169,217,211"/>
+<area shape="rect" id="node2" href="$classCConfig.html#af54ebb13d7b874bafae1e258629c0b4e" title="Aeroelastic center of gravity location." alt="" coords="275,5,451,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a03817b283c6375b5b99326166d609683" title="Uncoupled Aeroelastic Frequency Pitch." alt="" coords="275,71,451,112"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a6efeb737db8da3ee4dc945844e6f3807" title="Uncoupled Aeroelastic Frequency Plunge." alt="" coords="275,136,451,177"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a8136aa229f7aa14a1853b8dcdff046fb" title="Aeroelastic radius of gyration squared." alt="" coords="265,201,461,243"/>
+<area shape="rect" id="node6" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="309,267,418,294"/>
+<area shape="rect" id="node7" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="340,318,387,345"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CScalarSolver::SumEdgeFluxes" name="CScalarSolver::SumEdgeFluxes">
+<area shape="rect" id="node1" title="Sum the edge fluxes for each cell to populate the residual vector, only used on coarse grids." alt="" coords="5,38,228,65"/>
+<area shape="rect" id="node2" href="$classCPoint.html#a373a79919286952eff3ff785a1586ac2" title="Get inner iterator to loop over neighbor edges." alt="" coords="276,13,411,39"/>
+<area shape="rect" id="node5" href="$classCEdge.html#a5cd6f283cb2f3e4dfc037c0db6ae1055" title="Get left/right node index defining the edge." alt="" coords="279,63,407,90"/>
+<area shape="rect" id="node3" href="$classCCompressedSparsePattern.html#a69b7d1cd5652311246a3fba8c5f0e3f5" title=" " alt="" coords="459,5,661,47"/>
+<area shape="rect" id="node4" href="$classcontainer__details_1_1AccessorImpl.html#a5b5318f7212e57c13e464c398f74b3d5" title=" " alt="" coords="709,5,856,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CMeshReaderFVM::GetLocalPointCoordinates" name="CMeshReaderFVM::GetLocalPointCoordinates">
+<area shape="rect" id="node1" title="Get the local point coordinates (linearly partitioned)." alt="" coords="679,5,885,47"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#a5b18644d915d3e44b80d64abae332943" title="Routine to load the CGNS grid points from a single zone into the proper SU2 data structures." alt="" coords="416,5,631,47"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#a88fc7f2ba5656a97d1e34884b51ae984" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file in para..." alt="" coords="211,5,368,47"/>
+<area shape="rect" id="node4" href="$classCPhysicalGeometry.html#a075a737b341a64de5463ddd41096692e" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file." alt="" coords="5,5,163,47"/>
+</map>

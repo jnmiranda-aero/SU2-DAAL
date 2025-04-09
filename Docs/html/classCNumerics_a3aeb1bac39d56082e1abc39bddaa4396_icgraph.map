@@ -1,0 +1,5 @@
+<map id="CNumerics::SetRoughness" name="CNumerics::SetRoughness">
+<area shape="rect" id="node1" title="Set the value of the roughness from the nearest wall." alt="" coords="507,37,700,63"/>
+<area shape="rect" id="node2" href="$classCTurbSASolver.html#a9f7d24bae9d4e229866b334972e6185c" title="Compute the viscous flux for the turbulent equation at a particular edge." alt="" coords="284,29,459,71"/>
+<area shape="rect" id="node3" href="$classCTurbSASolver.html#a5c1556f9e9127f4f7230fe84455862a0" title="Destructor of the class." alt="" coords="5,37,236,63"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CUpwLin_AdjTurb::ComputeResidual" name="CUpwLin_AdjTurb::ComputeResidual">
+<area shape="rect" id="node1" title="Compute the adjoint upwind flux between two nodes i and j." alt="" coords="5,5,207,47"/>
+<area shape="rect" id="node2" href="$classCConfig.html#aa3684590264c457f245ca7238995b83b" title="Get the kind of integration scheme (explicit or implicit) for the adjoint turbulence equations." alt="" coords="255,5,444,47"/>
+</map>

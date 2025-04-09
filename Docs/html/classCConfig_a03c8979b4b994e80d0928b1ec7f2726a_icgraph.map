@@ -1,0 +1,7 @@
+<map id="CConfig::GetnSpanMaxAllZones" name="CConfig::GetnSpanMaxAllZones">
+<area shape="rect" id="node1" title="number span&#45;wise sections to compute performance for turbomachinery." alt="" coords="292,101,520,127"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#af64e3443a9381960d56065bd61802ab3" title="Set turbo boundary vertex." alt="" coords="26,5,223,47"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a36cfc79e959ea1cb246b9f951c2b364f" title="Initilize turbo containers." alt="" coords="5,71,244,98"/>
+<area shape="rect" id="node4" href="$classCPhysicalGeometry.html#a43fd9987f05bffd2615f60ee9ebc37a8" title="Store all the turboperformance in the solver in ZONE_0." alt="" coords="39,123,210,164"/>
+<area shape="rect" id="node5" href="$classCMixingPlaneInterface.html#a1869c0454855950b346d186fa19cabac" title="Initialize quantities for spanwise sections for interpolation." alt="" coords="40,188,209,229"/>
+</map>

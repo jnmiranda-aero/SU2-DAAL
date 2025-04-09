@@ -1,0 +1,13 @@
+<map id="CFEASolver::ComputeAitken_Coefficient" name="CFEASolver::ComputeAitken_Coefficient">
+<area shape="rect" id="node1" title="Computation of Aitken&#39;s coefficient." alt="" coords="5,230,211,271"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="263,5,473,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#ae5e50c934fd9590b619818c7da4d3ffa" title="Get Aitken&#39;s maximum relaxation parameter for dynamic relaxation cases and first iteration." alt="" coords="259,56,477,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a62dd1104d950a8283ef803cf39567fbd" title="Get Aitken&#39;s maximum relaxation parameter for dynamic relaxation cases and first iteration." alt="" coords="261,107,475,133"/>
+<area shape="rect" id="node5" href="$classCConfig.html#ada501eb6c9481a1b3c13e7bbf4a728a3" title="Get Aitken&#39;s relaxation parameter for static relaxation cases." alt="" coords="265,157,471,184"/>
+<area shape="rect" id="node6" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="260,208,476,235"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a33096ae5546a76c794c4dd88201c3804" title="Get the relaxation method chosen for the simulation." alt="" coords="281,259,455,301"/>
+<area shape="rect" id="node8" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="284,325,452,352"/>
+<area shape="rect" id="node9" href="$classCVariable.html#a70a9df6b6cc631f9c3b9a3ef7b3ecfe4" title="Get the old solution of the problem (Runge&#45;Kutta method)" alt="" coords="269,376,467,403"/>
+<area shape="rect" id="node10" href="$classCVariable.html#aea48aeef62d1f699f078e3295ce27c02" title="A virtual member. Get the solution at time n." alt="" coords="266,427,470,453"/>
+<area shape="rect" id="node11" href="$classCVariable.html#acf8b60f79163be806649cf2c6375fca3" title="A virtual member. Get the solution at time n." alt="" coords="284,478,452,519"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="CRoeScheme::finalizeFlux" name="CRoeScheme::finalizeFlux">
+<area shape="rect" id="node1" title="Updates flux and Jacobians with standard Roe dissipation." alt="" coords="5,107,196,133"/>
+<area shape="rect" id="node2" href="$convection_2common_8hpp.html#ae4d46b975dc421a9c402f306caba99b6" title="Compute and return the inverse P tensor (compressible flow, ideal gas)." alt="" coords="256,56,348,83"/>
+<area shape="rect" id="node5" href="$convection_2common_8hpp.html#ace8930cad0d705041be1739978374cae" title="(Low) Dissipation coefficient for Roe schemes." alt="" coords="244,132,360,159"/>
+<area shape="rect" id="node3" href="$group__VecExpr.html#ga93385cff4ce14b9889bcc9e5ee65332c" title=" " alt="" coords="433,5,542,32"/>
+<area shape="rect" id="node4" href="$group__SIMD.html#gad1cee0edfc6d89d1841093121bb0a581" title=" " alt="" coords="463,56,512,83"/>
+<area shape="rect" id="node6" href="$group__VecExpr.html#gaa1a2012ba7d4b10571ed831a1e27167f" title=" " alt="" coords="429,107,545,133"/>
+<area shape="rect" id="node7" href="$util_8hpp.html#a7648e1f2c52290af24a78ffad125e541" title="Gather a single variable from index iPoint of a 1D container." alt="" coords="425,157,549,184"/>
+<area shape="rect" id="node8" href="$classCVariable.html#afec545423f883bcd961ac9f1e5d18dd2" title="Get the pressure sensor." alt="" coords="408,208,567,235"/>
+</map>

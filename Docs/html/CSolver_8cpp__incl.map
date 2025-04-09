@@ -1,0 +1,52 @@
+<map id="SU2_CFD/src/solvers/CSolver.cpp" name="SU2_CFD/src/solvers/CSolver.cpp">
+<area shape="rect" id="node1" title="Main subroutines for CSolver class." alt="" coords="4390,5,4546,47"/>
+<area shape="rect" id="node2" href="$CSolver_8hpp.html" title="Headers of the CSolver class which is inherited by all of the other solvers." alt="" coords="1679,95,1823,136"/>
+<area shape="rect" id="node30" href="$computeGradientsGreenGauss_8hpp.html" title="Generic implementation of Green&#45;Gauss gradient computation." alt="" coords="5819,95,6072,136"/>
+<area shape="rect" id="node31" href="$geometry__toolbox_8hpp.html" title="Collection of common lightweight geometry&#45;oriented methods." alt="" coords="6443,191,6683,233"/>
+<area shape="rect" id="node32" href="$computeGradientsLeastSquares_8hpp.html" title="Generic implementation of Least&#45;Squares gradient computation." alt="" coords="6412,95,6673,136"/>
+<area shape="rect" id="node33" href="$computeLimiters_8hpp.html" title="Compute limiters wrapper function." alt="" coords="3783,95,3947,136"/>
+<area shape="rect" id="node34" href="$CIncTGVSolution_8hpp.html" title="Header file for the class CIncTGVSolution. The implementations are in the CIncTGVSolution...." alt="" coords="2875,191,3141,233"/>
+<area shape="rect" id="node35" href="$CInviscidVortexSolution_8hpp.html" title="Header file for the class CInviscidVortexSolution. The implementations are in the CInviscidVortexSolu..." alt="" coords="3165,184,3395,240"/>
+<area shape="rect" id="node36" href="$CMMSIncEulerSolution_8hpp.html" title="Header file for the class CMMSIncEulerSolution. The implementations are in the CMMSIncEulerSolution...." alt="" coords="3419,191,3722,233"/>
+<area shape="rect" id="node37" href="$CMMSIncNSSolution_8hpp.html" title="Header file for the class CMMSIncNSSolution. The implementations are in the CMMSIncNSSolution...." alt="" coords="3747,191,4035,233"/>
+<area shape="rect" id="node38" href="$CMMSNSTwoHalfCirclesSolution_8hpp.html" title="Header file for the class CMMSNSTwoHalfCirclesSolution. The implementations are in the CMMSNSTwoHalfC..." alt="" coords="4109,184,4349,240"/>
+<area shape="rect" id="node39" href="$CMMSNSTwoHalfSpheresSolution_8hpp.html" title="Header file for the class CMMSNSTwoHalfSpheresSolution. The implementations are in the CMMSNSTwoHalfS..." alt="" coords="4373,184,4613,240"/>
+<area shape="rect" id="node40" href="$CMMSNSUnitQuadSolution_8hpp.html" title="Header file for the class CMMSNSUnitQuadSolution. The implementations are in the CMMSNSUnitQuadSoluti..." alt="" coords="4638,184,4887,240"/>
+<area shape="rect" id="node41" href="$CMMSNSUnitQuadSolutionWallBC_8hpp.html" title="Header file for the class CMMSNSUnitQuadSolutionWallBC. The implementations are in the CMMSNSUnitQuad..." alt="" coords="4911,184,5161,240"/>
+<area shape="rect" id="node42" href="$CNSUnitQuadSolution_8hpp.html" title="Header file for the class CNSUnitQuadSolution.hpp. The implementations are in the CNSUnitQuadSolution..." alt="" coords="5184,191,5483,233"/>
+<area shape="rect" id="node43" href="$CRinglebSolution_8hpp.html" title="Header file for the class CRinglebSolution.hpp. The implementations are in the CRinglebSolution...." alt="" coords="5507,191,5775,233"/>
+<area shape="rect" id="node44" href="$CTGVSolution_8hpp.html" title="Header file for the class CTGVSolution. The implementations are in the CTGVSolution...." alt="" coords="5799,191,6046,233"/>
+<area shape="rect" id="node45" href="$CUserDefinedSolution_8hpp.html" title="Header file for the class CUserDefinedSolution. The implementations are in the CUserDefinedSolution...." alt="" coords="6069,191,6368,233"/>
+<area shape="rect" id="node46" href="$printing__toolbox_8hpp.html" title="Header file for the printing toolbox." alt="" coords="2700,295,2927,337"/>
+<area shape="rect" id="node47" href="$C1DInterpolation_8hpp.html" title="Classes for 1D interpolation." alt="" coords="3971,95,4202,136"/>
+<area shape="rect" id="node48" href="$CLinearPartitioner_8hpp.html" title="Header file for the class CLinearPartitioner. The implementations are in the CLinearPartitioner...." alt="" coords="42,392,278,433"/>
+<area shape="rect" id="node49" href="$CADTPointsOnlyClass_8hpp.html" title="Class for storing an ADT of only points in an arbitrary number of dimensions." alt="" coords="6147,95,6367,136"/>
+<area shape="rect" id="node50" href="$CMarkerProfileReaderFVM_8hpp.html" title="Header file for the class CMarkerProfileReaderFVM. The implementations are in the CMarkerProfileReade..." alt="" coords="1357,191,1549,233"/>
+<area shape="rect" id="node3" href="$mpi__structure_8hpp.html" title="Headers of the mpi interface for generalized datatypes. The subroutines and functions are in the mpi_..." alt="" coords="623,481,865,523"/>
+<area shape="rect" id="node4" title=" " alt="" coords="709,571,779,597"/>
+<area shape="rect" id="node5" title=" " alt="" coords="3539,489,3602,515"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1574,199,1645,225"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1704,489,1763,515"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1883,489,1957,515"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2597,489,2672,515"/>
+<area shape="rect" id="node10" title=" " alt="" coords="3052,399,3137,426"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1331,489,1411,515"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1992,199,2035,225"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2059,199,2125,225"/>
+<area shape="rect" id="node14" href="$CFluidModel_8hpp.html" title="Defines the main fluid model class for thermophysical properties." alt="" coords="2450,303,2625,329"/>
+<area shape="rect" id="node15" href="$CConfig_8hpp.html" title="All the information about the definition of the physical problem. The subroutines and functions are i..." alt="" coords="1635,392,1803,433"/>
+<area shape="rect" id="node16" href="$task__definition_8hpp.html" title="Header of the task definition class for the SU2 solvers." alt="" coords="403,399,562,426"/>
+<area shape="rect" id="node17" href="$CNumerics_8hpp.html" title="Declaration of the base numerics class, the implementation is in the CNumerics.cpp file." alt="" coords="1720,199,1917,225"/>
+<area shape="rect" id="node18" href="$blas__structure_8hpp.html" title="Include files and headers of the functions for matrix and vector operations, which are typically foun..." alt="" coords="2132,295,2375,337"/>
+<area shape="rect" id="node19" href="$sgs__model_8hpp.html" title="Headers of the LES subgrid scale models of the SU2 solvers." alt="" coords="1122,399,1254,426"/>
+<area shape="rect" id="node20" href="$fem__geometry__structure_8hpp.html" title="Headers of the main subroutines for creating the geometrical structure for the FEM solver...." alt="" coords="2200,191,2445,233"/>
+<area shape="rect" id="node21" href="$CGeometry_8hpp.html" title="Headers of the main subroutines for creating the geometrical structure. The subroutines and functions..." alt="" coords="1906,303,2107,329"/>
+<area shape="rect" id="node22" href="$CSysMatrix_8hpp.html" title="Declaration of the block&#45;sparse matrix class. The implemtation is in CSysMatrix.cpp." alt="" coords="845,295,1070,337"/>
+<area shape="rect" id="node23" href="$CSysVector_8hpp.html" title="Declararion and inlines of the vector class used in the solution of large, distributed,..." alt="" coords="747,399,869,426"/>
+<area shape="rect" id="node24" href="$CSysSolve_8hpp.html" title="Headers for the classes related to linear solvers (CG, FGMRES, etc) The subroutines and functions are..." alt="" coords="1095,295,1313,337"/>
+<area shape="rect" id="node25" href="$CSurfaceMovement_8hpp.html" title="Headers of the CSurfaceMovement class." alt="" coords="454,191,743,233"/>
+<area shape="rect" id="node26" href="$CVolumetricMovement_8hpp.html" title="Headers of the CVolumetricMovement class." alt="" coords="870,191,1181,233"/>
+<area shape="rect" id="node27" href="$graph__coloring__structure_8hpp.html" title="Include files and headers of the functions to carry out a coloring of a given graph...." alt="" coords="505,295,719,337"/>
+<area shape="rect" id="node28" href="$CVerificationSolution_8hpp.html" title="Header file for the base class CVerificationSolution. The implementations are in the CVerificationSol..." alt="" coords="4124,288,4335,344"/>
+<area shape="rect" id="node29" href="$CVariable_8hpp.html" title="Declaration and inlines of the parent class for defining problem variables, function definitions in f..." alt="" coords="1338,303,1526,329"/>
+</map>

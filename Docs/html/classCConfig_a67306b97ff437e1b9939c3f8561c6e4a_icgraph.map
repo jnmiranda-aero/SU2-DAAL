@@ -1,0 +1,12 @@
+<map id="CConfig::GetRefOriginMoment" name="CConfig::GetRefOriginMoment">
+<area shape="rect" id="node1" title="Get reference origin for moment computation." alt="" coords="817,177,1036,203"/>
+<area shape="rect" id="node2" href="$classCFVMFlowSolverBase.html#af46a894bd89c2367215f64fa7ea7d02d" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="583,5,747,47"/>
+<area shape="rect" id="node3" href="$classCFEM__DG__NSSolver.html#a5118d674e7eb6f4865fb53f6f20eac1c" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="561,71,769,112"/>
+<area shape="rect" id="node4" href="$classCFVMFlowSolverBase.html#a7bb3a79fa71319f9772ffd42d0116760" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="583,136,747,177"/>
+<area shape="rect" id="node5" href="$classCFEM__DG__EulerSolver.html#a218c89d657364d7282515fec1d2453bc" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="582,201,749,243"/>
+<area shape="rect" id="node6" href="$classCFVMFlowSolverBase.html#a197fdf8620c3f2b3723c04b213cea284" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="583,267,747,308"/>
+<area shape="rect" id="node7" href="$classCAdjEulerSolver.html#ac2e134ff46b436a33eba9141c89e7e77" title="Created the force projection vector for adjoint boundary conditions." alt="" coords="570,332,761,373"/>
+<area shape="rect" id="node8" href="$classCAdjEulerSolver.html#a5265a44e6c43dee677c9f26333148432" title="Update the AoA and freestream velocity at the farfield." alt="" coords="279,339,513,366"/>
+<area shape="rect" id="node9" href="$classCAdjEulerSolver.html#a64baf8c7af6006bdc4ad0919f7c2507a" title="Initialize the residual vectors." alt="" coords="5,314,231,341"/>
+<area shape="rect" id="node10" href="$classCAdjNSSolver.html#a0669f6fb8ef7cd7800d151d4aff7d3f6" title="Restart residual and compute gradients." alt="" coords="13,365,223,391"/>
+</map>

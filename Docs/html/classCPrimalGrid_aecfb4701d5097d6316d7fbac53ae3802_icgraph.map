@@ -1,0 +1,5 @@
+<map id="CPrimalGrid::SetGlobalIndex" name="CPrimalGrid::SetGlobalIndex">
+<area shape="rect" id="node1" title="Set the global index for an element in a parallel computation." alt="" coords="421,13,628,39"/>
+<area shape="rect" id="node2" href="$classCPhysicalGeometry.html#a770c1c52d374c64f3cce53471a920b06" title="Load the local volume elements after partitioning (owned and ghost) into the geometry class objects." alt="" coords="211,5,373,47"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#addad3f466423ba9243a396763d442f9a" title="Accepts a geometry container holding a linearly partitioned grid with coloring performed by ParMETIS,..." alt="" coords="5,5,163,47"/>
+</map>

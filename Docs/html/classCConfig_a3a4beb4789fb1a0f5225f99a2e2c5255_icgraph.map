@@ -1,0 +1,8 @@
+<map id="CConfig::GetCFLRedCoeff_Species" name="CConfig::GetCFLRedCoeff_Species">
+<area shape="rect" id="node1" title="Value of the CFL reduction in species problems." alt="" coords="676,57,863,98"/>
+<area shape="rect" id="node2" href="$classCSolver.html#a7db35f21bf505e35cce4bcdf38af3b2a" title="Adapt the CFL number based on the local under&#45;relaxation parameters computed for each nonlinear itera..." alt="" coords="433,5,628,32"/>
+<area shape="rect" id="node5" href="$classCSpeciesFlameletSolver.html#ad28daa94ec7a426fd00201bf6139da04" title="Define a Flamelet Generated Manifold species solver." alt="" coords="437,57,625,98"/>
+<area shape="rect" id="node6" href="$classCSpeciesSolver.html#a3a7863355bb316fe760afeb1db4ca66c" title="Constructor of the class." alt="" coords="436,122,625,163"/>
+<area shape="rect" id="node3" href="$classCFluidIteration.html#a9ce0d8765aff42207afcd2c9ab6f71d8" title="Perform a single iteration of the fluid system." alt="" coords="216,5,385,32"/>
+<area shape="rect" id="node4" href="$classCFluidIteration.html#ae4c454356af70246063fdcba4accb068" title="Iterate the fluid system for a number of Inner_Iter iterations." alt="" coords="5,5,168,32"/>
+</map>

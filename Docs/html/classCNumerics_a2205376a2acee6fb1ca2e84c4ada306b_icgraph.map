@@ -1,0 +1,15 @@
+<map id="CNumerics::GetBoundedScalar" name="CNumerics::GetBoundedScalar">
+<area shape="rect" id="node1" title="Obtain information on bounded scalar problem." alt="" coords="472,261,693,287"/>
+<area shape="rect" id="node2" href="$classCScalarSolver.html#abb80fb42d9d6a87c8f9445354ce0c113" title="Impose the Far Field boundary condition." alt="" coords="247,5,411,47"/>
+<area shape="rect" id="node3" href="$classCScalarSolver.html#a72b57a00685a9745cd20e1ee5294c31d" title="Generic implementation of the fluid interface boundary condition for scalar solvers." alt="" coords="240,71,417,112"/>
+<area shape="rect" id="node5" href="$classCSpeciesSolver.html#aca27a19a7953503e2ff2ec8e06c838ee" title="Impose the inlet boundary condition." alt="" coords="255,136,403,177"/>
+<area shape="rect" id="node7" href="$classCTurbSASolver.html#ab630c3c3f90b092d0b79fe9d91165c33" title="Impose the inlet boundary condition." alt="" coords="239,202,418,229"/>
+<area shape="rect" id="node8" href="$classCTurbSSTSolver.html#ad82e31e58c6d95db62377666c3554d3d" title="Impose the inlet boundary condition." alt="" coords="254,253,403,295"/>
+<area shape="rect" id="node9" href="$classCSpeciesSolver.html#a548512ab2846aa9efea881ad958db6c0" title="Impose the outlet boundary condition." alt="" coords="255,319,403,360"/>
+<area shape="rect" id="node10" href="$classCTurbSASolver.html#a185abcbd50986de9d082280228f343de" title="Impose the outlet boundary condition." alt="" coords="233,385,424,411"/>
+<area shape="rect" id="node11" href="$classCTurbSSTSolver.html#a54cdb1d97d7a039ace8ddc82abacb923" title="Impose the outlet boundary condition." alt="" coords="254,436,403,477"/>
+<area shape="rect" id="node12" href="$classCScalarSolver.html#a7a5250679bf3984b0e9b1a2d9641936f" title="Compute the spatial integration using a upwind scheme." alt="" coords="244,501,413,543"/>
+<area shape="rect" id="node4" href="$classCScalarSolver.html#abe7852011de7a0d20b0b330729e0de50" title="Impose the fluid interface boundary condition using transfer data." alt="" coords="7,71,184,112"/>
+<area shape="rect" id="node6" href="$classCSpeciesFlameletSolver.html#a5224ee97bd1664cd1768bdc1d9fd375c" title="Impose the inlet boundary condition." alt="" coords="5,136,185,177"/>
+<area shape="rect" id="node13" href="$classCHeatSolver.html#a6ae942fed49ba1b235dd757ee801f917" title="Compute the spatial integration using a upwind scheme." alt="" coords="15,501,175,543"/>
+</map>

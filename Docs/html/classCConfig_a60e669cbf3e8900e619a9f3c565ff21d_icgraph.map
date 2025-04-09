@@ -1,0 +1,8 @@
+<map id="CConfig::GetActDisk_NetThrust" name="CConfig::GetActDisk_NetThrust">
+<area shape="rect" id="node1" title="Get the origin of the actuator disk." alt="" coords="800,39,953,80"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#ad8b538a82e5a7a7e3903ec29954b1d07" title="Compute the Fan face Mach number." alt="" coords="572,5,748,47"/>
+<area shape="rect" id="node6" href="$classCEulerSolver.html#a147d5ae75cf7de115e4be2c23ba95f6d" title="Update the AoA and freestream velocity at the farfield." alt="" coords="568,71,752,112"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a0d6f93feba8d6aad18edf3594213042b" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="257,46,520,73"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#ab08b6aa95648e7ab973f9f247fe54b31" title="Compute primitive variables and their gradients." alt="" coords="5,21,209,47"/>
+<area shape="rect" id="node5" href="$classCNSSolver.html#af83e7cb773797239cdc98fc4d202d32f" title="Restart residual and compute gradients." alt="" coords="13,71,202,98"/>
+</map>

@@ -1,8 +1,6 @@
 var group__Containers =
 [
-    [ "container_details", "namespacecontainer__details.html", null ],
-    [ "helpers", "namespacehelpers.html", null ],
-    [ "C2DContainer< Index_t, Scalar_t, Store, AlignSize, StaticRows, StaticCols >", "classC2DContainer.html", [
+    [ "C2DContainer", "classC2DContainer.html", [
       [ "CInnerIter", "classC2DContainer_1_1CInnerIter.html", [
         [ "CInnerIter", "classC2DContainer_1_1CInnerIter.html#a7bc13cd11034d0732164cb53ba325bda", null ],
         [ "CInnerIter", "classC2DContainer_1_1CInnerIter.html#ae3d9f3ad90b5ce91a9fb263d50ef7638", null ],
@@ -12,7 +10,7 @@ var group__Containers =
       [ "CInnerIterGather", "classC2DContainer_1_1CInnerIterGather.html", [
         [ "CInnerIterGather", "classC2DContainer_1_1CInnerIterGather.html#a3513ab67c1853dbb0d795a023dc6df67", null ],
         [ "CInnerIterGather", "classC2DContainer_1_1CInnerIterGather.html#a24f0dc33fbbd64d615fc28dfcbd23605", null ],
-        [ "operator*", "classC2DContainer_1_1CInnerIterGather.html#a8391e4ebf2040908b34277bd996b0ef1", null ],
+        [ "operator*", "classC2DContainer_1_1CInnerIterGather.html#a52d402a657901737830d5bfc1018046d", null ],
         [ "operator++", "classC2DContainer_1_1CInnerIterGather.html#a9d7ad87fe3eb214afd0b1dc98a922280", null ]
       ] ],
       [ "Index", "classC2DContainer.html#ae297197202384407eb5b9cbf9170b649", null ],
@@ -25,30 +23,30 @@ var group__Containers =
       [ "get", "classC2DContainer.html#a74936c036702a902863193fbdb11a440", null ],
       [ "get", "classC2DContainer.html#ad53c4b757ba98543452470c3cd37b68e", null ],
       [ "innerIter", "classC2DContainer.html#a8ca389a3b4633601fce5592a800d10c9", null ],
-      [ "innerIter", "classC2DContainer.html#a0e7eaabc2b37a080ed3d189d16e307b2", null ],
-      [ "operator=", "classC2DContainer.html#ae43e47a63fc0196708ca7bf800205400", null ],
-      [ "operator=", "classC2DContainer.html#ab29f3cd7c9c81d8afcf847a1770969a0", null ],
-      [ "operator=", "classC2DContainer.html#abd18834fc5ec8bc4aa28779684ba7a53", null ],
-      [ "resize", "classC2DContainer.html#a39929b060c72565b4ab19c3a391bb8e6", null ],
+      [ "innerIter", "classC2DContainer.html#a898ee36db6a0faa7a03222efba2bcf54", null ],
+      [ "operator=", "classC2DContainer.html#a2a5c93d3214aaf76d521bee7eb8e8f1c", null ],
+      [ "operator=", "classC2DContainer.html#a333bf6442de423ea86acad1175ea2f85", null ],
+      [ "operator=", "classC2DContainer.html#afda6ca86f5eb8770caaa2a1700048a82", null ],
+      [ "resize", "classC2DContainer.html#adefb48b593f76aa322e228fea8f76127", null ],
       [ "rows", "classC2DContainer.html#ae383e99c56a27231333d71dfb8810623", null ],
       [ "setConstant", "classC2DContainer.html#ab9f8a545ab85abdd3291f0f65b4f411b", null ],
       [ "size", "classC2DContainer.html#a8278113dbcf54123f9852e7e44583759", null ]
     ] ],
-    [ "CMatrixView< T >", "classCMatrixView.html", [
+    [ "CMatrixView", "classCMatrixView.html", [
       [ "Index", "classCMatrixView.html#a256455cfa68c21925abdde4523e60586", null ],
       [ "Scalar", "classCMatrixView.html#a05118c3797a6ace2464b8de73f92acd0", null ],
       [ "CMatrixView", "classCMatrixView.html#a2eda684ad6978507a8002909d5fc66e6", null ],
       [ "CMatrixView", "classCMatrixView.html#a013b586cce5cf8cb5ab6d6f421295ba7", null ],
       [ "CMatrixView", "classCMatrixView.html#ab2b0708568a38348dea5e2e726ce701c", null ],
       [ "CMatrixView", "classCMatrixView.html#a717e1f07a1468ed267d1bc28ba7adb51", null ],
-      [ "operator()", "classCMatrixView.html#acce32e9fd142e5cfa06210f66c10819d", null ],
-      [ "operator()", "classCMatrixView.html#a514e5e6adace65a4eebe4c0e5b8489ba", null ],
-      [ "operator[]", "classCMatrixView.html#aeeb6d67d63a5f62bad913a688e1fe16f", null ],
-      [ "operator[]", "classCMatrixView.html#a6c485a131afa7b524832644d7be8b191", null ],
+      [ "operator()", "classCMatrixView.html#a266006a625b0b9881c3feb731d11aeea", null ],
+      [ "operator()", "classCMatrixView.html#ac95017cea0bcf05b00896a0b9b5d872d", null ],
+      [ "operator[]", "classCMatrixView.html#a7fd73d04c103085a5e982d05389e1a58", null ],
+      [ "operator[]", "classCMatrixView.html#a6b2f248ecdc8f1e682793b783607c902", null ],
       [ "CMatrixView", "classCMatrixView.html#ab250eecba420972ddd9e0b3e0fbf238b", null ],
       [ "operator+", "classCMatrixView.html#a0fd6f01c7e05a7f2cbff4abe68eaa1af", null ]
     ] ],
-    [ "C3DContainerDecorator< Storage >", "classC3DContainerDecorator.html", [
+    [ "C3DContainerDecorator", "classC3DContainerDecorator.html", [
       [ "CInnerIter", "classC3DContainerDecorator.html#aeb13cf459131b0978a703cfd4bb84687", null ],
       [ "CInnerIterGather", "classC3DContainerDecorator.html#aa2887254381323fd7978e8dd38b954bb", null ],
       [ "ConstMatrix", "classC3DContainerDecorator.html#a52c12bfad4b0ecc2bc3ba16e5093ea01", null ],
@@ -60,37 +58,37 @@ var group__Containers =
       [ "cols", "classC3DContainerDecorator.html#a27e2d1c9d2121ddcf201b7a6e29b3004", null ],
       [ "get", "classC3DContainerDecorator.html#a29e05217ac73170e9a94b8d1aa5c1b14", null ],
       [ "innerIter", "classC3DContainerDecorator.html#a02bebe8f0a6a4fe995c8381cf4856fca", null ],
-      [ "innerIter", "classC3DContainerDecorator.html#a6af1670e0eec53692501217731ef81f0", null ],
+      [ "innerIter", "classC3DContainerDecorator.html#a26d4629a9c0d5bafb5668fb92cc07b15", null ],
       [ "length", "classC3DContainerDecorator.html#a50d183db869393fe41fe144eff3e18f6", null ],
       [ "operator()", "classC3DContainerDecorator.html#a19af5de567174ecf89ca70a63d798a82", null ],
       [ "operator()", "classC3DContainerDecorator.html#ad8bc2f6048689c9f691151f2de826a2e", null ],
-      [ "operator()", "classC3DContainerDecorator.html#abc8570dbbf790d7bdc823d0bc92ee660", null ],
-      [ "operator()", "classC3DContainerDecorator.html#ac4604bee91e5aaec7de4016e0404b01d", null ],
+      [ "operator()", "classC3DContainerDecorator.html#ab13057a496bf796f9c7925527c910264", null ],
+      [ "operator()", "classC3DContainerDecorator.html#adf8e74f602ec68bae13443104220065e", null ],
       [ "operator[]", "classC3DContainerDecorator.html#a553584f034924a2c79fd965e03286e15", null ],
       [ "operator[]", "classC3DContainerDecorator.html#adeab293127e92c0bf2043e7acf01843a", null ],
       [ "resize", "classC3DContainerDecorator.html#a8c74bf28bf8d6882e14635fecb0d5e82", null ],
       [ "rows", "classC3DContainerDecorator.html#a517ccb480bb1d1e919f5dc562d4574c6", null ],
       [ "size", "classC3DContainerDecorator.html#a76cd9b7cdea05eed79d3ee6f3ba835b0", null ]
     ] ],
-    [ "C2DDummyLastView< T >", "structC2DDummyLastView.html", [
+    [ "C2DDummyLastView", "structC2DDummyLastView.html", [
       [ "Index", "structC2DDummyLastView.html#a19dc1cb38c76e088572aba3ffdf1c900", null ],
       [ "Scalar", "structC2DDummyLastView.html#afb0cf16bdef9f0acac2b481bd37b6dd7", null ],
       [ "C2DDummyLastView", "structC2DDummyLastView.html#ae12cb463112fa08adca42c654a6587e7", null ],
       [ "C2DDummyLastView", "structC2DDummyLastView.html#a9de7720fccc21a34ddf01e9ba69dd3a8", null ],
-      [ "operator()", "structC2DDummyLastView.html#aba299e1497ccb85334e6c40e0adcdec2", null ],
-      [ "operator()", "structC2DDummyLastView.html#adcc6aae920e4111c4749ccdaacf35b9d", null ],
+      [ "operator()", "structC2DDummyLastView.html#a8493b1c12dad041a04d82ad8d0ba0371", null ],
+      [ "operator()", "structC2DDummyLastView.html#a4bd847fc1e4f81f7da9748eec85f2980", null ],
       [ "data", "structC2DDummyLastView.html#a65842cce1ae9a3fadc16cf8d5a1d489a", null ]
     ] ],
-    [ "C3DDummyMiddleView< T >", "structC3DDummyMiddleView.html", [
+    [ "C3DDummyMiddleView", "structC3DDummyMiddleView.html", [
       [ "Index", "structC3DDummyMiddleView.html#a595a1824cf9bfbd0f1409087904f3944", null ],
       [ "Scalar", "structC3DDummyMiddleView.html#a26186e554d74f017a6131ffbc90e6d2d", null ],
       [ "C3DDummyMiddleView", "structC3DDummyMiddleView.html#af02f58f21fe2115aad393c3ade31b55e", null ],
       [ "C3DDummyMiddleView", "structC3DDummyMiddleView.html#a3a7229ee8e32a9bd8c9b45f4d5f7d5c8", null ],
-      [ "operator()", "structC3DDummyMiddleView.html#ab33cd3bda65294609fdfa9bc669b0f54", null ],
-      [ "operator()", "structC3DDummyMiddleView.html#a1085ff4d46bdc688ff93a37dc63d81f3", null ],
+      [ "operator()", "structC3DDummyMiddleView.html#a1ff069980d6799421bad117971ad72a4", null ],
+      [ "operator()", "structC3DDummyMiddleView.html#ad5ff391faf367766fa84c101edc4a013", null ],
       [ "data", "structC3DDummyMiddleView.html#a2957a794595a41b3af673e5df82d884c", null ]
     ] ],
-    [ "NdFlattener< K_, Data_t_, Index_t_ >", "classNdFlattener.html", [
+    [ "NdFlattener", "classNdFlattener.html", [
       [ "Base", "classNdFlattener.html#a9d7bd68714c9c7060b166f36c9217a6a", null ],
       [ "CurrentLayer", "classNdFlattener.html#a08896298d65fbdd130846ecedbd6e71e", null ],
       [ "Data_t", "classNdFlattener.html#a92d98fa755b3dede2c41af14ab5abe35", null ],
@@ -101,14 +99,14 @@ var group__Containers =
       [ "allocate", "classNdFlattener.html#a5b98791c321c5c1764fb90669c0c308c", null ],
       [ "count_f", "classNdFlattener.html#ad3c91197f3c783a2a2414fd13cb03e76", null ],
       [ "count_g", "classNdFlattener.html#a634f7ddd660f9903febef4c9d0c8bc44", null ],
-      [ "GetIndices", "classNdFlattener.html#a22a0222706287ba604f7e8a080c656fb", null ],
-      [ "GetIndices", "classNdFlattener.html#a09a0bbe9c79d6fdde1ed4399c1774cde", null ],
+      [ "GetIndices", "classNdFlattener.html#a341735d619010ac8e6f83f1e049a3b70", null ],
+      [ "GetIndices", "classNdFlattener.html#a0b9c622727a1c64eda14fdfd63781cac", null ],
       [ "initialize", "classNdFlattener.html#a7dabed7d4fdb3962b0e8efc0222029ce", null ],
       [ "initialize", "classNdFlattener.html#a5a64310f9e1fd68ce6713175dd218150", null ],
       [ "initialize_or_refresh", "classNdFlattener.html#a7e8bd6e1b88fb84601002a9c9ce01f0c", null ],
       [ "initialized", "classNdFlattener.html#a44a3f5370f366b73b23af6932bad6583", null ],
-      [ "operator[]", "classNdFlattener.html#a3204ed42d4b7c5ff1f9a19d60069da62", null ],
-      [ "operator[]", "classNdFlattener.html#aa309084d7c973c379354e0d24213b483", null ],
+      [ "operator[]", "classNdFlattener.html#a10297565907e6aa243671fb366422735", null ],
+      [ "operator[]", "classNdFlattener.html#a38c8a45af71db3d3750537ce3fe565fc", null ],
       [ "refresh", "classNdFlattener.html#a25b47f23e8abfc8da0ab09b95468d307", null ],
       [ "refresh", "classNdFlattener.html#ae846bd863d29bbf19a0ec18c6df75da5", null ],
       [ "reset_iNode", "classNdFlattener.html#ad7512182cddd2acf3faea22dfb63dd27", null ],
@@ -116,7 +114,7 @@ var group__Containers =
       [ "set_g", "classNdFlattener.html#afb55df030157d587a9154544a943be3e", null ],
       [ "size", "classNdFlattener.html#abba958624e9349f1842dfe36e9b058e6", null ],
       [ "toPythonString_fromto", "classNdFlattener.html#a16279e15de6f0fa4f6edc3702018a2b5", null ],
-      [ "operator<<", "classNdFlattener.html#a48aa7d1032745b2e4a8abf2bf1ec08f4", null ]
+      [ "operator<<", "classNdFlattener.html#ade5dd1b122b74f8a64fa8aac985ef971", null ]
     ] ],
     [ "Nd_MPI_Environment", "structNd__MPI__Environment.html", [
       [ "MPI_Allgather_t", "structNd__MPI__Environment.html#a15dfd855910037c6669df56166afca35", null ],
@@ -142,13 +140,13 @@ var group__Containers =
       [ "allocate", "classNdFlattener_3_011_00_01Data__t___00_01Index__t___01_4.html#adb69d2887ccdba8d7f2f14c99c21be39", null ],
       [ "count_f", "classNdFlattener_3_011_00_01Data__t___00_01Index__t___01_4.html#abbc8389e20804222636bbac7f5acd09d", null ],
       [ "count_g", "classNdFlattener_3_011_00_01Data__t___00_01Index__t___01_4.html#a9c9aa457f79b8b5bee2d4d55f9c9fb75", null ],
-      [ "data", "classNdFlattener_3_011_00_01Data__t___00_01Index__t___01_4.html#acce7a4b7e27e96f29509456135803c80", null ],
-      [ "data", "classNdFlattener_3_011_00_01Data__t___00_01Index__t___01_4.html#a7c2e9f3a378e49d2bb1baa1c7cb1c983", null ],
+      [ "data", "classNdFlattener_3_011_00_01Data__t___00_01Index__t___01_4.html#aa19cc0dcefe3fc023a1b56dd26d05bbf", null ],
+      [ "data", "classNdFlattener_3_011_00_01Data__t___00_01Index__t___01_4.html#a22a11787e88ba9a12c60a25b3e3a3bbf", null ],
       [ "initialize", "classNdFlattener_3_011_00_01Data__t___00_01Index__t___01_4.html#aef5dcd681c9b50870c37d0004707090a", null ],
       [ "initialize_or_refresh", "classNdFlattener_3_011_00_01Data__t___00_01Index__t___01_4.html#a1ed58eba72715577c835b35128fe8540", null ],
       [ "initialized", "classNdFlattener_3_011_00_01Data__t___00_01Index__t___01_4.html#a8905da79f0ea609f1417c14d3db63336", null ],
-      [ "operator[]", "classNdFlattener_3_011_00_01Data__t___00_01Index__t___01_4.html#a6fd0f2713f9e2e3acdd7b708d8d3eb84", null ],
-      [ "operator[]", "classNdFlattener_3_011_00_01Data__t___00_01Index__t___01_4.html#a32c6f4d6c4a36d6d2d0361e91c45f75d", null ],
+      [ "operator[]", "classNdFlattener_3_011_00_01Data__t___00_01Index__t___01_4.html#a44bbbe5580037ff4ecae3e39a2592ab6", null ],
+      [ "operator[]", "classNdFlattener_3_011_00_01Data__t___00_01Index__t___01_4.html#a8ee0926026a2b328268d8553acea872a", null ],
       [ "refresh", "classNdFlattener_3_011_00_01Data__t___00_01Index__t___01_4.html#a079683b9cc112cdd655c0252e438247c", null ],
       [ "reset_iNode", "classNdFlattener_3_011_00_01Data__t___00_01Index__t___01_4.html#ad51b91db8677fdfba4bb136be0beb1ad", null ],
       [ "set_f", "classNdFlattener_3_011_00_01Data__t___00_01Index__t___01_4.html#a81321ed348a0514114ecf4a7bc539f0a", null ],
@@ -156,7 +154,7 @@ var group__Containers =
       [ "size", "classNdFlattener_3_011_00_01Data__t___00_01Index__t___01_4.html#a9b2f865322da41df47d55e0116d1c079", null ],
       [ "toPythonString_fromto", "classNdFlattener_3_011_00_01Data__t___00_01Index__t___01_4.html#a9985fc052db1844771c5f67aa730d422", null ]
     ] ],
-    [ "CFastFindAndEraseQueue< ItemType_, ErasedValue_, CleanupThreshold >", "classCFastFindAndEraseQueue.html", [
+    [ "CFastFindAndEraseQueue", "classCFastFindAndEraseQueue.html", [
       [ "ItemType", "classCFastFindAndEraseQueue.html#a88d1fcee38bf3ddfa8a90dd2292662f1", null ],
       [ "Iterator", "classCFastFindAndEraseQueue.html#a7c498430801a72906ce44b43506079b9", null ],
       [ "CFastFindAndEraseQueue", "classCFastFindAndEraseQueue.html#a07a7adc3bc541bb5349a74bc22011050", null ],
@@ -169,7 +167,7 @@ var group__Containers =
       [ "push_back", "classCFastFindAndEraseQueue.html#ae4fc002ef91b2e39606188c822af58f8", null ],
       [ "size", "classCFastFindAndEraseQueue.html#ae3f1170aab73fee35213b258d34f52ca", null ]
     ] ],
-    [ "CVertexMap< T >", "classCVertexMap.html", [
+    [ "CVertexMap", "classCVertexMap.html", [
       [ "Build", "classCVertexMap.html#adaaf69514da251457a61c66bee0b0fdc", null ],
       [ "GetIsValid", "classCVertexMap.html#a4cd7452ea54e1cdc82332dbcaafec5aa", null ],
       [ "GetIsVertex", "classCVertexMap.html#a6f9fcc87ce7ad5cdbad4728e1c39b045", null ],
@@ -194,8 +192,8 @@ var group__Containers =
       [ "DynamicSize", "group__Containers.html#ggaaf3a860fc60dd53990a6d0a7b15d8cada2f68ff68aac622acb5c581139a189c1a", null ]
     ] ],
     [ "StorageType", "group__Containers.html#ga6c29de45529a1faaf6cf960d318acb1a", [
-      [ "StorageType::RowMajor", "group__Containers.html#gga6c29de45529a1faaf6cf960d318acb1aabba47a7c03289a67ca347baa3f55be2f", null ],
-      [ "StorageType::ColumnMajor", "group__Containers.html#gga6c29de45529a1faaf6cf960d318acb1aaf695e73139b1c1d06d77655104370f00", null ]
+      [ "RowMajor", "group__Containers.html#gga6c29de45529a1faaf6cf960d318acb1aabba47a7c03289a67ca347baa3f55be2f", null ],
+      [ "ColumnMajor", "group__Containers.html#gga6c29de45529a1faaf6cf960d318acb1aaf695e73139b1c1d06d77655104370f00", null ]
     ] ],
     [ "AllocVectorOfMatrices", "group__Containers.html#gad1a8f746142753b9c82e7e2e6afa7981", null ],
     [ "AllocVectorOfMatrices", "group__Containers.html#gafd7de2a58812c9c1182a3fb1707ff5ce", null ],

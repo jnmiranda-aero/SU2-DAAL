@@ -1,0 +1,12 @@
+<map id="CSolver::SetResToZero" name="CSolver::SetResToZero">
+<area shape="rect" id="node1" title="Set the RMS and MAX residual to zero." alt="" coords="480,244,649,271"/>
+<area shape="rect" id="node2" href="$classCFEM__DG__EulerSolver.html#a5f05845eb2f1bb8619d7da896e6aa3f3" title="Update the solution using the classical fourth&#45;order Runge&#45;Kutta scheme." alt="" coords="5,77,181,118"/>
+<area shape="rect" id="node3" href="$classCAdjEulerSolver.html#ac6851acd72ffdbf5299680d5d92e065e" title="Update the solution using a explicit Euler scheme." alt="" coords="239,41,422,82"/>
+<area shape="rect" id="node4" href="$classCAdjEulerSolver.html#a853b9218167a682db73ca73c0fccc2cc" title="Update the solution using a Runge&#45;Kutta strategy." alt="" coords="239,106,422,147"/>
+<area shape="rect" id="node5" href="$classCFEM__DG__EulerSolver.html#a980de4518bb9a77a25146d56ae072acf" title="Update the solution using a Runge&#45;Kutta scheme." alt="" coords="10,269,177,310"/>
+<area shape="rect" id="node6" href="$classCDiscAdjFEASolver.html#a04c82d7de659c5882a0898bd4e73cdc2" title="Sets the adjoint values of the input variables of the flow (+turb.) iteration after tape has been eva..." alt="" coords="243,237,418,278"/>
+<area shape="rect" id="node7" href="$classCAdjEulerSolver.html#ab35fe7a0b2f840506e91d49961e07485" title="Update the solution using an implicit solver." alt="" coords="239,302,422,343"/>
+<area shape="rect" id="node8" href="$classCAdjTurbSolver.html#a119fd6cc599337fd229174474d69f0fb" title="Update the solution using an implicit solver." alt="" coords="242,367,419,409"/>
+<area shape="rect" id="node9" href="$classCRadP1Solver.html#a23716727a079c099d449da9befa86696" title="Update the solution using an implicit solver." alt="" coords="229,433,432,474"/>
+<area shape="rect" id="node10" href="$classCFEM__DG__EulerSolver.html#a34550ee1621eeabc419e7ddb64c0b52e" title="Update the solution using the classical fourth&#45;order Runge&#45;Kutta scheme." alt="" coords="241,171,420,213"/>
+</map>

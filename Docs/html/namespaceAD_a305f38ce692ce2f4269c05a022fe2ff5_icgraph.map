@@ -1,0 +1,11 @@
+<map id="AD::GetDerivative" name="AD::GetDerivative">
+<area shape="rect" id="node1" title="Extracts the adjoint value at index." alt="" coords="537,105,677,131"/>
+<area shape="rect" id="node2" href="$classCVariable.html#afe58b1f46354f33341460a0e9536b5e3" title="Get the adjoint values of the solution." alt="" coords="275,13,489,39"/>
+<area shape="rect" id="node5" href="$classCPoint.html#aa09e2e52b5ca78828ec377e01016c663" title="Get the adjoint values of the (geometric) coordinates." alt="" coords="285,195,479,222"/>
+<area shape="rect" id="node8" href="$classCVariable.html#a8888a5b67d3f1d4320ec5d90c1a7b9db" title=" " alt="" coords="275,64,489,105"/>
+<area shape="rect" id="node9" href="$classCVariable.html#a877dd26d6022099f794dd2db1bd8eb7c" title=" " alt="" coords="275,129,489,171"/>
+<area shape="rect" id="node3" href="$classCDiscAdjFEASolver.html#a04c82d7de659c5882a0898bd4e73cdc2" title="Sets the adjoint values of the input variables of the flow (+turb.) iteration after tape has been eva..." alt="" coords="29,5,203,47"/>
+<area shape="rect" id="node4" href="$classCDiscAdjSolver.html#a197e13969a8007038486acaabc5902c8" title="Sets the adjoint values of the input variables of the flow (+turb.) iteration after tape has been eva..." alt="" coords="5,71,227,112"/>
+<area shape="rect" id="node6" href="$classCDiscAdjFEASolver.html#a834a6946d2ecd5009b8032e668ef22d6" title="Extract and set the geometrical sensitivity." alt="" coords="39,161,193,203"/>
+<area shape="rect" id="node7" href="$classCDiscAdjSolver.html#a21a12c16fae44dfa916e27cf3a938b31" title="Extract and set the geometrical sensitivity." alt="" coords="7,227,225,254"/>
+</map>

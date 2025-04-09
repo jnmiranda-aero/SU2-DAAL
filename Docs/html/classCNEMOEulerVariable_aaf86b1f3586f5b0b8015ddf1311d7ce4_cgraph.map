@@ -1,0 +1,25 @@
+<map id="CNEMOEulerVariable::SetPrimVar" name="CNEMOEulerVariable::SetPrimVar">
+<area shape="rect" id="node1" title="Set all the primitive variables for compressible flows." alt="" coords="5,226,163,267"/>
+<area shape="rect" id="node2" href="$classCNEMOGas.html#a5f31f0eebb925a0a8a51198ca58fbd51" title="Compute ratio of specific heats (Gamma)." alt="" coords="211,77,425,104"/>
+<area shape="rect" id="node4" href="$classCNEMOEulerVariable.html#ad95dbeb3e9b5634fab7c6a768442c7b9" title="Set all the primitive and secondary variables from the conserved vector." alt="" coords="239,226,397,267"/>
+<area shape="rect" id="node23" href="$classCNEMOEulerVariable.html#a28dc0639ec1bd6819e51da776f12f226" title="Set the norm 2 of the velocity." alt="" coords="239,291,397,333"/>
+<area shape="rect" id="node3" href="$classCNEMOGas.html#a9c700828e55a8ecd33acf4ac5c0bd58b" title="Compute rhoCvtr." alt="" coords="494,5,705,32"/>
+<area shape="rect" id="node5" href="$classCNEMOGas.html#a424da7362e12de29fcebf761cb8eabaa" title="Compute derivative of pressure w.r.t. conservative variables." alt="" coords="501,259,698,285"/>
+<area shape="rect" id="node11" href="$classCNEMOGas.html#a5c1412972751e64d697721e22025d7dc" title="Compute derivative of temperature w.r.t. conservative variables." alt="" coords="501,309,698,336"/>
+<area shape="rect" id="node14" href="$classCNEMOGas.html#a4f7c7ae2ab41e0e10653c7d9dbc1e69c" title="Compute derivative of vibrational temperature w.r.t. conservative variables." alt="" coords="493,360,706,387"/>
+<area shape="rect" id="node15" href="$classCNEMOGas.html#a1e353110dadbb4e7fda738a645c9fa7e" title="Compute pressure." alt="" coords="490,411,709,437"/>
+<area shape="rect" id="node16" href="$classCNEMOGas.html#af0c73197b27c05f2f516a77c2476d9d9" title="Compute rhoCvve." alt="" coords="491,461,708,488"/>
+<area shape="rect" id="node17" href="$classCNEMOGas.html#a6f39e1ce28be876d068076dd162bce14" title="Compute species V&#45;E specific heats at constant volume." alt="" coords="788,471,1001,513"/>
+<area shape="rect" id="node18" href="$classCNEMOGas.html#aa94d405d2f27134ce5e4be39a4f63239" title="Compute speed of sound." alt="" coords="478,208,721,235"/>
+<area shape="rect" id="node20" href="$classCNEMOGas.html#aa1fcdfc3922e1e1779ba689736ab7db6" title="Compute vector of species V&#45;E energy." alt="" coords="481,56,718,83"/>
+<area shape="rect" id="node21" href="$classCNEMOGas.html#a181d9031c6f9d862af6fcb98dfcf4655" title="Compute translational and vibrational temperatures vector." alt="" coords="473,107,725,133"/>
+<area shape="rect" id="node22" href="$classCNEMOGas.html#a1504562f343368d93897601cb43aea70" title="Set mixture thermodynamic state." alt="" coords="483,157,716,184"/>
+<area shape="rect" id="node6" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="804,184,985,211"/>
+<area shape="rect" id="node8" href="$classCNEMOGas.html#a99fcf844d1e87f6883e1cfb363be74b3" title="Get reference temperature." alt="" coords="779,352,1010,379"/>
+<area shape="rect" id="node9" href="$classCNEMOGas.html#a67fbebd4d497989fb7d0ae3c1d242689" title="Get species T&#45;R specific heats at constant volume." alt="" coords="777,235,1012,261"/>
+<area shape="rect" id="node10" href="$classCNEMOGas.html#a21a832de3dae09a10308643423f9336e" title="Get species formation enthalpy." alt="" coords="773,286,1016,327"/>
+<area shape="rect" id="node7" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="1080,184,1265,211"/>
+<area shape="rect" id="node12" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="777,403,1012,429"/>
+<area shape="rect" id="node13" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="1064,403,1281,429"/>
+<area shape="rect" id="node19" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="871,133,918,160"/>
+</map>

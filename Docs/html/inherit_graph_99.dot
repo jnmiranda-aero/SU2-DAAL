@@ -1,9 +1,0 @@
-digraph "Graphical Class Hierarchy"
-{
- // LATEX_PDF_SIZE
-  bgcolor="transparent";
-  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
-  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
-  rankdir="LR";
-  Node0 [id="Node000000",label="container_details::\lAccessorImpl\< Index\l_t, Scalar_t, StorageType\l::RowMajor, AlignSize, 1,\l StaticCols \>",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classcontainer__details_1_1AccessorImpl_3_01Index__t_00_01Scalar__t_00_01StorageType_1_1RowMajor35550d3991c639765a36a4ff9cbc9cb8.html",tooltip=" "];
-}

@@ -1,0 +1,12 @@
+<map id="CNumerics::GetInviscidProjJac" name="CNumerics::GetInviscidProjJac">
+<area shape="rect" id="node1" title="Compute the projection of the inviscid Jacobian matrices." alt="" coords="312,224,531,251"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a4ad4a65b3fc5a51b1561436736f7f7ca" title="Impose the boundary condition using characteristic recostruction." alt="" coords="37,5,233,32"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a8e036f2dff1d945d814c93a74159a3cc" title="Impose the boundary condition using characteristic recostruction." alt="" coords="19,56,250,83"/>
+<area shape="rect" id="node4" href="$classCUpwRoeBase__Flow.html#ae828f7505381432012daa1618ff9f030" title="Compute the flux from node i to node j, part common to most Roe schemes." alt="" coords="24,107,245,149"/>
+<area shape="rect" id="node5" href="$classCUpwAUSM__Flow.html#a792ec6c1b75f7bbacc33566bbe7c0e88" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="5,173,264,200"/>
+<area shape="rect" id="node6" href="$classCUpwHLLC__Flow.html#a0669b93527f0a6b32cab988b41053cac" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="8,224,261,251"/>
+<area shape="rect" id="node7" href="$classCUpwGeneralHLLC__Flow.html#ac129696e54fd4d8933ba8f032deb27aa" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="43,275,226,317"/>
+<area shape="rect" id="node8" href="$classCUpwTurkel__Flow.html#aeea8b3f88efb753429306fe3c2076af4" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="33,341,236,382"/>
+<area shape="rect" id="node9" href="$classCUpwGeneralRoe__Flow.html#ae7835fc0d44bb290bef95f1e5ce3d90f" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="47,406,222,447"/>
+<area shape="rect" id="node10" href="$classCUpwRoe__AdjFlow.html#a190e5469a9419ffe74e23fe0c651a115" title="Compute the adjoint Roe&#39;s flux between two nodes i and j." alt="" coords="29,471,240,513"/>
+</map>

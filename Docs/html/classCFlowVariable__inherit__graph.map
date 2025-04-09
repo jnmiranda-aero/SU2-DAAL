@@ -1,0 +1,10 @@
+<map id="CFlowVariable" name="CFlowVariable">
+<area shape="rect" id="node1" title="Class for defining the common variables of flow solvers." alt="" coords="157,80,272,107"/>
+<area shape="rect" id="node3" href="$classCEulerVariable.html" title="Class for defining the variables of the compressible Euler solver." alt="" coords="5,155,123,181"/>
+<area shape="rect" id="node5" href="$classCIncEulerVariable.html" title="Class for defining the variables of the incompressible Euler solver." alt="" coords="147,155,283,181"/>
+<area shape="rect" id="node7" href="$classCNEMOEulerVariable.html" title="Main class for defining the variables of the NEMO Euler&#39;s solver." alt="" coords="307,155,464,181"/>
+<area shape="rect" id="node2" href="$classCVariable.html" title="Main class for defining the variables." alt="" coords="173,5,257,32"/>
+<area shape="rect" id="node4" href="$classCNSVariable.html" title="Class for defining the variables of the compressible Navier&#45;Stokes solver." alt="" coords="13,229,115,256"/>
+<area shape="rect" id="node6" href="$classCIncNSVariable.html" title="Class for defining the variables of the incompressible Navier&#45;Stokes solver." alt="" coords="154,229,275,256"/>
+<area shape="rect" id="node8" href="$classCNEMONSVariable.html" title="Main class for defining the variables of the NEMO Navier&#45;Stokes&#39; solver." alt="" coords="314,229,457,256"/>
+</map>

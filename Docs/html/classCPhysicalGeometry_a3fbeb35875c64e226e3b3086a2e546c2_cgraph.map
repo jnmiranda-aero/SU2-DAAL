@@ -1,0 +1,8 @@
+<map id="CPhysicalGeometry::FindFace" name="CPhysicalGeometry::FindFace">
+<area shape="rect" id="node1" title="Find repeated nodes between two elements to identify the common face." alt="" coords="5,99,163,141"/>
+<area shape="rect" id="node2" href="$classCPrimalGrid.html#a968851a20d3813133cf13537ef7711d1" title="Get nodes contained in a face." alt="" coords="232,5,399,32"/>
+<area shape="rect" id="node3" href="$classCPrimalGrid.html#a97b8d237861fce6067367e3c06318c20" title="Get number of faces of the element." alt="" coords="228,56,403,83"/>
+<area shape="rect" id="node4" href="$classCPrimalGrid.html#ad07e4929bb7093fd08f1314a57739cce" title="Get number of nodes of the element." alt="" coords="225,107,405,133"/>
+<area shape="rect" id="node5" href="$classCPrimalGrid.html#afed544f838cb2c35964b343f0002ad6a" title="Get number of nodes of a face of the element." alt="" coords="211,157,420,184"/>
+<area shape="rect" id="node6" href="$classCPrimalGrid.html#a6353b89f5a8a3948cd475da6152bf077" title="Get the nodes shared by the primal grid element." alt="" coords="233,208,398,235"/>
+</map>

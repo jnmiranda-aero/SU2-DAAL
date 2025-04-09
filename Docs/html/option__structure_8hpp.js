@@ -1,6 +1,6 @@
 var option__structure_8hpp =
 [
-    [ "CEmptyMap< T, U >", "structCEmptyMap.html", "structCEmptyMap" ],
+    [ "CEmptyMap", "structCEmptyMap.html", "structCEmptyMap" ],
     [ "SST_ParsedOptions", "structSST__ParsedOptions.html", "structSST__ParsedOptions" ],
     [ "SA_ParsedOptions", "structSA__ParsedOptions.html", "structSA__ParsedOptions" ],
     [ "LM_ParsedOptions", "structLM__ParsedOptions.html", "structLM__ParsedOptions" ],
@@ -63,6 +63,7 @@ var option__structure_8hpp =
       [ "FLUID_INTERFACE", "option__structure_8hpp.html#ab191e495c66e3b4c7560f90ad44e820bad46b4605d835bb78b19c3d9bb883cea3", null ],
       [ "DISP_DIR_BOUNDARY", "option__structure_8hpp.html#ab191e495c66e3b4c7560f90ad44e820ba819d931d399905907c87759b214f93fc", null ],
       [ "DAMPER_BOUNDARY", "option__structure_8hpp.html#ab191e495c66e3b4c7560f90ad44e820baa840712bcfecf6bee897238e0e69a1f8", null ],
+      [ "MIXING_PLANE_INTERFACE", "option__structure_8hpp.html#ab191e495c66e3b4c7560f90ad44e820ba9bfbd28c52db77ecfd04fb972508821a", null ],
       [ "CHT_WALL_INTERFACE", "option__structure_8hpp.html#ab191e495c66e3b4c7560f90ad44e820baecc2c307cf928130b789ea4014fde9ca", null ],
       [ "SMOLUCHOWSKI_MAXWELL", "option__structure_8hpp.html#ab191e495c66e3b4c7560f90ad44e820ba44a1ea6316605520b140274164973904", null ],
       [ "SEND_RECEIVE", "option__structure_8hpp.html#ab191e495c66e3b4c7560f90ad44e820ba6726dfcb3af593ac08c3adc64db073aa", null ]
@@ -464,16 +465,30 @@ var option__structure_8hpp =
       [ "CONJUGATE_HEAT_FS", "option__structure_8hpp.html#abe2f586ff973f0d21245321fa80e3856aefb692873e5ab4f2ef6133c21af3da5d", null ],
       [ "CONJUGATE_HEAT_WEAKLY_FS", "option__structure_8hpp.html#abe2f586ff973f0d21245321fa80e3856a846f17203b5dc0542f2975c0083d5839", null ],
       [ "CONJUGATE_HEAT_SF", "option__structure_8hpp.html#abe2f586ff973f0d21245321fa80e3856a2afc2616e4f72e1254d77afd0a961951", null ],
-      [ "CONJUGATE_HEAT_WEAKLY_SF", "option__structure_8hpp.html#abe2f586ff973f0d21245321fa80e3856acf9c04f4e7c5ffe34d0f777c0a714ef7", null ]
+      [ "CONJUGATE_HEAT_WEAKLY_SF", "option__structure_8hpp.html#abe2f586ff973f0d21245321fa80e3856acf9c04f4e7c5ffe34d0f777c0a714ef7", null ],
+      [ "CONJUGATE_HEAT_SS", "option__structure_8hpp.html#abe2f586ff973f0d21245321fa80e3856a058410350a31cc00adfca64fb9874cb1", null ]
     ] ],
     [ "FEM_SHOCK_CAPTURING_DG", "option__structure_8hpp.html#a6f734d2019596d01b1a7bfad33a96d47", [
       [ "NONE", "option__structure_8hpp.html#a6f734d2019596d01b1a7bfad33a96d47ab50339a10e1de285ac99d4c3990b8693", null ],
       [ "PERSSON", "option__structure_8hpp.html#a6f734d2019596d01b1a7bfad33a96d47af19f3665dab8ceb999b7b0a1e972e332", null ]
     ] ],
+    [ "FLAMELET_INIT_TYPE", "option__structure_8hpp.html#a4544681f56d6038ce53c63f03b4f721f", [
+      [ "FLAME_FRONT", "option__structure_8hpp.html#a4544681f56d6038ce53c63f03b4f721fa8e85a6def5ca1fa9ec85eb540bff956d", null ],
+      [ "SPARK", "option__structure_8hpp.html#a4544681f56d6038ce53c63f03b4f721fa7547ffe7411acf919dbbf16abde429ea", null ],
+      [ "NONE", "option__structure_8hpp.html#a4544681f56d6038ce53c63f03b4f721fab50339a10e1de285ac99d4c3990b8693", null ]
+    ] ],
     [ "FLAMELET_LOOKUP_OPS", "option__structure_8hpp.html#a1126ef8036c3bbaef159d1ea15ef6a02", [
-      [ "TD", "option__structure_8hpp.html#a1126ef8036c3bbaef159d1ea15ef6a02a72b44b3e982528390999219fc81f299e", null ],
+      [ "THERMO", "option__structure_8hpp.html#a1126ef8036c3bbaef159d1ea15ef6a02a6f861b5465c464b882fab814830969d5", null ],
+      [ "PREFDIF", "option__structure_8hpp.html#a1126ef8036c3bbaef159d1ea15ef6a02a89850aba87467504d6a675df67fc2301", null ],
       [ "SOURCES", "option__structure_8hpp.html#a1126ef8036c3bbaef159d1ea15ef6a02a61bdd664b432d46355b66d96c9140749", null ],
       [ "LOOKUP", "option__structure_8hpp.html#a1126ef8036c3bbaef159d1ea15ef6a02a4909b1bd07519e440222256440fdcef1", null ]
+    ] ],
+    [ "FLAMELET_PREF_DIFF_SCALARS", "option__structure_8hpp.html#a86b829da8b548edbba43c5a62c32d2cf", [
+      [ "I_BETA_PROGVAR", "option__structure_8hpp.html#a86b829da8b548edbba43c5a62c32d2cfae6cea46ebdbd91012bc9761e7dd9cd77", null ],
+      [ "I_BETA_ENTH_THERMAL", "option__structure_8hpp.html#a86b829da8b548edbba43c5a62c32d2cfa184f852ad9f35cc0356c6ff942538930", null ],
+      [ "I_BETA_ENTH", "option__structure_8hpp.html#a86b829da8b548edbba43c5a62c32d2cfa49a102ce9794cebed6a97f77d0c5f902", null ],
+      [ "I_BETA_MIXFRAC", "option__structure_8hpp.html#a86b829da8b548edbba43c5a62c32d2cfa474a63b4e636400a79e98b94d7732b47", null ],
+      [ "N_BETA_TERMS", "option__structure_8hpp.html#a86b829da8b548edbba43c5a62c32d2cfadea25f74fe41199e5d58a6c337ea2c71", null ]
     ] ],
     [ "FLAMELET_SCALAR_SOURCES", "option__structure_8hpp.html#a92f5e2c29d27effe9876b2b403ad2834", [
       [ "I_SRC_TOT_PROGVAR", "option__structure_8hpp.html#a92f5e2c29d27effe9876b2b403ad2834a69b7f8b16020d599459df61d765ec1f1", null ]
@@ -619,31 +634,31 @@ var option__structure_8hpp =
       [ "DAVIDSON", "option__structure_8hpp.html#a6c55b72b141421817c35db7a76e1f6aea9323ac6d8551387e1d9dd12e1ec85670", null ]
     ] ],
     [ "MPI_QUANTITIES", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8", [
-      [ "SOLUTION", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a0a57d2bc6d4da43c5fdb8c9293764d8d", null ],
-      [ "SOLUTION_OLD", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a978d8a6c575779b797118861b3c74dcb", null ],
-      [ "SOLUTION_GRADIENT", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8ae8b8d9e9a60d113dd786b20c08207860", null ],
-      [ "SOLUTION_GRAD_REC", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8aabd6b0f416f08600317ee1ca9478247d", null ],
-      [ "SOLUTION_LIMITER", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8ac34f47aacf0c4c73377969ff411d495d", null ],
-      [ "SOLUTION_GEOMETRY", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8abf22a21de92af3556078eea33e868b55", null ],
-      [ "PRIMITIVE_GRADIENT", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a3a27f5796217e7f4101a88767917287e", null ],
-      [ "PRIMITIVE_GRAD_REC", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a0d694c97786a5d477fa662d2a4a04ce7", null ],
-      [ "PRIMITIVE_LIMITER", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a7cc293376db71d296890639eb8d4f00f", null ],
-      [ "UNDIVIDED_LAPLACIAN", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a58b0d2ba5f86b871c416394eb8ba0f8f", null ],
-      [ "MAX_EIGENVALUE", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a13a3bda2dc00a9cd49c807bb496c1bff", null ],
-      [ "SENSOR", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a6d497d39379053324114e5611323b558", null ],
-      [ "AUXVAR_GRADIENT", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a958b1d9b7a5fc7d6be8614641eb4ccac", null ],
-      [ "COORDINATES", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8ac90c41d0a11f95d403bc4ce0765a8821", null ],
-      [ "COORDINATES_OLD", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8ac0bc01242e2aee8085b769dfc491938e", null ],
-      [ "MAX_LENGTH", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a3036100f2a273f3d86b03f64b38945c7", null ],
-      [ "GRID_VELOCITY", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8adc8493c3166bd43dc0ac31bf01a6f5ed", null ],
-      [ "SOLUTION_EDDY", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a085328b23109a604ee6c34a0b60926ee", null ],
-      [ "SOLUTION_MATRIX", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8aab42a52cee185f74ab02a37b8d161520", null ],
-      [ "SOLUTION_MATRIXTRANS", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8acbc207d736e78607d9bbec12c1b60ea9", null ],
-      [ "NEIGHBORS", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a3144a61ca7a1682482af5b3fad69a06e", null ],
-      [ "SOLUTION_FEA", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a3c40de88bb76ca08b3338e2900c0da27", null ],
-      [ "MESH_DISPLACEMENTS", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a639566b805c8b693218e76ddbf1b15d7", null ],
-      [ "SOLUTION_TIME_N", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a9ed1df1b131d17ef1ca96b08c6213d1e", null ],
-      [ "SOLUTION_TIME_N1", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a70a0937c316a2e3cccf488db39a35bfb", null ]
+      [ "SOLUTION", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8ae3d87c0113dc985c598feb409a45c552", null ],
+      [ "SOLUTION_OLD", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a244975eeb0b784716af640e6172cdfff", null ],
+      [ "SOLUTION_GRADIENT", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a0aef5041f34fa4089032e366e7f36109", null ],
+      [ "SOLUTION_GRAD_REC", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a2cdc1d82803f6643570884c592eab6ed", null ],
+      [ "SOLUTION_LIMITER", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8aed2d27ef45d198a3983b147952af3480", null ],
+      [ "SOLUTION_GEOMETRY", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a6f19d15e74ca4ddd5d1454efb2900d4e", null ],
+      [ "PRIMITIVE_GRADIENT", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8ad76f1f5faf39ad3bcce1dd8bd23f4734", null ],
+      [ "PRIMITIVE_GRAD_REC", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a639d375c598851425022ce5d4c98c02d", null ],
+      [ "PRIMITIVE_LIMITER", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a7dbca5e27b8f43b84d0823a0ef646027", null ],
+      [ "UNDIVIDED_LAPLACIAN", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8ae086040a334088a6828e6bcee4daad1f", null ],
+      [ "MAX_EIGENVALUE", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a6cbd225ed865bdc0feaf92ed66c259b7", null ],
+      [ "SENSOR", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a72700b6ac14b90435377dcbaeb77e908", null ],
+      [ "AUXVAR_GRADIENT", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8ad31d51cb51469d2041a731888d73bb2f", null ],
+      [ "COORDINATES", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a07a0deb070c05721913446dffa0d003d", null ],
+      [ "COORDINATES_OLD", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a3c9516319718260f4c465d7f4342ada1", null ],
+      [ "MAX_LENGTH", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a4aba510a03033f785222cd6286058e24", null ],
+      [ "GRID_VELOCITY", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8aac1aef59de5b80fb89318e68c9f288bd", null ],
+      [ "SOLUTION_EDDY", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a9a52312e11e9202a08b8cfaf2aada7c5", null ],
+      [ "SOLUTION_MATRIX", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8aeff3f40497ae8300b902bb193a2406da", null ],
+      [ "SOLUTION_MATRIXTRANS", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8ae9b3d696b73db3f0d222fbc24756bf64", null ],
+      [ "NEIGHBORS", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a07351ca018df2ccc51fedf8d0077f308", null ],
+      [ "SOLUTION_FEA", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a9ad4bc43f5550ddb35a9f59fb2630702", null ],
+      [ "MESH_DISPLACEMENTS", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a37d4e6a8b070208ec60657106d107e81", null ],
+      [ "SOLUTION_TIME_N", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8a3a3da525b7c17468d65ea235360d4c8a", null ],
+      [ "SOLUTION_TIME_N1", "option__structure_8hpp.html#adfbf8ea588ac42ebd8a665059e6ff5f8aae6f35f5d331fd806cfcccda4f6e2cd8", null ]
     ] ],
     [ "OUTPUT_TYPE", "option__structure_8hpp.html#a99b6392c0fe62cd0c9dda63166cfa3a7", [
       [ "TECPLOT_ASCII", "option__structure_8hpp.html#a99b6392c0fe62cd0c9dda63166cfa3a7adc6cca8c08254e28a70236338b1bb89f", null ],
@@ -733,7 +748,8 @@ var option__structure_8hpp =
       [ "TOTAL_CONDITIONS_PT_1D", "option__structure_8hpp.html#a5d71f391b914291d278ea064ff1d630aabc8cee54e82d1e7128cc51863c37a148", null ],
       [ "STATIC_PRESSURE_1D", "option__structure_8hpp.html#a5d71f391b914291d278ea064ff1d630aaa15eb2303f49427ac74f693a3dd6cd3a", null ],
       [ "MIXING_IN_1D", "option__structure_8hpp.html#a5d71f391b914291d278ea064ff1d630aa774c35284e3a4a7bd9d6ecafc8efa97f", null ],
-      [ "MIXING_OUT_1D", "option__structure_8hpp.html#a5d71f391b914291d278ea064ff1d630aa8b2216efb09e73909ab9ec3b8d9b8219", null ]
+      [ "MIXING_OUT_1D", "option__structure_8hpp.html#a5d71f391b914291d278ea064ff1d630aa8b2216efb09e73909ab9ec3b8d9b8219", null ],
+      [ "MASS_FLOW_OUTLET", "option__structure_8hpp.html#a5d71f391b914291d278ea064ff1d630aa4cfc21c56178927e847105c1085ee740", null ]
     ] ],
     [ "RUNTIME_TYPE", "option__structure_8hpp.html#a7e162632f7c8dace0313ad71c9a811f9", [
       [ "RUNTIME_FLOW_SYS", "option__structure_8hpp.html#a7e162632f7c8dace0313ad71c9a811f9a0f9e86331d89aeb72cd2a86b0bd87539", null ],
@@ -798,7 +814,10 @@ var option__structure_8hpp =
       [ "SUST", "option__structure_8hpp.html#a5657cf5262cc4b622f4cbf26ecae8aa5a87b8941c38894afc2711eaf87264d21a", null ],
       [ "V", "option__structure_8hpp.html#a5657cf5262cc4b622f4cbf26ecae8aa5a5206560a306a2e085a437fd258eb57ce", null ],
       [ "KL", "option__structure_8hpp.html#a5657cf5262cc4b622f4cbf26ecae8aa5a7e9293e90055a83d4943872232ff638f", null ],
-      [ "UQ", "option__structure_8hpp.html#a5657cf5262cc4b622f4cbf26ecae8aa5a98f7108ed4390cdde92189a65fa7bf6c", null ]
+      [ "UQ", "option__structure_8hpp.html#a5657cf5262cc4b622f4cbf26ecae8aa5a98f7108ed4390cdde92189a65fa7bf6c", null ],
+      [ "COMP_Wilcox", "option__structure_8hpp.html#a5657cf5262cc4b622f4cbf26ecae8aa5a3f8ed89b7eeaaf408e772bca74280929", null ],
+      [ "COMP_Sarkar", "option__structure_8hpp.html#a5657cf5262cc4b622f4cbf26ecae8aa5aac12e77f82c0400e8dac4b8ce70ef72e", null ],
+      [ "DLL", "option__structure_8hpp.html#a5657cf5262cc4b622f4cbf26ecae8aa5a5884e40d596370be5406f2711ad9e39a", null ]
     ] ],
     [ "STRUCT_2DFORM", "option__structure_8hpp.html#a9ae6fcae1224b0f2b52b62e3ba7d3367", [
       [ "PLANE_STRESS", "option__structure_8hpp.html#a9ae6fcae1224b0f2b52b62e3ba7d3367a2bb7f6493075aaa448bb88cfc992773f", null ],
@@ -881,6 +900,10 @@ var option__structure_8hpp =
     [ "TURB_TRANS_MODEL", "option__structure_8hpp.html#aca40600ba90fbc6924184d8e237ee845", [
       [ "NONE", "option__structure_8hpp.html#aca40600ba90fbc6924184d8e237ee845ab50339a10e1de285ac99d4c3990b8693", null ],
       [ "LM", "option__structure_8hpp.html#aca40600ba90fbc6924184d8e237ee845adfd5b430bc4db2c2836d0227ad9ac0c4", null ]
+    ] ],
+    [ "TURBO_INTERFACE_KIND", "option__structure_8hpp.html#a73d978c71da73e87d1047096c85ea4eb", [
+      [ "MIXING_PLANE", "option__structure_8hpp.html#a73d978c71da73e87d1047096c85ea4ebade44958c6c43ccbe8b56dc8957fbffa4", null ],
+      [ "FROZEN_ROTOR", "option__structure_8hpp.html#a73d978c71da73e87d1047096c85ea4ebab1aa590b4a7f3f4d0991bd41c410a1d5", null ]
     ] ],
     [ "TURBO_MARKER_TYPE", "option__structure_8hpp.html#abf58c0c4229bbafd71de094eba3528cf", [
       [ "INFLOW", "option__structure_8hpp.html#abf58c0c4229bbafd71de094eba3528cfa8c7e97da6bd5c3568ccc5ee6cd958c87", null ],

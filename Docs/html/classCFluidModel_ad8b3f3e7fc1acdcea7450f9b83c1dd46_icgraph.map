@@ -1,0 +1,26 @@
+<map id="CFluidModel::GetStaticEnergy" name="CFluidModel::GetStaticEnergy">
+<area shape="rect" id="node1" title="Get fluid internal energy." alt="" coords="659,427,875,453"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a40fad0a57e8dcba8a8f4d4fa8eab02f0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="374,5,545,32"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a4ad4a65b3fc5a51b1561436736f7f7ca" title="Impose the boundary condition using characteristic recostruction." alt="" coords="361,56,557,83"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#a8e036f2dff1d945d814c93a74159a3cc" title="Impose the boundary condition using characteristic recostruction." alt="" coords="344,107,575,133"/>
+<area shape="rect" id="node5" href="$classCFEM__DG__EulerSolver.html#a5bfdc0bca1daa8e5d716d4fc3c7f5867" title="Function, which computes the boundary states in the integration points of the boundary face by applyi..." alt="" coords="360,158,559,199"/>
+<area shape="rect" id="node8" href="$classCTurbomachineryStagePerformance.html#adfa2f6b197c47a6b29c4613e3765771b" title=" " alt="" coords="316,223,603,265"/>
+<area shape="rect" id="node10" href="$classCEulerSolver.html#a20c173e52b1401a8f2256d0298d82037" title="Recompute the extrapolated quantities, after MUSCL reconstruction, in a more thermodynamically consis..." alt="" coords="339,354,580,395"/>
+<area shape="rect" id="node12" href="$classCTurbineBladePerformance.html#aaa35eca235d0770990ba278a06955340" title=" " alt="" coords="33,486,232,527"/>
+<area shape="rect" id="node13" href="$classCCompressorBladePerformance.html#a0f893ece6419441d7e0060a0f08ed2b1" title=" " alt="" coords="18,569,247,610"/>
+<area shape="rect" id="node14" href="$classCTurbomachineryState.html#a9d68929143e8392efdce0024d0db6711" title=" " alt="" coords="375,537,544,578"/>
+<area shape="rect" id="node15" href="$classCTurbomachineryStagePerformance.html#ae17b6e09a00bc719ff4d0d51cc32e6a3" title=" " alt="" coords="331,289,587,330"/>
+<area shape="rect" id="node16" href="$classCEulerSolver.html#ad467ce7e89c0910acaf6ce91eb493fb0" title="Apply low Mach number correction to the primitives at two points, usually connected by an edge." alt="" coords="343,419,576,461"/>
+<area shape="rect" id="node17" href="$classCEulerSolver.html#ad3cdd2a1dd358b558857951b8a339318" title="it performs a mixed out average of the nodes of a boundary." alt="" coords="372,654,547,695"/>
+<area shape="rect" id="node19" href="$classCEulerSolver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="317,720,601,747"/>
+<area shape="rect" id="node21" href="$classCIncEulerSolver.html#a2cffaa24417cb3803d36d38b3874d6d0" title="Set the solver nondimensionalization." alt="" coords="308,775,611,801"/>
+<area shape="rect" id="node23" href="$classCFEM__DG__EulerSolver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="359,829,560,870"/>
+<area shape="rect" id="node6" href="$classCFEM__DG__EulerSolver.html#aaff04081aba8d9e24f0e615161e8020f" title="Impose the boundary condition using characteristic reconstruction. It is a virtual function,..." alt="" coords="49,110,216,151"/>
+<area shape="rect" id="node7" href="$classCFEM__DG__NSSolver.html#a22b8079ccea001f1a35d236bfb2750d4" title="Impose the boundary condition using characteristic reconstruction." alt="" coords="43,175,222,217"/>
+<area shape="rect" id="node9" href="$classCTurbomachineryStagePerformance.html#a90d5595e3160222c0e3e1b4e2a3b2583" title=" " alt="" coords="5,273,260,314"/>
+<area shape="rect" id="node11" href="$classCEulerSolver.html#aa9729921eed9546daca6ca891ad2a9bb" title="Compute the spatial integration using a upwind scheme." alt="" coords="51,413,214,454"/>
+<area shape="rect" id="node18" href="$classCEulerSolver.html#afe2f428da073b80f64c41422971f9748" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="32,651,233,693"/>
+<area shape="rect" id="node20" href="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460" title="Main constructor of this class." alt="" coords="35,717,231,744"/>
+<area shape="rect" id="node22" href="$classCIncEulerSolver.html#a2a0c72c1d1d79e45c69da03e01f6281a" title="Constructor of the class." alt="" coords="36,769,229,810"/>
+<area shape="rect" id="node24" href="$classCFEM__DG__EulerSolver.html#a70d30ef9e7cd7620d54ec73f4b1ed28c" title=" " alt="" coords="45,834,220,875"/>
+</map>

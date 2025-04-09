@@ -1,0 +1,4 @@
+<map id="CConfig::GetCFLRedCoeff_AdjTurb" name="CConfig::GetCFLRedCoeff_AdjTurb">
+<area shape="rect" id="node1" title="Get CFL reduction factor for adjoint turbulence model." alt="" coords="231,5,417,47"/>
+<area shape="rect" id="node2" href="$classCAdjTurbSolver.html#a119fd6cc599337fd229174474d69f0fb" title="Update the solution using an implicit solver." alt="" coords="5,5,183,47"/>
+</map>

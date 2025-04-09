@@ -1,0 +1,5 @@
+<map id="CNEMOEulerVariable::GetPrimitive_Aux" name="CNEMOEulerVariable::GetPrimitive_Aux">
+<area shape="rect" id="node1" title="Get the primitive variables for all points." alt="" coords="549,5,707,47"/>
+<area shape="rect" id="node2" href="$classCNEMONSSolver.html#aed93127447e3f92ba0c25a33adef7065" title="Compute the gradient of the primitive variables using Green&#45;Gauss method, and stores the result in th..." alt="" coords="283,5,501,47"/>
+<area shape="rect" id="node3" href="$classCNEMONSSolver.html#aef1c13c42cd8103377619f7d94660d6a" title="Restart residual and compute gradients." alt="" coords="5,13,235,39"/>
+</map>

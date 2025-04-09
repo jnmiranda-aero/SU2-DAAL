@@ -1,0 +1,6 @@
+<map id="CDriverBase::GetMarkerTypes" name="CDriverBase::GetMarkerTypes">
+<area shape="rect" id="node1" title="Get all the boundary markers tags with their associated types." alt="" coords="5,78,221,105"/>
+<area shape="rect" id="node2" href="$classCConfig.html#ae003cd8f406eaaa91849a774c9a20730" title="Get the kind of boundary for each marker." alt="" coords="285,5,433,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#ab8c9c1f45950a29355be4ff357049440" title="Get the index of the surface defined in the geometry file." alt="" coords="285,71,433,112"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="269,137,449,163"/>
+</map>

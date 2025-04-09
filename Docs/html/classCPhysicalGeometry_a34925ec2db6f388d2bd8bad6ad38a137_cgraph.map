@@ -1,0 +1,14 @@
+<map id="CPhysicalGeometry::DistributePoints" name="CPhysicalGeometry::DistributePoints">
+<area shape="rect" id="node1" title="Distribute the grid points, including ghost points, across all ranks based on a ParMETIS coloring." alt="" coords="5,191,163,233"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#ade915135d4560a390849e5744488b5ef" title=" " alt="" coords="211,5,407,32"/>
+<area shape="rect" id="node3" href="$classCPhysicalGeometry.html#af4280607f8bcb8feaff6daba48a9e686" title="Routine to complete the set of non&#45;blocking communications launched with InitiateComms() with MPI_Wai..." alt="" coords="230,57,387,98"/>
+<area shape="rect" id="node5" href="$classCPoint.html#a852297a7e4908f8bccd4e48f14df5c4c" title="Get the color of a point, the color indicates to which subdomain the point belong to." alt="" coords="244,123,373,149"/>
+<area shape="rect" id="node6" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="455,240,671,267"/>
+<area shape="rect" id="node7" href="$classCPoint.html#ab16c29dd03911529cd73bf467c313179" title="Get the coordinates dor the control volume." alt="" coords="242,224,375,251"/>
+<area shape="rect" id="node8" href="$classCPoint.html#a8a53865a92d645b1b74c4d817b4aae10" title="Get the global index in a parallel computation." alt="" coords="222,275,395,301"/>
+<area shape="rect" id="node9" href="$classCGeometry.html#a275fb07cd99ab79d7a04b4862280169d" title="Get number of points." alt="" coords="225,325,392,352"/>
+<area shape="rect" id="node10" href="$classCPhysicalGeometry.html#a52f4041e9784f1165192417cf09387d2" title="Routine to launch non&#45;blocking sends and recvs amongst all processors." alt="" coords="230,377,387,418"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a5f4a1382f625fbbfb2c6224a87591825" title=" " alt="" coords="461,64,664,91"/>
+<area shape="rect" id="node11" href="$classCBaseMPIWrapper.html#a672b3e2ba61a86f9a157e7623389c000" title=" " alt="" coords="471,359,654,385"/>
+<area shape="rect" id="node12" href="$classCBaseMPIWrapper.html#a4009cae40f1e050b3635a8d803dbfa3d" title=" " alt="" coords="470,409,655,436"/>
+</map>

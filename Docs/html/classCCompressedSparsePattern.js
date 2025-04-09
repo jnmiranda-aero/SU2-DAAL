@@ -9,11 +9,11 @@ var classCCompressedSparsePattern =
     [ "CCompressedSparsePattern", "classCCompressedSparsePattern.html#ac3c500ea32c30ffb77066823a5f2a79c", null ],
     [ "buildDiagPtr", "classCCompressedSparsePattern.html#ae5cfc35029134b4312a9c50380e41b75", null ],
     [ "buildTransposePtr", "classCCompressedSparsePattern.html#aeda12f12ffb4d5161ec075c63c0f9042", null ],
-    [ "diagPtr", "classCCompressedSparsePattern.html#a21b9d48bb644fc4b4a0b49d9d881deb4", null ],
+    [ "diagPtr", "classCCompressedSparsePattern.html#a564d38268f001abf595b141490b50c29", null ],
     [ "empty", "classCCompressedSparsePattern.html#a1e38e3a6aba12be3be4804b1c132721d", null ],
     [ "findInnerIdx", "classCCompressedSparsePattern.html#a9c10bdb2c025b6d23fe71497593c638e", null ],
     [ "getDiagPtr", "classCCompressedSparsePattern.html#aeae8b488af4a043b5b21a6aa1f1eb85a", null ],
-    [ "getInnerIdx", "classCCompressedSparsePattern.html#a29484f10a496160bb5b56582442c52ed", null ],
+    [ "getInnerIdx", "classCCompressedSparsePattern.html#a22b074bfb53f427f5c2025b2a97b065e", null ],
     [ "getInnerIdx", "classCCompressedSparsePattern.html#a8c4b5a2720a4ebb463c0d8152f052e4d", null ],
     [ "getInnerIter", "classCCompressedSparsePattern.html#a69b7d1cd5652311246a3fba8c5f0e3f5", null ],
     [ "getMaxInnerIdx", "classCCompressedSparsePattern.html#a61ba6459b64fdb9b129ee4e39a71883c", null ],
@@ -21,10 +21,10 @@ var classCCompressedSparsePattern =
     [ "getNumNonZeros", "classCCompressedSparsePattern.html#abbca9e2c2e9f3d3f568772f9edf0c0aa", null ],
     [ "getNumNonZeros", "classCCompressedSparsePattern.html#ace54b72503c93e7ae815cbb609d02c8d", null ],
     [ "getOuterSize", "classCCompressedSparsePattern.html#a4de286153b0c181571a5c6177ee65bdf", null ],
-    [ "innerIdx", "classCCompressedSparsePattern.html#a56124980a9fb982ca9cde815597512a3", null ],
-    [ "innerIdx", "classCCompressedSparsePattern.html#ac00f67ff03eae13be916e3b23ae750d6", null ],
+    [ "innerIdx", "classCCompressedSparsePattern.html#a9f0420337a57195bafe6b2e0965de83f", null ],
+    [ "innerIdx", "classCCompressedSparsePattern.html#a38c4de1ab0787d862cb63a121fe3abbb", null ],
     [ "isNonZero", "classCCompressedSparsePattern.html#aad301edf20330aa7f4380d33e0a86e45", null ],
-    [ "outerPtr", "classCCompressedSparsePattern.html#afad476085646cd0bd3354ab94ec74439", null ],
+    [ "outerPtr", "classCCompressedSparsePattern.html#a23213a9f143951577af546d69b907d1b", null ],
     [ "quickFindInnerIdx", "classCCompressedSparsePattern.html#aca14bb64c38544df7dfda725fc71d29a", null ],
-    [ "transposePtr", "classCCompressedSparsePattern.html#adc159a3fa77c16750be0db94a5ca1f75", null ]
+    [ "transposePtr", "classCCompressedSparsePattern.html#ac991b28af3497e0a010ab88245f9413c", null ]
 ];

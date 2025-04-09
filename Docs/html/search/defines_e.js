@@ -1,4 +1,19 @@
 var searchData=
 [
-  ['univ_5faccessors_0',['UNIV_ACCESSORS',['../C2DContainer_8hpp.html#ab9777435b69cccddac819c0dcc0fbf6b',1,'C2DContainer.hpp']]]
+  ['sprintf_18182',['SPRINTF',['../datatype__structure_8hpp.html#a92d04fe74201d58bc774099a3f5a52da',1,'datatype_structure.hpp']]],
+  ['su2_5fnowait_18183',['SU2_NOWAIT',['../omp__structure_8hpp.html#a4cbf5bdb1bcfe8cecb71791f68fc8c13',1,'omp_structure.hpp']]],
+  ['su2_5fomp_18184',['SU2_OMP',['../omp__structure_8hpp.html#a670ddd5b467f08fed4e12640bf55342b',1,'omp_structure.hpp']]],
+  ['su2_5fomp_5fatomic_18185',['SU2_OMP_ATOMIC',['../omp__structure_8hpp.html#a1742adf5c827b303d534de8fa3b40cd7',1,'omp_structure.hpp']]],
+  ['su2_5fomp_5fbarrier_18186',['SU2_OMP_BARRIER',['../omp__structure_8hpp.html#a64df77c2add1eb303fd8414062849994',1,'omp_structure.hpp']]],
+  ['su2_5fomp_5fcritical_18187',['SU2_OMP_CRITICAL',['../omp__structure_8hpp.html#a9206e1e176a8c92eddb9520b016bb85d',1,'omp_structure.hpp']]],
+  ['su2_5fomp_5ffor_5f_18188',['SU2_OMP_FOR_',['../omp__structure_8hpp.html#a4447486298fc8cf5ed9024c7e864f00b',1,'omp_structure.hpp']]],
+  ['su2_5fomp_5ffor_5fdyn_18189',['SU2_OMP_FOR_DYN',['../omp__structure_8hpp.html#a8fc635504c2998560c0a0ee601f2ebca',1,'omp_structure.hpp']]],
+  ['su2_5fomp_5ffor_5fstat_18190',['SU2_OMP_FOR_STAT',['../omp__structure_8hpp.html#acd7cf2a231152d171697d94a825f0b4a',1,'omp_structure.hpp']]],
+  ['su2_5fomp_5fmaster_18191',['SU2_OMP_MASTER',['../omp__structure_8hpp.html#a72395065ea8b0e917ed27cdae07db7aa',1,'omp_structure.hpp']]],
+  ['su2_5fomp_5fparallel_18192',['SU2_OMP_PARALLEL',['../omp__structure_8hpp.html#a9ba49ca787a9f3f403fbec7ca79d8459',1,'omp_structure.hpp']]],
+  ['su2_5fomp_5fparallel_5f_18193',['SU2_OMP_PARALLEL_',['../omp__structure_8hpp.html#a41238977d33194359400993e87bfa2cd',1,'omp_structure.hpp']]],
+  ['su2_5fomp_5fparallel_5fon_18194',['SU2_OMP_PARALLEL_ON',['../omp__structure_8hpp.html#a1e4e5c79e6f70a8da9dc56de7f669330',1,'omp_structure.hpp']]],
+  ['su2_5fomp_5fsafe_5fglobal_5faccess_18195',['SU2_OMP_SAFE_GLOBAL_ACCESS',['../omp__structure_8hpp.html#aabf6f42b7084fb9da00f6f6e1ffb52b2',1,'omp_structure.hpp']]],
+  ['su2_5fomp_5fsimd_18196',['SU2_OMP_SIMD',['../omp__structure_8hpp.html#abe5a4b1c8784e683bb8ae70a17a0b827',1,'omp_structure.hpp']]],
+  ['su2_5fomp_5fsimd_5fif_5fnot_5fad_18197',['SU2_OMP_SIMD_IF_NOT_AD',['../omp__structure_8hpp.html#adad39a91b3259805668517e31e336a5f',1,'omp_structure.hpp']]]
 ];

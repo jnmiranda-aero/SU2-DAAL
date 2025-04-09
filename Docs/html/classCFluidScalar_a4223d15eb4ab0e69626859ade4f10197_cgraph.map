@@ -1,0 +1,13 @@
+<map id="CFluidScalar::SetThermalConductivityModel" name="CFluidScalar::SetThermalConductivityModel">
+<area shape="rect" id="node1" title="Set thermal conductivity model." alt="" coords="5,202,192,243"/>
+<area shape="rect" id="node2" href="$classCFluidModel.html#a906430175741549b72c46b5e162149ca" title="Instantiate the right type of conductivity model based on config." alt="" coords="240,202,440,243"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="508,5,689,32"/>
+<area shape="rect" id="node5" href="$classCConfig.html#abcea1b740b0b907b5db34c01de6e74d6" title="Returns the name of the fluid we are using in CoolProp." alt="" coords="508,56,689,83"/>
+<area shape="rect" id="node6" href="$classCConfig.html#acd8ad5627f0ef500dddc707b7e298527" title="Get the value of the thermal conductivity model." alt="" coords="488,107,709,149"/>
+<area shape="rect" id="node7" href="$classCConfig.html#aa7f1bd98e97759c6bf1a5fb1cce7ab49" title="Get the value of the turbulent thermal conductivity model." alt="" coords="488,173,709,214"/>
+<area shape="rect" id="node8" href="$classCConfig.html#aafd61b148ed51feef90e5518ed0a0c38" title="Get the temperature polynomial coefficient for thermal conductivity." alt="" coords="495,239,702,265"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a502035c2b049606186e11e01b7df626a" title="Get the value of the laminar Prandtl number." alt="" coords="507,289,691,316"/>
+<area shape="rect" id="node10" href="$classCConfig.html#a4b89ad15fa82f93ca8ccfe945e2c14a7" title="Get the value of the turbulent Prandtl number." alt="" coords="507,340,690,367"/>
+<area shape="rect" id="node11" href="$classCConfig.html#a9b6516947c8242185bb1d29e3e5e3854" title="Get the value of the non&#45;dimensional thermal conductivity." alt="" coords="501,391,697,433"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="757,5,943,32"/>
+</map>

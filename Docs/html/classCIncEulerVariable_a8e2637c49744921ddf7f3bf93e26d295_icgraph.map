@@ -1,0 +1,5 @@
+<map id="CIncEulerVariable::GetPressure" name="CIncEulerVariable::GetPressure">
+<area shape="rect" id="node1" title="Get the flow pressure." alt="" coords="204,39,348,80"/>
+<area shape="rect" id="node2" href="$classCIncEulerSolver.html#ac0b00dbc68bbd80aa48f6249c6ea5c38" title="Impose a subsonic inlet boundary condition." alt="" coords="5,5,156,47"/>
+<area shape="rect" id="node3" href="$classCIncEulerSolver.html#afc1e6b64c1d323261468e1aa04b110ad" title="Impose the outlet boundary condition." alt="" coords="5,71,156,112"/>
+</map>

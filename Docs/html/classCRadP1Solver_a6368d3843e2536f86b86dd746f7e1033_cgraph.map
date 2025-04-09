@@ -1,0 +1,26 @@
+<map id="CRadP1Solver::SetTime_Step" name="CRadP1Solver::SetTime_Step">
+<area shape="rect" id="node1" title="Compute the time step for solving the Radiation P1 equation." alt="" coords="5,461,216,488"/>
+<area shape="rect" id="node2" href="$classCVariable.html#a64190222f419530efc4a373949b067e1" title="Add a value to the maximum eigenvalue for the viscous terms of the PDE." alt="" coords="264,5,503,32"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="278,56,489,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a3ea7239acfc2cdae584f4685dc92cb73" title="Get the value of the CFL condition for radiation solvers." alt="" coords="304,107,463,133"/>
+<area shape="rect" id="node5" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="275,157,491,184"/>
+<area shape="rect" id="node6" href="$classCConfig.html#aa495414133c826e5f6651d4ce82d0ef6" title="Get the level of MPI communications to be performed." alt="" coords="289,208,477,235"/>
+<area shape="rect" id="node7" href="$classCPoint.html#aa58a27b602e47ddcad22ae74a5c6bc81" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="310,259,457,285"/>
+<area shape="rect" id="node8" href="$classCConfig.html#aaac1d1cb2c2b1d07315b8736d082814c" title="Get the Courant Friedrich Levi number for unsteady simulations." alt="" coords="280,309,487,336"/>
+<area shape="rect" id="node9" href="$classCVariable.html#ab93f697aa88afacad02b5e55df3d0933" title="Get the value of the maximum eigenvalue for the viscous terms of the PDE." alt="" coords="265,360,501,387"/>
+<area shape="rect" id="node10" href="$classCGeometry.html#aba89cceede61b33426b2783385431f5b" title="Get number of edges." alt="" coords="300,411,467,437"/>
+<area shape="rect" id="node11" href="$classCGeometry.html#ad2f9fe832b72d5a032d709d25879bbd2" title="Get number of markers." alt="" coords="294,461,473,488"/>
+<area shape="rect" id="node12" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="314,512,453,539"/>
+<area shape="rect" id="node13" href="$classCEdge.html#a5cd6f283cb2f3e4dfc037c0db6ae1055" title="Get left/right node index defining the edge." alt="" coords="319,563,447,589"/>
+<area shape="rect" id="node14" href="$classCVertex.html#a57cacfe764770e6c0e54c278cb584f7c" title="Copy the the normal vector of a face." alt="" coords="307,613,459,640"/>
+<area shape="rect" id="node15" href="$classCEdge.html#a4ace970590e47bd39ea5780c3e0e2037" title="Copy the the normal vector of a face." alt="" coords="312,664,455,691"/>
+<area shape="rect" id="node17" href="$classCGeometry.html#a00b7f7e71ff42bd38f39147366dd093a" title="Get number of vertices." alt="" coords="295,715,471,741"/>
+<area shape="rect" id="node18" href="$classCPoint.html#a35a504401472dfa76ef1187a5675414f" title="Get area or volume of the control volume." alt="" coords="311,765,455,792"/>
+<area shape="rect" id="node19" href="$group__GeometryToolbox.html#gad8b24e50333c9a8378f7abf18222f36a" title=" " alt="" coords="293,816,474,843"/>
+<area shape="rect" id="node23" href="$classCVariable.html#a75d51484f25650269294a7925c0f5a3e" title="Set the value of the time step." alt="" coords="289,867,477,893"/>
+<area shape="rect" id="node24" href="$classCVariable.html#a6f2fb2c3cd5cd4d377df2af4467e9ae5" title="Set the value of the maximum eigenvalue for the viscous terms of the PDE." alt="" coords="266,917,501,944"/>
+<area shape="rect" id="node16" href="$classC2DContainer.html#ab6d9161cd08887f034322ebcbc3deb12" title=" " alt="" coords="595,664,741,691"/>
+<area shape="rect" id="node20" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="645,791,691,817"/>
+<area shape="rect" id="node21" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="551,841,785,868"/>
+<area shape="rect" id="node22" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="833,841,1051,868"/>
+</map>

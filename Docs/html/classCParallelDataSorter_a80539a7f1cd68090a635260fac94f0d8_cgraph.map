@@ -1,0 +1,4 @@
+<map id="CParallelDataSorter::FindProcessor" name="CParallelDataSorter::FindProcessor">
+<area shape="rect" id="node1" title="Get the Processor ID a Point belongs to." alt="" coords="5,5,155,47"/>
+<area shape="rect" id="node2" href="$classCLinearPartitioner.html#a15582f67cb6ec435a2f677591d0735b5" title="Get the rank that owns the index based on the linear partitioning." alt="" coords="203,5,395,47"/>
+</map>

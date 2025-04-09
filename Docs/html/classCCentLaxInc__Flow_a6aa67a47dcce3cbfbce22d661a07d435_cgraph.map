@@ -1,0 +1,9 @@
+<map id="CCentLaxInc_Flow::CCentLaxInc_Flow" name="CCentLaxInc_Flow::CCentLaxInc_Flow">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,152,216,193"/>
+<area shape="rect" id="node2" href="$classCConfig.html#afda256f2c6dd1e4b95551f4660ca9a8e" title="Factor by which to multiply the dissipation contribution to Jacobians of incompressible central schem..." alt="" coords="289,5,448,47"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a6352cd90308195b5fc1ba7eab02d46c1" title="Get information about dynamic grids." alt="" coords="271,71,466,98"/>
+<area shape="rect" id="node4" href="$classCConfig.html#a085accf5825cdba0219fc734f4fadb8c" title="Flag for whether to solve the energy equation for incompressible flows." alt="" coords="295,123,443,164"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a93dc67cb26b9075de5204a86144a34c4" title="Value of the calibrated constant for the Lax method (center scheme)." alt="" coords="264,189,473,215"/>
+<area shape="rect" id="node6" href="$classCConfig.html#adb4db1f11f1744bc75495a978c6c74a6" title="Option to define the density model for incompressible flows." alt="" coords="274,240,463,281"/>
+<area shape="rect" id="node7" href="$classCConfig.html#a568405f750ddcd4f702197e66b477ff9" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="274,305,463,347"/>
+</map>

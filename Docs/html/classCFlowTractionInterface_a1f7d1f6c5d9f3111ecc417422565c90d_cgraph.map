@@ -1,0 +1,16 @@
+<map id="CFlowTractionInterface::GetDonor_Variable" name="CFlowTractionInterface::GetDonor_Variable">
+<area shape="rect" id="node1" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="5,241,176,283"/>
+<area shape="rect" id="node2" href="$classCNumerics.html#a18b6238c38e05339954c0bb6121203d1" title="Compute the stress tensor from the velocity gradients." alt="" coords="237,5,437,47"/>
+<area shape="rect" id="node3" href="$classCVariable.html#a0acbe55ca86de2c0205ae921193e9e95" title="A virtual member." alt="" coords="224,71,451,98"/>
+<area shape="rect" id="node4" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="268,122,407,149"/>
+<area shape="rect" id="node5" href="$classCSolver.html#af3198e52a2ea377bb765647b5e697197" title="Allow outside access to the nodes of the solver, containing conservatives, primitives,..." alt="" coords="265,173,409,199"/>
+<area shape="rect" id="node6" href="$classCVertex.html#a57cacfe764770e6c0e54c278cb584f7c" title="Copy the the normal vector of a face." alt="" coords="261,223,413,250"/>
+<area shape="rect" id="node7" href="$classCVariable.html#ad08820234eeedeb13105e603af2c67ad" title="A virtual member." alt="" coords="252,274,423,301"/>
+<area shape="rect" id="node8" href="$classCSolver.html#ad2ebd475a67775bf7336d88a754927d7" title="A virtual member." alt="" coords="246,325,429,351"/>
+<area shape="rect" id="node9" href="$classCVariable.html#ade5333072d8c26b7273bd276ff97352d" title="A virtual member." alt="" coords="226,375,449,402"/>
+<area shape="rect" id="node10" href="$classCConfig.html#ad59acb5f80aaddccaa0f2f5bef3e3e78" title="Determines if problem is viscous." alt="" coords="261,426,414,453"/>
+<area shape="rect" id="node11" href="$group__GeometryToolbox.html#gad8b24e50333c9a8378f7abf18222f36a" title=" " alt="" coords="247,477,428,503"/>
+<area shape="rect" id="node12" href="$group__SIMD.html#ga54a1925ab40fb4249ea255072520de35" title=" " alt="" coords="593,451,639,478"/>
+<area shape="rect" id="node13" href="$group__GeometryToolbox.html#ga98c9b9314cc6352c9bba49b8cfb4b056" title=" " alt="" coords="499,502,733,529"/>
+<area shape="rect" id="node14" href="$group__GeometryToolbox.html#ga7ec3e1e20fab73dbf0159fe38492cc89" title=" " alt="" coords="781,502,999,529"/>
+</map>

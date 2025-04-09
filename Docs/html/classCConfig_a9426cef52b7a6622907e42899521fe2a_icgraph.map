@@ -1,0 +1,5 @@
+<map id="CConfig::GetKind_ConvNumScheme_Turb" name="CConfig::GetKind_ConvNumScheme_Turb">
+<area shape="rect" id="node1" title="Get the kind of convective numerical scheme for the turbulence equations (upwind)." alt="" coords="265,39,468,80"/>
+<area shape="rect" id="node2" href="$classCDriver.html#a813c12f7ecef7e6e9bb5d6568cc7d364" title="Helper to instantiate transition numerics specialized for different flow solvers." alt="" coords="5,5,217,47"/>
+<area shape="rect" id="node3" href="$classCDriver.html#a633c542feed921caeeaf65a8832f3777" title="Helper to instantiate turbulence numerics specialized for different flow solvers." alt="" coords="7,71,216,112"/>
+</map>

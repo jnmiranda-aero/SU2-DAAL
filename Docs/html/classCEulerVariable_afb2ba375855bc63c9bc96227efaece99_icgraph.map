@@ -1,0 +1,10 @@
+<map id="CEulerVariable::GetVelocity" name="CEulerVariable::GetVelocity">
+<area shape="rect" id="node1" title="Get the velocity of the flow." alt="" coords="284,157,484,184"/>
+<area shape="rect" id="node2" href="$classCEulerSolver.html#a40fad0a57e8dcba8a8f4d4fa8eab02f0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="35,5,206,32"/>
+<area shape="rect" id="node3" href="$classCEulerSolver.html#a908e4ec3ecb8f2f8af197bb30a1aed70" title="Impose a subsonic inlet boundary condition." alt="" coords="37,56,204,83"/>
+<area shape="rect" id="node4" href="$classCEulerSolver.html#a4ad4a65b3fc5a51b1561436736f7f7ca" title="Impose the boundary condition using characteristic recostruction." alt="" coords="23,107,219,133"/>
+<area shape="rect" id="node5" href="$classCEulerSolver.html#a8e036f2dff1d945d814c93a74159a3cc" title="Impose the boundary condition using characteristic recostruction." alt="" coords="5,157,236,184"/>
+<area shape="rect" id="node6" href="$classCEulerSolver.html#a220a1c92ae192cc3962acf187cc0628c" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="29,209,213,250"/>
+<area shape="rect" id="node7" href="$classCEulerSolver.html#a4effd63e51aef9426ea0e327c104bb30" title="It computes Fourier transformation for the needed quantities along the pitch for each span in turboma..." alt="" coords="29,274,213,315"/>
+<area shape="rect" id="node8" href="$classCEulerSolver.html#afe2f428da073b80f64c41422971f9748" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="20,339,221,381"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CGeometry::SetMultiGridMarkerQuantity" name="CGeometry::SetMultiGridMarkerQuantity">
+<area shape="rect" id="node1" title="Set a representative wall value of the agglomerated control volumes on a particular boundary marker." alt="" coords="312,71,541,112"/>
+<area shape="rect" id="node2" href="$classCMultiGridGeometry.html#a4af42a39ed4a2304b459784c8be71b86" title="Set a representative wall normal heat flux of the agglomerated control volume on a particular boundar..." alt="" coords="35,5,234,47"/>
+<area shape="rect" id="node3" href="$classCMultiGridGeometry.html#a8135342304e8dc5273be74bca8d391fc" title="Set a representative wall temperature of the agglomerated control volume on a particular boundary mar..." alt="" coords="24,71,245,112"/>
+<area shape="rect" id="node4" href="$classCFVMFlowSolverBase.html#ad7be931fd379125d869861f464dd9739" title="Update the multi&#45;grid structure for the customized boundary conditions." alt="" coords="5,136,264,177"/>
+</map>

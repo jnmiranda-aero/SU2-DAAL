@@ -1,0 +1,7 @@
+<map id="CConfig::GetKind_CHT_Coupling" name="CConfig::GetKind_CHT_Coupling">
+<area shape="rect" id="node1" title="Get the CHT couling method." alt="" coords="261,104,428,145"/>
+<area shape="rect" id="node2" href="$classCHeatSolver.html#a557bceb05d8bf8cb7ea1fb03d4690e06" title="Impose the (received) conjugate heat variables." alt="" coords="8,5,211,47"/>
+<area shape="rect" id="node3" href="$classCIncNSSolver.html#a20df3bf692b483420474f500c981584f" title="Impose the (received) conjugate heat variables." alt="" coords="5,71,213,112"/>
+<area shape="rect" id="node4" href="$classCConjugateHeatInterface.html#a11264c7dda7df147258e1ee89b315ea8" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="16,136,203,177"/>
+<area shape="rect" id="node5" href="$classCConjugateHeatInterface.html#a28e8fa418b1a7247255e1157a4969750" title="Set the variable that has been received from the target mesh into the target mesh." alt="" coords="16,201,203,243"/>
+</map>

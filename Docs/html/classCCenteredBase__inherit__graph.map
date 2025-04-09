@@ -1,0 +1,12 @@
+<map id="CCenteredBase&lt; Derived, Base &gt;" name="CCenteredBase&lt; Derived, Base &gt;">
+<area shape="rect" id="node1" title="Base class for Centered schemes, derived classes implement the dissipation term in a const &quot;finalizeF..." alt="" coords="109,105,301,146"/>
+<area shape="rect" id="node3" href="$classCCenteredBase.html" title=" " alt="" coords="555,6,799,47"/>
+<area shape="rect" id="node5" href="$classCCenteredBase.html" title=" " alt="" coords="560,71,793,113"/>
+<area shape="rect" id="node7" href="$classCCenteredBase.html" title=" " alt="" coords="566,137,787,178"/>
+<area shape="rect" id="node9" href="$classCCenteredBase.html" title=" " alt="" coords="567,202,786,243"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,112,60,139"/>
+<area shape="rect" id="node4" href="$classCJSTmatScheme.html" title="JST scheme with matrix dissipation." alt="" coords="848,13,1071,40"/>
+<area shape="rect" id="node6" href="$classCJSTkeScheme.html" title="JST scheme without 4th order dissipation." alt="" coords="853,79,1065,105"/>
+<area shape="rect" id="node8" href="$classCLaxScheme.html" title="Lax–Friedrichs 1st order scheme." alt="" coords="859,144,1059,171"/>
+<area shape="rect" id="node10" href="$classCJSTScheme.html" title="Classical JST scheme with scalar dissipation." alt="" coords="861,209,1058,236"/>
+</map>

@@ -6,6 +6,5 @@ var group__Toolboxes =
     [ "Alternating Digital Tree", "group__ADT.html", "group__ADT" ],
     [ "Dense linear algebra", "group__BLAS.html", "group__BLAS" ],
     [ "Graph operations", "group__Graph.html", "group__Graph" ],
-    [ "Vectorization (SIMD)", "group__SIMD.html", "group__SIMD" ],
-    [ "Perceptrons (MLP)", "group__Multi-Layer.html", null ]
+    [ "Vectorization (SIMD)", "group__SIMD.html", "group__SIMD" ]
 ];

@@ -1,0 +1,6 @@
+<map id="CSolver::GetAveragePressure" name="CSolver::GetAveragePressure">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="232,78,444,105"/>
+<area shape="rect" id="node2" href="$classCTurbSASolver.html#a9cdd12aa912c00c12dbb80cc21c7977a" title="Impose the inlet boundary condition." alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node3" href="$classCTurbSSTSolver.html#a054ade13cc21d3d718c8fa2f2d514112" title="Impose the inlet boundary condition." alt="" coords="20,71,169,112"/>
+<area shape="rect" id="node4" href="$classCMixingPlaneInterface.html#a6118de3a671d373becfa0cc40b1463d4" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="10,136,179,177"/>
+</map>

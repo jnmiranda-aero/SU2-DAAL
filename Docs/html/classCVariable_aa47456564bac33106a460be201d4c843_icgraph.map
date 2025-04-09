@@ -1,0 +1,12 @@
+<map id="CVariable::Set_BGSSolution_k" name="CVariable::Set_BGSSolution_k">
+<area shape="rect" id="node1" title="Set the value of the solution in the previous BGS subiteration." alt="" coords="767,187,981,214"/>
+<area shape="rect" id="node2" href="$classCAdjEulerVariable.html#afb9c76a9feea451fef96ccc73a39f88e" title="Constructor of the class." alt="" coords="537,5,684,47"/>
+<area shape="rect" id="node3" href="$classCAdjTurbVariable.html#a8cf6df17d5bface41386f14c77e56b7a" title="Constructor of the class." alt="" coords="512,71,709,112"/>
+<area shape="rect" id="node4" href="$classCFEAVariable.html#af903380be6b3b699751e694d896af2c1" title="Constructor of the class." alt="" coords="509,137,712,163"/>
+<area shape="rect" id="node5" href="$classCFlowVariable.html#a60f5b74c097bd87fe008b9d1671868e8" title="Constructor of the class." alt="" coords="503,187,719,214"/>
+<area shape="rect" id="node6" href="$classCHeatVariable.html#a4d0e68b21b68582cc8b5a81b683a44cb" title="Constructor of the class." alt="" coords="503,238,719,265"/>
+<area shape="rect" id="node7" href="$classCMeshSolver.html#a573e4ddd63b680f5705f402ec317820b" title="Grid deformation using the linear elasticity equations." alt="" coords="511,289,710,315"/>
+<area shape="rect" id="node8" href="$classCDiscAdjMultizoneDriver.html#a42400d5fc2e9be45a7b1770c6f9beb84" title="Puts Solution into BGSSolution_k." alt="" coords="519,339,703,395"/>
+<area shape="rect" id="node9" href="$classCDiscAdjMultizoneDriver.html#af996aecdb6d20aa4fc81c9b67295abf5" title="[Overload] Run an discrete adjoint update of all solvers within multiple zones." alt="" coords="237,329,455,355"/>
+<area shape="rect" id="node10" href="$classCDiscAdjMultizoneDriver.html#a75de0a1a482ceeed4301a384f1515092" title="[Overload] Launch the computation for discrete adjoint multizone problems." alt="" coords="5,347,189,388"/>
+</map>

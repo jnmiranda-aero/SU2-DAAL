@@ -1,0 +1,5 @@
+<map id="CSolver::UpdateFarfieldVelocity" name="CSolver::UpdateFarfieldVelocity">
+<area shape="rect" id="node1" title="Updates the components of the farfield velocity vector." alt="" coords="229,31,456,57"/>
+<area shape="rect" id="node2" href="$group__PySU2.html#ga0955902c346eed83364b3197a71b80b7" title="Set the angle of attack of the farfield." alt="" coords="5,5,181,32"/>
+<area shape="rect" id="node3" href="$group__PySU2.html#gaf6be8ee89ff1e2255f9a73c2f0e5e7a4" title="Set the angle of sideslip of the farfield." alt="" coords="6,56,181,83"/>
+</map>

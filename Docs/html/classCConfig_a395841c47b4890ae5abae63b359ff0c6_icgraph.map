@@ -1,0 +1,9 @@
+<map id="CConfig::GetIonization" name="CConfig::GetIonization">
+<area shape="rect" id="node1" title="Indicates whether electron gas is present in the gas mixture." alt="" coords="908,107,1075,134"/>
+<area shape="rect" id="node2" href="$classCNEMONSSolver.html#a1c4746b9e1e0c7232f1bd06535c22b14" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="615,5,848,47"/>
+<area shape="rect" id="node5" href="$classCNEMONSSolver.html#aa32b1221a071e0ecd2de381615b8adca" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="603,71,860,112"/>
+<area shape="rect" id="node6" href="$classCNEMOGas.html#a6c7e525117555f40952b052b5aba976a" title="Constructor of the class." alt="" coords="642,137,821,163"/>
+<area shape="rect" id="node7" href="$classCNEMONumerics.html#a78995c37c60ac66344dbabb5d8c197f6" title="Constructor of the class." alt="" coords="605,187,857,214"/>
+<area shape="rect" id="node3" href="$classCNEMONSSolver.html#a8c6c80e6e8f2aed2ff80c78a8e5aec9e" title="Generic implementation of the isothermal wall." alt="" coords="5,13,273,39"/>
+<area shape="rect" id="node4" href="$classCNEMONSSolver.html#ae3d2c5f1c94cb3d01b7f351ce3105f31" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="321,35,555,76"/>
+</map>

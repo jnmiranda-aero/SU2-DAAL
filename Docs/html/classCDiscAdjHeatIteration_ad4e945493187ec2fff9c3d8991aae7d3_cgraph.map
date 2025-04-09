@@ -1,0 +1,8 @@
+<map id="CDiscAdjHeatIteration::Preprocess" name="CDiscAdjHeatIteration::Preprocess">
+<area shape="rect" id="node1" title="Perform a single iteration of the adjoint heat problem." alt="" coords="5,99,172,141"/>
+<area shape="rect" id="node2" href="$classCConfig.html#a15a61a6f9a1d415c3509018f4916c5c1" title="Get the number of multigrid levels." alt="" coords="237,5,411,32"/>
+<area shape="rect" id="node3" href="$classCGeometry.html#a275fb07cd99ab79d7a04b4862280169d" title="Get number of points." alt="" coords="241,56,407,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#ac47e04d76ce865893a94dcedd3c9b6a5" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="223,107,425,133"/>
+<area shape="rect" id="node5" href="$classCConfig.html#aec6051895c2e4f593a5c245104548b78" title="Get the current time iteration number." alt="" coords="245,157,403,184"/>
+<area shape="rect" id="node6" href="$classCConfig.html#a394c8970c51a8aa733dca7f810e6fd4c" title="Get the starting direct iteration number for the unsteady adjoint (reverse time integration)." alt="" coords="220,208,428,235"/>
+</map>

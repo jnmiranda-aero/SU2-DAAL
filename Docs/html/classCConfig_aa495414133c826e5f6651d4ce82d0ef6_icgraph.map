@@ -1,0 +1,52 @@
+<map id="CConfig::GetComm_Level" name="CConfig::GetComm_Level">
+<area shape="rect" id="node1" title="Get the level of MPI communications to be performed." alt="" coords="852,835,1040,861"/>
+<area shape="rect" id="node2" href="$classCSolver.html#a7db35f21bf505e35cce4bcdf38af3b2a" title="Adapt the CFL number based on the local under&#45;relaxation parameters computed for each nonlinear itera..." alt="" coords="565,5,760,32"/>
+<area shape="rect" id="node4" href="$classCSysSolve.html#a5e6082f2809d00f2b0ca30ee6177460b" title="Biconjugate Gradient Stabilized Method (BCGSTAB)" alt="" coords="583,57,742,98"/>
+<area shape="rect" id="node5" href="$classCEulerSolver.html#acb987947b2e76a9900605cb5fee72460" title="Main constructor of this class." alt="" coords="565,123,761,149"/>
+<area shape="rect" id="node6" href="$classCSysSolve.html#a7a9229a415e4034095d4fbb2927acde3" title="Conjugate Gradient method." alt="" coords="571,173,755,200"/>
+<area shape="rect" id="node7" href="$classCEulerSolver.html#a0d6f93feba8d6aad18edf3594213042b" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="531,224,794,251"/>
+<area shape="rect" id="node10" href="$classCIncEulerSolver.html#ac50d02e914c4337e73d2c4878b12c59d" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="521,275,804,301"/>
+<area shape="rect" id="node13" href="$classCNEMOEulerSolver.html#a27f21d6dbfb7f6c600f759caf7625087" title="Preprocessing actions common to the Euler and NS solvers." alt="" coords="557,326,769,367"/>
+<area shape="rect" id="node16" href="$classCFVMFlowSolverBase.html#af84f9a0d4de3df7d82cef37eae94f739" title="Evaluate the vorticity and strain rate magnitude." alt="" coords="545,391,780,433"/>
+<area shape="rect" id="node17" href="$classCFVMFlowSolverBase.html#a0cac91b15aa61de657289b114bd796bc" title="Sums edge fluxes (if required) and computes the global error counter." alt="" coords="553,457,773,498"/>
+<area shape="rect" id="node19" href="$classCFVMFlowSolverBase.html#af46a894bd89c2367215f64fa7ea7d02d" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="581,522,745,563"/>
+<area shape="rect" id="node20" href="$classCFEM__DG__NSSolver.html#a5118d674e7eb6f4865fb53f6f20eac1c" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="559,587,767,629"/>
+<area shape="rect" id="node21" href="$classCFEM__DG__EulerSolver.html#ab1a14528918d93d2f96c827a9f8bcd57" title="Load a solution from a restart file." alt="" coords="579,653,746,694"/>
+<area shape="rect" id="node22" href="$classCFEM__DG__EulerSolver.html#acfd3f253f2b9f37d236df40ff18a8c4c" title="Compute primitive variables and their gradients." alt="" coords="579,718,746,759"/>
+<area shape="rect" id="node24" href="$classCAdjEulerSolver.html#a64baf8c7af6006bdc4ad0919f7c2507a" title="Initialize the residual vectors." alt="" coords="550,784,775,811"/>
+<area shape="rect" id="node25" href="$classCAdjNSSolver.html#a0669f6fb8ef7cd7800d151d4aff7d3f6" title="Restart residual and compute gradients." alt="" coords="557,835,768,861"/>
+<area shape="rect" id="node26" href="$classCFEM__DG__EulerSolver.html#a218c89d657364d7282515fec1d2453bc" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="579,886,746,927"/>
+<area shape="rect" id="node27" href="$classCFVMFlowSolverBase.html#a197fdf8620c3f2b3723c04b213cea284" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="581,951,745,993"/>
+<area shape="rect" id="node28" href="$classCSolver.html#a4fbc06f5031775b6828986a133490400" title="Communicate the value of the max residual and RMS residual." alt="" coords="567,1017,758,1044"/>
+<area shape="rect" id="node30" href="$classCSolver.html#a1ac9c08f281abbb09cbb702b3fd644f7" title="Set the value of the max residual and RMS residual." alt="" coords="566,1068,759,1095"/>
+<area shape="rect" id="node37" href="$classCFEM__DG__EulerSolver.html#a34550ee1621eeabc419e7ddb64c0b52e" title="Update the solution using the classical fourth&#45;order Runge&#45;Kutta scheme." alt="" coords="262,1379,441,1421"/>
+<area shape="rect" id="node40" href="$classCFEM__DG__EulerSolver.html#a527d3a855eebf4e6b35103d8faf42f63" title="Function to compute the time step for solving the Euler equations." alt="" coords="579,1237,746,1278"/>
+<area shape="rect" id="node41" href="$classCFEM__DG__NSSolver.html#a1d77cb51e0eb51dfb95735ac965ac176" title="Function to compute the time step for solving the Navier&#45;Stokes equations." alt="" coords="537,1303,788,1329"/>
+<area shape="rect" id="node42" href="$classCHeatSolver.html#a46a94222146629b60daac7226d0099c0" title="A virtual member." alt="" coords="562,1353,763,1380"/>
+<area shape="rect" id="node43" href="$classCRadP1Solver.html#a6368d3843e2536f86b86dd746f7e1033" title="Compute the time step for solving the Radiation P1 equation." alt="" coords="557,1404,768,1431"/>
+<area shape="rect" id="node44" href="$classCFVMFlowSolverBase.html#aceafd6d8a3ef6e189711df90c7dbe38e" title="Generic implementation to compute the time step based on CFL and conv/visc eigenvalues." alt="" coords="581,1455,745,1497"/>
+<area shape="rect" id="node45" href="$classCVerificationSolution.html#a467e0ccdb07f223326549273ddeb9fa9" title="Calculate the global error metrics for verification cases." alt="" coords="584,1119,741,1161"/>
+<area shape="rect" id="node48" href="$classCSysSolve.html#a2156b8d64819367142bef9bb9f2348fb" title="Generic smoother (modified Richardson iteration with preconditioner)" alt="" coords="582,1521,743,1562"/>
+<area shape="rect" id="node49" href="$classCAdjEulerSolver.html#a27f05ad7c19b238efda73a2866c4b9b7" title="Compute the spatial integration using a upwind scheme." alt="" coords="571,1586,754,1627"/>
+<area shape="rect" id="node50" href="$classCNEMOEulerSolver.html#a427284b43fbe1f9c373096cc4bbe5781" title="Compute the spatial integration using a upwind scheme." alt="" coords="561,1651,764,1693"/>
+<area shape="rect" id="node3" href="$classCFluidIteration.html#a9ce0d8765aff42207afcd2c9ab6f71d8" title="Perform a single iteration of the fluid system." alt="" coords="267,5,436,32"/>
+<area shape="rect" id="node8" href="$classCEulerSolver.html#ab08b6aa95648e7ab973f9f247fe54b31" title="Compute primitive variables and their gradients." alt="" coords="249,192,453,219"/>
+<area shape="rect" id="node9" href="$classCNSSolver.html#af83e7cb773797239cdc98fc4d202d32f" title="Restart residual and compute gradients." alt="" coords="257,141,446,168"/>
+<area shape="rect" id="node11" href="$classCIncEulerSolver.html#aac33066eba6bdbe02693afb992e307d8" title="Compute primitive variables and their gradients." alt="" coords="240,293,463,320"/>
+<area shape="rect" id="node12" href="$classCIncNSSolver.html#aaaff5cfe93aa72a689248c80b2ea9149" title="Restart residual and compute gradients." alt="" coords="247,243,455,269"/>
+<area shape="rect" id="node14" href="$classCNEMOEulerSolver.html#a3c5a59b5c1c9195757626bff151dbaa9" title="Compute the velocity^2, SoundSpeed, Pressure, Enthalpy, Viscosity." alt="" coords="229,395,473,421"/>
+<area shape="rect" id="node15" href="$classCNEMONSSolver.html#aef1c13c42cd8103377619f7d94660d6a" title="Restart residual and compute gradients." alt="" coords="237,344,466,371"/>
+<area shape="rect" id="node18" href="$classCFVMFlowSolverBase.html#a8c19de20d537852775225aa6d201f00f" title="Method to compute convective and viscous residual contribution using vectorized numerics." alt="" coords="269,457,433,498"/>
+<area shape="rect" id="node23" href="$classCFEM__DG__EulerSolver.html#a0fe3772f40c29248f26fb08fa215af4e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="243,718,459,759"/>
+<area shape="rect" id="node29" href="$classCSolver.html#a58839dc01d8caf2d729382d282481083" title="Set the value of the max residual and RMS residual." alt="" coords="254,791,449,833"/>
+<area shape="rect" id="node31" href="$classCAdjEulerSolver.html#ac6851acd72ffdbf5299680d5d92e065e" title="Update the solution using a explicit Euler scheme." alt="" coords="260,1053,443,1094"/>
+<area shape="rect" id="node32" href="$classCAdjEulerSolver.html#a853b9218167a682db73ca73c0fccc2cc" title="Update the solution using a Runge&#45;Kutta strategy." alt="" coords="260,1118,443,1159"/>
+<area shape="rect" id="node33" href="$classCDiscAdjFEASolver.html#a04c82d7de659c5882a0898bd4e73cdc2" title="Sets the adjoint values of the input variables of the flow (+turb.) iteration after tape has been eva..." alt="" coords="264,1183,439,1225"/>
+<area shape="rect" id="node34" href="$classCAdjEulerSolver.html#ab35fe7a0b2f840506e91d49961e07485" title="Update the solution using an implicit solver." alt="" coords="260,857,443,898"/>
+<area shape="rect" id="node35" href="$classCAdjTurbSolver.html#a119fd6cc599337fd229174474d69f0fb" title="Update the solution using an implicit solver." alt="" coords="263,922,440,963"/>
+<area shape="rect" id="node36" href="$classCRadP1Solver.html#a23716727a079c099d449da9befa86696" title="Update the solution using an implicit solver." alt="" coords="250,987,453,1029"/>
+<area shape="rect" id="node38" href="$classCFEM__DG__EulerSolver.html#a5f05845eb2f1bb8619d7da896e6aa3f3" title="Update the solution using the classical fourth&#45;order Runge&#45;Kutta scheme." alt="" coords="5,1266,181,1307"/>
+<area shape="rect" id="node39" href="$classCFEM__DG__EulerSolver.html#a980de4518bb9a77a25146d56ae072acf" title="Update the solution using a Runge&#45;Kutta scheme." alt="" coords="10,1347,177,1389"/>
+<area shape="rect" id="node46" href="$classCFEM__DG__EulerSolver.html#a141f2b877000daec03e9aeb68ce6aebf" title="Compute the global error measures (L2, Linf) for verification cases." alt="" coords="255,1249,448,1290"/>
+<area shape="rect" id="node47" href="$classCFVMFlowSolverBase.html#aaad58ddeb885dd666534a526846d0991" title="Compute the global error measures (L2, Linf) for verification cases." alt="" coords="255,1314,448,1355"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="CMeshSolver::Surface_Pitching" name="CMeshSolver::Surface_Pitching">
+<area shape="rect" id="node1" title="Pitching definition for deforming mesh." alt="" coords="5,538,169,579"/>
+<area shape="rect" id="node2" href="$classCVariable.html#a7e382eae45700e5c1e8973292c08f128" title="A virtual member. Get the value of the displacement imposed at the boundary." alt="" coords="242,5,434,32"/>
+<area shape="rect" id="node3" href="$classCConfig.html#a0acfef8e480970316e9e672eacd59e9b" title="If we are prforming an unsteady simulation, there is only one value of the time step for the complete..." alt="" coords="224,56,452,83"/>
+<area shape="rect" id="node4" href="$classCConfig.html#af6d2475154c130e1671accace67efb33" title="Get the type of surface motion." alt="" coords="244,107,432,149"/>
+<area shape="rect" id="node5" href="$classCConfig.html#a4c1facfb47bc3aee60dc92a350f0a82d" title="Get the value of the reference length for non&#45;dimensionalization. This value should always be 1 inter..." alt="" coords="250,173,426,200"/>
+<area shape="rect" id="node6" href="$classCConfig.html#aa92e30407f9aaad234c7a557019cd3c5" title="Get the motion information for a marker val_marker." alt="" coords="264,225,412,266"/>
+<area shape="rect" id="node7" href="$classCConfig.html#ab8c9c1f45950a29355be4ff357049440" title="Get the index of the surface defined in the geometry file." alt="" coords="264,290,412,331"/>
+<area shape="rect" id="node8" href="$classCConfig.html#ae0c6575b622cc298c1e749f776992470" title="Get the name of the surface defined in the geometry file." alt="" coords="264,355,412,397"/>
+<area shape="rect" id="node9" href="$classCConfig.html#a1ff1fbe583af02e48a26da1ff1dd9c67" title="Get the mesh motion origin." alt="" coords="241,421,435,462"/>
+<area shape="rect" id="node10" href="$classCConfig.html#ae33d3a4f177743955beb52760cf213fa" title="Get pitching amplitude of the marker." alt="" coords="217,487,459,513"/>
+<area shape="rect" id="node11" href="$classCConfig.html#a14fef17c8ae1d9ff7a8e6c12fa7a8d5a" title="Get pitching rate of the marker." alt="" coords="238,538,438,579"/>
+<area shape="rect" id="node12" href="$classCConfig.html#a0910ada0dbaeb20dbfc4ecdbba26e207" title="Get pitching phase of the marker." alt="" coords="238,603,438,645"/>
+<area shape="rect" id="node13" href="$classCVariable.html#afe97b312c0685a1975a41b915f5d327a" title="A virtual member. Get the value of the undeformed coordinates." alt="" coords="263,669,413,710"/>
+<area shape="rect" id="node14" href="$classCConfig.html#a459dee039e618d21a5d78db61c221240" title="Get the total number of boundary markers of the local process including send/receive domains." alt="" coords="248,735,428,761"/>
+<area shape="rect" id="node15" href="$classCConfig.html#a8c20a13058f536cf7bf135bd82fc95a3" title="Get the total number of moving markers." alt="" coords="260,786,416,827"/>
+<area shape="rect" id="node16" href="$classCVertex.html#ad568da06e7191358d3a09a1bee71cdb5" title="Get the node of the vertex." alt="" coords="269,852,407,879"/>
+<area shape="rect" id="node17" href="$classCConfig.html#ab3ab2f06b6d038aea73beed05cd13448" title="Get the value of the reference angular velocity for non&#45;dimensionalization." alt="" coords="249,903,427,929"/>
+<area shape="rect" id="node18" href="$group__GeometryToolbox.html#ga096060ce1ab901c92fd03f55da4cc406" title="Apply a rotation matrix (R) about origin (O) to a point at distance (d) from it to obtain new coordin..." alt="" coords="244,953,432,980"/>
+<area shape="rect" id="node19" href="$group__GeometryToolbox.html#ga3d2f77f7f0ea57f6d7256a29a2d00f7e" title="Compute a 3D rotation matrix." alt="" coords="238,1005,438,1046"/>
+<area shape="rect" id="node20" href="$classCVariable.html#a840431a0403b4bddd0a99dbfdf365795" title="A virtual member. Set the boundary displacement." alt="" coords="243,1071,433,1097"/>
+</map>

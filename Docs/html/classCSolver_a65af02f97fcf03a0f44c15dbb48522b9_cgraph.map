@@ -1,0 +1,13 @@
+<map id="CSolver::SetSolution_Gradient_LS" name="CSolver::SetSolution_Gradient_LS">
+<area shape="rect" id="node1" title="Compute the Least Squares gradient of the solution." alt="" coords="5,198,160,239"/>
+<area shape="rect" id="node2" href="$group__FvmAlgos.html#gaea8d836040dfd0ee3dd0adf6fbc1b911" title="Instantiations for 2D and 3D." alt="" coords="208,31,437,57"/>
+<area shape="rect" id="node6" href="$classCVariable.html#a07d4f954fe5a79e6f85adab3d462d73c" title="Get the gradient of the entire solution." alt="" coords="237,81,408,108"/>
+<area shape="rect" id="node7" href="$classCVariable.html#a18fee07edc76930704432233b89572bf" title="Get the value of the primitive gradient for MUSCL reconstruction." alt="" coords="237,133,408,174"/>
+<area shape="rect" id="node8" href="$classCConfig.html#a83d5144467a2c2fa78a7f9cc19026421" title="Get the kind of method for computation of spatial gradients used for viscous and source terms." alt="" coords="225,198,420,239"/>
+<area shape="rect" id="node9" href="$classCConfig.html#af59700a2ce4edce862248ba52bdca025" title="Get the kind of method for computation of spatial gradients used for upwind reconstruction." alt="" coords="225,263,420,305"/>
+<area shape="rect" id="node10" href="$classCVariable.html#a3cb7309c324e7527b12d235e6bdaa327" title="Get the value of the Rmatrix entry for least squares gradient calculations." alt="" coords="239,329,406,356"/>
+<area shape="rect" id="node11" href="$classCVariable.html#a261483e39c23c1de7cb9aea7e917c121" title="Get the solution." alt="" coords="239,380,407,407"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="485,5,667,32"/>
+<area shape="rect" id="node5" href="$classCGeometry.html#ace7f7fe876f629f5bd5f92d4805a1a4b" title="Get number of coordinates." alt="" coords="495,56,657,83"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#af7297d861dca86b45cf561b6ab642e8f" title=" " alt="" coords="715,5,900,32"/>
+</map>

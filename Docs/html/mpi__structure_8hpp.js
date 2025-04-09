@@ -1,8 +1,8 @@
 var mpi__structure_8hpp =
 [
     [ "CBaseMPIWrapper", "classCBaseMPIWrapper.html", "classCBaseMPIWrapper" ],
-    [ "CBaseMPIWrapper::Status", "structCBaseMPIWrapper_1_1Status.html", "structCBaseMPIWrapper_1_1Status" ],
-    [ "SelectMPIWrapper< T >", "structSelectMPIWrapper.html", "structSelectMPIWrapper" ],
+    [ "Status", "structCBaseMPIWrapper_1_1Status.html", "structCBaseMPIWrapper_1_1Status" ],
+    [ "SelectMPIWrapper", "structSelectMPIWrapper.html", "structSelectMPIWrapper" ],
     [ "CURRENT_FUNCTION", "mpi__structure_8hpp.html#a84662874cf763c9001e3913fe20b3785", null ],
     [ "MPI_ANY_SOURCE", "mpi__structure_8hpp.html#aad01846ca8da972658f74b9affe1d5e8", null ],
     [ "MPI_CHAR", "mpi__structure_8hpp.html#ac521acab90e22ecd11466d7229986673", null ],

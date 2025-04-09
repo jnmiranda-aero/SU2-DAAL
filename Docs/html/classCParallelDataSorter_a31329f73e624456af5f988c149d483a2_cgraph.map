@@ -1,0 +1,8 @@
+<map id="CParallelDataSorter::SetTotalElements" name="CParallelDataSorter::SetTotalElements">
+<area shape="rect" id="node1" title="Set the total number of elements after sorting individual element types." alt="" coords="5,99,155,141"/>
+<area shape="rect" id="node2" href="$classCBaseMPIWrapper.html#a381d4b3738c09d92ee1ae9f89715b541" title=" " alt="" coords="205,5,416,32"/>
+<area shape="rect" id="node3" href="$classCBaseMPIWrapper.html#ade915135d4560a390849e5744488b5ef" title=" " alt="" coords="213,56,409,83"/>
+<area shape="rect" id="node4" href="$classCBaseMPIWrapper.html#a8154391fc3522954802889d81d4ef5da" title=" " alt="" coords="203,107,419,133"/>
+<area shape="rect" id="node5" href="$classCParallelDataSorter.html#abd4143238954765e95d9f55c05cff1bd" title="Get the global of elements (accumulated from all ranks and element types)" alt="" coords="236,158,385,199"/>
+<area shape="rect" id="node6" href="$classCParallelDataSorter.html#ae9150ff5072dc0b7fabfa8cad2130f88" title="Get the global number of elements." alt="" coords="236,223,385,265"/>
+</map>

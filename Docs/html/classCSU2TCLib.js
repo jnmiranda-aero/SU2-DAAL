@@ -13,7 +13,7 @@ var classCSU2TCLib =
     [ "GetDiffusionCoeff", "classCSU2TCLib.html#a8201c24feb9827eb4a7e3cb697c3db0b", null ],
     [ "GetEveSourceTermJacobian", "classCSU2TCLib.html#a81efd215ea119d2a27d6d39cdf4467a7", null ],
     [ "GetSpeciesCvTraRot", "classCSU2TCLib.html#ae404117eec684293e1872161521b27d1", null ],
-    [ "GetSpeciesMolarMass", "classCSU2TCLib.html#a1281cc02a4f8e71ee90f6772ba01ed8e", null ],
+    [ "GetSpeciesMolarMass", "classCSU2TCLib.html#a9d4ad871ab971c1fdb3df4a54d65bfb8", null ],
     [ "GetThermalConductivities", "classCSU2TCLib.html#acc1e0de1cc7b10ae65b9b86567fe8811", null ],
     [ "GetViscosity", "classCSU2TCLib.html#a8dba05c01281a739671fb5568285c25e", null ],
     [ "SetTDStateRhosTTv", "classCSU2TCLib.html#a4330343726f4d8bcfe93fd8989e79feb", null ]

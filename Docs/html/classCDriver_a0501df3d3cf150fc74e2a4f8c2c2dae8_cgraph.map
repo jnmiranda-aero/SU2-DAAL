@@ -1,0 +1,4 @@
+<map id="CDriver::GetAllSolutions" name="CDriver::GetAllSolutions">
+<area shape="rect" id="node1" title="Get the solution of all solvers (adjoint or primal) in a zone." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node2" href="$namespaceSU2__TYPE.html#adf52a59d6f4e578f7915ec9abbf7cb22" title="Get the (primitive) value of the datatype (needs to be specialized for active types)." alt="" coords="232,5,387,32"/>
+</map>

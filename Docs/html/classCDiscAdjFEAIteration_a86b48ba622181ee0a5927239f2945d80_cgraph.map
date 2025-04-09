@@ -1,0 +1,12 @@
+<map id="CDiscAdjFEAIteration::RegisterInput" name="CDiscAdjFEAIteration::RegisterInput">
+<area shape="rect" id="node1" title="Registers all input variables of the FEM iteration." alt="" coords="5,99,165,141"/>
+<area shape="rect" id="node2" href="$classCGeometry.html#aad0d4c3828290ab6efd1104dec410ed3" title="Register the coordinates of the mesh nodes." alt="" coords="213,56,448,83"/>
+<area shape="rect" id="node9" href="$classCSolver.html#a2b092b019e35168c9b09d3f2da83f6bc" title="A virtual member." alt="" coords="237,107,424,133"/>
+<area shape="rect" id="node10" href="$classCSolver.html#a70c8f5c077cc2f568f0559d81e39da08" title="A virtual member." alt="" coords="233,157,428,184"/>
+<area shape="rect" id="node3" href="$omp__structure_8hpp.html#a15e588e219ac407d67b02755aab67506" title="Number of threads in current team." alt="" coords="513,5,683,32"/>
+<area shape="rect" id="node4" href="$classCPoint.html#a9a9a2f4e628fc64d1f709fea60fc119e" title="Register coordinates of a point." alt="" coords="496,56,700,83"/>
+<area shape="rect" id="node8" href="$omp__structure_8hpp.html#a1c00281f52b615b111a4990b2d2a5157" title="Integer division rounding up." alt="" coords="549,107,647,133"/>
+<area shape="rect" id="node5" href="$namespaceAD.html#a142308d54379f7aaa1c72195fb5fe992" title="Registers the variable as an input. I.e. as a leaf of the computational graph." alt="" coords="753,5,889,32"/>
+<area shape="rect" id="node6" href="$namespaceAD.html#ae381e45797545e980376c4aeb3f5afdc" title="Registers the variable as an output. I.e. as the root of the computational graph." alt="" coords="748,56,895,83"/>
+<area shape="rect" id="node7" href="$namespaceAD.html#a93909396dd20444ea1ad3100003ff08c" title="Evaluates and saves gradient data from a variable." alt="" coords="768,107,875,133"/>
+</map>
