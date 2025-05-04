@@ -1,0 +1,39 @@
+<map id="CSolver::GetTotal_CL" name="CSolver::GetTotal_CL">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="1525,383,1683,410"/>
+<area shape="rect" id="node2" href="$class_c_driver.html#a18c050bc1c024f47514e60fae50ccec4" title="Get the total lift." alt="" coords="1303,49,1433,75"/>
+<area shape="rect" id="node3" href="$class_c_driver.html#a94077614a73633ef055474de4bb70127" title="Get the total lift coefficient." alt="" coords="1287,99,1449,126"/>
+<area shape="rect" id="node4" href="$class_c_multi_grid_integration.html#ae04d531fe8905ce776a68bb2005cda22" title="Compute the non&#45;dimensional parameters." alt="" coords="1259,151,1477,192"/>
+<area shape="rect" id="node6" href="$class_c_disc_adj_f_s_i_driver.html#a7e0a0d0ea10f8c6af312d6ec448329c6" title="Load the restarts for fluid, structure and mesh." alt="" coords="1013,565,1174,607"/>
+<area shape="rect" id="node11" href="$class_c_disc_adj_solver.html#a021bde37a7532ce497cb3c5688b865b9" title="Register the objective function as output." alt="" coords="1277,565,1459,607"/>
+<area shape="rect" id="node12" href="$class_c_output.html#a43b140cf9da1254a681b9a35f897a764" title="Write the history file and the convergence on the screen for serial computations." alt="" coords="981,289,1205,315"/>
+<area shape="rect" id="node26" href="$class_c_adj_euler_solver.html#a814d69e54f24c9fef36e3493a2230973" title="Created the force projection vector for adjoint boundary conditions." alt="" coords="1273,631,1463,672"/>
+<area shape="rect" id="node30" href="$class_c_output.html#aeea5989d75d07a44df3034212b82af71" title="Write the history file and the convergence on the screen for serial computations." alt="" coords="1281,281,1455,323"/>
+<area shape="rect" id="node31" href="$class_c_output.html#ae4dcc09ec015b464f561db907eca5ad1" title="Create and write the file with the FSI convergence history." alt="" coords="1268,463,1468,490"/>
+<area shape="rect" id="node33" href="$class_c_output.html#adbbbcfa7f729d0c3e138548e67c679a8" title="Write the output file for harmonic balance for each time&#45;instance." alt="" coords="1281,347,1455,388"/>
+<area shape="rect" id="node34" href="$class_c_output.html#a641031244a50f2c88c0e653bdddeeee5" title="Writes forces at different sections." alt="" coords="1281,216,1455,257"/>
+<area shape="rect" id="node37" href="$class_c_f_s_i_driver.html#a777a2c5430d9a8787a0825396fcfc14f" title="Enforce the coupling condition at the end of the time step." alt="" coords="1295,697,1441,723"/>
+<area shape="rect" id="node5" href="$class_c_multi_grid_integration.html#a4d65b648b6d17d396d2f3432f89e7f51" title="This subroutine calls the MultiGrid_Cycle and also prepare the multigrid levels and the monitoring." alt="" coords="1012,151,1175,192"/>
+<area shape="rect" id="node7" href="$class_c_disc_adj_f_s_i_driver.html#a84949f139fa795b7d34d6ff77e82eb5c" title="Iterate a certain block for adjoint FSI &#45; may be the whole set of variables or independent and subite..." alt="" coords="489,508,635,549"/>
+<area shape="rect" id="node8" href="$class_c_disc_adj_f_s_i_driver.html#ab6dc73cea783398d2e4d40b56b8d142f" title="Iterate a block for adjoint FSI with flow Objective Function." alt="" coords="241,447,405,488"/>
+<area shape="rect" id="node10" href="$class_c_disc_adj_f_s_i_driver.html#a1199b609d2ec3ab24d9614a73c4ed74a" title="Iterate a block for adjoint FSI with structural Objective Function." alt="" coords="225,512,421,553"/>
+<area shape="rect" id="node9" href="$class_c_disc_adj_f_s_i_driver.html#a2e965d6e9c4dcfc296077cae225cab21" title="Run a Discrete Adjoint iteration for the FSI problem." alt="" coords="5,487,177,514"/>
+<area shape="rect" id="node13" href="$class_c_disc_adj_f_s_i_driver.html#a139dfa2442613879f2b15f28a09c2bd5" title="Output the convergence history." alt="" coords="738,456,893,497"/>
+<area shape="rect" id="node14" href="$class_c_fluid_iteration.html#ac513849c15ea27fcd701a2d2d2cc28f7" title="Perform a single iteration of the fluid system." alt="" coords="731,137,900,163"/>
+<area shape="rect" id="node15" href="$class_c_heat_iteration.html#af0dad20daea11b8c53246724029bc932" title="Perform a single iteration of the heat system." alt="" coords="731,187,899,214"/>
+<area shape="rect" id="node16" href="$class_c_f_e_a_iteration.html#ac8c8f95bb68e4677c90d9f29ea8ed5fe" title="Perform a single iteration for structural analysis using the Finite Element Method." alt="" coords="734,289,897,315"/>
+<area shape="rect" id="node19" href="$class_c_disc_adj_f_e_a_iteration.html#ab12d300ff5c24b7fbdc65ba318df2beb" title="Perform a single iteration of the adjoint mean flow system." alt="" coords="735,391,895,432"/>
+<area shape="rect" id="node20" href="$class_c_driver.html#a3e8e47847956dfbb2ceca0403ce1ef81" title="Monitor the computation." alt="" coords="751,339,880,366"/>
+<area shape="rect" id="node23" href="$class_c_turbomachinery_driver.html#aa9471ad27e5ac1b292cf142447cd3ecc" title="Monitor the computation." alt="" coords="728,71,903,112"/>
+<area shape="rect" id="node24" href="$class_c_disc_adj_fluid_driver.html#adc823b6fbe255ed554efeef485c26ae2" title="Run a single iteration of the discrete adjoint solver within multiple zones." alt="" coords="469,118,655,145"/>
+<area shape="rect" id="node25" href="$class_c_f_s_i_driver.html#a42f35db571cc1bf984b30d2ac7d8167c" title="Run a Block Gauss&#45;Seidel iteration of the FSI problem." alt="" coords="754,522,877,549"/>
+<area shape="rect" id="node17" href="$class_c_disc_adj_f_e_a_iteration.html#a121206a5f1ae2d2fbc5931cb7c37335a" title="Record a single iteration of the direct FEM system." alt="" coords="482,277,642,319"/>
+<area shape="rect" id="node18" href="$class_c_disc_adj_f_e_a_iteration.html#a8c4d696b9bbb8ff79713d892e4b7aef9" title="Preprocessing to prepare for an iteration of the physics." alt="" coords="243,277,403,319"/>
+<area shape="rect" id="node21" href="$class_c_driver.html#afa3fd46c5fb93979a385bd3910b107a4" title="Launch the computation for all zones and all physics." alt="" coords="487,343,637,370"/>
+<area shape="rect" id="node22" href="$_s_u2___c_f_d_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="296,343,351,370"/>
+<area shape="rect" id="node27" href="$class_c_adj_euler_solver.html#a5265a44e6c43dee677c9f26333148432" title="Update the AoA and freestream velocity at the farfield." alt="" coords="976,638,1211,665"/>
+<area shape="rect" id="node28" href="$class_c_adj_euler_solver.html#a4ae0ed840dc8335fd921399625ba794f" title="Initialize the residual vectors." alt="" coords="703,630,928,657"/>
+<area shape="rect" id="node29" href="$class_c_adj_n_s_solver.html#ac16dab76e2c1d86bc7d70ca9f41fd668" title="Restart residual and compute gradients." alt="" coords="710,681,921,707"/>
+<area shape="rect" id="node32" href="$class_c_driver.html#afac169e386a89af2a52be8902abb27f2" title="Constructor of the class." alt="" coords="1029,463,1157,490"/>
+<area shape="rect" id="node35" href="$class_c_disc_adj_fluid_driver.html#a1d13bc7fb88fa770371f5aa47a9f7d98" title="Set the objective function. It is virtual because it depends on the kind of physics." alt="" coords="1017,216,1169,257"/>
+<area shape="rect" id="node36" href="$class_c_disc_adj_fluid_driver.html#a417b2271be82ce01079a5de8e1610f55" title="Record one iteration of a flow iteration in within multiple zones." alt="" coords="739,5,891,47"/>
+</map>

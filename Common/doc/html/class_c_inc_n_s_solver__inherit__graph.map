@@ -1,0 +1,5 @@
+<map id="CIncNSSolver" name="CIncNSSolver">
+<area shape="rect" id="node1" title="Main class for defining the incompressible Navier&#45;Stokes flow solver." alt="" coords="13,155,122,181"/>
+<area shape="rect" id="node2" href="$class_c_inc_euler_solver.html" title="Main class for defining the incompressible Euler flow solver." alt="" coords="5,80,129,107"/>
+<area shape="rect" id="node3" href="$class_c_solver.html" title="Main class for defining the PDE solution, it requires a child class for each particular solver (Euler..." alt="" coords="31,5,103,32"/>
+</map>

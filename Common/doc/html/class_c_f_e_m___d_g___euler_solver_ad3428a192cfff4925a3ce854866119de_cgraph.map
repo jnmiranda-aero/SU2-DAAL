@@ -1,0 +1,6 @@
+<map id="CFEM_DG_EulerSolver::Complete_MPI_Communication" name="CFEM_DG_EulerSolver::Complete_MPI_Communication">
+<area shape="rect" id="node1" title="Routine that completes the non&#45;blocking communication between ranks." alt="" coords="5,64,240,105"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a20e5fd7b43cfd2bf2bcf5137f12bc635" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="315,5,504,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#ab110ba67babf383e40ac4896bc65a599" title="Get the number time DOFs for ADER&#45;DG." alt="" coords="288,71,531,98"/>
+<area shape="rect" id="node4" href="$class_c_base_m_p_i_wrapper.html#a7a83091a6fcdc392a11be74734362eaa" title=" " alt="" coords="312,122,507,149"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="CMultiGridIntegration::SetRestricted_Gradient" name="CMultiGridIntegration::SetRestricted_Gradient">
+<area shape="rect" id="node1" title="Compute the gradient in coarse grid using the fine grid information." alt="" coords="5,175,185,217"/>
+<area shape="rect" id="node2" href="$class_c_point.html#a821d9feaa7488e42dfca27a349776f0a" title="Get the children control volume of an agglomerated control volume." alt="" coords="237,5,412,32"/>
+<area shape="rect" id="node3" href="$class_c_variable.html#a9dc639453d847d255efd5eb473dd0852" title="Get the value of the solution gradient." alt="" coords="239,56,410,83"/>
+<area shape="rect" id="node4" href="$class_c_point.html#aa32b71744384b293260648bff1de9a5c" title="Get the number of children of an agglomerated control volume." alt="" coords="233,107,416,133"/>
+<area shape="rect" id="node5" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="244,157,405,184"/>
+<area shape="rect" id="node6" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="241,208,408,235"/>
+<area shape="rect" id="node7" href="$class_c_solver.html#a65c22046b0cf1938ba22648912d04680" title="Get the number of variables of the problem." alt="" coords="259,259,391,285"/>
+<area shape="rect" id="node8" href="$class_c_point.html#a3c526a15e767c7de9cf163800aa581e5" title="Get area or volume of the control volume." alt="" coords="253,309,397,336"/>
+<area shape="rect" id="node9" href="$class_c_variable.html#aedfb5263cefb11e12c4154a4673d0474" title="Set the gradient of the solution." alt="" coords="240,360,409,387"/>
+</map>

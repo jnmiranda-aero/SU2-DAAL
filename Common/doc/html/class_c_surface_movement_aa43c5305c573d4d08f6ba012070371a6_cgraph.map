@@ -1,0 +1,6 @@
+<map id="CSurfaceMovement::SetAngleOfAttack" name="CSurfaceMovement::SetAngleOfAttack">
+<area shape="rect" id="node1" title="Set a Hicks&#45;Henne deformation bump functions on an airfoil." alt="" coords="5,49,221,90"/>
+<area shape="rect" id="node2" href="$class_c_config.html#ac50165b44d1c286c810585b89cd68f33" title="Value of the design variable step, we use this value in design problems." alt="" coords="291,5,457,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#affef7bc6016955cb0cf49b3f774bc45a" title="Get the scale factor for the line search." alt="" coords="269,56,479,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#ae8037752a35024e89a598e2e12065cb6" title="Set the off set angle of attack." alt="" coords="287,107,461,133"/>
+</map>

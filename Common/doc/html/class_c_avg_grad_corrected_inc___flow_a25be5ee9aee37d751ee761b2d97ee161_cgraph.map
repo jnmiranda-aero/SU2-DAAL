@@ -1,0 +1,5 @@
+<map id="CAvgGradCorrectedInc_Flow::CAvgGradCorrectedInc_Flow" name="CAvgGradCorrectedInc_Flow::CAvgGradCorrectedInc_Flow">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,39,256,80"/>
+<area shape="rect" id="node2" href="$class_c_config.html#abb2ba1ecf8988532ce9cecb88c206d28" title="Flag for whether to solve the energy equation for incompressible flows." alt="" coords="325,5,473,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a20e5fd7b43cfd2bf2bcf5137f12bc635" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="304,71,493,112"/>
+</map>

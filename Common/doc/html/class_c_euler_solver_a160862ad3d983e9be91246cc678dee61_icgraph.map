@@ -1,0 +1,7 @@
+<map id="CEulerSolver::Set_MPI_Sensor" name="CEulerSolver::Set_MPI_Sensor">
+<area shape="rect" id="node1" title="Parallelization of SetPressure_Sensor." alt="" coords="499,39,664,80"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a2f4e3619ae65c63cbda1ef2098441ab4" title="Compute a pressure sensor switch." alt="" coords="257,5,451,47"/>
+<area shape="rect" id="node5" href="$class_c_euler_solver.html#aad67b818e2f5c133118d2a4cca7845f3" title="Compute Ducros Sensor for Roe Dissipation." alt="" coords="263,71,445,112"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="5,17,209,43"/>
+<area shape="rect" id="node4" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="13,71,202,98"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CNumerics::SetDissipation" name="CNumerics::SetDissipation">
+<area shape="rect" id="node1" title="Sets the values of the roe dissipation." alt="" coords="216,13,411,39"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a9cb1da16bea732300854a351ebca2ed3" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,5,168,47"/>
+</map>

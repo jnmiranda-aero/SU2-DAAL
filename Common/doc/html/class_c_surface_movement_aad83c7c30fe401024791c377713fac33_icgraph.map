@@ -1,0 +1,11 @@
+<map id="CSurfaceMovement::SetRotation" name="CSurfaceMovement::SetRotation">
+<area shape="rect" id="node1" title="Set a rotation for surface movement." alt="" coords="733,56,968,83"/>
+<area shape="rect" id="node2" href="$_s_u2___g_e_o_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="544,5,599,32"/>
+<area shape="rect" id="node3" href="$_s_u2___d_o_t_8hpp.html#a5c5163a755085e03f1dfa23aeb7e21f2" title="Projection of the surface sensitivity using finite differences (FD)." alt="" coords="505,56,638,83"/>
+<area shape="rect" id="node5" href="$class_c_surface_movement.html#a23bec9fbe1bcd7f6117100de93381ac3" title="Set the surface/boundary deformation." alt="" coords="457,118,685,159"/>
+<area shape="rect" id="node4" href="$_s_u2___d_o_t_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="42,96,97,123"/>
+<area shape="rect" id="node6" href="$_s_u2___d_e_f_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="268,96,323,123"/>
+<area shape="rect" id="node7" href="$_s_u2___d_o_t_8hpp.html#a3fceed882e8eb3d6796c8e8396af7d87" title="Projection of the surface sensitivity using algorithmic differentiation (AD)." alt="" coords="228,147,363,173"/>
+<area shape="rect" id="node8" href="$class_c_surface_movement.html#af6aac73d04565bf6e9b81305b66e97e7" title="Set derivatives of the surface/boundary deformation." alt="" coords="181,198,409,239"/>
+<area shape="rect" id="node9" href="$class_c_driver.html#afac169e386a89af2a52be8902abb27f2" title="Constructor of the class." alt="" coords="5,205,133,232"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="CFEASolver::Compute_StiffMatrix_NodalStressRes" name="CFEASolver::Compute_StiffMatrix_NodalStressRes">
+<area shape="rect" id="node1" title="Compute the stiffness matrix of the problem and the nodal stress terms at the same time (more efficie..." alt="" coords="5,561,212,602"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a8c2c7f8ca02d0e8685373e38ca29d9d0" title="Adds the specified block to the sparse matrix." alt="" coords="307,5,472,32"/>
+<area shape="rect" id="node4" href="$class_c_numerics.html#af80bcfd925233e15244e2c840e7e9410" title="A virtual member to compute the pressure term in incompressible or nearly&#45;incompressible structural p..." alt="" coords="305,57,473,98"/>
+<area shape="rect" id="node5" href="$class_c_numerics.html#a27c30273ac932167ae91689a36d67baf" title="A virtual member to compute the tangent matrix in structural problems." alt="" coords="309,122,469,163"/>
+<area shape="rect" id="node6" href="$class_c_element.html#a55e9b358dc1f352b657c8400e7e42c78" title="Return the value of the submatrix K relating nodes a and b." alt="" coords="315,188,463,215"/>
+<area shape="rect" id="node7" href="$class_c_element.html#a8ed2cf5af84eac027ab5451711a7bae3" title="Return the value of a submatrix K relating nodes a and b, for the pressure term (this term is subinte..." alt="" coords="308,239,471,265"/>
+<area shape="rect" id="node8" href="$class_c_element.html#a2d86b4159b55faab77b277f9576b4add" title="Return the value of the diagonal term for the stress contribution, relating nodes a and b." alt="" coords="308,289,471,316"/>
+<area shape="rect" id="node9" href="$class_c_element.html#aef944357e6aad96457a0f25c5e9e0292" title="Return the value of the nodal stress component of the residual for node a." alt="" coords="313,340,465,367"/>
+<area shape="rect" id="node10" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="323,391,456,417"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a8ad45b179ddabec5652dbf4b517fbbf0" title="Decide whether to apply DE effects to the model." alt="" coords="303,441,475,468"/>
+<area shape="rect" id="node12" href="$class_c_element_property.html#aa6a1abb6d5ea0c4013b292bceaf484f1" title=" " alt="" coords="274,492,505,519"/>
+<area shape="rect" id="node13" href="$class_c_config.html#aa390083ca0a8cb156a80abede3a59ddf" title="Compressibility/incompressibility of the solids analysed using the structural solver." alt="" coords="260,543,519,569"/>
+<area shape="rect" id="node14" href="$class_c_geometry.html#a4ae48ec038df1f5ee7c1daadabea5e99" title="Get number of elements." alt="" coords="306,593,473,620"/>
+<area shape="rect" id="node15" href="$class_c_element.html#ac240dd491ca6a6aa86e159b76bd92a91" title="Retrieve the number of nodes of the element." alt="" coords="307,644,472,671"/>
+<area shape="rect" id="node16" href="$class_c_primal_grid.html#a4fc7b6b6ac5025325c7e68fb56fbeef8" title="A pure virtual member." alt="" coords="307,695,472,721"/>
+<area shape="rect" id="node17" href="$class_c_config.html#a5d4b567b9d086ed10256f8896e12ed17" title="Decide whether it&#39;s necessary to read a reference geometry." alt="" coords="305,745,474,772"/>
+<area shape="rect" id="node18" href="$class_c_variable.html#a712d88e3f9687779fc798f9c2ba2f249" title="A virtual member." alt="" coords="299,796,480,823"/>
+<area shape="rect" id="node19" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="305,847,473,873"/>
+<area shape="rect" id="node20" href="$class_c_primal_grid.html#adb676897e7cf4a83ceb83065e7c6a04f" title="A pure virtual member." alt="" coords="292,897,487,924"/>
+<area shape="rect" id="node21" href="$class_c_element.html#acceb10cf0341fb86e4c7274c39a9ca68" title="Store the value of the identifier for the Dielectric Elastomers." alt="" coords="290,948,489,975"/>
+<area shape="rect" id="node25" href="$class_c_element.html#ae5cf1fc1c7f5173c2bbd6a1d26042ad3" title="Set the value of the coordinate of the nodes in the current configuration." alt="" coords="296,999,483,1025"/>
+<area shape="rect" id="node26" href="$class_c_element.html#adfd414b13e9bfd2eee260ea0a3718796" title="Set the value of the coordinate of the nodes in the reference configuration." alt="" coords="299,1049,480,1076"/>
+<area shape="rect" id="node27" href="$class_c_sys_vector.html#aa2de9022590ea6b06950ef6b8afb77a2" title="Subtract val_residual to the residual." alt="" coords="293,1100,486,1127"/>
+<area shape="rect" id="node3" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="617,5,771,32"/>
+<area shape="rect" id="node22" href="$class_c_element_property.html#a5cf45adbc78e2a98d60e3cfea724a681" title=" " alt="" coords="599,897,789,924"/>
+<area shape="rect" id="node23" href="$class_c_element_property.html#a85a873af48c9c3a7d27b4e3302240855" title=" " alt="" coords="567,948,821,975"/>
+<area shape="rect" id="node24" href="$class_c_element_property.html#a94fd70bbdebe529658858df7da400daf" title=" " alt="" coords="579,999,809,1025"/>
+</map>

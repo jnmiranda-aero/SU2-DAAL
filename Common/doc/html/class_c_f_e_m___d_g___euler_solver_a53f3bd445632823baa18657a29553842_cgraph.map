@@ -1,0 +1,11 @@
+<map id="CFEM_DG_EulerSolver::ADER_DG_PredictorStep" name="CFEM_DG_EulerSolver::ADER_DG_PredictorStep">
+<area shape="rect" id="node1" title="Function, carries out the predictor step of the ADER&#45;DG time integration." alt="" coords="5,170,192,211"/>
+<area shape="rect" id="node2" href="$class_c_blas_structure.html#a40a585307895af828a7f51cd0ccbf81d" title="Function, which carries out a dense matrix product. It is a limited version of the BLAS gemm function..." alt="" coords="277,31,445,57"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a6a283ba2b1eacb99905f0e12636c8e15" title="Get the kind of scheme (aliased or non&#45;aliased) to be used in the predictor step of ADER&#45;DG." alt="" coords="274,82,449,123"/>
+<area shape="rect" id="node6" href="$class_c_config.html#ab110ba67babf383e40ac4896bc65a599" title="Get the number time DOFs for ADER&#45;DG." alt="" coords="240,148,483,175"/>
+<area shape="rect" id="node7" href="$class_c_config.html#ae7e9d4b942d0db4b72f461c180ade3a4" title="Get the number time integration points for ADER&#45;DG." alt="" coords="254,199,469,241"/>
+<area shape="rect" id="node8" href="$class_c_config.html#aea5478f0851e4cb4d11c262fb6c6e8c4" title="Function to make available the matrix size in vectorization in order to optimize the gemm performance..." alt="" coords="246,265,477,292"/>
+<area shape="rect" id="node9" href="$class_c_config.html#ab61a5a25dc9a2d37c22d4744d26b690d" title="Get the weights of the time integration points for ADER&#45;DG." alt="" coords="248,317,475,358"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a2628e094b67a6d5cb410710aa00fa69b" title="Start the timer for profiling subroutines." alt="" coords="532,5,688,32"/>
+<area shape="rect" id="node4" href="$class_c_config.html#ae8d24548bd977c6a76e06ed9814418bb" title="Stop the timer for the GEMM profiling and store results." alt="" coords="531,56,689,83"/>
+</map>

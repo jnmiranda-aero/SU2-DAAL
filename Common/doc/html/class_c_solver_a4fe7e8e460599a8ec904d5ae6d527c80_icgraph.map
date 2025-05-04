@@ -1,0 +1,5 @@
+<map id="CSolver::GetSlidingState" name="CSolver::GetSlidingState">
+<area shape="rect" id="node1" title="Get the outer state for fluid interface nodes." alt="" coords="236,46,417,73"/>
+<area shape="rect" id="node2" href="$class_c_turb_s_a_solver.html#a4311973e232f0f0d1ddd661f52e47531" title="Impose the fluid interface boundary condition using tranfer data." alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node3" href="$class_c_turb_s_s_t_solver.html#a59752956d49ea64cd4a06f52e1b5088b" title="Impose the interface state across sliding meshes." alt="" coords="22,71,171,112"/>
+</map>

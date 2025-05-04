@@ -1,0 +1,8 @@
+<map id="CConfig::GetSolution_FEMFileName" name="CConfig::GetSolution_FEMFileName">
+<area shape="rect" id="node1" title="Get the name of the file with the solution of the structural problem." alt="" coords="543,74,699,115"/>
+<area shape="rect" id="node2" href="$class_c_baseline_solver.html#acb5f7a5211dcf8ba4337e9b251024553" title="Load a solution from a restart file." alt="" coords="267,5,482,32"/>
+<area shape="rect" id="node3" href="$class_c_f_e_a_solver.html#a5f70ded742a6204f439628d029ac294a" title="Load a solution from a restart file." alt="" coords="283,56,466,83"/>
+<area shape="rect" id="node4" href="$class_c_baseline_solver.html#a548bcd96c3163a46e4cdf6a041818d2a" title="Load a FSI solution from a restart file." alt="" coords="255,107,495,133"/>
+<area shape="rect" id="node5" href="$class_c_baseline_solver.html#ab8e4b1b71d637dd0adee324d4a7a6315" title="Set the number of variables and string names from the restart file." alt="" coords="274,158,475,199"/>
+<area shape="rect" id="node6" href="$class_c_baseline_solver.html#a996d9c6ee613b5b45a25a765f3c5e2cd" title=" " alt="" coords="5,158,207,199"/>
+</map>

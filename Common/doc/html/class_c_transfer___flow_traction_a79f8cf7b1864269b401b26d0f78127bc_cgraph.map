@@ -1,0 +1,18 @@
+<map id="CTransfer_FlowTraction::GetPhysical_Constants" name="CTransfer_FlowTraction::GetPhysical_Constants">
+<area shape="rect" id="node1" title="Retrieve some constants needed for the calculations." alt="" coords="5,413,184,454"/>
+<area shape="rect" id="node2" href="$class_c_variable.html#ab810ee7e4f333701fdd804055fcc6ef8" title="A virtual member." alt="" coords="248,5,463,32"/>
+<area shape="rect" id="node3" href="$class_c_solver.html#a1c3b5050c1afb50567f58437d150db16" title="A virtual member." alt="" coords="232,56,479,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a5584bf1acbe7bfce6e649e81a7c62470" title="If we are prforming an unsteady simulation, there is only one value of the time step for the complete..." alt="" coords="280,107,431,149"/>
+<area shape="rect" id="node5" href="$class_c_config.html#ae9520958df27678474890ee79980ee24" title="Get the value of the frestream temperature." alt="" coords="279,173,432,214"/>
+<area shape="rect" id="node6" href="$class_c_config.html#acc0e8477d26aab6003845d62cb43b0fa" title="Get the value of the non&#45;dimensionalized freestream density." alt="" coords="279,238,432,279"/>
+<area shape="rect" id="node7" href="$class_c_config.html#ac22ad3da2560e5f26c71e368ce11819c" title="Provides information about the time integration of the structural analysis, and change the write in t..." alt="" coords="275,303,436,345"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a20ffa5926dadc26c7934413633132416" title="Get the current FSI iteration number." alt="" coords="283,369,427,396"/>
+<area shape="rect" id="node9" href="$class_c_config.html#aab77e170a861ed4d10f178061e3ffd0f" title="Get the number of subiterations while a ramp is applied." alt="" coords="257,420,454,447"/>
+<area shape="rect" id="node10" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="272,471,439,497"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a93b27c413c597aa5e8fff9a95e275351" title="Check if the user wants to apply the load as a ramp." alt="" coords="266,521,445,548"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a25cbf98ac2a6de4cb53e1e4b5a37f34e" title="Get the maximum time of the ramp." alt="" coords="265,572,446,599"/>
+<area shape="rect" id="node13" href="$class_c_config.html#a45e95664235928d911e7c3876fe078b3" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="273,623,438,665"/>
+<area shape="rect" id="node14" href="$class_c_config.html#af0723b9f35c1762a4c8edacb35f98984" title="Get the vector of the dimensionalized freestream velocity." alt="" coords="278,689,433,730"/>
+<area shape="rect" id="node15" href="$class_c_config.html#a13840ca712bf87d32d18917d0c39cfae" title="Get the vector of the non&#45;dimensionalized freestream velocity." alt="" coords="278,754,433,795"/>
+<area shape="rect" id="node16" href="$class_c_solver.html#afc13c5c294cd82f72f296681565ef936" title="A virtual member." alt="" coords="270,820,441,847"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="CConfig::GetSolution_AdjFileName" name="CConfig::GetSolution_AdjFileName">
+<area shape="rect" id="node1" title="Get the name of the file with the solution of the adjoint flow problem with drag objective function." alt="" coords="543,308,699,349"/>
+<area shape="rect" id="node2" href="$class_c_adj_euler_solver.html#a0a739888df9436d4707665d152a7af1a" title=" " alt="" coords="276,5,473,47"/>
+<area shape="rect" id="node3" href="$class_c_adj_n_s_solver.html#a323f1dc7c0b9fe00d1911eeeea365d46" title=" " alt="" coords="271,71,479,98"/>
+<area shape="rect" id="node4" href="$class_c_adj_turb_solver.html#a621bdae0b081f25a67425cc037cd90a2" title=" " alt="" coords="282,123,467,164"/>
+<area shape="rect" id="node5" href="$class_c_grid_adaptation.html#a5ae5efc80fc64c8360a5aaed2b0195ea" title="Read the flow solution from the restart file." alt="" coords="256,189,493,215"/>
+<area shape="rect" id="node6" href="$class_c_grid_adaptation.html#afe563e32ccceb3552d3ab6c050505446" title="Read the flow solution from the restart file." alt="" coords="257,239,492,266"/>
+<area shape="rect" id="node8" href="$class_c_baseline_solver.html#acb5f7a5211dcf8ba4337e9b251024553" title="Load a solution from a restart file." alt="" coords="267,290,482,317"/>
+<area shape="rect" id="node9" href="$class_c_adj_euler_solver.html#acaf1ae2d6c07b492ab1eeca389881731" title="Load a solution from a restart file." alt="" coords="269,341,481,367"/>
+<area shape="rect" id="node10" href="$class_c_disc_adj_solver.html#ae9b5d31c76381f5d45884642694d9879" title="Load a solution from a restart file." alt="" coords="271,391,478,418"/>
+<area shape="rect" id="node11" href="$class_c_disc_adj_f_e_a_solver.html#a21c5685021d084732a1aa3d552cd9043" title="Load a solution from a restart file." alt="" coords="297,443,452,484"/>
+<area shape="rect" id="node12" href="$class_c_baseline_solver.html#a548bcd96c3163a46e4cdf6a041818d2a" title="Load a FSI solution from a restart file." alt="" coords="255,509,495,535"/>
+<area shape="rect" id="node13" href="$class_c_baseline_solver.html#ab8e4b1b71d637dd0adee324d4a7a6315" title="Set the number of variables and string names from the restart file." alt="" coords="274,560,475,601"/>
+<area shape="rect" id="node15" href="$class_c_physical_geometry.html#a01b28fa420b3d1138aa8816453202a33" title="Read the sensitivity from adjoint solution file and store it." alt="" coords="296,625,453,667"/>
+<area shape="rect" id="node7" href="$_s_u2___m_s_h_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="79,239,133,266"/>
+<area shape="rect" id="node14" href="$class_c_baseline_solver.html#a996d9c6ee613b5b45a25a765f3c5e2cd" title=" " alt="" coords="5,560,207,601"/>
+</map>

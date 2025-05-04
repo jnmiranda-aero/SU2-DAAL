@@ -1,0 +1,5 @@
+<map id="CBlasStructure::gemm" name="CBlasStructure::gemm">
+<area shape="rect" id="node1" title="Function, which carries out a dense matrix product. It is a limited version of the BLAS gemm function..." alt="" coords="5,31,173,57"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a2628e094b67a6d5cb410710aa00fa69b" title="Start the timer for profiling subroutines." alt="" coords="223,5,379,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#ae8d24548bd977c6a76e06ed9814418bb" title="Stop the timer for the GEMM profiling and store results." alt="" coords="221,56,380,83"/>
+</map>

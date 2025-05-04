@@ -1,0 +1,52 @@
+<map id="CAdjEulerSolver::Preprocessing" name="CAdjEulerSolver::Preprocessing">
+<area shape="rect" id="node1" title="Initialize the residual vectors." alt="" coords="5,1773,231,1800"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="561,5,772,32"/>
+<area shape="rect" id="node4" href="$class_c_config.html#aa878788c30e1c7c3ed4788e485bd2fb0" title="Get the verbosity level of the console output." alt="" coords="319,1615,473,1657"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a677637c67f3ee2738c7b49a10632fc2a" title="Get information about whether to use fixed CL mode." alt="" coords="297,1681,495,1708"/>
+<area shape="rect" id="node6" href="$class_c_config.html#abd97282665d4d8885078aac10735e708" title="Get information about whether to use fixed CL mode." alt="" coords="826,1525,1029,1552"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a3d92a72397d083049aed74f4e023a110" title="Get the kind of center convective numerical scheme for the adjoint flow equations." alt="" coords="297,1733,495,1774"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a3e3813b3bb9d7242909c0ee42c59dadd" title="Get the kind of convective numerical scheme for the adjoint flow equations (centered or upwind)." alt="" coords="295,1798,497,1839"/>
+<area shape="rect" id="node9" href="$class_c_config.html#afc99e16f4eb125197d3d900a038c020f" title="Get the kind of method for computation of spatial gradients." alt="" coords="299,1863,493,1905"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a89156d3db0310793202c243806d4a479" title="Get the method for limiting the spatial gradients." alt="" coords="292,1929,500,1970"/>
+<area shape="rect" id="node11" href="$class_c_config.html#ab9d0e23db2d8f044b0b09915e92ef003" title="Get the kind of integration scheme (explicit or implicit) for the adjoint flow equations." alt="" coords="301,1994,491,2035"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a473b7bf8e4dc3dfa9aacc01b2e4b8cc8" title="Get if the upwind scheme used MUSCL or not." alt="" coords="292,2060,500,2087"/>
+<area shape="rect" id="node13" href="$class_c_point.html#aee24c111e6154c620a13be15dff0b5e1" title="Get the value of the distance to a sharp edge." alt="" coords="585,57,749,98"/>
+<area shape="rect" id="node14" href="$class_c_sys_vector.html#ac2b8ed7c13757ad68487d3891337265b" title="Set the residual to zero." alt="" coords="297,2111,495,2137"/>
+<area shape="rect" id="node15" href="$class_c_adj_euler_solver.html#af1b72ed76900f821d2f51942cb4252db" title="Compute the sensor for higher order dissipation control in rotating problems." alt="" coords="289,305,503,346"/>
+<area shape="rect" id="node24" href="$class_c_adj_euler_solver.html#a5265a44e6c43dee677c9f26333148432" title="Update the AoA and freestream velocity at the farfield." alt="" coords="279,1025,513,1052"/>
+<area shape="rect" id="node41" href="$class_c_variable.html#ae660d54bcbdd5579683a7c2a80634a63" title="Set the value of the non&#45;physical point." alt="" coords="296,2161,496,2188"/>
+<area shape="rect" id="node42" href="$class_c_config.html#a434fe0922532828b7e40ded865c5ce51" title="Set the current number of non&#45;physical nodes in the solution." alt="" coords="305,2213,487,2254"/>
+<area shape="rect" id="node43" href="$class_c_variable.html#adeed79743686c91ae9d6f1b8f10293da" title="A virtual member." alt="" coords="314,2279,478,2305"/>
+<area shape="rect" id="node44" href="$class_c_solver.html#ad52861b3403aec20826df279bf7e457a" title="Compute the Green&#45;Gauss gradient of the solution." alt="" coords="319,1433,473,1474"/>
+<area shape="rect" id="node47" href="$class_c_solver.html#a0425419d1bdcaa4459c6fb5a96756a4b" title="Compute the Least Squares gradient of the solution." alt="" coords="319,2330,473,2371"/>
+<area shape="rect" id="node48" href="$class_c_solver.html#a641e9c59698ab9c7c2fb91107ad70d77" title="Compute slope limiter." alt="" coords="319,181,473,222"/>
+<area shape="rect" id="node49" href="$class_c_adj_euler_solver.html#a1872318f659d74b4e12d669095ee57b5" title="Compute the undivided laplacian for the adjoint solution." alt="" coords="285,1498,507,1539"/>
+<area shape="rect" id="node50" href="$class_c_sys_matrix.html#a98588e2dd6fd263a00afd34ca1f3b0ff" title="Sets to zero all the entries of the sparse matrix." alt="" coords="309,2396,483,2423"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="820,5,1035,32"/>
+<area shape="rect" id="node16" href="$class_c_config.html#ad73417c1bca6d256bdc6c012d9dfd781" title="Get the value of sharp edge limiter." alt="" coords="586,122,747,163"/>
+<area shape="rect" id="node17" href="$class_c_config.html#a7df31afd2bbaad4c68567cc717c5f6c5" title="Value of the calibrated constant for the high order method (center scheme)." alt="" coords="579,305,754,346"/>
+<area shape="rect" id="node18" href="$class_c_config.html#a58fab477828897b873a07c89fc011294" title="Value of the calibrated constant for the high order method (center scheme)." alt="" coords="581,422,753,463"/>
+<area shape="rect" id="node19" href="$class_c_config.html#ad5181b03db54ee2a993a9adb56af8bb8" title="Get the reference element length for computing the slope limiting epsilon." alt="" coords="565,188,768,215"/>
+<area shape="rect" id="node20" href="$class_c_config.html#a7c9a37fc529a0e40f642ea7493c0f984" title="Get the value of limiter coefficient." alt="" coords="593,239,740,281"/>
+<area shape="rect" id="node21" href="$class_c_adj_euler_solver.html#ab0930524fa07e2072975e9fa8cb18f65" title="A virtual member." alt="" coords="589,487,744,529"/>
+<area shape="rect" id="node23" href="$class_c_variable.html#a4a8e17c1598a9dc858217353dad8f5a6" title="Set pressure sensor." alt="" coords="849,433,1006,460"/>
+<area shape="rect" id="node22" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="853,1413,1001,1454"/>
+<area shape="rect" id="node25" href="$class_c_config.html#a2711fd3e48037f5972691787f2a5ea78" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="847,1335,1008,1361"/>
+<area shape="rect" id="node26" href="$class_c_config.html#a717191d708bc4d8d183326abe308770f" title="Get the value for the lift curve slope for fixed CL mode." alt="" coords="577,1396,756,1423"/>
+<area shape="rect" id="node27" href="$class_c_config.html#a543ee47693a711eee6fd8f00671b3802" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="842,880,1013,907"/>
+<area shape="rect" id="node28" href="$class_c_config.html#a287242969576bb4c0a303d50e907eb29" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="842,1207,1013,1233"/>
+<area shape="rect" id="node29" href="$class_c_config.html#a6385f8ea2c2b24481683d73573391acb" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="842,691,1013,717"/>
+<area shape="rect" id="node30" href="$class_c_config.html#aa48f2fc504ec2b261d5046f9a17677dd" title="Get the current external iteration number." alt="" coords="593,655,740,681"/>
+<area shape="rect" id="node31" href="$class_c_config.html#a37e61314cec83191ef1c00eed0d576d4" title="Get the value of iterations to re&#45;evaluate the angle of attack." alt="" coords="572,756,761,783"/>
+<area shape="rect" id="node32" href="$class_c_config.html#a2d4389021feaed9f2e62f0475f73a718" title="Get the kind of objective function. There are several options: Drag coefficient, Lift coefficient,..." alt="" coords="832,1272,1023,1299"/>
+<area shape="rect" id="node33" href="$class_c_config.html#a4d36b6479c43b887ce691c23ce648961" title="Get the value of iterations to re&#45;evaluate the angle of attack." alt="" coords="591,807,742,849"/>
+<area shape="rect" id="node34" href="$class_c_config.html#ac951150c8a657781b1c2d28d1058ed07" title="Get information about whether to update the AoA for fixed lift mode." alt="" coords="575,873,758,900"/>
+<area shape="rect" id="node35" href="$class_c_config.html#ae2a0ddd50ec6acbd74f76c7f9f167c66" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="587,924,746,951"/>
+<area shape="rect" id="node36" href="$class_c_config.html#afd39f185663752b3a48f73ff05ce89e2" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="582,975,751,1001"/>
+<area shape="rect" id="node37" href="$class_c_config.html#ad7f68b41f4633cff714b1b983d90d8ea" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="582,1025,751,1052"/>
+<area shape="rect" id="node38" href="$class_c_config.html#a8dd670373454018b59e99a11804d4477" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="583,1076,751,1103"/>
+<area shape="rect" id="node39" href="$class_c_adj_euler_solver.html#a814d69e54f24c9fef36e3493a2230973" title="Created the force projection vector for adjoint boundary conditions." alt="" coords="571,1279,762,1321"/>
+<area shape="rect" id="node40" href="$class_c_config.html#ad21c886562ffe9c0abaf9c38b8946c6e" title="Set the value of the boolean for updating AoA in fixed lift mode." alt="" coords="576,1127,757,1153"/>
+<area shape="rect" id="node45" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="593,1497,740,1524"/>
+<area shape="rect" id="node46" href="$class_c_variable.html#a9dc639453d847d255efd5eb473dd0852" title="Get the value of the solution gradient." alt="" coords="581,705,752,732"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CVariable::SetRes_TruncErrorZero" name="CVariable::SetRes_TruncErrorZero">
+<area shape="rect" id="node1" title="Set the truncation error to zero." alt="" coords="665,78,904,105"/>
+<area shape="rect" id="node2" href="$class_c_heat_solver_f_v_m.html#ab4ec9e8b3220ab50392d3387bc12d894" title="Impose the (received) conjugate heat variables." alt="" coords="427,5,617,47"/>
+<area shape="rect" id="node3" href="$class_c_multi_grid_integration.html#a3bfd97747d2b461a40b117d50fa4e0ec" title="Compute the forcing term." alt="" coords="441,71,603,112"/>
+<area shape="rect" id="node6" href="$class_c_multi_grid_integration.html#acc951bf952abb2cc8b6eaceb1b4a37f3" title="Compute truncation error in the coarse grid using the fine grid information." alt="" coords="432,136,612,177"/>
+<area shape="rect" id="node4" href="$class_c_multi_grid_integration.html#a98121aa0de6ddb0f83b41a2cad021e37" title="Perform a Full&#45;Approximation Storage (FAS) Multigrid." alt="" coords="216,71,379,112"/>
+<area shape="rect" id="node5" href="$class_c_multi_grid_integration.html#a4d65b648b6d17d396d2f3432f89e7f51" title="This subroutine calls the MultiGrid_Cycle and also prepare the multigrid levels and the monitoring." alt="" coords="5,71,168,112"/>
+</map>

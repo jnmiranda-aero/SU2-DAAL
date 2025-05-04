@@ -1,0 +1,8 @@
+<map id="CPhysicalGeometry::SetGeometryPlanes" name="CPhysicalGeometry::SetGeometryPlanes">
+<area shape="rect" id="node1" title="Indentify geometrical planes in the mesh." alt="" coords="5,115,163,157"/>
+<area shape="rect" id="node2" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="234,5,367,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="227,57,375,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="211,123,391,149"/>
+<area shape="rect" id="node5" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="231,173,370,200"/>
+<area shape="rect" id="node6" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="225,224,377,251"/>
+</map>

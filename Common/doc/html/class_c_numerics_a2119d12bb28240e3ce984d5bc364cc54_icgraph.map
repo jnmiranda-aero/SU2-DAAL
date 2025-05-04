@@ -1,0 +1,4 @@
+<map id="CNumerics::GetPrecondJacobian" name="CNumerics::GetPrecondJacobian">
+<area shape="rect" id="node1" title="Computation of the matrix Td, this matrix diagonalize the preconditioned conservative Jacobians in th..." alt="" coords="256,13,487,39"/>
+<area shape="rect" id="node2" href="$class_c_upw_turkel___flow.html#aa6bf45c213d035cf98a3b355af37def2" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="5,5,208,47"/>
+</map>

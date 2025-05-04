@@ -1,0 +1,16 @@
+<map id="CMeshFEM_DG::SetSendReceive" name="CMeshFEM_DG::SetSendReceive">
+<area shape="rect" id="node1" title="Set the send receive boundaries of the grid." alt="" coords="5,304,240,331"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a07f24df31c87ac960540ce8ac2b407d2" title=" " alt="" coords="301,5,496,32"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="308,56,489,83"/>
+<area shape="rect" id="node5" href="$class_c_base_m_p_i_wrapper.html#a2b80feee34755a59d180ab64eb2d712b" title=" " alt="" coords="312,107,485,149"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="325,173,473,214"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="325,238,473,279"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a8b427e418c23b7e25da647fb21024098" title="Angles of rotation for a rotational periodic boundary." alt="" coords="288,304,509,331"/>
+<area shape="rect" id="node9" href="$class_c_base_m_p_i_wrapper.html#a43a415ec11a029ade218eaf8c807a817" title=" " alt="" coords="306,355,491,381"/>
+<area shape="rect" id="node10" href="$class_c_base_m_p_i_wrapper.html#a18215cfe692fc1e82232e155504c1711" title=" " alt="" coords="305,405,492,432"/>
+<area shape="rect" id="node11" href="$class_c_base_m_p_i_wrapper.html#a2a0cf206352327fc745b3848b8c6d130" title=" " alt="" coords="307,456,490,483"/>
+<area shape="rect" id="node12" href="$class_c_base_m_p_i_wrapper.html#aad7f1563eb99152f7e23f462fee5c9c3" title=" " alt="" coords="299,507,498,549"/>
+<area shape="rect" id="node14" href="$class_c_base_m_p_i_wrapper.html#a7a83091a6fcdc392a11be74734362eaa" title=" " alt="" coords="301,573,496,600"/>
+<area shape="rect" id="node4" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="572,56,757,83"/>
+<area shape="rect" id="node13" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="557,515,772,541"/>
+</map>

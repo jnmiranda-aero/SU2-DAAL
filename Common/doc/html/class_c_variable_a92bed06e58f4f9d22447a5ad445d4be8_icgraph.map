@@ -1,0 +1,6 @@
+<map id="CVariable::GetAuxVarGradient" name="CVariable::GetAuxVarGradient">
+<area shape="rect" id="node1" title="Get the gradient of the auxiliary variable." alt="" coords="461,46,679,73"/>
+<area shape="rect" id="node2" href="$class_c_adj_euler_solver.html#a35fcc75148b249c56e3625ba23196856" title="Compute the inviscid sensitivity of the functional." alt="" coords="229,5,413,47"/>
+<area shape="rect" id="node3" href="$class_c_solver.html#a4831cdf2f3fdb7f6d3d84dca312e75eb" title="Compute the Green&#45;Gauss gradient of the auxiliary variable." alt="" coords="248,71,395,112"/>
+<area shape="rect" id="node4" href="$class_c_inc_euler_solver.html#aaa52f2305bb8f93d51fd0910c1ddeec9" title="Source term integration." alt="" coords="5,71,181,112"/>
+</map>

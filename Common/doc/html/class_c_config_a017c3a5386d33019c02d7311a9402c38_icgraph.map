@@ -1,0 +1,12 @@
+<map id="CConfig::GetPeriodicTranslate" name="CConfig::GetPeriodicTranslate">
+<area shape="rect" id="node1" title="Get the translation vector for a periodic transformation." alt="" coords="625,143,840,170"/>
+<area shape="rect" id="node2" href="$class_c_physical_geometry.html#addad3f466423ba9243a396763d442f9a" title="Accepts a geometry container holding a linearly partitioned grid with coloring performed by ParMETIS,..." alt="" coords="395,5,553,47"/>
+<area shape="rect" id="node3" href="$class_c_physical_geometry.html#a959335ef3669a65dae759073acdb7c1a" title="Perform the MPI communication for the grid coordinates (dynamic meshes)." alt="" coords="395,71,553,112"/>
+<area shape="rect" id="node4" href="$class_c_baseline_solver.html#acb467a34b553ade861519b9596a169bc" title="Impose the send&#45;receive boundary condition." alt="" coords="395,136,553,177"/>
+<area shape="rect" id="node6" href="$class_c_physical_geometry.html#a436fcc206331f2a456624897c1f72556" title="Write the .su2 file." alt="" coords="395,201,553,243"/>
+<area shape="rect" id="node8" href="$class_c_output.html#afde3263d4ddfcc5c256e718c22fb80d5" title="Write the nodal coordinates and connectivity to a Tecplot binary mesh file." alt="" coords="371,267,577,294"/>
+<area shape="rect" id="node5" href="$class_c_baseline_solver.html#acb5f7a5211dcf8ba4337e9b251024553" title="Load a solution from a restart file." alt="" coords="108,143,323,170"/>
+<area shape="rect" id="node7" href="$_s_u2___m_s_h_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="188,209,243,235"/>
+<area shape="rect" id="node9" href="$class_c_output.html#a225fca411804ed7f31adebe0ba4e7609" title="Writes and organizes the all the output files, except the history one, for serial computations." alt="" coords="127,267,303,294"/>
+<area shape="rect" id="node10" href="$_s_u2___d_e_f_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,267,60,294"/>
+</map>

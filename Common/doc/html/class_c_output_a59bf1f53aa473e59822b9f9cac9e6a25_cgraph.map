@@ -1,0 +1,23 @@
+<map id="COutput::SetTecplotBinary_DomainSolution" name="COutput::SetTecplotBinary_DomainSolution">
+<area shape="rect" id="node1" title="Write solution data to a Tecplot binary volume solution file." alt="" coords="5,440,197,481"/>
+<area shape="rect" id="node2" href="$class_c_output.html#acd6585a5f51900c076b58e1c9ba3f05f" title="Write the nodal coordinates and connectivity to a Tecplot binary mesh file." alt="" coords="249,162,449,204"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="503,10,709,36"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="516,60,696,87"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a47df59fbfd882e2fa8fc71691292659b" title="Get the kind of SU2 software component." alt="" coords="523,111,689,138"/>
+<area shape="rect" id="node6" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="525,314,687,340"/>
+<area shape="rect" id="node10" href="$class_c_config.html#aaa4ccd33d3acee59a6b07b410815cfae" title="Get information about writing unsteady headers and file extensions." alt="" coords="509,364,703,391"/>
+<area shape="rect" id="node11" href="$class_c_config.html#aed850e86bed053fd0c491efb848c2d33" title="Get the name of the file with the adjoint variables." alt="" coords="253,330,446,356"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a2917fd8eeb6a8bf275a3fc351aac2a5e" title="Determines if problem is adjoint." alt="" coords="261,381,437,422"/>
+<area shape="rect" id="node13" href="$class_c_config.html#aa9a5ddd6d3f6f56bc21f8a2ec3e7d220" title="If we are prforming an unsteady simulation, there is only one value of the time step for the complete..." alt="" coords="245,447,453,474"/>
+<area shape="rect" id="node14" href="$class_c_config.html#abe9f117dab934d76e518a9e8e40b142a" title="Get the indicator whether we are solving an discrete adjoint problem." alt="" coords="271,498,428,540"/>
+<area shape="rect" id="node15" href="$class_c_config.html#aa48f2fc504ec2b261d5046f9a17677dd" title="Get the current external iteration number." alt="" coords="276,564,423,591"/>
+<area shape="rect" id="node16" href="$class_c_config.html#a1069b71de3943ffe3156e28a91cbee2a" title="Get the name of the file with the flow variables." alt="" coords="248,615,451,642"/>
+<area shape="rect" id="node17" href="$class_c_config.html#a72f091b6e9f7acbdd3e355018f687245" title="Get the name of the file with the wave variables." alt="" coords="248,666,451,692"/>
+<area shape="rect" id="node18" href="$class_c_config.html#ad6962383b0938705044d5cef91c34397" title="Get the name of the file with the structure variables." alt="" coords="268,717,431,758"/>
+<area shape="rect" id="node19" href="$class_c_config.html#a45e95664235928d911e7c3876fe078b3" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="267,782,432,824"/>
+<area shape="rect" id="node20" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="272,848,427,875"/>
+<area shape="rect" id="node21" href="$class_c_config.html#ad64aebdee50abb9648d94e0a87a728c3" title="Get the name of the file with the volume sensitivity (discrete adjoint)." alt="" coords="272,900,427,941"/>
+<area shape="rect" id="node7" href="$class_c_config.html#ac7160a17815c266882dca13fd18f08cf" title="Get information about writing residuals to volume solution file." alt="" coords="513,162,699,188"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a2de7a4cebe2c1fe4146b1e18ab3af35f" title="Get information about writing residuals to volume solution file." alt="" coords="508,212,704,239"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a636688d749fbcbe6f43e82fc6c8735d2" title="Get information about writing residuals to volume solution file." alt="" coords="501,263,711,290"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CFSIDriver::CFSIDriver" name="CFSIDriver::CFSIDriver">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,137,172,163"/>
+<area shape="rect" id="node2" href="$class_c_config.html#aaf25c308c54f8463abda862403f7c4ed" title="Value of the minimum flow residual value for BGS applications (log10 scale)." alt="" coords="228,5,435,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#ac66b8ab61899d54488f3d6b2c6998993" title="Value of the minimum flow residual value for BGS applications (log10 scale)." alt="" coords="228,71,435,112"/>
+<area shape="rect" id="node4" href="$class_c_solver.html#a65c22046b0cf1938ba22648912d04680" title="Get the number of variables of the problem." alt="" coords="265,137,397,163"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a21c1b434d4e60477d293b2deb7b509fd" title="Value of the order of magnitude reduction of the flow residual for BGS applications." alt="" coords="220,188,443,229"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a048e411079167a14ac845bfcdbbc6b3e" title="Value of the order of magnitude reduction of the flow residual for BGS applications." alt="" coords="220,253,443,295"/>
+</map>

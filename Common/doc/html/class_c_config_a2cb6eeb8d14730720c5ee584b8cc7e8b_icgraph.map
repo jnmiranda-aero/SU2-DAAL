@@ -1,0 +1,9 @@
+<map id="CConfig::GetAeroelastic_Frequency_Pitch" name="CConfig::GetAeroelastic_Frequency_Pitch">
+<area shape="rect" id="node1" title="Uncoupled Aeroelastic Frequency Pitch." alt="" coords="796,82,972,123"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="464,31,748,57"/>
+<area shape="rect" id="node5" href="$class_c_solver.html#a85ab76dcef372e9cf25c7df9738b364b" title="Sets up the generalized eigenvectors and eigenvalues needed to solve the aeroelastic equations." alt="" coords="500,82,712,123"/>
+<area shape="rect" id="node6" href="$class_c_solver.html#a13c86d41e468e5d7b9c7a21ab2008e19" title="Solve the typical section wing model." alt="" coords="207,111,416,153"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#ae1e74218b4e943111b100d7ddcbd4db9" title=" " alt="" coords="213,5,409,32"/>
+<area shape="rect" id="node4" href="$class_c_n_s_solver.html#a2a8ad49c42b4546696e631cf44b7788b" title=" " alt="" coords="228,56,395,83"/>
+<area shape="rect" id="node7" href="$class_c_solver.html#a8dd9c428bd1faa90ed188094b2e182bb" title="Prepares and solves the aeroelastic equations." alt="" coords="5,119,159,145"/>
+</map>

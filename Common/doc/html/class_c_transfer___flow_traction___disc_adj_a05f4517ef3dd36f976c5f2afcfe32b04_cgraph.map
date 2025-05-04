@@ -1,0 +1,9 @@
+<map id="CTransfer_FlowTraction_DiscAdj::GetPhysical_Constants" name="CTransfer_FlowTraction_DiscAdj::GetPhysical_Constants">
+<area shape="rect" id="node1" title="Retrieve some constants needed for the calculations." alt="" coords="5,144,177,200"/>
+<area shape="rect" id="node2" href="$class_c_variable.html#ab810ee7e4f333701fdd804055fcc6ef8" title="A virtual member." alt="" coords="225,5,440,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#ae9520958df27678474890ee79980ee24" title="Get the value of the frestream temperature." alt="" coords="256,57,409,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#acc0e8477d26aab6003845d62cb43b0fa" title="Get the value of the non&#45;dimensionalized freestream density." alt="" coords="256,122,409,163"/>
+<area shape="rect" id="node5" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="249,188,416,215"/>
+<area shape="rect" id="node6" href="$class_c_config.html#af0723b9f35c1762a4c8edacb35f98984" title="Get the vector of the dimensionalized freestream velocity." alt="" coords="255,239,410,281"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a13840ca712bf87d32d18917d0c39cfae" title="Get the vector of the non&#45;dimensionalized freestream velocity." alt="" coords="255,305,410,346"/>
+</map>

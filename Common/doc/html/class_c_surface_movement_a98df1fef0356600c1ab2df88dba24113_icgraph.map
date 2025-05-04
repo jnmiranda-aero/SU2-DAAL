@@ -1,0 +1,12 @@
+<map id="CSurfaceMovement::SetCartesianCoord" name="CSurfaceMovement::SetCartesianCoord">
+<area shape="rect" id="node1" title="Recompute the cartesian coordinates using the control points position." alt="" coords="747,86,988,127"/>
+<area shape="rect" id="node2" href="$_s_u2___g_e_o_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="551,5,605,32"/>
+<area shape="rect" id="node3" href="$class_c_surface_movement.html#adc0f0df29bc1f6c9dad2c37d202d7879" title="Deforms a 3&#45;D flutter/pitching surface during an unsteady simulation." alt="" coords="457,57,699,98"/>
+<area shape="rect" id="node4" href="$_s_u2___d_o_t_8hpp.html#a5c5163a755085e03f1dfa23aeb7e21f2" title="Projection of the surface sensitivity using finite differences (FD)." alt="" coords="229,112,362,139"/>
+<area shape="rect" id="node6" href="$class_c_surface_movement.html#a23bec9fbe1bcd7f6117100de93381ac3" title="Set the surface/boundary deformation." alt="" coords="464,185,692,226"/>
+<area shape="rect" id="node5" href="$_s_u2___d_o_t_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="42,163,97,189"/>
+<area shape="rect" id="node7" href="$_s_u2___d_e_f_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="268,163,323,189"/>
+<area shape="rect" id="node8" href="$_s_u2___d_o_t_8hpp.html#a3fceed882e8eb3d6796c8e8396af7d87" title="Projection of the surface sensitivity using algorithmic differentiation (AD)." alt="" coords="228,213,363,240"/>
+<area shape="rect" id="node9" href="$class_c_surface_movement.html#af6aac73d04565bf6e9b81305b66e97e7" title="Set derivatives of the surface/boundary deformation." alt="" coords="181,265,409,306"/>
+<area shape="rect" id="node10" href="$class_c_driver.html#afac169e386a89af2a52be8902abb27f2" title="Constructor of the class." alt="" coords="5,272,133,299"/>
+</map>

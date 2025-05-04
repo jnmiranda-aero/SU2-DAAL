@@ -1,0 +1,26 @@
+<map id="CHeatSolverFVM::Viscous_Residual" name="CHeatSolverFVM::Viscous_Residual">
+<area shape="rect" id="node1" title="Compute the viscous residuals for the turbulent equation." alt="" coords="5,530,196,571"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a8c2c7f8ca02d0e8685373e38ca29d9d0" title="Adds the specified block to the sparse matrix." alt="" coords="283,5,448,32"/>
+<area shape="rect" id="node4" href="$class_c_sys_vector.html#a7ef472e160b4bfee4fac427e5c08022b" title="Add val_residual to the residual." alt="" coords="283,56,447,83"/>
+<area shape="rect" id="node5" href="$class_c_numerics.html#abe734316e0047f463f059fd77a281958" title="Compute the numerical residual." alt="" coords="257,107,473,133"/>
+<area shape="rect" id="node6" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="299,157,432,184"/>
+<area shape="rect" id="node7" href="$class_c_variable.html#a55d856e3f8bb009a9cfa2acf0e353df1" title="A virtual member." alt="" coords="262,208,469,235"/>
+<area shape="rect" id="node8" href="$class_c_variable.html#a9dc639453d847d255efd5eb473dd0852" title="Get the value of the solution gradient." alt="" coords="280,259,451,285"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="275,309,455,336"/>
+<area shape="rect" id="node10" href="$class_c_config.html#ab8374bd6eab3ea2e8c240ab8e702a508" title="Get the value of the non&#45;dimensional constant viscosity." alt="" coords="261,360,469,387"/>
+<area shape="rect" id="node11" href="$class_c_geometry.html#a7d6e1e1d1e46da8f55ecbe1a9380530a" title="Get number of edges." alt="" coords="282,411,449,437"/>
+<area shape="rect" id="node12" href="$class_c_edge.html#aee33b61d646e3fe59a4e23284ab1bf33" title="Get the nodes of the edge." alt="" coords="301,461,429,488"/>
+<area shape="rect" id="node13" href="$class_c_edge.html#ada210a6f0643f444e7e491fc4ed9e662" title="Copy the the normal vector of a face." alt="" coords="294,512,437,539"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a619cb1400d6c944e83ad0ffe82deb021" title="Get the value of the laminar Prandtl number." alt="" coords="273,563,457,589"/>
+<area shape="rect" id="node15" href="$class_c_config.html#a2fca6d5964fb443f9d517df57659ccbc" title="Get the value of the turbulent Prandtl number." alt="" coords="274,613,457,640"/>
+<area shape="rect" id="node16" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="281,664,449,691"/>
+<area shape="rect" id="node17" href="$class_c_config.html#a35f241f4201017665617b572dc456f33" title="Get the value of the thermal diffusivity for solids." alt="" coords="253,715,477,757"/>
+<area shape="rect" id="node18" href="$class_c_numerics.html#a2651b6eaf16b56b59a4140b459deb5f1" title="Set the gradient of the conservative variables." alt="" coords="250,781,481,808"/>
+<area shape="rect" id="node19" href="$class_c_numerics.html#a5fa1089c7228d6d49677a633bbe3c890" title="Set coordinates of the points." alt="" coords="285,832,445,859"/>
+<area shape="rect" id="node20" href="$class_c_numerics.html#a41903d97957f351cd9ee63ca404985b1" title="Set the value of the normal vector to the face between two points." alt="" coords="280,883,451,909"/>
+<area shape="rect" id="node21" href="$class_c_numerics.html#a42f988dfe419c655c6162802ff355bc2" title="Set the value of the temperature." alt="" coords="263,933,467,960"/>
+<area shape="rect" id="node22" href="$class_c_numerics.html#a6c349c00263edf9afaa090c5f42e3986" title="Set the thermal diffusivity (translational/rotational)" alt="" coords="244,984,487,1011"/>
+<area shape="rect" id="node23" href="$class_c_sys_matrix.html#a0c6e3335f161b70247ac06e22eee6dfc" title="Subtracts the specified block to the sparse matrix." alt="" coords="268,1035,463,1061"/>
+<area shape="rect" id="node24" href="$class_c_sys_vector.html#aa2de9022590ea6b06950ef6b8afb77a2" title="Subtract val_residual to the residual." alt="" coords="269,1085,462,1112"/>
+<area shape="rect" id="node3" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="535,520,689,547"/>
+</map>

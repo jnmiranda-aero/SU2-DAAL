@@ -1,0 +1,52 @@
+<map id="CDriver::Output" name="CDriver::Output">
+<area shape="rect" id="node1" title="Output the solution in solution file." alt="" coords="5,107,128,133"/>
+<area shape="rect" id="node2" href="$class_c_driver.html#a0333f14b85ebb5167debc33bd1d59233" title="Get the number of external iterations." alt="" coords="176,5,329,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a14e4c2875536b0391c47105562ee1fd8" title="Get the number of external iterations." alt="" coords="417,31,572,57"/>
+<area shape="rect" id="node4" href="$class_c_config.html#ae7a529cf315ec4396ab0d7ac1d1ba643" title="Set the sum of the bandwidth for writing binary restarts (to be averaged later)." alt="" coords="690,263,841,305"/>
+<area shape="rect" id="node5" href="$class_c_output.html#aabf70f264a2b4b1aa3eb59b22040217d" title="Writes and organizes the all the output files, except the history one, for parallel computations." alt="" coords="180,1175,325,1217"/>
+<area shape="rect" id="node35" href="$class_c_output.html#abbc1f1692ec0f357cc5f1904e410c645" title="Create and write the file with the flow coefficient on the surface." alt="" coords="386,1671,603,1697"/>
+<area shape="rect" id="node6" href="$class_c_output.html#aef83cc70c592188b884d85be2cb9a1ca" title="Deallocate temporary memory needed for merging and writing connectivity in parallel." alt="" coords="377,623,612,665"/>
+<area shape="rect" id="node7" href="$class_c_output.html#aa92a0aaaffffffdaad89c76be5f365c6" title="Deallocate temporary memory needed for merging and writing output data in parallel." alt="" coords="403,689,587,730"/>
+<area shape="rect" id="node8" href="$class_c_output.html#a1758de72369b1d75d9050ae1e04a00fd" title="Deallocate temporary memory needed for merging and writing inlet boundary coordinates." alt="" coords="403,754,586,795"/>
+<area shape="rect" id="node9" href="$class_c_output.html#a63713cb5d6377844fc3d93d94987955b" title="Deallocate temporary memory needed for merging and writing output data in parallel." alt="" coords="393,819,596,861"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a2917fd8eeb6a8bf275a3fc351aac2a5e" title="Determines if problem is adjoint." alt="" coords="677,493,853,534"/>
+<area shape="rect" id="node11" href="$class_c_config.html#abe9f117dab934d76e518a9e8e40b142a" title="Get the indicator whether we are solving an discrete adjoint problem." alt="" coords="687,722,844,763"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a66ca7e620390a81cd49cd0a00716128e" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="671,1212,860,1239"/>
+<area shape="rect" id="node13" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="675,1073,855,1100"/>
+<area shape="rect" id="node14" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="682,1503,849,1529"/>
+<area shape="rect" id="node15" href="$class_c_config.html#ac2cb41cf77a3151862778d8400d58656" title="Get the format of the output solution." alt="" coords="692,1135,839,1177"/>
+<area shape="rect" id="node16" href="$class_c_config.html#a66a6bcf5dfbda6caca86a4cf9fc866c2" title="Get information about writing a surface comma&#45;separated values (CSV) solution file." alt="" coords="403,157,587,184"/>
+<area shape="rect" id="node17" href="$class_c_config.html#af20a02c728330d647cb81c4649f510d4" title="Get information about writing a surface solution file." alt="" coords="676,2157,855,2184"/>
+<area shape="rect" id="node18" href="$class_c_config.html#a7a93effee952830203f6d9e59afb3c10" title="Get information about writing a volume solution file." alt="" coords="675,2107,855,2133"/>
+<area shape="rect" id="node19" href="$class_c_output.html#ae5f3008bfbfbcf5b4a706c6360308ad7" title="Load the desired solution data into a structure used for parallel reordering and output file writing ..." alt="" coords="405,1205,584,1246"/>
+<area shape="rect" id="node22" href="$class_c_output.html#a17bd88965783fedc851a85bac1df0e06" title="Load the desired solution data into a structure used for parallel reordering and output file writing ..." alt="" coords="385,1452,604,1479"/>
+<area shape="rect" id="node23" href="$class_c_output.html#ab17e8b4e175ebf7b1bed0d423aae4cfc" title="Load the desired solution data into a structure used for parallel reordering and output file writing ..." alt="" coords="405,1270,584,1311"/>
+<area shape="rect" id="node24" href="$class_c_output.html#a448876ea8cd5b98fdf17528e56ace830" title="Load the desired solution data into a structure used for parallel reordering and output file writing ..." alt="" coords="387,1052,602,1079"/>
+<area shape="rect" id="node25" href="$class_c_output.html#a3ae58114770474ef465f75e03ecac279" title="Load the desired solution data into a structure used for parallel reordering and output file writing ..." alt="" coords="386,1401,603,1428"/>
+<area shape="rect" id="node28" href="$class_c_output.html#af06e590811c3bdf10a8832c69df0d89c" title="Load the desired solution data into a structure used for parallel reordering and output file writing ..." alt="" coords="405,1335,584,1377"/>
+<area shape="rect" id="node29" href="$class_c_output.html#aa64f45b608ee50550a214a4f4dca88cd" title="Merge the node coordinates of all inlet boundaries from all processors." alt="" coords="379,1721,610,1748"/>
+<area shape="rect" id="node32" href="$class_c_output.html#a60e506b3013968f99ac814cc2167cd65" title="Prepare the number of points and offsets for linear partitioning that are needed for output." alt="" coords="405,1553,584,1580"/>
+<area shape="rect" id="node33" href="$class_c_output.html#af70e73cb8b9dda78233975f39d3675ef" title="Create and write the file with the adjoint coefficients on the surface for serial computations." alt="" coords="405,1605,584,1646"/>
+<area shape="rect" id="node37" href="$class_c_config.html#a4c688a1e0b3b1f3b858b88108e5a6e65" title="Set information about writing a template inlet profile file." alt="" coords="403,208,586,235"/>
+<area shape="rect" id="node38" href="$class_c_output.html#ab1e53e8b7fb6a8e2962192eaddc79677" title="Sort the connectivities (volume and surface) into data structures used for output file writing." alt="" coords="399,2157,590,2184"/>
+<area shape="rect" id="node39" href="$class_c_output.html#ac2950e4be0517a3d865d999f5348d518" title="Sort the connectivities (volume and surface) into data structures used for output file writing (DG&#45;FE..." alt="" coords="381,2056,608,2083"/>
+<area shape="rect" id="node40" href="$class_c_output.html#a225281c20c3216f2d1edada5a3a9277c" title="Sort the output data for each grid node into a linear partitioning across all processors." alt="" coords="403,1823,587,1849"/>
+<area shape="rect" id="node41" href="$class_c_output.html#a0559c98f2b45b8388d7c90f84629d0f5" title="Sort the output data for each grid node into a linear partitioning across all processors (DG&#45;FEM solv..." alt="" coords="385,2005,604,2032"/>
+<area shape="rect" id="node42" href="$class_c_output.html#ad8493bfaa721206912e737370604f889" title="Sort the surface output data for each grid node into a linear partitioning across all processors." alt="" coords="403,1874,587,1915"/>
+<area shape="rect" id="node43" href="$class_c_output.html#a86a295396bf1ec989951150d2402f933" title="Sort the surface output data for each grid node into a linear partitioning across all processors (DG&#45;..." alt="" coords="403,259,587,301"/>
+<area shape="rect" id="node44" href="$class_c_output.html#ab3b7d1dff4c8bd638be2ab7a210106ad" title="Write a template inlet profile file for all inlets for flow problems." alt="" coords="387,951,602,977"/>
+<area shape="rect" id="node45" href="$class_c_output.html#ad040d55f310e39d8699f1de6549e9b0b" title="Create and write a CSV file with a slice of data." alt="" coords="403,1772,586,1799"/>
+<area shape="rect" id="node46" href="$class_c_output.html#aa4363f875c07e5bfad39107a66bf4a81" title="Write a Paraview ASCII solution file with parallel output." alt="" coords="389,493,601,534"/>
+<area shape="rect" id="node47" href="$class_c_output.html#a26b30fea21eda60670136c31b108773a" title="Write a Paraview binary solution file with parallel output." alt="" coords="385,1939,605,1981"/>
+<area shape="rect" id="node48" href="$class_c_output.html#ad40660d7774c0ce5a0ca5ab36b84d1c0" title="Write a native SU2 restart file (ASCII) in parallel." alt="" coords="412,885,577,926"/>
+<area shape="rect" id="node49" href="$class_c_output.html#a6a3f3d7e3b16a1c13af868c1143534f3" title="Write a native SU2 restart file (binary) in parallel." alt="" coords="412,427,577,469"/>
+<area shape="rect" id="node50" href="$class_c_output.html#a0f0d02e9cac97b4b1b6ba66e68444385" title="Write the solution data and connectivity to a Tecplot ASCII mesh file in parallel." alt="" coords="395,558,594,599"/>
+<area shape="rect" id="node20" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="699,1351,832,1377"/>
+<area shape="rect" id="node21" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="692,1583,839,1609"/>
+<area shape="rect" id="node26" href="$class_c_solver.html#a0f257e0506348d9c9e7b7f98d683cf1e" title="A virtual member." alt="" coords="671,1401,859,1428"/>
+<area shape="rect" id="node27" href="$class_c_solver.html#a4e7a9b1a990f63294b7923396cc8924a" title="A virtual member." alt="" coords="684,1452,847,1479"/>
+<area shape="rect" id="node30" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="660,1804,871,1831"/>
+<area shape="rect" id="node31" href="$class_c_base_m_p_i_wrapper.html#a39e59958c13f7fefc74062ba2ff149f1" title=" " alt="" coords="668,1703,863,1729"/>
+<area shape="rect" id="node34" href="$class_c_point.html#ab546170a5a03ef210a75fc5531910050" title="Get the global index in a parallel computation." alt="" coords="679,1753,852,1780"/>
+<area shape="rect" id="node36" href="$class_c_solver.html#a15ce9513fb0af4367e476b7776acc97d" title="A virtual member." alt="" coords="681,1652,849,1679"/>
+</map>

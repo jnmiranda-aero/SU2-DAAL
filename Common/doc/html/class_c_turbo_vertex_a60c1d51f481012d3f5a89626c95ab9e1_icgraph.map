@@ -1,0 +1,9 @@
+<map id="CTurboVertex::GetTurboNormal" name="CTurboVertex::GetTurboNormal">
+<area shape="rect" id="node1" title="Copy the the turbo normal vector of a face." alt="" coords="284,148,507,175"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#aa4c3988e3ce0c18460b5c069650c57b0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="35,5,206,32"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#a0066305803a18511fb89b8951f4e4866" title="Impose the boundary condition using characteristic recostruction." alt="" coords="5,56,236,83"/>
+<area shape="rect" id="node4" href="$class_c_euler_solver.html#ab13b628bfb33a1701ff0807195f953ef" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="29,107,213,149"/>
+<area shape="rect" id="node5" href="$class_c_euler_solver.html#a33402619b740bfe68350c50bba14c6ab" title="It computes Fourier transformation for the needed quantities along the pitch for each span in turboma..." alt="" coords="29,173,213,214"/>
+<area shape="rect" id="node6" href="$class_c_physical_geometry.html#a9b42df38be11e404f3f2f8e729d0af74" title="Set turbo boundary vertex." alt="" coords="42,238,199,279"/>
+<area shape="rect" id="node7" href="$class_c_euler_solver.html#ab408049d3b4fecc224653176c8d7885a" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="20,303,221,345"/>
+</map>

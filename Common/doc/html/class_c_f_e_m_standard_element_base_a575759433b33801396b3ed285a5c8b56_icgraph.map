@@ -1,0 +1,9 @@
+<map id="CFEMStandardElementBase::Vandermonde2D_Triangle" name="CFEMStandardElementBase::Vandermonde2D_Triangle">
+<area shape="rect" id="node1" title="Function, which computes the Vandermonde matrix for a standard triangle." alt="" coords="851,86,1053,127"/>
+<area shape="rect" id="node2" href="$class_c_f_e_m_standard_element.html#a0ce8e7aff7657aa636844f04bae3eac4" title="Function, which computes the Lagrangian basis functions and its derivatives for the given parametric ..." alt="" coords="576,5,803,61"/>
+<area shape="rect" id="node3" href="$class_c_f_e_m_standard_element.html#a7e662dc2ab1b4dc7a5b56cd70929af9d" title="Function, which computes the Lagrangian basis functions for the given parametric coordinates." alt="" coords="603,86,775,127"/>
+<area shape="rect" id="node4" href="$class_c_f_e_m_standard_element_base.html#a993b94d96ead4d2edb50d4c529104ee6" title="Function, which determines the values of the Lagrangian interpolation functions and its derivatives i..." alt="" coords="581,152,798,208"/>
+<area shape="rect" id="node5" href="$class_c_f_e_m_standard_boundary_face.html#a5a92fa174c37322a3ebd640d12ab8b3b" title="Alternative constructor." alt="" coords="5,111,221,153"/>
+<area shape="rect" id="node6" href="$class_c_f_e_m_standard_internal_face.html#a03fc34bc2e61074ab778a30b940fb634" title="Alternative constructor." alt="" coords="11,193,215,234"/>
+<area shape="rect" id="node7" href="$class_c_f_e_m_standard_element_base.html#afb1cec3d091753fa80105767654594e4" title="Function, which computes the values of the derivatives of the basis functions of the adjacent element..." alt="" coords="269,152,528,208"/>
+</map>

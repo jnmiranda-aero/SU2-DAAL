@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_c_integration.html" title="Main class for doing the space integration, time integration, and monitoring of a system of Partial D..." alt="" coords="5,81,108,108"/>
+<area shape="rect" id="node2" href="$class_c_f_e_m___d_g___integration.html" title="Class for integration with the FEM DG solver." alt="" coords="159,5,323,32"/>
+<area shape="rect" id="node3" href="$class_c_multi_grid_integration.html" title="Class for doing the numerical integration using a multigrid method." alt="" coords="159,56,322,83"/>
+<area shape="rect" id="node4" href="$class_c_single_grid_integration.html" title="Class for doing the numerical integration of the turbulence model." alt="" coords="156,107,325,133"/>
+<area shape="rect" id="node5" href="$class_c_structural_integration.html" title="Class for doing the numerical integration of the structural model." alt="" coords="158,157,323,184"/>
+</map>

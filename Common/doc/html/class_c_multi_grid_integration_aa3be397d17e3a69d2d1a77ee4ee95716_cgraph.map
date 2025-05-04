@@ -1,0 +1,6 @@
+<map id="CMultiGridIntegration::SetResidual_Term" name="CMultiGridIntegration::SetResidual_Term">
+<area shape="rect" id="node1" title="Add the truncation error to the residual." alt="" coords="5,49,168,90"/>
+<area shape="rect" id="node2" href="$class_c_sys_vector.html#a7ef472e160b4bfee4fac427e5c08022b" title="Add val_residual to the residual." alt="" coords="243,5,407,32"/>
+<area shape="rect" id="node3" href="$class_c_geometry.html#a4fc7de3bff7b6f8c35717016d6f8fcb2" title="Get number of real points (that belong to the domain)." alt="" coords="216,56,435,83"/>
+<area shape="rect" id="node4" href="$class_c_variable.html#a6242c8f9f2863d279a629020cb512a93" title="Get the truncation error." alt="" coords="223,107,427,133"/>
+</map>

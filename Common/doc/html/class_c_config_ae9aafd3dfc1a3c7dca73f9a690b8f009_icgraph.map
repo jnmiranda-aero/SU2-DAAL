@@ -1,0 +1,7 @@
+<map id="CConfig::GetMG_CorrecSmooth" name="CConfig::GetMG_CorrecSmooth">
+<area shape="rect" id="node1" title="Get the number of implicit Jacobi smoothings of the correction in a multigrid strategy." alt="" coords="328,97,552,123"/>
+<area shape="rect" id="node2" href="$class_c_adj_euler_variable.html#adbc74d0a8b0d5f8ffa091aa7601727ce" title=" " alt="" coords="69,5,216,47"/>
+<area shape="rect" id="node3" href="$class_c_euler_variable.html#aaac45747848c770e0d377c5ee4418bb1" title=" " alt="" coords="33,71,253,98"/>
+<area shape="rect" id="node4" href="$class_c_heat_f_v_m_variable.html#aadaa7a8c9c5c8adc9d4c85730dd5708a" title=" " alt="" coords="5,122,280,149"/>
+<area shape="rect" id="node5" href="$class_c_inc_euler_variable.html#adf349807c29167c7884e2719b498ef61" title=" " alt="" coords="71,173,215,215"/>
+</map>

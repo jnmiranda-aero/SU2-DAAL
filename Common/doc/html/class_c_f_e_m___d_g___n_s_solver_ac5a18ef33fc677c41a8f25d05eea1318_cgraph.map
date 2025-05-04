@@ -1,0 +1,12 @@
+<map id="CFEM_DG_NSSolver::CFEM_DG_NSSolver" name="CFEM_DG_NSSolver::CFEM_DG_NSSolver">
+<area shape="rect" id="node1" title=" " alt="" coords="5,203,203,245"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="274,5,455,32"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a5eb88779f285d4d51e4fea690d060d27" title="Get the kind of the subgrid scale model." alt="" coords="282,57,447,98"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="275,123,455,149"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a62a92b26c1300323f4a4a035ec19af1a" title="Get the total number of monitoring markers." alt="" coords="287,174,443,215"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a619cb1400d6c944e83ad0ffe82deb021" title="Get the value of the laminar Prandtl number." alt="" coords="273,240,457,267"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a2fca6d5964fb443f9d517df57659ccbc" title="Get the value of the turbulent Prandtl number." alt="" coords="273,291,456,317"/>
+<area shape="rect" id="node9" href="$class_c_config.html#af782fd344d8cbaac0d99eee409266c35" title="Get the value of the non&#45;dimensionalized freestream viscosity." alt="" coords="251,341,479,368"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a2ede918fd25217170b85049ddf07408b" title="Get the value of the non&#45;dimensionalized freestream viscosity." alt="" coords="283,393,446,434"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="527,5,712,32"/>
+</map>

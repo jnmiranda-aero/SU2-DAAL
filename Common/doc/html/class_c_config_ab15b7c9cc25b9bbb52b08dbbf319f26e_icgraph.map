@@ -1,0 +1,4 @@
+<map id="CConfig::GetHeat_Flux_Ref" name="CConfig::GetHeat_Flux_Ref">
+<area shape="rect" id="node1" title="Get the reference value for the heat flux." alt="" coords="289,5,488,32"/>
+<area shape="rect" id="node2" href="$class_c_inc_n_s_solver.html#af64e336b5dd2ffd669bbb8924c896b3e" title="Impose a no&#45;slip condition." alt="" coords="5,5,241,32"/>
+</map>

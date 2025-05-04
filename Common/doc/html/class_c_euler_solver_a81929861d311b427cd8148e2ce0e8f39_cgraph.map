@@ -1,0 +1,32 @@
+<map id="CEulerSolver::SetInitialCondition" name="CEulerSolver::SetInitialCondition">
+<area shape="rect" id="node1" title="Set the initial condition for the Euler Equations." alt="" coords="5,702,176,743"/>
+<area shape="rect" id="node2" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="282,5,415,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a8cc3d7d06d995bf315cbed96412a9b7e" title="Get the value of the reference density for non&#45;dimensionalization." alt="" coords="257,56,440,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#acc01ed919b224cf1c8419848ba157332" title="Get the value of specific gas constant." alt="" coords="252,107,445,133"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="259,157,439,184"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a07e07baa3b8259bfa545fd1de2fac74a" title="Get the value of the Reynolds length." alt="" coords="275,209,422,250"/>
+<area shape="rect" id="node7" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="268,275,429,301"/>
+<area shape="rect" id="node8" href="$class_c_config.html#aea7f78497a5cd863bd065391232329fd" title="Get the number of multigrid levels." alt="" coords="261,325,436,352"/>
+<area shape="rect" id="node9" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="265,376,432,403"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a39147c417b27ad7df00efea4ea1fcecc" title="Get the value of the reference pressure for non&#45;dimensionalization." alt="" coords="255,427,443,453"/>
+<area shape="rect" id="node11" href="$class_c_config.html#ae2c8a1c09ca98735256b4ed53642ada5" title="Provides the restart information." alt="" coords="273,477,424,504"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a1d6062b05bfbe6e40564b6a92ec69bb7" title="For some problems like adjoint or the linearized equations it is necessary to restart the flow soluti..." alt="" coords="255,528,443,555"/>
+<area shape="rect" id="node13" href="$class_c_config.html#a43d642b59f0e1dae7abd613f337f5cf4" title="Get the Reynolds number. Dimensionless number that gives a measure of the ratio of inertial forces to..." alt="" coords="267,579,430,605"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a87725df882faebf7d9429a1aff97f2c3" title="Divide the rectbles and hexahedron." alt="" coords="246,629,451,656"/>
+<area shape="rect" id="node15" href="$class_c_config.html#acfea984621db3d9cc5ef64595df6e4f6" title="Get the the coordinates where of the box where a subsonic region is imposed." alt="" coords="232,680,465,707"/>
+<area shape="rect" id="node16" href="$class_c_config.html#a564ef0e7ea91bf1990edfd9bd283c47c" title="Get the the coordinates where of the box where a subsonic region is imposed." alt="" coords="246,731,451,773"/>
+<area shape="rect" id="node17" href="$class_c_config.html#afbc5c2467fd51eafa6e05e5bda7d3d3e" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="224,797,473,824"/>
+<area shape="rect" id="node18" href="$class_c_config.html#ab08d8d856799dc4aa857f0cbcac0fa65" title="Get the restart iteration number for unsteady simulations." alt="" coords="244,848,453,875"/>
+<area shape="rect" id="node19" href="$class_c_config.html#a45e95664235928d911e7c3876fe078b3" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="266,899,431,941"/>
+<area shape="rect" id="node20" href="$class_c_config.html#a8f2c6f68c1e3756237596a7274e713f4" title="Get the value of the reference velocity for non&#45;dimensionalization." alt="" coords="257,965,441,992"/>
+<area shape="rect" id="node21" href="$class_c_config.html#a2e9af0bd3e1f5ed865e81b627e94a662" title="Determines if problem is viscous." alt="" coords="272,1016,425,1043"/>
+<area shape="rect" id="node22" href="$namespace_s_u2___t_y_p_e.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="293,1067,405,1093"/>
+<area shape="rect" id="node24" href="$class_c_solver.html#a61c87a4ff51926361e18797c49204e72" title="A virtual member." alt="" coords="269,1117,428,1144"/>
+<area shape="rect" id="node25" href="$class_c_solver.html#ac25a16cb69ee66bca6048336dedbb4cd" title="Set number of linear solver iterations." alt="" coords="253,1168,445,1195"/>
+<area shape="rect" id="node26" href="$class_c_solver.html#ac1d737cd758a27bc40fa3b2f82d72a0c" title="Set number of linear solver iterations." alt="" coords="238,1219,459,1245"/>
+<area shape="rect" id="node27" href="$class_c_variable.html#adb0e7d70824484ab154fcde001975812" title="Set the variable solution at time n." alt="" coords="262,1270,435,1311"/>
+<area shape="rect" id="node28" href="$class_c_variable.html#ac1969f805986f50c5375c8e57908ecd0" title="Set the variable solution at time n&#45;1." alt="" coords="262,1335,435,1377"/>
+<area shape="rect" id="node29" href="$class_c_variable.html#a30d4ca1a8a08f748c4a2229a8cce9786" title="Set the value of the solution." alt="" coords="265,1401,432,1428"/>
+<area shape="rect" id="node30" href="$class_c_variable.html#ac16f264b34b639ad8aeace755a98f0c8" title="Set the value of the old solution." alt="" coords="251,1452,446,1479"/>
+<area shape="rect" id="node23" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="521,1067,676,1093"/>
+</map>

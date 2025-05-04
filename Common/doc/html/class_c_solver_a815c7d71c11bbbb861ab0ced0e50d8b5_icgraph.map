@@ -1,0 +1,6 @@
+<map id="CSolver::Set_MPI_AuxVar_Gradient" name="CSolver::Set_MPI_AuxVar_Gradient">
+<area shape="rect" id="node1" title="Impose the send&#45;receive boundary condition." alt="" coords="424,39,609,80"/>
+<area shape="rect" id="node2" href="$class_c_solver.html#a4831cdf2f3fdb7f6d3d84dca312e75eb" title="Compute the Green&#45;Gauss gradient of the auxiliary variable." alt="" coords="229,5,376,47"/>
+<area shape="rect" id="node4" href="$class_c_solver.html#ad1e68e5025fe328093b12e61f4bffe60" title="Compute the Least Squares gradient of the auxiliary variable." alt="" coords="229,71,376,112"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#aaa52f2305bb8f93d51fd0910c1ddeec9" title="Source term integration." alt="" coords="5,39,181,80"/>
+</map>

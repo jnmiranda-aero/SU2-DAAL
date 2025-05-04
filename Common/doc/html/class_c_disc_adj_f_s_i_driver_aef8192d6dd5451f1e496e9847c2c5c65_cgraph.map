@@ -1,0 +1,52 @@
+<map id="CDiscAdjFSIDriver::Structural_Iteration_Direct" name="CDiscAdjFSIDriver::Structural_Iteration_Direct">
+<area shape="rect" id="node1" title="Run a direct structural iteration." alt="" coords="5,383,152,439"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="483,5,663,32"/>
+<area shape="rect" id="node3" href="$class_c_iteration.html#aa00c9129b78bcdca3e60e49533c16c2b" title="A virtual member." alt="" coords="239,347,376,373"/>
+<area shape="rect" id="node4" href="$class_c_solver.html#a4417611bfa1a44467e40f47025e2a573" title="A virtual member." alt="" coords="218,397,397,424"/>
+<area shape="rect" id="node5" href="$class_c_solver.html#a5c530a5946aeeceb039c841115dd4b9b" title="A virtual member." alt="" coords="222,448,393,475"/>
+<area shape="rect" id="node6" href="$class_c_solver.html#ac25a16cb69ee66bca6048336dedbb4cd" title="Set number of linear solver iterations." alt="" coords="211,499,403,525"/>
+<area shape="rect" id="node7" href="$class_c_f_s_i_driver.html#a5ce28efe33c81cf89f7599b0c8c7d009" title="Transfer the tractions computed on the fluid solver into the structural solver." alt="" coords="232,769,383,810"/>
+<area shape="rect" id="node40" href="$class_c_geometry.html#a19a4ef04ee51e37dc80cebf429e71a55" title="Update the multi&#45;grid structure and the wall&#45;distance." alt="" coords="200,296,415,323"/>
+<area shape="rect" id="node8" href="$class_c_transfer.html#aa97f764fd647d476fac320144d060b2c" title="Interpolate data, operate over it and broadcast it into all processors, for nonmatching meshes." alt="" coords="497,973,648,1014"/>
+<area shape="rect" id="node12" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="749,557,931,584"/>
+<area shape="rect" id="node29" href="$class_c_transfer.html#a98fafc6079aef83811b61b62535e07d3" title="Interpolate data and broadcast it into all processors, for nonmatching meshes." alt="" coords="475,1061,671,1102"/>
+<area shape="rect" id="node33" href="$class_c_transfer.html#aa541ba18a85a70024651791b493d5771" title="Interpolate data and broadcast it into all processors, for matching meshes." alt="" coords="480,893,665,934"/>
+<area shape="rect" id="node35" href="$class_c_config.html#aa48f2fc504ec2b261d5046f9a17677dd" title="Get the current external iteration number." alt="" coords="499,624,646,651"/>
+<area shape="rect" id="node36" href="$class_c_config.html#aa43de1ebc56409c0d962c93cc8dc308e" title="Identifies if the mesh is matching or not (temporary, while implementing interpolation procedures)." alt="" coords="473,675,672,701"/>
+<area shape="rect" id="node37" href="$class_c_transfer.html#aedd36c10536d2c2fbaf190719758e3cb" title="Interpolate data and scatter it into different processors, for matching meshes." alt="" coords="504,827,641,869"/>
+<area shape="rect" id="node39" href="$class_c_config.html#a0ef279c31675afba711ab7a31a9eb297" title="Set the global parameters of each simulation for each runtime system." alt="" coords="481,725,665,752"/>
+<area shape="rect" id="node9" href="$class_c_base_m_p_i_wrapper.html#a55195abbb7206e08a4933fa53cd41923" title=" " alt="" coords="735,1293,945,1320"/>
+<area shape="rect" id="node10" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="735,740,945,767"/>
+<area shape="rect" id="node11" href="$class_c_base_m_p_i_wrapper.html#ae816a2f124ea5ae95337418462514df5" title=" " alt="" coords="747,791,933,817"/>
+<area shape="rect" id="node14" href="$class_c_base_m_p_i_wrapper.html#a39e59958c13f7fefc74062ba2ff149f1" title=" " alt="" coords="743,841,937,868"/>
+<area shape="rect" id="node15" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="767,892,913,919"/>
+<area shape="rect" id="node16" href="$class_c_transfer.html#ab2465a41035d055a4025db61c362b3ba" title="A virtual member." alt="" coords="763,943,917,985"/>
+<area shape="rect" id="node17" href="$class_c_vertex.html#ad34df54a614287bcd78cc2a13e6ff410" title="Get the coefficient value of a donor point." alt="" coords="751,1496,929,1523"/>
+<area shape="rect" id="node18" href="$class_c_config.html#a9776c63953c047138e0f81d5b51cd895" title="Check if the simulation we are running is a FSI simulation." alt="" coords="741,1009,939,1036"/>
+<area shape="rect" id="node19" href="$class_c_point.html#ab546170a5a03ef210a75fc5531910050" title="Get the global index in a parallel computation." alt="" coords="753,1344,927,1371"/>
+<area shape="rect" id="node20" href="$class_c_vertex.html#abba7777cdf00b9c7e8f30abff5047a7d" title="Get the value of the donor point of a vertex (for interpolation)." alt="" coords="733,1395,947,1421"/>
+<area shape="rect" id="node21" href="$class_c_config.html#ad7e1b2f0ee9749cc62c5394ae761ae0e" title="Get the FSI interface information for a marker val_marker." alt="" coords="766,1061,914,1102"/>
+<area shape="rect" id="node22" href="$class_c_config.html#a87063c04f8713d8fc46dfcedb6adef34" title="Get the number of FSI interface markers val_marker." alt="" coords="766,1126,914,1167"/>
+<area shape="rect" id="node23" href="$class_c_vertex.html#a58814b9ff753b7f56e073c07ed0eb9d7" title="Return the value of nDonor_Points." alt="" coords="745,1445,935,1472"/>
+<area shape="rect" id="node24" href="$class_c_geometry.html#a3c899d1370312702c189a8ee95a63ef7" title="Get number of markers." alt="" coords="751,456,929,483"/>
+<area shape="rect" id="node25" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="771,1192,909,1219"/>
+<area shape="rect" id="node26" href="$class_c_geometry.html#a55427e474834af1941e13750b17975be" title="Get number of vertices." alt="" coords="752,1243,928,1269"/>
+<area shape="rect" id="node27" href="$class_c_transfer.html#ad85f15ce0a2cafdf44295b119abaf9c8" title="A virtual member." alt="" coords="756,609,924,650"/>
+<area shape="rect" id="node28" href="$class_c_transfer.html#ac227bd273b7c2e61c42940be2d5e3e4f" title="A virtual member." alt="" coords="764,674,916,715"/>
+<area shape="rect" id="node13" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="997,557,1183,584"/>
+<area shape="rect" id="node30" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="750,1547,930,1573"/>
+<area shape="rect" id="node31" href="$class_c_solver.html#afbe60618c6dd18f205f1626c39c11750" title="Set the number of outer states for fluid interface nodes." alt="" coords="743,1597,937,1624"/>
+<area shape="rect" id="node32" href="$class_c_solver.html#a1b2747c505fc2c5bc19acf67942b5323" title="Allocates the final pointer of SlidingState depending on how many donor vertex donate to it...." alt="" coords="751,1649,929,1690"/>
+<area shape="rect" id="node34" href="$class_c_vertex.html#a4f2b951d732f6e25044769dbc45c47ba" title="Get the value of the periodic point of a vertex." alt="" coords="731,507,949,533"/>
+<area shape="rect" id="node38" href="$class_c_vertex.html#ad46924bc53ad8c2a4b1af0c810c64198" title="Get the value of the periodic point of a vertex." alt="" coords="752,405,928,432"/>
+<area shape="rect" id="node41" href="$class_c_geometry.html#a93454bd7724a75f30983a505f97dd8be" title="A virtual member." alt="" coords="477,558,668,599"/>
+<area shape="rect" id="node42" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="469,56,676,83"/>
+<area shape="rect" id="node43" href="$class_c_config.html#aea7f78497a5cd863bd065391232329fd" title="Get the number of multigrid levels." alt="" coords="485,107,660,133"/>
+<area shape="rect" id="node44" href="$class_c_geometry.html#a6980fdfe2019db561964b78e28101004" title="A virtual member." alt="" coords="495,158,650,199"/>
+<area shape="rect" id="node45" href="$class_c_geometry.html#a596ee6d89be12222772f8c0534076eaa" title="A virtual member." alt="" coords="495,223,650,265"/>
+<area shape="rect" id="node46" href="$class_c_geometry.html#adf22bc637db1c4d9dd150c6185ab1566" title="A virtual member." alt="" coords="467,289,679,330"/>
+<area shape="rect" id="node47" href="$class_c_geometry.html#a2801527cce396e9b4f8d91a57fe82712" title="A virtual member." alt="" coords="463,355,683,381"/>
+<area shape="rect" id="node48" href="$class_c_geometry.html#a5956a22f6942c7cd1b2a53dcaa201972" title="A virtual member." alt="" coords="491,405,654,432"/>
+<area shape="rect" id="node49" href="$class_c_geometry.html#a83962c234a9cafc63a3d4a8f2ac48875" title="A virtual member." alt="" coords="479,456,667,483"/>
+<area shape="rect" id="node50" href="$class_c_geometry.html#a6eee72ed5a355f210937e6ea2b10b961" title="A virtual member." alt="" coords="475,507,671,533"/>
+</map>

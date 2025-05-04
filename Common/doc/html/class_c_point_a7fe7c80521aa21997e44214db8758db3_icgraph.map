@@ -1,0 +1,6 @@
+<map id="CPoint::GetAgglomerate" name="CPoint::GetAgglomerate">
+<area shape="rect" id="node1" title="Get information about if a control volume has been agglomerated." alt="" coords="453,33,632,60"/>
+<area shape="rect" id="node2" href="$class_c_multi_grid_geometry.html#a15c29a11f85cce8f38d2403fc8fc2826" title="Constructor of the class." alt="" coords="5,26,169,67"/>
+<area shape="rect" id="node3" href="$class_c_multi_grid_geometry.html#a7f01a0e615971be927da2ccad9cb9e10" title="Determine if a CVPoint van be agglomerated, if it have the same marker point as the seed." alt="" coords="217,26,405,67"/>
+<area shape="rect" id="node4" href="$class_c_multi_grid_queue.html#acd3761592466374bde6ad7bc3576bfb5" title="Update the queue with the new control volume (remove the CV and increase the priority of the neighbor..." alt="" coords="217,92,405,118"/>
+</map>

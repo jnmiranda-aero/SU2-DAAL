@@ -1,0 +1,5 @@
+<map id="CConfig::GetMUSCL_AdjFlow" name="CConfig::GetMUSCL_AdjFlow">
+<area shape="rect" id="node1" title="Get if the upwind scheme used MUSCL or not." alt="" coords="279,35,487,61"/>
+<area shape="rect" id="node2" href="$class_c_adj_euler_solver.html#a4ae0ed840dc8335fd921399625ba794f" title="Initialize the residual vectors." alt="" coords="5,5,231,32"/>
+<area shape="rect" id="node3" href="$class_c_adj_euler_solver.html#adb4102935a0144846d17a35a62769c09" title="Compute the spatial integration using a upwind scheme." alt="" coords="27,57,209,98"/>
+</map>

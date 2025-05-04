@@ -1,0 +1,6 @@
+<map id="CUpwScalar::CUpwScalar" name="CUpwScalar::CUpwScalar">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,56,192,83"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="240,5,447,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a66ca7e620390a81cd49cd0a00716128e" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="249,56,438,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a82efe7e60c3b0613fa496899340931a4" title="Get the kind of integration scheme (implicit) for the turbulence equations." alt="" coords="249,107,438,149"/>
+</map>

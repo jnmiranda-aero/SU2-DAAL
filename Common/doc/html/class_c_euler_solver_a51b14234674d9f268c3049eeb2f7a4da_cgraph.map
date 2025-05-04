@@ -1,0 +1,19 @@
+<map id="CEulerSolver::Set_MPI_Interface" name="CEulerSolver::Set_MPI_Interface">
+<area shape="rect" id="node1" title="Parallelization of Undivided Laplacian." alt="" coords="5,361,171,402"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a07f24df31c87ac960540ce8ac2b407d2" title=" " alt="" coords="233,5,428,32"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#ae1799e80fcdb8d1e8839e99ef7b397c3" title=" " alt="" coords="235,56,426,83"/>
+<area shape="rect" id="node4" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="257,107,404,133"/>
+<area shape="rect" id="node5" href="$class_c_vertex.html#ad8b1c0f6c36a72692bc49fe1cd91f783" title="Get the value of the periodic point of a vertex." alt="" coords="237,157,425,184"/>
+<area shape="rect" id="node6" href="$class_c_vertex.html#a1c860d25d051c6ea687b2d902db73d23" title="Get the value of the periodic point of a vertex." alt="" coords="227,208,434,235"/>
+<area shape="rect" id="node7" href="$class_c_vertex.html#a6e6ff4870d0ae0c6e3dd67490351160d" title="Get the value of the periodic point of a vertex." alt="" coords="238,259,423,285"/>
+<area shape="rect" id="node8" href="$class_c_point.html#ab546170a5a03ef210a75fc5531910050" title="Get the global index in a parallel computation." alt="" coords="244,309,417,336"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="257,361,405,402"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="241,427,421,453"/>
+<area shape="rect" id="node11" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="261,477,400,504"/>
+<area shape="rect" id="node12" href="$class_c_variable.html#a5fc23761cf67841ab946fc6e8b4f019d" title="A virtual member." alt="" coords="243,528,418,555"/>
+<area shape="rect" id="node13" href="$namespace_s_u2___t_y_p_e.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="275,579,387,605"/>
+<area shape="rect" id="node15" href="$class_c_base_m_p_i_wrapper.html#a2a0cf206352327fc745b3848b8c6d130" title=" " alt="" coords="239,629,422,656"/>
+<area shape="rect" id="node16" href="$class_c_euler_solver.html#ad45a18e30a56b0ec019b43770be08d1e" title="Value of the characteristic global index at the boundaries." alt="" coords="223,681,438,722"/>
+<area shape="rect" id="node17" href="$class_c_euler_solver.html#aabc77a8dfb4330dbb2f53fd6e8269f9f" title="Value of the characteristic variables at the boundaries." alt="" coords="219,747,443,773"/>
+<area shape="rect" id="node14" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="491,579,645,605"/>
+</map>

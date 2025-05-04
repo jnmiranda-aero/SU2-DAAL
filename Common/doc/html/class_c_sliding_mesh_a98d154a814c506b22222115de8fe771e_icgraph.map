@@ -1,0 +1,7 @@
+<map id="CSlidingMesh::ComputeLineIntersectionPoint" name="CSlidingMesh::ComputeLineIntersectionPoint">
+<area shape="rect" id="node1" title="For 2&#45;Dimensional grids, check whether, and compute, two lines are intersecting." alt="" coords="1064,5,1268,47"/>
+<area shape="rect" id="node2" href="$class_c_sliding_mesh.html#a21d1b13747a6ed480a67f75442276f01" title="For 3&#45;Dimensional grids, compute intersection area between two triangle projected on a given plane P1..." alt="" coords="732,13,1016,39"/>
+<area shape="rect" id="node3" href="$class_c_sliding_mesh.html#ac3bdfa5cf559f126317074bf6ed13f81" title="For 3&#45;Dimensional grids, compute intersection area between two triangle projected on a given plane." alt="" coords="507,5,684,47"/>
+<area shape="rect" id="node4" href="$class_c_sliding_mesh.html#a60567ffca2c40068f62f96027f483e96" title="Set up transfer matrix defining relation between two meshes." alt="" coords="260,5,459,47"/>
+<area shape="rect" id="node5" href="$class_c_sliding_mesh.html#a2962815228c3df57c5ee3a70c62189bc" title="Constructor of the class." alt="" coords="5,13,212,39"/>
+</map>

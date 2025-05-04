@@ -1,0 +1,23 @@
+<map id="CTurbSASolver::BC_ActDisk_Inlet" name="CTurbSASolver::BC_ActDisk_Inlet">
+<area shape="rect" id="node1" title="Impose an actuator disk inlet boundary condition." alt="" coords="5,429,205,470"/>
+<area shape="rect" id="node2" href="$class_c_turb_s_a_solver.html#a815ccf4fcbbbd8473c57b95a92be40bf" title="Impose an actuator disk inlet boundary condition." alt="" coords="253,436,453,463"/>
+<area shape="rect" id="node3" href="$class_c_sys_matrix.html#a8c2c7f8ca02d0e8685373e38ca29d9d0" title="Adds the specified block to the sparse matrix." alt="" coords="529,5,694,32"/>
+<area shape="rect" id="node5" href="$class_c_sys_vector.html#a7ef472e160b4bfee4fac427e5c08022b" title="Add val_residual to the residual." alt="" coords="529,56,693,83"/>
+<area shape="rect" id="node6" href="$class_c_numerics.html#abe734316e0047f463f059fd77a281958" title="Compute the numerical residual." alt="" coords="503,107,719,133"/>
+<area shape="rect" id="node7" href="$class_c_solver.html#ad25c13b6587f8a1a71f84a37fdb5b213" title="A virtual member." alt="" coords="512,157,711,184"/>
+<area shape="rect" id="node8" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="538,208,685,235"/>
+<area shape="rect" id="node9" href="$class_c_solver.html#a8fe26878b051aabbf59ea1905d772e57" title="A virtual member." alt="" coords="501,259,721,285"/>
+<area shape="rect" id="node10" href="$class_c_solver.html#a69ab04d219179e11b119c3bb58c8da7c" title="A virtual member." alt="" coords="515,309,708,336"/>
+<area shape="rect" id="node11" href="$class_c_point.html#ab546170a5a03ef210a75fc5531910050" title="Get the global index in a parallel computation." alt="" coords="525,360,698,387"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="508,411,715,437"/>
+<area shape="rect" id="node13" href="$class_c_point.html#a62ec636f4a05ac578b582a053e8553f9" title="Get the value of the grid velocity at the point." alt="" coords="540,461,683,488"/>
+<area shape="rect" id="node14" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="542,512,681,539"/>
+<area shape="rect" id="node15" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="535,563,687,589"/>
+<area shape="rect" id="node16" href="$class_c_variable.html#a5fc23761cf67841ab946fc6e8b4f019d" title="A virtual member." alt="" coords="524,613,699,640"/>
+<area shape="rect" id="node17" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="527,664,695,691"/>
+<area shape="rect" id="node18" href="$class_c_numerics.html#ae15b9e4ad2008444365109c434e24207" title="Set the velocity of the computational grid." alt="" coords="527,715,696,741"/>
+<area shape="rect" id="node19" href="$class_c_numerics.html#a41903d97957f351cd9ee63ca404985b1" title="Set the value of the normal vector to the face between two points." alt="" coords="526,765,697,792"/>
+<area shape="rect" id="node20" href="$class_c_numerics.html#af72b17d397adf09beed2e99e2daf895c" title="Set the value of the primitive variables." alt="" coords="521,816,702,843"/>
+<area shape="rect" id="node21" href="$class_c_numerics.html#a694708b330c1e25e59f3b3ee8be64fbb" title="Set the value of the turbulent variable." alt="" coords="526,867,697,893"/>
+<area shape="rect" id="node4" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="769,5,924,32"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="CDiscAdjFluidIteration::Iterate" name="CDiscAdjFluidIteration::Iterate">
+<area shape="rect" id="node1" title="Perform a single iteration of the adjoint fluid system." alt="" coords="5,613,172,654"/>
+<area shape="rect" id="node2" href="$class_c_integration.html#a4569919ecc8b0f611f67bccf302f8ae3" title="Do the convergence analysis to determine if the code must stop the execution." alt="" coords="220,369,415,410"/>
+<area shape="rect" id="node9" href="$class_c_config.html#aa48f2fc504ec2b261d5046f9a17677dd" title="Get the current external iteration number." alt="" coords="501,5,647,32"/>
+<area shape="rect" id="node11" href="$class_c_config.html#aba49639521df0dbdd1fbe461a9484e6d" title="Get the current internal iteration number." alt="" coords="503,645,645,672"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a45e95664235928d911e7c3876fe078b3" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="491,697,657,738"/>
+<area shape="rect" id="node19" href="$class_c_solver.html#a0b7f25a4fd331448b0d5e45687d30744" title="A virtual member." alt="" coords="231,642,403,683"/>
+<area shape="rect" id="node20" href="$class_c_solver.html#a679c7c6937c728fb502fa1d725947379" title="A virtual member." alt="" coords="231,707,403,749"/>
+<area shape="rect" id="node21" href="$class_c_config.html#adb146862f57545364350419287581bbc" title="Provides information about the way in which the turbulence will be treated by the disc...." alt="" coords="244,773,391,814"/>
+<area shape="rect" id="node22" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="227,839,407,865"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#ae816a2f124ea5ae95337418462514df5" title=" " alt="" coords="481,544,667,571"/>
+<area shape="rect" id="node4" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="483,595,665,621"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a4908b9dec9852f045e10ded7a824ac49" title="Get the number of iterations that are considered in the Cauchy convergence criteria." alt="" coords="499,57,649,98"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a2e7e59dcbe7f5ff2b74e5ab7fd6ce54c" title="Get the value of convergence criteria for the Cauchy method in the direct, adjoint or linearized prob..." alt="" coords="483,123,665,149"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a6d3b29355b6dc9e858e039b135109109" title="Obtain the kind of convergence criteria to establish the convergence of the CFD code." alt="" coords="482,173,666,200"/>
+<area shape="rect" id="node10" href="$class_c_config.html#af34d9f3a4cd6ac06a8f2862efad97a27" title="Get the index of the finest grid." alt="" coords="485,224,663,251"/>
+<area shape="rect" id="node12" href="$class_c_config.html#ab23d743802941d7fbe4186f6b6638303" title="Value of the order of magnitude reduction of the residual." alt="" coords="463,275,685,301"/>
+<area shape="rect" id="node13" href="$class_c_config.html#a31f05501521eae78c33bf19374b5e0de" title="Get the number of iterations that are not considered in the convergence criteria." alt="" coords="476,325,672,352"/>
+<area shape="rect" id="node15" href="$class_c_config.html#a15f8a3cf1d3f71851b21d9e0146fa9e2" title="Get the frequency for writing the convergence file." alt="" coords="477,376,671,403"/>
+<area shape="rect" id="node16" href="$class_c_config.html#a4ae291830499182610cfaf597610087e" title="Get the frequency for writing the convergence file in Dual Time." alt="" coords="495,427,653,469"/>
+<area shape="rect" id="node17" href="$class_c_base_m_p_i_wrapper.html#a860dfcee07be04be175e06d342e0fc68" title=" " alt="" coords="475,493,673,520"/>
+<area shape="rect" id="node5" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="748,595,933,621"/>
+<area shape="rect" id="node18" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="733,493,948,520"/>
+</map>

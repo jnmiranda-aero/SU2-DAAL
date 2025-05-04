@@ -1,0 +1,23 @@
+<map id="CGridAdaptation::SetIndicator_Adj" name="CGridAdaptation::SetIndicator_Adj">
+<area shape="rect" id="node1" title="Do a complete adaptation of the computational grid." alt="" coords="5,431,248,458"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a2797c1033dce3a5a205e31c503694456" title="Get the power of the dual volume in the grid adaptation sensor." alt="" coords="337,5,490,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="339,71,487,112"/>
+<area shape="rect" id="node4" href="$class_c_geometry.html#a7d6e1e1d1e46da8f55ecbe1a9380530a" title="Get number of edges." alt="" coords="330,137,497,163"/>
+<area shape="rect" id="node5" href="$class_c_geometry.html#a4ae48ec038df1f5ee7c1daadabea5e99" title="Get number of elements." alt="" coords="593,187,759,214"/>
+<area shape="rect" id="node6" href="$class_c_config.html#aefa3bcdd90a121f4542a4e88b32c51db" title="Get the number of new elements added in the adaptation process." alt="" coords="327,340,499,381"/>
+<area shape="rect" id="node7" href="$class_c_geometry.html#a3c899d1370312702c189a8ee95a63ef7" title="Get number of markers." alt="" coords="324,406,503,433"/>
+<area shape="rect" id="node8" href="$class_c_edge.html#aee33b61d646e3fe59a4e23284ab1bf33" title="Get the nodes of the edge." alt="" coords="349,457,477,483"/>
+<area shape="rect" id="node9" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="344,507,483,534"/>
+<area shape="rect" id="node10" href="$class_c_edge.html#ada210a6f0643f444e7e491fc4ed9e662" title="Copy the the normal vector of a face." alt="" coords="342,558,485,585"/>
+<area shape="rect" id="node11" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="337,609,489,635"/>
+<area shape="rect" id="node12" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="330,659,497,686"/>
+<area shape="rect" id="node13" href="$class_c_geometry.html#a55427e474834af1941e13750b17975be" title="Get number of vertices." alt="" coords="325,710,501,737"/>
+<area shape="rect" id="node14" href="$class_c_point.html#a3c526a15e767c7de9cf163800aa581e5" title="Get area or volume of the control volume." alt="" coords="341,761,485,787"/>
+<area shape="rect" id="node15" href="$namespace_s_u2___t_y_p_e.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="357,811,469,838"/>
+<area shape="rect" id="node17" href="$class_c_primal_grid.html#af6977fd1339b8f9cc82448c464a389e1" title="Set that an element must be divided in the adaptation stage." alt="" coords="591,238,761,265"/>
+<area shape="rect" id="node18" href="$class_c_grid_adaptation.html#abe648dc71ea25acf41b46a87af9a2eff" title="Read the flow solution from the restart file." alt="" coords="296,289,531,315"/>
+<area shape="rect" id="node16" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="599,811,753,838"/>
+<area shape="rect" id="node19" href="$class_c_primal_grid.html#a8f953145c5ddd2fdff64146fe9bb85d9" title="Get if an element must be divided in the adaptation stage." alt="" coords="589,289,763,315"/>
+<area shape="rect" id="node20" href="$class_c_primal_grid.html#a4fc7b6b6ac5025325c7e68fb56fbeef8" title="A pure virtual member." alt="" coords="593,339,759,366"/>
+<area shape="rect" id="node21" href="$class_c_primal_grid.html#adb676897e7cf4a83ceb83065e7c6a04f" title="A pure virtual member." alt="" coords="579,390,773,417"/>
+</map>

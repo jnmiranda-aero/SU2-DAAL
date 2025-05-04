@@ -1,0 +1,11 @@
+<map id="CNSSolver::SetRoe_Dissipation" name="CNSSolver::SetRoe_Dissipation">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="5,199,229,225"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a2498a45dc1967f0ca273371ed7e89711" title="Get the DES Constant." alt="" coords="316,5,489,32"/>
+<area shape="rect" id="node3" href="$class_c_variable.html#a7f2cded4f8621cc17104fa7b2169b00c" title="A virtual member." alt="" coords="307,57,499,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a2dae056d1f8e3385d25e6fbc251f0100" title="Get the Kind of Hybrid RANS/LES." alt="" coords="282,123,523,149"/>
+<area shape="rect" id="node5" href="$class_c_config.html#ac5bec4548aaef1effa84ad7a3a038e35" title="Get the Kind of Roe Low Dissipation Scheme for Unsteady flows." alt="" coords="293,173,512,200"/>
+<area shape="rect" id="node6" href="$class_c_point.html#a786e7c18e968c5e833b41c60ed427a35" title="Get the maximum cell&#45;center to cell&#45;center length." alt="" coords="319,224,486,251"/>
+<area shape="rect" id="node7" href="$class_c_point.html#a2ec241bcb847e4bae03e8df907a18b15" title="Get the value of the distance to the nearest wall." alt="" coords="309,275,496,301"/>
+<area shape="rect" id="node8" href="$class_c_variable.html#a3e06aec7797454e2b835e5e0fd369d80" title="A virtual member." alt="" coords="281,325,524,352"/>
+<area shape="rect" id="node9" href="$class_c_variable.html#a45b42d127b55bee9d773dbdade081d60" title="A virtual member." alt="" coords="277,376,528,403"/>
+</map>

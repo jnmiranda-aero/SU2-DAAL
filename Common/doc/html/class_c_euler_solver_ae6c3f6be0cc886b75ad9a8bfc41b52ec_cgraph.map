@@ -1,0 +1,9 @@
+<map id="CEulerSolver::SetPreconditioner" name="CEulerSolver::SetPreconditioner">
+<area shape="rect" id="node1" title="Compute the preconditioner for convergence acceleration by Roe&#45;Turkel method." alt="" coords="5,132,233,159"/>
+<area shape="rect" id="node2" href="$class_c_variable.html#a51313f43ac885cb883d7d38658fe47d4" title="A virtual member." alt="" coords="295,5,467,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a624138f0bb5ee7494459b8e25c5d6287" title="Get the value of the Mach number (velocity divided by speed of sound)." alt="" coords="312,56,451,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#ace023b432f4b4d33108b2bdf792728f5" title="Get the minimum value of Beta for Roe&#45;Turkel preconditioner." alt="" coords="281,107,481,133"/>
+<area shape="rect" id="node5" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="297,157,465,184"/>
+<area shape="rect" id="node6" href="$class_c_variable.html#a25e6cfdfa669e10ceea8fca60ab428ab" title="A virtual member." alt="" coords="284,208,479,235"/>
+<area shape="rect" id="node7" href="$class_c_variable.html#a76505d5d9276995ef2c7038e036e409d" title="A virtual member." alt="" coords="294,259,469,285"/>
+</map>

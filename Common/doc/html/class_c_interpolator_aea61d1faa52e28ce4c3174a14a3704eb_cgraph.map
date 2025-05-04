@@ -1,0 +1,10 @@
+<map id="CInterpolator::Collect_VertexInfo" name="CInterpolator::Collect_VertexInfo">
+<area shape="rect" id="node1" title="Collect and communicate vertex info: coord, global point, and if faces=true the normal vector." alt="" coords="5,125,165,166"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a55195abbb7206e08a4933fa53cd41923" title=" " alt="" coords="213,5,423,32"/>
+<area shape="rect" id="node4" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="251,56,385,83"/>
+<area shape="rect" id="node5" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="245,107,391,133"/>
+<area shape="rect" id="node6" href="$class_c_point.html#ab546170a5a03ef210a75fc5531910050" title="Get the global index in a parallel computation." alt="" coords="231,157,405,184"/>
+<area shape="rect" id="node7" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="249,208,387,235"/>
+<area shape="rect" id="node8" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="242,259,394,285"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="471,5,685,32"/>
+</map>

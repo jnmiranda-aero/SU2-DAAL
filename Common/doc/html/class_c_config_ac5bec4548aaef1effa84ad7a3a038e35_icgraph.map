@@ -1,0 +1,19 @@
+<map id="CConfig::GetKind_RoeLowDiss" name="CConfig::GetKind_RoeLowDiss">
+<area shape="rect" id="node1" title="Get the Kind of Roe Low Dissipation Scheme for Unsteady flows." alt="" coords="1075,207,1293,234"/>
+<area shape="rect" id="node2" href="$class_c_output.html#a3ae58114770474ef465f75e03ecac279" title="Load the desired solution data into a structure used for parallel reordering and output file writing ..." alt="" coords="799,14,1016,41"/>
+<area shape="rect" id="node7" href="$class_c_driver.html#a60382de671a5ddd17e35573cc49ec2a6" title="Definition and allocation of all solver classes." alt="" coords="788,69,1027,95"/>
+<area shape="rect" id="node9" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="507,150,711,177"/>
+<area shape="rect" id="node10" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="514,237,703,263"/>
+<area shape="rect" id="node11" href="$class_c_n_s_solver.html#a00e58d4ca2020dcbf449003c71dab6a2" title="A virtual member." alt="" coords="795,287,1019,314"/>
+<area shape="rect" id="node12" href="$class_c_numerics.html#aa3b798e3e337fbc5d36553cc875c1700" title="Calculate the central/upwind blending function for a face" alt="" coords="794,338,1021,365"/>
+<area shape="rect" id="node16" href="$class_c_euler_solver.html#aad67b818e2f5c133118d2a4cca7845f3" title="Compute Ducros Sensor for Roe Dissipation." alt="" coords="816,171,999,212"/>
+<area shape="rect" id="node17" href="$class_c_euler_solver.html#a9cb1da16bea732300854a351ebca2ed3" title="Compute the spatial integration using a upwind scheme." alt="" coords="826,389,989,431"/>
+<area shape="rect" id="node3" href="$class_c_output.html#aabf70f264a2b4b1aa3eb59b22040217d" title="Writes and organizes the all the output files, except the history one, for parallel computations." alt="" coords="536,5,681,47"/>
+<area shape="rect" id="node4" href="$class_c_driver.html#a5db0cab2665d7cb25e6ba9954f712f59" title="Output the solution in solution file." alt="" coords="307,13,429,39"/>
+<area shape="rect" id="node5" href="$class_c_driver.html#afa3fd46c5fb93979a385bd3910b107a4" title="Launch the computation for all zones and all physics." alt="" coords="108,13,259,39"/>
+<area shape="rect" id="node6" href="$_s_u2___c_f_d_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,13,60,39"/>
+<area shape="rect" id="node8" href="$class_c_driver.html#afac169e386a89af2a52be8902abb27f2" title="Constructor of the class." alt="" coords="545,71,673,98"/>
+<area shape="rect" id="node13" href="$class_c_upw_roe___flow.html#a7b9c15b886c73e1aa590b04c84eca005" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="486,287,731,314"/>
+<area shape="rect" id="node14" href="$class_c_upw_s_l_a_u___flow.html#a3604dd7d635d560b5abaeb7d9867f3a6" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="481,338,736,365"/>
+<area shape="rect" id="node15" href="$class_c_upw_s_l_a_u2___flow.html#af4e7bc524b89b3dcad1f94f2ee769160" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="477,389,740,415"/>
+</map>

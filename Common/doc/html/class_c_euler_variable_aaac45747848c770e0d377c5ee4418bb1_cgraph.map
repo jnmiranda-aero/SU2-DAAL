@@ -1,0 +1,11 @@
+<map id="CEulerVariable::CEulerVariable" name="CEulerVariable::CEulerVariable">
+<area shape="rect" id="node1" title=" " alt="" coords="5,213,225,240"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a9776c63953c047138e0f81d5b51cd895" title="Check if the simulation we are running is a FSI simulation." alt="" coords="286,5,485,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a37d84fba27cc0fce5fb4dad75277aa0d" title="Get the kind of convective numerical scheme for the flow equations (centered or upwind)." alt="" coords="284,57,487,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a20e5fd7b43cfd2bf2bcf5137f12bc635" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="291,122,480,163"/>
+<area shape="rect" id="node5" href="$class_c_config.html#ae9aafd3dfc1a3c7dca73f9a690b8f009" title="Get the number of implicit Jacobi smoothings of the correction in a multigrid strategy." alt="" coords="273,188,497,215"/>
+<area shape="rect" id="node6" href="$class_c_config.html#aea7f78497a5cd863bd065391232329fd" title="Get the number of multigrid levels." alt="" coords="298,239,473,265"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a45e95664235928d911e7c3876fe078b3" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="303,290,468,331"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a2e9af0bd3e1f5ed865e81b627e94a662" title="Determines if problem is viscous." alt="" coords="309,356,462,383"/>
+<area shape="rect" id="node9" href="$class_c_config.html#abeb1d75666a9d471141c88b5e57458c7" title="Get information about the wind gust." alt="" coords="299,407,472,433"/>
+</map>

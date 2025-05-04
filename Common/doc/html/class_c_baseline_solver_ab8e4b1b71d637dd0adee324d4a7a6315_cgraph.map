@@ -1,0 +1,27 @@
+<map id="CBaselineSolver::SetOutputVariables" name="CBaselineSolver::SetOutputVariables">
+<area shape="rect" id="node1" title="Set the number of variables and string names from the restart file." alt="" coords="5,558,207,599"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#ae816a2f124ea5ae95337418462514df5" title=" " alt="" coords="259,5,445,32"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="497,85,679,112"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a2917fd8eeb6a8bf275a3fc351aac2a5e" title="Determines if problem is adjoint." alt="" coords="264,173,440,214"/>
+<area shape="rect" id="node6" href="$class_c_config.html#abe9f117dab934d76e518a9e8e40b142a" title="Get the indicator whether we are solving an discrete adjoint problem." alt="" coords="273,238,431,279"/>
+<area shape="rect" id="node7" href="$class_c_config.html#aa48f2fc504ec2b261d5046f9a17677dd" title="Get the current external iteration number." alt="" coords="279,304,425,331"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a13643de8d58ed6b848b193eae54c97e8" title="Get the current instance." alt="" coords="287,355,417,381"/>
+<area shape="rect" id="node9" href="$class_c_config.html#ac09e21f44792b38adb3f933a4426b25f" title="Provides the number of varaibles." alt="" coords="282,405,422,432"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="262,456,442,483"/>
+<area shape="rect" id="node11" href="$class_c_config.html#ad6ffea40c29f97d40159c84a915c4e72" title="Append the instance index to the restart or the solution files." alt="" coords="257,558,447,599"/>
+<area shape="rect" id="node12" href="$namespace_s_u2___t_y_p_e.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="532,565,644,592"/>
+<area shape="rect" id="node14" href="$class_c_config.html#aefa1a86d2c906eb6bb146578d55114f7" title="Append the zone index to the restart or the solution files." alt="" coords="269,623,435,665"/>
+<area shape="rect" id="node16" href="$class_c_geometry.html#a9c19673865bedc65b6f3a27ba7b81967" title="Get number of zones." alt="" coords="269,689,435,716"/>
+<area shape="rect" id="node17" href="$class_c_config.html#ad735d24b1c344410abea90ac9c6bb226" title="Append the input filename string with the appropriate objective function extension." alt="" coords="275,741,429,782"/>
+<area shape="rect" id="node18" href="$class_c_config.html#a37f4ffc9f97f54715ea40e411e60670f" title="Flag for whether binary SU2 native restart files are read." alt="" coords="259,806,445,847"/>
+<area shape="rect" id="node19" href="$class_c_config.html#a5462c8f508ec750d265d4ec8ae21fc80" title="Get the name of the file with the solution of the adjoint flow problem with drag objective function." alt="" coords="274,871,430,913"/>
+<area shape="rect" id="node20" href="$class_c_config.html#a0b1fdefd147ef5f88bb2ae7d2b065cae" title="Get the name of the file with the solution of the structural problem." alt="" coords="274,937,430,978"/>
+<area shape="rect" id="node21" href="$class_c_config.html#ad91f3fcd28080a11685432e760221c1d" title="Get the name of the file with the solution of the flow problem." alt="" coords="274,1002,430,1043"/>
+<area shape="rect" id="node22" href="$class_c_config.html#a92503d0809da9f2a9f54750cd55a1913" title="Augment the input filename with the iteration number for an unsteady file." alt="" coords="269,107,435,149"/>
+<area shape="rect" id="node23" href="$class_c_config.html#a45e95664235928d911e7c3876fe078b3" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="269,1067,435,1109"/>
+<area shape="rect" id="node24" href="$class_c_config.html#a53f1925f8888cba2677cc58af8cbb821" title="Get information about writing dynamic structural analysis headers and file extensions." alt="" coords="257,1133,447,1160"/>
+<area shape="rect" id="node25" href="$class_c_config.html#aaa4ccd33d3acee59a6b07b410815cfae" title="Get information about writing unsteady headers and file extensions." alt="" coords="255,1184,449,1211"/>
+<area shape="rect" id="node4" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="727,85,912,112"/>
+<area shape="rect" id="node13" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="742,565,897,592"/>
+<area shape="rect" id="node15" href="$class_c_config.html#ad8a83ccc6af7a42273330d6bf596b8c0" title="Provides the number of varaibles." alt="" coords="516,631,660,657"/>
+</map>

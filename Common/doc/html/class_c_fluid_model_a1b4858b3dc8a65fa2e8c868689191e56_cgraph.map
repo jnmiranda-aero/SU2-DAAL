@@ -1,0 +1,8 @@
+<map id="CFluidModel::GetThermalConductivity" name="CFluidModel::GetThermalConductivity">
+<area shape="rect" id="node1" title="Get fluid thermal conductivity." alt="" coords="5,143,276,170"/>
+<area shape="rect" id="node2" href="$class_c_conductivity_model.html#a3c663a2108a65b2b492b3be55e49780a" title="return viscosity value." alt="" coords="325,5,479,47"/>
+<area shape="rect" id="node3" href="$class_c_conductivity_model.html#a2efda2dbfd949aa7e95a79615534b64a" title="return viscosity partial derivative value." alt="" coords="325,71,479,112"/>
+<area shape="rect" id="node4" href="$class_c_conductivity_model.html#adb5148c59f247f56818036047ff832fc" title="return viscosity partial derivative value." alt="" coords="325,136,479,177"/>
+<area shape="rect" id="node5" href="$class_c_conductivity_model.html#a58cb994cf13e8357da2a15eda1556e16" title="Set Thermal conductivity." alt="" coords="325,201,479,243"/>
+<area shape="rect" id="node6" href="$class_c_conductivity_model.html#a6b91a51f4f12f6dc2d0cd406f436ea75" title="Set Thermal conductivity derivatives." alt="" coords="324,267,480,308"/>
+</map>

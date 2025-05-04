@@ -1,0 +1,8 @@
+<map id="CConfig::GetRamp_Load" name="CConfig::GetRamp_Load">
+<area shape="rect" id="node1" title="Check if the user wants to apply the load as a ramp." alt="" coords="496,64,675,91"/>
+<area shape="rect" id="node2" href="$class_c_f_e_a_solver.html#a72bd26161a5944ea6784891a9aeb3aa4" title="A virtual member." alt="" coords="269,5,448,32"/>
+<area shape="rect" id="node3" href="$class_c_f_e_a_solver.html#a6ac1e4e9ada22885cf892806b2d83cfc" title="Get multiplier for loads." alt="" coords="277,57,441,98"/>
+<area shape="rect" id="node6" href="$class_c_transfer___flow_traction.html#a79f8cf7b1864269b401b26d0f78127bc" title="Retrieve some constants needed for the calculations." alt="" coords="269,122,448,163"/>
+<area shape="rect" id="node4" href="$class_c_f_e_a_solver.html#ab91a788a4b5e651883b522290c5cffa0" title="Impose a load boundary condition in cartesian coordinates." alt="" coords="20,39,207,65"/>
+<area shape="rect" id="node5" href="$class_c_f_e_a_solver.html#aeb5416c624b48c1b541d831c16f8acb2" title="Impose a load boundary condition normal to the boundary." alt="" coords="5,89,221,116"/>
+</map>

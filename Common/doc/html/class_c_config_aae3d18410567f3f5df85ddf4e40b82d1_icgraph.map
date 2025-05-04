@@ -1,0 +1,5 @@
+<map id="CConfig::GetMGCycle" name="CConfig::GetMGCycle">
+<area shape="rect" id="node1" title="Get the kind of multigrid (V or W)." alt="" coords="273,35,435,61"/>
+<area shape="rect" id="node2" href="$class_c_turb_s_a_solver.html#a06a8b09d1563dd48f364ff6e97c25cd8" title=" " alt="" coords="5,5,225,32"/>
+<area shape="rect" id="node3" href="$class_c_multi_grid_integration.html#a4d65b648b6d17d396d2f3432f89e7f51" title="This subroutine calls the MultiGrid_Cycle and also prepare the multigrid levels and the monitoring." alt="" coords="34,57,197,98"/>
+</map>

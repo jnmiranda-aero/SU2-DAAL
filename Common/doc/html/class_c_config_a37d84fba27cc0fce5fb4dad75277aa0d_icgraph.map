@@ -1,0 +1,18 @@
+<map id="CConfig::GetKind_ConvNumScheme_Flow" name="CConfig::GetKind_ConvNumScheme_Flow">
+<area shape="rect" id="node1" title="Get the kind of convective numerical scheme for the flow equations (centered or upwind)." alt="" coords="628,307,831,349"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#ae1e74218b4e943111b100d7ddcbd4db9" title=" " alt="" coords="359,5,555,32"/>
+<area shape="rect" id="node3" href="$class_c_euler_variable.html#aaac45747848c770e0d377c5ee4418bb1" title=" " alt="" coords="347,56,567,83"/>
+<area shape="rect" id="node4" href="$class_c_inc_euler_solver.html#a91f644b8f9a00215bac5bcd31dfc06d8" title=" " alt="" coords="360,107,553,149"/>
+<area shape="rect" id="node5" href="$class_c_inc_euler_variable.html#adf349807c29167c7884e2719b498ef61" title=" " alt="" coords="385,173,529,214"/>
+<area shape="rect" id="node6" href="$class_c_inc_n_s_solver.html#a82152ac7e91fb1c5c073d98a1f08e2aa" title=" " alt="" coords="355,239,559,265"/>
+<area shape="rect" id="node7" href="$class_c_n_s_solver.html#a2a8ad49c42b4546696e631cf44b7788b" title=" " alt="" coords="373,289,540,316"/>
+<area shape="rect" id="node8" href="$class_c_driver.html#a07b570fb66322870b48268e8eb63599f" title="Definition and allocation of all solver classes." alt="" coords="333,340,580,367"/>
+<area shape="rect" id="node11" href="$class_c_driver.html#a60382de671a5ddd17e35573cc49ec2a6" title="Definition and allocation of all solver classes." alt="" coords="337,391,576,417"/>
+<area shape="rect" id="node13" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="355,441,559,468"/>
+<area shape="rect" id="node14" href="$class_c_inc_euler_solver.html#aabd902b10cc9b41b6b2c406efba0ac41" title="Compute primitive variables and their gradients." alt="" coords="345,492,568,519"/>
+<area shape="rect" id="node15" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="362,543,551,569"/>
+<area shape="rect" id="node16" href="$class_c_inc_n_s_solver.html#ae84f6e86313acd1da80c505b4eab81e5" title="Restart residual and compute gradients." alt="" coords="353,593,561,620"/>
+<area shape="rect" id="node9" href="$class_c_driver.html#a6ad9df8d8a8de75033ef296fed39c213" title="Deallocation routine." alt="" coords="108,340,285,367"/>
+<area shape="rect" id="node10" href="$_s_u2___c_f_d_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,340,60,367"/>
+<area shape="rect" id="node12" href="$class_c_driver.html#afac169e386a89af2a52be8902abb27f2" title="Constructor of the class." alt="" coords="133,391,261,417"/>
+</map>

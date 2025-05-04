@@ -1,0 +1,18 @@
+<map id="CConfig::GetInlet_Ptotal" name="CConfig::GetInlet_Ptotal">
+<area shape="rect" id="node1" title="Get the total pressure at an inlet boundary." alt="" coords="1189,143,1367,170"/>
+<area shape="rect" id="node2" href="$class_c_heat_solver_f_v_m.html#a3b0b87693870e1b9cf5a16aa644aae8d" title="Impose the inlet boundary condition." alt="" coords="955,5,1113,47"/>
+<area shape="rect" id="node3" href="$class_c_f_e_m___d_g___euler_solver.html#af993f01423bbb8e24b8c2bb565bf55eb" title="Function, which computes the boundary states in the integration points of the boundary face by applyi..." alt="" coords="949,71,1119,112"/>
+<area shape="rect" id="node10" href="$class_c_euler_solver.html#a4cad878e307c4d62adb7fc96d4f4c1de" title="Set a uniform inlet profile." alt="" coords="941,136,1127,177"/>
+<area shape="rect" id="node11" href="$class_c_inc_euler_solver.html#a0332a68b57b75ed9449b5ee5faae4d13" title="Set a uniform inlet profile." alt="" coords="931,201,1137,243"/>
+<area shape="rect" id="node12" href="$class_c_output.html#ab3b7d1dff4c8bd638be2ab7a210106ad" title="Write a template inlet profile file for all inlets for flow problems." alt="" coords="927,267,1141,294"/>
+<area shape="rect" id="node4" href="$class_c_f_e_m___d_g___euler_solver.html#ade8441a575543603f4e4218fb52e33a2" title="Impose the subsonic inlet boundary condition. It is a virtual function, because for Navier&#45;Stokes it ..." alt="" coords="706,39,873,80"/>
+<area shape="rect" id="node9" href="$class_c_f_e_m___d_g___n_s_solver.html#a2865905d6ed26dcd2d2d850db9366d05" title="Impose the subsonic inlet boundary condition." alt="" coords="700,104,879,145"/>
+<area shape="rect" id="node5" href="$class_c_f_e_m___d_g___euler_solver.html#ae37f8eba6d7793bc4edb5de6e26f992d" title="Function, which computes the spatial residual for the DG discretization." alt="" coords="484,39,652,80"/>
+<area shape="rect" id="node6" href="$class_c_f_e_m___d_g___euler_solver.html#a651cad1a94f2024c75a1a8be347e3375" title="Function, which processes the list of tasks to be executed by the DG solver." alt="" coords="269,39,436,80"/>
+<area shape="rect" id="node7" href="$class_c_f_e_m___d_g___euler_solver.html#a7f0da04d44069701db2228210b91c59e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="5,7,221,48"/>
+<area shape="rect" id="node8" href="$class_c_f_e_m___d_g___euler_solver.html#ac59d8dae95e3c3cc3ab3feaeb9be4b22" title="Function, which controls the computation of the spatial Jacobian." alt="" coords="19,72,208,113"/>
+<area shape="rect" id="node13" href="$class_c_output.html#aabf70f264a2b4b1aa3eb59b22040217d" title="Writes and organizes the all the output files, except the history one, for parallel computations." alt="" coords="717,260,862,301"/>
+<area shape="rect" id="node14" href="$class_c_driver.html#a5db0cab2665d7cb25e6ba9954f712f59" title="Output the solution in solution file." alt="" coords="507,267,629,294"/>
+<area shape="rect" id="node15" href="$class_c_driver.html#afa3fd46c5fb93979a385bd3910b107a4" title="Launch the computation for all zones and all physics." alt="" coords="277,267,428,294"/>
+<area shape="rect" id="node16" href="$_s_u2___c_f_d_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="86,267,141,294"/>
+</map>

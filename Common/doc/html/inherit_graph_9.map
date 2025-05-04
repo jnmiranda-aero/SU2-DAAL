@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_c_conductivity_model.html" title=" " alt="" coords="5,56,159,83"/>
+<area shape="rect" id="node2" href="$class_c_constant_conductivity.html" title="this class defines a constant thermal conductivity." alt="" coords="207,5,377,32"/>
+<area shape="rect" id="node3" href="$class_c_constant_prandtl.html" title="this class defines a non&#45;constant thermal conductivity using a constant Prandtl&#39;s number" alt="" coords="225,56,359,83"/>
+<area shape="rect" id="node4" href="$class_c_constant_prandtl_r_a_n_s.html" title="Defines a non&#45;constant effective thermal conductivity for RANS problems using Prandtl numbers." alt="" coords="207,107,377,133"/>
+</map>

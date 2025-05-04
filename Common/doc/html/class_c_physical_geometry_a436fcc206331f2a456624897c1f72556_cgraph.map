@@ -1,0 +1,14 @@
+<map id="CPhysicalGeometry::SetMeshFile" name="CPhysicalGeometry::SetMeshFile">
+<area shape="rect" id="node1" title="Write the .su2 file." alt="" coords="5,282,163,323"/>
+<area shape="rect" id="node2" href="$class_c_point.html#ab546170a5a03ef210a75fc5531910050" title="Get the global index in a parallel computation." alt="" coords="235,5,409,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a778a77ff2b9e1d359eab9b2d2106fa81" title="Get the send&#45;receive information for a marker val_marker." alt="" coords="248,57,396,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="248,122,396,163"/>
+<area shape="rect" id="node5" href="$class_c_primal_grid.html#a0efbf2f8391d5177d92bd850016a3783" title="A pure virtual member." alt="" coords="232,188,412,215"/>
+<area shape="rect" id="node6" href="$class_c_primal_grid.html#a4fc7b6b6ac5025325c7e68fb56fbeef8" title="A pure virtual member." alt="" coords="239,239,405,265"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a3d1d5708418a0315501c16afa7074c8a" title="Get the total number of SEND_RECEIVE periodic transformations." alt="" coords="223,289,421,316"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a248aceddacf57c20ff07013483ee48b1" title="Get the rotation center for a periodic transformation." alt="" coords="223,340,421,367"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a3bbab3216efbc64fbde6e3befff246b9" title="Get the rotation angles for a periodic transformation." alt="" coords="217,391,427,417"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a017c3a5386d33019c02d7311a9402c38" title="Get the translation vector for a periodic transformation." alt="" coords="215,441,429,468"/>
+<area shape="rect" id="node11" href="$class_c_primal_grid.html#acc5076fe3538908311a99001bae3a6d7" title="A pure virtual member." alt="" coords="211,492,433,519"/>
+<area shape="rect" id="node12" href="$class_c_primal_grid.html#adb676897e7cf4a83ceb83065e7c6a04f" title="A pure virtual member." alt="" coords="225,543,419,569"/>
+</map>

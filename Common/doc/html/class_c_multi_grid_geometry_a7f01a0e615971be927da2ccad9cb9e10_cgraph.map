@@ -1,0 +1,13 @@
+<map id="CMultiGridGeometry::SetBoundAgglomeration" name="CMultiGridGeometry::SetBoundAgglomeration">
+<area shape="rect" id="node1" title="Determine if a CVPoint van be agglomerated, if it have the same marker point as the seed." alt="" coords="5,213,193,254"/>
+<area shape="rect" id="node2" href="$class_c_multi_grid_geometry.html#a4fd17cfda3823880c2215f30da37e458" title="Determine if a can be agglomerated using geometrical criteria." alt="" coords="259,23,415,65"/>
+<area shape="rect" id="node5" href="$class_c_point.html#a7fe7c80521aa21997e44214db8758db3" title="Get information about if a control volume has been agglomerated." alt="" coords="247,89,426,116"/>
+<area shape="rect" id="node6" href="$class_c_point.html#a910175d25dd3b6244a35221cc73eebf0" title="Provides information about if a point belong to the boundaries." alt="" coords="258,140,415,167"/>
+<area shape="rect" id="node7" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="263,191,410,217"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="263,242,411,283"/>
+<area shape="rect" id="node9" href="$class_c_geometry.html#a3c899d1370312702c189a8ee95a63ef7" title="Get number of markers." alt="" coords="247,308,426,335"/>
+<area shape="rect" id="node10" href="$class_c_config.html#aec6c93336a29b85c8e0ce66352852f58" title="Get the total number of boundary markers." alt="" coords="241,359,432,385"/>
+<area shape="rect" id="node11" href="$class_c_point.html#aceac27af50af6500a034b86b329532a0" title="Get the vertex that compose the control volume for a marker." alt="" coords="268,409,405,436"/>
+<area shape="rect" id="node3" href="$class_c_config.html#ab6a2664db3de43ee2a19a6991501099b" title="Get the volume of the whole domain using the fine grid, this value is common for all the grids in the..." alt="" coords="480,5,683,32"/>
+<area shape="rect" id="node4" href="$class_c_point.html#a3c526a15e767c7de9cf163800aa581e5" title="Get area or volume of the control volume." alt="" coords="509,56,653,83"/>
+</map>

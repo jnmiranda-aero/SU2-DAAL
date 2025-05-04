@@ -1,0 +1,6 @@
+<map id="CConductivityModel" name="CConductivityModel">
+<area shape="rect" id="node1" title=" " alt="" coords="191,5,345,32"/>
+<area shape="rect" id="node2" href="$class_c_constant_conductivity.html" title="this class defines a constant thermal conductivity." alt="" coords="5,80,176,107"/>
+<area shape="rect" id="node3" href="$class_c_constant_prandtl.html" title="this class defines a non&#45;constant thermal conductivity using a constant Prandtl&#39;s number" alt="" coords="201,80,335,107"/>
+<area shape="rect" id="node4" href="$class_c_constant_prandtl_r_a_n_s.html" title="Defines a non&#45;constant effective thermal conductivity for RANS problems using Prandtl numbers." alt="" coords="360,80,531,107"/>
+</map>

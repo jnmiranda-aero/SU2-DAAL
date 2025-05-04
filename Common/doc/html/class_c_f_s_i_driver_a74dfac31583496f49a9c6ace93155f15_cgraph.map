@@ -1,0 +1,6 @@
+<map id="CFSIDriver::Relaxation_Displacements" name="CFSIDriver::Relaxation_Displacements">
+<area shape="rect" id="node1" title="Apply a relaxation method into the computed displacements." alt="" coords="5,71,173,112"/>
+<area shape="rect" id="node2" href="$class_c_solver.html#ab81078249a9a62e0d4426c59c1834f9b" title="A virtual member." alt="" coords="227,5,407,47"/>
+<area shape="rect" id="node3" href="$class_c_solver.html#a9ecf571d297c3d2cd45dc2d25e3292c6" title="Impose the send&#45;receive boundary condition for old predicted FSI structural solutions." alt="" coords="221,71,413,112"/>
+<area shape="rect" id="node4" href="$class_c_solver.html#a04c2104bc0fadc25d36ce5adf20a00e0" title="A virtual member." alt="" coords="246,136,389,177"/>
+</map>

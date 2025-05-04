@@ -1,0 +1,5 @@
+<map id="CConfig::SetNonphysical_Reconstr" name="CConfig::SetNonphysical_Reconstr">
+<area shape="rect" id="node1" title="Set the current number of non&#45;physical reconstructions for 2nd&#45;order upwinding." alt="" coords="235,39,416,80"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a9cb1da16bea732300854a351ebca2ed3" title="Compute the spatial integration using a upwind scheme." alt="" coords="15,5,177,47"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#a935da79a4e1b1fe9c59bc86024164256" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,71,187,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CUpwCUSP_Flow::CUpwCUSP_Flow" name="CUpwCUSP_Flow::CUpwCUSP_Flow">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,56,256,83"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a5f01bbbd9c331ecea38eebbe9cc9cd4e" title="Get the value of the Gamma of fluid (ratio of specific heats)." alt="" coords="330,5,485,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="304,56,511,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a20e5fd7b43cfd2bf2bcf5137f12bc635" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="313,107,502,149"/>
+</map>

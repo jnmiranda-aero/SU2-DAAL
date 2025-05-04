@@ -1,0 +1,18 @@
+<map id="CIncEulerSolver::Set_MPI_Undivided_Laplacian" name="CIncEulerSolver::Set_MPI_Undivided_Laplacian">
+<area shape="rect" id="node1" title="Parallelization of Undivided Laplacian." alt="" coords="5,205,200,247"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="283,5,431,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a778a77ff2b9e1d359eab9b2d2106fa81" title="Get the send&#45;receive information for a marker val_marker." alt="" coords="283,71,431,112"/>
+<area shape="rect" id="node4" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="288,137,427,163"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a3bbab3216efbc64fbde6e3befff246b9" title="Get the rotation angles for a periodic transformation." alt="" coords="252,187,463,214"/>
+<area shape="rect" id="node6" href="$class_c_vertex.html#a4f79701d89ed5eaaf6c4c41566a319d7" title="Get the type of rotation associated to the vertex." alt="" coords="259,238,455,265"/>
+<area shape="rect" id="node7" href="$class_c_base_m_p_i_wrapper.html#af195343eb82f29c4b3a190c928251765" title=" " alt="" coords="252,289,463,315"/>
+<area shape="rect" id="node9" href="$class_c_inc_euler_solver.html#a8b5d7772432b9759213892a50621c329" title="Compute the undivided laplacian for the solution, except the energy equation." alt="" coords="248,340,467,381"/>
+<area shape="rect" id="node8" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="515,170,729,197"/>
+<area shape="rect" id="node10" href="$class_c_variable.html#a28e24788c617b33cef3af0663f0f7762" title="Add the value of the undivided laplacian of the solution." alt="" coords="533,221,711,247"/>
+<area shape="rect" id="node11" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="549,271,695,298"/>
+<area shape="rect" id="node12" href="$class_c_geometry.html#a7d6e1e1d1e46da8f55ecbe1a9380530a" title="Get number of edges." alt="" coords="539,322,705,349"/>
+<area shape="rect" id="node13" href="$class_c_edge.html#aee33b61d646e3fe59a4e23284ab1bf33" title="Get the nodes of the edge." alt="" coords="558,373,686,399"/>
+<area shape="rect" id="node14" href="$class_c_point.html#a4eb5465beab412d0783a22515db2174d" title="Provides information about if a point belong to the physical boundaries (without MPI)." alt="" coords="517,423,727,450"/>
+<area shape="rect" id="node15" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="538,474,706,501"/>
+<area shape="rect" id="node16" href="$class_c_variable.html#a0f3570a61d581a2bf903a88906889b4d" title="Subtract the value of the undivided laplacian of the solution." alt="" coords="519,525,725,551"/>
+</map>

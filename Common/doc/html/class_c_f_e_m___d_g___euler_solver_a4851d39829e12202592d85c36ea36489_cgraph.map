@@ -1,0 +1,9 @@
+<map id="CFEM_DG_EulerSolver::ComputeInviscidFluxesFace" name="CFEM_DG_EulerSolver::ComputeInviscidFluxesFace">
+<area shape="rect" id="node1" title="Function, which computes the inviscid fluxes in face points." alt="" coords="5,151,216,193"/>
+<area shape="rect" id="node2" href="$class_c_numerics.html#abe734316e0047f463f059fd77a281958" title="Compute the numerical residual." alt="" coords="264,5,480,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a0f7ace5ebf01fd50bcadab8b50b897c8" title="Get the entropy fix." alt="" coords="286,57,458,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#ac5d613463ef0d7b01e66c4e33f586afb" title="Get the kind of Riemann solver for the DG method (FEM flow solver)." alt="" coords="291,122,453,163"/>
+<area shape="rect" id="node5" href="$class_c_numerics.html#ae15b9e4ad2008444365109c434e24207" title="Set the velocity of the computational grid." alt="" coords="287,188,457,215"/>
+<area shape="rect" id="node6" href="$class_c_numerics.html#a41903d97957f351cd9ee63ca404985b1" title="Set the value of the normal vector to the face between two points." alt="" coords="287,239,457,265"/>
+<area shape="rect" id="node7" href="$class_c_numerics.html#af72b17d397adf09beed2e99e2daf895c" title="Set the value of the primitive variables." alt="" coords="281,289,463,316"/>
+</map>

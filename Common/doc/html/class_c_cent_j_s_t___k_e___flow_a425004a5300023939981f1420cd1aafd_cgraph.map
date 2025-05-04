@@ -1,0 +1,8 @@
+<map id="CCentJST_KE_Flow::CCentJST_KE_Flow" name="CCentJST_KE_Flow::CCentJST_KE_Flow">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,99,215,141"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a5f01bbbd9c331ecea38eebbe9cc9cd4e" title="Get the value of the Gamma of fluid (ratio of specific heats)." alt="" coords="292,5,447,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="266,56,473,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a09fa956aafda9f4fd72ebf24231e0d57" title="Value of the calibrated constant for the JST method (center scheme)." alt="" coords="263,107,476,133"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a0ab9dc189c8cf13f7ab1fd1432666d0c" title="Value of the calibrated constant for the JST method (center scheme)." alt="" coords="264,157,475,184"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a20e5fd7b43cfd2bf2bcf5137f12bc635" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="275,209,464,250"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="CConfig::GetStructure_FileName" name="CConfig::GetStructure_FileName">
+<area shape="rect" id="node1" title="Get the name of the file with the structure variables." alt="" coords="1224,239,1387,280"/>
+<area shape="rect" id="node2" href="$output__paraview_8cpp.html#ad906c295c43147ae70a58a0732dff6fe" title=" " alt="" coords="1006,21,1137,47"/>
+<area shape="rect" id="node8" href="$class_c_output.html#ac6b6164f30cb97283ce6dd4dd8b4b0e3" title="Write a Tecplot ASCII solution file." alt="" coords="971,363,1172,390"/>
+<area shape="rect" id="node16" href="$class_c_output.html#a4e9fc94c21bd4ed7ad795b31534a47f8" title="Write solution data to a Tecplot binary volume solution file." alt="" coords="967,414,1176,441"/>
+<area shape="rect" id="node17" href="$class_c_output.html#a080755e0a403e417f63ca46ac456ea79" title="Write a Paraview ASCII solution file." alt="" coords="990,180,1153,221"/>
+<area shape="rect" id="node18" href="$class_c_output.html#a55fff1c54b24786468557f5da7073995" title="Write a Paraview ASCII solution file." alt="" coords="990,465,1153,507"/>
+<area shape="rect" id="node21" href="$class_c_output.html#a21e634f0628bfa62a682e42f4fb4aee7" title="Write a Tecplot ASCII solution file." alt="" coords="979,246,1163,273"/>
+<area shape="rect" id="node22" href="$class_c_output.html#a59bf1f53aa473e59822b9f9cac9e6a25" title="Write solution data to a Tecplot binary volume solution file." alt="" coords="975,297,1167,339"/>
+<area shape="rect" id="node23" href="$class_c_output.html#aa4363f875c07e5bfad39107a66bf4a81" title="Write a Paraview ASCII solution file with parallel output." alt="" coords="703,71,915,112"/>
+<area shape="rect" id="node24" href="$class_c_output.html#a0f0d02e9cac97b4b1b6ba66e68444385" title="Write the solution data and connectivity to a Tecplot ASCII mesh file in parallel." alt="" coords="709,136,908,177"/>
+<area shape="rect" id="node3" href="$class_c_output.html#a26b30fea21eda60670136c31b108773a" title="Write a Paraview binary solution file with parallel output." alt="" coords="699,5,919,47"/>
+<area shape="rect" id="node4" href="$class_c_output.html#aabf70f264a2b4b1aa3eb59b22040217d" title="Writes and organizes the all the output files, except the history one, for parallel computations." alt="" coords="491,71,637,112"/>
+<area shape="rect" id="node5" href="$class_c_driver.html#a5db0cab2665d7cb25e6ba9954f712f59" title="Output the solution in solution file." alt="" coords="307,78,429,105"/>
+<area shape="rect" id="node6" href="$class_c_driver.html#afa3fd46c5fb93979a385bd3910b107a4" title="Launch the computation for all zones and all physics." alt="" coords="108,78,259,105"/>
+<area shape="rect" id="node7" href="$_s_u2___c_f_d_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,78,60,105"/>
+<area shape="rect" id="node9" href="$class_c_output.html#adafaf6906933a6061b4dbf77a43d8ce1" title="Writes and organizes the all the output files, except the history one, for serial computations." alt="" coords="708,401,909,443"/>
+<area shape="rect" id="node13" href="$class_c_output.html#addef7f58fbf0b3f83247acb6ce1f9656" title="Writes and organizes the all the output files, except the history one, for DG&#45;FEM simulations (SU2_SO..." alt="" coords="708,336,909,377"/>
+<area shape="rect" id="node14" href="$class_c_output.html#a3f9e3547aeab11342d49cec28a460728" title="Writes and organizes the all the output files, except the history one, for serial computations." alt="" coords="736,205,881,247"/>
+<area shape="rect" id="node15" href="$class_c_output.html#a7072279b203871651d163fb2dd60d2d6" title="Writes and organizes the all the output files, except the history one, for serial computations with t..." alt="" coords="736,271,881,312"/>
+<area shape="rect" id="node10" href="$_s_u2___s_o_l_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="537,347,591,374"/>
+<area shape="rect" id="node11" href="$class_c_output.html#ac030f4a3a7d64c2c38285692b8481558" title="Write the sensitivity (including mesh sensitivity) computed with the discrete adjoint method on the s..." alt="" coords="477,401,651,443"/>
+<area shape="rect" id="node12" href="$_s_u2___d_o_t_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="341,409,395,435"/>
+<area shape="rect" id="node19" href="$class_c_output.html#a225fca411804ed7f31adebe0ba4e7609" title="Writes and organizes the all the output files, except the history one, for serial computations." alt="" coords="721,473,897,499"/>
+<area shape="rect" id="node20" href="$_s_u2___d_e_f_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="537,473,591,499"/>
+</map>

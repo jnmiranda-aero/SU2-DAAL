@@ -1,0 +1,39 @@
+<map id="COutput::SpecialOutput_SpanLoad" name="COutput::SpecialOutput_SpanLoad">
+<area shape="rect" id="node1" title="Writes forces at different sections." alt="" coords="5,858,180,899"/>
+<area shape="rect" id="node2" href="$class_c_geometry.html#a136d597cdcaa37dab258f69727a70a53" title="A virtual member." alt="" coords="252,318,453,359"/>
+<area shape="rect" id="node7" href="$class_c_config.html#aa442a0400020ede3ab81c2d9a966f8c3" title="Get Description of the geometry to be analyzed." alt="" coords="533,5,743,32"/>
+<area shape="rect" id="node9" href="$class_c_config.html#aa0cea4ab0d11d77fdec385ad72c6451e" title="Get the defintion of the nacelle location." alt="" coords="535,645,741,672"/>
+<area shape="rect" id="node17" href="$class_c_config.html#a6020a5df7025ffb286f9b9f55f3f2773" title="Get the angle of attack of the body. This is the angle between a reference line on a lifting body (of..." alt="" coords="288,435,417,461"/>
+<area shape="rect" id="node18" href="$class_c_solver.html#a8db8db096fdfb8bd067a2b1adeb8d5b6" title="A virtual member." alt="" coords="264,485,441,512"/>
+<area shape="rect" id="node19" href="$class_c_config.html#a5f01bbbd9c331ecea38eebbe9cc9cd4e" title="Get the value of the Gamma of fluid (ratio of specific heats)." alt="" coords="275,536,430,563"/>
+<area shape="rect" id="node20" href="$class_c_config.html#a6d835a954bb5e99c5a3de6db5ed24ff3" title="Get the value of specific gas constant." alt="" coords="246,587,459,613"/>
+<area shape="rect" id="node21" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="249,637,456,664"/>
+<area shape="rect" id="node22" href="$class_c_config.html#adf6319221dceb47115ab67c329cbbeaf" title="Get the airfoil sections in the slicing process." alt="" coords="247,688,458,715"/>
+<area shape="rect" id="node23" href="$class_c_config.html#a84da3953107e3dad010e13227f1d84d0" title="Get the mach number based on the mesh velocity and freestream quantities." alt="" coords="257,739,448,765"/>
+<area shape="rect" id="node24" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="272,789,433,816"/>
+<area shape="rect" id="node25" href="$class_c_config.html#a8cb31cac5a43f41fe5bc47e6cb87375b" title="Get the number of sections." alt="" coords="243,840,462,867"/>
+<area shape="rect" id="node26" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="269,891,436,917"/>
+<area shape="rect" id="node27" href="$class_c_config.html#ac2cb41cf77a3151862778d8400d58656" title="Get the format of the output solution." alt="" coords="279,942,426,983"/>
+<area shape="rect" id="node28" href="$class_c_variable.html#aa845fb5587ca68200ebd49440c8d1d9e" title="A virtual member." alt="" coords="267,1008,438,1035"/>
+<area shape="rect" id="node29" href="$class_c_solver.html#afeaf42e0257b9b7e1bab7d090b44282f" title="A virtual member." alt="" coords="261,1059,444,1085"/>
+<area shape="rect" id="node30" href="$class_c_config.html#ad1d22f6d4f0225e3281d826a4c866779" title="Get the reference area for non dimensional coefficient computation. If the value from the is 0 then,..." alt="" coords="275,1109,430,1136"/>
+<area shape="rect" id="node31" href="$class_c_config.html#a63ce45e68b93f8f3f1de44a2abad67ef" title="Get the reference length for computing moment (the default value is 1)." alt="" coords="268,1160,437,1187"/>
+<area shape="rect" id="node32" href="$class_c_config.html#a11302b0fc39a262419332a53e0a82c19" title="Get reference origin for moment computation." alt="" coords="243,1211,462,1237"/>
+<area shape="rect" id="node33" href="$class_c_config.html#a6654e8460b586ec7022ded455af379d1" title="Get the wing semi span." alt="" coords="269,1261,437,1288"/>
+<area shape="rect" id="node34" href="$class_c_config.html#afbc5c2467fd51eafa6e05e5bda7d3d3e" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="228,1312,477,1339"/>
+<area shape="rect" id="node35" href="$class_c_config.html#a00454cff9575acd21239959b4030b192" title="Get the value of the non&#45;dimensionalized freestream temperature." alt="" coords="260,1363,445,1405"/>
+<area shape="rect" id="node36" href="$class_c_solver.html#a5906c2d5d62b8d42c46eee1c3b10de45" title="A virtual member." alt="" coords="274,1429,431,1456"/>
+<area shape="rect" id="node37" href="$class_c_solver.html#a0285d219c0390bb90029527bb2e0d908" title="A virtual member." alt="" coords="263,1480,442,1507"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a55195abbb7206e08a4933fa53cd41923" title=" " alt="" coords="533,56,743,83"/>
+<area shape="rect" id="node5" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="533,107,743,133"/>
+<area shape="rect" id="node6" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="571,157,705,184"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a0d3d6a63fed3394fa2e2842e260494db" title="Get the monitoring information for a marker val_marker." alt="" coords="564,209,712,250"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="548,275,728,301"/>
+<area shape="rect" id="node11" href="$class_c_primal_grid.html#a0efbf2f8391d5177d92bd850016a3783" title="A pure virtual member." alt="" coords="548,325,728,352"/>
+<area shape="rect" id="node12" href="$class_c_primal_grid.html#a4fc7b6b6ac5025325c7e68fb56fbeef8" title="A pure virtual member." alt="" coords="555,376,721,403"/>
+<area shape="rect" id="node13" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="569,427,707,453"/>
+<area shape="rect" id="node14" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="561,477,715,504"/>
+<area shape="rect" id="node15" href="$class_c_vertex.html#a060e712c827ad967dc5074539ca84d39" title="Get the value of the coordinate variation due to a surface modification." alt="" coords="557,528,719,555"/>
+<area shape="rect" id="node16" href="$class_c_geometry.html#ab9320eb94dc9da5fa75194c90d5bf54d" title="Compute the intersection between a segment and a plane." alt="" coords="525,579,751,621"/>
+<area shape="rect" id="node4" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="799,81,1013,108"/>
+</map>

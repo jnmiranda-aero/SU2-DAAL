@@ -1,0 +1,5 @@
+<map id="CMultiGridGeometry::GeometricalCheck" name="CMultiGridGeometry::GeometricalCheck">
+<area shape="rect" id="node1" title="Determine if a can be agglomerated using geometrical criteria." alt="" coords="5,23,161,65"/>
+<area shape="rect" id="node2" href="$class_c_config.html#ab6a2664db3de43ee2a19a6991501099b" title="Get the volume of the whole domain using the fine grid, this value is common for all the grids in the..." alt="" coords="209,5,412,32"/>
+<area shape="rect" id="node3" href="$class_c_point.html#a3c526a15e767c7de9cf163800aa581e5" title="Get area or volume of the control volume." alt="" coords="239,56,383,83"/>
+</map>

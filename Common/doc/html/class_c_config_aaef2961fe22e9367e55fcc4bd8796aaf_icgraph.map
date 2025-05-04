@@ -1,0 +1,13 @@
+<map id="CConfig::GetDeadLoad" name="CConfig::GetDeadLoad">
+<area shape="rect" id="node1" title="Decide whether to apply dead loads to the model." alt="" coords="273,233,441,260"/>
+<area shape="rect" id="node2" href="$class_c_f_e_a_elasticity.html#ad1c14749a7ca01a53ad55fe1f7297c06" title="Constructor of the class." alt="" coords="7,5,224,32"/>
+<area shape="rect" id="node3" href="$class_c_f_e_a_solver.html#a1d4c7d17d9c7143d3079fc78fae1599d" title=" " alt="" coords="25,56,205,83"/>
+<area shape="rect" id="node4" href="$class_c_f_e_a_variable.html#a09ef1aff3a2ba679fbcc5799e2bdcd98" title=" " alt="" coords="14,107,217,133"/>
+<area shape="rect" id="node5" href="$class_c_h_e_x_a8.html#ac4c1bc44d350bab7e74e30f144f9314c" title=" " alt="" coords="47,157,183,184"/>
+<area shape="rect" id="node6" href="$class_c_q_u_a_d4.html#a291cce01563badf0356a3574edc93e05" title=" " alt="" coords="44,208,187,235"/>
+<area shape="rect" id="node7" href="$class_c_t_e_t_r_a1.html#a7805b90b918ce30140b47974f8145c23" title=" " alt="" coords="41,259,189,285"/>
+<area shape="rect" id="node8" href="$class_c_t_r_i_a1.html#a277bef7221e15a650c31c6a68668486d" title=" " alt="" coords="53,309,177,336"/>
+<area shape="rect" id="node9" href="$class_c_f_e_a_solver.html#a78a7858bc1a78f4aa8c8ed748f270966" title="Iterate using an implicit Generalized Alpha solver." alt="" coords="5,361,225,402"/>
+<area shape="rect" id="node10" href="$class_c_f_e_a_solver.html#aa83ba08ae1eb93bd08512fd4b212d7bc" title="Iterate using an implicit Newmark solver." alt="" coords="7,426,224,467"/>
+<area shape="rect" id="node11" href="$class_c_f_e_a_solver.html#a2171424e52ccd32f17bcbd4972b1fe15" title="Set residuals to zero." alt="" coords="17,492,213,519"/>
+</map>

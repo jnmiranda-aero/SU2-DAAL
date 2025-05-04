@@ -1,0 +1,16 @@
+<map id="CPhysicalGeometry::SetMaxLength" name="CPhysicalGeometry::SetMaxLength">
+<area shape="rect" id="node1" title="Set the maximum cell&#45;center to cell&#45;center distance for CVs." alt="" coords="5,125,163,166"/>
+<area shape="rect" id="node2" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="223,5,356,32"/>
+<area shape="rect" id="node3" href="$class_c_point.html#adbb78f3c01711ed0349897f845e3f2d8" title="Get the number of points that compose the control volume." alt="" coords="221,56,357,83"/>
+<area shape="rect" id="node4" href="$class_c_point.html#aab08fdab4e59c01d822afca5335a86af" title="Get all the points that compose the control volume." alt="" coords="225,107,353,133"/>
+<area shape="rect" id="node5" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="212,157,367,184"/>
+<area shape="rect" id="node6" href="$class_c_physical_geometry.html#a56f21f7a9bc5c17dd5b602da9a54d264" title="Perform the MPI communication for the max grid spacing." alt="" coords="211,209,368,250"/>
+<area shape="rect" id="node14" href="$class_c_point.html#aa558a3991602edf85988ba6c21d167a1" title="Set the max cell&#45;center to cell&#45;center length." alt="" coords="439,343,604,369"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="447,9,595,50"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a778a77ff2b9e1d359eab9b2d2106fa81" title="Get the send&#45;receive information for a marker val_marker." alt="" coords="447,74,595,115"/>
+<area shape="rect" id="node9" href="$class_c_point.html#a786e7c18e968c5e833b41c60ed427a35" title="Get the maximum cell&#45;center to cell&#45;center length." alt="" coords="438,140,605,167"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="431,191,611,217"/>
+<area shape="rect" id="node11" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="452,241,591,268"/>
+<area shape="rect" id="node12" href="$class_c_base_m_p_i_wrapper.html#af195343eb82f29c4b3a190c928251765" title=" " alt="" coords="416,292,627,319"/>
+<area shape="rect" id="node13" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="675,292,889,319"/>
+</map>

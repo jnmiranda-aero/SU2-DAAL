@@ -1,0 +1,5 @@
+<map id="CGeometry::GetCustomBoundaryHeatFlux" name="CGeometry::GetCustomBoundaryHeatFlux">
+<area shape="rect" id="node1" title="Get the value of the customized normal heat flux at a specified vertex on a specified marker." alt="" coords="271,27,509,69"/>
+<area shape="rect" id="node2" href="$class_c_n_s_solver.html#a94ecf958fefe5b9f6135ac0e14d1ea80" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="5,5,223,32"/>
+<area shape="rect" id="node3" href="$class_c_multi_grid_geometry.html#a21b78ab1c09adca5413fb21d3e7d22e6" title="Set a representative wall normal heat flux of the agglomerated control volume on a particular boundar..." alt="" coords="15,57,213,98"/>
+</map>

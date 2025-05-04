@@ -1,0 +1,6 @@
+<map id="CSolver::Friction_Forces" name="CSolver::Friction_Forces">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="483,46,660,73"/>
+<area shape="rect" id="node2" href="$class_c_multi_grid_integration.html#ae04d531fe8905ce776a68bb2005cda22" title="Compute the non&#45;dimensional parameters." alt="" coords="216,5,435,47"/>
+<area shape="rect" id="node4" href="$class_c_f_e_m___d_g___integration.html#a514483f76eeed4326b65f2fddb4b0e19" title="Do the numerical integration (implicit) of the turbulence solver." alt="" coords="243,71,407,112"/>
+<area shape="rect" id="node3" href="$class_c_multi_grid_integration.html#a4d65b648b6d17d396d2f3432f89e7f51" title="This subroutine calls the MultiGrid_Cycle and also prepare the multigrid levels and the monitoring." alt="" coords="5,5,168,47"/>
+</map>

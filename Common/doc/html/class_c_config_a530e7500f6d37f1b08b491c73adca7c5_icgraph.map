@@ -1,0 +1,11 @@
+<map id="CConfig::SetModVel_FreeStream" name="CConfig::SetModVel_FreeStream">
+<area shape="rect" id="node1" title="Set the Froude number for free surface problems." alt="" coords="608,137,757,178"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="267,56,551,83"/>
+<area shape="rect" id="node5" href="$class_c_inc_euler_solver.html#a2cffaa24417cb3803d36d38b3874d6d0" title="Set the solver nondimensionalization." alt="" coords="257,144,560,171"/>
+<area shape="rect" id="node8" href="$class_c_f_e_m___d_g___euler_solver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="308,210,509,251"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#ae1e74218b4e943111b100d7ddcbd4db9" title=" " alt="" coords="9,5,205,32"/>
+<area shape="rect" id="node4" href="$class_c_n_s_solver.html#a2a8ad49c42b4546696e631cf44b7788b" title=" " alt="" coords="24,56,191,83"/>
+<area shape="rect" id="node6" href="$class_c_inc_euler_solver.html#a91f644b8f9a00215bac5bcd31dfc06d8" title=" " alt="" coords="11,107,204,149"/>
+<area shape="rect" id="node7" href="$class_c_inc_n_s_solver.html#a82152ac7e91fb1c5c073d98a1f08e2aa" title=" " alt="" coords="5,173,209,200"/>
+<area shape="rect" id="node9" href="$class_c_f_e_m___d_g___euler_solver.html#a70d30ef9e7cd7620d54ec73f4b1ed28c" title=" " alt="" coords="20,225,195,266"/>
+</map>

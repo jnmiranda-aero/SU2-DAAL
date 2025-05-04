@@ -1,0 +1,5 @@
+<map id="CConfig::SetMGLevels" name="CConfig::SetMGLevels">
+<area shape="rect" id="node1" title="Set the number of multigrid levels." alt="" coords="217,46,383,73"/>
+<area shape="rect" id="node2" href="$class_c_physical_geometry.html#a61e2a780018ff5d01ff1c81232158c55" title="Check the mesh for periodicity and deactivate multigrid if periodicity is found." alt="" coords="9,5,166,47"/>
+<area shape="rect" id="node3" href="$class_c_multi_grid_geometry.html#a15c29a11f85cce8f38d2403fc8fc2826" title="Constructor of the class." alt="" coords="5,71,169,112"/>
+</map>

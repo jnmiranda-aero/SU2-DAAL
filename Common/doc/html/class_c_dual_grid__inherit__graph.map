@@ -1,0 +1,7 @@
+<map id="CDualGrid" name="CDualGrid">
+<area shape="rect" id="node1" title="Class for controlling the dual volume definition. The dual volume is compose by three main elements: ..." alt="" coords="81,5,169,32"/>
+<area shape="rect" id="node2" href="$class_c_edge.html" title="Class for defining an edge." alt="" coords="5,80,68,107"/>
+<area shape="rect" id="node3" href="$class_c_point.html" title="Class for point definition (including control volume definition)." alt="" coords="93,80,157,107"/>
+<area shape="rect" id="node4" href="$class_c_vertex.html" title="Class for vertex definition (equivalent to edges, but for the boundaries)." alt="" coords="181,80,255,107"/>
+<area shape="rect" id="node5" href="$class_c_turbo_vertex.html" title="Class for vertex definition for turbomachinery (equivalent to edges, but for the boundaries)." alt="" coords="164,155,272,181"/>
+</map>

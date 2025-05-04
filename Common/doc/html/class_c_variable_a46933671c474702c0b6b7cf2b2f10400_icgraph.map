@@ -1,0 +1,6 @@
+<map id="CVariable::GetMax_Lambda_Visc" name="CVariable::GetMax_Lambda_Visc">
+<area shape="rect" id="node1" title="Get the value of the maximum eigenvalue for the viscous terms of the PDE." alt="" coords="284,56,520,83"/>
+<area shape="rect" id="node2" href="$class_c_n_s_solver.html#a340a62e197f7386736db85967e586804" title="Compute the time step for solving the Navier&#45;Stokes equations with turbulence model." alt="" coords="27,5,215,32"/>
+<area shape="rect" id="node3" href="$class_c_inc_n_s_solver.html#a50e3b8e05bda6be8be79b9068c06bd4e" title="Compute the time step for solving the Navier&#45;Stokes equations with turbulence model." alt="" coords="17,56,224,83"/>
+<area shape="rect" id="node4" href="$class_c_heat_solver_f_v_m.html#a5d2dc86ae38a3f979cfce8bf7bccdaa8" title="A virtual member." alt="" coords="5,107,236,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CEulerVariable::GetDensity" name="CEulerVariable::GetDensity">
+<area shape="rect" id="node1" title="Get the density of the flow." alt="" coords="251,85,449,112"/>
+<area shape="rect" id="node2" href="$class_c_euler_variable.html#ac6e9c1b3cd71ca07561905483f52a111" title="Set all the primitive variables for compressible flows." alt="" coords="5,5,203,32"/>
+<area shape="rect" id="node3" href="$class_c_n_s_variable.html#a45be83bb76a5dbe8ee26c7726cf70ded" title="Set all the primitive variables for compressible flows." alt="" coords="13,56,195,83"/>
+<area shape="rect" id="node4" href="$class_c_n_s_variable.html#a9a33a8e7f618ddfcf2635cc19575fe3f" title="Set the new solution for Roe Dissipation." alt="" coords="26,107,182,149"/>
+<area shape="rect" id="node5" href="$class_c_n_s_variable.html#ad932a59dbfa9424e275f61e729160640" title="Set the new solution for Roe Dissipation." alt="" coords="26,173,182,214"/>
+</map>

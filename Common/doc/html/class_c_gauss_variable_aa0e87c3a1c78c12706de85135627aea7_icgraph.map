@@ -1,0 +1,9 @@
+<map id="CGaussVariable::GetGradNi_xj" name="CGaussVariable::GetGradNi_xj">
+<area shape="rect" id="node1" title=" " alt="" coords="535,137,753,163"/>
+<area shape="rect" id="node2" href="$class_c_element.html#abcf035757524bc73f142bf28f8049c6f" title="Retrieve the value of the gradient of the shape functions respect to the current configuration." alt="" coords="303,111,479,138"/>
+<area shape="rect" id="node7" href="$class_c_element.html#ab9ef6bee670fa046eeee9699136a0f2e" title="Retrieve the value of the gradient of the shape functions respect to the current configuration (subin..." alt="" coords="296,162,487,189"/>
+<area shape="rect" id="node3" href="$class_c_f_e_a_nonlinear_elasticity.html#a52921a8c79aa4100c3b527fd198d8a2e" title="A virtual member to compute the averaged nodal stresses." alt="" coords="5,5,248,47"/>
+<area shape="rect" id="node4" href="$class_c_f_e_a_nonlinear_elasticity.html#a7c0ae558487619a2ed8108a4aba99b79" title="A virtual member to compute the pressure term in incompressible or nearly&#45;incompressible structural p..." alt="" coords="9,71,244,112"/>
+<area shape="rect" id="node5" href="$class_c_f_e_a_nonlinear_elasticity.html#a6b0e987111626e8331b4d146f90fd72c" title="A virtual member to compute the nodal stress term in non&#45;linear structural problems." alt="" coords="20,136,233,177"/>
+<area shape="rect" id="node6" href="$class_c_f_e_a_nonlinear_elasticity.html#acf70648957180bb746a7717526891bb5" title="A virtual member to compute the tangent matrix in structural problems." alt="" coords="29,201,225,243"/>
+</map>

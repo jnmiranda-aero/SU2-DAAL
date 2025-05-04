@@ -1,0 +1,4 @@
+<map id="CEulerSolver::SetPreconditioner" name="CEulerSolver::SetPreconditioner">
+<area shape="rect" id="node1" title="Compute the preconditioner for convergence acceleration by Roe&#45;Turkel method." alt="" coords="248,13,476,39"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a4e8277fc44dc97c8d73fbe3347204372" title="Update the solution using an implicit Euler scheme." alt="" coords="5,5,200,47"/>
+</map>

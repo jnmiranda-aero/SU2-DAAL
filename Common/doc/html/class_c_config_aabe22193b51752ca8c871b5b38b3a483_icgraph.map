@@ -1,0 +1,7 @@
+<map id="CConfig::GetMUSCL_Flow" name="CConfig::GetMUSCL_Flow">
+<area shape="rect" id="node1" title="Get if the upwind scheme used MUSCL or not." alt="" coords="276,85,463,112"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="15,5,219,32"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#aabd902b10cc9b41b6b2c406efba0ac41" title="Compute primitive variables and their gradients." alt="" coords="5,56,228,83"/>
+<area shape="rect" id="node4" href="$class_c_euler_solver.html#a9cb1da16bea732300854a351ebca2ed3" title="Compute the spatial integration using a upwind scheme." alt="" coords="35,107,198,149"/>
+<area shape="rect" id="node5" href="$class_c_inc_euler_solver.html#a935da79a4e1b1fe9c59bc86024164256" title="Compute the spatial integration using a upwind scheme." alt="" coords="26,173,207,214"/>
+</map>

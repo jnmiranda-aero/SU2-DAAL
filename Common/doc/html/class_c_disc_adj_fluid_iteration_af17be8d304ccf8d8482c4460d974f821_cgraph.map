@@ -1,0 +1,6 @@
+<map id="CDiscAdjFluidIteration::RegisterOutput" name="CDiscAdjFluidIteration::RegisterOutput">
+<area shape="rect" id="node1" title="Initializes the adjoints of the output variables of the fluid iteration." alt="" coords="5,64,172,105"/>
+<area shape="rect" id="node2" href="$class_c_config.html#adb146862f57545364350419287581bbc" title="Provides information about the way in which the turbulence will be treated by the disc...." alt="" coords="237,5,383,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="220,71,400,98"/>
+<area shape="rect" id="node4" href="$class_c_solver.html#a9e781aa7c9f99e5b2ec8c98f8aaae710" title="A virtual member." alt="" coords="221,122,399,149"/>
+</map>

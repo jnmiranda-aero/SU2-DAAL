@@ -1,0 +1,7 @@
+<map id="CUpwFDSInc_Flow::CUpwFDSInc_Flow" name="CUpwFDSInc_Flow::CUpwFDSInc_Flow">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,101,276,127"/>
+<area shape="rect" id="node2" href="$class_c_config.html#abb2ba1ecf8988532ce9cecb88c206d28" title="Flag for whether to solve the energy equation for incompressible flows." alt="" coords="353,5,501,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="324,71,531,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a6ac5dedb352b8312970fe6102e5547f6" title="Option to define the density model for incompressible flows." alt="" coords="333,123,522,164"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a20e5fd7b43cfd2bf2bcf5137f12bc635" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="333,188,522,229"/>
+</map>

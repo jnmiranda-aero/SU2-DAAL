@@ -1,0 +1,6 @@
+<map id="CConfig::GetDamp_Correc_Prolong" name="CConfig::GetDamp_Correc_Prolong">
+<area shape="rect" id="node1" title="Value of the damping factor for the correction prolongation." alt="" coords="677,5,868,47"/>
+<area shape="rect" id="node2" href="$class_c_multi_grid_integration.html#a5d0d450972f5c004596b3f0abdae3015" title="Set the value of the corrected fine grid solution." alt="" coords="427,5,629,47"/>
+<area shape="rect" id="node3" href="$class_c_multi_grid_integration.html#a98121aa0de6ddb0f83b41a2cad021e37" title="Perform a Full&#45;Approximation Storage (FAS) Multigrid." alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node4" href="$class_c_multi_grid_integration.html#a4d65b648b6d17d396d2f3432f89e7f51" title="This subroutine calls the MultiGrid_Cycle and also prepare the multigrid levels and the monitoring." alt="" coords="5,5,168,47"/>
+</map>

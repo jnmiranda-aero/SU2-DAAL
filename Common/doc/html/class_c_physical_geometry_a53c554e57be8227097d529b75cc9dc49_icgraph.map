@@ -1,0 +1,4 @@
+<map id="CPhysicalGeometry::DistributeMarkerTags" name="CPhysicalGeometry::DistributeMarkerTags">
+<area shape="rect" id="node1" title="Broadcast the marker tags for all boundaries from the master rank to all other ranks." alt="" coords="211,5,371,47"/>
+<area shape="rect" id="node2" href="$class_c_physical_geometry.html#a5060b218ee34c7fe7ccfbee03e912fd6" title="Accepts a geometry container holding a linearly partitioned grid with coloring performed by ParMETIS,..." alt="" coords="5,5,163,47"/>
+</map>

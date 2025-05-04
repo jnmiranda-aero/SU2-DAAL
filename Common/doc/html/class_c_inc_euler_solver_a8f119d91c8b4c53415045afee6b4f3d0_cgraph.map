@@ -1,0 +1,28 @@
+<map id="CIncEulerSolver::Centered_Residual" name="CIncEulerSolver::Centered_Residual">
+<area shape="rect" id="node1" title="Compute the spatial integration using a centered scheme." alt="" coords="5,597,196,638"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a8c2c7f8ca02d0e8685373e38ca29d9d0" title="Adds the specified block to the sparse matrix." alt="" coords="279,5,445,32"/>
+<area shape="rect" id="node4" href="$class_c_sys_vector.html#a7ef472e160b4bfee4fac427e5c08022b" title="Add val_residual to the residual." alt="" coords="280,56,444,83"/>
+<area shape="rect" id="node5" href="$class_c_numerics.html#abe734316e0047f463f059fd77a281958" title="Compute the numerical residual." alt="" coords="254,107,470,133"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="259,157,465,184"/>
+<area shape="rect" id="node7" href="$class_c_point.html#a62ec636f4a05ac578b582a053e8553f9" title="Get the value of the grid velocity at the point." alt="" coords="291,208,433,235"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a130e07727d19c4018ead72790f5ede0b" title="Get the kind of center convective numerical scheme for the flow equations." alt="" coords="244,259,480,285"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a20e5fd7b43cfd2bf2bcf5137f12bc635" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="267,310,457,351"/>
+<area shape="rect" id="node10" href="$class_c_variable.html#aa186a3d466088edd1311f398fbb137de" title="Get the value of the spectral radius." alt="" coords="279,376,445,403"/>
+<area shape="rect" id="node11" href="$class_c_geometry.html#a7d6e1e1d1e46da8f55ecbe1a9380530a" title="Get number of edges." alt="" coords="279,427,445,453"/>
+<area shape="rect" id="node12" href="$class_c_point.html#a73ffb61e70753ea46e80edba22cf39a4" title="Get the number of neighbor of a point." alt="" coords="281,477,443,504"/>
+<area shape="rect" id="node13" href="$class_c_edge.html#aee33b61d646e3fe59a4e23284ab1bf33" title="Get the nodes of the edge." alt="" coords="298,528,426,555"/>
+<area shape="rect" id="node14" href="$class_c_edge.html#ada210a6f0643f444e7e491fc4ed9e662" title="Copy the the normal vector of a face." alt="" coords="291,579,433,605"/>
+<area shape="rect" id="node15" href="$class_c_variable.html#a5fc23761cf67841ab946fc6e8b4f019d" title="A virtual member." alt="" coords="275,629,449,656"/>
+<area shape="rect" id="node16" href="$class_c_variable.html#a25c9b3e6ef25a81fe73c8c4d0dae5984" title="Get the pressure sensor." alt="" coords="283,680,441,707"/>
+<area shape="rect" id="node17" href="$class_c_variable.html#a09ba6488c2b9270a05a51a2432ac2b22" title="Get the undivided laplacian of the solution." alt="" coords="271,731,453,773"/>
+<area shape="rect" id="node18" href="$class_c_numerics.html#ae15b9e4ad2008444365109c434e24207" title="Set the velocity of the computational grid." alt="" coords="277,797,447,824"/>
+<area shape="rect" id="node19" href="$class_c_numerics.html#a0b91fdb82ec676ef7426b8e2b963cba3" title="Set the value of the spectral radius." alt="" coords="275,848,449,875"/>
+<area shape="rect" id="node20" href="$class_c_numerics.html#a3a325233fabba63421dd5d0596b6a7ca" title="Set the number of neighbor to a point." alt="" coords="271,899,453,925"/>
+<area shape="rect" id="node21" href="$class_c_numerics.html#a41903d97957f351cd9ee63ca404985b1" title="Set the value of the normal vector to the face between two points." alt="" coords="277,949,447,976"/>
+<area shape="rect" id="node22" href="$class_c_numerics.html#af72b17d397adf09beed2e99e2daf895c" title="Set the value of the primitive variables." alt="" coords="271,1000,453,1027"/>
+<area shape="rect" id="node23" href="$class_c_numerics.html#a577baa8846d297140f03ef9729368f73" title="Set the value of the pressure sensor." alt="" coords="279,1051,445,1077"/>
+<area shape="rect" id="node24" href="$class_c_numerics.html#a8818257f545fe207ff69f6c0337f3b26" title="Set the value of undivided laplacian." alt="" coords="268,1102,456,1143"/>
+<area shape="rect" id="node25" href="$class_c_sys_matrix.html#a0c6e3335f161b70247ac06e22eee6dfc" title="Subtracts the specified block to the sparse matrix." alt="" coords="265,1168,459,1195"/>
+<area shape="rect" id="node26" href="$class_c_sys_vector.html#aa2de9022590ea6b06950ef6b8afb77a2" title="Subtract val_residual to the residual." alt="" coords="265,1219,459,1245"/>
+<area shape="rect" id="node3" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="528,587,683,613"/>
+</map>

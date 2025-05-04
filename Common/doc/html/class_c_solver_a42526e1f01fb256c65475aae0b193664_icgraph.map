@@ -1,0 +1,9 @@
+<map id="CSolver::GetnPrimVar" name="CSolver::GetnPrimVar">
+<area shape="rect" id="node1" title="Get the number of variables of the problem." alt="" coords="421,143,584,170"/>
+<area shape="rect" id="node2" href="$class_c_turb_s_a_solver.html#a4311973e232f0f0d1ddd661f52e47531" title="Impose the fluid interface boundary condition using tranfer data." alt="" coords="186,5,369,47"/>
+<area shape="rect" id="node3" href="$class_c_turb_s_s_t_solver.html#a59752956d49ea64cd4a06f52e1b5088b" title="Impose the interface state across sliding meshes." alt="" coords="203,71,352,112"/>
+<area shape="rect" id="node4" href="$class_c_transfer___sliding_interface.html#a6b086aa8bc9c17a76f3764e729204e56" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="181,136,373,177"/>
+<area shape="rect" id="node5" href="$class_c_driver.html#aa4245f93985696ee15a781c5d64bab2f" title="Definition and allocation of all interface classes." alt="" coords="209,201,346,243"/>
+<area shape="rect" id="node7" href="$class_c_transfer___sliding_interface.html#a3c82eb1110e1bc03702901db0cfd4a3a" title="Set the variable that has been received from the target mesh into the target mesh." alt="" coords="181,267,373,308"/>
+<area shape="rect" id="node6" href="$class_c_driver.html#afac169e386a89af2a52be8902abb27f2" title="Constructor of the class." alt="" coords="5,209,133,235"/>
+</map>

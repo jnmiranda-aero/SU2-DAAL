@@ -1,0 +1,17 @@
+<map id="CConfig::GetMarker_All_TurbomachineryFlag" name="CConfig::GetMarker_All_TurbomachineryFlag">
+<area shape="rect" id="node1" title="Get the Turbomachinery flag information for a marker val_marker." alt="" coords="783,337,968,378"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#aa4c3988e3ce0c18460b5c069650c57b0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="534,5,705,32"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#a0066305803a18511fb89b8951f4e4866" title="Impose the boundary condition using characteristic recostruction." alt="" coords="504,56,735,83"/>
+<area shape="rect" id="node4" href="$class_c_physical_geometry.html#a9aa84f4877184465391ad944264e2c12" title="Set number of span wise level for turbomachinery computation." alt="" coords="541,107,698,149"/>
+<area shape="rect" id="node5" href="$class_c_physical_geometry.html#a217e5337523ba85579c8a3d209bf25d9" title="Set turbo boundary vertex." alt="" coords="521,173,718,214"/>
+<area shape="rect" id="node6" href="$class_c_euler_solver.html#ab65fe699472aae15ef7ebdad60575875" title="It gathers into the master node average quantities at inflow and outflow needed for turbomachinery an..." alt="" coords="523,238,715,279"/>
+<area shape="rect" id="node7" href="$class_c_euler_solver.html#ab13b628bfb33a1701ff0807195f953ef" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="527,303,711,345"/>
+<area shape="rect" id="node8" href="$class_c_euler_solver.html#a33402619b740bfe68350c50bba14c6ab" title="It computes Fourier transformation for the needed quantities along the pitch for each span in turboma..." alt="" coords="527,369,711,410"/>
+<area shape="rect" id="node9" href="$class_c_transfer.html#a277c9ad0deda676c07a2042c404e13fd" title="Transfer pre&#45;processing for the mixing plane inteface." alt="" coords="528,434,711,475"/>
+<area shape="rect" id="node12" href="$class_c_physical_geometry.html#a9b42df38be11e404f3f2f8e729d0af74" title="Set turbo boundary vertex." alt="" coords="541,499,698,541"/>
+<area shape="rect" id="node13" href="$class_c_physical_geometry.html#a51481bb8173c15758a94838d29c7f0c7" title="Set turbo boundary vertex." alt="" coords="541,565,698,606"/>
+<area shape="rect" id="node14" href="$class_c_euler_solver.html#ab408049d3b4fecc224653176c8d7885a" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="519,630,720,671"/>
+<area shape="rect" id="node15" href="$class_c_physical_geometry.html#af127c1132d94b681e79427672637c0fa" title="update turbo boundary vertex." alt="" coords="541,695,698,737"/>
+<area shape="rect" id="node10" href="$class_c_driver.html#a62ce0ec9ca8942aae6ee6bc9b5211759" title="Initiate value for static mesh movement such as the gridVel for the ROTATING frame." alt="" coords="181,441,456,468"/>
+<area shape="rect" id="node11" href="$class_c_driver.html#afac169e386a89af2a52be8902abb27f2" title="Constructor of the class." alt="" coords="5,441,133,468"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CVariable::AddRes_TruncError" name="CVariable::AddRes_TruncError">
+<area shape="rect" id="node1" title="Add a value to the truncation error." alt="" coords="655,46,868,73"/>
+<area shape="rect" id="node2" href="$class_c_multi_grid_integration.html#a3bfd97747d2b461a40b117d50fa4e0ec" title="Compute the forcing term." alt="" coords="435,5,598,47"/>
+<area shape="rect" id="node5" href="$class_c_multi_grid_integration.html#acc951bf952abb2cc8b6eaceb1b4a37f3" title="Compute truncation error in the coarse grid using the fine grid information." alt="" coords="427,71,607,112"/>
+<area shape="rect" id="node3" href="$class_c_multi_grid_integration.html#a98121aa0de6ddb0f83b41a2cad021e37" title="Perform a Full&#45;Approximation Storage (FAS) Multigrid." alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node4" href="$class_c_multi_grid_integration.html#a4d65b648b6d17d396d2f3432f89e7f51" title="This subroutine calls the MultiGrid_Cycle and also prepare the multigrid levels and the monitoring." alt="" coords="5,5,168,47"/>
+</map>

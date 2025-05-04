@@ -1,0 +1,10 @@
+<map id="CMultiGridIntegration::SetProlongated_Correction" name="CMultiGridIntegration::SetProlongated_Correction">
+<area shape="rect" id="node1" title="Set the value of the corrected fine grid solution." alt="" coords="5,166,208,207"/>
+<area shape="rect" id="node2" href="$class_c_sys_vector.html#a8e537cf18b7e0ce45f7107c41753072c" title="Get the value of the residual." alt="" coords="284,5,447,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a27d1ff9d40940e3617d1d8d18ae9fbc6" title="Value of the damping factor for the correction prolongation." alt="" coords="270,57,461,98"/>
+<area shape="rect" id="node4" href="$class_c_geometry.html#a4fc7de3bff7b6f8c35717016d6f8fcb2" title="Get number of real points (that belong to the domain)." alt="" coords="256,123,475,149"/>
+<area shape="rect" id="node5" href="$class_c_solver.html#a65c22046b0cf1938ba22648912d04680" title="Get the number of variables of the problem." alt="" coords="299,173,431,200"/>
+<area shape="rect" id="node6" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="281,224,449,251"/>
+<area shape="rect" id="node7" href="$class_c_solver.html#ac25a16cb69ee66bca6048336dedbb4cd" title="Set number of linear solver iterations." alt="" coords="269,275,461,301"/>
+<area shape="rect" id="node8" href="$class_c_variable.html#a30d4ca1a8a08f748c4a2229a8cce9786" title="Set the value of the solution." alt="" coords="282,325,449,352"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="CPhysicalGeometry::DetermineFEMConstantJacobiansAndLenScale" name="CPhysicalGeometry::DetermineFEMConstantJacobiansAndLenScale">
+<area shape="rect" id="node1" title="Determine whether or not the Jacobians of the elements and faces are constant and a length scale of t..." alt="" coords="5,260,244,316"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="311,5,492,32"/>
+<area shape="rect" id="node4" href="$class_c_blas_structure.html#a40a585307895af828a7f51cd0ccbf81d" title="Function, which carries out a dense matrix product. It is a limited version of the BLAS gemm function..." alt="" coords="317,56,485,83"/>
+<area shape="rect" id="node7" href="$class_c_primal_grid.html#ae49bcd4850d0a6caa787a994a0bd17b8" title="Virtual function, that must be overwritten by the derived class, if needed." alt="" coords="294,107,509,149"/>
+<area shape="rect" id="node8" href="$class_c_point.html#ab546170a5a03ef210a75fc5531910050" title="Get the global index in a parallel computation." alt="" coords="315,173,488,200"/>
+<area shape="rect" id="node9" href="$class_c_primal_grid.html#a4fc7b6b6ac5025325c7e68fb56fbeef8" title="A pure virtual member." alt="" coords="319,224,484,251"/>
+<area shape="rect" id="node10" href="$class_c_primal_grid.html#acf56c1acba098b0ba664efee06d9afd4" title="Virtual function to make available the polynomial degree of the grid." alt="" coords="303,275,499,301"/>
+<area shape="rect" id="node11" href="$class_c_primal_grid.html#adb676897e7cf4a83ceb83065e7c6a04f" title="A pure virtual member." alt="" coords="304,325,499,352"/>
+<area shape="rect" id="node12" href="$class_c_primal_grid.html#acfc0e60055323befade36d55b97665c8" title="Initialize the array, which stores whether or not the faces have a constant Jacobian." alt="" coords="292,377,511,418"/>
+<area shape="rect" id="node13" href="$class_c_primal_grid.html#a227e8b17e0c0226696064785b2d5f0fc" title="Virtual function to set the value of JacobianConsideredConstant." alt="" coords="309,442,493,483"/>
+<area shape="rect" id="node14" href="$class_c_primal_grid.html#a0c4ca6939b880fa7383024cea5a2026e" title="Set whether or not the Jacobian of the given face is considered constant." alt="" coords="309,507,493,549"/>
+<area shape="rect" id="node15" href="$class_c_primal_grid.html#a194a88b52edf52db26f10911124c923a" title="Set the length scale of the element." alt="" coords="297,573,505,600"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="559,5,744,32"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a2628e094b67a6d5cb410710aa00fa69b" title="Start the timer for profiling subroutines." alt="" coords="573,56,729,83"/>
+<area shape="rect" id="node6" href="$class_c_config.html#ae8d24548bd977c6a76e06ed9814418bb" title="Stop the timer for the GEMM profiling and store results." alt="" coords="572,107,731,133"/>
+</map>

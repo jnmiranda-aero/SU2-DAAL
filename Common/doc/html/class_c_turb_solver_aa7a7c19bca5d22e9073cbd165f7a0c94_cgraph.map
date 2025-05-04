@@ -1,0 +1,20 @@
+<map id="CTurbSolver::Viscous_Residual" name="CTurbSolver::Viscous_Residual">
+<area shape="rect" id="node1" title="Compute the viscous residuals for the turbulent equation." alt="" coords="5,394,163,435"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a8c2c7f8ca02d0e8685373e38ca29d9d0" title="Adds the specified block to the sparse matrix." alt="" coords="241,5,407,32"/>
+<area shape="rect" id="node4" href="$class_c_sys_vector.html#a7ef472e160b4bfee4fac427e5c08022b" title="Add val_residual to the residual." alt="" coords="242,56,406,83"/>
+<area shape="rect" id="node5" href="$class_c_numerics.html#abe734316e0047f463f059fd77a281958" title="Compute the numerical residual." alt="" coords="216,107,432,133"/>
+<area shape="rect" id="node6" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="257,157,391,184"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a40aaed07fc5844d505d2c0b7076594d7" title="Get the kind of the turbulence model." alt="" coords="241,209,407,250"/>
+<area shape="rect" id="node8" href="$class_c_geometry.html#a7d6e1e1d1e46da8f55ecbe1a9380530a" title="Get number of edges." alt="" coords="241,275,407,301"/>
+<area shape="rect" id="node9" href="$class_c_edge.html#aee33b61d646e3fe59a4e23284ab1bf33" title="Get the nodes of the edge." alt="" coords="260,325,388,352"/>
+<area shape="rect" id="node10" href="$class_c_edge.html#ada210a6f0643f444e7e491fc4ed9e662" title="Copy the the normal vector of a face." alt="" coords="253,376,395,403"/>
+<area shape="rect" id="node11" href="$class_c_numerics.html#a5fa1089c7228d6d49677a633bbe3c890" title="Set coordinates of the points." alt="" coords="244,427,404,453"/>
+<area shape="rect" id="node12" href="$class_c_numerics.html#a24166c99ca7f8f2d66e957a15519e7a1" title="Set the value of the first blending function." alt="" coords="227,477,421,504"/>
+<area shape="rect" id="node13" href="$class_c_numerics.html#a41903d97957f351cd9ee63ca404985b1" title="Set the value of the normal vector to the face between two points." alt="" coords="239,528,409,555"/>
+<area shape="rect" id="node14" href="$class_c_numerics.html#af72b17d397adf09beed2e99e2daf895c" title="Set the value of the primitive variables." alt="" coords="233,579,415,605"/>
+<area shape="rect" id="node15" href="$class_c_numerics.html#a694708b330c1e25e59f3b3ee8be64fbb" title="Set the value of the turbulent variable." alt="" coords="239,629,409,656"/>
+<area shape="rect" id="node16" href="$class_c_numerics.html#a42a39ae6557a400a4d811820c61de3cb" title="Set the gradient of the turbulent variables." alt="" coords="211,680,437,707"/>
+<area shape="rect" id="node17" href="$class_c_sys_matrix.html#a0c6e3335f161b70247ac06e22eee6dfc" title="Subtracts the specified block to the sparse matrix." alt="" coords="227,731,421,757"/>
+<area shape="rect" id="node18" href="$class_c_sys_vector.html#aa2de9022590ea6b06950ef6b8afb77a2" title="Subtract val_residual to the residual." alt="" coords="227,781,421,808"/>
+<area shape="rect" id="node3" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="485,368,640,395"/>
+</map>

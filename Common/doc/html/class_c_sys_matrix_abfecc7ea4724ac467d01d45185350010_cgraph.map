@@ -1,0 +1,4 @@
+<map id="CSysMatrix::ProdBlockVector" name="CSysMatrix::ProdBlockVector">
+<area shape="rect" id="node1" title="Performs the product of the block (i, j) by vector vec." alt="" coords="5,5,216,32"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a776200533f4cc0ede662f594a329585c" title="Copies the block (i, j) of the matrix&#45;by&#45;blocks structure in the internal variable *block." alt="" coords="264,5,427,32"/>
+</map>

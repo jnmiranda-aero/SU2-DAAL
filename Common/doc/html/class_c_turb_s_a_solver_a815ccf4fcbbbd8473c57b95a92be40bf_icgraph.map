@@ -1,0 +1,5 @@
+<map id="CTurbSASolver::BC_ActDisk" name="CTurbSASolver::BC_ActDisk">
+<area shape="rect" id="node1" title="Impose an actuator disk inlet boundary condition." alt="" coords="253,46,453,73"/>
+<area shape="rect" id="node2" href="$class_c_turb_s_a_solver.html#af4b390995450e22f614cda369885d718" title="Impose an actuator disk inlet boundary condition." alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node3" href="$class_c_turb_s_a_solver.html#aa4e910325d22637e43fe9da55d6ceb79" title="Impose an actuator disk outlet boundary condition." alt="" coords="5,71,205,112"/>
+</map>

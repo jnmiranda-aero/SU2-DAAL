@@ -1,0 +1,8 @@
+<map id="CDiscAdjSolver::RegisterTranspiration" name="CDiscAdjSolver::RegisterTranspiration">
+<area shape="rect" id="node1" title="Registers transpiration velocities on the tape. Called while tape is active." alt="" coords="5,74,188,115"/>
+<area shape="rect" id="node2" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="278,5,425,32"/>
+<area shape="rect" id="node3" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="282,56,421,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a8f2c6f68c1e3756237596a7274e713f4" title="Get the value of the reference velocity for non&#45;dimensionalization." alt="" coords="259,107,443,133"/>
+<area shape="rect" id="node5" href="$class_c_variable.html#a0b1bb0661384b342dbc5d19db78f6379" title=" " alt="" coords="236,157,467,184"/>
+<area shape="rect" id="node6" href="$namespace_a_d.html#a142308d54379f7aaa1c72195fb5fe992" title="Registers the variable as an input. I.e. as a leaf of the computational graph." alt="" coords="515,157,651,184"/>
+</map>

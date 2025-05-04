@@ -1,0 +1,32 @@
+<map id="CNSVariable::SetPrimVar" name="CNSVariable::SetPrimVar">
+<area shape="rect" id="node1" title="Set all the primitive variables for compressible flows." alt="" coords="5,464,188,491"/>
+<area shape="rect" id="node2" href="$class_c_fluid_model.html#a08839ef1b9a2cda28b4d27b53bd408f7" title="Get fluid specific heat at constant pressure." alt="" coords="296,8,447,35"/>
+<area shape="rect" id="node3" href="$class_c_euler_variable.html#aecc0bf38f05ae38576c6d5672f5749bb" title="Get the density of the flow." alt="" coords="272,59,471,85"/>
+<area shape="rect" id="node4" href="$class_c_euler_variable.html#ae5fd1c1ccda6bab8ed11aced1c84378d" title="Get the energy of the flow." alt="" coords="275,109,468,136"/>
+<area shape="rect" id="node5" href="$class_c_fluid_model.html#aacc86b5eb9d89d858870caf49c63eed8" title="Get fluid dynamic viscosity." alt="" coords="248,160,495,187"/>
+<area shape="rect" id="node11" href="$class_c_fluid_model.html#a169d9e9a0c7f8b5d35642940c62c4ecb" title="Get fluid pressure." alt="" coords="276,211,467,237"/>
+<area shape="rect" id="node12" href="$class_c_fluid_model.html#a8c0910de10905f2ddcf02f1a9bb7ff61" title="Get fluid speed of sound squared." alt="" coords="260,261,483,288"/>
+<area shape="rect" id="node13" href="$class_c_fluid_model.html#aeba3f29d27211ff50acad59477105969" title="Get fluid temperature." alt="" coords="263,312,479,339"/>
+<area shape="rect" id="node14" href="$class_c_fluid_model.html#a1b4858b3dc8a65fa2e8c868689191e56" title="Get fluid thermal conductivity." alt="" coords="236,363,507,389"/>
+<area shape="rect" id="node20" href="$class_c_euler_variable.html#a1ed02918f918b18173d48ef96447a3db" title="Set the value of the density for the incompressible flows." alt="" coords="273,413,469,440"/>
+<area shape="rect" id="node21" href="$class_c_n_s_variable.html#adb10dd8e632bd73aa513936dcc81ba86" title=" " alt="" coords="260,464,483,491"/>
+<area shape="rect" id="node22" href="$class_c_euler_variable.html#a089b38ed38b600fd5c62265e39128be9" title="Set the value of the enthalpy." alt="" coords="270,515,473,541"/>
+<area shape="rect" id="node23" href="$class_c_n_s_variable.html#a07d4ee842232db739fbcb82d3e86d83f" title="Set the laminar viscosity." alt="" coords="250,565,493,592"/>
+<area shape="rect" id="node24" href="$class_c_variable.html#acb736609b98d88ed3cea3d01a80afba8" title="A virtual member." alt="" coords="287,616,456,643"/>
+<area shape="rect" id="node25" href="$class_c_variable.html#a2d8f27153108de5e74aa623bc9f03207" title="A virtual member." alt="" coords="275,667,468,693"/>
+<area shape="rect" id="node26" href="$class_c_n_s_variable.html#ade6d64c5122e21cf628f4b4a83c3584f" title="Set the specific heat Cp." alt="" coords="281,718,462,759"/>
+<area shape="rect" id="node27" href="$class_c_fluid_model.html#a90fdefd3a55d97d55d5211988c9a7ab1" title="virtual member that would be different for each gas model implemented" alt="" coords="261,784,481,811"/>
+<area shape="rect" id="node28" href="$class_c_euler_variable.html#a5037dcc9cc5e6a2cbc14d1a57688f3fb" title="Set the value of the temperature." alt="" coords="257,835,485,861"/>
+<area shape="rect" id="node29" href="$class_c_n_s_variable.html#a22d802f6d32c6f5431c39c1cf4315540" title="Set the laminar viscosity." alt="" coords="238,885,505,912"/>
+<area shape="rect" id="node30" href="$class_c_euler_variable.html#ab5b4aaf2877da1a31a36ab7d8d68c281" title="Set the velocity vector from the solution." alt="" coords="272,936,471,963"/>
+<area shape="rect" id="node6" href="$class_c_viscosity_model.html#aeb8f1e75690ad356aa3cef03e63079a5" title="return viscosity partial derivative value." alt="" coords="558,5,793,32"/>
+<area shape="rect" id="node7" href="$class_c_viscosity_model.html#a1452210f8279fae334c664ca4a4ae43a" title="return viscosity partial derivative value." alt="" coords="576,57,775,98"/>
+<area shape="rect" id="node8" href="$class_c_viscosity_model.html#abd109aeaf6af06115166fe4fe46f733c" title="return viscosity value." alt="" coords="565,123,785,149"/>
+<area shape="rect" id="node9" href="$class_c_viscosity_model.html#a404a4a2a95dbe269ca84b9df7dbaad35" title="Set Viscosity Derivatives." alt="" coords="555,173,796,200"/>
+<area shape="rect" id="node10" href="$class_c_viscosity_model.html#af665c498219e0954aba6a62000be2d92" title="Set Viscosity." alt="" coords="566,224,785,251"/>
+<area shape="rect" id="node15" href="$class_c_conductivity_model.html#a3c663a2108a65b2b492b3be55e49780a" title="return viscosity value." alt="" coords="599,275,752,317"/>
+<area shape="rect" id="node16" href="$class_c_conductivity_model.html#a2efda2dbfd949aa7e95a79615534b64a" title="return viscosity partial derivative value." alt="" coords="599,341,752,382"/>
+<area shape="rect" id="node17" href="$class_c_conductivity_model.html#adb5148c59f247f56818036047ff832fc" title="return viscosity partial derivative value." alt="" coords="599,406,752,447"/>
+<area shape="rect" id="node18" href="$class_c_conductivity_model.html#a58cb994cf13e8357da2a15eda1556e16" title="Set Thermal conductivity." alt="" coords="599,471,752,513"/>
+<area shape="rect" id="node19" href="$class_c_conductivity_model.html#a6b91a51f4f12f6dc2d0cd406f436ea75" title="Set Thermal conductivity derivatives." alt="" coords="597,537,753,578"/>
+</map>

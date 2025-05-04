@@ -1,0 +1,18 @@
+<map id="CPeriodicGeometry::SetMeshFile" name="CPeriodicGeometry::SetMeshFile">
+<area shape="rect" id="node1" title="Write the .su2 file." alt="" coords="5,387,160,429"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="231,5,412,32"/>
+<area shape="rect" id="node4" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="255,56,388,83"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="247,107,395,149"/>
+<area shape="rect" id="node6" href="$class_c_config.html#aaceb5e9828499b666e6970e06d898ecc" title="Get an internal index that identify the periodic boundary conditions." alt="" coords="247,173,395,214"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a778a77ff2b9e1d359eab9b2d2106fa81" title="Get the send&#45;receive information for a marker val_marker." alt="" coords="247,238,395,279"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="247,303,395,345"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="231,369,411,396"/>
+<area shape="rect" id="node10" href="$class_c_primal_grid.html#a0efbf2f8391d5177d92bd850016a3783" title="A pure virtual member." alt="" coords="231,420,411,447"/>
+<area shape="rect" id="node11" href="$class_c_primal_grid.html#a4fc7b6b6ac5025325c7e68fb56fbeef8" title="A pure virtual member." alt="" coords="239,471,404,497"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a8b427e418c23b7e25da647fb21024098" title="Angles of rotation for a rotational periodic boundary." alt="" coords="211,521,432,548"/>
+<area shape="rect" id="node13" href="$class_c_config.html#a69c3c48e964a0d99ed7c0e73c679167a" title="Center of rotation for a rotational periodic boundary." alt="" coords="211,572,431,599"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a5e243bf56db6d47df20d342167350f32" title="Translation vector for a rotational periodic boundary." alt="" coords="208,623,435,649"/>
+<area shape="rect" id="node15" href="$class_c_primal_grid.html#acc5076fe3538908311a99001bae3a6d7" title="A pure virtual member." alt="" coords="210,673,433,700"/>
+<area shape="rect" id="node16" href="$class_c_primal_grid.html#adb676897e7cf4a83ceb83065e7c6a04f" title="A pure virtual member." alt="" coords="224,724,419,751"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="483,5,668,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CGridAdaptation::SetRestart_AdjSolution" name="CGridAdaptation::SetRestart_AdjSolution">
+<area shape="rect" id="node1" title="Write the restart file with the adapted grid." alt="" coords="5,49,211,90"/>
+<area shape="rect" id="node2" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="287,5,421,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a2d4389021feaed9f2e62f0475f73a718" title="Get the kind of objective function. There are several options: Drag coefficient, Lift coefficient,..." alt="" coords="259,56,449,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#ab5f5e64d5919ca8e665c421c9477bb0d" title="Get the total number of objectives in kind_objective list." alt="" coords="287,107,421,133"/>
+</map>

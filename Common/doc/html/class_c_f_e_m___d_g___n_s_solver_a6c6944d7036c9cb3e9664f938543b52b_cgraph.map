@@ -1,0 +1,9 @@
+<map id="CFEM_DG_NSSolver::Shock_Capturing_DG" name="CFEM_DG_NSSolver::Shock_Capturing_DG">
+<area shape="rect" id="node1" title="Compute the artificial viscosity for shock capturing in DG." alt="" coords="5,68,204,109"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a2a41cb57187f164b7cbf220e47823116" title="Get the kind of shock capturing method in FEM DG solver." alt="" coords="268,35,435,76"/>
+<area shape="rect" id="node3" href="$class_c_f_e_m___d_g___n_s_solver.html#a04fa3111afb642b208d97efe113ff1cf" title="Per&#45;Olof Persson&#39;s method for capturing shock in DG." alt="" coords="252,100,451,141"/>
+<area shape="rect" id="node4" href="$class_c_f_e_m_standard_element.html#a614a01f0feddc3faadac991c7ffc267c" title="Function, which makes available the matrix storage of the inverse of Vandermonde matrix of solution D..." alt="" coords="516,5,704,47"/>
+<area shape="rect" id="node5" href="$class_c_f_e_m_standard_element.html#a007e03cd4cc6bd8f37e54411eaf0b23f" title="Function, which makes available the polynomial degree for this standard element." alt="" coords="525,71,695,112"/>
+<area shape="rect" id="node6" href="$class_c_fluid_model.html#a8c0910de10905f2ddcf02f1a9bb7ff61" title="Get fluid speed of sound squared." alt="" coords="499,137,721,163"/>
+<area shape="rect" id="node7" href="$class_c_fluid_model.html#a90fdefd3a55d97d55d5211988c9a7ab1" title="virtual member that would be different for each gas model implemented" alt="" coords="500,187,720,214"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CPoint::SetAdjointCoord" name="CPoint::SetAdjointCoord">
+<area shape="rect" id="node1" title="Set the adjoint values of the coordinates." alt="" coords="5,31,183,57"/>
+<area shape="rect" id="node2" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="245,5,400,32"/>
+<area shape="rect" id="node3" href="$namespace_s_u2___t_y_p_e.html#a0d7db8cc5630100477a515061684a341" title="Set the derivative value of the datatype (needs to be implemented for each new type)." alt="" coords="231,56,415,83"/>
+</map>

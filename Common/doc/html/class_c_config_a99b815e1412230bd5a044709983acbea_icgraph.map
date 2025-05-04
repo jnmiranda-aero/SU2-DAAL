@@ -1,0 +1,6 @@
+<map id="CConfig::GetBeta_Factor" name="CConfig::GetBeta_Factor">
+<area shape="rect" id="node1" title="Get the epsilon^2 multiplier for Beta in the incompressible preconditioner." alt="" coords="507,31,685,57"/>
+<area shape="rect" id="node2" href="$class_c_inc_euler_solver.html#a3e20d6912dc1a1806424e31b12bd80f4" title="Update the Beta parameter for the incompressible preconditioner." alt="" coords="276,23,459,65"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#aabd902b10cc9b41b6b2c406efba0ac41" title="Compute primitive variables and their gradients." alt="" coords="5,5,228,32"/>
+<area shape="rect" id="node4" href="$class_c_inc_n_s_solver.html#ae84f6e86313acd1da80c505b4eab81e5" title="Restart residual and compute gradients." alt="" coords="13,56,221,83"/>
+</map>

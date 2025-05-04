@@ -1,0 +1,12 @@
+<map id="CPhysicalGeometry::SetElement_Connectivity" name="CPhysicalGeometry::SetElement_Connectivity">
+<area shape="rect" id="node1" title="Set elements which surround an element." alt="" coords="5,201,192,242"/>
+<area shape="rect" id="node2" href="$class_c_physical_geometry.html#af8b4bd2aea9eddaf5ff681b58e829612" title="Find repeated nodes between two elements to identify the common face." alt="" coords="255,91,413,133"/>
+<area shape="rect" id="node4" href="$class_c_primal_grid.html#a0ed05bb848693e3975e12943d8612029" title="A pure virtual member." alt="" coords="493,5,668,32"/>
+<area shape="rect" id="node6" href="$class_c_primal_grid.html#a950426deace995a7a0dfec7b63383d94" title="A pure virtual member." alt="" coords="476,157,685,184"/>
+<area shape="rect" id="node7" href="$class_c_primal_grid.html#a4fc7b6b6ac5025325c7e68fb56fbeef8" title="A pure virtual member." alt="" coords="498,208,663,235"/>
+<area shape="rect" id="node8" href="$class_c_point.html#aa9a94baeda58329c09e99425e3d88811" title="Get all the elements that compose the control volume." alt="" coords="270,259,398,285"/>
+<area shape="rect" id="node9" href="$class_c_point.html#afa5b9cd1e067604590a26810894c83b5" title="Get the number of elements that compose the control volume." alt="" coords="266,309,402,336"/>
+<area shape="rect" id="node10" href="$class_c_primal_grid.html#a9f64be74bd55c3fc9378fa5131c7b109" title="Set the elements that surround an element." alt="" coords="240,361,428,402"/>
+<area shape="rect" id="node3" href="$class_c_primal_grid.html#ad76a784e0e159c2d0c2d004a91731979" title="A pure virtual member." alt="" coords="497,107,664,133"/>
+<area shape="rect" id="node5" href="$class_c_primal_grid.html#a0efbf2f8391d5177d92bd850016a3783" title="A pure virtual member." alt="" coords="491,56,671,83"/>
+</map>

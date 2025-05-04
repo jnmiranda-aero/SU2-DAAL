@@ -1,0 +1,20 @@
+<map id="CPhysicalGeometry::ComputeFEMGraphWeights" name="CPhysicalGeometry::ComputeFEMGraphWeights">
+<area shape="rect" id="node1" title="Compute the weights of the FEM graph for ParMETIS." alt="" coords="5,422,205,463"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="266,5,477,32"/>
+<area shape="rect" id="node4" href="$class_c_face_of_element.html#a1f80d19d78b66efca57d5b0dff537d87" title=" " alt="" coords="258,57,485,98"/>
+<area shape="rect" id="node5" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="281,123,462,149"/>
+<area shape="rect" id="node7" href="$class_c_primal_grid.html#ae49bcd4850d0a6caa787a994a0bd17b8" title="Virtual function, that must be overwritten by the derived class, if needed." alt="" coords="264,174,479,215"/>
+<area shape="rect" id="node8" href="$class_c_primal_grid.html#ad35727c1e3e3ee4b508f7a25a1ee92e9" title="A virtual member." alt="" coords="253,240,489,267"/>
+<area shape="rect" id="node9" href="$class_c_primal_grid.html#aae1da0c8675cc4f2e5bfc93219285ff2" title="Virtual function to get whether or not the Jacobian is considered constant." alt="" coords="278,291,465,333"/>
+<area shape="rect" id="node10" href="$class_c_primal_grid.html#a2a70c28521ba71fa456ab7f3a8e25a49" title="Get whether or not the Jacobian of the given face is considered constant." alt="" coords="278,357,465,398"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="297,422,445,463"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="297,487,445,529"/>
+<area shape="rect" id="node13" href="$class_c_primal_grid.html#ad0e596b12523228a257689e43d4d9af8" title="Virtual function to make available the number of DOFs of the solution in the element." alt="" coords="273,553,469,580"/>
+<area shape="rect" id="node14" href="$class_c_primal_grid.html#aadc882997e8d07703f1e3918eb6b5557" title="Virtual function to make available the polynomial degree of the solution." alt="" coords="277,604,466,631"/>
+<area shape="rect" id="node15" href="$class_c_primal_grid.html#a17062b433072fe8366f7f5a0b4cc75be" title="Make available the time level of the element." alt="" coords="272,655,471,681"/>
+<area shape="rect" id="node16" href="$class_c_primal_grid.html#adb676897e7cf4a83ceb83065e7c6a04f" title="A pure virtual member." alt="" coords="274,705,469,732"/>
+<area shape="rect" id="node17" href="$class_c_config.html#ac79e9f736b3d8820ac78a714c93811c3" title="Get the additional integer info for the wall function treatment for the given boundary marker." alt="" coords="278,757,465,798"/>
+<area shape="rect" id="node18" href="$class_c_config.html#a25ae10f2fbea1175dca7ae4a7752977f" title="Get the wall function treatment for the given boundary marker." alt="" coords="278,822,465,863"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="537,5,752,32"/>
+<area shape="rect" id="node6" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="552,123,737,149"/>
+</map>

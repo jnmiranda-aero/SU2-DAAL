@@ -1,0 +1,13 @@
+<map id="CTransfer::Preprocessing_InterfaceAverage" name="CTransfer::Preprocessing_InterfaceAverage">
+<area shape="rect" id="node1" title="Transfer pre&#45;processing for the mixing plane inteface." alt="" coords="5,206,188,247"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a55195abbb7206e08a4933fa53cd41923" title=" " alt="" coords="247,5,456,32"/>
+<area shape="rect" id="node4" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="261,56,442,83"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a9598107d90597bb142bea40b3deeb31d" title="Get the kind of mixing process for averaging quantities at the boundaries." alt="" coords="242,107,461,149"/>
+<area shape="rect" id="node7" href="$class_c_config.html#acff165d0d286d1f473222a2b2cf21a9a" title="Get the MixingPlane interface information for a marker val_marker." alt="" coords="256,173,447,214"/>
+<area shape="rect" id="node8" href="$class_c_config.html#ab74c164cca94a37de37dd2322c53f98c" title="Get the Turbomachinery flag information for a marker val_marker." alt="" coords="259,238,444,279"/>
+<area shape="rect" id="node9" href="$class_c_geometry.html#a3c899d1370312702c189a8ee95a63ef7" title="Get number of markers." alt="" coords="262,304,441,331"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a2afa29aab61d4f49387cec759b7735ea" title="number span&#45;wise sections to compute 3D BC and performance for turbomachinery." alt="" coords="236,355,467,381"/>
+<area shape="rect" id="node11" href="$class_c_geometry.html#a99a4c3af5dbc9e2e935aae7dce58cf50" title="Get number of vertices." alt="" coords="238,405,465,432"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="515,5,729,32"/>
+<area shape="rect" id="node5" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="529,56,715,83"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="CHeatSolverFVM::Centered_Residual" name="CHeatSolverFVM::Centered_Residual">
+<area shape="rect" id="node1" title="Compute the spatial integration using a centered scheme." alt="" coords="5,454,204,495"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a8c2c7f8ca02d0e8685373e38ca29d9d0" title="Adds the specified block to the sparse matrix." alt="" coords="277,5,443,32"/>
+<area shape="rect" id="node4" href="$class_c_sys_vector.html#a7ef472e160b4bfee4fac427e5c08022b" title="Add val_residual to the residual." alt="" coords="278,56,442,83"/>
+<area shape="rect" id="node5" href="$class_c_numerics.html#abe734316e0047f463f059fd77a281958" title="Compute the numerical residual." alt="" coords="252,107,468,133"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="270,157,450,184"/>
+<area shape="rect" id="node7" href="$class_c_geometry.html#a7d6e1e1d1e46da8f55ecbe1a9380530a" title="Get number of edges." alt="" coords="277,208,443,235"/>
+<area shape="rect" id="node8" href="$class_c_point.html#a73ffb61e70753ea46e80edba22cf39a4" title="Get the number of neighbor of a point." alt="" coords="279,259,441,285"/>
+<area shape="rect" id="node9" href="$class_c_edge.html#aee33b61d646e3fe59a4e23284ab1bf33" title="Get the nodes of the edge." alt="" coords="296,309,424,336"/>
+<area shape="rect" id="node10" href="$class_c_edge.html#ada210a6f0643f444e7e491fc4ed9e662" title="Copy the the normal vector of a face." alt="" coords="289,360,431,387"/>
+<area shape="rect" id="node11" href="$class_c_solver.html#a65c22046b0cf1938ba22648912d04680" title="Get the number of variables of the problem." alt="" coords="294,411,426,437"/>
+<area shape="rect" id="node12" href="$class_c_variable.html#a5fc23761cf67841ab946fc6e8b4f019d" title="A virtual member." alt="" coords="273,461,447,488"/>
+<area shape="rect" id="node13" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="276,512,444,539"/>
+<area shape="rect" id="node14" href="$class_c_variable.html#a09ba6488c2b9270a05a51a2432ac2b22" title="Get the undivided laplacian of the solution." alt="" coords="269,563,451,605"/>
+<area shape="rect" id="node15" href="$class_c_numerics.html#a3a325233fabba63421dd5d0596b6a7ca" title="Set the number of neighbor to a point." alt="" coords="269,629,451,656"/>
+<area shape="rect" id="node16" href="$class_c_numerics.html#a41903d97957f351cd9ee63ca404985b1" title="Set the value of the normal vector to the face between two points." alt="" coords="275,680,445,707"/>
+<area shape="rect" id="node17" href="$class_c_numerics.html#af72b17d397adf09beed2e99e2daf895c" title="Set the value of the primitive variables." alt="" coords="269,731,451,757"/>
+<area shape="rect" id="node18" href="$class_c_numerics.html#a42f988dfe419c655c6162802ff355bc2" title="Set the value of the temperature." alt="" coords="258,781,462,808"/>
+<area shape="rect" id="node19" href="$class_c_numerics.html#a8818257f545fe207ff69f6c0337f3b26" title="Set the value of undivided laplacian." alt="" coords="266,833,454,874"/>
+<area shape="rect" id="node20" href="$class_c_sys_matrix.html#a0c6e3335f161b70247ac06e22eee6dfc" title="Subtracts the specified block to the sparse matrix." alt="" coords="263,899,457,925"/>
+<area shape="rect" id="node21" href="$class_c_sys_vector.html#aa2de9022590ea6b06950ef6b8afb77a2" title="Subtract val_residual to the residual." alt="" coords="263,949,457,976"/>
+<area shape="rect" id="node3" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="516,452,671,479"/>
+</map>

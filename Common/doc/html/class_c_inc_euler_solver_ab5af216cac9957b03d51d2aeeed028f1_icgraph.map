@@ -1,0 +1,6 @@
+<map id="CIncEulerSolver::Set_MPI_MaxEigenvalue" name="CIncEulerSolver::Set_MPI_MaxEigenvalue">
+<area shape="rect" id="node1" title="Parallelization of the Max eigenvalue." alt="" coords="505,23,665,65"/>
+<area shape="rect" id="node2" href="$class_c_inc_euler_solver.html#ab804c5648aa5dd71ea12a57997167984" title="Compute the max eigenvalue." alt="" coords="276,23,457,65"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#aabd902b10cc9b41b6b2c406efba0ac41" title="Compute primitive variables and their gradients." alt="" coords="5,5,228,32"/>
+<area shape="rect" id="node4" href="$class_c_inc_n_s_solver.html#ae84f6e86313acd1da80c505b4eab81e5" title="Restart residual and compute gradients." alt="" coords="13,56,221,83"/>
+</map>

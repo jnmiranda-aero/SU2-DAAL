@@ -1,0 +1,16 @@
+<map id="CPhysicalGeometry::GatherInOutAverageValues" name="CPhysicalGeometry::GatherInOutAverageValues">
+<area shape="rect" id="node1" title="Set turbo boundary vertex." alt="" coords="5,311,203,353"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a55195abbb7206e08a4933fa53cd41923" title=" " alt="" coords="267,5,477,32"/>
+<area shape="rect" id="node4" href="$class_c_config.html#ac09e21f44792b38adb3f933a4426b25f" title="Provides the number of varaibles." alt="" coords="302,56,442,83"/>
+<area shape="rect" id="node5" href="$class_c_config.html#afa3df6ff19988c7d4cc7bb350928e12b" title="Get the kind of turbomachinery architecture." alt="" coords="251,107,493,133"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a2989859c3fb041c6b83c1d3bf64f2f34" title="Get the Turbomachinery information for a marker val_marker." alt="" coords="293,158,451,199"/>
+<area shape="rect" id="node7" href="$class_c_config.html#ab74c164cca94a37de37dd2322c53f98c" title="Get the Turbomachinery flag information for a marker val_marker." alt="" coords="279,223,465,265"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="282,289,462,316"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a8f0ce5b4f605f885ae5391f567e3ae20" title="number Turbomachinery performance option specified from config file." alt="" coords="294,341,450,382"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a9a665d90306ed49db16ac85e4d7acbb4" title="number Turbomachinery performance option specified from config file." alt="" coords="294,406,450,447"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a5f9d28d610a51f1c4bdb50d366d510c8" title="number span&#45;wise sections to compute performance for turbomachinery." alt="" coords="258,472,486,499"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a2afa29aab61d4f49387cec759b7735ea" title="number span&#45;wise sections to compute 3D BC and performance for turbomachinery." alt="" coords="257,523,487,549"/>
+<area shape="rect" id="node13" href="$class_c_config.html#aff516f314958094f18fc685e29c218c3" title="Set freestream turbonormal for initializing solution." alt="" coords="267,574,477,615"/>
+<area shape="rect" id="node14" href="$class_c_config.html#ad320271639c6c6dbe95246c3d53a4cea" title="number Turbomachinery blades computed using the pitch information." alt="" coords="295,640,449,667"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="541,5,756,32"/>
+</map>

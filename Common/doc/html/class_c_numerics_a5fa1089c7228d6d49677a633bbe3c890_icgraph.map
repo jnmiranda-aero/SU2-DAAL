@@ -1,0 +1,33 @@
+<map id="CNumerics::SetCoord" name="CNumerics::SetCoord">
+<area shape="rect" id="node1" title="Set coordinates of the points." alt="" coords="284,943,444,970"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a3cb64b1356f6c0dd43c08df012d99f01" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="42,5,199,47"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#abd738a529f7f77c97587c6785b0f40d3" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="45,71,196,112"/>
+<area shape="rect" id="node4" href="$class_c_adj_euler_solver.html#a67685dedf5d4651cb25fbf3fc0440d24" title="Impose the boundary condition to the far field using characteristics." alt="" coords="45,136,197,177"/>
+<area shape="rect" id="node5" href="$class_c_euler_solver.html#accb01b3402a9de5c1c23fdaef60c831f" title="Impose the interface state across sliding meshes." alt="" coords="35,201,206,243"/>
+<area shape="rect" id="node6" href="$class_c_turb_s_a_solver.html#a4311973e232f0f0d1ddd661f52e47531" title="Impose the fluid interface boundary condition using tranfer data." alt="" coords="29,267,212,308"/>
+<area shape="rect" id="node7" href="$class_c_turb_s_s_t_solver.html#a59752956d49ea64cd4a06f52e1b5088b" title="Impose the interface state across sliding meshes." alt="" coords="46,332,195,373"/>
+<area shape="rect" id="node8" href="$class_c_euler_solver.html#aa4c3988e3ce0c18460b5c069650c57b0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="35,398,206,425"/>
+<area shape="rect" id="node9" href="$class_c_inc_euler_solver.html#a318f79c279e467bbea21276ccd08ca92" title="Impose a subsonic inlet boundary condition." alt="" coords="45,449,196,491"/>
+<area shape="rect" id="node10" href="$class_c_adj_euler_solver.html#a29398c2203511586508ff9d43e894e41" title="Impose the inlet boundary condition." alt="" coords="45,515,197,556"/>
+<area shape="rect" id="node11" href="$class_c_turb_s_a_solver.html#a75c50cab5888e913ea59dd03c23be8e6" title="Impose the inlet boundary condition." alt="" coords="31,580,210,621"/>
+<area shape="rect" id="node12" href="$class_c_turb_s_s_t_solver.html#a76eebd24fcfc25255c3089f2b1a9acbd" title="Impose the inlet boundary condition." alt="" coords="46,645,195,687"/>
+<area shape="rect" id="node13" href="$class_c_turb_s_a_solver.html#a2e05ecc017b2b3716bfc6728e4a734e8" title="Impose the inlet boundary condition." alt="" coords="31,711,210,752"/>
+<area shape="rect" id="node14" href="$class_c_turb_s_s_t_solver.html#a8957c42841a00d3880fb5886e2f4de3c" title="Impose the inlet boundary condition." alt="" coords="46,776,195,817"/>
+<area shape="rect" id="node15" href="$class_c_inc_euler_solver.html#aa64170c7c7a237d0c7427a8359c2967a" title="Impose the outlet boundary condition." alt="" coords="45,841,196,883"/>
+<area shape="rect" id="node16" href="$class_c_adj_euler_solver.html#a0b3408be5adebd52b79bd3c5227cbe9d" title="Impose the outlet boundary condition." alt="" coords="45,907,197,948"/>
+<area shape="rect" id="node17" href="$class_c_euler_solver.html#a22c21d18fa626d489db9a387234bd9d0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="23,973,219,999"/>
+<area shape="rect" id="node18" href="$class_c_adj_euler_solver.html#ab5c6ba919fde8e3e473f485bb06b2e9c" title="Impose the supersonic inlet boundary condition." alt="" coords="45,1024,197,1065"/>
+<area shape="rect" id="node19" href="$class_c_adj_euler_solver.html#a58543ab410a218129586869573316437" title="Impose the supersonic outlet boundary condition." alt="" coords="45,1089,197,1131"/>
+<area shape="rect" id="node20" href="$class_c_euler_solver.html#a0066305803a18511fb89b8951f4e4866" title="Impose the boundary condition using characteristic recostruction." alt="" coords="5,1155,236,1182"/>
+<area shape="rect" id="node21" href="$class_c_euler_solver.html#ae3c06e120f438249757199a3aa9d7c0b" title="Source term integration." alt="" coords="42,1207,199,1248"/>
+<area shape="rect" id="node22" href="$class_c_inc_euler_solver.html#aaa52f2305bb8f93d51fd0910c1ddeec9" title="Source term integration." alt="" coords="33,1272,209,1313"/>
+<area shape="rect" id="node23" href="$class_c_adj_euler_solver.html#a7f84ce73b97f6944598308b63ac3c7b1" title="Source term integration." alt="" coords="31,1337,210,1379"/>
+<area shape="rect" id="node24" href="$class_c_euler_solver.html#a9cb1da16bea732300854a351ebca2ed3" title="Compute the spatial integration using a upwind scheme." alt="" coords="39,1403,202,1444"/>
+<area shape="rect" id="node25" href="$class_c_n_s_solver.html#a4b946463a9868faaa73fa1f40ee5e675" title="Compute the viscous residuals." alt="" coords="47,1468,195,1509"/>
+<area shape="rect" id="node26" href="$class_c_inc_n_s_solver.html#aa65d2bbb69dab2bbe40d3495d80da207" title="Compute the viscous residuals." alt="" coords="37,1533,204,1575"/>
+<area shape="rect" id="node27" href="$class_c_turb_solver.html#aa7a7c19bca5d22e9073cbd165f7a0c94" title="Compute the viscous residuals for the turbulent equation." alt="" coords="42,1599,199,1640"/>
+<area shape="rect" id="node28" href="$class_c_trans_l_m_solver.html#aad0850065817447ecce8752ce29683cf" title="Compute the viscous residuals for the turbulent equation." alt="" coords="29,1664,212,1705"/>
+<area shape="rect" id="node29" href="$class_c_adj_n_s_solver.html#a8f0a8d26c8b3df3f9dbbbf7c98a6a18e" title="Compute the viscous residuals for the adjoint equation." alt="" coords="36,1729,205,1771"/>
+<area shape="rect" id="node30" href="$class_c_adj_turb_solver.html#a70a725062ef93315581ef9394250287b" title="Compute the viscous residuals for the turbulent adjoint equation." alt="" coords="31,1795,210,1836"/>
+<area shape="rect" id="node31" href="$class_c_heat_solver_f_v_m.html#a860d3e08f75f173ce401f90d27649ba2" title="Compute the viscous residuals for the turbulent equation." alt="" coords="25,1860,216,1901"/>
+</map>

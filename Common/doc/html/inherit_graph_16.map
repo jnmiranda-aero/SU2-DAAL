@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_c_element.html" title="Main class for defining the element structure." alt="" coords="5,183,91,209"/>
+<area shape="rect" id="node2" href="$class_c_h_e_x_a1.html" title="Hexahedral element with 1 Gauss Point for pressure subintegration." alt="" coords="144,5,219,32"/>
+<area shape="rect" id="node3" href="$class_c_h_e_x_a8.html" title="Hexahedral element with 8 Gauss Points." alt="" coords="144,56,219,83"/>
+<area shape="rect" id="node4" href="$class_c_p_r_i_s_m6.html" title="Prism element with 6 Gauss Points." alt="" coords="141,107,221,133"/>
+<area shape="rect" id="node5" href="$class_c_p_y_r_a_m5.html" title="Pyramid element with 5 Gauss Points." alt="" coords="139,157,224,184"/>
+<area shape="rect" id="node6" href="$class_c_q_u_a_d1.html" title="Quadrilateral element with 1 Gauss Point." alt="" coords="142,208,221,235"/>
+<area shape="rect" id="node7" href="$class_c_q_u_a_d4.html" title="Quadrilateral element with 4 Gauss Points." alt="" coords="142,259,221,285"/>
+<area shape="rect" id="node8" href="$class_c_t_e_t_r_a1.html" title="Tetrahedral element with 1 Gauss Point." alt="" coords="141,309,222,336"/>
+<area shape="rect" id="node9" href="$class_c_t_r_i_a1.html" title="Tria element with 1 Gauss Points." alt="" coords="147,360,216,387"/>
+</map>

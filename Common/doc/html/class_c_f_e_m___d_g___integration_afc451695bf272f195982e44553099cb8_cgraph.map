@@ -1,0 +1,9 @@
+<map id="CFEM_DG_Integration::Space_Integration" name="CFEM_DG_Integration::Space_Integration">
+<area shape="rect" id="node1" title="Perform the spatial integration of the numerical system." alt="" coords="5,115,169,157"/>
+<area shape="rect" id="node2" href="$class_c_config.html#ad9a79bf229dcc3f99cf7c23d4cb16d06" title="Provides the index of the solution in the container." alt="" coords="217,5,436,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#aeec93abf99b07f5fd7505df58a5577ae" title="Get the kind of time integration method." alt="" coords="232,57,421,98"/>
+<area shape="rect" id="node4" href="$class_c_solver.html#a9a1cadc6a35e9d1ab5f1d4529ee7350f" title="A virtual member." alt="" coords="222,123,431,149"/>
+<area shape="rect" id="node5" href="$class_c_solver.html#a7537e05efdb06062dcc4729ad3f3e96a" title="Set the new solution variables to the current solution value for classical RK." alt="" coords="231,173,422,200"/>
+<area shape="rect" id="node6" href="$class_c_solver.html#a971b9e376be0fabf1866edf370836e7b" title="Set the old solution variables to the current solution value for Runge&#45;Kutta iteration...." alt="" coords="235,224,418,251"/>
+<area shape="rect" id="node7" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="484,224,651,251"/>
+</map>

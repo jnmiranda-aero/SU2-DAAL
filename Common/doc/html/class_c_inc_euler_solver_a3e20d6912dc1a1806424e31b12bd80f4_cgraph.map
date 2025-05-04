@@ -1,0 +1,9 @@
+<map id="CIncEulerSolver::SetBeta_Parameter" name="CIncEulerSolver::SetBeta_Parameter">
+<area shape="rect" id="node1" title="Update the Beta parameter for the incompressible preconditioner." alt="" coords="5,99,188,141"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="236,5,447,32"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a99b815e1412230bd5a044709983acbea" title="Get the epsilon^2 multiplier for Beta in the incompressible preconditioner." alt="" coords="252,56,431,83"/>
+<area shape="rect" id="node5" href="$class_c_config.html#afddeba836f1bf4d4c239f7344d855b74" title="Get the maximum velocity^2 in the domain for the incompressible preconditioner." alt="" coords="258,107,425,133"/>
+<area shape="rect" id="node6" href="$class_c_variable.html#a76505d5d9276995ef2c7038e036e409d" title="A virtual member." alt="" coords="254,157,429,184"/>
+<area shape="rect" id="node7" href="$class_c_config.html#aee462e868b4c14e214d71538c28b12d8" title="Set the maximum velocity^2 in the domain for the incompressible preconditioner." alt="" coords="259,208,423,235"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="495,5,709,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CConfig::GetInlet_Temperature" name="CConfig::GetInlet_Temperature">
+<area shape="rect" id="node1" title="Get the temperature at a supersonic inlet boundary." alt="" coords="263,13,484,39"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#ab8faca63b78a195c05f26737be131ea5" title="Impose a supersonic inlet boundary condition." alt="" coords="5,5,215,47"/>
+</map>

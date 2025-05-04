@@ -1,0 +1,5 @@
+<map id="CConfig::GetLoad_Value" name="CConfig::GetLoad_Value">
+<area shape="rect" id="node1" title="Get the force value at an load boundary." alt="" coords="269,31,447,57"/>
+<area shape="rect" id="node2" href="$class_c_f_e_a_solver.html#aeb5416c624b48c1b541d831c16f8acb2" title="Impose a load boundary condition normal to the boundary." alt="" coords="5,5,221,32"/>
+<area shape="rect" id="node3" href="$class_c_f_e_a_solver.html#a2171424e52ccd32f17bcbd4972b1fe15" title="Set residuals to zero." alt="" coords="15,56,211,83"/>
+</map>

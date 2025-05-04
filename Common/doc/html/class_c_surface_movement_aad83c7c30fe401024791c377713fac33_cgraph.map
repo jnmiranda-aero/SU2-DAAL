@@ -1,0 +1,12 @@
+<map id="CSurfaceMovement::SetRotation" name="CSurfaceMovement::SetRotation">
+<area shape="rect" id="node1" title="Set a rotation for surface movement." alt="" coords="5,224,240,251"/>
+<area shape="rect" id="node2" href="$class_c_vertex.html#aa8d4679ec3baf216d949e408a7aa526c" title="Add the value of the coordinate variation due to a surface modification." alt="" coords="310,5,475,32"/>
+<area shape="rect" id="node3" href="$class_c_vertex.html#af0821dbe375150339a3c7e3879d8505f" title="Get the value of the cartesian coordinate for the vertex." alt="" coords="321,56,464,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#ac50165b44d1c286c810585b89cd68f33" title="Value of the design variable step, we use this value in design problems." alt="" coords="310,107,475,133"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a39608d00420cf8dd5357045aafdf2d23" title="Get the DV information for a marker val_marker." alt="" coords="319,158,467,199"/>
+<area shape="rect" id="node6" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="312,224,473,251"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="303,275,483,301"/>
+<area shape="rect" id="node8" href="$class_c_config.html#affef7bc6016955cb0cf49b3f774bc45a" title="Get the scale factor for the line search." alt="" coords="288,325,497,352"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a55ab8fc511c17d4b07ef0b5eea793e61" title="Get a parameter of the particular design variable." alt="" coords="311,376,474,403"/>
+<area shape="rect" id="node10" href="$class_c_vertex.html#a77faafc52f911c793851c71738fb85ba" title="Set the value of the coordinate variation due to a surface modification." alt="" coords="312,427,473,453"/>
+</map>

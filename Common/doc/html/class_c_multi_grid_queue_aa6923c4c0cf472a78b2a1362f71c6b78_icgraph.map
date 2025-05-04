@@ -1,0 +1,8 @@
+<map id="CMultiGridQueue::AddCV" name="CMultiGridQueue::AddCV">
+<area shape="rect" id="node1" title="Add a new CV to the list." alt="" coords="739,56,923,83"/>
+<area shape="rect" id="node2" href="$class_c_multi_grid_queue.html#ab0d5fdd640dcf60a90b1295cf0c0c0fb" title="Increase the priority of the CV." alt="" coords="460,5,691,32"/>
+<area shape="rect" id="node5" href="$class_c_multi_grid_queue.html#a73d36e52d6837cc7b57e42746340cc47" title="Change a CV from a list to a different list." alt="" coords="217,56,412,83"/>
+<area shape="rect" id="node6" href="$class_c_multi_grid_queue.html#a853f0da5503dfd8c4512d16f07988792" title="Increase the priority of the CV." alt="" coords="460,107,691,133"/>
+<area shape="rect" id="node3" href="$class_c_multi_grid_queue.html#acd3761592466374bde6ad7bc3576bfb5" title="Update the queue with the new control volume (remove the CV and increase the priority of the neighbor..." alt="" coords="221,5,409,32"/>
+<area shape="rect" id="node4" href="$class_c_multi_grid_geometry.html#a15c29a11f85cce8f38d2403fc8fc2826" title="Constructor of the class." alt="" coords="5,23,169,65"/>
+</map>

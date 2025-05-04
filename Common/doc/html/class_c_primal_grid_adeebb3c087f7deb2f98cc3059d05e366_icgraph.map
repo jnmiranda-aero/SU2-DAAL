@@ -1,0 +1,5 @@
+<map id="CPrimalGrid::GetNeighbor_Elements" name="CPrimalGrid::GetNeighbor_Elements">
+<area shape="rect" id="node1" title="Get the elements that surround an element." alt="" coords="260,27,451,69"/>
+<area shape="rect" id="node2" href="$class_c_mesh_f_e_m.html#ae74b12670fb49ad4d28836d9fc2aab8d" title="Redistributes the grid over the ranks and creates the halo layer." alt="" coords="21,5,196,32"/>
+<area shape="rect" id="node3" href="$class_c_primal_grid.html#a02aaf6cab7ae53dfc2731d36e3ab9f2e" title="Get all the neighbors of an element." alt="" coords="5,57,212,98"/>
+</map>

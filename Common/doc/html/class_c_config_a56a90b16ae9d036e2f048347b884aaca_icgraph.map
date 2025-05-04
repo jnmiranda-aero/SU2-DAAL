@@ -1,0 +1,7 @@
+<map id="CConfig::GetQCR" name="CConfig::GetQCR">
+<area shape="rect" id="node1" title="Get QCR (SA&#45;QCR2000)." alt="" coords="300,85,431,112"/>
+<area shape="rect" id="node2" href="$class_c_n_s_solver.html#a789efbffb69b39e59b122a0c068cb11a" title="Compute the buffet sensor." alt="" coords="21,5,236,32"/>
+<area shape="rect" id="node3" href="$class_c_avg_grad___flow.html#a1c12e066648de65a083bc9aea10df100" title="Compute the viscous flow residual using an average of gradients." alt="" coords="5,56,252,83"/>
+<area shape="rect" id="node4" href="$class_c_avg_grad_corrected___flow.html#a18d3d20fe0c0c85e46f1804232433150" title="Compute the viscous flow residual using an average of gradients with correction." alt="" coords="35,107,222,149"/>
+<area shape="rect" id="node5" href="$class_c_n_s_solver.html#acc926a2b83d8b90fa71faf46abe8f6b7" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="55,173,202,214"/>
+</map>

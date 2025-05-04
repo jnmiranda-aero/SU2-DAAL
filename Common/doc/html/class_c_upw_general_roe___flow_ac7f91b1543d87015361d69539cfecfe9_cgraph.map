@@ -1,0 +1,13 @@
+<map id="CUpwGeneralRoe_Flow::ComputeResidual" name="CUpwGeneralRoe_Flow::ComputeResidual">
+<area shape="rect" id="node1" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="5,257,180,299"/>
+<area shape="rect" id="node2" href="$class_c_upw_general_roe___flow.html#abcec1817ae6000499c913fdf5733e2d5" title="Compute the Average for a general fluid flux between two nodes i and j. Using the approach of Vinokur..." alt="" coords="254,5,429,47"/>
+<area shape="rect" id="node3" href="$namespace_a_d.html#a309d057a92faa60a3a760254678ec9ea" title="Ends a preaccumulation section and computes the local Jacobi matrix of a code section using the varia..." alt="" coords="283,71,399,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a0f7ace5ebf01fd50bcadab8b50b897c8" title="Get the entropy fix." alt="" coords="255,123,427,164"/>
+<area shape="rect" id="node5" href="$class_c_numerics.html#a1a9e44996dede2330af84349204dc312" title="Compute the projected inviscid flux vector." alt="" coords="228,189,455,215"/>
+<area shape="rect" id="node6" href="$class_c_numerics.html#ae0225b473263a9547a2445c423ba7dce" title="Compute the projection of the inviscid Jacobian matrices." alt="" coords="232,239,451,266"/>
+<area shape="rect" id="node7" href="$class_c_numerics.html#a4c0be4ab3aa0dd899babe4c96d7a0c02" title="Computation of the matrix P for a generic fluid model." alt="" coords="254,290,429,317"/>
+<area shape="rect" id="node8" href="$class_c_numerics.html#a04a93dceeb13c4738d6c9ce357575257" title="Computation of the matrix P^{&#45;1}, this matrix diagonalize the conservative Jacobians in the form $P^{..." alt="" coords="241,341,442,367"/>
+<area shape="rect" id="node9" href="$namespace_a_d.html#aad703f3a82e509c88b92ae638f75383c" title="Sets the scalar input of a preaccumulation section." alt="" coords="279,391,404,418"/>
+<area shape="rect" id="node10" href="$namespace_a_d.html#ab3a80e24a5c8c2beb01131c57dcae4b2" title="Sets the scalar output of a preaccumulation section." alt="" coords="273,442,409,469"/>
+<area shape="rect" id="node11" href="$namespace_a_d.html#a2a1e9c4b109fd751e84132c9495de3ff" title="Starts a new preaccumulation section and sets the input variables." alt="" coords="280,493,403,519"/>
+</map>

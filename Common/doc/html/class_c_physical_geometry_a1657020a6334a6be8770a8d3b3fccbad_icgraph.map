@@ -1,0 +1,4 @@
+<map id="CPhysicalGeometry::DistributePoints" name="CPhysicalGeometry::DistributePoints">
+<area shape="rect" id="node1" title="Distribute the grid points, including ghost points, across all ranks based on a ParMETIS coloring." alt="" coords="211,5,368,47"/>
+<area shape="rect" id="node2" href="$class_c_physical_geometry.html#a5060b218ee34c7fe7ccfbee03e912fd6" title="Accepts a geometry container holding a linearly partitioned grid with coloring performed by ParMETIS,..." alt="" coords="5,5,163,47"/>
+</map>

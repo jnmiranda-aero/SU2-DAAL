@@ -1,0 +1,8 @@
+<map id="CElement::SetCurr_Coord" name="CElement::SetCurr_Coord">
+<area shape="rect" id="node1" title="Set the value of the coordinate of the nodes in the current configuration." alt="" coords="260,143,447,170"/>
+<area shape="rect" id="node2" href="$class_c_f_e_a_solver.html#aaa1e795326f0783782caf710c93a0e05" title="Compute the stress at the nodes for output purposes." alt="" coords="27,5,191,47"/>
+<area shape="rect" id="node3" href="$class_c_f_e_a_solver.html#a4ebdf424bf21718d35a02774b2d0cc41" title="Compute the nodal stress terms and add them to the residual." alt="" coords="27,71,191,112"/>
+<area shape="rect" id="node4" href="$class_c_f_e_a_solver.html#a5f93bc931f8d032a2448a532885b1b61" title="Compute the stiffness matrix of the problem." alt="" coords="27,136,191,177"/>
+<area shape="rect" id="node5" href="$class_c_f_e_a_solver.html#ab470e823e83359b8ea28f0779cf22a11" title="Compute the stiffness matrix of the problem and the nodal stress terms at the same time (more efficie..." alt="" coords="5,201,212,243"/>
+<area shape="rect" id="node6" href="$class_c_f_e_a_solver.html#a851693872b6b7849d52854fe9734ad85" title="Compute the penalty due to the stiffness increase." alt="" coords="28,267,189,308"/>
+</map>

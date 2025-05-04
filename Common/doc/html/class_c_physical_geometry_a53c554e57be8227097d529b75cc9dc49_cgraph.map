@@ -1,0 +1,8 @@
+<map id="CPhysicalGeometry::DistributeMarkerTags" name="CPhysicalGeometry::DistributeMarkerTags">
+<area shape="rect" id="node1" title="Broadcast the marker tags for all boundaries from the master rank to all other ranks." alt="" coords="5,115,165,157"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#ae816a2f124ea5ae95337418462514df5" title=" " alt="" coords="213,5,400,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="233,57,381,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="217,123,397,149"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a82bd1f76cf9574ecfc48c44bef277cd5" title="Set if a marker val_marker is going to be sent or receive val_index from another domain." alt="" coords="233,174,380,215"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a3d64a9bbafa5f87e2559f34cc297a9c4" title="Set the value of the index val_index (read from the geometry file) for the marker val_marker." alt="" coords="233,239,380,281"/>
+</map>

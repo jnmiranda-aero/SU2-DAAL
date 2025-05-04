@@ -1,0 +1,8 @@
+<map id="CConfig::GetAeroelastic_Flutter_Speed_Index" name="CConfig::GetAeroelastic_Flutter_Speed_Index">
+<area shape="rect" id="node1" title="Aeroelastic Flutter Speed Index." alt="" coords="581,74,757,115"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="249,52,533,79"/>
+<area shape="rect" id="node5" href="$class_c_solver.html#a13c86d41e468e5d7b9c7a21ab2008e19" title="Solve the typical section wing model." alt="" coords="287,103,496,145"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#ae1e74218b4e943111b100d7ddcbd4db9" title=" " alt="" coords="5,5,201,32"/>
+<area shape="rect" id="node4" href="$class_c_n_s_solver.html#a2a8ad49c42b4546696e631cf44b7788b" title=" " alt="" coords="20,56,187,83"/>
+<area shape="rect" id="node6" href="$class_c_solver.html#a8dd9c428bd1faa90ed188094b2e182bb" title="Prepares and solves the aeroelastic equations." alt="" coords="27,111,180,137"/>
+</map>

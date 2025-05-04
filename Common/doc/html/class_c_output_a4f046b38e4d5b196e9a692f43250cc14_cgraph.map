@@ -1,0 +1,28 @@
+<map id="COutput::MergeVolumetricConnectivity" name="COutput::MergeVolumetricConnectivity">
+<area shape="rect" id="node1" title="Merge the connectivity for a single element type from all processors." alt="" coords="5,586,200,627"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a55195abbb7206e08a4933fa53cd41923" title=" " alt="" coords="249,5,458,32"/>
+<area shape="rect" id="node4" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="248,56,459,83"/>
+<area shape="rect" id="node5" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="263,157,444,184"/>
+<area shape="rect" id="node7" href="$class_c_base_m_p_i_wrapper.html#a39e59958c13f7fefc74062ba2ff149f1" title=" " alt="" coords="256,107,451,133"/>
+<area shape="rect" id="node8" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="280,208,427,235"/>
+<area shape="rect" id="node9" href="$class_c_point.html#ab546170a5a03ef210a75fc5531910050" title="Get the global index in a parallel computation." alt="" coords="267,259,440,285"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a47df59fbfd882e2fa8fc71691292659b" title="Get the kind of SU2 software component." alt="" coords="271,309,436,336"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="279,361,427,402"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a778a77ff2b9e1d359eab9b2d2106fa81" title="Get the send&#45;receive information for a marker val_marker." alt="" coords="279,426,427,467"/>
+<area shape="rect" id="node13" href="$class_c_geometry.html#a4ae48ec038df1f5ee7c1daadabea5e99" title="Get number of elements." alt="" coords="270,492,437,519"/>
+<area shape="rect" id="node14" href="$class_c_geometry.html#a79a3d4162aaa318547e8ece980d7dab7" title="A virtual member." alt="" coords="253,543,454,569"/>
+<area shape="rect" id="node15" href="$class_c_geometry.html#a2879fc32fcfe90cfb201681e8604eff3" title="A virtual member." alt="" coords="258,593,449,620"/>
+<area shape="rect" id="node16" href="$class_c_geometry.html#ad85e5a3fe91d8af52188770635a2744d" title="A virtual member." alt="" coords="255,644,451,671"/>
+<area shape="rect" id="node17" href="$class_c_geometry.html#ac07d7e3099078797e2bf61cda823eaf4" title="A virtual member." alt="" coords="253,695,454,721"/>
+<area shape="rect" id="node18" href="$class_c_geometry.html#ae1c68a6d2cf97360d084ea823ac0c8de" title="A virtual member." alt="" coords="258,745,449,772"/>
+<area shape="rect" id="node19" href="$class_c_geometry.html#a9608f284351cef96b3332bfee6009a32" title="A virtual member." alt="" coords="258,796,449,823"/>
+<area shape="rect" id="node20" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="263,847,443,873"/>
+<area shape="rect" id="node21" href="$class_c_primal_grid.html#a4fc7b6b6ac5025325c7e68fb56fbeef8" title="A pure virtual member." alt="" coords="271,897,436,924"/>
+<area shape="rect" id="node22" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="284,948,423,975"/>
+<area shape="rect" id="node23" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="270,999,437,1025"/>
+<area shape="rect" id="node24" href="$class_c_vertex.html#a4f79701d89ed5eaaf6c4c41566a319d7" title="Get the type of rotation associated to the vertex." alt="" coords="255,1049,451,1076"/>
+<area shape="rect" id="node25" href="$class_c_primal_grid.html#adb676897e7cf4a83ceb83065e7c6a04f" title="A pure virtual member." alt="" coords="256,1100,451,1127"/>
+<area shape="rect" id="node26" href="$class_c_config.html#a3d32189ce78a3e64358b9d5030606ffa" title="Get information about writing rind layers to the solution files." alt="" coords="272,1151,435,1177"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="507,56,721,83"/>
+<area shape="rect" id="node6" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="521,157,707,184"/>
+</map>

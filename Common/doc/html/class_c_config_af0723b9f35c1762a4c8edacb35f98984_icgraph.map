@@ -1,0 +1,14 @@
+<map id="CConfig::GetVelocity_FreeStream" name="CConfig::GetVelocity_FreeStream">
+<area shape="rect" id="node1" title="Get the vector of the dimensionalized freestream velocity." alt="" coords="608,169,763,211"/>
+<area shape="rect" id="node2" href="$class_c_transfer___flow_traction.html#a79f8cf7b1864269b401b26d0f78127bc" title="Retrieve some constants needed for the calculations." alt="" coords="319,5,498,47"/>
+<area shape="rect" id="node3" href="$class_c_transfer___flow_traction___disc_adj.html#a05f4517ef3dd36f976c5f2afcfe32b04" title="Retrieve some constants needed for the calculations." alt="" coords="323,71,495,127"/>
+<area shape="rect" id="node4" href="$class_c_euler_solver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="267,151,551,178"/>
+<area shape="rect" id="node7" href="$class_c_inc_euler_solver.html#a2cffaa24417cb3803d36d38b3874d6d0" title="Set the solver nondimensionalization." alt="" coords="257,202,560,229"/>
+<area shape="rect" id="node10" href="$class_c_f_e_m___d_g___euler_solver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="308,253,509,295"/>
+<area shape="rect" id="node12" href="$class_c_euler_solver.html#a9cb1da16bea732300854a351ebca2ed3" title="Compute the spatial integration using a upwind scheme." alt="" coords="327,319,490,360"/>
+<area shape="rect" id="node5" href="$class_c_euler_solver.html#ae1e74218b4e943111b100d7ddcbd4db9" title=" " alt="" coords="9,93,205,119"/>
+<area shape="rect" id="node6" href="$class_c_n_s_solver.html#a2a8ad49c42b4546696e631cf44b7788b" title=" " alt="" coords="24,143,191,170"/>
+<area shape="rect" id="node8" href="$class_c_inc_euler_solver.html#a91f644b8f9a00215bac5bcd31dfc06d8" title=" " alt="" coords="11,195,204,236"/>
+<area shape="rect" id="node9" href="$class_c_inc_n_s_solver.html#a82152ac7e91fb1c5c073d98a1f08e2aa" title=" " alt="" coords="5,261,209,287"/>
+<area shape="rect" id="node11" href="$class_c_f_e_m___d_g___euler_solver.html#a70d30ef9e7cd7620d54ec73f4b1ed28c" title=" " alt="" coords="20,312,195,353"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CFEMStandardInternalFace::GetBasisFaceIntegrationTransposeSide1" name="CFEMStandardInternalFace::GetBasisFaceIntegrationTransposeSide1">
+<area shape="rect" id="node1" title="Function, which makes available transpose matrix of the face basis functions of side 1 in the integra..." alt="" coords="748,72,1037,113"/>
+<area shape="rect" id="node2" href="$class_c_f_e_m___d_g___euler_solver.html#a8875e58364f55e735fc3732f545d5f29" title="Compute the spatial residual for the given range of faces. It is a virtual function,..." alt="" coords="509,39,675,80"/>
+<area shape="rect" id="node6" href="$class_c_f_e_m___d_g___n_s_solver.html#a5afc06c0edede6e3917a6b24158930ba" title="Compute the spatial residual for the given range of faces." alt="" coords="484,104,700,145"/>
+<area shape="rect" id="node3" href="$class_c_f_e_m___d_g___euler_solver.html#a651cad1a94f2024c75a1a8be347e3375" title="Function, which processes the list of tasks to be executed by the DG solver." alt="" coords="269,39,436,80"/>
+<area shape="rect" id="node4" href="$class_c_f_e_m___d_g___euler_solver.html#a7f0da04d44069701db2228210b91c59e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="5,5,221,47"/>
+<area shape="rect" id="node5" href="$class_c_f_e_m___d_g___euler_solver.html#ac59d8dae95e3c3cc3ab3feaeb9be4b22" title="Function, which controls the computation of the spatial Jacobian." alt="" coords="19,71,208,112"/>
+</map>

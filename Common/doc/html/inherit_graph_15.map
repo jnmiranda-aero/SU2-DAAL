@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_c_dual_grid.html" title="Class for controlling the dual volume definition. The dual volume is compose by three main elements: ..." alt="" coords="5,56,93,83"/>
+<area shape="rect" id="node2" href="$class_c_edge.html" title="Class for defining an edge." alt="" coords="147,5,209,32"/>
+<area shape="rect" id="node3" href="$class_c_point.html" title="Class for point definition (including control volume definition)." alt="" coords="146,56,210,83"/>
+<area shape="rect" id="node4" href="$class_c_vertex.html" title="Class for vertex definition (equivalent to edges, but for the boundaries)." alt="" coords="141,107,215,133"/>
+<area shape="rect" id="node5" href="$class_c_turbo_vertex.html" title="Class for vertex definition for turbomachinery (equivalent to edges, but for the boundaries)." alt="" coords="263,107,371,133"/>
+</map>

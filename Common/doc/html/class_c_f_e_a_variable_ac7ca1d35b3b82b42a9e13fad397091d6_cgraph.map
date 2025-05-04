@@ -1,0 +1,5 @@
+<map id="CFEAVariable::RegisterSolution_Vel" name="CFEAVariable::RegisterSolution_Vel">
+<area shape="rect" id="node1" title="Register the variables in the velocity array as input/output variable." alt="" coords="5,31,256,57"/>
+<area shape="rect" id="node2" href="$namespace_a_d.html#a142308d54379f7aaa1c72195fb5fe992" title="Registers the variable as an input. I.e. as a leaf of the computational graph." alt="" coords="309,5,445,32"/>
+<area shape="rect" id="node3" href="$namespace_a_d.html#ae381e45797545e980376c4aeb3f5afdc" title="Registers the variable as an output. I.e. as the root of the computational graph." alt="" coords="304,56,451,83"/>
+</map>

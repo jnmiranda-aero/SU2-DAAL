@@ -1,0 +1,15 @@
+<map id="CGridAdaptation::SetIndicator_Computable_Robust" name="CGridAdaptation::SetIndicator_Computable_Robust">
+<area shape="rect" id="node1" title="Read the flow solution from the restart file." alt="" coords="5,195,220,236"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a2797c1033dce3a5a205e31c503694456" title="Get the power of the dual volume in the grid adaptation sensor." alt="" coords="309,5,462,47"/>
+<area shape="rect" id="node3" href="$class_c_geometry.html#a4ae48ec038df1f5ee7c1daadabea5e99" title="Get number of elements." alt="" coords="565,71,731,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#aefa3bcdd90a121f4542a4e88b32c51db" title="Get the number of new elements added in the adaptation process." alt="" coords="299,224,471,265"/>
+<area shape="rect" id="node5" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="302,290,469,317"/>
+<area shape="rect" id="node6" href="$class_c_point.html#a3c526a15e767c7de9cf163800aa581e5" title="Get area or volume of the control volume." alt="" coords="313,341,457,367"/>
+<area shape="rect" id="node7" href="$namespace_s_u2___t_y_p_e.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="329,391,441,418"/>
+<area shape="rect" id="node9" href="$class_c_primal_grid.html#af6977fd1339b8f9cc82448c464a389e1" title="Set that an element must be divided in the adaptation stage." alt="" coords="563,122,733,149"/>
+<area shape="rect" id="node10" href="$class_c_grid_adaptation.html#abe648dc71ea25acf41b46a87af9a2eff" title="Read the flow solution from the restart file." alt="" coords="268,173,503,199"/>
+<area shape="rect" id="node8" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="571,391,725,418"/>
+<area shape="rect" id="node11" href="$class_c_primal_grid.html#a8f953145c5ddd2fdff64146fe9bb85d9" title="Get if an element must be divided in the adaptation stage." alt="" coords="561,173,735,199"/>
+<area shape="rect" id="node12" href="$class_c_primal_grid.html#a4fc7b6b6ac5025325c7e68fb56fbeef8" title="A pure virtual member." alt="" coords="565,223,731,250"/>
+<area shape="rect" id="node13" href="$class_c_primal_grid.html#adb676897e7cf4a83ceb83065e7c6a04f" title="A pure virtual member." alt="" coords="551,274,745,301"/>
+</map>

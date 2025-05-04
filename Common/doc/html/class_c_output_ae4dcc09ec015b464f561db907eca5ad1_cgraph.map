@@ -1,0 +1,27 @@
+<map id="COutput::SpecialOutput_FSI" name="COutput::SpecialOutput_FSI">
+<area shape="rect" id="node1" title="Create and write the file with the FSI convergence history." alt="" coords="5,595,205,621"/>
+<area shape="rect" id="node2" href="$class_c_config.html#acbea9696f5273e0c5253938da436ecbd" title="Get the name of the file with the convergence history of the problem for FSI applications." alt="" coords="258,5,489,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a16fdb3ee7c760f2f129778f6162a1fe4" title="Get the direct differentation method." alt="" coords="291,56,456,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#abe9f117dab934d76e518a9e8e40b142a" title="Get the indicator whether we are solving an discrete adjoint problem." alt="" coords="295,107,452,149"/>
+<area shape="rect" id="node5" href="$class_c_config.html#aa48f2fc504ec2b261d5046f9a17677dd" title="Get the current external iteration number." alt="" coords="300,173,447,200"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a320a7ffed86f982bfe61eb2276ff359e" title="Get the current internal iteration number." alt="" coords="300,225,447,266"/>
+<area shape="rect" id="node7" href="$class_c_solver.html#a663de8ce053d2dc8a61130753d65bd51" title="A virtual member." alt="" coords="287,291,459,317"/>
+<area shape="rect" id="node8" href="$class_c_solver.html#abe6cd2f1b7cf318318af694ba6174e3d" title="A virtual member." alt="" coords="281,341,466,368"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a20ffa5926dadc26c7934413633132416" title="Get the current FSI iteration number." alt="" coords="301,392,445,419"/>
+<area shape="rect" id="node10" href="$class_c_config.html#ac036c2fe542984a827ea2f21b3b4d4a6" title="Geometric conditions for the structural solver." alt="" coords="253,443,493,469"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a66ca7e620390a81cd49cd0a00716128e" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="279,493,468,520"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="283,544,463,571"/>
+<area shape="rect" id="node13" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="293,595,454,621"/>
+<area shape="rect" id="node14" href="$class_c_solver.html#a15bae6d3f1f6a7c6a5d022ccf671e20b" title="A virtual member." alt="" coords="286,645,461,672"/>
+<area shape="rect" id="node15" href="$class_c_solver.html#a2de51adfd0ff0405b84131c77015ffd1" title="A virtual member." alt="" coords="293,696,453,723"/>
+<area shape="rect" id="node16" href="$class_c_solver.html#a680bce124e33f0b146811cbd6a17977d" title="A virtual member." alt="" coords="290,747,457,773"/>
+<area shape="rect" id="node17" href="$class_c_solver.html#a5906c2d5d62b8d42c46eee1c3b10de45" title="A virtual member." alt="" coords="295,797,452,824"/>
+<area shape="rect" id="node18" href="$class_c_solver.html#ab1b70f2f23cd7182aabed2345acf972a" title="A virtual member." alt="" coords="288,848,459,875"/>
+<area shape="rect" id="node19" href="$class_c_solver.html#a1e2ee41721815352e3a19bb590efa5f7" title="A virtual member." alt="" coords="288,899,459,925"/>
+<area shape="rect" id="node20" href="$class_c_solver.html#a1cd31e36c65bd9538dc697a4571c2eeb" title="A virtual member." alt="" coords="289,949,458,976"/>
+<area shape="rect" id="node21" href="$class_c_solver.html#a79e789306623dd2a3e0f735dd3edea8c" title="A virtual member." alt="" coords="263,1000,483,1027"/>
+<area shape="rect" id="node22" href="$class_c_solver.html#aefa81e3179719a7426544a5528220d4b" title="A virtual member." alt="" coords="266,1051,481,1077"/>
+<area shape="rect" id="node23" href="$class_c_config.html#ab08d8d856799dc4aa857f0cbcac0fa65" title="Get the restart iteration number for unsteady simulations." alt="" coords="269,1101,478,1128"/>
+<area shape="rect" id="node24" href="$namespace_s_u2___t_y_p_e.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="317,1152,429,1179"/>
+<area shape="rect" id="node25" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="541,1152,696,1179"/>
+</map>

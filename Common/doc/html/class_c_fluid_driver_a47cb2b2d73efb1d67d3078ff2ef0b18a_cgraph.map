@@ -1,0 +1,4 @@
+<map id="CFluidDriver::ResetConvergence" name="CFluidDriver::ResetConvergence">
+<area shape="rect" id="node1" title="Reset the convergence flag (set to false) of the multizone solver." alt="" coords="5,5,239,32"/>
+<area shape="rect" id="node2" href="$class_c_integration.html#a5f5e3b9ec398e7d4aef31982f90bfc67" title="Set the indicator of the convergence." alt="" coords="287,5,503,32"/>
+</map>

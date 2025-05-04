@@ -1,0 +1,9 @@
+<map id="COutput::SortConnectivity_FEM" name="COutput::SortConnectivity_FEM">
+<area shape="rect" id="node1" title="Sort the connectivities (volume and surface) into data structures used for output file writing (DG&#45;FE..." alt="" coords="5,107,232,133"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="323,5,533,32"/>
+<area shape="rect" id="node4" href="$class_c_config.html#af20a02c728330d647cb81c4649f510d4" title="Get information about writing a surface solution file." alt="" coords="339,56,517,83"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a7a93effee952830203f6d9e59afb3c10" title="Get information about writing a volume solution file." alt="" coords="338,107,518,133"/>
+<area shape="rect" id="node6" href="$class_c_output.html#a37f45d002bad68d897c4ecf4336a6d5f" title="Sort the connectivity for a single surface element type into a linear partitioning across all process..." alt="" coords="291,157,565,184"/>
+<area shape="rect" id="node7" href="$class_c_output.html#a4981836671a4d6edbf93fee7e15274ba" title="Sort the connectivity for a single volume element type into a linear partitioning across all processo..." alt="" coords="280,208,576,235"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="624,5,839,32"/>
+</map>

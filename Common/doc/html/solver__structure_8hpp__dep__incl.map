@@ -1,0 +1,45 @@
+<map id="/home/juan/DAAL/SU2/SU2&#45;DAAL/SU2_CFD/include/solver_structure.hpp" name="/home/juan/DAAL/SU2/SU2&#45;DAAL/SU2_CFD/include/solver_structure.hpp">
+<area shape="rect" id="node1" title="Headers of the main subroutines for solving partial differential equations. The subroutines and funct..." alt="" coords="3263,5,3470,61"/>
+<area shape="rect" id="node2" href="$definition__structure_8hpp.html" title="Headers of the main subroutines used by SU2_CFD. The subroutines and functions are in the definition_..." alt="" coords="1067,525,1274,581"/>
+<area shape="rect" id="node3" href="$_s_u2___c_f_d_8hpp.html" title="Headers of the main subroutines of the code SU2_CFD. The subroutines and functions are in the SU2_CFD..." alt="" coords="443,629,650,685"/>
+<area shape="rect" id="node7" href="$driver__structure_8hpp.html" title="Headers of the main subroutines for driving single or multi&#45;zone problems. The subroutines and functi..." alt="" coords="571,421,778,477"/>
+<area shape="rect" id="node9" href="$integration__structure_8hpp.html" title="Headers of the main subroutines for space and time integration. The subroutines and functions are in ..." alt="" coords="951,109,1158,165"/>
+<area shape="rect" id="node10" href="$iteration__structure_8hpp.html" title="Headers of the iteration classes used by SU2_CFD. Each CIteration class represents an available physi..." alt="" coords="886,317,1093,373"/>
+<area shape="rect" id="node12" href="$output__structure_8hpp.html" title="Headers of the main subroutines for generating the file outputs. The subroutines and functions are in..." alt="" coords="1965,213,2171,269"/>
+<area shape="rect" id="node20" href="$_s_u2___d_e_f_8hpp.html" title="Headers of the main subroutines of the code SU2_DEF. The subroutines and functions are in the SU2_DEF..." alt="" coords="2739,317,2946,373"/>
+<area shape="rect" id="node22" href="$_s_u2___s_o_l_8hpp.html" title="Headers of the main subroutines of the code SU2_SOL. The subroutines and functions are in the SU2_SOL..." alt="" coords="2971,317,3176,373"/>
+<area shape="rect" id="node24" href="$_s_u2___d_o_t_8hpp.html" title="Headers of the main subroutines of the code SU2_DOT. The subroutines and functions are in the SU2_DOT..." alt="" coords="3251,317,3459,373"/>
+<area shape="rect" id="node28" href="$transfer__structure_8hpp.html" title="Headers of the transfer structure The subroutines and functions are in the transfer_structure...." alt="" coords="267,213,474,269"/>
+<area shape="rect" id="node31" href="$solver__adjoint__discrete_8cpp.html" title="Main subroutines for solving the discrete adjoint problem." alt="" coords="3033,109,3237,165"/>
+<area shape="rect" id="node32" href="$solver__adjoint__elasticity_8cpp.html" title="Main subroutines for solving adjoint FEM elasticity problems." alt="" coords="3261,109,3472,165"/>
+<area shape="rect" id="node33" href="$solver__adjoint__mean_8cpp.html" title=" " alt="" coords="3496,109,3685,165"/>
+<area shape="rect" id="node34" href="$solver__adjoint__turbulent_8cpp.html" title=" " alt="" coords="3709,109,3920,165"/>
+<area shape="rect" id="node35" href="$solver__direct__elasticity_8cpp.html" title="Main subroutines for solving direct FEM elasticity problems." alt="" coords="3944,109,4147,165"/>
+<area shape="rect" id="node36" href="$solver__direct__heat_8cpp.html" title=" " alt="" coords="4171,109,4349,165"/>
+<area shape="rect" id="node37" href="$solver__direct__mean_8cpp.html" title=" " alt="" coords="4373,109,4555,165"/>
+<area shape="rect" id="node38" href="$solver__direct__mean__fem_8cpp.html" title=" " alt="" coords="4579,109,4794,165"/>
+<area shape="rect" id="node39" href="$solver__direct__mean__inc_8cpp.html" title=" " alt="" coords="4818,109,5025,165"/>
+<area shape="rect" id="node40" href="$solver__direct__transition_8cpp.html" title=" " alt="" coords="5049,109,5255,165"/>
+<area shape="rect" id="node41" href="$solver__direct__turbulent_8cpp.html" title=" " alt="" coords="5280,109,5483,165"/>
+<area shape="rect" id="node42" href="$solver__structure_8cpp.html" title="Main subrotuines for solving direct, adjoint and linearized problems." alt="" coords="5507,109,5685,165"/>
+<area shape="rect" id="node43" href="$solver__template_8cpp.html" title=" " alt="" coords="5709,109,5888,165"/>
+<area shape="rect" id="node5" href="$definition__structure_8cpp.html" title="Main subroutines used by SU2_CFD." alt="" coords="1081,629,1260,685"/>
+<area shape="rect" id="node6" href="$driver__structure_8cpp.html" title="The main subroutines for driving single or multi&#45;zone problems." alt="" coords="841,629,1020,685"/>
+<area shape="rect" id="node4" href="$_s_u2___c_f_d_8cpp.html" title="Main file of the SU2 Computational Fluid Dynamics code." alt="" coords="457,733,636,789"/>
+<area shape="rect" id="node8" href="$python__wrapper__structure_8cpp.html" title="Driver subroutines that are used by the Python wrapper. Those routines are usually called from an ext..." alt="" coords="583,525,806,581"/>
+<area shape="rect" id="node26" href="$integration__structure_8cpp.html" title="This subroutine includes the space and time integration structure." alt="" coords="600,213,789,269"/>
+<area shape="rect" id="node27" href="$integration__time_8cpp.html" title="Time dependent numerical methods." alt="" coords="813,213,992,269"/>
+<area shape="rect" id="node11" href="$iteration__structure_8cpp.html" title="Main subroutines used by SU2_CFD." alt="" coords="904,421,1083,477"/>
+<area shape="rect" id="node13" href="$output__cgns_8cpp.html" title="Main subroutines for output solver information." alt="" coords="1877,317,2056,373"/>
+<area shape="rect" id="node14" href="$output__fieldview_8cpp.html" title="Main subroutines for output solver information." alt="" coords="2080,317,2259,373"/>
+<area shape="rect" id="node15" href="$output__paraview_8cpp.html" title="Main subroutines for the output of ParaView visualization files." alt="" coords="2333,317,2512,373"/>
+<area shape="rect" id="node16" href="$output__physics_8cpp.html" title="Main subroutines to compute physical output quantities such as CL, CD, entropy generation,..." alt="" coords="2536,317,2715,373"/>
+<area shape="rect" id="node17" href="$output__structure_8cpp.html" title="Main subroutines for output solver information." alt="" coords="1269,317,1448,373"/>
+<area shape="rect" id="node18" href="$output__su2_8cpp.html" title="Main subroutines for output solver information." alt="" coords="1472,317,1651,373"/>
+<area shape="rect" id="node19" href="$output__tecplot_8cpp.html" title="Main subroutines for output solver information." alt="" coords="1675,317,1853,373"/>
+<area shape="rect" id="node21" href="$_s_u2___d_e_f_8cpp.html" title="Main file of Mesh Deformation Code (SU2_DEF)." alt="" coords="2753,421,2932,477"/>
+<area shape="rect" id="node23" href="$_s_u2___s_o_l_8cpp.html" title="Main file for the solution export/conversion code (SU2_SOL)." alt="" coords="2985,421,3162,477"/>
+<area shape="rect" id="node25" href="$_s_u2___d_o_t_8cpp.html" title="Main file of the Gradient Projection Code (SU2_DOT)." alt="" coords="3265,421,3445,477"/>
+<area shape="rect" id="node29" href="$transfer__physics_8cpp.html" title=" " alt="" coords="93,317,272,373"/>
+<area shape="rect" id="node30" href="$transfer__structure_8cpp.html" title="Main subroutines for physics of the information transfer between zones." alt="" coords="296,317,475,373"/>
+</map>

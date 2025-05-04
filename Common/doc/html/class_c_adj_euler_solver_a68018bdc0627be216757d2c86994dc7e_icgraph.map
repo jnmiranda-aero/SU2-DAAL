@@ -1,0 +1,8 @@
+<map id="CAdjEulerSolver::Set_MPI_Solution" name="CAdjEulerSolver::Set_MPI_Solution">
+<area shape="rect" id="node1" title="Impose the send&#45;receive boundary condition." alt="" coords="261,123,416,164"/>
+<area shape="rect" id="node2" href="$class_c_adj_euler_solver.html#a0a739888df9436d4707665d152a7af1a" title=" " alt="" coords="11,5,208,47"/>
+<area shape="rect" id="node3" href="$class_c_adj_n_s_solver.html#a323f1dc7c0b9fe00d1911eeeea365d46" title=" " alt="" coords="5,71,213,98"/>
+<area shape="rect" id="node4" href="$class_c_adj_euler_solver.html#a2863f1ed56105b595204ac31b3dab66b" title="Update the solution using a explicit Euler scheme." alt="" coords="18,123,201,164"/>
+<area shape="rect" id="node5" href="$class_c_adj_euler_solver.html#a83de159f4bd062c776f07d087414a9cf" title="Update the solution using a Runge&#45;Kutta strategy." alt="" coords="18,188,201,229"/>
+<area shape="rect" id="node6" href="$class_c_adj_euler_solver.html#af64f459bce9498b1d19d8a645d0bc2c3" title="Update the solution using an implicit solver." alt="" coords="18,253,201,295"/>
+</map>

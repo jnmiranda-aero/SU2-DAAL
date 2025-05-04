@@ -1,0 +1,14 @@
+<map id="CConfig::GetKind_Centered_Flow" name="CConfig::GetKind_Centered_Flow">
+<area shape="rect" id="node1" title="Get the kind of center convective numerical scheme for the flow equations." alt="" coords="628,213,864,239"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a70328326ace55eb5b3a786455a1d0de8" title="Compute the spatial integration using a centered scheme." alt="" coords="371,5,543,47"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#a8f119d91c8b4c53415045afee6b4f3d0" title="Compute the spatial integration using a centered scheme." alt="" coords="361,71,552,112"/>
+<area shape="rect" id="node4" href="$class_c_driver.html#a07b570fb66322870b48268e8eb63599f" title="Definition and allocation of all solver classes." alt="" coords="333,137,580,163"/>
+<area shape="rect" id="node7" href="$class_c_driver.html#a60382de671a5ddd17e35573cc49ec2a6" title="Definition and allocation of all solver classes." alt="" coords="337,187,576,214"/>
+<area shape="rect" id="node9" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="355,238,559,265"/>
+<area shape="rect" id="node10" href="$class_c_inc_euler_solver.html#aabd902b10cc9b41b6b2c406efba0ac41" title="Compute primitive variables and their gradients." alt="" coords="345,289,568,315"/>
+<area shape="rect" id="node11" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="362,339,551,366"/>
+<area shape="rect" id="node12" href="$class_c_inc_n_s_solver.html#ae84f6e86313acd1da80c505b4eab81e5" title="Restart residual and compute gradients." alt="" coords="353,390,561,417"/>
+<area shape="rect" id="node5" href="$class_c_driver.html#a6ad9df8d8a8de75033ef296fed39c213" title="Deallocation routine." alt="" coords="108,137,285,163"/>
+<area shape="rect" id="node6" href="$_s_u2___c_f_d_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,137,60,163"/>
+<area shape="rect" id="node8" href="$class_c_driver.html#afac169e386a89af2a52be8902abb27f2" title="Constructor of the class." alt="" coords="133,187,261,214"/>
+</map>

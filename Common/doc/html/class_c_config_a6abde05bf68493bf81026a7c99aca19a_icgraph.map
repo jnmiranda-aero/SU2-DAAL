@@ -1,0 +1,16 @@
+<map id="CConfig::SetAoS" name="CConfig::SetAoS">
+<area shape="rect" id="node1" title="Set the angle of attack." alt="" coords="509,275,636,302"/>
+<area shape="rect" id="node2" href="$class_c_physical_geometry.html#ad61681f39d9e2dbdaf821433e22fd4b0" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file in para..." alt="" coords="263,89,459,131"/>
+<area shape="rect" id="node4" href="$class_c_solver.html#a4591089e9efd66cf15c922bd7136d70e" title="Read the metadata from a native SU2 restart file (ASCII or binary)." alt="" coords="261,268,461,309"/>
+<area shape="rect" id="node13" href="$class_c_config.html#aa4e0ba3c44738bd4b71e0f86f912153f" title="Config file postprocessing." alt="" coords="262,414,461,441"/>
+<area shape="rect" id="node3" href="$class_c_physical_geometry.html#a075a737b341a64de5463ddd41096692e" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file." alt="" coords="31,5,188,47"/>
+<area shape="rect" id="node5" href="$class_c_adj_euler_solver.html#a0a739888df9436d4707665d152a7af1a" title=" " alt="" coords="11,71,208,112"/>
+<area shape="rect" id="node6" href="$class_c_adj_n_s_solver.html#a323f1dc7c0b9fe00d1911eeeea365d46" title=" " alt="" coords="5,137,213,163"/>
+<area shape="rect" id="node7" href="$class_c_euler_solver.html#ae1e74218b4e943111b100d7ddcbd4db9" title=" " alt="" coords="11,187,207,214"/>
+<area shape="rect" id="node8" href="$class_c_inc_euler_solver.html#a91f644b8f9a00215bac5bcd31dfc06d8" title=" " alt="" coords="13,239,206,280"/>
+<area shape="rect" id="node9" href="$class_c_inc_n_s_solver.html#a82152ac7e91fb1c5c073d98a1f08e2aa" title=" " alt="" coords="7,305,211,331"/>
+<area shape="rect" id="node10" href="$class_c_n_s_solver.html#a2a8ad49c42b4546696e631cf44b7788b" title=" " alt="" coords="26,355,193,382"/>
+<area shape="rect" id="node11" href="$class_c_disc_adj_solver.html#ae9b5d31c76381f5d45884642694d9879" title="Load a solution from a restart file." alt="" coords="6,406,213,433"/>
+<area shape="rect" id="node12" href="$class_c_disc_adj_f_e_a_solver.html#a21c5685021d084732a1aa3d552cd9043" title="Load a solution from a restart file." alt="" coords="32,457,187,499"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a11a3aee9b028ea4a62ec16cc729f3d2a" title="Constructor of the class which reads the input file." alt="" coords="44,523,175,550"/>
+</map>

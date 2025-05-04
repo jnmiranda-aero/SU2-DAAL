@@ -1,0 +1,8 @@
+<map id="CEulerSolver::UpdateCustomBoundaryConditions" name="CEulerSolver::UpdateCustomBoundaryConditions">
+<area shape="rect" id="node1" title="Update the multi&#45;grid structure for the customized boundary conditions." alt="" coords="5,90,216,131"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="264,5,445,32"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="281,57,429,98"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a5c4f3fe48fe141bcea832b12fa7f7588" title="Get the Python customization for a marker val_marker." alt="" coords="281,122,429,163"/>
+<area shape="rect" id="node6" href="$class_c_config.html#aea7f78497a5cd863bd065391232329fd" title="Get the number of multigrid levels." alt="" coords="267,188,442,215"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="493,5,679,32"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="CConfig::GetWeight_ObjFunc" name="CConfig::GetWeight_ObjFunc">
+<area shape="rect" id="node1" title="Get the weight of objective function. There are several options: Drag coefficient,..." alt="" coords="859,210,1007,251"/>
+<area shape="rect" id="node2" href="$class_c_adj_n_s_solver.html#a20cd2fa256386da7791e11f40b701003" title="Impose via the residual or brute force the Navier&#45;Stokes adjoint boundary condition (heat flux)." alt="" coords="561,5,811,32"/>
+<area shape="rect" id="node3" href="$class_c_adj_euler_solver.html#a0b3408be5adebd52b79bd3c5227cbe9d" title="Impose the outlet boundary condition." alt="" coords="610,57,762,98"/>
+<area shape="rect" id="node4" href="$class_c_adj_euler_solver.html#a0a739888df9436d4707665d152a7af1a" title=" " alt="" coords="587,122,785,163"/>
+<area shape="rect" id="node5" href="$class_c_adj_n_s_solver.html#a323f1dc7c0b9fe00d1911eeeea365d46" title=" " alt="" coords="582,188,790,215"/>
+<area shape="rect" id="node6" href="$class_c_euler_solver.html#a08e74ee3f041c5fbe83200b2bbc56c64" title="Compute weighted&#45;sum &quot;combo&quot; objective output." alt="" coords="601,239,771,281"/>
+<area shape="rect" id="node7" href="$class_c_inc_euler_solver.html#ad6fafab9cf231870b47a6a8153de64f9" title="Compute weighted&#45;sum &quot;combo&quot; objective output." alt="" coords="591,305,781,346"/>
+<area shape="rect" id="node8" href="$class_c_n_s_solver.html#a81c4befad9303937288e9a7394a9eeb6" title="Compute weighted&#45;sum &quot;combo&quot; objective output." alt="" coords="609,370,763,411"/>
+<area shape="rect" id="node9" href="$class_c_adj_euler_solver.html#a814d69e54f24c9fef36e3493a2230973" title="Created the force projection vector for adjoint boundary conditions." alt="" coords="591,435,781,477"/>
+<area shape="rect" id="node10" href="$class_c_adj_euler_solver.html#a5265a44e6c43dee677c9f26333148432" title="Update the AoA and freestream velocity at the farfield." alt="" coords="279,443,513,469"/>
+<area shape="rect" id="node11" href="$class_c_adj_euler_solver.html#a4ae0ed840dc8335fd921399625ba794f" title="Initialize the residual vectors." alt="" coords="5,417,231,444"/>
+<area shape="rect" id="node12" href="$class_c_adj_n_s_solver.html#ac16dab76e2c1d86bc7d70ca9f41fd668" title="Restart residual and compute gradients." alt="" coords="13,468,223,495"/>
+</map>

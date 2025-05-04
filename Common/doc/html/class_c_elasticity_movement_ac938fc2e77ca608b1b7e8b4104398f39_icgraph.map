@@ -1,0 +1,5 @@
+<map id="CElasticityMovement::SetClamped_Boundary" name="CElasticityMovement::SetClamped_Boundary">
+<area shape="rect" id="node1" title="Set the boundary displacements to 0." alt="" coords="535,5,713,47"/>
+<area shape="rect" id="node2" href="$class_c_elasticity_movement.html#a3029292283da23e9af447e4dfc8c8717" title="Check the boundary vertex that are going to be moved." alt="" coords="276,5,487,47"/>
+<area shape="rect" id="node3" href="$class_c_elasticity_movement.html#aa7ba45343e741043847388c3ccf98306" title="Grid deformation using the linear elasticity equations." alt="" coords="5,5,228,47"/>
+</map>

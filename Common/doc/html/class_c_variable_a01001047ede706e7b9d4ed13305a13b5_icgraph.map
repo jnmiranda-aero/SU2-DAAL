@@ -1,0 +1,14 @@
+<map id="CVariable::GetProjVel" name="CVariable::GetProjVel">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="555,227,715,253"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a76f7fdf349ae41c6f0cf4df82b571fb1" title="Compute the max eigenvalue." alt="" coords="310,45,473,86"/>
+<area shape="rect" id="node5" href="$class_c_inc_euler_solver.html#ab804c5648aa5dd71ea12a57997167984" title="Compute the max eigenvalue." alt="" coords="301,110,482,151"/>
+<area shape="rect" id="node8" href="$class_c_euler_solver.html#aeed500154a5961eb2bfbd2e646a9b25f" title="Compute the time step for solving the Euler equations." alt="" coords="290,176,493,203"/>
+<area shape="rect" id="node9" href="$class_c_inc_euler_solver.html#a875187880aa80b37f7d200526f9883ba" title="Compute the time step for solving the Euler equations." alt="" coords="280,227,503,253"/>
+<area shape="rect" id="node10" href="$class_c_n_s_solver.html#a340a62e197f7386736db85967e586804" title="Compute the time step for solving the Navier&#45;Stokes equations with turbulence model." alt="" coords="297,277,485,304"/>
+<area shape="rect" id="node11" href="$class_c_inc_n_s_solver.html#a50e3b8e05bda6be8be79b9068c06bd4e" title="Compute the time step for solving the Navier&#45;Stokes equations with turbulence model." alt="" coords="288,328,495,355"/>
+<area shape="rect" id="node12" href="$class_c_heat_solver_f_v_m.html#a5d2dc86ae38a3f979cfce8bf7bccdaa8" title="A virtual member." alt="" coords="276,379,507,405"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="15,5,219,32"/>
+<area shape="rect" id="node4" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="22,56,211,83"/>
+<area shape="rect" id="node6" href="$class_c_inc_euler_solver.html#aabd902b10cc9b41b6b2c406efba0ac41" title="Compute primitive variables and their gradients." alt="" coords="5,113,228,140"/>
+<area shape="rect" id="node7" href="$class_c_inc_n_s_solver.html#ae84f6e86313acd1da80c505b4eab81e5" title="Restart residual and compute gradients." alt="" coords="13,164,221,191"/>
+</map>

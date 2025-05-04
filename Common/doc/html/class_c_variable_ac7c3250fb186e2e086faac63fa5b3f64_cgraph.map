@@ -1,0 +1,5 @@
+<map id="CVariable::RegisterSolution" name="CVariable::RegisterSolution">
+<area shape="rect" id="node1" title="Register the variables in the solution array as input/output variable." alt="" coords="5,31,204,57"/>
+<area shape="rect" id="node2" href="$namespace_a_d.html#a142308d54379f7aaa1c72195fb5fe992" title="Registers the variable as an input. I.e. as a leaf of the computational graph." alt="" coords="257,5,393,32"/>
+<area shape="rect" id="node3" href="$namespace_a_d.html#ae381e45797545e980376c4aeb3f5afdc" title="Registers the variable as an output. I.e. as the root of the computational graph." alt="" coords="252,56,399,83"/>
+</map>

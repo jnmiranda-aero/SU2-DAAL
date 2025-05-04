@@ -1,0 +1,6 @@
+<map id="CPrimalGrid::GetCG" name="CPrimalGrid::GetCG">
+<area shape="rect" id="node1" title="Get the center of gravity of an element (including edges)." alt="" coords="233,78,384,105"/>
+<area shape="rect" id="node2" href="$class_c_physical_geometry.html#a1d9a41135773efb3dbc1c8ba18752ea3" title="Set boundary vertex structure of the control volume." alt="" coords="5,5,185,47"/>
+<area shape="rect" id="node3" href="$class_c_physical_geometry.html#a8d8c95d00048bdbdcde83e0b318e7b01" title="Set the edge structure of the control volume." alt="" coords="17,71,174,112"/>
+<area shape="rect" id="node4" href="$class_c_physical_geometry.html#abccff4b11413861224417bb9e2f3bfbe" title="Visualize the structure of the control volume(s)." alt="" coords="7,136,184,177"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="CPhysicalGeometry::CPhysicalGeometry" name="CPhysicalGeometry::CPhysicalGeometry">
+<area shape="rect" id="node1" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file." alt="" coords="5,1977,163,2018"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="775,1307,956,1333"/>
+<area shape="rect" id="node4" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="269,1841,402,1868"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="245,1892,425,1919"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a47df59fbfd882e2fa8fc71691292659b" title="Get the kind of SU2 software component." alt="" coords="535,208,700,235"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a778a77ff2b9e1d359eab9b2d2106fa81" title="Get the send&#45;receive information for a marker val_marker." alt="" coords="261,1943,409,1985"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="261,2009,409,2050"/>
+<area shape="rect" id="node9" href="$class_c_config.html#ad15c7eadd9c6afcb43f60f8d7c9f27f9" title="Get the format of the input/output grid." alt="" coords="228,2075,443,2101"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a2c779b77a2bca4ae322c2610db25b6f2" title="Get name of the input grid." alt="" coords="232,2125,439,2152"/>
+<area shape="rect" id="node11" href="$class_c_config.html#aefa1a86d2c906eb6bb146578d55114f7" title="Append the zone index to the restart or the solution files." alt="" coords="252,2177,419,2218"/>
+<area shape="rect" id="node14" href="$class_c_primal_grid.html#a0efbf2f8391d5177d92bd850016a3783" title="A pure virtual member." alt="" coords="527,1887,707,1913"/>
+<area shape="rect" id="node15" href="$class_c_base_m_p_i_wrapper.html#a801c6612161d6960c5cf25435f244101" title=" " alt="" coords="232,2243,439,2269"/>
+<area shape="rect" id="node16" href="$class_c_primal_grid.html#acc5076fe3538908311a99001bae3a6d7" title="A pure virtual member." alt="" coords="224,2293,447,2320"/>
+<area shape="rect" id="node17" href="$class_c_base_m_p_i_wrapper.html#a1e80850252f6e4bfc8cd5275d6e3a615" title=" " alt="" coords="235,2344,435,2371"/>
+<area shape="rect" id="node18" href="$class_c_config.html#afbc5c2467fd51eafa6e05e5bda7d3d3e" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="211,2395,460,2421"/>
+<area shape="rect" id="node19" href="$class_c_primal_grid.html#adb676897e7cf4a83ceb83065e7c6a04f" title="A pure virtual member." alt="" coords="238,2445,433,2472"/>
+<area shape="rect" id="node20" href="$class_c_physical_geometry.html#ae1a7c39a36f9e841f90066dd1cceaa75" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file in para..." alt="" coords="232,918,439,959"/>
+<area shape="rect" id="node47" href="$class_c_physical_geometry.html#a5fa5c4805d03646f8bfbf8622265f958" title="Reads for the FEM solver the geometry of the grid and adjust the boundary conditions with the configu..." alt="" coords="214,1277,457,1318"/>
+<area shape="rect" id="node48" href="$class_c_physical_geometry.html#ad61681f39d9e2dbdaf821433e22fd4b0" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file in para..." alt="" coords="237,1015,433,1057"/>
+<area shape="rect" id="node49" href="$class_c_physical_geometry.html#a8fb5c62d5c61dd689ea5d51d4f174831" title="Reads for the FEM solver the geometry of the grid and adjust the boundary conditions with the configu..." alt="" coords="220,1342,451,1383"/>
+<area shape="rect" id="node50" href="$class_c_point.html#a65e00c853fad29849662f3a66d56f7e0" title="Set the coordinates for the control volume." alt="" coords="270,2496,401,2523"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="1004,1307,1189,1333"/>
+<area shape="rect" id="node12" href="$class_c_config.html#ad8a83ccc6af7a42273330d6bf596b8c0" title="Provides the number of varaibles." alt="" coords="545,2209,689,2236"/>
+<area shape="rect" id="node13" href="$namespace_s_u2___t_y_p_e.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="561,2159,673,2185"/>
+<area shape="rect" id="node21" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="512,5,723,32"/>
+<area shape="rect" id="node22" href="$class_c_base_m_p_i_wrapper.html#a86496abf1db8449b17501e14111f3371" title=" " alt="" coords="519,56,715,83"/>
+<area shape="rect" id="node23" href="$class_c_config.html#ae517fdcd3fe8801b3dd118fafe7b3953" title="Get the plotting information from the config definition for the marker val_marker." alt="" coords="543,1081,691,1122"/>
+<area shape="rect" id="node24" href="$class_c_config.html#a5dd9009d1bf406a513a3e1daeabb6c93" title="Get the monitoring information from the config definition for the marker val_marker." alt="" coords="543,1146,691,1187"/>
+<area shape="rect" id="node25" href="$class_c_config.html#a6f944f56bb37e627e5e4e3686c7d9f4d" title="Get the DV information from the config definition for the marker val_marker." alt="" coords="543,1211,691,1253"/>
+<area shape="rect" id="node26" href="$class_c_config.html#a352a6b4d652797d2a07b70001319b6aa" title="Get the monitoring information from the config definition for the marker val_marker." alt="" coords="543,1277,691,1318"/>
+<area shape="rect" id="node27" href="$class_c_config.html#abab1232c0135ca0ca4416694c8d7ccb5" title="Get the boundary information (kind of boundary) in the config information of the marker val_marker." alt="" coords="543,1342,691,1383"/>
+<area shape="rect" id="node28" href="$class_c_config.html#a660ea59401ef0bc8eb259303341387b2" title="Get the MixingPlane interface information from the config definition for the marker val_marker." alt="" coords="508,521,727,562"/>
+<area shape="rect" id="node29" href="$class_c_config.html#adcc754469efaf37d8982ac0c626ebe1f" title="Get the monitoring information from the config definition for the marker val_marker." alt="" coords="542,1407,693,1449"/>
+<area shape="rect" id="node30" href="$class_c_config.html#abe5f64f56bb3c4c04bec33749067f6d4" title="Get the motion information from the config definition for the marker val_marker." alt="" coords="543,1473,691,1514"/>
+<area shape="rect" id="node31" href="$class_c_config.html#a113e9e5110b90110cfefa4825ab0bc6c" title="Get the periodic information from the config definition of the marker val_marker." alt="" coords="543,1538,691,1579"/>
+<area shape="rect" id="node32" href="$class_c_config.html#afda7710b599f88f9d5fdcd80fc39a6e3" title="Get the plotting information from the config definition for the marker val_marker." alt="" coords="543,1603,691,1645"/>
+<area shape="rect" id="node33" href="$class_c_config.html#a8fd96a199e1151dd07d82f23f19ff540" title="Get the Python customization information from the config definition for the marker val_marker." alt="" coords="543,259,691,301"/>
+<area shape="rect" id="node34" href="$class_c_config.html#afbe63631fc63185ae5ce6b8caf8ce580" title="Get the index in the config information of the marker val_marker." alt="" coords="543,819,691,861"/>
+<area shape="rect" id="node35" href="$class_c_config.html#ae51913231b887e35583416da15315c62" title="Get the TurboPerformance information from the config definition for the marker val_marker." alt="" coords="525,325,710,366"/>
+<area shape="rect" id="node36" href="$class_c_config.html#a6079fafe14e422e85ee85cf5249906a1" title="Get the TurboPerformance flag information from the config definition for the marker val_marker." alt="" coords="511,390,724,431"/>
+<area shape="rect" id="node37" href="$class_c_config.html#afe4a87f67504459ca877bdc28940be8f" title="Get the FSI interface information from the config definition for the marker val_marker." alt="" coords="531,1669,703,1710"/>
+<area shape="rect" id="node38" href="$class_c_config.html#aec6c93336a29b85c8e0ce66352852f58" title="Get the total number of boundary markers." alt="" coords="522,1735,713,1761"/>
+<area shape="rect" id="node39" href="$class_c_base_m_p_i_wrapper.html#ae41565b441aee76e1b48eb03e5ac86dd" title=" " alt="" coords="526,107,709,133"/>
+<area shape="rect" id="node40" href="$class_c_base_m_p_i_wrapper.html#a43a415ec11a029ade218eaf8c807a817" title=" " alt="" coords="525,637,710,664"/>
+<area shape="rect" id="node41" href="$class_c_config.html#a822723d98435a7a1f06ba1b15c18efe0" title="Set if a marker val_marker is going to be plot val_plotting (read from the config file)." alt="" coords="544,689,691,730"/>
+<area shape="rect" id="node42" href="$class_c_config.html#a411c5919b9c6621eaab590146d37d7d6" title="Set if a marker val_marker is going to be designed val_designing (read from the config file)." alt="" coords="544,754,691,795"/>
+<area shape="rect" id="node43" href="$class_c_config.html#add5748db493df55770d5c6314e1e7944" title="Set if a marker val_marker is going to be affected by design variables val_moving (read from the conf..." alt="" coords="544,885,691,926"/>
+<area shape="rect" id="node44" href="$class_c_config.html#a87f1907945fe6d30767c6d303f0224b6" title="Set if a marker val_marker is going to be monitored val_monitoring (read from the config file)." alt="" coords="544,950,691,991"/>
+<area shape="rect" id="node45" href="$class_c_config.html#adc22b84484d1022a385516b5e4e050fa" title="Set the value of the boundary val_boundary (read from the config file) for the marker val_marker." alt="" coords="544,1015,691,1057"/>
+<area shape="rect" id="node46" href="$class_c_config.html#ac3b28eae18c62c78680f63e62c3c1473" title="Set if a marker val_marker is part of the MixingPlane interface (read from the config file)." alt="" coords="522,455,713,497"/>
+</map>

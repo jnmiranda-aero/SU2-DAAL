@@ -1,0 +1,4 @@
+<map id="CPhysicalGeometry::GetGlobal_nPointDomain" name="CPhysicalGeometry::GetGlobal_nPointDomain">
+<area shape="rect" id="node1" title="Retrieve total number of nodes in a simulation across all processors (excluding halos)." alt="" coords="211,5,397,47"/>
+<area shape="rect" id="node2" href="$class_c_physical_geometry.html#a01b28fa420b3d1138aa8816453202a33" title="Read the sensitivity from adjoint solution file and store it." alt="" coords="5,5,163,47"/>
+</map>

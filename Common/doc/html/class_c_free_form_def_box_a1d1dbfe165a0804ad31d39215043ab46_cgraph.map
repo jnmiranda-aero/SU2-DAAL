@@ -1,0 +1,6 @@
+<map id="CFreeFormDefBox::SetSupportCP" name="CFreeFormDefBox::SetSupportCP">
+<area shape="rect" id="node1" title="Set the control points of the final chuck in a unitary hexahedron free form." alt="" coords="5,56,241,83"/>
+<area shape="rect" id="node2" href="$class_c_free_form_def_box.html#a41ba3a93be7707d12dd8582aac84b28b" title="Get the order in the l direction of the FFD FFDBox." alt="" coords="294,5,505,32"/>
+<area shape="rect" id="node3" href="$class_c_free_form_def_box.html#ad0a84141a7cc5d231050ed04a3eb1a5d" title="Get the order in the m direction of the FFD FFDBox." alt="" coords="289,56,509,83"/>
+<area shape="rect" id="node4" href="$class_c_free_form_def_box.html#ab077841e1b5c6d82234c5c0f92a61e35" title="Get the order in the n direction of the FFD FFDBox." alt="" coords="292,107,507,133"/>
+</map>

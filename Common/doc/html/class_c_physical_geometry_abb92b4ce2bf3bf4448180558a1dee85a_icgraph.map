@@ -1,0 +1,4 @@
+<map id="CPhysicalGeometry::PartitionSurfaceConnectivity" name="CPhysicalGeometry::PartitionSurfaceConnectivity">
+<area shape="rect" id="node1" title="Partition the marker connectivity held on the master rank according to a linear partitioning." alt="" coords="211,5,417,47"/>
+<area shape="rect" id="node2" href="$class_c_physical_geometry.html#a5060b218ee34c7fe7ccfbee03e912fd6" title="Accepts a geometry container holding a linearly partitioned grid with coloring performed by ParMETIS,..." alt="" coords="5,5,163,47"/>
+</map>

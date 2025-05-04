@@ -1,0 +1,5 @@
+<map id="CPrimalGrid::SetDonorsWallFunctions" name="CPrimalGrid::SetDonorsWallFunctions">
+<area shape="rect" id="node1" title="Virtual function to set the global ID&#39;s of the donor elements for the wall function treatment." alt="" coords="507,13,709,54"/>
+<area shape="rect" id="node2" href="$class_c_physical_geometry.html#acef4e18142b580bf09f21e5b71387d5f" title="Determine the donor elements for the boundary elements on viscous wall boundaries when wall functions..." alt="" coords="240,5,459,61"/>
+<area shape="rect" id="node3" href="$class_c_physical_geometry.html#a731c0207381f31f0b1165b646abc2acb" title="Set the domains for FEM grid partitioning using ParMETIS." alt="" coords="5,13,192,54"/>
+</map>

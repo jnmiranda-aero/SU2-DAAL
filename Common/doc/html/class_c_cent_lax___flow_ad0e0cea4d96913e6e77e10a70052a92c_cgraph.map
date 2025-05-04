@@ -1,0 +1,5 @@
+<map id="CCentLax_Flow::ComputeResidual" name="CCentLax_Flow::ComputeResidual">
+<area shape="rect" id="node1" title="Compute the flow residual using a Lax method." alt="" coords="5,31,249,57"/>
+<area shape="rect" id="node2" href="$class_c_numerics.html#a1a9e44996dede2330af84349204dc312" title="Compute the projected inviscid flux vector." alt="" coords="297,5,524,32"/>
+<area shape="rect" id="node3" href="$class_c_numerics.html#ae0225b473263a9547a2445c423ba7dce" title="Compute the projection of the inviscid Jacobian matrices." alt="" coords="301,56,520,83"/>
+</map>

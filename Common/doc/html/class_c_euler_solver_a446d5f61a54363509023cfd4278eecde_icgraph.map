@@ -1,0 +1,7 @@
+<map id="CEulerSolver::Set_MPI_Primitive_Gradient" name="CEulerSolver::Set_MPI_Primitive_Gradient">
+<area shape="rect" id="node1" title="Compute the gradient of the primitive variables using a Least&#45;Squares method, and stores the result i..." alt="" coords="499,39,664,80"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#ad5e5c2aed0d347dd662a17a55c88f971" title="Compute the gradient of the primitive variables using Green&#45;Gauss method, and stores the result in th..." alt="" coords="257,5,451,47"/>
+<area shape="rect" id="node5" href="$class_c_euler_solver.html#af206d80b1418bfa2001fd0c204e3e38a" title="Compute the gradient of the primitive variables using a Least&#45;Squares method, and stores the result i..." alt="" coords="257,71,451,112"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="5,17,209,43"/>
+<area shape="rect" id="node4" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="13,71,202,98"/>
+</map>

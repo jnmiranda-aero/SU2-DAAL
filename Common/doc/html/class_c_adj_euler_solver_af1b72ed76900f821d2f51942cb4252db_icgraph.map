@@ -1,0 +1,5 @@
+<map id="CAdjEulerSolver::SetCentered_Dissipation_Sensor" name="CAdjEulerSolver::SetCentered_Dissipation_Sensor">
+<area shape="rect" id="node1" title="Compute the sensor for higher order dissipation control in rotating problems." alt="" coords="279,23,493,65"/>
+<area shape="rect" id="node2" href="$class_c_adj_euler_solver.html#a4ae0ed840dc8335fd921399625ba794f" title="Initialize the residual vectors." alt="" coords="5,5,231,32"/>
+<area shape="rect" id="node3" href="$class_c_adj_n_s_solver.html#ac16dab76e2c1d86bc7d70ca9f41fd668" title="Restart residual and compute gradients." alt="" coords="13,56,223,83"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="CAdjEulerSolver::BC_Sym_Plane" name="CAdjEulerSolver::BC_Sym_Plane">
+<area shape="rect" id="node1" title="Impose via the residual the adjoint symmetry boundary condition." alt="" coords="5,238,157,279"/>
+<area shape="rect" id="node2" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="235,5,382,32"/>
+<area shape="rect" id="node3" href="$class_c_variable.html#a51313f43ac885cb883d7d38658fe47d4" title="A virtual member." alt="" coords="223,56,395,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="205,107,412,133"/>
+<area shape="rect" id="node5" href="$class_c_point.html#a62ec636f4a05ac578b582a053e8553f9" title="Get the value of the grid velocity at the point." alt="" coords="237,157,380,184"/>
+<area shape="rect" id="node6" href="$class_c_config.html#ab9d0e23db2d8f044b0b09915e92ef003" title="Get the kind of integration scheme (explicit or implicit) for the adjoint flow equations." alt="" coords="214,209,403,250"/>
+<area shape="rect" id="node7" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="239,275,378,301"/>
+<area shape="rect" id="node8" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="233,325,385,352"/>
+<area shape="rect" id="node9" href="$class_c_variable.html#a76505d5d9276995ef2c7038e036e409d" title="A virtual member." alt="" coords="221,376,396,403"/>
+<area shape="rect" id="node10" href="$class_c_sys_matrix.html#a0c6e3335f161b70247ac06e22eee6dfc" title="Subtracts the specified block to the sparse matrix." alt="" coords="211,427,406,453"/>
+<area shape="rect" id="node12" href="$class_c_sys_vector.html#aa2de9022590ea6b06950ef6b8afb77a2" title="Subtract val_residual to the residual." alt="" coords="212,477,405,504"/>
+<area shape="rect" id="node11" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="460,427,615,453"/>
+</map>

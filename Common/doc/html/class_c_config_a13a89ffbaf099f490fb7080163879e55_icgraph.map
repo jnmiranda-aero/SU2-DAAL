@@ -1,0 +1,10 @@
+<map id="CConfig::GetWall_HeatFlux" name="CConfig::GetWall_HeatFlux">
+<area shape="rect" id="node1" title="Get the wall heat flux on a constant heat flux boundary." alt="" coords="696,122,893,149"/>
+<area shape="rect" id="node2" href="$class_c_f_e_m___d_g___n_s_solver.html#a7cc49cd695dcd974a1d791de72502323" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="441,5,619,47"/>
+<area shape="rect" id="node3" href="$class_c_n_s_solver.html#a94ecf958fefe5b9f6135ac0e14d1ea80" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="421,71,639,98"/>
+<area shape="rect" id="node4" href="$class_c_inc_n_s_solver.html#af64e336b5dd2ffd669bbb8924c896b3e" title="Impose a no&#45;slip condition." alt="" coords="412,122,648,149"/>
+<area shape="rect" id="node5" href="$class_c_heat_solver_f_v_m.html#ae37f2deac6090f973d605975790f32f1" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="451,173,609,215"/>
+<area shape="rect" id="node6" href="$class_c_geometry.html#a15dd9fe9352493c70f21b217bab034ea" title="Set the data containers for customized boundary conditions." alt="" coords="412,239,648,266"/>
+<area shape="rect" id="node7" href="$class_c_driver.html#aa697413d6b83c2022c8169b71c1304d1" title="Initialize Python interface functionalities." alt="" coords="181,232,364,273"/>
+<area shape="rect" id="node8" href="$class_c_driver.html#afac169e386a89af2a52be8902abb27f2" title="Constructor of the class." alt="" coords="5,239,133,266"/>
+</map>

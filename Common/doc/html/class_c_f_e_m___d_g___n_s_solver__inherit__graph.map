@@ -1,0 +1,5 @@
+<map id="CFEM_DG_NSSolver" name="CFEM_DG_NSSolver">
+<area shape="rect" id="node1" title="Main class for defining the Navier&#45;Stokes Discontinuous Galerkin finite element flow solver." alt="" coords="13,155,165,181"/>
+<area shape="rect" id="node2" href="$class_c_f_e_m___d_g___euler_solver.html" title="Main class for defining the Euler Discontinuous Galerkin finite element flow solver." alt="" coords="5,80,172,107"/>
+<area shape="rect" id="node3" href="$class_c_solver.html" title="Main class for defining the PDE solution, it requires a child class for each particular solver (Euler..." alt="" coords="53,5,125,32"/>
+</map>

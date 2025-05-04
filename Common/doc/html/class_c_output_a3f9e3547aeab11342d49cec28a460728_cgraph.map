@@ -1,0 +1,52 @@
+<map id="COutput::SetResult_Files" name="COutput::SetResult_Files">
+<area shape="rect" id="node1" title="Writes and organizes the all the output files, except the history one, for serial computations." alt="" coords="5,760,151,801"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#ae816a2f124ea5ae95337418462514df5" title=" " alt="" coords="223,210,409,237"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#ad6d1d2360f72e61aa0ac75b66e71fa78" title=" " alt="" coords="203,261,429,287"/>
+<area shape="rect" id="node4" href="$class_c_output.html#a7f332b2f644b46ab8c46f9693ca7574c" title="Deallocate temporary memory needed for merging and writing connectivity." alt="" coords="199,311,433,338"/>
+<area shape="rect" id="node5" href="$class_c_output.html#aa839cae3d0f7a637b1f293c13998b9ef" title="Deallocate temporary memory needed for merging and writing coordinates." alt="" coords="201,869,431,895"/>
+<area shape="rect" id="node7" href="$class_c_output.html#a3a7c1aa3ed7b235c3873c0c06bfa1c03" title="Deallocate temporary memory needed for merging and writing solution variables." alt="" coords="213,413,419,439"/>
+<area shape="rect" id="node8" href="$class_c_config.html#ac2cb41cf77a3151862778d8400d58656" title="Get the format of the output solution." alt="" coords="835,1101,982,1143"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a66a6bcf5dfbda6caca86a4cf9fc866c2" title="Get information about writing a surface comma&#45;separated values (CSV) solution file." alt="" coords="224,514,408,541"/>
+<area shape="rect" id="node10" href="$class_c_config.html#af20a02c728330d647cb81c4649f510d4" title="Get information about writing a surface solution file." alt="" coords="519,290,698,317"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a7a93effee952830203f6d9e59afb3c10" title="Get information about writing a volume solution file." alt="" coords="519,458,699,485"/>
+<area shape="rect" id="node12" href="$class_c_output.html#ab16202a1b190c01796745be0600de298" title="Merge the geometry into a data structure used for output file writing." alt="" coords="213,463,419,490"/>
+<area shape="rect" id="node27" href="$class_c_output.html#a2d6a4a99521cc43ab52d79278be6f8eb" title="Merge the node coordinates from all processors." alt="" coords="507,509,710,535"/>
+<area shape="rect" id="node31" href="$class_c_output.html#aecbb03301a1775771b2167fa91d44293" title="Merge the solution into a data structure used for output file writing." alt="" coords="520,610,697,637"/>
+<area shape="rect" id="node40" href="$class_c_output.html#ac6b6164f30cb97283ce6dd4dd8b4b0e3" title="Write a Tecplot ASCII solution file." alt="" coords="508,1102,709,1129"/>
+<area shape="rect" id="node41" href="$class_c_output.html#a4e9fc94c21bd4ed7ad795b31534a47f8" title="Write solution data to a Tecplot binary volume solution file." alt="" coords="504,1153,713,1179"/>
+<area shape="rect" id="node42" href="$class_c_output.html#a080755e0a403e417f63ca46ac456ea79" title="Write a Paraview ASCII solution file." alt="" coords="527,1204,690,1245"/>
+<area shape="rect" id="node43" href="$class_c_output.html#a73373131331a79e030bf4a16a6caedfc" title="Write a native SU2 restart file." alt="" coords="533,919,684,946"/>
+<area shape="rect" id="node44" href="$class_c_output.html#af70e73cb8b9dda78233975f39d3675ef" title="Create and write the file with the adjoint coefficients on the surface for serial computations." alt="" coords="519,661,698,703"/>
+<area shape="rect" id="node45" href="$class_c_output.html#abbc1f1692ec0f357cc5f1904e410c645" title="Create and write the file with the flow coefficient on the surface." alt="" coords="500,559,717,586"/>
+<area shape="rect" id="node46" href="$class_c_output.html#a21e634f0628bfa62a682e42f4fb4aee7" title="Write a Tecplot ASCII solution file." alt="" coords="517,1270,701,1297"/>
+<area shape="rect" id="node47" href="$class_c_output.html#aa665ccde63ab2120eb9625994a6cae04" title="Write the nodal coordinates and connectivity to a Tecplot binary mesh file." alt="" coords="513,1321,705,1363"/>
+<area shape="rect" id="node48" href="$class_c_output.html#a59bf1f53aa473e59822b9f9cac9e6a25" title="Write solution data to a Tecplot binary volume solution file." alt="" coords="513,1387,705,1428"/>
+<area shape="rect" id="node49" href="$class_c_output.html#a64c4d7ad4f7e556c9e30193e5d35135a" title="Write the coordinates and connectivity to a Tecplot binary surface mesh file." alt="" coords="513,971,705,1012"/>
+<area shape="rect" id="node50" href="$class_c_output.html#a12493cf0461b81422984d22e0d35a156" title="Write solution data to a Tecplot binary surface solution file." alt="" coords="513,1036,705,1077"/>
+<area shape="rect" id="node6" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="828,1167,989,1194"/>
+<area shape="rect" id="node13" href="$class_c_output.html#a55d3155aecce617d4aa89c02e608d17f" title="Merge the connectivity for a single element type from all processors." alt="" coords="481,341,736,367"/>
+<area shape="rect" id="node25" href="$class_c_output.html#a4f046b38e4d5b196e9a692f43250cc14" title="Merge the connectivity for a single element type from all processors." alt="" coords="511,392,706,433"/>
+<area shape="rect" id="node14" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="803,442,1014,469"/>
+<area shape="rect" id="node15" href="$class_c_base_m_p_i_wrapper.html#a39e59958c13f7fefc74062ba2ff149f1" title=" " alt="" coords="811,493,1006,519"/>
+<area shape="rect" id="node16" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="835,543,982,570"/>
+<area shape="rect" id="node17" href="$class_c_point.html#ab546170a5a03ef210a75fc5531910050" title="Get the global index in a parallel computation." alt="" coords="822,594,995,621"/>
+<area shape="rect" id="node18" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="835,173,983,215"/>
+<area shape="rect" id="node19" href="$class_c_config.html#a778a77ff2b9e1d359eab9b2d2106fa81" title="Get the send&#45;receive information for a marker val_marker." alt="" coords="835,5,983,47"/>
+<area shape="rect" id="node20" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="819,341,999,367"/>
+<area shape="rect" id="node21" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="839,391,978,418"/>
+<area shape="rect" id="node22" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="825,239,992,266"/>
+<area shape="rect" id="node23" href="$class_c_vertex.html#a4f79701d89ed5eaaf6c4c41566a319d7" title="Get the type of rotation associated to the vertex." alt="" coords="811,71,1007,98"/>
+<area shape="rect" id="node24" href="$class_c_config.html#a3d32189ce78a3e64358b9d5030606ffa" title="Get information about writing rind layers to the solution files." alt="" coords="827,122,990,149"/>
+<area shape="rect" id="node26" href="$class_c_config.html#a47df59fbfd882e2fa8fc71691292659b" title="Get the kind of SU2 software component." alt="" coords="826,1218,991,1245"/>
+<area shape="rect" id="node28" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="842,645,975,671"/>
+<area shape="rect" id="node29" href="$class_c_geometry.html#a4fc7de3bff7b6f8c35717016d6f8fcb2" title="Get number of real points (that belong to the domain)." alt="" coords="799,290,1018,317"/>
+<area shape="rect" id="node30" href="$class_c_config.html#afbc5c2467fd51eafa6e05e5bda7d3d3e" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="784,695,1033,722"/>
+<area shape="rect" id="node32" href="$class_c_sys_vector.html#a8e537cf18b7e0ce45f7107c41753072c" title="Get the value of the residual." alt="" coords="827,797,990,823"/>
+<area shape="rect" id="node33" href="$class_c_config.html#ad128c4116eef0a70c91c239204288474" title="Get the value of the bulk modulus." alt="" coords="811,847,1006,874"/>
+<area shape="rect" id="node34" href="$class_c_solver.html#ad2e31b85b5ea532d6a847f4dd3efeb6e" title="A virtual member." alt="" coords="818,1050,999,1077"/>
+<area shape="rect" id="node35" href="$class_c_solver.html#a0f257e0506348d9c9e7b7f98d683cf1e" title="A virtual member." alt="" coords="815,746,1003,773"/>
+<area shape="rect" id="node36" href="$class_c_variable.html#a48edcfacf9418f8e2a00416e92f71fde" title="A virtual member." alt="" coords="826,898,991,925"/>
+<area shape="rect" id="node37" href="$class_c_solver.html#a8db8db096fdfb8bd067a2b1adeb8d5b6" title="A virtual member." alt="" coords="820,949,997,975"/>
+<area shape="rect" id="node38" href="$class_c_config.html#a8cc3d7d06d995bf315cbed96412a9b7e" title="Get the value of the reference density for non&#45;dimensionalization." alt="" coords="817,999,1000,1026"/>
+<area shape="rect" id="node39" href="$class_c_config.html#abe9f117dab934d76e518a9e8e40b142a" title="Get the indicator whether we are solving an discrete adjoint problem." alt="" coords="830,1269,987,1311"/>
+</map>

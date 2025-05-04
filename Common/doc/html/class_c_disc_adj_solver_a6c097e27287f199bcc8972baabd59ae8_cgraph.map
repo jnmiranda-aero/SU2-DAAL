@@ -1,0 +1,10 @@
+<map id="CDiscAdjSolver::RegisterSolution" name="CDiscAdjSolver::RegisterSolution">
+<area shape="rect" id="node1" title="Performs the preprocessing of the adjoint AD&#45;based solver. Registers all necessary variables on the t..." alt="" coords="5,122,188,163"/>
+<area shape="rect" id="node2" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="252,5,419,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a45e95664235928d911e7c3876fe078b3" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="253,57,418,98"/>
+<area shape="rect" id="node4" href="$class_c_variable.html#ac7c3250fb186e2e086faac63fa5b3f64" title="Register the variables in the solution array as input/output variable." alt="" coords="236,253,435,280"/>
+<area shape="rect" id="node7" href="$class_c_variable.html#ac113d63fcfab8acd136a51fb7552b989" title="Register the variables in the solution_time_n array as input/output variable." alt="" coords="236,122,435,163"/>
+<area shape="rect" id="node8" href="$class_c_variable.html#a1f67634b4f4b258b6ec0870e64850302" title="Register the variables in the solution_time_n1 array as input/output variable." alt="" coords="236,187,435,229"/>
+<area shape="rect" id="node5" href="$namespace_a_d.html#a142308d54379f7aaa1c72195fb5fe992" title="Registers the variable as an input. I.e. as a leaf of the computational graph." alt="" coords="488,195,624,221"/>
+<area shape="rect" id="node6" href="$namespace_a_d.html#ae381e45797545e980376c4aeb3f5afdc" title="Registers the variable as an output. I.e. as the root of the computational graph." alt="" coords="483,253,629,280"/>
+</map>

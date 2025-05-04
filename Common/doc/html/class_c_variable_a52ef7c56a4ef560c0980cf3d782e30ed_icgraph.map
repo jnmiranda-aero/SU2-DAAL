@@ -1,0 +1,8 @@
+<map id="CVariable::Set_BGSSolution_k" name="CVariable::Set_BGSSolution_k">
+<area shape="rect" id="node1" title="A virtual member. Set the value of the old geometry solution (adjoint)." alt="" coords="320,107,535,133"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a1046fe9ce595cfa412ddcbdad466a714" title="Store the BGS solution in the previous subiteration in the corresponding vector." alt="" coords="15,5,262,32"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#a14780f5d4099c0f3a9aa82a71da8613f" title="Store the BGS solution in the previous subiteration in the corresponding vector." alt="" coords="5,56,272,83"/>
+<area shape="rect" id="node4" href="$class_c_f_e_a_solver.html#aa79d3ad67cc215c5641eeecdabb1ff05" title="Store the BGS solution in the previous subiteration in the corresponding vector." alt="" coords="19,107,258,133"/>
+<area shape="rect" id="node5" href="$class_c_disc_adj_solver.html#a67c0c5f26593e89fee84b855ca3cd5ab" title="Store the BGS solution in the previous subiteration in the corresponding vector." alt="" coords="7,157,270,184"/>
+<area shape="rect" id="node6" href="$class_c_disc_adj_f_e_a_solver.html#a1cd8645b05f74e1b8aa03e4bf9bd495d" title="Store the BGS solution in the previous subiteration in the corresponding vector." alt="" coords="61,209,217,250"/>
+</map>

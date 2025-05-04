@@ -1,0 +1,8 @@
+<map id="COutput::WriteCoordinates_Binary" name="COutput::WriteCoordinates_Binary">
+<area shape="rect" id="node1" title="Write the nodal coordinates to a binary file." alt="" coords="5,42,201,83"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="459,24,640,50"/>
+<area shape="rect" id="node4" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="249,24,411,50"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a99fc7fc87e4686aa0f33d30564c06a27" title="Gets the number of zones in the mesh file." alt="" coords="258,74,402,101"/>
+<area shape="rect" id="node6" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="253,125,407,152"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="688,24,873,50"/>
+</map>

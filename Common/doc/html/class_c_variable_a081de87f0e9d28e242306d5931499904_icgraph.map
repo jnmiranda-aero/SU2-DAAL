@@ -1,0 +1,11 @@
+<map id="CVariable::GetThermalConductivity" name="CVariable::GetThermalConductivity">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="300,231,551,258"/>
+<area shape="rect" id="node2" href="$class_c_inc_n_s_solver.html#a63488a5dc1ba150b2b0d74b389c9cfa7" title="Impose the (received) conjugate heat variables." alt="" coords="25,5,233,47"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#abd738a529f7f77c97587c6785b0f40d3" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="53,71,204,112"/>
+<area shape="rect" id="node4" href="$class_c_inc_euler_solver.html#a318f79c279e467bbea21276ccd08ca92" title="Impose a subsonic inlet boundary condition." alt="" coords="53,136,204,177"/>
+<area shape="rect" id="node5" href="$class_c_inc_n_s_solver.html#aff9a4fe7596b26665f888b60a39d5076" title="Impose an isothermal temperature condition at the wall." alt="" coords="5,202,252,229"/>
+<area shape="rect" id="node6" href="$class_c_inc_euler_solver.html#aa64170c7c7a237d0c7427a8359c2967a" title="Impose the outlet boundary condition." alt="" coords="53,253,204,295"/>
+<area shape="rect" id="node7" href="$class_c_inc_n_s_solver.html#a5a106c634b0c06ac4a68b1a6241f203a" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="46,319,211,360"/>
+<area shape="rect" id="node8" href="$class_c_transfer___conjugate_heat_vars.html#a357e0acccf0be88325423ebff8cefb62" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="21,384,236,425"/>
+<area shape="rect" id="node9" href="$class_c_inc_n_s_solver.html#a50e3b8e05bda6be8be79b9068c06bd4e" title="Compute the time step for solving the Navier&#45;Stokes equations with turbulence model." alt="" coords="25,450,232,477"/>
+</map>

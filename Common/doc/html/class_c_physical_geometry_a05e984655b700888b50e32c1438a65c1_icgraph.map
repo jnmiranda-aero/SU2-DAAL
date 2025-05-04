@@ -1,0 +1,9 @@
+<map id="CPhysicalGeometry::InitiateComms" name="CPhysicalGeometry::InitiateComms">
+<area shape="rect" id="node1" title="Routine to launch non&#45;blocking sends and recvs amongst all processors." alt="" coords="476,136,633,177"/>
+<area shape="rect" id="node2" href="$class_c_physical_geometry.html#a62179e920f6a9f5e5f9e687ca41c4a63" title="Distributes the coloring from ParMETIS so that each rank has complete information about the local gri..." alt="" coords="241,5,398,47"/>
+<area shape="rect" id="node4" href="$class_c_physical_geometry.html#a1657020a6334a6be8770a8d3b3fccbad" title="Distribute the grid points, including ghost points, across all ranks based on a ParMETIS coloring." alt="" coords="241,71,398,112"/>
+<area shape="rect" id="node5" href="$class_c_physical_geometry.html#ab129d8da80848e89b8e97e309f4c1bc0" title="Distribute the connectivity for a single surface element type in all markers across all ranks based o..." alt="" coords="211,136,428,177"/>
+<area shape="rect" id="node6" href="$class_c_physical_geometry.html#a6bfe516633384c6a52fc2ac0a570217f" title="Distribute the connectivity for a single volume element type across all ranks based on a ParMETIS col..." alt="" coords="211,201,428,243"/>
+<area shape="rect" id="node7" href="$class_c_physical_geometry.html#abb92b4ce2bf3bf4448180558a1dee85a" title="Partition the marker connectivity held on the master rank according to a linear partitioning." alt="" coords="216,267,423,308"/>
+<area shape="rect" id="node3" href="$class_c_physical_geometry.html#a5060b218ee34c7fe7ccfbee03e912fd6" title="Accepts a geometry container holding a linearly partitioned grid with coloring performed by ParMETIS,..." alt="" coords="5,136,163,177"/>
+</map>

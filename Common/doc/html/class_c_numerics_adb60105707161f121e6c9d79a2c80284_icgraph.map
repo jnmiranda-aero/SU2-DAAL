@@ -1,0 +1,14 @@
+<map id="CNumerics::SetTurbKineticEnergy" name="CNumerics::SetTurbKineticEnergy">
+<area shape="rect" id="node1" title="Set the turbulent kinetic energy." alt="" coords="284,319,479,360"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a3cb64b1356f6c0dd43c08df012d99f01" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="42,5,199,47"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#abd738a529f7f77c97587c6785b0f40d3" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="45,71,196,112"/>
+<area shape="rect" id="node4" href="$class_c_euler_solver.html#accb01b3402a9de5c1c23fdaef60c831f" title="Impose the interface state across sliding meshes." alt="" coords="35,136,206,177"/>
+<area shape="rect" id="node5" href="$class_c_euler_solver.html#aa4c3988e3ce0c18460b5c069650c57b0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="35,202,206,229"/>
+<area shape="rect" id="node6" href="$class_c_inc_euler_solver.html#a318f79c279e467bbea21276ccd08ca92" title="Impose a subsonic inlet boundary condition." alt="" coords="45,253,196,295"/>
+<area shape="rect" id="node7" href="$class_c_inc_euler_solver.html#aa64170c7c7a237d0c7427a8359c2967a" title="Impose the outlet boundary condition." alt="" coords="45,319,196,360"/>
+<area shape="rect" id="node8" href="$class_c_adj_euler_solver.html#a0b3408be5adebd52b79bd3c5227cbe9d" title="Impose the outlet boundary condition." alt="" coords="45,384,197,425"/>
+<area shape="rect" id="node9" href="$class_c_euler_solver.html#a22c21d18fa626d489db9a387234bd9d0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="23,450,219,477"/>
+<area shape="rect" id="node10" href="$class_c_euler_solver.html#a0066305803a18511fb89b8951f4e4866" title="Impose the boundary condition using characteristic recostruction." alt="" coords="5,501,236,527"/>
+<area shape="rect" id="node11" href="$class_c_n_s_solver.html#a4b946463a9868faaa73fa1f40ee5e675" title="Compute the viscous residuals." alt="" coords="47,552,195,593"/>
+<area shape="rect" id="node12" href="$class_c_inc_n_s_solver.html#aa65d2bbb69dab2bbe40d3495d80da207" title="Compute the viscous residuals." alt="" coords="37,617,204,659"/>
+</map>

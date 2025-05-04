@@ -1,0 +1,29 @@
+<map id="CSolver::GetCharacPrimVar" name="CSolver::GetCharacPrimVar">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="501,777,700,803"/>
+<area shape="rect" id="node2" href="$class_c_turb_s_a_solver.html#a815ccf4fcbbbd8473c57b95a92be40bf" title="Impose an actuator disk inlet boundary condition." alt="" coords="253,45,453,71"/>
+<area shape="rect" id="node5" href="$class_c_adj_euler_solver.html#ad0f40712ed34d6f42813fbb82540e851" title="Impose an actuator disk inlet boundary condition." alt="" coords="277,96,429,137"/>
+<area shape="rect" id="node6" href="$class_c_adj_euler_solver.html#a7a751b3b46dbed8e213bb7090633807d" title="Impose an actuator disk outlet boundary condition." alt="" coords="277,161,429,203"/>
+<area shape="rect" id="node7" href="$class_c_turb_s_a_solver.html#aec4d7892be3d1c25bc0c38fe4beb0bc5" title="Impose the engine exhaust boundary condition." alt="" coords="256,227,451,268"/>
+<area shape="rect" id="node8" href="$class_c_adj_euler_solver.html#a849edf613e9c9756e59648dad6cb102e" title="Impose the engine exhaust boundary condition." alt="" coords="277,292,429,333"/>
+<area shape="rect" id="node9" href="$class_c_turb_s_a_solver.html#a0328ec9e125ff07a94f1e90de3bf0522" title="Impose the engine inflow boundary condition." alt="" coords="256,357,451,399"/>
+<area shape="rect" id="node10" href="$class_c_adj_euler_solver.html#a395d57c7acf725dada7e915365531a55" title="Impose the engine inflow adjoint boundary condition." alt="" coords="277,423,429,464"/>
+<area shape="rect" id="node11" href="$class_c_turb_s_a_solver.html#ad858332accc28a14657742fa5c0286be" title="Impose the Far Field boundary condition." alt="" coords="269,488,438,529"/>
+<area shape="rect" id="node12" href="$class_c_turb_s_s_t_solver.html#a1f6ab851fdf217caf07cbb30b3602fb1" title="Impose the Far Field boundary condition." alt="" coords="279,553,428,595"/>
+<area shape="rect" id="node13" href="$class_c_adj_euler_solver.html#a67685dedf5d4651cb25fbf3fc0440d24" title="Impose the boundary condition to the far field using characteristics." alt="" coords="277,619,429,660"/>
+<area shape="rect" id="node14" href="$class_c_turb_s_a_solver.html#a605f23d50e4906ffac719b3717e39f67" title="Impose the inlet boundary condition." alt="" coords="264,685,443,711"/>
+<area shape="rect" id="node15" href="$class_c_turb_s_s_t_solver.html#ac2b16b8347663023561b8b5e2c585ce2" title="Impose the inlet boundary condition." alt="" coords="279,736,428,777"/>
+<area shape="rect" id="node16" href="$class_c_adj_euler_solver.html#a29398c2203511586508ff9d43e894e41" title="Impose the inlet boundary condition." alt="" coords="277,801,429,843"/>
+<area shape="rect" id="node17" href="$class_c_heat_solver_f_v_m.html#a3b0b87693870e1b9cf5a16aa644aae8d" title="Impose the inlet boundary condition." alt="" coords="274,867,433,908"/>
+<area shape="rect" id="node18" href="$class_c_turb_s_a_solver.html#a75c50cab5888e913ea59dd03c23be8e6" title="Impose the inlet boundary condition." alt="" coords="264,932,443,973"/>
+<area shape="rect" id="node19" href="$class_c_turb_s_s_t_solver.html#a76eebd24fcfc25255c3089f2b1a9acbd" title="Impose the inlet boundary condition." alt="" coords="279,997,428,1039"/>
+<area shape="rect" id="node20" href="$class_c_turb_s_a_solver.html#a2e05ecc017b2b3716bfc6728e4a734e8" title="Impose the inlet boundary condition." alt="" coords="264,1063,443,1104"/>
+<area shape="rect" id="node21" href="$class_c_turb_s_s_t_solver.html#a8957c42841a00d3880fb5886e2f4de3c" title="Impose the inlet boundary condition." alt="" coords="279,1128,428,1169"/>
+<area shape="rect" id="node22" href="$class_c_turb_s_a_solver.html#aba6c8a179d9402a79f086bf0c393e8b1" title="Impose the outlet boundary condition." alt="" coords="258,1194,449,1221"/>
+<area shape="rect" id="node23" href="$class_c_turb_s_s_t_solver.html#adc3394d964c91c4b977e476a26e39287" title="Impose the outlet boundary condition." alt="" coords="279,1245,428,1287"/>
+<area shape="rect" id="node24" href="$class_c_adj_euler_solver.html#a0b3408be5adebd52b79bd3c5227cbe9d" title="Impose the outlet boundary condition." alt="" coords="277,1311,429,1352"/>
+<area shape="rect" id="node25" href="$class_c_heat_solver_f_v_m.html#a326a1f9e420b2fdb8a3c9356ad3f3704" title="Impose the outlet boundary condition." alt="" coords="274,1376,433,1417"/>
+<area shape="rect" id="node26" href="$class_c_adj_euler_solver.html#ab5c6ba919fde8e3e473f485bb06b2e9c" title="Impose the supersonic inlet boundary condition." alt="" coords="277,1441,429,1483"/>
+<area shape="rect" id="node27" href="$class_c_adj_euler_solver.html#a58543ab410a218129586869573316437" title="Impose the supersonic outlet boundary condition." alt="" coords="277,1507,429,1548"/>
+<area shape="rect" id="node3" href="$class_c_turb_s_a_solver.html#af4b390995450e22f614cda369885d718" title="Impose an actuator disk inlet boundary condition." alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node4" href="$class_c_turb_s_a_solver.html#aa4e910325d22637e43fe9da55d6ceb79" title="Impose an actuator disk outlet boundary condition." alt="" coords="5,71,205,112"/>
+</map>

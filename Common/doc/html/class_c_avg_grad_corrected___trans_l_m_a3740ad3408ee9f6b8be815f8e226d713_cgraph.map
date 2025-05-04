@@ -1,0 +1,6 @@
+<map id="CAvgGradCorrected_TransLM::CAvgGradCorrected_TransLM" name="CAvgGradCorrected_TransLM::CAvgGradCorrected_TransLM">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,49,223,90"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a5f01bbbd9c331ecea38eebbe9cc9cd4e" title="Get the value of the Gamma of fluid (ratio of specific heats)." alt="" coords="288,5,443,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a66ca7e620390a81cd49cd0a00716128e" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="271,56,460,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a82efe7e60c3b0613fa496899340931a4" title="Get the kind of integration scheme (implicit) for the turbulence equations." alt="" coords="271,107,460,149"/>
+</map>

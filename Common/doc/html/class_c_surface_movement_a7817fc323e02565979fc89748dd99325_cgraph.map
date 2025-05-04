@@ -1,0 +1,11 @@
+<map id="CSurfaceMovement::SetFFDCamber_2D" name="CSurfaceMovement::SetFFDCamber_2D">
+<area shape="rect" id="node1" title="Set a camber deformation of the Free From box using the control point position." alt="" coords="5,157,287,184"/>
+<area shape="rect" id="node2" href="$class_c_config.html#ac50165b44d1c286c810585b89cd68f33" title="Value of the design variable step, we use this value in design problems." alt="" coords="360,5,525,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#aac151bc1508af471b8bd6cf67c82bff1" title="Get the FFD Tag of a particular design variable." alt="" coords="367,56,518,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#affef7bc6016955cb0cf49b3f774bc45a" title="Get the scale factor for the line search." alt="" coords="338,107,547,133"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a55ab8fc511c17d4b07ef0b5eea793e61" title="Get a parameter of the particular design variable." alt="" coords="361,157,524,184"/>
+<area shape="rect" id="node6" href="$class_c_free_form_def_box.html#a39f3ec89ecaa4c20ca0bf115153f1fb5" title="Get the tag that identify a FFDBox." alt="" coords="346,208,539,235"/>
+<area shape="rect" id="node7" href="$namespace_s_u2___t_y_p_e.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="387,259,499,285"/>
+<area shape="rect" id="node9" href="$class_c_free_form_def_box.html#aed1fd6c02ebdf7d2124e6b509179e8ad" title="Set the new value of the coordinates of the control points." alt="" coords="335,310,551,351"/>
+<area shape="rect" id="node8" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="599,259,753,285"/>
+</map>

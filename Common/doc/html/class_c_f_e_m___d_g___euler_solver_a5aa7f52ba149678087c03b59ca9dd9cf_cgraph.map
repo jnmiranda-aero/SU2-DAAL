@@ -1,0 +1,6 @@
+<map id="CFEM_DG_EulerSolver::SetInitialCondition" name="CFEM_DG_EulerSolver::SetInitialCondition">
+<area shape="rect" id="node1" title="Set the initial condition for the Euler Equations." alt="" coords="5,49,172,90"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a6020a5df7025ffb286f9b9f55f3f2773" title="Get the angle of attack of the body. This is the angle between a reference line on a lifting body (of..." alt="" coords="262,5,391,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a6d835a954bb5e99c5a3de6db5ed24ff3" title="Get the value of specific gas constant." alt="" coords="220,56,433,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a2ede918fd25217170b85049ddf07408b" title="Get the value of the non&#45;dimensionalized freestream viscosity." alt="" coords="245,107,408,149"/>
+</map>

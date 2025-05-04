@@ -1,0 +1,5 @@
+<map id="CTransfer_StructuralDisplacements_DiscAdj::GetDonor_Variable" name="CTransfer_StructuralDisplacements_DiscAdj::GetDonor_Variable">
+<area shape="rect" id="node1" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="5,23,256,65"/>
+<area shape="rect" id="node2" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="321,5,455,32"/>
+<area shape="rect" id="node3" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="304,56,472,83"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CConfig::GetMarker_Periodic_Donor" name="CConfig::GetMarker_Periodic_Donor">
+<area shape="rect" id="node1" title="Get the rotationally periodic donor marker for boundary val_marker." alt="" coords="523,39,671,80"/>
+<area shape="rect" id="node2" href="$class_c_physical_geometry.html#a4b8a3bab829079fe0425b00afe2c0dab" title="Determine the neighboring information for periodic faces of a FEM grid." alt="" coords="240,5,475,47"/>
+<area shape="rect" id="node4" href="$class_c_physical_geometry.html#af40f5387d3149e8f1db88a353d12b0ff" title="Set the periodic boundary conditions." alt="" coords="279,71,436,112"/>
+<area shape="rect" id="node3" href="$class_c_physical_geometry.html#a731c0207381f31f0b1165b646abc2acb" title="Set the domains for FEM grid partitioning using ParMETIS." alt="" coords="5,5,192,47"/>
+</map>

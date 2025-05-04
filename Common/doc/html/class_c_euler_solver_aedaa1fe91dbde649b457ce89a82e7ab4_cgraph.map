@@ -1,0 +1,7 @@
+<map id="CEulerSolver::SetPrimitive_Variables" name="CEulerSolver::SetPrimitive_Variables">
+<area shape="rect" id="node1" title="Compute the velocity^2, SoundSpeed, Pressure, Enthalpy, Viscosity." alt="" coords="5,74,199,115"/>
+<area shape="rect" id="node2" href="$class_c_sys_vector.html#ac2b8ed7c13757ad68487d3891337265b" title="Set the residual to zero." alt="" coords="249,5,447,32"/>
+<area shape="rect" id="node3" href="$class_c_variable.html#ae660d54bcbdd5579683a7c2a80634a63" title="Set the value of the non&#45;physical point." alt="" coords="248,56,448,83"/>
+<area shape="rect" id="node4" href="$class_c_variable.html#adeed79743686c91ae9d6f1b8f10293da" title="A virtual member." alt="" coords="266,107,430,133"/>
+<area shape="rect" id="node5" href="$class_c_variable.html#ad0bb137f705a2811c9b8cb8f9d8746be" title="A virtual member." alt="" coords="247,157,449,184"/>
+</map>

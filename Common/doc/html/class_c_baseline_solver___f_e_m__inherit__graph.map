@@ -1,0 +1,4 @@
+<map id="CBaselineSolver_FEM" name="CBaselineSolver_FEM">
+<area shape="rect" id="node1" title="Main class for defining a baseline solution from a restart file for the DG&#45;FEM solver output." alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node2" href="$class_c_solver.html" title="Main class for defining the PDE solution, it requires a child class for each particular solver (Euler..." alt="" coords="51,5,123,32"/>
+</map>

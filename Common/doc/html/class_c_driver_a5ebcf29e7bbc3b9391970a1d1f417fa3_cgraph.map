@@ -1,0 +1,4 @@
+<map id="CDriver::IsAHaloNode" name="CDriver::IsAHaloNode">
+<area shape="rect" id="node1" title="Check if a vertex is physical or not (halo node) on a specified marker." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node2" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="216,5,355,32"/>
+</map>

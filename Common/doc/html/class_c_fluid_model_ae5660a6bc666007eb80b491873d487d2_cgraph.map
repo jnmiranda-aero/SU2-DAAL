@@ -1,0 +1,8 @@
+<map id="CFluidModel::SetLaminarViscosityModel" name="CFluidModel::SetLaminarViscosityModel">
+<area shape="rect" id="node1" title="Set viscosity model." alt="" coords="5,115,249,156"/>
+<area shape="rect" id="node2" href="$class_c_config.html#af6fbd87066353c64a6a7e97d77c237db" title="Get the value of the viscosity model." alt="" coords="304,5,503,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#ab8374bd6eab3ea2e8c240ab8e702a508" title="Get the value of the non&#45;dimensional constant viscosity." alt="" coords="299,71,507,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a645557320afb395f5032a6aabfec7998" title="Get the value of the non&#45;dimensional reference viscosity for Sutherland model." alt="" coords="317,122,489,149"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a206b2d3e5357d3da3dc9686b434f674c" title="Get the value of the non&#45;dimensional reference S for Sutherland model." alt="" coords="324,173,483,199"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a890da0048214096d7fba85048e9336cf" title="Get the value of the non&#45;dimensional reference temperature for Sutherland model." alt="" coords="297,224,509,265"/>
+</map>

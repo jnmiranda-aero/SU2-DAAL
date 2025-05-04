@@ -1,0 +1,4 @@
+<map id="CPhysicalGeometry::LoadSurfaceElements" name="CPhysicalGeometry::LoadSurfaceElements">
+<area shape="rect" id="node1" title="Load the local surface elements after partitioning (owned and ghost) into the geometry class objects." alt="" coords="211,5,373,47"/>
+<area shape="rect" id="node2" href="$class_c_physical_geometry.html#a5060b218ee34c7fe7ccfbee03e912fd6" title="Accepts a geometry container holding a linearly partitioned grid with coloring performed by ParMETIS,..." alt="" coords="5,5,163,47"/>
+</map>

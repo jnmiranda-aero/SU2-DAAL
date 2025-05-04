@@ -1,0 +1,10 @@
+<map id="CConfig::GetKind_FEM_DG_Shock" name="CConfig::GetKind_FEM_DG_Shock">
+<area shape="rect" id="node1" title="Get the kind of shock capturing method in FEM DG solver." alt="" coords="751,103,917,144"/>
+<area shape="rect" id="node2" href="$class_c_f_e_m___d_g___euler_solver.html#a8811f2fe9d2efb93b2fcdedf228083d1" title="Compute the artificial viscosity for shock capturing in DG. It is a virtual function,..." alt="" coords="510,37,677,79"/>
+<area shape="rect" id="node6" href="$class_c_f_e_m___d_g___n_s_solver.html#a6c6944d7036c9cb3e9664f938543b52b" title="Compute the artificial viscosity for shock capturing in DG." alt="" coords="494,103,693,144"/>
+<area shape="rect" id="node7" href="$class_c_driver.html#a3d178228eeb262fde01af82bd33e167c" title="Definition and allocation of all solution classes." alt="" coords="484,169,703,195"/>
+<area shape="rect" id="node3" href="$class_c_f_e_m___d_g___euler_solver.html#a651cad1a94f2024c75a1a8be347e3375" title="Function, which processes the list of tasks to be executed by the DG solver." alt="" coords="269,37,436,79"/>
+<area shape="rect" id="node4" href="$class_c_f_e_m___d_g___euler_solver.html#a7f0da04d44069701db2228210b91c59e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="5,5,221,47"/>
+<area shape="rect" id="node5" href="$class_c_f_e_m___d_g___euler_solver.html#ac59d8dae95e3c3cc3ab3feaeb9be4b22" title="Function, which controls the computation of the spatial Jacobian." alt="" coords="19,71,208,112"/>
+<area shape="rect" id="node8" href="$class_c_driver.html#afac169e386a89af2a52be8902abb27f2" title="Constructor of the class." alt="" coords="289,169,417,195"/>
+</map>

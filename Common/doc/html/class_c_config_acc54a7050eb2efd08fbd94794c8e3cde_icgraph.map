@@ -1,0 +1,9 @@
+<map id="CConfig::GetKind_Upwind" name="CConfig::GetKind_Upwind">
+<area shape="rect" id="node1" title="Get kind of upwind scheme for the convective terms." alt="" coords="284,147,472,174"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a3cb64b1356f6c0dd43c08df012d99f01" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="42,5,199,47"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#aa4c3988e3ce0c18460b5c069650c57b0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="35,71,206,98"/>
+<area shape="rect" id="node4" href="$class_c_euler_solver.html#aabbe4c302452f52fcbe5cdf7022e6c9a" title="Impose a subsonic inlet boundary condition." alt="" coords="37,122,204,149"/>
+<area shape="rect" id="node5" href="$class_c_euler_solver.html#aadfd34af55080ddd00c50138b610c15a" title="Impose the outlet boundary condition." alt="" coords="31,173,210,199"/>
+<area shape="rect" id="node6" href="$class_c_euler_solver.html#a22c21d18fa626d489db9a387234bd9d0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="23,223,219,250"/>
+<area shape="rect" id="node7" href="$class_c_euler_solver.html#a0066305803a18511fb89b8951f4e4866" title="Impose the boundary condition using characteristic recostruction." alt="" coords="5,274,236,301"/>
+</map>

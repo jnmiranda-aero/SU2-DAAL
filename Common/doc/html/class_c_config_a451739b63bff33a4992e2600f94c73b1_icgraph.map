@@ -1,0 +1,11 @@
+<map id="CConfig::GetFrozen_Limiter_Disc" name="CConfig::GetFrozen_Limiter_Disc">
+<area shape="rect" id="node1" title="Provides information about the way in which the limiter will be treated by the disc...." alt="" coords="276,175,423,217"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="15,5,219,32"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#aabd902b10cc9b41b6b2c406efba0ac41" title="Compute primitive variables and their gradients." alt="" coords="5,56,228,83"/>
+<area shape="rect" id="node4" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="22,107,211,133"/>
+<area shape="rect" id="node5" href="$class_c_inc_n_s_solver.html#ae84f6e86313acd1da80c505b4eab81e5" title="Restart residual and compute gradients." alt="" coords="13,157,221,184"/>
+<area shape="rect" id="node6" href="$class_c_turb_s_a_solver.html#a225518dc5f0ca6ed894add826aaa16ea" title="Restart residual and compute gradients." alt="" coords="9,208,225,235"/>
+<area shape="rect" id="node7" href="$class_c_turb_s_s_t_solver.html#a653cf05307f24374fda6f523ce3130bf" title="Restart residual and compute gradients." alt="" coords="5,259,228,285"/>
+<area shape="rect" id="node8" href="$class_c_euler_solver.html#a9cb1da16bea732300854a351ebca2ed3" title="Compute the spatial integration using a upwind scheme." alt="" coords="35,310,198,351"/>
+<area shape="rect" id="node9" href="$class_c_inc_euler_solver.html#a935da79a4e1b1fe9c59bc86024164256" title="Compute the spatial integration using a upwind scheme." alt="" coords="26,375,207,417"/>
+</map>

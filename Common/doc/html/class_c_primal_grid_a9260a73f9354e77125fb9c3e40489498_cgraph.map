@@ -1,0 +1,11 @@
+<map id="CPrimalGrid::SetCoord_CG" name="CPrimalGrid::SetCoord_CG">
+<area shape="rect" id="node1" title="Set the center of gravity of an element (including edges)." alt="" coords="5,183,199,209"/>
+<area shape="rect" id="node2" href="$namespace_a_d.html#a309d057a92faa60a3a760254678ec9ea" title="Ends a preaccumulation section and computes the local Jacobi matrix of a code section using the varia..." alt="" coords="293,5,409,32"/>
+<area shape="rect" id="node3" href="$class_c_primal_grid.html#ad76a784e0e159c2d0c2d004a91731979" title="A pure virtual member." alt="" coords="268,56,435,83"/>
+<area shape="rect" id="node4" href="$class_c_primal_grid.html#a0ed05bb848693e3975e12943d8612029" title="A pure virtual member." alt="" coords="264,107,439,133"/>
+<area shape="rect" id="node5" href="$class_c_primal_grid.html#a0efbf2f8391d5177d92bd850016a3783" title="A pure virtual member." alt="" coords="261,157,441,184"/>
+<area shape="rect" id="node6" href="$class_c_primal_grid.html#a950426deace995a7a0dfec7b63383d94" title="A pure virtual member." alt="" coords="247,208,456,235"/>
+<area shape="rect" id="node7" href="$namespace_a_d.html#aad703f3a82e509c88b92ae638f75383c" title="Sets the scalar input of a preaccumulation section." alt="" coords="289,259,414,285"/>
+<area shape="rect" id="node8" href="$namespace_a_d.html#ab3a80e24a5c8c2beb01131c57dcae4b2" title="Sets the scalar output of a preaccumulation section." alt="" coords="283,309,419,336"/>
+<area shape="rect" id="node9" href="$namespace_a_d.html#a2a1e9c4b109fd751e84132c9495de3ff" title="Starts a new preaccumulation section and sets the input variables." alt="" coords="290,360,413,387"/>
+</map>

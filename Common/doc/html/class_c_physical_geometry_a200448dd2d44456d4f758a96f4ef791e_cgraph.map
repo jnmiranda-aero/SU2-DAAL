@@ -1,0 +1,13 @@
+<map id="CPhysicalGeometry::SetCoord_Smoothing" name="CPhysicalGeometry::SetCoord_Smoothing">
+<area shape="rect" id="node1" title="Do an implicit smoothing of the grid coordinates." alt="" coords="5,226,164,267"/>
+<area shape="rect" id="node2" href="$class_c_point.html#ada7e05f1f9b373785da92b7545e75677" title="Add the value of the coordinates to the Coord_Sum vector for implicit smoothing." alt="" coords="212,5,383,32"/>
+<area shape="rect" id="node3" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="231,56,364,83"/>
+<area shape="rect" id="node4" href="$class_c_point.html#a85ffeb03728dfc550157f98927ae44e4" title="Get the value of the old coordinates for implicit smoothing." alt="" coords="216,107,379,133"/>
+<area shape="rect" id="node5" href="$class_c_point.html#a0b8f9e969ce9c1deb7b5a64fd458ddec" title="Get the value of the summed coordinates for implicit smoothing." alt="" coords="213,157,382,184"/>
+<area shape="rect" id="node6" href="$class_c_edge.html#aee33b61d646e3fe59a4e23284ab1bf33" title="Get the nodes of the edge." alt="" coords="233,208,361,235"/>
+<area shape="rect" id="node7" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="228,259,367,285"/>
+<area shape="rect" id="node8" href="$class_c_point.html#adbb78f3c01711ed0349897f845e3f2d8" title="Get the number of points that compose the control volume." alt="" coords="229,309,365,336"/>
+<area shape="rect" id="node9" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="214,360,381,387"/>
+<area shape="rect" id="node10" href="$class_c_point.html#a65e00c853fad29849662f3a66d56f7e0" title="Set the coordinates for the control volume." alt="" coords="232,411,363,437"/>
+<area shape="rect" id="node11" href="$class_c_point.html#adf2ad5a32dadb7d620d98434dfc3b930" title="Set the value of the vector Coord_Old for implicit smoothing." alt="" coords="217,461,377,488"/>
+</map>

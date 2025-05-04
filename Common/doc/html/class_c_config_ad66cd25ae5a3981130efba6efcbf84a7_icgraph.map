@@ -1,0 +1,5 @@
+<map id="CConfig::GetMG_PreSmooth" name="CConfig::GetMG_PreSmooth">
+<area shape="rect" id="node1" title="Get the number of pre&#45;smoothings in a multigrid strategy." alt="" coords="427,13,629,39"/>
+<area shape="rect" id="node2" href="$class_c_multi_grid_integration.html#a98121aa0de6ddb0f83b41a2cad021e37" title="Perform a Full&#45;Approximation Storage (FAS) Multigrid." alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node3" href="$class_c_multi_grid_integration.html#a4d65b648b6d17d396d2f3432f89e7f51" title="This subroutine calls the MultiGrid_Cycle and also prepare the multigrid levels and the monitoring." alt="" coords="5,5,168,47"/>
+</map>

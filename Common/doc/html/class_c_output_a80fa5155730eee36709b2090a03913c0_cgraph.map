@@ -1,0 +1,13 @@
+<map id="COutput::SetCFL_Number" name="COutput::SetCFL_Number">
+<area shape="rect" id="node1" title="Write the history file and the convergence on the screen for serial computations." alt="" coords="5,249,192,276"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a5a509e57de00494a1cb92e011c1c0dbc" title="Get the Courant Friedrich Levi number for each grid." alt="" coords="283,5,410,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#ac3929a736c2eb5b7cedc6d7131709bff" title="Get the values of the CFL adapation." alt="" coords="240,56,453,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#abb2ba1ecf8988532ce9cecb88c206d28" title="Flag for whether to solve the energy equation for incompressible flows." alt="" coords="273,107,421,149"/>
+<area shape="rect" id="node5" href="$class_c_config.html#aa48f2fc504ec2b261d5046f9a17677dd" title="Get the current external iteration number." alt="" coords="273,173,420,200"/>
+<area shape="rect" id="node6" href="$class_c_config.html#af34d9f3a4cd6ac06a8f2862efad97a27" title="Get the index of the finest grid." alt="" coords="258,224,435,251"/>
+<area shape="rect" id="node7" href="$class_c_config.html#aea7f78497a5cd863bd065391232329fd" title="Get the number of multigrid levels." alt="" coords="259,275,434,301"/>
+<area shape="rect" id="node8" href="$class_c_solver.html#a65c22046b0cf1938ba22648912d04680" title="Get the number of variables of the problem." alt="" coords="281,325,413,352"/>
+<area shape="rect" id="node9" href="$class_c_solver.html#a1c24b55e0849f7f6ba2f62d15d7e4f8e" title="Get the maximal residual, this is useful for the convergence history." alt="" coords="265,376,428,403"/>
+<area shape="rect" id="node10" href="$class_c_config.html#adb13f6471b2c0bbef919ae9d8fe95f68" title="Get the heat equation." alt="" coords="271,427,422,469"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a0eff056be0a977b3402c6e15d6bf7f89" title="Get the Courant Friedrich Levi number for each grid." alt="" coords="284,493,409,520"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CConfig::GetStartConv_Iter" name="CConfig::GetStartConv_Iter">
+<area shape="rect" id="node1" title="Get the number of iterations that are not considered in the convergence criteria." alt="" coords="465,111,661,138"/>
+<area shape="rect" id="node2" href="$class_c_integration.html#a4569919ecc8b0f611f67bccf302f8ae3" title="Do the convergence analysis to determine if the code must stop the execution." alt="" coords="223,104,417,145"/>
+<area shape="rect" id="node3" href="$class_c_disc_adj_fluid_iteration.html#a18a847a91387ab04c90b48280a922e8d" title="Perform a single iteration of the adjoint fluid system." alt="" coords="7,5,173,47"/>
+<area shape="rect" id="node4" href="$class_c_disc_adj_f_e_a_iteration.html#ab12d300ff5c24b7fbdc65ba318df2beb" title="Perform a single iteration of the adjoint mean flow system." alt="" coords="10,71,170,112"/>
+<area shape="rect" id="node5" href="$class_c_multi_grid_integration.html#a4d65b648b6d17d396d2f3432f89e7f51" title="This subroutine calls the MultiGrid_Cycle and also prepare the multigrid levels and the monitoring." alt="" coords="9,136,171,177"/>
+<area shape="rect" id="node6" href="$class_c_single_grid_integration.html#ac3708d71cb7eb9b187a80a13f2107169" title="Do the numerical integration (implicit) of the turbulence solver." alt="" coords="5,201,175,243"/>
+</map>

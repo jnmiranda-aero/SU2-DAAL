@@ -1,0 +1,11 @@
+<map id="CNumerics::SetAdjointVarGradient" name="CNumerics::SetAdjointVarGradient">
+<area shape="rect" id="node1" title="Set the gradient of the adjoint variables." alt="" coords="225,235,415,276"/>
+<area shape="rect" id="node2" href="$class_c_adj_euler_solver.html#a67685dedf5d4651cb25fbf3fc0440d24" title="Impose the boundary condition to the far field using characteristics." alt="" coords="15,5,167,47"/>
+<area shape="rect" id="node3" href="$class_c_adj_euler_solver.html#a29398c2203511586508ff9d43e894e41" title="Impose the inlet boundary condition." alt="" coords="15,71,167,112"/>
+<area shape="rect" id="node4" href="$class_c_adj_euler_solver.html#a0b3408be5adebd52b79bd3c5227cbe9d" title="Impose the outlet boundary condition." alt="" coords="15,136,167,177"/>
+<area shape="rect" id="node5" href="$class_c_adj_euler_solver.html#ab5c6ba919fde8e3e473f485bb06b2e9c" title="Impose the supersonic inlet boundary condition." alt="" coords="15,201,167,243"/>
+<area shape="rect" id="node6" href="$class_c_adj_euler_solver.html#a58543ab410a218129586869573316437" title="Impose the supersonic outlet boundary condition." alt="" coords="15,267,167,308"/>
+<area shape="rect" id="node7" href="$class_c_adj_n_s_solver.html#af2cb5ceadb98384f7504b6f7c6e6840c" title="Source term computation." alt="" coords="10,332,173,373"/>
+<area shape="rect" id="node8" href="$class_c_adj_turb_solver.html#a4747f82b90660beb3b54cb04a3b5a9ef" title="Source term computation." alt="" coords="5,397,177,439"/>
+<area shape="rect" id="node9" href="$class_c_adj_n_s_solver.html#a8f0a8d26c8b3df3f9dbbbf7c98a6a18e" title="Compute the viscous residuals for the adjoint equation." alt="" coords="7,463,176,504"/>
+</map>

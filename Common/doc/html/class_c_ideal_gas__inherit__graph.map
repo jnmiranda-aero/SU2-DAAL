@@ -1,0 +1,6 @@
+<map id="CIdealGas" name="CIdealGas">
+<area shape="rect" id="node1" title="Child class for defining ideal gas model." alt="" coords="101,80,189,107"/>
+<area shape="rect" id="node3" href="$class_c_peng_robinson.html" title="Child class for defining the Peng&#45;Robinson model." alt="" coords="5,155,128,181"/>
+<area shape="rect" id="node4" href="$class_c_van_der_waals_gas.html" title="Child class for defining the Van der Waals model." alt="" coords="153,155,295,181"/>
+<area shape="rect" id="node2" href="$class_c_fluid_model.html" title="Main class for defining the Thermo&#45;Physical Model a child class for each particular Model (Ideal&#45;Gas,..." alt="" coords="94,5,197,32"/>
+</map>

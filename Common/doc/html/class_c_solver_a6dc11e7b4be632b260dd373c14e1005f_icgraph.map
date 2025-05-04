@@ -1,0 +1,9 @@
+<map id="CSolver::UpdateSolution_BGS" name="CSolver::UpdateSolution_BGS">
+<area shape="rect" id="node1" title="Store the BGS solution in the previous subiteration in the corresponding vector." alt="" coords="728,35,943,61"/>
+<area shape="rect" id="node2" href="$class_c_f_s_i_driver.html#aeeea6bb4ec8377a5015df6bc88e5a66b" title="Check the convergence of BGS subiteration process." alt="" coords="469,5,680,32"/>
+<area shape="rect" id="node4" href="$class_c_disc_adj_f_s_i_driver.html#a781367e50928b0355cd9cfb145cc7e58" title="Check the convergence of BGS subiteration process." alt="" coords="501,57,648,98"/>
+<area shape="rect" id="node3" href="$class_c_f_s_i_driver.html#a42f35db571cc1bf984b30d2ac7d8167c" title="Run a Block Gauss&#45;Seidel iteration of the FSI problem." alt="" coords="262,5,385,32"/>
+<area shape="rect" id="node5" href="$class_c_disc_adj_f_s_i_driver.html#ab6dc73cea783398d2e4d40b56b8d142f" title="Iterate a block for adjoint FSI with flow Objective Function." alt="" coords="241,57,405,98"/>
+<area shape="rect" id="node7" href="$class_c_disc_adj_f_s_i_driver.html#a1199b609d2ec3ab24d9614a73c4ed74a" title="Iterate a block for adjoint FSI with structural Objective Function." alt="" coords="225,122,421,163"/>
+<area shape="rect" id="node6" href="$class_c_disc_adj_f_s_i_driver.html#a2e965d6e9c4dcfc296077cae225cab21" title="Run a Discrete Adjoint iteration for the FSI problem." alt="" coords="5,97,177,124"/>
+</map>

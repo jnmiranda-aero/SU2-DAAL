@@ -1,0 +1,5 @@
+<map id="CTransfer_ConjugateHeatVars::SetTarget_Variable" name="CTransfer_ConjugateHeatVars::SetTarget_Variable">
+<area shape="rect" id="node1" title="Set the variable that has been received from the target mesh into the target mesh." alt="" coords="5,39,220,80"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a27aace1ad6f39bd3254d62fa739d6f5c" title="Get the relaxation coefficient of the CHT coupling." alt="" coords="281,5,454,47"/>
+<area shape="rect" id="node3" href="$class_c_solver.html#ae7575437e227464c10c143900cbe407b" title="Set the conjugate heat variables." alt="" coords="268,71,467,112"/>
+</map>

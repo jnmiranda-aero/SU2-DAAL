@@ -1,0 +1,19 @@
+<map id="CConfig::GetnSpanWiseSections" name="CConfig::GetnSpanWiseSections">
+<area shape="rect" id="node1" title="number span&#45;wise sections to compute 3D BC and performance for turbomachinery." alt="" coords="887,371,1117,398"/>
+<area shape="rect" id="node2" href="$class_c_transfer.html#a2f7525af28159469650a0532725ea4ed" title="Interpolate data and scatter it into different processors, for matching meshes." alt="" coords="644,37,795,79"/>
+<area shape="rect" id="node7" href="$class_c_turb_s_a_solver.html#a75c50cab5888e913ea59dd03c23be8e6" title="Impose the inlet boundary condition." alt="" coords="630,103,809,144"/>
+<area shape="rect" id="node8" href="$class_c_turb_s_s_t_solver.html#a76eebd24fcfc25255c3089f2b1a9acbd" title="Impose the inlet boundary condition." alt="" coords="645,168,794,209"/>
+<area shape="rect" id="node9" href="$class_c_turb_s_a_solver.html#a2e05ecc017b2b3716bfc6728e4a734e8" title="Impose the inlet boundary condition." alt="" coords="630,233,809,275"/>
+<area shape="rect" id="node10" href="$class_c_turb_s_s_t_solver.html#a8957c42841a00d3880fb5886e2f4de3c" title="Impose the inlet boundary condition." alt="" coords="645,299,794,340"/>
+<area shape="rect" id="node11" href="$class_c_physical_geometry.html#a217e5337523ba85579c8a3d209bf25d9" title="Set turbo boundary vertex." alt="" coords="621,364,818,405"/>
+<area shape="rect" id="node12" href="$class_c_euler_solver.html#a4ad866d7431d69fba0a8bc491014f264" title="Initilize turbo containers." alt="" coords="600,430,839,457"/>
+<area shape="rect" id="node13" href="$class_c_transfer.html#a277c9ad0deda676c07a2042c404e13fd" title="Transfer pre&#45;processing for the mixing plane inteface." alt="" coords="628,481,811,523"/>
+<area shape="rect" id="node14" href="$class_c_driver.html#a62ce0ec9ca8942aae6ee6bc9b5211759" title="Initiate value for static mesh movement such as the gridVel for the ROTATING frame." alt="" coords="277,518,552,545"/>
+<area shape="rect" id="node16" href="$class_c_disc_adj_turbomachinery_driver.html#a5c25ea3371c3352d78bba9001e0d27f9" title="Set Obj.Function for turbomachinery design." alt="" coords="607,599,831,640"/>
+<area shape="rect" id="node17" href="$class_c_transfer___mixing_plane_interface.html#aa71e588bcbca0c18f133415c15a81f49" title="Initialize quantities for spanwise sections for interpolation." alt="" coords="605,664,833,705"/>
+<area shape="rect" id="node3" href="$class_c_turbomachinery_driver.html#af126a06c5430c9b7b75ca876fdb96a4f" title="Set Mixing Plane interface within multiple zones." alt="" coords="327,5,502,47"/>
+<area shape="rect" id="node5" href="$class_c_disc_adj_turbomachinery_driver.html#ac997f89f4fa9125b73fac02c5ceeaaa3" title="Set Mixing Plane interface within multiple zones." alt="" coords="303,71,527,112"/>
+<area shape="rect" id="node4" href="$class_c_turbomachinery_driver.html#a4c5a1aaddfe1130684fbcdcacd7eb83f" title="Run a single iteration of the physics within multiple zones." alt="" coords="13,13,221,39"/>
+<area shape="rect" id="node6" href="$class_c_disc_adj_turbomachinery_driver.html#aac60696b9bf11527228b4152d4331907" title="Run a single iteration of the direct solver." alt="" coords="5,71,229,112"/>
+<area shape="rect" id="node15" href="$class_c_driver.html#afac169e386a89af2a52be8902abb27f2" title="Constructor of the class." alt="" coords="53,518,181,545"/>
+</map>

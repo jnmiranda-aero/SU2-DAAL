@@ -1,0 +1,4 @@
+<map id="CVariable::RegisterSolution_time_n1" name="CVariable::RegisterSolution_time_n1">
+<area shape="rect" id="node1" title="Register the variables in the solution_time_n1 array as input/output variable." alt="" coords="236,5,435,47"/>
+<area shape="rect" id="node2" href="$class_c_disc_adj_solver.html#a6c097e27287f199bcc8972baabd59ae8" title="Performs the preprocessing of the adjoint AD&#45;based solver. Registers all necessary variables on the t..." alt="" coords="5,5,188,47"/>
+</map>

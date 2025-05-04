@@ -1,0 +1,52 @@
+<map id="CConfig::GetAoA" name="CConfig::GetAoA">
+<area shape="rect" id="node1" title="Get the angle of attack of the body. This is the angle between a reference line on a lifting body (of..." alt="" coords="627,945,756,972"/>
+<area shape="rect" id="node2" href="$class_c_solver.html#a8dd9c428bd1faa90ed188094b2e182bb" title="Prepares and solves the aeroelastic equations." alt="" coords="351,5,504,32"/>
+<area shape="rect" id="node3" href="$class_c_f_e_m___d_g___n_s_solver.html#a8e27fad06f1bde21670f2e2990d3027e" title="Impose the user customized boundary condition." alt="" coords="338,57,517,98"/>
+<area shape="rect" id="node4" href="$class_c_n_s_solver.html#acc926a2b83d8b90fa71faf46abe8f6b7" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="354,122,501,163"/>
+<area shape="rect" id="node5" href="$class_c_inc_n_s_solver.html#a5a106c634b0c06ac4a68b1a6241f203a" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="345,187,510,229"/>
+<area shape="rect" id="node6" href="$class_c_f_e_m___d_g___n_s_solver.html#a15cec95ab40ebb36ee69bc5f58840cf3" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="323,253,531,294"/>
+<area shape="rect" id="node7" href="$class_c_euler_solver.html#ad8b538a82e5a7a7e3903ec29954b1d07" title="Compute the Fan face Mach number." alt="" coords="339,370,515,411"/>
+<area shape="rect" id="node10" href="$class_c_euler_solver.html#a9e92c9defb86bcb87924741dd9f89e9d" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="333,435,521,477"/>
+<area shape="rect" id="node11" href="$class_c_inc_euler_solver.html#a9a1ae1497ccf83abb0bad4bad7a99623" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="324,501,531,542"/>
+<area shape="rect" id="node12" href="$class_c_euler_solver.html#a98856f91553ab35f30d27bfd0ab46d69" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="343,566,512,607"/>
+<area shape="rect" id="node13" href="$class_c_inc_euler_solver.html#a5071b46c6b8a190c57f36c7567155121" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="333,631,521,673"/>
+<area shape="rect" id="node14" href="$class_c_f_e_m___d_g___euler_solver.html#a5b3e068f83cbf3aeb8e6a4e02b4bf27b" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="344,697,511,738"/>
+<area shape="rect" id="node15" href="$class_c_physical_geometry.html#ad61681f39d9e2dbdaf821433e22fd4b0" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file in para..." alt="" coords="329,762,525,803"/>
+<area shape="rect" id="node17" href="$class_c_solver.html#a4591089e9efd66cf15c922bd7136d70e" title="Read the metadata from a native SU2 restart file (ASCII or binary)." alt="" coords="327,879,527,921"/>
+<area shape="rect" id="node26" href="$class_c_disc_adj_solver.html#a2eaeeeb4950e31fd0162a26f4f8b1d0c" title="A virtual member." alt="" coords="336,997,519,1038"/>
+<area shape="rect" id="node28" href="$class_c_euler_solver.html#ae9346f0feebb8b28613bfc7838d3d121" title="Update the AoA and freestream velocity at the farfield." alt="" coords="320,319,535,345"/>
+<area shape="rect" id="node29" href="$class_c_inc_euler_solver.html#a92be9b5078764b071873efa02a8f720d" title="Update the AoA and freestream velocity at the farfield." alt="" coords="311,1063,544,1089"/>
+<area shape="rect" id="node32" href="$class_c_output.html#ac6b6164f30cb97283ce6dd4dd8b4b0e3" title="Write a Tecplot ASCII solution file." alt="" coords="327,1164,528,1191"/>
+<area shape="rect" id="node37" href="$class_c_output.html#a4e9fc94c21bd4ed7ad795b31534a47f8" title="Write solution data to a Tecplot binary volume solution file." alt="" coords="323,1113,532,1140"/>
+<area shape="rect" id="node38" href="$class_c_adj_euler_solver.html#a814d69e54f24c9fef36e3493a2230973" title="Created the force projection vector for adjoint boundary conditions." alt="" coords="332,1266,523,1307"/>
+<area shape="rect" id="node39" href="$class_c_euler_solver.html#ac116e43e6c7eef751bc807908f235c31" title="Set the solution using the Freestream values." alt="" coords="323,1331,532,1373"/>
+<area shape="rect" id="node40" href="$class_c_f_e_m___d_g___euler_solver.html#a5aa7f52ba149678087c03b59ca9dd9cf" title="Set the initial condition for the Euler Equations." alt="" coords="344,1397,511,1438"/>
+<area shape="rect" id="node41" href="$class_c_adj_euler_solver.html#ab53f11b1472261d979780ca69dcc2a63" title="Compute the jump for the interior boundary problem." alt="" coords="290,1463,565,1489"/>
+<area shape="rect" id="node42" href="$class_c_euler_solver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="285,828,569,855"/>
+<area shape="rect" id="node43" href="$class_c_inc_euler_solver.html#a2cffaa24417cb3803d36d38b3874d6d0" title="Set the solver nondimensionalization." alt="" coords="276,945,579,972"/>
+<area shape="rect" id="node44" href="$class_c_f_e_m___d_g___euler_solver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="327,1514,528,1555"/>
+<area shape="rect" id="node45" href="$class_c_output.html#a73373131331a79e030bf4a16a6caedfc" title="Write a native SU2 restart file." alt="" coords="352,1215,503,1241"/>
+<area shape="rect" id="node46" href="$class_c_output.html#a3c5f290d8b232beffecd0ecfa331861a" title="Create and write the file with the flow coefficient on the surface." alt="" coords="340,1579,515,1621"/>
+<area shape="rect" id="node47" href="$class_c_output.html#ab42924af9d147fb4bbb7cc4c7814ebce" title="Writes equivalent area." alt="" coords="340,1645,515,1686"/>
+<area shape="rect" id="node48" href="$class_c_output.html#a641031244a50f2c88c0e653bdddeeee5" title="Writes forces at different sections." alt="" coords="340,1710,515,1751"/>
+<area shape="rect" id="node49" href="$class_c_output.html#ad40660d7774c0ce5a0ca5ab36b84d1c0" title="Write a native SU2 restart file (ASCII) in parallel." alt="" coords="345,1775,510,1817"/>
+<area shape="rect" id="node50" href="$class_c_output.html#a6a3f3d7e3b16a1c13af868c1143534f3" title="Write a native SU2 restart file (binary) in parallel." alt="" coords="345,1841,510,1882"/>
+<area shape="rect" id="node8" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="15,320,219,347"/>
+<area shape="rect" id="node9" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="22,375,211,401"/>
+<area shape="rect" id="node16" href="$class_c_physical_geometry.html#a075a737b341a64de5463ddd41096692e" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file." alt="" coords="38,482,195,523"/>
+<area shape="rect" id="node18" href="$class_c_adj_euler_solver.html#a0a739888df9436d4707665d152a7af1a" title=" " alt="" coords="18,766,215,807"/>
+<area shape="rect" id="node19" href="$class_c_adj_n_s_solver.html#a323f1dc7c0b9fe00d1911eeeea365d46" title=" " alt="" coords="13,832,221,859"/>
+<area shape="rect" id="node20" href="$class_c_euler_solver.html#ae1e74218b4e943111b100d7ddcbd4db9" title=" " alt="" coords="19,548,215,575"/>
+<area shape="rect" id="node21" href="$class_c_inc_euler_solver.html#a91f644b8f9a00215bac5bcd31dfc06d8" title=" " alt="" coords="20,883,213,925"/>
+<area shape="rect" id="node22" href="$class_c_inc_n_s_solver.html#a82152ac7e91fb1c5c073d98a1f08e2aa" title=" " alt="" coords="15,949,219,976"/>
+<area shape="rect" id="node23" href="$class_c_n_s_solver.html#a2a8ad49c42b4546696e631cf44b7788b" title=" " alt="" coords="33,599,200,625"/>
+<area shape="rect" id="node24" href="$class_c_disc_adj_solver.html#ae9b5d31c76381f5d45884642694d9879" title="Load a solution from a restart file." alt="" coords="13,649,220,676"/>
+<area shape="rect" id="node25" href="$class_c_disc_adj_f_e_a_solver.html#a21c5685021d084732a1aa3d552cd9043" title="Load a solution from a restart file." alt="" coords="39,701,194,742"/>
+<area shape="rect" id="node27" href="$class_c_disc_adj_solver.html#a696214d1de7cabe49792ce047e08b5f4" title="Prepare the solver for a new recording." alt="" coords="9,1000,224,1027"/>
+<area shape="rect" id="node30" href="$class_c_inc_euler_solver.html#aabd902b10cc9b41b6b2c406efba0ac41" title="Compute primitive variables and their gradients." alt="" coords="5,1051,228,1077"/>
+<area shape="rect" id="node31" href="$class_c_inc_n_s_solver.html#ae84f6e86313acd1da80c505b4eab81e5" title="Restart residual and compute gradients." alt="" coords="13,1101,221,1128"/>
+<area shape="rect" id="node33" href="$class_c_output.html#adafaf6906933a6061b4dbf77a43d8ce1" title="Writes and organizes the all the output files, except the history one, for serial computations." alt="" coords="16,1153,217,1194"/>
+<area shape="rect" id="node34" href="$class_c_output.html#addef7f58fbf0b3f83247acb6ce1f9656" title="Writes and organizes the all the output files, except the history one, for DG&#45;FEM simulations (SU2_SO..." alt="" coords="16,1218,217,1259"/>
+<area shape="rect" id="node35" href="$class_c_output.html#a3f9e3547aeab11342d49cec28a460728" title="Writes and organizes the all the output files, except the history one, for serial computations." alt="" coords="44,1283,189,1325"/>
+<area shape="rect" id="node36" href="$class_c_output.html#a7072279b203871651d163fb2dd60d2d6" title="Writes and organizes the all the output files, except the history one, for serial computations with t..." alt="" coords="44,1349,189,1390"/>
+</map>

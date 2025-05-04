@@ -1,0 +1,8 @@
+<map id="CEulerSolver::SetDonorPrimVar" name="CEulerSolver::SetDonorPrimVar">
+<area shape="rect" id="node1" title="Value of the characteristic variables at the boundaries." alt="" coords="471,78,695,105"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a6af5752ae941083a42f1d5761adb27ef" title="Parallelization of Undivided Laplacian." alt="" coords="257,5,423,47"/>
+<area shape="rect" id="node5" href="$class_c_euler_solver.html#a51b14234674d9f268c3049eeb2f7a4da" title="Parallelization of Undivided Laplacian." alt="" coords="257,71,423,112"/>
+<area shape="rect" id="node6" href="$class_c_euler_solver.html#a0a8ca4d40a036d15e801faf05b3c5861" title="Parallelization of Undivided Laplacian." alt="" coords="257,136,423,177"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="5,53,209,79"/>
+<area shape="rect" id="node4" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="13,103,202,130"/>
+</map>

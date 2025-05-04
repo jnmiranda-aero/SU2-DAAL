@@ -1,0 +1,24 @@
+<map id="CNumerics::GetInviscidProjJac" name="CNumerics::GetInviscidProjJac">
+<area shape="rect" id="node1" title="Compute the projection of the inviscid Jacobian matrices." alt="" coords="532,530,751,557"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#ac2b01ff2a17b23c87a33f7ef14d6bd9b" title="Impose via the residual the Euler wall boundary condition." alt="" coords="267,5,437,47"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#a7d215573982c76dc525041473e37dd0f" title="Impose via the residual the Euler wall boundary condition." alt="" coords="249,71,455,98"/>
+<area shape="rect" id="node5" href="$class_c_euler_solver.html#a22c21d18fa626d489db9a387234bd9d0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="254,122,450,149"/>
+<area shape="rect" id="node6" href="$class_c_euler_solver.html#a0066305803a18511fb89b8951f4e4866" title="Impose the boundary condition using characteristic recostruction." alt="" coords="237,173,467,199"/>
+<area shape="rect" id="node7" href="$class_c_upw_c_u_s_p___flow.html#ab88b56f4d818225b47b7fe855a18326a" title="Compute the flow residual using a JST method." alt="" coords="225,223,479,250"/>
+<area shape="rect" id="node8" href="$class_c_upw_roe___flow.html#a7b9c15b886c73e1aa590b04c84eca005" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="229,274,475,301"/>
+<area shape="rect" id="node9" href="$class_c_upw_general_roe___flow.html#ac7f91b1543d87015361d69539cfecfe9" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="265,325,439,367"/>
+<area shape="rect" id="node10" href="$class_c_upw_l2_roe___flow.html#a8bc0df1bf252d0c1bbf467a1e4c3e2c2" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="222,391,482,418"/>
+<area shape="rect" id="node11" href="$class_c_upw_l_m_roe___flow.html#a13e16b47f52b06a90ea02570808d3c6a" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="220,442,484,469"/>
+<area shape="rect" id="node12" href="$class_c_upw_turkel___flow.html#aa6bf45c213d035cf98a3b355af37def2" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="251,493,453,535"/>
+<area shape="rect" id="node13" href="$class_c_upw_a_u_s_m___flow.html#a9c1945f5d13295b5d887fb1ba3b553b4" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="223,559,481,586"/>
+<area shape="rect" id="node14" href="$class_c_upw_s_l_a_u___flow.html#a3604dd7d635d560b5abaeb7d9867f3a6" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="225,610,479,637"/>
+<area shape="rect" id="node15" href="$class_c_upw_s_l_a_u2___flow.html#af4e7bc524b89b3dcad1f94f2ee769160" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="221,661,483,687"/>
+<area shape="rect" id="node16" href="$class_c_upw_h_l_l_c___flow.html#a596a81adca838c111215bf8e2c456a56" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="225,711,479,738"/>
+<area shape="rect" id="node17" href="$class_c_upw_general_h_l_l_c___flow.html#ae77c55bb6e269fafeb7f6ad74531f749" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="261,763,443,804"/>
+<area shape="rect" id="node18" href="$class_c_cent_j_s_t___k_e___flow.html#a31efca0e85201f706865741da9badf07" title="Compute the flow residual using a JST method." alt="" coords="247,828,457,869"/>
+<area shape="rect" id="node19" href="$class_c_cent_j_s_t___flow.html#a889938df797bc373afa23182346de34a" title="Compute the flow residual using a JST method." alt="" coords="231,894,473,921"/>
+<area shape="rect" id="node20" href="$class_c_cent_lax___flow.html#ad0e0cea4d96913e6e77e10a70052a92c" title="Compute the flow residual using a Lax method." alt="" coords="230,945,474,971"/>
+<area shape="rect" id="node21" href="$class_c_convective___template.html#af3b4a6e55cab59b0585989dbc9f71c5c" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="267,996,437,1037"/>
+<area shape="rect" id="node22" href="$class_c_upw_roe___adj_flow.html#aea2a7b2e88d273c5526f221cac0a3709" title="Compute the adjoint Roe&#39;s flux between two nodes i and j." alt="" coords="247,1061,457,1103"/>
+<area shape="rect" id="node4" href="$class_c_euler_solver.html#a3e39ab93a096a2c73aaacb38b20852c6" title="Impose the symmetry boundary condition using the residual." alt="" coords="5,64,172,105"/>
+</map>

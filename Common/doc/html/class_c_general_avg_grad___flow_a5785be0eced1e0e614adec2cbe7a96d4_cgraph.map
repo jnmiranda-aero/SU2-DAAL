@@ -1,0 +1,9 @@
+<map id="CGeneralAvgGrad_Flow::ComputeResidual" name="CGeneralAvgGrad_Flow::ComputeResidual">
+<area shape="rect" id="node1" title="Compute the viscous flow residual using an average of gradients." alt="" coords="5,125,180,166"/>
+<area shape="rect" id="node2" href="$namespace_a_d.html#a309d057a92faa60a3a760254678ec9ea" title="Ends a preaccumulation section and computes the local Jacobi matrix of a code section using the varia..." alt="" coords="283,5,399,32"/>
+<area shape="rect" id="node3" href="$class_c_numerics.html#ae1871b445ac9c276b47bdef8cb85ae5a" title="Compute the projection of the viscous fluxes into a direction." alt="" coords="228,56,455,83"/>
+<area shape="rect" id="node4" href="$class_c_numerics.html#a04f3cb378c17caec4b1408cc73bb9331" title="TSL&#45;Approximation of Viscous NS Jacobians." alt="" coords="229,107,454,133"/>
+<area shape="rect" id="node5" href="$namespace_a_d.html#aad703f3a82e509c88b92ae638f75383c" title="Sets the scalar input of a preaccumulation section." alt="" coords="279,157,404,184"/>
+<area shape="rect" id="node6" href="$namespace_a_d.html#ab3a80e24a5c8c2beb01131c57dcae4b2" title="Sets the scalar output of a preaccumulation section." alt="" coords="273,208,409,235"/>
+<area shape="rect" id="node7" href="$namespace_a_d.html#a2a1e9c4b109fd751e84132c9495de3ff" title="Starts a new preaccumulation section and sets the input variables." alt="" coords="280,259,403,285"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="CVariable::SetGradient_Primitive" name="CVariable::SetGradient_Primitive">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="536,104,705,145"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#ad5e5c2aed0d347dd662a17a55c88f971" title="Compute the gradient of the primitive variables using Green&#45;Gauss method, and stores the result in th..." alt="" coords="285,5,479,47"/>
+<area shape="rect" id="node5" href="$class_c_inc_euler_solver.html#a4919140c377bea0a95c378dc25ecfc03" title="Compute the gradient of the primitive variables using Green&#45;Gauss method, and stores the result in th..." alt="" coords="276,136,488,177"/>
+<area shape="rect" id="node8" href="$class_c_euler_solver.html#af206d80b1418bfa2001fd0c204e3e38a" title="Compute the gradient of the primitive variables using a Least&#45;Squares method, and stores the result i..." alt="" coords="285,71,479,112"/>
+<area shape="rect" id="node9" href="$class_c_inc_euler_solver.html#ac720e62e0f1c203fb9fb337af9c671bc" title="Compute the gradient of the primitive variables using a Least&#45;Squares method, and stores the result i..." alt="" coords="276,201,488,243"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="15,17,219,43"/>
+<area shape="rect" id="node4" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="22,71,211,98"/>
+<area shape="rect" id="node6" href="$class_c_inc_euler_solver.html#aabd902b10cc9b41b6b2c406efba0ac41" title="Compute primitive variables and their gradients." alt="" coords="5,150,228,177"/>
+<area shape="rect" id="node7" href="$class_c_inc_n_s_solver.html#ae84f6e86313acd1da80c505b4eab81e5" title="Restart residual and compute gradients." alt="" coords="13,205,221,231"/>
+</map>

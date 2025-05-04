@@ -1,0 +1,32 @@
+<map id="CSurfaceMovement::Surface_Rotating" name="CSurfaceMovement::Surface_Rotating">
+<area shape="rect" id="node1" title="Computes the displacement of a rotating surface for a dynamic mesh simulation." alt="" coords="5,842,212,883"/>
+<area shape="rect" id="node2" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="311,5,444,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a417b45d0da107126e803258901f57920" title="If we are prforming an unsteady simulation, there is only one value of the time step for the complete..." alt="" coords="263,56,491,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#ac423a5dfbbebbed75a74071dfd7d82d3" title="Get the value of the reference length for non&#45;dimensionalization. This value should always be 1 inter..." alt="" coords="289,107,465,133"/>
+<area shape="rect" id="node5" href="$class_c_config.html#af9ca2570009f45c1504444027f70a1ad" title="Get the motion information for a marker val_marker." alt="" coords="303,158,451,199"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="303,223,451,265"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a3fe6a127fa7133bd966fe572e070fe44" title="Get the name of the surface defined in the geometry file." alt="" coords="303,289,451,330"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a2d2cc222deea67e15fb9f5b8bf2fe5b3" title="Get x&#45;coordinate of the mesh motion origin." alt="" coords="303,354,451,395"/>
+<area shape="rect" id="node9" href="$class_c_config.html#ac29503e4c1edea7252b33bfdea8bcd99" title="Get y&#45;coordinate of the mesh motion origin." alt="" coords="303,419,451,461"/>
+<area shape="rect" id="node10" href="$class_c_config.html#ade3f3e84bc9e0a8c712aaff26ac8cdba" title="Get z&#45;coordinate of the mesh motion origin." alt="" coords="303,485,451,526"/>
+<area shape="rect" id="node11" href="$class_c_config.html#ad57b51360ea8550b34d574d1f16a6657" title="Get if we should update the motion origin." alt="" coords="285,550,469,591"/>
+<area shape="rect" id="node12" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="297,616,458,643"/>
+<area shape="rect" id="node13" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="287,667,467,693"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a62a92b26c1300323f4a4a035ec19af1a" title="Get the total number of monitoring markers." alt="" coords="299,718,455,759"/>
+<area shape="rect" id="node15" href="$class_c_config.html#a2b19050c45ae0112edf954bb51bb1dbf" title="Get the total number of moving markers." alt="" coords="299,783,455,825"/>
+<area shape="rect" id="node16" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="308,849,447,876"/>
+<area shape="rect" id="node17" href="$class_c_config.html#a75bb1f8aa4d15be6690dd6cc5ab581a7" title="Get the value of the reference angular velocity for non&#45;dimensionalization." alt="" coords="288,900,467,927"/>
+<area shape="rect" id="node18" href="$class_c_config.html#ad16ba9ced46f18677ba639a6d31b8fc4" title="Get reference origin x&#45;coordinate for moment computation." alt="" coords="260,951,495,977"/>
+<area shape="rect" id="node19" href="$class_c_config.html#a7f4c4d90f8a12ff8f1cdc01c5cef1352" title="Get reference origin y&#45;coordinate for moment computation." alt="" coords="261,1001,494,1028"/>
+<area shape="rect" id="node20" href="$class_c_config.html#af9450905a87ebfc471c560e25dc5fcf4" title="Get reference origin z&#45;coordinate for moment computation." alt="" coords="260,1052,495,1079"/>
+<area shape="rect" id="node21" href="$class_c_config.html#aa83ad869eaf541f6a110b84874f909bd" title="Get the angular velocity of the mesh about the x&#45;axis." alt="" coords="298,1103,457,1145"/>
+<area shape="rect" id="node22" href="$class_c_config.html#a0a036a9fac15b295e0fbde2c52e3a7d4" title="Get the angular velocity of the mesh about the y&#45;axis." alt="" coords="298,1169,457,1210"/>
+<area shape="rect" id="node23" href="$class_c_config.html#a775b1798931ad6be6ee986d3b9cc26b3" title="Get the angular velocity of the mesh about the z&#45;axis." alt="" coords="298,1234,457,1275"/>
+<area shape="rect" id="node24" href="$class_c_config.html#a78e1c1391ac14c0dbb57d0d4b1f667bc" title="Set x&#45;coordinate of the mesh motion origin." alt="" coords="304,1299,451,1341"/>
+<area shape="rect" id="node25" href="$class_c_config.html#af469deb7c9164fc01955dec18ba3e2b1" title="Set y&#45;coordinate of the mesh motion origin." alt="" coords="304,1365,451,1406"/>
+<area shape="rect" id="node26" href="$class_c_config.html#a877405f300087de419c80e805b97c9f2" title="Set z&#45;coordinate of the mesh motion origin." alt="" coords="304,1430,451,1471"/>
+<area shape="rect" id="node27" href="$class_c_config.html#a6ca8f557014e78ee9086efefa37513f1" title="Set reference origin x&#45;coordinate for moment computation." alt="" coords="261,1496,493,1523"/>
+<area shape="rect" id="node28" href="$class_c_config.html#a6adc72e34adb72c23b38cd1cf557ea19" title="Set reference origin y&#45;coordinate for moment computation." alt="" coords="262,1547,493,1573"/>
+<area shape="rect" id="node29" href="$class_c_config.html#a009fb5f6b1c3a184a5c03ae95996e6e7" title="Set reference origin z&#45;coordinate for moment computation." alt="" coords="261,1597,493,1624"/>
+<area shape="rect" id="node30" href="$class_c_vertex.html#a77faafc52f911c793851c71738fb85ba" title="Set the value of the coordinate variation due to a surface modification." alt="" coords="297,1648,458,1675"/>
+</map>

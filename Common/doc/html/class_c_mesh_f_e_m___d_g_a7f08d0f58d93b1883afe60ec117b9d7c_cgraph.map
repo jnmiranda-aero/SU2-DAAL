@@ -1,0 +1,11 @@
+<map id="CMeshFEM_DG::MetricTermsSurfaceElements" name="CMeshFEM_DG::MetricTermsSurfaceElements">
+<area shape="rect" id="node1" title="Function, which computes the metric terms of the surface elements, both internal faces and physical b..." alt="" coords="5,82,215,123"/>
+<area shape="rect" id="node2" href="$class_c_mesh_f_e_m.html#aaeee8619d2ccd25d5d35332f2afd13b7" title="Function, which computes the metric terms of the faces of a physical boundary." alt="" coords="263,82,507,123"/>
+<area shape="rect" id="node3" href="$class_c_mesh_f_e_m.html#a48069591b944b34acf03ae78aa5493c3" title="Function, which computes the gradients of the parametric coordinates w.r.t. the Cartesian coordinates..." alt="" coords="565,23,789,65"/>
+<area shape="rect" id="node8" href="$class_c_mesh_f_e_m.html#a39cdfd81f63b622abce3ad330dd9a7dc" title="Function, which computes the information of the normals in the integration points of a face." alt="" coords="555,89,800,116"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="587,140,767,167"/>
+<area shape="rect" id="node4" href="$class_c_mesh_f_e_m.html#ae7113246e97e1dc90286eb1a2fe30a79" title="Function, which computes the gradients of the Cartesian coordinates w.r.t. the parametric coordinates..." alt="" coords="848,23,1072,65"/>
+<area shape="rect" id="node5" href="$class_c_blas_structure.html#a40a585307895af828a7f51cd0ccbf81d" title="Function, which carries out a dense matrix product. It is a limited version of the BLAS gemm function..." alt="" coords="1120,31,1288,57"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a2628e094b67a6d5cb410710aa00fa69b" title="Start the timer for profiling subroutines." alt="" coords="1337,5,1493,32"/>
+<area shape="rect" id="node7" href="$class_c_config.html#ae8d24548bd977c6a76e06ed9814418bb" title="Stop the timer for the GEMM profiling and store results." alt="" coords="1336,56,1495,83"/>
+</map>

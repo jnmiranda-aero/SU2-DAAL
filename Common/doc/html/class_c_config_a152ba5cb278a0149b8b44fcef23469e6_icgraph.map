@@ -1,0 +1,5 @@
+<map id="CConfig::GetCFLRedCoeff_Turb" name="CConfig::GetCFLRedCoeff_Turb">
+<area shape="rect" id="node1" title="Value of the CFL reduction in LevelSet problems." alt="" coords="284,42,504,69"/>
+<area shape="rect" id="node2" href="$class_c_turb_solver.html#af7a0ab68fbb2925c56863df97b3ea4ee" title="Update the solution using an implicit solver." alt="" coords="26,5,215,47"/>
+<area shape="rect" id="node3" href="$class_c_heat_solver_f_v_m.html#a5d2dc86ae38a3f979cfce8bf7bccdaa8" title="A virtual member." alt="" coords="5,71,236,98"/>
+</map>

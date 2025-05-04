@@ -1,0 +1,8 @@
+<map id="CSolver::SetResidual_BGS" name="CSolver::SetResidual_BGS">
+<area shape="rect" id="node1" title="Communicate the value of the max residual and RMS residual." alt="" coords="332,123,523,149"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#ad578483a4cae5dd4e38fe814f0f03c9a" title="Set the value of the max residual and RMS residual." alt="" coords="13,5,276,32"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#aa75e1f4d5e5bc26bb779f4bb605f6e17" title="Set the value of the max residual and BGS residual." alt="" coords="49,57,240,98"/>
+<area shape="rect" id="node4" href="$class_c_f_e_a_solver.html#af82e867c820f829e13a14f9ae33d3e2a" title="Set the value of the max residual and BGS residual." alt="" coords="17,123,272,149"/>
+<area shape="rect" id="node5" href="$class_c_disc_adj_solver.html#a5d4b78c0e4a04912ab55baaad5f5a1b6" title="Set the value of the max residual and RMS residual." alt="" coords="5,173,284,200"/>
+<area shape="rect" id="node6" href="$class_c_disc_adj_f_e_a_solver.html#a5c0dc5d3e141c97f0b274dddc8d6d0eb" title="Set the value of the max residual and RMS residual." alt="" coords="59,225,230,266"/>
+</map>

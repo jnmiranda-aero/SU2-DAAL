@@ -1,0 +1,11 @@
+<map id="CIntegration::Adjoint_Setup" name="CIntegration::Adjoint_Setup">
+<area shape="rect" id="node1" title="Initialize the adjoint solution using the primal problem." alt="" coords="5,206,161,247"/>
+<area shape="rect" id="node2" href="$class_c_config.html#aea7f78497a5cd863bd065391232329fd" title="Get the number of multigrid levels." alt="" coords="221,5,395,32"/>
+<area shape="rect" id="node3" href="$class_c_integration.html#a958a7542c0fc663cbc10466c39a139b1" title="A virtual member." alt="" coords="209,57,407,98"/>
+<area shape="rect" id="node4" href="$class_c_integration.html#aa020508047ae1a7c653115705d00bc52" title="A virtual member." alt="" coords="209,122,407,163"/>
+<area shape="rect" id="node5" href="$class_c_solver.html#abb9dfa70f98661b517b4cf8598d29c12" title="A virtual member." alt="" coords="223,188,393,215"/>
+<area shape="rect" id="node6" href="$class_c_solver.html#ae3063dcd94ded2e6901097012c406d58" title="A virtual member." alt="" coords="229,239,387,265"/>
+<area shape="rect" id="node7" href="$class_c_solver.html#a72ecb34d3fb8ed9f2a964e32c244c6ce" title="A virtual member." alt="" coords="231,289,385,316"/>
+<area shape="rect" id="node8" href="$class_c_solver.html#a68424c37a9f3b149277645f81e070530" title="A virtual member." alt="" coords="229,340,387,367"/>
+<area shape="rect" id="node9" href="$class_c_solver.html#a7e21f13f00990f01b15217877dbb9b68" title="A virtual member." alt="" coords="230,391,386,417"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="CConfig::GetPeriodicRotation" name="CConfig::GetPeriodicRotation">
+<area shape="rect" id="node1" title="Get the rotation angles for a periodic transformation." alt="" coords="523,961,733,987"/>
+<area shape="rect" id="node2" href="$class_c_physical_geometry.html#addad3f466423ba9243a396763d442f9a" title="Accepts a geometry container holding a linearly partitioned grid with coloring performed by ParMETIS,..." alt="" coords="293,5,450,47"/>
+<area shape="rect" id="node3" href="$class_c_solver.html#a815c7d71c11bbbb861ab0ced0e50d8b5" title="Impose the send&#45;receive boundary condition." alt="" coords="279,71,464,112"/>
+<area shape="rect" id="node6" href="$class_c_physical_geometry.html#a959335ef3669a65dae759073acdb7c1a" title="Perform the MPI communication for the grid coordinates (dynamic meshes)." alt="" coords="293,136,450,177"/>
+<area shape="rect" id="node7" href="$class_c_physical_geometry.html#a9effd000afb6cf88ec76fd084a8980ce" title="Perform the MPI communication for the grid velocities." alt="" coords="293,201,450,243"/>
+<area shape="rect" id="node8" href="$class_c_physical_geometry.html#a9da0a32986cfc25bda3ef5c5972762ad" title="Perform the MPI communication for the grid coordinates (dynamic meshes) for restart purposes." alt="" coords="293,267,450,308"/>
+<area shape="rect" id="node9" href="$class_c_euler_solver.html#a446d5f61a54363509023cfd4278eecde" title="Compute the gradient of the primitive variables using a Least&#45;Squares method, and stores the result i..." alt="" coords="289,332,454,373"/>
+<area shape="rect" id="node12" href="$class_c_inc_euler_solver.html#a63e3a8a52480b9b2b4e6600750b97f43" title="Compute the gradient of the primitive variables using a Least&#45;Squares method, and stores the result i..." alt="" coords="280,397,463,439"/>
+<area shape="rect" id="node15" href="$class_c_euler_solver.html#a83d517f529550c9945a16ab8c972534e" title="Impose the send&#45;receive boundary condition." alt="" coords="289,463,454,504"/>
+<area shape="rect" id="node17" href="$class_c_inc_euler_solver.html#a097d8c74af42b29614d86c97a8966016" title="Impose the send&#45;receive boundary condition." alt="" coords="285,528,457,569"/>
+<area shape="rect" id="node19" href="$class_c_baseline_solver.html#acb467a34b553ade861519b9596a169bc" title="Impose the send&#45;receive boundary condition." alt="" coords="293,593,450,635"/>
+<area shape="rect" id="node21" href="$class_c_euler_solver.html#a372c99e19542816a57704c4f84c351a5" title="Impose the send&#45;receive boundary condition." alt="" coords="289,659,454,700"/>
+<area shape="rect" id="node28" href="$class_c_inc_euler_solver.html#ae75ee0e98c16ee6c904a39f4f28c58d9" title="Impose the send&#45;receive boundary condition." alt="" coords="295,724,448,765"/>
+<area shape="rect" id="node33" href="$class_c_adj_euler_solver.html#a68018bdc0627be216757d2c86994dc7e" title="Impose the send&#45;receive boundary condition." alt="" coords="294,789,449,831"/>
+<area shape="rect" id="node34" href="$class_c_euler_solver.html#a662ad2573696d85e973c954f79c45857" title="Impose the send&#45;receive boundary condition." alt="" coords="289,855,454,896"/>
+<area shape="rect" id="node35" href="$class_c_inc_euler_solver.html#a746bdc709c605f9cf87f24473608fe23" title="Impose the send&#45;receive boundary condition." alt="" coords="283,920,459,961"/>
+<area shape="rect" id="node36" href="$class_c_turb_solver.html#a6807c9c1e6fb7bd8ed6e9f37fe4ff103" title="Impose the send&#45;receive boundary condition." alt="" coords="292,985,451,1027"/>
+<area shape="rect" id="node37" href="$class_c_adj_euler_solver.html#a46ccb6494937e3d7e93b323c7ac4b682" title="Impose the send&#45;receive boundary condition." alt="" coords="283,1051,459,1092"/>
+<area shape="rect" id="node38" href="$class_c_adj_turb_solver.html#a3c3d04c60d0a85e386c97c694c7e8dc6" title="Impose the send&#45;receive boundary condition." alt="" coords="283,1116,459,1157"/>
+<area shape="rect" id="node39" href="$class_c_heat_solver_f_v_m.html#a4beb586c04feeeb52960d79251c2372d" title="Impose the send&#45;receive boundary condition." alt="" coords="283,1181,459,1223"/>
+<area shape="rect" id="node40" href="$class_c_euler_solver.html#a900dcb1dbc6bff7566d06793281bef6a" title="Impose the send&#45;receive boundary condition." alt="" coords="289,1247,454,1288"/>
+<area shape="rect" id="node41" href="$class_c_inc_euler_solver.html#a5ef14d198328624c51ebda7558f389ce" title="Impose the send&#45;receive boundary condition." alt="" coords="288,1312,455,1353"/>
+<area shape="rect" id="node42" href="$class_c_adj_euler_solver.html#a18f83d5ddc28ff6c621cbaaca328d8ad" title="Impose the send&#45;receive boundary condition." alt="" coords="288,1377,455,1419"/>
+<area shape="rect" id="node43" href="$class_c_euler_solver.html#a26192628a5c91730a8a2355349ff10d0" title="Impose the send&#45;receive boundary condition." alt="" coords="289,1443,454,1484"/>
+<area shape="rect" id="node44" href="$class_c_inc_euler_solver.html#a8022e1091ab2f9cee5dae85ace4feb5b" title="Impose the send&#45;receive boundary condition." alt="" coords="295,1508,448,1549"/>
+<area shape="rect" id="node45" href="$class_c_adj_euler_solver.html#a7e04f97e9eb340318e70e9f06644ac1b" title="Impose the send&#45;receive boundary condition." alt="" coords="294,1573,449,1615"/>
+<area shape="rect" id="node46" href="$class_c_euler_solver.html#a8801151ce90dcebeac292d2cae74706c" title="Parallelization of Undivided Laplacian." alt="" coords="289,1639,454,1680"/>
+<area shape="rect" id="node47" href="$class_c_inc_euler_solver.html#a2c86b1410175cb94cd7517562d43ab3d" title="Parallelization of Undivided Laplacian." alt="" coords="274,1704,469,1745"/>
+<area shape="rect" id="node48" href="$class_c_adj_euler_solver.html#a3bbcb5f6fb0a804485ccbbbeeb8a254b" title="Parallelization of Undivided Laplacian." alt="" coords="274,1769,469,1811"/>
+<area shape="rect" id="node49" href="$class_c_physical_geometry.html#a436fcc206331f2a456624897c1f72556" title="Write the .su2 file." alt="" coords="293,1835,450,1876"/>
+<area shape="rect" id="node50" href="$class_c_output.html#afde3263d4ddfcc5c256e718c22fb80d5" title="Write the nodal coordinates and connectivity to a Tecplot binary mesh file." alt="" coords="268,1901,475,1927"/>
+<area shape="rect" id="node4" href="$class_c_solver.html#a4831cdf2f3fdb7f6d3d84dca312e75eb" title="Compute the Green&#45;Gauss gradient of the auxiliary variable." alt="" coords="39,19,186,60"/>
+<area shape="rect" id="node5" href="$class_c_solver.html#ad1e68e5025fe328093b12e61f4bffe60" title="Compute the Least Squares gradient of the auxiliary variable." alt="" coords="39,84,186,125"/>
+<area shape="rect" id="node10" href="$class_c_euler_solver.html#ad5e5c2aed0d347dd662a17a55c88f971" title="Compute the gradient of the primitive variables using Green&#45;Gauss method, and stores the result in th..." alt="" coords="16,164,209,205"/>
+<area shape="rect" id="node11" href="$class_c_euler_solver.html#af206d80b1418bfa2001fd0c204e3e38a" title="Compute the gradient of the primitive variables using a Least&#45;Squares method, and stores the result i..." alt="" coords="16,229,209,271"/>
+<area shape="rect" id="node13" href="$class_c_inc_euler_solver.html#a4919140c377bea0a95c378dc25ecfc03" title="Compute the gradient of the primitive variables using Green&#45;Gauss method, and stores the result in th..." alt="" coords="7,295,219,336"/>
+<area shape="rect" id="node14" href="$class_c_inc_euler_solver.html#ac720e62e0f1c203fb9fb337af9c671bc" title="Compute the gradient of the primitive variables using a Least&#45;Squares method, and stores the result i..." alt="" coords="7,360,219,401"/>
+<area shape="rect" id="node16" href="$class_c_euler_solver.html#a43004a7f0fad7a6d1f435144710bf13e" title="Compute the limiter of the primitive variables." alt="" coords="16,425,209,467"/>
+<area shape="rect" id="node18" href="$class_c_inc_euler_solver.html#a00bd56828c4e41ec3ff1e8753cb320ec" title="Compute the limiter of the primitive variables." alt="" coords="7,491,219,532"/>
+<area shape="rect" id="node20" href="$class_c_baseline_solver.html#acb5f7a5211dcf8ba4337e9b251024553" title="Load a solution from a restart file." alt="" coords="5,557,220,583"/>
+<area shape="rect" id="node22" href="$class_c_euler_solver.html#ae1e74218b4e943111b100d7ddcbd4db9" title=" " alt="" coords="15,607,211,634"/>
+<area shape="rect" id="node23" href="$class_c_euler_solver.html#ad87a9109a645f0ea9e38336d2a6bf196" title="Update the solution using the classical fourth&#45;order Runge&#45;Kutta scheme." alt="" coords="14,659,211,700"/>
+<area shape="rect" id="node24" href="$class_c_n_s_solver.html#a2a8ad49c42b4546696e631cf44b7788b" title=" " alt="" coords="29,725,196,751"/>
+<area shape="rect" id="node25" href="$class_c_euler_solver.html#a1f798a3f88873d6d634b90f8816eccde" title="Update the solution using the explicit Euler scheme." alt="" coords="15,776,210,817"/>
+<area shape="rect" id="node26" href="$class_c_euler_solver.html#ac3d1b3a1fee6613906b56a9698bfe680" title="Update the solution using a Runge&#45;Kutta scheme." alt="" coords="23,841,202,883"/>
+<area shape="rect" id="node27" href="$class_c_euler_solver.html#a4e8277fc44dc97c8d73fbe3347204372" title="Update the solution using an implicit Euler scheme." alt="" coords="15,907,210,948"/>
+<area shape="rect" id="node29" href="$class_c_inc_euler_solver.html#a91f644b8f9a00215bac5bcd31dfc06d8" title=" " alt="" coords="16,972,209,1013"/>
+<area shape="rect" id="node30" href="$class_c_inc_n_s_solver.html#a82152ac7e91fb1c5c073d98a1f08e2aa" title=" " alt="" coords="11,1038,215,1065"/>
+<area shape="rect" id="node31" href="$class_c_inc_euler_solver.html#a66aac46e83451e30828ad808becb1f73" title="Update the solution using the explicit Euler scheme." alt="" coords="23,1089,203,1131"/>
+<area shape="rect" id="node32" href="$class_c_inc_euler_solver.html#a2f6c1370f17da44680c1ff1b6be6c9a1" title="Update the solution using a Runge&#45;Kutta scheme." alt="" coords="23,1155,203,1196"/>
+</map>

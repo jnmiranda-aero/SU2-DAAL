@@ -1,0 +1,8 @@
+<map id="CNumerics::SetTemperature" name="CNumerics::SetTemperature">
+<area shape="rect" id="node1" title="Set the value of the temperature." alt="" coords="252,143,456,170"/>
+<area shape="rect" id="node2" href="$class_c_heat_solver_f_v_m.html#a3b0b87693870e1b9cf5a16aa644aae8d" title="Impose the inlet boundary condition." alt="" coords="25,5,184,47"/>
+<area shape="rect" id="node3" href="$class_c_heat_solver_f_v_m.html#a326a1f9e420b2fdb8a3c9356ad3f3704" title="Impose the outlet boundary condition." alt="" coords="25,71,184,112"/>
+<area shape="rect" id="node4" href="$class_c_heat_solver_f_v_m.html#a779d9a04dd9c3d81518e9ed74985a246" title="Compute the spatial integration using a centered scheme." alt="" coords="5,136,204,177"/>
+<area shape="rect" id="node5" href="$class_c_heat_solver_f_v_m.html#a0f7725503632a6917537b6674d1d9e58" title="Compute the spatial integration using a upwind scheme." alt="" coords="10,201,199,243"/>
+<area shape="rect" id="node6" href="$class_c_heat_solver_f_v_m.html#a860d3e08f75f173ce401f90d27649ba2" title="Compute the viscous residuals for the turbulent equation." alt="" coords="9,267,200,308"/>
+</map>

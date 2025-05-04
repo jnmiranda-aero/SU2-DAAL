@@ -1,0 +1,11 @@
+<map id="CNumerics::SetSecondary" name="CNumerics::SetSecondary">
+<area shape="rect" id="node1" title="Set the value of the primitive variables." alt="" coords="284,202,475,229"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#accb01b3402a9de5c1c23fdaef60c831f" title="Impose the interface state across sliding meshes." alt="" coords="35,5,206,47"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#aa4c3988e3ce0c18460b5c069650c57b0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="35,71,206,98"/>
+<area shape="rect" id="node4" href="$class_c_euler_solver.html#a22c21d18fa626d489db9a387234bd9d0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="23,122,219,149"/>
+<area shape="rect" id="node5" href="$class_c_euler_solver.html#a0066305803a18511fb89b8951f4e4866" title="Impose the boundary condition using characteristic recostruction." alt="" coords="5,173,236,199"/>
+<area shape="rect" id="node6" href="$class_c_euler_solver.html#a9cb1da16bea732300854a351ebca2ed3" title="Compute the spatial integration using a upwind scheme." alt="" coords="39,224,202,265"/>
+<area shape="rect" id="node7" href="$class_c_inc_euler_solver.html#a935da79a4e1b1fe9c59bc86024164256" title="Compute the spatial integration using a upwind scheme." alt="" coords="30,289,211,331"/>
+<area shape="rect" id="node8" href="$class_c_n_s_solver.html#a4b946463a9868faaa73fa1f40ee5e675" title="Compute the viscous residuals." alt="" coords="47,355,195,396"/>
+<area shape="rect" id="node9" href="$class_c_inc_n_s_solver.html#aa65d2bbb69dab2bbe40d3495d80da207" title="Compute the viscous residuals." alt="" coords="37,420,204,461"/>
+</map>

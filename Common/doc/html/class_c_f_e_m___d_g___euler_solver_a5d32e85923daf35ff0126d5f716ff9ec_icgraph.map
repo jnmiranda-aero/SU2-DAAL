@@ -1,0 +1,11 @@
+<map id="CFEM_DG_EulerSolver::BoundaryStates_Euler_Wall" name="CFEM_DG_EulerSolver::BoundaryStates_Euler_Wall">
+<area shape="rect" id="node1" title="Function, which computes the boundary states in the integration points of the boundary face by applyi..." alt="" coords="927,137,1135,179"/>
+<area shape="rect" id="node2" href="$class_c_f_e_m___d_g___euler_solver.html#a8f81a6011b17cbb65c8be69d517e8faf" title="Impose via the residual the Euler wall boundary condition. It is a virtual function,..." alt="" coords="706,39,873,80"/>
+<area shape="rect" id="node7" href="$class_c_f_e_m___d_g___n_s_solver.html#a93ed201e11f8456abfc0a57841b781a7" title="Impose via the residual the Euler wall boundary condition." alt="" coords="700,104,879,145"/>
+<area shape="rect" id="node8" href="$class_c_f_e_m___d_g___n_s_solver.html#a7cc49cd695dcd974a1d791de72502323" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="700,169,879,211"/>
+<area shape="rect" id="node9" href="$class_c_f_e_m___d_g___n_s_solver.html#abcb36132263699c73988c03ca324e290" title="Impose an isothermal condition at the wall." alt="" coords="700,235,879,276"/>
+<area shape="rect" id="node3" href="$class_c_f_e_m___d_g___euler_solver.html#ae37f8eba6d7793bc4edb5de6e26f992d" title="Function, which computes the spatial residual for the DG discretization." alt="" coords="484,39,652,80"/>
+<area shape="rect" id="node4" href="$class_c_f_e_m___d_g___euler_solver.html#a651cad1a94f2024c75a1a8be347e3375" title="Function, which processes the list of tasks to be executed by the DG solver." alt="" coords="269,39,436,80"/>
+<area shape="rect" id="node5" href="$class_c_f_e_m___d_g___euler_solver.html#a7f0da04d44069701db2228210b91c59e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="5,5,221,47"/>
+<area shape="rect" id="node6" href="$class_c_f_e_m___d_g___euler_solver.html#ac59d8dae95e3c3cc3ab3feaeb9be4b22" title="Function, which controls the computation of the spatial Jacobian." alt="" coords="19,71,208,112"/>
+</map>

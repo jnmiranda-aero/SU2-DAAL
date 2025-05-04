@@ -1,0 +1,6 @@
+<map id="CConfig::GetActDisk_TempJump" name="CConfig::GetActDisk_TempJump">
+<area shape="rect" id="node1" title="Get the thrust corffient of the actuator disk." alt="" coords="489,23,643,65"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a147d5ae75cf7de115e4be2c23ba95f6d" title="Update the AoA and freestream velocity at the farfield." alt="" coords="257,23,441,65"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="5,5,209,32"/>
+<area shape="rect" id="node4" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="13,56,202,83"/>
+</map>

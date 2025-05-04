@@ -1,0 +1,13 @@
+<map id="CSingleGridIntegration::SetRestricted_EddyVisc" name="CSingleGridIntegration::SetRestricted_EddyVisc">
+<area shape="rect" id="node1" title="Restrict solution from fine grid to a coarse grid." alt="" coords="5,242,188,283"/>
+<area shape="rect" id="node2" href="$class_c_point.html#a821d9feaa7488e42dfca27a349776f0a" title="Get the children control volume of an agglomerated control volume." alt="" coords="258,5,433,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="271,57,419,98"/>
+<area shape="rect" id="node4" href="$class_c_variable.html#ac5c90648e9b72398a3b44fee098ef0b9" title="Get the value of the eddy viscosity." alt="" coords="273,123,417,149"/>
+<area shape="rect" id="node5" href="$class_c_point.html#aa32b71744384b293260648bff1de9a5c" title="Get the number of children of an agglomerated control volume." alt="" coords="254,173,437,200"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="255,224,435,251"/>
+<area shape="rect" id="node7" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="276,275,415,301"/>
+<area shape="rect" id="node8" href="$class_c_geometry.html#a4fc7de3bff7b6f8c35717016d6f8fcb2" title="Get number of real points (that belong to the domain)." alt="" coords="236,325,455,352"/>
+<area shape="rect" id="node9" href="$class_c_point.html#a3c526a15e767c7de9cf163800aa581e5" title="Get area or volume of the control volume." alt="" coords="273,376,417,403"/>
+<area shape="rect" id="node10" href="$class_c_solver.html#ac25a16cb69ee66bca6048336dedbb4cd" title="Set number of linear solver iterations." alt="" coords="249,427,441,453"/>
+<area shape="rect" id="node11" href="$class_c_variable.html#aee8afe0e88887b5860dcdb61b4687d0a" title="Set the value of the eddy viscosity." alt="" coords="274,477,417,504"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CEulerSolver::GetVelocity_Inf" name="CEulerSolver::GetVelocity_Inf">
+<area shape="rect" id="node1" title="Get the velocity at the infinity." alt="" coords="520,71,732,98"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a3cb64b1356f6c0dd43c08df012d99f01" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="286,5,443,47"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#ad8b538a82e5a7a7e3903ec29954b1d07" title="Compute the Fan face Mach number." alt="" coords="277,123,453,164"/>
+<area shape="rect" id="node6" href="$class_c_euler_solver.html#ae9346f0feebb8b28613bfc7838d3d121" title="Update the AoA and freestream velocity at the farfield." alt="" coords="257,71,472,98"/>
+<area shape="rect" id="node4" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="5,74,209,101"/>
+<area shape="rect" id="node5" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="13,126,202,153"/>
+</map>

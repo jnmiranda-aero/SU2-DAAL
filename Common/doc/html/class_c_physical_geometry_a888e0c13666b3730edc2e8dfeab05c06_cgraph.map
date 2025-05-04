@@ -1,0 +1,8 @@
+<map id="CPhysicalGeometry::SetShroudVelocity" name="CPhysicalGeometry::SetShroudVelocity">
+<area shape="rect" id="node1" title="Set the rotational velocity of the points on the shroud markers to 0." alt="" coords="5,136,163,177"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="215,5,363,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a60bf1601f072e2af7a181b7c7884e5f5" title="Get the marker shroud." alt="" coords="215,71,363,112"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a11d7d022d18013163117da62bf9547fb" title="Get number of shroud markers." alt="" coords="211,136,367,177"/>
+<area shape="rect" id="node5" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="219,202,358,229"/>
+<area shape="rect" id="node6" href="$class_c_point.html#a01131de373dba211a7093ecc44238e1e" title="Set the value of the grid velocity at the point." alt="" coords="219,253,359,279"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="AD::RegisterOutput" name="AD::RegisterOutput">
+<area shape="rect" id="node1" title="Registers the variable as an output. I.e. as the root of the computational graph." alt="" coords="1427,231,1573,258"/>
+<area shape="rect" id="node2" href="$class_c_disc_adj_solver.html#a021bde37a7532ce497cb3c5688b865b9" title="Register the objective function as output." alt="" coords="1162,5,1345,47"/>
+<area shape="rect" id="node3" href="$class_c_disc_adj_f_e_a_solver.html#a098b479e185f53b30492f63f6ffba7b7" title="Register the objective function as output." alt="" coords="1176,71,1331,112"/>
+<area shape="rect" id="node4" href="$class_c_geometry.html#a9753d802fb30f928edaee697975e437b" title="Register the coordinates of the mesh nodes as output." alt="" coords="1153,136,1354,177"/>
+<area shape="rect" id="node11" href="$class_c_variable.html#ac7c3250fb186e2e086faac63fa5b3f64" title="Register the variables in the solution array as input/output variable." alt="" coords="1154,202,1353,229"/>
+<area shape="rect" id="node16" href="$class_c_f_e_a_variable.html#a59d441a38ed44323523599f6cc547d0c" title="Register the variables in the acceleration array as input/output variable." alt="" coords="1142,253,1365,295"/>
+<area shape="rect" id="node17" href="$class_c_f_e_a_variable.html#ac7ca1d35b3b82b42a9e13fad397091d6" title="Register the variables in the velocity array as input/output variable." alt="" coords="1128,319,1379,346"/>
+<area shape="rect" id="node18" href="$class_c_disc_adj_fluid_driver.html#a1d13bc7fb88fa770371f5aa47a9f7d98" title="Set the objective function. It is virtual because it depends on the kind of physics." alt="" coords="1177,371,1329,412"/>
+<area shape="rect" id="node21" href="$class_c_disc_adj_turbomachinery_driver.html#a5c25ea3371c3352d78bba9001e0d27f9" title="Set Obj.Function for turbomachinery design." alt="" coords="1141,436,1365,477"/>
+<area shape="rect" id="node5" href="$class_c_disc_adj_f_s_i_driver.html#a9ded22bec80b5a9e020e13c6cff40f2e" title="Restart the output variables for adjoint FSI problems: flow conservative, fluid mesh position and str..." alt="" coords="915,53,1062,95"/>
+<area shape="rect" id="node6" href="$class_c_disc_adj_f_s_i_driver.html#ab07394a77802e469a321ccd1b10cb988" title="Set the recording for a Discrete Adjoint iteration for the FSI problem." alt="" coords="683,53,830,95"/>
+<area shape="rect" id="node7" href="$class_c_disc_adj_f_s_i_driver.html#a84949f139fa795b7d34d6ff77e82eb5c" title="Iterate a certain block for adjoint FSI &#45; may be the whole set of variables or independent and subite..." alt="" coords="469,53,616,95"/>
+<area shape="rect" id="node8" href="$class_c_disc_adj_f_s_i_driver.html#ab6dc73cea783398d2e4d40b56b8d142f" title="Iterate a block for adjoint FSI with flow Objective Function." alt="" coords="241,20,405,61"/>
+<area shape="rect" id="node10" href="$class_c_disc_adj_f_s_i_driver.html#a1199b609d2ec3ab24d9614a73c4ed74a" title="Iterate a block for adjoint FSI with structural Objective Function." alt="" coords="225,85,421,127"/>
+<area shape="rect" id="node9" href="$class_c_disc_adj_f_s_i_driver.html#a2e965d6e9c4dcfc296077cae225cab21" title="Run a Discrete Adjoint iteration for the FSI problem." alt="" coords="5,61,177,87"/>
+<area shape="rect" id="node12" href="$class_c_disc_adj_solver.html#a7ae8400ddf2c185e6c9b01aa08aec792" title="Performs the preprocessing of the adjoint AD&#45;based solver. Registers all necessary variables that are..." alt="" coords="897,119,1080,160"/>
+<area shape="rect" id="node13" href="$class_c_disc_adj_f_e_a_solver.html#a40c2aba093a93b2caf87ab7ced5c3fd0" title="Performs the preprocessing of the adjoint AD&#45;based solver. Registers all necessary variables that are..." alt="" coords="911,184,1066,225"/>
+<area shape="rect" id="node14" href="$class_c_disc_adj_solver.html#a6c097e27287f199bcc8972baabd59ae8" title="Performs the preprocessing of the adjoint AD&#45;based solver. Registers all necessary variables on the t..." alt="" coords="897,249,1080,291"/>
+<area shape="rect" id="node15" href="$class_c_disc_adj_f_e_a_solver.html#ad05585130c1922d463e88540fe5a1bf8" title="Performs the preprocessing of the adjoint AD&#45;based solver. Registers all necessary variables on the t..." alt="" coords="911,315,1066,356"/>
+<area shape="rect" id="node19" href="$class_c_disc_adj_fluid_driver.html#a417b2271be82ce01079a5de8e1610f55" title="Record one iteration of a flow iteration in within multiple zones." alt="" coords="913,380,1065,421"/>
+<area shape="rect" id="node20" href="$class_c_disc_adj_fluid_driver.html#adc823b6fbe255ed554efeef485c26ae2" title="Run a single iteration of the discrete adjoint solver within multiple zones." alt="" coords="664,387,849,414"/>
+</map>

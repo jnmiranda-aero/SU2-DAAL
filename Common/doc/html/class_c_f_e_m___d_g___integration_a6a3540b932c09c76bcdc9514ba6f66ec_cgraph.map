@@ -1,0 +1,9 @@
+<map id="CFEM_DG_Integration::Time_Integration" name="CFEM_DG_Integration::Time_Integration">
+<area shape="rect" id="node1" title="Perform the time integration (explicit or implicit) of the numerical system." alt="" coords="5,123,169,164"/>
+<area shape="rect" id="node2" href="$class_c_solver.html#a866237e68e9e84ad2d90c6265bf8d4eb" title="A virtual member." alt="" coords="245,5,409,47"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="236,71,417,98"/>
+<area shape="rect" id="node5" href="$class_c_solver.html#acf9d06c1c21489ca5882f708b4d82e3a" title="A virtual member." alt="" coords="253,123,400,164"/>
+<area shape="rect" id="node6" href="$class_c_config.html#ad9a79bf229dcc3f99cf7c23d4cb16d06" title="Provides the index of the solution in the container." alt="" coords="217,189,436,215"/>
+<area shape="rect" id="node7" href="$class_c_config.html#aeec93abf99b07f5fd7505df58a5577ae" title="Get the kind of time integration method." alt="" coords="232,240,421,281"/>
+<area shape="rect" id="node4" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="484,71,669,98"/>
+</map>

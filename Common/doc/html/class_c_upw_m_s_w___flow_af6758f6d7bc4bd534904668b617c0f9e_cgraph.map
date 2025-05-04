@@ -1,0 +1,5 @@
+<map id="CUpwMSW_Flow::ComputeResidual" name="CUpwMSW_Flow::ComputeResidual">
+<area shape="rect" id="node1" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="5,31,259,57"/>
+<area shape="rect" id="node2" href="$class_c_numerics.html#a4c0be4ab3aa0dd899babe4c96d7a0c02" title="Computation of the matrix P for a generic fluid model." alt="" coords="320,5,495,32"/>
+<area shape="rect" id="node3" href="$class_c_numerics.html#a04a93dceeb13c4738d6c9ce357575257" title="Computation of the matrix P^{&#45;1}, this matrix diagonalize the conservative Jacobians in the form $P^{..." alt="" coords="307,56,508,83"/>
+</map>

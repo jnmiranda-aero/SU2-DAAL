@@ -1,0 +1,11 @@
+<map id="CConfig::GetnTimeDOFsADER_DG" name="CConfig::GetnTimeDOFsADER_DG">
+<area shape="rect" id="node1" title="Get the number time DOFs for ADER&#45;DG." alt="" coords="815,143,1057,170"/>
+<area shape="rect" id="node2" href="$class_c_f_e_m___d_g___euler_solver.html#a53f3bd445632823baa18657a29553842" title="Function, carries out the predictor step of the ADER&#45;DG time integration." alt="" coords="532,5,719,47"/>
+<area shape="rect" id="node6" href="$class_c_f_e_m___d_g___euler_solver.html#a541316bc7d1623f16e839578dc9a4aa9" title="Function, which interpolates the predictor solution of ADER&#45;DG to the time value that corresponds to ..." alt="" coords="484,71,767,112"/>
+<area shape="rect" id="node7" href="$class_c_f_e_m___d_g___euler_solver.html#a677fa998b78bd489a3f8bee0d56623dd" title=" " alt="" coords="538,136,713,177"/>
+<area shape="rect" id="node8" href="$class_c_f_e_m___d_g___euler_solver.html#ad3428a192cfff4925a3ce854866119de" title="Routine that completes the non&#45;blocking communication between ranks." alt="" coords="508,201,743,243"/>
+<area shape="rect" id="node9" href="$class_c_f_e_m___d_g___euler_solver.html#aef4dade05b74d3e36f5b2c91d0a6fa46" title="Routine that initiates the non&#45;blocking communication between ranks for the givem time level." alt="" coords="517,267,734,308"/>
+<area shape="rect" id="node3" href="$class_c_f_e_m___d_g___euler_solver.html#a651cad1a94f2024c75a1a8be347e3375" title="Function, which processes the list of tasks to be executed by the DG solver." alt="" coords="269,136,436,177"/>
+<area shape="rect" id="node4" href="$class_c_f_e_m___d_g___euler_solver.html#a7f0da04d44069701db2228210b91c59e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="5,103,221,144"/>
+<area shape="rect" id="node5" href="$class_c_f_e_m___d_g___euler_solver.html#ac59d8dae95e3c3cc3ab3feaeb9be4b22" title="Function, which controls the computation of the spatial Jacobian." alt="" coords="19,168,208,209"/>
+</map>

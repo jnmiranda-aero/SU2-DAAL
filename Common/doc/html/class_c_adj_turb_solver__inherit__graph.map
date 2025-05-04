@@ -1,0 +1,4 @@
+<map id="CAdjTurbSolver" name="CAdjTurbSolver">
+<area shape="rect" id="node1" title="Main class for defining the adjoint turbulence model solver." alt="" coords="5,80,125,107"/>
+<area shape="rect" id="node2" href="$class_c_solver.html" title="Main class for defining the PDE solution, it requires a child class for each particular solver (Euler..." alt="" coords="29,5,101,32"/>
+</map>

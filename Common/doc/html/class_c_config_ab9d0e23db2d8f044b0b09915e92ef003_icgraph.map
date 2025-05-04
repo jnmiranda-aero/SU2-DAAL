@@ -1,0 +1,34 @@
+<map id="CConfig::GetKind_TimeIntScheme_AdjFlow" name="CConfig::GetKind_TimeIntScheme_AdjFlow">
+<area shape="rect" id="node1" title="Get the kind of integration scheme (explicit or implicit) for the adjoint flow equations." alt="" coords="496,916,685,957"/>
+<area shape="rect" id="node2" href="$class_c_adj_euler_solver.html#ad0f40712ed34d6f42813fbb82540e851" title="Impose an actuator disk inlet boundary condition." alt="" coords="247,5,399,47"/>
+<area shape="rect" id="node3" href="$class_c_adj_euler_solver.html#a7a751b3b46dbed8e213bb7090633807d" title="Impose an actuator disk outlet boundary condition." alt="" coords="247,71,399,112"/>
+<area shape="rect" id="node4" href="$class_c_adj_euler_solver.html#a849edf613e9c9756e59648dad6cb102e" title="Impose the engine exhaust boundary condition." alt="" coords="247,136,399,177"/>
+<area shape="rect" id="node5" href="$class_c_adj_euler_solver.html#a395d57c7acf725dada7e915365531a55" title="Impose the engine inflow adjoint boundary condition." alt="" coords="247,201,399,243"/>
+<area shape="rect" id="node6" href="$class_c_adj_euler_solver.html#afbb79f45bb4d48b065ddf1f2907ae69a" title="Impose via the residual the adjoint Euler wall boundary condition." alt="" coords="247,267,399,308"/>
+<area shape="rect" id="node7" href="$class_c_adj_euler_solver.html#a67685dedf5d4651cb25fbf3fc0440d24" title="Impose the boundary condition to the far field using characteristics." alt="" coords="247,332,399,373"/>
+<area shape="rect" id="node8" href="$class_c_adj_n_s_solver.html#a1a251c98efda4a84d7cd7751cc032113" title="Impose via the residual or brute force the Navier&#45;Stokes adjoint boundary condition (heat flux)." alt="" coords="204,398,443,425"/>
+<area shape="rect" id="node9" href="$class_c_adj_euler_solver.html#a29398c2203511586508ff9d43e894e41" title="Impose the inlet boundary condition." alt="" coords="247,449,399,491"/>
+<area shape="rect" id="node10" href="$class_c_adj_n_s_solver.html#a20cd2fa256386da7791e11f40b701003" title="Impose via the residual or brute force the Navier&#45;Stokes adjoint boundary condition (heat flux)." alt="" coords="199,515,448,542"/>
+<area shape="rect" id="node11" href="$class_c_adj_euler_solver.html#a0b3408be5adebd52b79bd3c5227cbe9d" title="Impose the outlet boundary condition." alt="" coords="247,567,399,608"/>
+<area shape="rect" id="node12" href="$class_c_adj_euler_solver.html#ab5c6ba919fde8e3e473f485bb06b2e9c" title="Impose the supersonic inlet boundary condition." alt="" coords="247,632,399,673"/>
+<area shape="rect" id="node13" href="$class_c_adj_euler_solver.html#a58543ab410a218129586869573316437" title="Impose the supersonic outlet boundary condition." alt="" coords="247,697,399,739"/>
+<area shape="rect" id="node14" href="$class_c_adj_euler_solver.html#a05a4a84944eb07307f59463ad9f4724d" title="Impose via the residual the adjoint symmetry boundary condition." alt="" coords="247,763,399,804"/>
+<area shape="rect" id="node15" href="$class_c_adj_euler_solver.html#a0a739888df9436d4707665d152a7af1a" title=" " alt="" coords="225,828,422,869"/>
+<area shape="rect" id="node16" href="$class_c_adj_n_s_solver.html#a323f1dc7c0b9fe00d1911eeeea365d46" title=" " alt="" coords="219,894,427,921"/>
+<area shape="rect" id="node17" href="$class_c_avg_grad___adj_flow.html#add6d9e0766bfbc435d5c6030e174e5db" title="Constructor of the class." alt="" coords="215,945,431,987"/>
+<area shape="rect" id="node18" href="$class_c_avg_grad_corrected___adj_flow.html#add60fa453e90d4a5703aa19253c460d4" title="Constructor of the class." alt="" coords="215,1011,431,1052"/>
+<area shape="rect" id="node19" href="$class_c_cent_j_s_t___adj_flow.html#a7822739aeee9c8ee0f0fd72b28858572" title="Constructor of the class." alt="" coords="220,1076,427,1117"/>
+<area shape="rect" id="node20" href="$class_c_cent_lax___adj_flow.html#af3dfa3266fe9ee5f7b7fc9ab7c6a35ff" title="Constructor of the class." alt="" coords="217,1141,429,1183"/>
+<area shape="rect" id="node21" href="$class_c_adj_euler_solver.html#ac56fe0a4cf0b8df7730fab2eea3344ff" title="Compute the spatial integration using a centered scheme for the adjoint equations." alt="" coords="227,1207,420,1248"/>
+<area shape="rect" id="node22" href="$class_c_source_rotating_frame___adj_flow.html#a3989b1be8473cf856cb103eb527bcc36" title="Residual of the adjoint rotating frame source term." alt="" coords="222,1272,425,1313"/>
+<area shape="rect" id="node23" href="$class_c_upw_roe___adj_flow.html#a83c42049eae2cfe4e2d57b7173cb1f9a" title="Constructor of the class." alt="" coords="216,1337,431,1379"/>
+<area shape="rect" id="node24" href="$class_c_adj_euler_solver.html#a4ae0ed840dc8335fd921399625ba794f" title="Initialize the residual vectors." alt="" coords="211,1403,436,1430"/>
+<area shape="rect" id="node25" href="$class_c_adj_n_s_solver.html#ac16dab76e2c1d86bc7d70ca9f41fd668" title="Restart residual and compute gradients." alt="" coords="218,1454,429,1481"/>
+<area shape="rect" id="node26" href="$class_c_h_b_driver.html#a1c864c75002bc45dc6fdb4593e6b5fe3" title="Computation and storage of the Harmonic Balance method source terms." alt="" coords="206,1505,441,1531"/>
+<area shape="rect" id="node28" href="$class_c_adj_euler_solver.html#a40339b7f0a1fda3ad515ddb79308725c" title="Set the total residual adding the term that comes from the Dual Time Strategy." alt="" coords="218,1556,429,1597"/>
+<area shape="rect" id="node29" href="$class_c_adj_euler_solver.html#a7f84ce73b97f6944598308b63ac3c7b1" title="Source term integration." alt="" coords="234,1621,413,1663"/>
+<area shape="rect" id="node30" href="$class_c_adj_n_s_solver.html#af2cb5ceadb98384f7504b6f7c6e6840c" title="Source term computation." alt="" coords="242,1687,405,1728"/>
+<area shape="rect" id="node31" href="$class_c_adj_euler_solver.html#adb4102935a0144846d17a35a62769c09" title="Compute the spatial integration using a upwind scheme." alt="" coords="232,1752,415,1793"/>
+<area shape="rect" id="node32" href="$class_c_adj_n_s_solver.html#a8f0a8d26c8b3df3f9dbbbf7c98a6a18e" title="Compute the viscous residuals for the adjoint equation." alt="" coords="239,1817,408,1859"/>
+<area shape="rect" id="node27" href="$class_c_h_b_driver.html#ad34ec58b57d70fdf128bb6685f732505" title="Update the solution for the Harmonic Balance." alt="" coords="5,1505,151,1531"/>
+</map>

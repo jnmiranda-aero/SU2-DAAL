@@ -1,0 +1,6 @@
+<map id="CSolver::LoadInletProfile" name="CSolver::LoadInletProfile">
+<area shape="rect" id="node1" title="Load a inlet profile data from file into a particular solver." alt="" coords="703,5,884,32"/>
+<area shape="rect" id="node2" href="$class_c_driver.html#a80771cc37578465f4dbf8c20c5b81d37" title="Preprocess the inlets via file input for all solvers." alt="" coords="448,5,655,32"/>
+<area shape="rect" id="node3" href="$class_c_driver.html#a3d178228eeb262fde01af82bd33e167c" title="Definition and allocation of all solution classes." alt="" coords="181,5,400,32"/>
+<area shape="rect" id="node4" href="$class_c_driver.html#afac169e386a89af2a52be8902abb27f2" title="Constructor of the class." alt="" coords="5,5,133,32"/>
+</map>

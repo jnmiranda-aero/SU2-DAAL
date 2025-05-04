@@ -1,0 +1,13 @@
+<map id="CConfig::GetKind_TimeIntScheme_Turb" name="CConfig::GetKind_TimeIntScheme_Turb">
+<area shape="rect" id="node1" title="Get the kind of integration scheme (implicit) for the turbulence equations." alt="" coords="289,275,479,316"/>
+<area shape="rect" id="node2" href="$class_c_avg_grad___scalar.html#a767d15c30f77b3ccb0494d899a722e3f" title="Constructor of the class." alt="" coords="21,5,226,47"/>
+<area shape="rect" id="node3" href="$class_c_avg_grad___trans_l_m.html#ad3b18ef4ef054200d36fae7980f40b11" title="Constructor of the class." alt="" coords="14,71,233,112"/>
+<area shape="rect" id="node4" href="$class_c_avg_grad_corrected___trans_l_m.html#a3740ad3408ee9f6b8be815f8e226d713" title="Constructor of the class." alt="" coords="15,136,232,177"/>
+<area shape="rect" id="node5" href="$class_c_cent_sca___heat.html#a32dc690389c97f55249ecb4b91de06b6" title="Constructor of the class." alt="" coords="8,202,239,229"/>
+<area shape="rect" id="node6" href="$class_c_trans_l_m_solver.html#a4975cbf30f2954e3da1244832999eda0" title=" " alt="" coords="5,253,241,279"/>
+<area shape="rect" id="node7" href="$class_c_upw_lin___trans_l_m.html#ae850e6e378228c20da7ae1f63d29bdab" title="Constructor of the class." alt="" coords="21,304,225,345"/>
+<area shape="rect" id="node8" href="$class_c_upw_sca___heat.html#ac5402ae0b47f2c21d43a937caa6aefee" title="Constructor of the class." alt="" coords="9,370,237,397"/>
+<area shape="rect" id="node9" href="$class_c_upw_sca___trans_l_m.html#a0eaaa53c02bb82873bcb5040520e80f0" title="Constructor of the class." alt="" coords="17,421,229,463"/>
+<area shape="rect" id="node10" href="$class_c_upw_scalar.html#aa733bdfbbb14f49b74c275921827d469" title="Constructor of the class." alt="" coords="30,487,217,514"/>
+<area shape="rect" id="node11" href="$class_c_turb_solver.html#a2840547596044fd5b2242bb9199b1abe" title="Set the total residual adding the term that comes from the Dual Time&#45;Stepping Strategy." alt="" coords="31,539,215,580"/>
+</map>

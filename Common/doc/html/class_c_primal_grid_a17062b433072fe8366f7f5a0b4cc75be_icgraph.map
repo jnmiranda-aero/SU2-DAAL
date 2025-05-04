@@ -1,0 +1,7 @@
+<map id="CPrimalGrid::GetTimeLevel" name="CPrimalGrid::GetTimeLevel">
+<area shape="rect" id="node1" title="Make available the time level of the element." alt="" coords="508,93,707,120"/>
+<area shape="rect" id="node2" href="$class_c_mesh_f_e_m.html#ae74b12670fb49ad4d28836d9fc2aab8d" title="Redistributes the grid over the ranks and creates the halo layer." alt="" coords="263,5,437,32"/>
+<area shape="rect" id="node3" href="$class_c_physical_geometry.html#ac8396196dddd6caec922418eaf7d7a2a" title="Compute the weights of the FEM graph for ParMETIS." alt="" coords="250,57,450,98"/>
+<area shape="rect" id="node4" href="$class_c_physical_geometry.html#a731c0207381f31f0b1165b646abc2acb" title="Set the domains for FEM grid partitioning using ParMETIS." alt="" coords="5,115,192,157"/>
+<area shape="rect" id="node5" href="$class_c_physical_geometry.html#a18f63cc49f7dc20241a0599ad1426ba8" title="Determine the time level of the elements when time accurate local time stepping is employed." alt="" coords="240,174,460,215"/>
+</map>

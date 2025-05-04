@@ -1,0 +1,4 @@
+<map id="CEulerSolver::BC_Euler_Wall" name="CEulerSolver::BC_Euler_Wall">
+<area shape="rect" id="node1" title="Impose via the residual the Euler wall boundary condition." alt="" coords="220,13,427,39"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a3e39ab93a096a2c73aaacb38b20852c6" title="Impose the symmetry boundary condition using the residual." alt="" coords="5,5,172,47"/>
+</map>

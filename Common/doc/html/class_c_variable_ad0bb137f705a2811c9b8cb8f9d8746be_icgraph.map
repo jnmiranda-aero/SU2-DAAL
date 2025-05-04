@@ -1,0 +1,8 @@
+<map id="CVariable::SetSecondaryVar" name="CVariable::SetSecondaryVar">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="515,78,717,105"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#ac116e43e6c7eef751bc807908f235c31" title="Set the solution using the Freestream values." alt="" coords="257,5,467,47"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#aedaa1fe91dbde649b457ce89a82e7ab4" title="Compute the velocity^2, SoundSpeed, Pressure, Enthalpy, Viscosity." alt="" coords="265,71,459,112"/>
+<area shape="rect" id="node5" href="$class_c_n_s_solver.html#a243b3ecbee1462f56c811f4f5cbc5adc" title="Compute the velocity^2, SoundSpeed, Pressure, Enthalpy, Viscosity." alt="" coords="273,136,451,177"/>
+<area shape="rect" id="node4" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="5,78,209,105"/>
+<area shape="rect" id="node6" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="13,143,202,170"/>
+</map>

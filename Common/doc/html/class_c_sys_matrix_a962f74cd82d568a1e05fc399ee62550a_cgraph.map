@@ -1,0 +1,6 @@
+<map id="CSysMatrix::BuildJacobiPreconditioner" name="CSysMatrix::BuildJacobiPreconditioner">
+<area shape="rect" id="node1" title="Build the Jacobi preconditioner." alt="" coords="5,13,276,39"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#addc33c24def2868737dc20d461492791" title="Inverse diagonal block." alt="" coords="324,5,535,47"/>
+<area shape="rect" id="node3" href="$class_c_sys_matrix.html#a9e00317d505ac177d884a1a6ddf3677f" title="Performs the Gauss Elimination algorithm to solve the linear subsystem of the (i, i) subblock and rhs..." alt="" coords="583,13,808,39"/>
+<area shape="rect" id="node4" href="$class_c_sys_matrix.html#a776200533f4cc0ede662f594a329585c" title="Copies the block (i, j) of the matrix&#45;by&#45;blocks structure in the internal variable *block." alt="" coords="856,13,1019,39"/>
+</map>

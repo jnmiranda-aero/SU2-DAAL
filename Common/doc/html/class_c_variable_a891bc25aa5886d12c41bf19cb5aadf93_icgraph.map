@@ -1,0 +1,6 @@
+<map id="CVariable::GetNon_Physical" name="CVariable::GetNon_Physical">
+<area shape="rect" id="node1" title="Get the value of the non&#45;physical point." alt="" coords="236,78,439,105"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a9cb1da16bea732300854a351ebca2ed3" title="Compute the spatial integration using a upwind scheme." alt="" coords="15,5,178,47"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#a935da79a4e1b1fe9c59bc86024164256" title="Compute the spatial integration using a upwind scheme." alt="" coords="6,71,187,112"/>
+<area shape="rect" id="node4" href="$class_c_adj_euler_solver.html#adb4102935a0144846d17a35a62769c09" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,136,188,177"/>
+</map>

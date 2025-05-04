@@ -1,0 +1,4 @@
+<map id="CConfig::GetInlet_Pressure" name="CConfig::GetInlet_Pressure">
+<area shape="rect" id="node1" title="Get the pressure at a supersonic inlet boundary." alt="" coords="263,13,457,39"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#ab8faca63b78a195c05f26737be131ea5" title="Impose a supersonic inlet boundary condition." alt="" coords="5,5,215,47"/>
+</map>

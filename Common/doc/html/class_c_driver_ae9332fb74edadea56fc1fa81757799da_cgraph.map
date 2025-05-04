@@ -1,0 +1,10 @@
+<map id="CDriver::ComputeVertexHeatFluxes" name="CDriver::ComputeVertexHeatFluxes">
+<area shape="rect" id="node1" title="Compute the heat flux at a vertex on a specified marker (3 components)." alt="" coords="5,166,216,207"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a5f01bbbd9c331ecea38eebbe9cc9cd4e" title="Get the value of the Gamma of fluid (ratio of specific heats)." alt="" coords="300,5,455,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a6d835a954bb5e99c5a3de6db5ed24ff3" title="Get the value of specific gas constant." alt="" coords="271,56,484,83"/>
+<area shape="rect" id="node4" href="$class_c_variable.html#a235623c42fc699bc5de18f721b23d49c" title="A virtual member." alt="" coords="292,107,463,149"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a66ca7e620390a81cd49cd0a00716128e" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="283,173,472,200"/>
+<area shape="rect" id="node6" href="$class_c_variable.html#aedbb79a282d44af4d52663eba96034f6" title="A virtual member." alt="" coords="264,224,491,251"/>
+<area shape="rect" id="node7" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="308,275,447,301"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a619cb1400d6c944e83ad0ffe82deb021" title="Get the value of the laminar Prandtl number." alt="" coords="285,325,469,352"/>
+</map>

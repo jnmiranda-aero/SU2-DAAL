@@ -1,0 +1,15 @@
+<map id="CDiscAdjFSIDriver::CDiscAdjFSIDriver" name="CDiscAdjFSIDriver::CDiscAdjFSIDriver">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,326,152,367"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a8ad45b179ddabec5652dbf4b517fbbf0" title="Decide whether to apply DE effects to the model." alt="" coords="225,5,397,32"/>
+<area shape="rect" id="node3" href="$class_c_solver.html#a81bc39719c8bc94d84a83fce43bf2188" title="A virtual member." alt="" coords="239,57,384,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#aaf25c308c54f8463abda862403f7c4ed" title="Value of the minimum flow residual value for BGS applications (log10 scale)." alt="" coords="208,122,415,163"/>
+<area shape="rect" id="node5" href="$class_c_config.html#ac66b8ab61899d54488f3d6b2c6998993" title="Value of the minimum flow residual value for BGS applications (log10 scale)." alt="" coords="208,187,415,229"/>
+<area shape="rect" id="node6" href="$class_c_solver.html#a7059d90c3299b61689bf9d36d8da4a26" title="A virtual member." alt="" coords="234,253,389,280"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a292a8a8ba384f7fa5393af48de954fed" title="Get the number of different values for the elasticity modulus." alt="" coords="212,304,411,331"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a55654c927972cc090937f273f3fce30e" title="Get the number of different values for the modulus of the electric field." alt="" coords="232,355,391,397"/>
+<area shape="rect" id="node9" href="$class_c_config.html#aa18a567f8a1941d7c5bf2166ad01609f" title="Get the number of different values for the Poisson ratio." alt="" coords="214,421,409,448"/>
+<area shape="rect" id="node10" href="$class_c_solver.html#a65c22046b0cf1938ba22648912d04680" title="Get the number of variables of the problem." alt="" coords="245,472,377,499"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a21c1b434d4e60477d293b2deb7b509fd" title="Value of the order of magnitude reduction of the flow residual for BGS applications." alt="" coords="200,523,423,565"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a048e411079167a14ac845bfcdbbc6b3e" title="Value of the order of magnitude reduction of the flow residual for BGS applications." alt="" coords="200,589,423,630"/>
+<area shape="rect" id="node13" href="$class_c_config.html#a4e5bb8b44bb2c610b8947dfd85db59f3" title="Set the number of external iterations." alt="" coords="235,655,387,681"/>
+</map>

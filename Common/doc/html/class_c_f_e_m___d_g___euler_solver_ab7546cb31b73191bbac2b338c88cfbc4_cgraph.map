@@ -1,0 +1,20 @@
+<map id="CFEM_DG_EulerSolver::InviscidFluxesInternalMatchingFace" name="CFEM_DG_EulerSolver::InviscidFluxesInternalMatchingFace">
+<area shape="rect" id="node1" title="Function, which computes the inviscid fluxes in the face integration points of a chunk of matching in..." alt="" coords="5,475,267,517"/>
+<area shape="rect" id="node2" href="$class_c_f_e_m___d_g___euler_solver.html#a4851d39829e12202592d85c36ea36489" title="Function, which computes the inviscid fluxes in face points." alt="" coords="321,181,532,222"/>
+<area shape="rect" id="node9" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="336,340,517,367"/>
+<area shape="rect" id="node11" href="$class_c_blas_structure.html#a40a585307895af828a7f51cd0ccbf81d" title="Function, which carries out a dense matrix product. It is a limited version of the BLAS gemm function..." alt="" coords="343,391,511,417"/>
+<area shape="rect" id="node14" href="$class_c_f_e_m_standard_internal_face.html#a606c7cbb5727b4c2750c6449f4349492" title="Function, which makes available the face basis functions of side 0 in the integration points." alt="" coords="315,442,539,483"/>
+<area shape="rect" id="node15" href="$class_c_f_e_m_standard_internal_face.html#a8c3ca9c06c4b57b2a946cb0a32be0e1e" title="Function, which makes available the face basis functions of side 1 in the integration points." alt="" coords="315,507,539,549"/>
+<area shape="rect" id="node16" href="$class_c_f_e_m_standard_internal_face.html#acd4208ae47226c5917479d6a232b7584" title="Function, which makes available the number of DOFs on side 0 of the face." alt="" coords="329,573,525,614"/>
+<area shape="rect" id="node17" href="$class_c_f_e_m_standard_internal_face.html#a0e3ff97b8c11ca92ede562565eec7041" title="Function, which makes available the number of DOFs on side 1 of the face." alt="" coords="329,638,525,679"/>
+<area shape="rect" id="node18" href="$class_c_f_e_m_standard_element_base.html#aa5ad06a05a1d7b66bccca65521168a3b" title="Function, which makes available the number of integration points for this standard element." alt="" coords="325,703,528,745"/>
+<area shape="rect" id="node3" href="$class_c_numerics.html#abe734316e0047f463f059fd77a281958" title="Compute the numerical residual." alt="" coords="587,5,803,32"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a0f7ace5ebf01fd50bcadab8b50b897c8" title="Get the entropy fix." alt="" coords="609,57,781,98"/>
+<area shape="rect" id="node5" href="$class_c_config.html#ac5d613463ef0d7b01e66c4e33f586afb" title="Get the kind of Riemann solver for the DG method (FEM flow solver)." alt="" coords="614,122,775,163"/>
+<area shape="rect" id="node6" href="$class_c_numerics.html#ae15b9e4ad2008444365109c434e24207" title="Set the velocity of the computational grid." alt="" coords="610,188,779,215"/>
+<area shape="rect" id="node7" href="$class_c_numerics.html#a41903d97957f351cd9ee63ca404985b1" title="Set the value of the normal vector to the face between two points." alt="" coords="609,239,780,265"/>
+<area shape="rect" id="node8" href="$class_c_numerics.html#af72b17d397adf09beed2e99e2daf895c" title="Set the value of the primitive variables." alt="" coords="604,289,785,316"/>
+<area shape="rect" id="node10" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="602,340,787,367"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a2628e094b67a6d5cb410710aa00fa69b" title="Start the timer for profiling subroutines." alt="" coords="617,391,773,417"/>
+<area shape="rect" id="node13" href="$class_c_config.html#ae8d24548bd977c6a76e06ed9814418bb" title="Stop the timer for the GEMM profiling and store results." alt="" coords="615,441,774,468"/>
+</map>

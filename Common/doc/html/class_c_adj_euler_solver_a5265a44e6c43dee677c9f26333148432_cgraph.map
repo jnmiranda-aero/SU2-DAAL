@@ -1,0 +1,46 @@
+<map id="CAdjEulerSolver::SetFarfield_AoA" name="CAdjEulerSolver::SetFarfield_AoA">
+<area shape="rect" id="node1" title="Update the AoA and freestream velocity at the farfield." alt="" coords="5,852,240,879"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a2711fd3e48037f5972691787f2a5ea78" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="555,5,717,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a717191d708bc4d8d183326abe308770f" title="Get the value for the lift curve slope for fixed CL mode." alt="" coords="294,776,473,803"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a543ee47693a711eee6fd8f00671b3802" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="551,56,721,83"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a287242969576bb4c0a303d50e907eb29" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="551,107,721,133"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a6385f8ea2c2b24481683d73573391acb" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="551,157,721,184"/>
+<area shape="rect" id="node7" href="$class_c_config.html#aa48f2fc504ec2b261d5046f9a17677dd" title="Get the current external iteration number." alt="" coords="310,827,457,853"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a37e61314cec83191ef1c00eed0d576d4" title="Get the value of iterations to re&#45;evaluate the angle of attack." alt="" coords="289,877,478,904"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a2d4389021feaed9f2e62f0475f73a718" title="Get the kind of objective function. There are several options: Drag coefficient, Lift coefficient,..." alt="" coords="541,208,731,235"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a4d36b6479c43b887ce691c23ce648961" title="Get the value of iterations to re&#45;evaluate the angle of attack." alt="" coords="308,929,459,970"/>
+<area shape="rect" id="node11" href="$class_c_config.html#ac951150c8a657781b1c2d28d1058ed07" title="Get information about whether to update the AoA for fixed lift mode." alt="" coords="292,995,475,1021"/>
+<area shape="rect" id="node12" href="$class_c_config.html#ae2a0ddd50ec6acbd74f76c7f9f167c66" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="304,1045,463,1072"/>
+<area shape="rect" id="node13" href="$class_c_config.html#afd39f185663752b3a48f73ff05ce89e2" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="299,1096,468,1123"/>
+<area shape="rect" id="node14" href="$class_c_config.html#ad7f68b41f4633cff714b1b983d90d8ea" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="299,1147,468,1173"/>
+<area shape="rect" id="node15" href="$class_c_config.html#a8dd670373454018b59e99a11804d4477" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="299,1197,467,1224"/>
+<area shape="rect" id="node16" href="$class_c_adj_euler_solver.html#a814d69e54f24c9fef36e3493a2230973" title="Created the force projection vector for adjoint boundary conditions." alt="" coords="288,710,479,751"/>
+<area shape="rect" id="node44" href="$class_c_config.html#ad21c886562ffe9c0abaf9c38b8946c6e" title="Set the value of the boolean for updating AoA in fixed lift mode." alt="" coords="293,1248,474,1275"/>
+<area shape="rect" id="node17" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="545,1111,727,1137"/>
+<area shape="rect" id="node19" href="$class_c_config.html#a6020a5df7025ffb286f9b9f55f3f2773" title="Get the angle of attack of the body. This is the angle between a reference line on a lifting body (of..." alt="" coords="571,1161,701,1188"/>
+<area shape="rect" id="node20" href="$class_c_config.html#a4305a79a4c74f13160c0dd8daae181ef" title="Get the angle of sideslip of the body. It relates to the rotation of the aircraft centerline from the..." alt="" coords="572,1212,700,1239"/>
+<area shape="rect" id="node21" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="569,1263,703,1289"/>
+<area shape="rect" id="node22" href="$class_c_solver.html#a15ce9513fb0af4367e476b7776acc97d" title="A virtual member." alt="" coords="552,1313,720,1340"/>
+<area shape="rect" id="node23" href="$class_c_solver.html#a01c896e0264eebfc202befea8ae5e5d6" title="A virtual member." alt="" coords="532,1364,740,1391"/>
+<area shape="rect" id="node24" href="$class_c_config.html#aad14b8b395e08377d8b7bf4d0bc1e65f" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="549,1415,723,1441"/>
+<area shape="rect" id="node25" href="$class_c_config.html#abd97282665d4d8885078aac10735e708" title="Get information about whether to use fixed CL mode." alt="" coords="535,1465,737,1492"/>
+<area shape="rect" id="node26" href="$class_c_config.html#aa088e1372bbec7000a6641002ac9c918" title="Get information about whether to use fixed CL mode." alt="" coords="532,1516,740,1543"/>
+<area shape="rect" id="node27" href="$class_c_variable.html#aa0e7ed8cfa7de3a82dbe4034774aa274" title="A virtual member." alt="" coords="549,1567,723,1609"/>
+<area shape="rect" id="node28" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="562,1633,710,1674"/>
+<area shape="rect" id="node29" href="$class_c_config.html#a942619938b389de95268bce31434c276" title="Get the monitoring information for a marker val_marker." alt="" coords="562,259,710,301"/>
+<area shape="rect" id="node30" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="562,325,710,366"/>
+<area shape="rect" id="node31" href="$class_c_config.html#a5bf47083eec0b00543d3d8c387f41ab2" title="Get the name of the surface defined in the geometry file." alt="" coords="551,390,721,431"/>
+<area shape="rect" id="node32" href="$class_c_config.html#a62a92b26c1300323f4a4a035ec19af1a" title="Get the total number of monitoring markers." alt="" coords="558,455,714,497"/>
+<area shape="rect" id="node33" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="567,521,705,548"/>
+<area shape="rect" id="node34" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="560,572,712,599"/>
+<area shape="rect" id="node35" href="$class_c_config.html#a63ce45e68b93f8f3f1de44a2abad67ef" title="Get the reference length for computing moment (the default value is 1)." alt="" coords="551,623,721,649"/>
+<area shape="rect" id="node36" href="$class_c_config.html#a11302b0fc39a262419332a53e0a82c19" title="Get reference origin for moment computation." alt="" coords="527,673,745,700"/>
+<area shape="rect" id="node37" href="$class_c_solver.html#a2de51adfd0ff0405b84131c77015ffd1" title="A virtual member." alt="" coords="556,724,716,751"/>
+<area shape="rect" id="node38" href="$class_c_solver.html#a5906c2d5d62b8d42c46eee1c3b10de45" title="A virtual member." alt="" coords="557,775,715,801"/>
+<area shape="rect" id="node39" href="$class_c_solver.html#afa4d036e335ae576f47d2849b69b9204" title="A virtual member." alt="" coords="556,825,716,852"/>
+<area shape="rect" id="node40" href="$class_c_solver.html#a46c9b70026c7cb4804cbe7a7c2a2a8e8" title="A virtual member." alt="" coords="557,876,715,903"/>
+<area shape="rect" id="node41" href="$class_c_config.html#ae869dd14ee25ce498da8aeafeabcbbbd" title="Get the weight of objective function. There are several options: Drag coefficient,..." alt="" coords="562,927,710,969"/>
+<area shape="rect" id="node42" href="$class_c_config.html#a5cca02225c3d03c8e8bd6cd54b412145" title="Value of the weight of the drag coefficient in the Sonic Boom optimization." alt="" coords="553,993,719,1020"/>
+<area shape="rect" id="node43" href="$class_c_variable.html#ad909520ad4cdd779d1df65763b18673e" title="A virtual member." alt="" coords="549,1045,723,1086"/>
+<area shape="rect" id="node18" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="793,1111,979,1137"/>
+</map>

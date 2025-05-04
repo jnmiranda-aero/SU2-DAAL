@@ -1,0 +1,7 @@
+<map id="CSourcePieceWise_AdjTurb::ComputeResidual" name="CSourcePieceWise_AdjTurb::ComputeResidual">
+<area shape="rect" id="node1" title="Source term integration of the adjoint turbulence equation." alt="" coords="5,93,203,135"/>
+<area shape="rect" id="node2" href="$class_c_config.html#aec67dda6436453412e8647ee6879108b" title="Provides information about the way in which the turbulence will be treated by the cont...." alt="" coords="284,5,431,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a6d835a954bb5e99c5a3de6db5ed24ff3" title="Get the value of specific gas constant." alt="" coords="251,71,464,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#ab7c8dd2a4307cb74064ce4e61de4a9ad" title="Get the kind of integration scheme (explicit or implicit) for the adjoint turbulence equations." alt="" coords="263,123,452,164"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a2fca6d5964fb443f9d517df57659ccbc" title="Get the value of the turbulent Prandtl number." alt="" coords="266,189,449,215"/>
+</map>

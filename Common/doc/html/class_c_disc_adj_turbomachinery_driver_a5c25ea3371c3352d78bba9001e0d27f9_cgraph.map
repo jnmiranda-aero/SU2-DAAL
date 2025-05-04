@@ -1,0 +1,12 @@
+<map id="CDiscAdjTurbomachineryDriver::SetObjFunction" name="CDiscAdjTurbomachineryDriver::SetObjFunction">
+<area shape="rect" id="node1" title="Set Obj.Function for turbomachinery design." alt="" coords="5,209,229,250"/>
+<area shape="rect" id="node2" href="$class_c_solver.html#a10d46c06935e9e8124f3a5f13e77c431" title="Add to the value of the total &#39;combo&#39; objective." alt="" coords="287,5,498,32"/>
+<area shape="rect" id="node3" href="$class_c_output.html#a9b6f128a7b8fff994a7b040a1a8f7399" title="Give the Entropy Generation performance parameters for turbomachinery." alt="" coords="301,56,484,83"/>
+<area shape="rect" id="node4" href="$class_c_output.html#ac158553e5bbd346a6668176879b4f608" title="Give the Entropy Generation performance parameters for turbomachinery." alt="" coords="294,107,491,133"/>
+<area shape="rect" id="node5" href="$class_c_output.html#ac73343517fbfdcd9e13407486fe1bcfe" title="Give the Entropy Generation performance parameters for turbomachinery." alt="" coords="301,157,484,184"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a9a665d90306ed49db16ac85e4d7acbb4" title="number Turbomachinery performance option specified from config file." alt="" coords="315,209,471,250"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a2afa29aab61d4f49387cec759b7735ea" title="number span&#45;wise sections to compute 3D BC and performance for turbomachinery." alt="" coords="277,275,508,301"/>
+<area shape="rect" id="node8" href="$class_c_solver.html#a234f0c31ae1324c6867cbdcb7a787831" title="Provide the total &quot;combo&quot; objective (weighted sum of other values)." alt="" coords="288,325,497,352"/>
+<area shape="rect" id="node9" href="$namespace_a_d.html#ae381e45797545e980376c4aeb3f5afdc" title="Registers the variable as an output. I.e. as the root of the computational graph." alt="" coords="319,376,466,403"/>
+<area shape="rect" id="node10" href="$class_c_solver.html#aa24fe4180f508f22fd2bc07e182da3a1" title="Set the total &quot;combo&quot; objective (weighted sum of other values)." alt="" coords="289,427,496,453"/>
+</map>

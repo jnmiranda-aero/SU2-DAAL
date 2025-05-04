@@ -1,0 +1,9 @@
+<map id="CEulerSolver::Set_MPI_Solution" name="CEulerSolver::Set_MPI_Solution">
+<area shape="rect" id="node1" title="Impose the send&#45;receive boundary condition." alt="" coords="251,145,416,186"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#ae1e74218b4e943111b100d7ddcbd4db9" title=" " alt="" coords="6,5,202,32"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#ad87a9109a645f0ea9e38336d2a6bf196" title="Update the solution using the classical fourth&#45;order Runge&#45;Kutta scheme." alt="" coords="5,57,203,98"/>
+<area shape="rect" id="node4" href="$class_c_n_s_solver.html#a2a8ad49c42b4546696e631cf44b7788b" title=" " alt="" coords="21,123,187,149"/>
+<area shape="rect" id="node5" href="$class_c_euler_solver.html#a1f798a3f88873d6d634b90f8816eccde" title="Update the solution using the explicit Euler scheme." alt="" coords="7,174,201,215"/>
+<area shape="rect" id="node6" href="$class_c_euler_solver.html#ac3d1b3a1fee6613906b56a9698bfe680" title="Update the solution using a Runge&#45;Kutta scheme." alt="" coords="15,239,193,281"/>
+<area shape="rect" id="node7" href="$class_c_euler_solver.html#a4e8277fc44dc97c8d73fbe3347204372" title="Update the solution using an implicit Euler scheme." alt="" coords="7,305,201,346"/>
+</map>

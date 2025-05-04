@@ -1,0 +1,8 @@
+<map id="CConfig::GetWallFunction_DoubleInfo" name="CConfig::GetWallFunction_DoubleInfo">
+<area shape="rect" id="node1" title="Get the additional double info for the wall function treatment for the given boundary marker." alt="" coords="683,50,869,91"/>
+<area shape="rect" id="node2" href="$class_c_physical_geometry.html#acef4e18142b580bf09f21e5b71387d5f" title="Determine the donor elements for the boundary elements on viscous wall boundaries when wall functions..." alt="" coords="416,5,635,61"/>
+<area shape="rect" id="node4" href="$class_c_mesh_f_e_m___d_g.html#a098dcce939b1b802fc8946cbd4d9d0c6" title="Function, which carries out the preprocessing tasks when wall functions are used." alt="" coords="419,86,631,127"/>
+<area shape="rect" id="node3" href="$class_c_physical_geometry.html#a731c0207381f31f0b1165b646abc2acb" title="Set the domains for FEM grid partitioning using ParMETIS." alt="" coords="181,13,368,54"/>
+<area shape="rect" id="node5" href="$class_c_driver.html#a41c62306edf67dddd99fc2b5f0fdf518" title="Do the geometrical preprocessing for the DG FEM solver." alt="" coords="187,86,362,127"/>
+<area shape="rect" id="node6" href="$class_c_driver.html#afac169e386a89af2a52be8902abb27f2" title="Constructor of the class." alt="" coords="5,93,133,120"/>
+</map>

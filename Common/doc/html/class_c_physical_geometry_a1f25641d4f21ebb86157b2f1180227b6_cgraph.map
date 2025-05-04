@@ -1,0 +1,5 @@
+<map id="CPhysicalGeometry::Compute_MaxThickness" name="CPhysicalGeometry::Compute_MaxThickness">
+<area shape="rect" id="node1" title="Compute the maximum thickness of an airfoil." alt="" coords="5,23,187,65"/>
+<area shape="rect" id="node2" href="$class_c_geometry.html#ad38cb6e163b9c298a3c5922ecd5c7968" title="Given the arrays xa[1..n] and ya[1..n], which tabulate a function (with the xai’s in order),..." alt="" coords="235,5,401,32"/>
+<area shape="rect" id="node3" href="$class_c_geometry.html#a43b3e85441f722eac189104e464c5358" title="Given arrays x[1..n] and y[1..n] containing a tabulated function, i.e., yi = f(xi),..." alt="" coords="236,56,400,83"/>
+</map>

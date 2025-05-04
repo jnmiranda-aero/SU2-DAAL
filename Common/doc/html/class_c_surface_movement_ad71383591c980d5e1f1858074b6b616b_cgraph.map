@@ -1,0 +1,7 @@
+<map id="CSurfaceMovement::CopyBoundary" name="CSurfaceMovement::CopyBoundary">
+<area shape="rect" id="node1" title="Copy the boundary coordinates to each vertex." alt="" coords="5,81,259,108"/>
+<area shape="rect" id="node2" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="330,5,463,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="307,56,487,83"/>
+<area shape="rect" id="node4" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="327,107,466,133"/>
+<area shape="rect" id="node5" href="$class_c_vertex.html#ab4d03e12b53843c6b52832d544276d9e" title="Set the value of the cartesian coordinate for the vertex." alt="" coords="327,157,467,184"/>
+</map>

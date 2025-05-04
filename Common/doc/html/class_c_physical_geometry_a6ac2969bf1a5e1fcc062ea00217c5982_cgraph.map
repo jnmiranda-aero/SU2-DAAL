@@ -1,0 +1,17 @@
+<map id="CPhysicalGeometry::SetPositive_ZArea" name="CPhysicalGeometry::SetPositive_ZArea">
+<area shape="rect" id="node1" title="Compute surface area (positive z&#45;direction) for force coefficient non&#45;dimensionalization." alt="" coords="5,333,163,374"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="230,5,441,32"/>
+<area shape="rect" id="node4" href="$class_c_config.html#ac6fd9a6673c2f22e98c0d45102f23a65" title="Get information about the axisymmetric frame." alt="" coords="238,56,433,83"/>
+<area shape="rect" id="node5" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="269,107,402,133"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="245,157,425,184"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="261,209,409,250"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a942619938b389de95268bce31434c276" title="Get the monitoring information for a marker val_marker." alt="" coords="261,274,409,315"/>
+<area shape="rect" id="node9" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="266,340,405,367"/>
+<area shape="rect" id="node10" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="259,391,411,417"/>
+<area shape="rect" id="node11" href="$class_c_config.html#ad1d22f6d4f0225e3281d826a4c866779" title="Get the reference area for non dimensional coefficient computation. If the value from the is 0 then,..." alt="" coords="258,441,413,468"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a6654e8460b586ec7022ded455af379d1" title="Get the wing semi span." alt="" coords="251,492,419,519"/>
+<area shape="rect" id="node13" href="$class_c_config.html#afbc5c2467fd51eafa6e05e5bda7d3d3e" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="211,543,460,569"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a6ec34b7d66414b9a527361d94b74e9d4" title="In case the RefArea is equal to 0 then, it is necessary to compute a reference area,..." alt="" coords="259,593,412,620"/>
+<area shape="rect" id="node15" href="$class_c_config.html#ac861ce54ee522c0355602464bb7793de" title="In case the SemiSpan is equal to 0 then, it is necessary to compute the max y distance,..." alt="" coords="252,644,419,671"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="508,5,723,32"/>
+</map>

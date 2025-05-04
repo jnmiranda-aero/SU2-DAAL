@@ -1,0 +1,5 @@
+<map id="CNumerics::Compute_Dead_Load" name="CNumerics::Compute_Dead_Load">
+<area shape="rect" id="node1" title="A virtual member to compute the residual component due to dead loads." alt="" coords="461,5,621,47"/>
+<area shape="rect" id="node2" href="$class_c_f_e_a_solver.html#a1872a1edf06b6f94c220917c9f773545" title="Compute the dead loads." alt="" coords="249,5,413,47"/>
+<area shape="rect" id="node3" href="$class_c_f_e_a_solver.html#a2171424e52ccd32f17bcbd4972b1fe15" title="Set residuals to zero." alt="" coords="5,13,201,39"/>
+</map>

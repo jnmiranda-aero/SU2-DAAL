@@ -1,0 +1,5 @@
+<map id="CTransfer_StructuralDisplacements::GetDonor_Variable" name="CTransfer_StructuralDisplacements::GetDonor_Variable">
+<area shape="rect" id="node1" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="5,27,256,69"/>
+<area shape="rect" id="node2" href="$class_c_variable.html#a2ad2aee625fdc9f1b973b32271422d0b" title="A virtual member. Get the value of the solution predictor." alt="" coords="304,5,508,32"/>
+<area shape="rect" id="node3" href="$class_c_variable.html#a99d8e638e68dbdc4654d3ca327bfa699" title="A virtual member. Get the value of the solution predictor." alt="" coords="322,57,490,98"/>
+</map>

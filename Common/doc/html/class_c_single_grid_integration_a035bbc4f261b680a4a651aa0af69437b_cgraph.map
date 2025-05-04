@@ -1,0 +1,11 @@
+<map id="CSingleGridIntegration::SetRestricted_Solution" name="CSingleGridIntegration::SetRestricted_Solution">
+<area shape="rect" id="node1" title="Restrict solution from fine grid to a coarse grid." alt="" coords="5,175,183,217"/>
+<area shape="rect" id="node2" href="$class_c_point.html#a821d9feaa7488e42dfca27a349776f0a" title="Get the children control volume of an agglomerated control volume." alt="" coords="253,5,427,32"/>
+<area shape="rect" id="node3" href="$class_c_point.html#aa32b71744384b293260648bff1de9a5c" title="Get the number of children of an agglomerated control volume." alt="" coords="249,56,431,83"/>
+<area shape="rect" id="node4" href="$class_c_geometry.html#a4fc7de3bff7b6f8c35717016d6f8fcb2" title="Get number of real points (that belong to the domain)." alt="" coords="231,107,449,133"/>
+<area shape="rect" id="node5" href="$class_c_solver.html#a65c22046b0cf1938ba22648912d04680" title="Get the number of variables of the problem." alt="" coords="274,157,406,184"/>
+<area shape="rect" id="node6" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="256,208,424,235"/>
+<area shape="rect" id="node7" href="$class_c_point.html#a3c526a15e767c7de9cf163800aa581e5" title="Get area or volume of the control volume." alt="" coords="268,259,412,285"/>
+<area shape="rect" id="node8" href="$class_c_solver.html#ac25a16cb69ee66bca6048336dedbb4cd" title="Set number of linear solver iterations." alt="" coords="244,309,436,336"/>
+<area shape="rect" id="node9" href="$class_c_variable.html#a30d4ca1a8a08f748c4a2229a8cce9786" title="Set the value of the solution." alt="" coords="257,360,423,387"/>
+</map>

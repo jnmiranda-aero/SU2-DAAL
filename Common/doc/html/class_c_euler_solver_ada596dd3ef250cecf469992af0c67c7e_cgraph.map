@@ -1,0 +1,4 @@
+<map id="CEulerSolver::SetSlidingStateStructure" name="CEulerSolver::SetSlidingStateStructure">
+<area shape="rect" id="node1" title="Allocates the final pointer of SlidingState depending on how many donor vertex donate to it...." alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a97fd837b7a16171c55e700de30110499" title="Get the number of outer state for fluid interface nodes." alt="" coords="232,5,420,47"/>
+</map>

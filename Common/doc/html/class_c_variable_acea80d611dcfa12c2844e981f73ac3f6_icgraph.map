@@ -1,0 +1,15 @@
+<map id="CVariable::SetSolution_Max" name="CVariable::SetSolution_Max">
+<area shape="rect" id="node1" title="Set the value of the max solution." alt="" coords="539,140,740,167"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a43004a7f0fad7a6d1f435144710bf13e" title="Compute the limiter of the primitive variables." alt="" coords="288,49,481,90"/>
+<area shape="rect" id="node5" href="$class_c_inc_euler_solver.html#a00bd56828c4e41ec3ff1e8753cb320ec" title="Compute the limiter of the primitive variables." alt="" coords="279,133,491,174"/>
+<area shape="rect" id="node8" href="$class_c_solver.html#a641e9c59698ab9c7c2fb91107ad70d77" title="Compute slope limiter." alt="" coords="307,277,462,318"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="16,5,220,32"/>
+<area shape="rect" id="node4" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="23,56,213,83"/>
+<area shape="rect" id="node6" href="$class_c_inc_euler_solver.html#aabd902b10cc9b41b6b2c406efba0ac41" title="Compute primitive variables and their gradients." alt="" coords="7,107,229,133"/>
+<area shape="rect" id="node7" href="$class_c_inc_n_s_solver.html#ae84f6e86313acd1da80c505b4eab81e5" title="Restart residual and compute gradients." alt="" coords="14,157,222,184"/>
+<area shape="rect" id="node9" href="$class_c_turb_s_a_solver.html#a225518dc5f0ca6ed894add826aaa16ea" title="Restart residual and compute gradients." alt="" coords="10,208,226,235"/>
+<area shape="rect" id="node10" href="$class_c_turb_s_s_t_solver.html#a653cf05307f24374fda6f523ce3130bf" title="Restart residual and compute gradients." alt="" coords="7,259,229,285"/>
+<area shape="rect" id="node11" href="$class_c_adj_euler_solver.html#a4ae0ed840dc8335fd921399625ba794f" title="Initialize the residual vectors." alt="" coords="5,309,231,336"/>
+<area shape="rect" id="node12" href="$class_c_adj_n_s_solver.html#ac16dab76e2c1d86bc7d70ca9f41fd668" title="Restart residual and compute gradients." alt="" coords="13,360,223,387"/>
+<area shape="rect" id="node13" href="$class_c_adj_turb_solver.html#ad7f35bfeec670ed4357083ecdada59f5" title="Compute the spatial integration using a upwind scheme." alt="" coords="29,411,207,453"/>
+</map>

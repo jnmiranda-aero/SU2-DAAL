@@ -1,0 +1,52 @@
+<map id="COutput::SpecialOutput_Distortion" name="COutput::SpecialOutput_Distortion">
+<area shape="rect" id="node1" title="Create and write the file with the flow coefficient on the surface." alt="" coords="5,1274,180,1315"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="247,5,458,32"/>
+<area shape="rect" id="node4" href="$class_c_base_m_p_i_wrapper.html#a39e59958c13f7fefc74062ba2ff149f1" title=" " alt="" coords="255,56,450,83"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a6020a5df7025ffb286f9b9f55f3f2773" title="Get the angle of attack of the body. This is the angle between a reference line on a lifting body (of..." alt="" coords="288,107,417,133"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a4305a79a4c74f13160c0dd8daae181ef" title="Get the angle of sideslip of the body. It relates to the rotation of the aircraft centerline from the..." alt="" coords="289,157,417,184"/>
+<area shape="rect" id="node7" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="286,208,419,235"/>
+<area shape="rect" id="node8" href="$class_c_variable.html#a48edcfacf9418f8e2a00416e92f71fde" title="A virtual member." alt="" coords="270,259,435,285"/>
+<area shape="rect" id="node9" href="$class_c_config.html#abe9f117dab934d76e518a9e8e40b142a" title="Get the indicator whether we are solving an discrete adjoint problem." alt="" coords="274,310,431,351"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a0781242ec841f611a8884dc6602e68ce" title="Get the the coordinates where of the box where a subsonic region is imposed." alt="" coords="253,376,452,403"/>
+<area shape="rect" id="node11" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="279,427,426,453"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a7901d8ceaae3ee30556988e6d435ca98" title="Only halg of the engine is in the compputational grid." alt="" coords="279,478,426,519"/>
+<area shape="rect" id="node13" href="$class_c_config.html#a5f01bbbd9c331ecea38eebbe9cc9cd4e" title="Get the value of the Gamma of fluid (ratio of specific heats)." alt="" coords="275,544,430,571"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a624138f0bb5ee7494459b8e25c5d6287" title="Get the value of the Mach number (velocity divided by speed of sound)." alt="" coords="283,595,422,621"/>
+<area shape="rect" id="node15" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="279,646,427,687"/>
+<area shape="rect" id="node16" href="$class_c_config.html#a9881a8acb50cc3bb370e02606eb292b9" title="Get the name of the surface defined in the geometry file." alt="" coords="277,711,428,753"/>
+<area shape="rect" id="node17" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="272,777,433,804"/>
+<area shape="rect" id="node18" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="263,828,443,855"/>
+<area shape="rect" id="node19" href="$class_c_config.html#a1700278aa339f15f919f7a6866f2f399" title="Get the total number of moving markers." alt="" coords="275,879,431,921"/>
+<area shape="rect" id="node20" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="283,945,422,972"/>
+<area shape="rect" id="node21" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="277,996,429,1023"/>
+<area shape="rect" id="node22" href="$class_c_geometry.html#a55427e474834af1941e13750b17975be" title="Get number of vertices." alt="" coords="265,1047,441,1073"/>
+<area shape="rect" id="node23" href="$class_c_config.html#ac2cb41cf77a3151862778d8400d58656" title="Get the format of the output solution." alt="" coords="279,1098,426,1139"/>
+<area shape="rect" id="node24" href="$class_c_variable.html#aa845fb5587ca68200ebd49440c8d1d9e" title="A virtual member." alt="" coords="267,1164,438,1191"/>
+<area shape="rect" id="node25" href="$class_c_config.html#a59c43ad0ef9a59bc51c2a7e399fea004" title="Get the value of the non&#45;dimensionalized freestream pressure." alt="" coords="273,1215,432,1257"/>
+<area shape="rect" id="node26" href="$class_c_config.html#a43d642b59f0e1dae7abd613f337f5cf4" title="Get the Reynolds number. Dimensionless number that gives a measure of the ratio of inertial forces to..." alt="" coords="271,1281,434,1308"/>
+<area shape="rect" id="node27" href="$class_c_variable.html#a25e6cfdfa669e10ceea8fca60ab428ab" title="A virtual member." alt="" coords="255,1332,450,1359"/>
+<area shape="rect" id="node28" href="$class_c_config.html#a25cedbbf987d072de69eba0d0c4de873" title="Get the back pressure (static) at an outlet boundary." alt="" coords="255,1383,450,1409"/>
+<area shape="rect" id="node29" href="$class_c_config.html#a77fcb81efee87376561340a12d24dbce" title="Get the back pressure (static) at an outlet boundary." alt="" coords="261,1433,444,1460"/>
+<area shape="rect" id="node30" href="$class_c_config.html#a4bdc4bf3e843fd2b252064cebe5a2720" title="Get the back pressure (static) at an outlet boundary." alt="" coords="277,1485,429,1526"/>
+<area shape="rect" id="node31" href="$class_c_config.html#a35dedec2b67519344ee9be20cc8a5647" title="Get the back pressure (static) at an outlet boundary." alt="" coords="261,1551,444,1577"/>
+<area shape="rect" id="node32" href="$class_c_config.html#a1647ca5ad6988cdcdefda6c045f6e794" title="Get the massflow at an outlet boundary." alt="" coords="277,1602,429,1643"/>
+<area shape="rect" id="node33" href="$class_c_config.html#afbc5c2467fd51eafa6e05e5bda7d3d3e" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="228,1668,477,1695"/>
+<area shape="rect" id="node34" href="$class_c_variable.html#a0304810342567ff058d49814bb53a355" title="A virtual member." alt="" coords="254,1719,451,1745"/>
+<area shape="rect" id="node35" href="$class_c_config.html#a00454cff9575acd21239959b4030b192" title="Get the value of the non&#45;dimensionalized freestream temperature." alt="" coords="260,1770,445,1811"/>
+<area shape="rect" id="node36" href="$class_c_solver.html#a61976c31edeca3fc7c2c9d280facdbe2" title="A virtual member." alt="" coords="250,1836,455,1863"/>
+<area shape="rect" id="node37" href="$class_c_solver.html#aad65d60e046c745bb67afe5d59a3df03" title="A virtual member." alt="" coords="262,1887,443,1913"/>
+<area shape="rect" id="node38" href="$class_c_variable.html#a4558ea70e860ec1f9184b2b2c39ebabc" title="A virtual member." alt="" coords="269,1937,436,1964"/>
+<area shape="rect" id="node39" href="$class_c_variable.html#a76505d5d9276995ef2c7038e036e409d" title="A virtual member." alt="" coords="265,1988,440,2015"/>
+<area shape="rect" id="node40" href="$class_c_config.html#a13840ca712bf87d32d18917d0c39cfae" title="Get the vector of the non&#45;dimensionalized freestream velocity." alt="" coords="275,2039,430,2081"/>
+<area shape="rect" id="node41" href="$namespace_s_u2___t_y_p_e.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="297,2105,409,2132"/>
+<area shape="rect" id="node43" href="$class_c_config.html#aa28705622f5975eb17bf944f1fba42f1" title="Get the back pressure (static) at an outlet boundary." alt="" coords="257,2156,449,2183"/>
+<area shape="rect" id="node44" href="$class_c_config.html#ad7ef9bab335903c4609a233817fd424d" title="Get the back pressure (static) at an outlet boundary." alt="" coords="263,2207,443,2233"/>
+<area shape="rect" id="node45" href="$class_c_config.html#a16a0f33648108afc6a590fe4ba8aa241" title="Get the back pressure (static) at an outlet boundary." alt="" coords="277,2258,428,2299"/>
+<area shape="rect" id="node46" href="$class_c_config.html#ad6561c294b31b0e1925c88f37ae9ac1a" title="Get the back pressure (static) at an outlet boundary." alt="" coords="263,2324,443,2351"/>
+<area shape="rect" id="node47" href="$class_c_solver.html#a6e80989cb8a636ec65101aee5c640692" title="A virtual member." alt="" coords="265,2375,440,2401"/>
+<area shape="rect" id="node48" href="$class_c_solver.html#aed0b6e7e465f7a70e64b0805e0ff84b9" title="A virtual member." alt="" coords="271,2425,434,2452"/>
+<area shape="rect" id="node49" href="$class_c_solver.html#a09f6becb76b462c43865885e89f94cdd" title="A virtual member." alt="" coords="251,2476,455,2503"/>
+<area shape="rect" id="node50" href="$class_c_solver.html#abf8898b80374b1047908537289208c97" title="A virtual member." alt="" coords="271,2527,434,2553"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="525,31,740,57"/>
+<area shape="rect" id="node42" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="555,2105,710,2132"/>
+</map>

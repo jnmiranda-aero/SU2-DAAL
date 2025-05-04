@@ -1,0 +1,4 @@
+<map id="CConfig::GetBoolTurbMixingPlane" name="CConfig::GetBoolTurbMixingPlane">
+<area shape="rect" id="node1" title="Verify if there is mixing plane interface specified from config file." alt="" coords="219,5,421,47"/>
+<area shape="rect" id="node2" href="$class_c_turb_solver.html#a38c6b619e04b33b19ac586845bdb4c82" title="Impose via the residual the Euler wall boundary condition." alt="" coords="5,13,171,39"/>
+</map>

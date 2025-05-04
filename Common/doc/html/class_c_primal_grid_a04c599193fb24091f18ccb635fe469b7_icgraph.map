@@ -1,0 +1,4 @@
+<map id="CPrimalGrid::GetPeriodicIndex" name="CPrimalGrid::GetPeriodicIndex">
+<area shape="rect" id="node1" title="Get the index of the periodic transformation to the neighboring element." alt="" coords="228,5,411,47"/>
+<area shape="rect" id="node2" href="$class_c_mesh_f_e_m.html#ae74b12670fb49ad4d28836d9fc2aab8d" title="Redistributes the grid over the ranks and creates the halo layer." alt="" coords="5,13,180,39"/>
+</map>

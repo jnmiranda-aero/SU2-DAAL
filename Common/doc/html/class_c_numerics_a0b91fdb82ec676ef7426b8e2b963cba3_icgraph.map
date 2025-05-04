@@ -1,0 +1,6 @@
+<map id="CNumerics::SetLambda" name="CNumerics::SetLambda">
+<area shape="rect" id="node1" title="Set the value of the spectral radius." alt="" coords="247,78,421,105"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a70328326ace55eb5b3a786455a1d0de8" title="Compute the spatial integration using a centered scheme." alt="" coords="16,5,188,47"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#a8f119d91c8b4c53415045afee6b4f3d0" title="Compute the spatial integration using a centered scheme." alt="" coords="7,71,197,112"/>
+<area shape="rect" id="node4" href="$class_c_adj_euler_solver.html#ac56fe0a4cf0b8df7730fab2eea3344ff" title="Compute the spatial integration using a centered scheme for the adjoint equations." alt="" coords="5,136,199,177"/>
+</map>

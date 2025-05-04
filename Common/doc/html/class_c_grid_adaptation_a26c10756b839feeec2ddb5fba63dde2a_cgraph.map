@@ -1,0 +1,5 @@
+<map id="CGridAdaptation::SetNo_Refinement" name="CGridAdaptation::SetNo_Refinement">
+<area shape="rect" id="node1" title="Do not do any kind of adaptation." alt="" coords="5,23,181,65"/>
+<area shape="rect" id="node2" href="$class_c_geometry.html#a4ae48ec038df1f5ee7c1daadabea5e99" title="Get number of elements." alt="" coords="231,5,398,32"/>
+<area shape="rect" id="node3" href="$class_c_primal_grid.html#af6977fd1339b8f9cc82448c464a389e1" title="Set that an element must be divided in the adaptation stage." alt="" coords="229,56,400,83"/>
+</map>

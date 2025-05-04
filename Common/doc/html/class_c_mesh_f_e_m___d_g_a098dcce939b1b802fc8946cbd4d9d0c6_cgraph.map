@@ -1,0 +1,11 @@
+<map id="CMeshFEM_DG::WallFunctionPreprocessing" name="CMeshFEM_DG::WallFunctionPreprocessing">
+<area shape="rect" id="node1" title="Function, which carries out the preprocessing tasks when wall functions are used." alt="" coords="5,188,217,229"/>
+<area shape="rect" id="node2" href="$class_c_a_d_t_elem_class.html#a2708b4c5925a10d57edba3630fb19bcb" title="Function, which determines the element that contains the given coordinate." alt="" coords="265,5,468,47"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="276,71,457,98"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="293,123,441,164"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="293,188,441,229"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a118c9a3a593a4e463aac242febf4116d" title="Get the additional double info for the wall function treatment for the given boundary marker." alt="" coords="273,253,460,295"/>
+<area shape="rect" id="node8" href="$class_c_config.html#ac79e9f736b3d8820ac78a714c93811c3" title="Get the additional integer info for the wall function treatment for the given boundary marker." alt="" coords="273,319,460,360"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a25ae10f2fbea1175dca7ae4a7752977f" title="Get the wall function treatment for the given boundary marker." alt="" coords="273,384,460,425"/>
+<area shape="rect" id="node4" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="516,71,701,98"/>
+</map>

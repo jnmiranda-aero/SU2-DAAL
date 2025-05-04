@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_c_preconditioner.html" title="abstract base class for defining preconditioning operation" alt="" coords="5,107,131,133"/>
+<area shape="rect" id="node2" href="$class_c_i_l_u_preconditioner.html" title="specialization of preconditioner that uses CSysMatrix class" alt="" coords="224,5,371,32"/>
+<area shape="rect" id="node3" href="$class_c_jacobi_preconditioner.html" title="specialization of preconditioner that uses CSysMatrix class" alt="" coords="215,56,379,83"/>
+<area shape="rect" id="node4" href="$class_c_jacobi_transposed_preconditioner.html" title="specialization of preconditioner that uses CSysMatrix class" alt="" coords="179,107,416,133"/>
+<area shape="rect" id="node5" href="$class_c_l_u___s_g_s_preconditioner.html" title="specialization of preconditioner that uses CSysMatrix class" alt="" coords="210,157,385,184"/>
+<area shape="rect" id="node6" href="$class_c_linelet_preconditioner.html" title="specialization of preconditioner that uses CSysMatrix class" alt="" coords="213,208,382,235"/>
+</map>

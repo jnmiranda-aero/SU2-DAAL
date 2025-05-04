@@ -1,0 +1,10 @@
+<map id="CTransfer_MixingPlaneInterface::GetDonor_Variable" name="CTransfer_MixingPlaneInterface::GetDonor_Variable">
+<area shape="rect" id="node1" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="5,150,233,191"/>
+<area shape="rect" id="node2" href="$class_c_solver.html#aad6ca83216280d66c40a38125520bef5" title="A virtual member." alt="" coords="284,5,491,32"/>
+<area shape="rect" id="node3" href="$class_c_solver.html#ae5a232f30933bb7612e447a0794a6937" title="A virtual member." alt="" coords="295,56,480,83"/>
+<area shape="rect" id="node4" href="$class_c_solver.html#a54bf35c08bab59e4ca0d73d5f4d9fd46" title="A virtual member." alt="" coords="300,107,475,133"/>
+<area shape="rect" id="node5" href="$class_c_solver.html#ae8b689b0c629453ceecccff17e42b61f" title="A virtual member." alt="" coords="286,157,489,184"/>
+<area shape="rect" id="node6" href="$class_c_solver.html#a848fd7c1b72e74eb4780da29a0adb553" title="A virtual member." alt="" coords="281,208,493,235"/>
+<area shape="rect" id="node7" href="$class_c_solver.html#a8b9faa7ccdadc1503240113b7451bf1a" title="A virtual member." alt="" coords="292,259,483,301"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="297,325,477,352"/>
+</map>

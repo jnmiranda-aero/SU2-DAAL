@@ -1,0 +1,6 @@
+<map id="CConfig::GetMoveMotion_Origin" name="CConfig::GetMoveMotion_Origin">
+<area shape="rect" id="node1" title="Get if we should update the motion origin." alt="" coords="260,71,444,112"/>
+<area shape="rect" id="node2" href="$class_c_surface_movement.html#a46b4020fed71fc432c22eef4c1a3a9bb" title="Computes the displacement of a plunging surface for a dynamic mesh simulation." alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node3" href="$class_c_surface_movement.html#afe7ab1e988862c31e5ab53ef51b63149" title="Computes the displacement of a rotating surface for a dynamic mesh simulation." alt="" coords="5,71,212,112"/>
+<area shape="rect" id="node4" href="$class_c_surface_movement.html#aaa5e3a14a55a7d1fe4c00b8cd195497f" title="Computes the displacement of a translating surface for a dynamic mesh simulation." alt="" coords="5,136,212,177"/>
+</map>

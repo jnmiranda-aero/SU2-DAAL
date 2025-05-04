@@ -1,0 +1,6 @@
+<map id="CConfig::GetSteadyRestart" name="CConfig::GetSteadyRestart">
+<area shape="rect" id="node1" title="Identifies if we want to restart from a steady or an unsteady solution." alt="" coords="268,56,463,83"/>
+<area shape="rect" id="node2" href="$class_c_baseline_solver.html#acb5f7a5211dcf8ba4337e9b251024553" title="Load a solution from a restart file." alt="" coords="5,5,220,32"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#a463d0854ec9cfb4a277794df9329ebae" title="Load a solution from a restart file." alt="" coords="17,56,208,83"/>
+<area shape="rect" id="node4" href="$class_c_inc_euler_solver.html#aa4c572590c60bbc0f3db269eb55ea12f" title="Load a solution from a restart file." alt="" coords="7,107,218,133"/>
+</map>

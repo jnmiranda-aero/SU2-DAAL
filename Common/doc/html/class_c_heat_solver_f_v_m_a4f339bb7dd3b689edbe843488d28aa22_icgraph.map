@@ -1,0 +1,6 @@
+<map id="CHeatSolverFVM::Set_MPI_Solution" name="CHeatSolverFVM::Set_MPI_Solution">
+<area shape="rect" id="node1" title="Impose the send&#45;receive boundary condition." alt="" coords="304,57,465,98"/>
+<area shape="rect" id="node2" href="$class_c_heat_solver_f_v_m.html#a42af03c3f465c905fbc3ecbee398f5be" title="Constructor of the class." alt="" coords="5,5,256,32"/>
+<area shape="rect" id="node3" href="$class_c_heat_solver_f_v_m.html#ac72e3e231d74967d368bf1cb7345535a" title="Update the solution using an explicit solver." alt="" coords="37,57,225,98"/>
+<area shape="rect" id="node4" href="$class_c_heat_solver_f_v_m.html#a604f660ae9da06eae59363f83a98843e" title="Update the solution using an implicit solver." alt="" coords="36,122,225,163"/>
+</map>

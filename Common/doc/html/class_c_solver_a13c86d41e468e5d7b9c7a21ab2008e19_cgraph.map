@@ -1,0 +1,19 @@
+<map id="CSolver::SolveTypicalSectionWingModel" name="CSolver::SolveTypicalSectionWingModel">
+<area shape="rect" id="node1" title="Solve the typical section wing model." alt="" coords="5,340,215,381"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a93afd81e0f5c99ef0632f80b8cb154ed" title="Aeroelastic Flutter Speed Index." alt="" coords="289,5,465,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a2cb6eeb8d14730720c5ee584b8cc7e8b" title="Uncoupled Aeroelastic Frequency Pitch." alt="" coords="549,320,725,361"/>
+<area shape="rect" id="node4" href="$class_c_config.html#aa022e177ff1f274f7bdbfef950c0c448" title="Value of Aeroelastic solution coordinate at time n." alt="" coords="281,122,472,149"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a0e410f925eb73adfe30d3b44e589ec26" title="Value of Aeroelastic solution coordinate at time n&#45;1." alt="" coords="277,173,476,199"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a0b906eb233b861ce7f2f876bbfa9760a" title="Value of Aeroelastic solution coordinate at time n+1." alt="" coords="273,223,480,250"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a57928a763b6b5f41e2dac1992596138d" title="Value of pitching coordinate." alt="" coords="289,275,465,316"/>
+<area shape="rect" id="node8" href="$class_c_config.html#aa28d5164af585f7a1f3fa702fa044a2d" title="Value of plunging coordinate." alt="" coords="289,340,465,381"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a417b45d0da107126e803258901f57920" title="If we are prforming an unsteady simulation, there is only one value of the time step for the complete..." alt="" coords="263,406,491,433"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a07e07baa3b8259bfa545fd1de2fac74a" title="Get the value of the Reynolds length." alt="" coords="303,457,450,499"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a4705094b6e77c4764878ac83a665f02a" title="Value of Aeroelastic solution coordinate at time n+1." alt="" coords="274,523,479,550"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a9ba428baa92dc36b447d424450a49b1a" title="Value of pitching coordinate." alt="" coords="289,575,464,616"/>
+<area shape="rect" id="node13" href="$class_c_config.html#a265f87e00ba2ed387f084082c7f6d1cb" title="Value of plunging coordinate." alt="" coords="289,640,464,681"/>
+<area shape="rect" id="node14" href="$class_c_solver.html#a85ab76dcef372e9cf25c7df9738b364b" title="Sets up the generalized eigenvectors and eigenvalues needed to solve the aeroelastic equations." alt="" coords="271,705,483,747"/>
+<area shape="rect" id="node15" href="$class_c_config.html#acc4baf536059893600bc566d7b8913e6" title="Aeroelastic center of gravity location." alt="" coords="549,640,725,681"/>
+<area shape="rect" id="node16" href="$class_c_config.html#a0ec6a5b1cd9d21bce43b0ad95a427687" title="Uncoupled Aeroelastic Frequency Plunge." alt="" coords="549,705,725,747"/>
+<area shape="rect" id="node17" href="$class_c_config.html#a3d4898b381409684e54710f8b8f6f047" title="Aeroelastic radius of gyration squared." alt="" coords="539,771,735,812"/>
+</map>

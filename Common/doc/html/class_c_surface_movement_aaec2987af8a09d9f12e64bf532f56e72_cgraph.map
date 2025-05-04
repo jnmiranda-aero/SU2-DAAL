@@ -1,0 +1,17 @@
+<map id="CSurfaceMovement::SetFFDCamber" name="CSurfaceMovement::SetFFDCamber">
+<area shape="rect" id="node1" title="Set a camber deformation of the Free From box using the control point position." alt="" coords="5,398,261,425"/>
+<area shape="rect" id="node2" href="$class_c_free_form_def_box.html#a378f6cbeb8c62956a9bd9e3c8ba318f7" title="Define the I planes to to fix in a FFD box." alt="" coords="332,5,503,47"/>
+<area shape="rect" id="node3" href="$class_c_free_form_def_box.html#aaea48205eeab5e59fc82824a3272d3fe" title="Define the I planes to to fix in a FFD box." alt="" coords="332,71,503,112"/>
+<area shape="rect" id="node4" href="$class_c_free_form_def_box.html#aca911efe2b1562e4cca8ad9e3798b75f" title="Define the I planes to to fix in a FFD box." alt="" coords="332,136,503,177"/>
+<area shape="rect" id="node5" href="$class_c_free_form_def_box.html#a6b8ff65cc97f1dc3197f1bbf66f042a2" title="Define the I planes to to fix in a FFD box." alt="" coords="332,201,503,243"/>
+<area shape="rect" id="node6" href="$class_c_free_form_def_box.html#a15483c5ccbe6bb2d8efd1db0ee47f291" title="Define the I planes to to fix in a FFD box." alt="" coords="332,267,503,308"/>
+<area shape="rect" id="node7" href="$class_c_free_form_def_box.html#a5231193062a8d1bb9d486c4e6bb92812" title="Define the I planes to to fix in a FFD box." alt="" coords="332,332,503,373"/>
+<area shape="rect" id="node8" href="$class_c_config.html#ac50165b44d1c286c810585b89cd68f33" title="Value of the design variable step, we use this value in design problems." alt="" coords="335,398,500,425"/>
+<area shape="rect" id="node9" href="$class_c_config.html#aac151bc1508af471b8bd6cf67c82bff1" title="Get the FFD Tag of a particular design variable." alt="" coords="342,449,493,475"/>
+<area shape="rect" id="node10" href="$class_c_config.html#affef7bc6016955cb0cf49b3f774bc45a" title="Get the scale factor for the line search." alt="" coords="313,499,522,526"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a55ab8fc511c17d4b07ef0b5eea793e61" title="Get a parameter of the particular design variable." alt="" coords="336,550,499,577"/>
+<area shape="rect" id="node12" href="$class_c_free_form_def_box.html#a39f3ec89ecaa4c20ca0bf115153f1fb5" title="Get the tag that identify a FFDBox." alt="" coords="321,601,514,627"/>
+<area shape="rect" id="node13" href="$namespace_s_u2___t_y_p_e.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="361,651,473,678"/>
+<area shape="rect" id="node15" href="$class_c_free_form_def_box.html#aed1fd6c02ebdf7d2124e6b509179e8ad" title="Set the new value of the coordinates of the control points." alt="" coords="309,703,525,744"/>
+<area shape="rect" id="node14" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="573,651,728,678"/>
+</map>

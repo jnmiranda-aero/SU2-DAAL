@@ -1,0 +1,6 @@
+<map id="CConfig::GetMultizone_FileName" name="CConfig::GetMultizone_FileName">
+<area shape="rect" id="node1" title="Append the zone index to the restart or the solution files." alt="" coords="5,23,172,65"/>
+<area shape="rect" id="node2" href="$class_c_config.html#ad8a83ccc6af7a42273330d6bf596b8c0" title="Provides the number of varaibles." alt="" coords="220,5,364,32"/>
+<area shape="rect" id="node3" href="$namespace_s_u2___t_y_p_e.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="236,56,348,83"/>
+<area shape="rect" id="node4" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="412,56,567,83"/>
+</map>

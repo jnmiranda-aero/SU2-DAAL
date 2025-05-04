@@ -1,0 +1,6 @@
+<map id="CNumerics::GetPreconditioner" name="CNumerics::GetPreconditioner">
+<area shape="rect" id="node1" title="Compute the low speed preconditioning matrix." alt="" coords="263,78,481,105"/>
+<area shape="rect" id="node2" href="$class_c_upw_f_d_s_inc___flow.html#a8f159a82f5e92e66790f3aac6a7cf0da" title="Compute the upwind flux between two nodes i and j." alt="" coords="5,5,215,47"/>
+<area shape="rect" id="node3" href="$class_c_cent_j_s_t_inc___flow.html#a9ec0829b8b1f3de9141e802457ea07c8" title="Compute the flow residual using a JST method." alt="" coords="8,71,212,112"/>
+<area shape="rect" id="node4" href="$class_c_cent_lax_inc___flow.html#ac5b89c2c7028f0d297e15a2867c2e93e" title="Compute the flow residual using a Lax method." alt="" coords="7,136,213,177"/>
+</map>

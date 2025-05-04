@@ -1,0 +1,7 @@
+<map id="CSolver::RegisterSolution" name="CSolver::RegisterSolution">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="636,46,823,73"/>
+<area shape="rect" id="node2" href="$class_c_disc_adj_fluid_iteration.html#a8417accee60a0d5d3dfc0262ce5ffcbc" title="Registers all output variables of the fluid iteration." alt="" coords="421,5,588,47"/>
+<area shape="rect" id="node3" href="$class_c_disc_adj_f_e_a_iteration.html#a8e17b1b21c6afbad639a7f8bafd75a0a" title="Registers all input variables of the FEM iteration." alt="" coords="425,71,585,112"/>
+<area shape="rect" id="node4" href="$class_c_disc_adj_f_e_a_iteration.html#a121206a5f1ae2d2fbc5931cb7c37335a" title="Record a single iteration of the direct FEM system." alt="" coords="213,71,373,112"/>
+<area shape="rect" id="node5" href="$class_c_disc_adj_f_e_a_iteration.html#a8c4d696b9bbb8ff79713d892e4b7aef9" title="Preprocessing to prepare for an iteration of the physics." alt="" coords="5,71,165,112"/>
+</map>

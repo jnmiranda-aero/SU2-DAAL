@@ -1,0 +1,6 @@
+<map id="CConfig::GetnMarker_HeatFlux" name="CConfig::GetnMarker_HeatFlux">
+<area shape="rect" id="node1" title="Get the total number of heat flux markers." alt="" coords="513,64,669,105"/>
+<area shape="rect" id="node2" href="$class_c_heat_solver_f_v_m.html#ae37f2deac6090f973d605975790f32f1" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="305,5,464,47"/>
+<area shape="rect" id="node3" href="$class_c_heat_solver_f_v_m.html#a42af03c3f465c905fbc3ecbee398f5be" title="Constructor of the class." alt="" coords="5,101,256,127"/>
+<area shape="rect" id="node4" href="$class_c_heat_solver_f_v_m.html#a1746cdf2e4dadde9ec3ba0bae059d9a7" title="A virtual member." alt="" coords="304,123,465,164"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="CEulerSolver::Upwind_Residual" name="CEulerSolver::Upwind_Residual">
+<area shape="rect" id="node1" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,1273,168,1315"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a8c2c7f8ca02d0e8685373e38ca29d9d0" title="Adds the specified block to the sparse matrix." alt="" coords="257,2427,422,2454"/>
+<area shape="rect" id="node4" href="$class_c_sys_vector.html#a7ef472e160b4bfee4fac427e5c08022b" title="Add val_residual to the residual." alt="" coords="257,71,421,98"/>
+<area shape="rect" id="node5" href="$class_c_euler_solver.html#a0dbe3f07b0782efbfa7f92346ce68714" title="Compute the extrapolated quantities, for MUSCL upwind 2nd reconstruction, in a more thermodynamic con..." alt="" coords="237,5,441,47"/>
+<area shape="rect" id="node7" href="$class_c_fluid_model.html#a99d4d8c322ea4f1072e0326f09154318" title="Get fluid internal energy." alt="" coords="511,93,727,119"/>
+<area shape="rect" id="node8" href="$class_c_numerics.html#abe734316e0047f463f059fd77a281958" title="Compute the numerical residual." alt="" coords="231,223,447,250"/>
+<area shape="rect" id="node9" href="$class_c_config.html#aa878788c30e1c7c3ed4788e485bd2fb0" title="Get the verbosity level of the console output." alt="" coords="262,275,417,316"/>
+<area shape="rect" id="node10" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="273,341,406,367"/>
+<area shape="rect" id="node11" href="$class_c_config.html#abe9f117dab934d76e518a9e8e40b142a" title="Get the indicator whether we are solving an discrete adjoint problem." alt="" coords="261,392,418,433"/>
+<area shape="rect" id="node12" href="$class_c_numerics.html#a410f8d3c0b3153db5bdbb3bd43fe4acc" title="Get the final Roe dissipation factor." alt="" coords="241,458,438,485"/>
+<area shape="rect" id="node13" href="$class_c_config.html#aa48f2fc504ec2b261d5046f9a17677dd" title="Get the current external iteration number." alt="" coords="266,509,413,535"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a451739b63bff33a4992e2600f94c73b1" title="Provides information about the way in which the limiter will be treated by the disc...." alt="" coords="266,560,413,601"/>
+<area shape="rect" id="node15" href="$class_c_variable.html#a235623c42fc699bc5de18f721b23d49c" title="A virtual member." alt="" coords="254,625,425,667"/>
+<area shape="rect" id="node16" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="236,691,443,718"/>
+<area shape="rect" id="node17" href="$class_c_point.html#a62ec636f4a05ac578b582a053e8553f9" title="Get the value of the grid velocity at the point." alt="" coords="268,742,411,769"/>
+<area shape="rect" id="node18" href="$class_c_config.html#ac36fbf73af5ad628f510769c556717d3" title="Fluid model that we are using." alt="" coords="234,793,445,819"/>
+<area shape="rect" id="node19" href="$class_c_config.html#ac5bec4548aaef1effa84ad7a3a038e35" title="Get the Kind of Roe Low Dissipation Scheme for Unsteady flows." alt="" coords="230,843,449,870"/>
+<area shape="rect" id="node20" href="$class_c_config.html#a2604613ee15ea8d060347a099576bdb7" title="Get the method for limiting the spatial gradients." alt="" coords="216,894,463,921"/>
+<area shape="rect" id="node21" href="$class_c_config.html#a20e5fd7b43cfd2bf2bcf5137f12bc635" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="245,945,434,987"/>
+<area shape="rect" id="node22" href="$class_c_config.html#a97f0506e4307fbc833adc0320a2a7df6" title="Get the kind of upwind convective numerical scheme for the flow equations." alt="" coords="226,1011,453,1038"/>
+<area shape="rect" id="node23" href="$class_c_variable.html#a24d9b4d508d7af772f9329c52b244b21" title="A virtual member." alt="" coords="259,1063,420,1104"/>
+<area shape="rect" id="node24" href="$class_c_config.html#aabe22193b51752ca8c871b5b38b3a483" title="Get if the upwind scheme used MUSCL or not." alt="" coords="246,1129,433,1155"/>
+<area shape="rect" id="node25" href="$class_c_geometry.html#a7d6e1e1d1e46da8f55ecbe1a9380530a" title="Get number of edges." alt="" coords="256,1179,423,1206"/>
+<area shape="rect" id="node26" href="$class_c_edge.html#aee33b61d646e3fe59a4e23284ab1bf33" title="Get the nodes of the edge." alt="" coords="275,1230,403,1257"/>
+<area shape="rect" id="node27" href="$class_c_variable.html#a891bc25aa5886d12c41bf19cb5aadf93" title="Get the value of the non&#45;physical point." alt="" coords="238,1281,441,1307"/>
+<area shape="rect" id="node28" href="$class_c_edge.html#ada210a6f0643f444e7e491fc4ed9e662" title="Copy the the normal vector of a face." alt="" coords="268,1331,411,1358"/>
+<area shape="rect" id="node29" href="$class_c_numerics.html#a32978115b8835f03d74f7cb3e888a7ff" title="Get the Preconditioning Beta." alt="" coords="233,1382,446,1409"/>
+<area shape="rect" id="node30" href="$class_c_variable.html#a5fc23761cf67841ab946fc6e8b4f019d" title="A virtual member." alt="" coords="252,1433,427,1459"/>
+<area shape="rect" id="node31" href="$class_c_variable.html#aa268bf743e93eb70b16191abe3d3c7bc" title="A virtual member." alt="" coords="229,1483,449,1510"/>
+<area shape="rect" id="node32" href="$class_c_variable.html#a032a6f383140a60b741d1fe5be8585ab" title="A virtual member." alt="" coords="248,1534,431,1561"/>
+<area shape="rect" id="node33" href="$class_c_variable.html#a25c9b3e6ef25a81fe73c8c4d0dae5984" title="Get the pressure sensor." alt="" coords="260,1585,419,1611"/>
+<area shape="rect" id="node34" href="$class_c_config.html#af0723b9f35c1762a4c8edacb35f98984" title="Get the vector of the dimensionalized freestream velocity." alt="" coords="262,1636,417,1677"/>
+<area shape="rect" id="node35" href="$class_c_config.html#a5ef14007afbc2019c041b176b4176c32" title="Get information about the Low Mach Correction." alt="" coords="228,1702,451,1729"/>
+<area shape="rect" id="node36" href="$class_c_base_m_p_i_wrapper.html#a860dfcee07be04be175e06d342e0fc68" title=" " alt="" coords="240,1753,439,1779"/>
+<area shape="rect" id="node37" href="$class_c_numerics.html#a5fa1089c7228d6d49677a633bbe3c890" title="Set coordinates of the points." alt="" coords="259,1803,419,1830"/>
+<area shape="rect" id="node38" href="$class_c_numerics.html#adda1e75b0ef931873020c5a4eafa6cfc" title="Sets the values of the roe dissipation." alt="" coords="242,1854,437,1881"/>
+<area shape="rect" id="node39" href="$class_c_fluid_model.html#adead4cab94b577e9e4129ef57110febd" title="virtual member that would be different for each gas model implemented" alt="" coords="233,1905,446,1931"/>
+<area shape="rect" id="node40" href="$class_c_numerics.html#ae15b9e4ad2008444365109c434e24207" title="Set the velocity of the computational grid." alt="" coords="255,1955,424,1982"/>
+<area shape="rect" id="node41" href="$class_c_config.html#aa3920e3a8f281a8e015ca82571aa2c72" title="Set the current number of non&#45;physical reconstructions for 2nd&#45;order upwinding." alt="" coords="249,2007,430,2048"/>
+<area shape="rect" id="node42" href="$class_c_numerics.html#a41903d97957f351cd9ee63ca404985b1" title="Set the value of the normal vector to the face between two points." alt="" coords="254,2073,425,2099"/>
+<area shape="rect" id="node43" href="$class_c_variable.html#a04afc99ee0b39e5cacd2d82b83f61a82" title="Set the value of the preconditioner Beta." alt="" coords="217,2123,461,2150"/>
+<area shape="rect" id="node44" href="$class_c_numerics.html#af72b17d397adf09beed2e99e2daf895c" title="Set the value of the primitive variables." alt="" coords="249,2174,430,2201"/>
+<area shape="rect" id="node45" href="$class_c_variable.html#ad346082bb807769153fd069be58fec5a" title="A virtual member." alt="" coords="230,2225,449,2251"/>
+<area shape="rect" id="node46" href="$class_c_numerics.html#a6e34c34e24623507f06c184939f6656a" title="Set the value of the primitive variables." alt="" coords="244,2275,435,2302"/>
+<area shape="rect" id="node47" href="$class_c_numerics.html#a577baa8846d297140f03ef9729368f73" title="Set the value of the pressure sensor." alt="" coords="256,2326,423,2353"/>
+<area shape="rect" id="node48" href="$class_c_numerics.html#a013db2f615882def4e131d67e4da15eb" title="Set the freestream velocity square." alt="" coords="236,2377,443,2403"/>
+<area shape="rect" id="node49" href="$class_c_sys_matrix.html#a0c6e3335f161b70247ac06e22eee6dfc" title="Subtracts the specified block to the sparse matrix." alt="" coords="242,173,437,199"/>
+<area shape="rect" id="node50" href="$class_c_sys_vector.html#aa2de9022590ea6b06950ef6b8afb77a2" title="Subtract val_residual to the residual." alt="" coords="243,2478,436,2505"/>
+<area shape="rect" id="node3" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="541,1299,696,1326"/>
+<area shape="rect" id="node6" href="$class_c_fluid_model.html#aad64c09dba03173f53b7d3c02f66df05" title="Get fluid pressure partial derivative." alt="" coords="521,13,716,39"/>
+</map>

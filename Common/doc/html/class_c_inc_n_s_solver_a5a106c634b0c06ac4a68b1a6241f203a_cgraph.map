@@ -1,0 +1,29 @@
+<map id="CIncNSSolver::Friction_Forces" name="CIncNSSolver::Friction_Forces">
+<area shape="rect" id="node1" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="5,645,171,686"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="239,5,449,32"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a6020a5df7025ffb286f9b9f55f3f2773" title="Get the angle of attack of the body. This is the angle between a reference line on a lifting body (of..." alt="" coords="279,56,409,83"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a4305a79a4c74f13160c0dd8daae181ef" title="Get the angle of sideslip of the body. It relates to the rotation of the aircraft centerline from the..." alt="" coords="280,107,408,133"/>
+<area shape="rect" id="node6" href="$class_c_config.html#ac6fd9a6673c2f22e98c0d45102f23a65" title="Get information about the axisymmetric frame." alt="" coords="247,157,441,184"/>
+<area shape="rect" id="node7" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="277,208,411,235"/>
+<area shape="rect" id="node8" href="$class_c_variable.html#a48edcfacf9418f8e2a00416e92f71fde" title="A virtual member." alt="" coords="261,259,427,285"/>
+<area shape="rect" id="node9" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="271,309,417,336"/>
+<area shape="rect" id="node10" href="$class_c_config.html#abb2ba1ecf8988532ce9cecb88c206d28" title="Flag for whether to solve the energy equation for incompressible flows." alt="" coords="270,361,418,402"/>
+<area shape="rect" id="node11" href="$class_c_variable.html#a235623c42fc699bc5de18f721b23d49c" title="A virtual member." alt="" coords="259,426,429,467"/>
+<area shape="rect" id="node12" href="$class_c_config.html#ac70f6be3de9f4415099fb18dace47174" title="Get the value of the reference density for custom incompressible non&#45;dimensionalization." alt="" coords="240,492,448,519"/>
+<area shape="rect" id="node13" href="$class_c_config.html#a30c5b2846731ecba11c4ce9f96350ade" title="Get the value of the reference velocity for custom incompressible non&#45;dimensionalization." alt="" coords="239,543,449,569"/>
+<area shape="rect" id="node14" href="$class_c_variable.html#aedbb79a282d44af4d52663eba96034f6" title="A virtual member." alt="" coords="231,593,457,620"/>
+<area shape="rect" id="node15" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="270,645,418,686"/>
+<area shape="rect" id="node16" href="$class_c_config.html#a942619938b389de95268bce31434c276" title="Get the monitoring information for a marker val_marker." alt="" coords="270,710,418,751"/>
+<area shape="rect" id="node17" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="270,775,418,817"/>
+<area shape="rect" id="node18" href="$class_c_config.html#a5bf47083eec0b00543d3d8c387f41ab2" title="Get the name of the surface defined in the geometry file." alt="" coords="259,841,429,882"/>
+<area shape="rect" id="node19" href="$class_c_config.html#a62a92b26c1300323f4a4a035ec19af1a" title="Get the total number of monitoring markers." alt="" coords="266,906,422,947"/>
+<area shape="rect" id="node20" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="275,972,413,999"/>
+<area shape="rect" id="node21" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="268,1023,420,1049"/>
+<area shape="rect" id="node22" href="$class_c_vertex.html#a8d2bce3a6ee62007179e688dc2b9b182" title="Get the value of the closest neighbor." alt="" coords="268,1074,420,1115"/>
+<area shape="rect" id="node23" href="$class_c_config.html#a3b3de951a4f6c688c5d54b869301d7b7" title="Get the kind of incompressible non&#45;dimensionalization." alt="" coords="269,1139,419,1181"/>
+<area shape="rect" id="node24" href="$class_c_config.html#ad1d22f6d4f0225e3281d826a4c866779" title="Get the reference area for non dimensional coefficient computation. If the value from the is 0 then,..." alt="" coords="267,1205,421,1232"/>
+<area shape="rect" id="node25" href="$class_c_config.html#a63ce45e68b93f8f3f1de44a2abad67ef" title="Get the reference length for computing moment (the default value is 1)." alt="" coords="259,1256,429,1283"/>
+<area shape="rect" id="node26" href="$class_c_config.html#a11302b0fc39a262419332a53e0a82c19" title="Get reference origin for moment computation." alt="" coords="235,1307,453,1333"/>
+<area shape="rect" id="node27" href="$class_c_variable.html#a081de87f0e9d28e242306d5931499904" title="A virtual member." alt="" coords="219,1357,469,1384"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="517,5,732,32"/>
+</map>

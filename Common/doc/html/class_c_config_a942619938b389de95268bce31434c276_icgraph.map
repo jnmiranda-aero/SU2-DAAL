@@ -1,0 +1,24 @@
+<map id="CConfig::GetMarker_All_Monitoring" name="CConfig::GetMarker_All_Monitoring">
+<area shape="rect" id="node1" title="Get the monitoring information for a marker val_marker." alt="" coords="840,467,988,509"/>
+<area shape="rect" id="node2" href="$class_c_solver.html#a8dd9c428bd1faa90ed188094b2e182bb" title="Prepares and solves the aeroelastic equations." alt="" coords="608,5,761,32"/>
+<area shape="rect" id="node3" href="$class_c_n_s_solver.html#a789efbffb69b39e59b122a0c068cb11a" title="Compute the buffet sensor." alt="" coords="577,56,792,83"/>
+<area shape="rect" id="node4" href="$class_c_n_s_solver.html#acc926a2b83d8b90fa71faf46abe8f6b7" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="611,107,758,149"/>
+<area shape="rect" id="node5" href="$class_c_inc_n_s_solver.html#a5a106c634b0c06ac4a68b1a6241f203a" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="602,173,767,214"/>
+<area shape="rect" id="node6" href="$class_c_f_e_m___d_g___n_s_solver.html#a15cec95ab40ebb36ee69bc5f58840cf3" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="581,238,789,279"/>
+<area shape="rect" id="node7" href="$class_c_heat_solver_f_v_m.html#a0f6b7e5a6e657340e1634743b9631102" title="Evaluate heat&#45;flux related objectives." alt="" coords="599,303,770,345"/>
+<area shape="rect" id="node8" href="$class_c_euler_solver.html#a9e92c9defb86bcb87924741dd9f89e9d" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="591,369,779,410"/>
+<area shape="rect" id="node9" href="$class_c_inc_euler_solver.html#a9a1ae1497ccf83abb0bad4bad7a99623" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="581,434,788,475"/>
+<area shape="rect" id="node10" href="$class_c_euler_solver.html#a98856f91553ab35f30d27bfd0ab46d69" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="600,499,769,541"/>
+<area shape="rect" id="node11" href="$class_c_inc_euler_solver.html#a5071b46c6b8a190c57f36c7567155121" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="591,565,779,606"/>
+<area shape="rect" id="node12" href="$class_c_f_e_m___d_g___euler_solver.html#a5b3e068f83cbf3aeb8e6a4e02b4bf27b" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="601,630,768,671"/>
+<area shape="rect" id="node13" href="$class_c_heat_solver_f_v_m.html#a1746cdf2e4dadde9ec3ba0bae059d9a7" title="A virtual member." alt="" coords="604,695,765,737"/>
+<area shape="rect" id="node15" href="$class_c_adj_euler_solver.html#a814d69e54f24c9fef36e3493a2230973" title="Created the force projection vector for adjoint boundary conditions." alt="" coords="589,761,780,802"/>
+<area shape="rect" id="node19" href="$class_c_mesh_f_e_m.html#a59652a2dfd0870ce5369105d8128ed64" title="Compute surface area (positive z&#45;direction) for force coefficient non&#45;dimensionalization." alt="" coords="597,826,772,867"/>
+<area shape="rect" id="node20" href="$class_c_physical_geometry.html#a6ac2969bf1a5e1fcc062ea00217c5982" title="Compute surface area (positive z&#45;direction) for force coefficient non&#45;dimensionalization." alt="" coords="606,891,763,933"/>
+<area shape="rect" id="node21" href="$class_c_disc_adj_solver.html#a29f5f7ec2e7084e7c2841ce50375a8ff" title="Set the surface sensitivity." alt="" coords="585,957,784,998"/>
+<area shape="rect" id="node14" href="$class_c_heat_solver_f_v_m.html#a42af03c3f465c905fbc3ecbee398f5be" title="Constructor of the class." alt="" coords="279,703,529,729"/>
+<area shape="rect" id="node16" href="$class_c_adj_euler_solver.html#a5265a44e6c43dee677c9f26333148432" title="Update the AoA and freestream velocity at the farfield." alt="" coords="287,768,521,795"/>
+<area shape="rect" id="node17" href="$class_c_adj_euler_solver.html#a4ae0ed840dc8335fd921399625ba794f" title="Initialize the residual vectors." alt="" coords="5,743,231,769"/>
+<area shape="rect" id="node18" href="$class_c_adj_n_s_solver.html#ac16dab76e2c1d86bc7d70ca9f41fd668" title="Restart residual and compute gradients." alt="" coords="13,793,223,820"/>
+<area shape="rect" id="node22" href="$class_c_disc_adj_solver.html#aa570642f4edea61f5e63084f454bbb1c" title="Extract and set the geometrical sensitivity." alt="" coords="295,964,513,991"/>
+</map>

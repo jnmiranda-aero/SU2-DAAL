@@ -1,0 +1,6 @@
+<map id="CAvgGrad_Flow::ComputeResidual" name="CAvgGrad_Flow::ComputeResidual">
+<area shape="rect" id="node1" title="Compute the viscous flow residual using an average of gradients." alt="" coords="5,56,252,83"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a56a90b16ae9d036e2f048347b884aaca" title="Get QCR (SA&#45;QCR2000)." alt="" coords="348,5,479,32"/>
+<area shape="rect" id="node3" href="$class_c_numerics.html#ae1871b445ac9c276b47bdef8cb85ae5a" title="Compute the projection of the viscous fluxes into a direction." alt="" coords="300,56,527,83"/>
+<area shape="rect" id="node4" href="$class_c_numerics.html#a04f3cb378c17caec4b1408cc73bb9331" title="TSL&#45;Approximation of Viscous NS Jacobians." alt="" coords="301,107,526,133"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="CHeatSolverFVM::BC_HeatFlux_Wall" name="CHeatSolverFVM::BC_HeatFlux_Wall">
+<area shape="rect" id="node1" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="5,429,164,471"/>
+<area shape="rect" id="node2" href="$class_c_config.html#abdcc61f1a8497480834447acc74cb897" title="Get the value of the solid density." alt="" coords="243,5,396,47"/>
+<area shape="rect" id="node3" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="246,71,393,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#ab39f8562d63e7a6bb311e9839c050b9b" title="Check if values passed to the BC_HeatFlux&#45;Routine are already integrated." alt="" coords="234,123,405,164"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="229,189,409,215"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="245,240,393,281"/>
+<area shape="rect" id="node7" href="$class_c_config.html#ae6abb511ad2253421790537537101753" title="Get the name of the surface defined in the geometry file." alt="" coords="240,305,399,347"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a32440bdf444c3187c2b45f6f6d509a86" title="Get the total number of heat flux markers." alt="" coords="241,371,397,412"/>
+<area shape="rect" id="node9" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="250,437,389,463"/>
+<area shape="rect" id="node10" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="243,487,395,514"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a712ecbd9da6efeaccd98680b56c098d9" title="Get the value of specific heat at constant pressure." alt="" coords="243,539,396,580"/>
+<area shape="rect" id="node12" href="$class_c_config.html#aa46380d215ee1304eeb3b2d778a86f53" title="Get the value of the specific heat for solids." alt="" coords="243,604,396,645"/>
+<area shape="rect" id="node13" href="$class_c_config.html#a8ec4a0951d9a432dadffad665a9892b3" title="Get the value of the reference temperature for non&#45;dimensionalization." alt="" coords="212,670,427,697"/>
+<area shape="rect" id="node14" href="$class_c_config.html#adf48507f6200c50ac2e02f0d89bb3b59" title="Get the value of the reference viscosity for non&#45;dimensionalization." alt="" coords="224,721,415,747"/>
+<area shape="rect" id="node15" href="$class_c_config.html#a13a89ffbaf099f490fb7080163879e55" title="Get the wall heat flux on a constant heat flux boundary." alt="" coords="221,771,418,798"/>
+<area shape="rect" id="node16" href="$class_c_sys_vector.html#aa2de9022590ea6b06950ef6b8afb77a2" title="Subtract val_residual to the residual." alt="" coords="223,822,416,849"/>
+</map>

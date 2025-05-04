@@ -1,0 +1,47 @@
+<map id="CPhysicalGeometry::SetBoundaries" name="CPhysicalGeometry::SetBoundaries">
+<area shape="rect" id="node1" title="Set the send receive boundaries of the grid." alt="" coords="5,1301,163,1343"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="247,5,395,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a778a77ff2b9e1d359eab9b2d2106fa81" title="Get the send&#45;receive information for a marker val_marker." alt="" coords="247,71,395,112"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="247,136,395,177"/>
+<area shape="rect" id="node5" href="$class_c_config.html#ae517fdcd3fe8801b3dd118fafe7b3953" title="Get the plotting information from the config definition for the marker val_marker." alt="" coords="247,201,395,243"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a5dd9009d1bf406a513a3e1daeabb6c93" title="Get the monitoring information from the config definition for the marker val_marker." alt="" coords="247,267,395,308"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a6f944f56bb37e627e5e4e3686c7d9f4d" title="Get the DV information from the config definition for the marker val_marker." alt="" coords="247,332,395,373"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a352a6b4d652797d2a07b70001319b6aa" title="Get the monitoring information from the config definition for the marker val_marker." alt="" coords="247,397,395,439"/>
+<area shape="rect" id="node9" href="$class_c_config.html#abab1232c0135ca0ca4416694c8d7ccb5" title="Get the boundary information (kind of boundary) in the config information of the marker val_marker." alt="" coords="247,463,395,504"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a660ea59401ef0bc8eb259303341387b2" title="Get the MixingPlane interface information from the config definition for the marker val_marker." alt="" coords="212,528,431,569"/>
+<area shape="rect" id="node11" href="$class_c_config.html#adcc754469efaf37d8982ac0c626ebe1f" title="Get the monitoring information from the config definition for the marker val_marker." alt="" coords="246,593,397,635"/>
+<area shape="rect" id="node12" href="$class_c_config.html#abe5f64f56bb3c4c04bec33749067f6d4" title="Get the motion information from the config definition for the marker val_marker." alt="" coords="247,659,395,700"/>
+<area shape="rect" id="node13" href="$class_c_config.html#a113e9e5110b90110cfefa4825ab0bc6c" title="Get the periodic information from the config definition of the marker val_marker." alt="" coords="247,724,395,765"/>
+<area shape="rect" id="node14" href="$class_c_config.html#afda7710b599f88f9d5fdcd80fc39a6e3" title="Get the plotting information from the config definition for the marker val_marker." alt="" coords="247,789,395,831"/>
+<area shape="rect" id="node15" href="$class_c_config.html#a8fd96a199e1151dd07d82f23f19ff540" title="Get the Python customization information from the config definition for the marker val_marker." alt="" coords="247,855,395,896"/>
+<area shape="rect" id="node16" href="$class_c_config.html#afbe63631fc63185ae5ce6b8caf8ce580" title="Get the index in the config information of the marker val_marker." alt="" coords="247,920,395,961"/>
+<area shape="rect" id="node19" href="$class_c_config.html#ae51913231b887e35583416da15315c62" title="Get the TurboPerformance information from the config definition for the marker val_marker." alt="" coords="229,985,414,1027"/>
+<area shape="rect" id="node20" href="$class_c_config.html#a6079fafe14e422e85ee85cf5249906a1" title="Get the TurboPerformance flag information from the config definition for the marker val_marker." alt="" coords="215,1051,428,1092"/>
+<area shape="rect" id="node21" href="$class_c_config.html#afe4a87f67504459ca877bdc28940be8f" title="Get the FSI interface information from the config definition for the marker val_marker." alt="" coords="235,1116,407,1157"/>
+<area shape="rect" id="node22" href="$class_c_primal_grid.html#a0efbf2f8391d5177d92bd850016a3783" title="A pure virtual member." alt="" coords="231,1182,411,1209"/>
+<area shape="rect" id="node23" href="$class_c_primal_grid.html#a4fc7b6b6ac5025325c7e68fb56fbeef8" title="A pure virtual member." alt="" coords="239,1233,404,1259"/>
+<area shape="rect" id="node24" href="$class_c_point.html#a8b9ac5c1d44b744339a3f212158f2ff2" title="Set if a point belong to the boundary." alt="" coords="244,1283,399,1310"/>
+<area shape="rect" id="node25" href="$class_c_point.html#afe4aa8a8bad191bf61719cbc7f2263ab" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="249,1334,393,1361"/>
+<area shape="rect" id="node26" href="$class_c_config.html#a822723d98435a7a1f06ba1b15c18efe0" title="Set if a marker val_marker is going to be plot val_plotting (read from the config file)." alt="" coords="248,1385,395,1427"/>
+<area shape="rect" id="node27" href="$class_c_config.html#a411c5919b9c6621eaab590146d37d7d6" title="Set if a marker val_marker is going to be designed val_designing (read from the config file)." alt="" coords="248,1451,395,1492"/>
+<area shape="rect" id="node28" href="$class_c_config.html#add5748db493df55770d5c6314e1e7944" title="Set if a marker val_marker is going to be affected by design variables val_moving (read from the conf..." alt="" coords="248,1516,395,1557"/>
+<area shape="rect" id="node29" href="$class_c_config.html#a87f1907945fe6d30767c6d303f0224b6" title="Set if a marker val_marker is going to be monitored val_monitoring (read from the config file)." alt="" coords="248,1581,395,1623"/>
+<area shape="rect" id="node30" href="$class_c_config.html#adc22b84484d1022a385516b5e4e050fa" title="Set the value of the boundary val_boundary (read from the config file) for the marker val_marker." alt="" coords="248,1647,395,1688"/>
+<area shape="rect" id="node31" href="$class_c_config.html#ac3b28eae18c62c78680f63e62c3c1473" title="Set if a marker val_marker is part of the MixingPlane interface (read from the config file)." alt="" coords="226,1712,417,1753"/>
+<area shape="rect" id="node32" href="$class_c_config.html#a9f35c49ae9572ef1a5e876a5a454a7db" title="Set if a marker val_marker is going to be monitored val_monitoring (read from the config file)." alt="" coords="248,1777,395,1819"/>
+<area shape="rect" id="node33" href="$class_c_config.html#a6604be6fc00566573e86ebe274761e2a" title="Set if a marker val_marker is going to be moved val_moving (read from the config file)." alt="" coords="248,1843,395,1884"/>
+<area shape="rect" id="node34" href="$class_c_config.html#acdf40baa7780a76587428c3f3dc88e52" title="Set if a marker val_marker is going to be periodic val_perbound (read from the config file)." alt="" coords="248,1908,395,1949"/>
+<area shape="rect" id="node35" href="$class_c_config.html#ae8dfb92c7884c801e54b70511e208544" title="Set if a marker val_marker is going to be plot val_plotting (read from the config file)." alt="" coords="248,1973,395,2015"/>
+<area shape="rect" id="node36" href="$class_c_config.html#a6b9d36431683d3510c26a88c3e884a0b" title="Set if a marker val_marker is going to be customized in Python val_PyCustom (read from the config fil..." alt="" coords="248,2039,395,2080"/>
+<area shape="rect" id="node37" href="$class_c_config.html#a82bd1f76cf9574ecfc48c44bef277cd5" title="Set if a marker val_marker is going to be sent or receive val_index from another domain." alt="" coords="248,2104,395,2145"/>
+<area shape="rect" id="node38" href="$class_c_config.html#a3d64a9bbafa5f87e2559f34cc297a9c4" title="Set the value of the index val_index (read from the geometry file) for the marker val_marker." alt="" coords="248,2169,395,2211"/>
+<area shape="rect" id="node39" href="$class_c_config.html#a39ae756fea2b3b925ab091b206bbc600" title="Set if a marker val_marker is part of the Turbomachinery (read from the config file)." alt="" coords="243,2235,400,2276"/>
+<area shape="rect" id="node40" href="$class_c_config.html#a1aa8556ef5cb28435df7a66bf510d91b" title="Set a flag to the marker val_marker part of the Turbomachinery (read from the config file)." alt="" coords="229,2300,414,2341"/>
+<area shape="rect" id="node41" href="$class_c_config.html#a5c017ee959c51d599a0edd01d17adeab" title="Set if a marker val_marker is part of the FSI interface val_plotting (read from the config file)." alt="" coords="248,2365,395,2407"/>
+<area shape="rect" id="node42" href="$class_c_config.html#a0a0f6d6594b4654ca7389ef89fca47cb" title="Stores the number of marker in the simulation." alt="" coords="232,2431,411,2458"/>
+<area shape="rect" id="node43" href="$class_c_point.html#a09fd7da7511d0d8fb7233b0a62653f03" title="Set if a point belong to the boundary." alt="" coords="217,2482,426,2509"/>
+<area shape="rect" id="node44" href="$class_c_primal_grid.html#a44040f17780b87f641ce9d0b0266a0d5" title="A pure virtual member." alt="" coords="211,2533,432,2559"/>
+<area shape="rect" id="node45" href="$class_c_point.html#a4ac3743cf885dffaa13b684dec7a97e9" title="Set if a point belong to the boundary." alt="" coords="228,2583,415,2610"/>
+<area shape="rect" id="node17" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="480,927,661,954"/>
+<area shape="rect" id="node18" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="709,927,895,954"/>
+</map>

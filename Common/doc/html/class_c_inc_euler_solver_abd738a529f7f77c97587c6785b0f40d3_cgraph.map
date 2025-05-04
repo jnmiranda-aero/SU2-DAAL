@@ -1,0 +1,36 @@
+<map id="CIncEulerSolver::BC_Far_Field" name="CIncEulerSolver::BC_Far_Field">
+<area shape="rect" id="node1" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="5,834,156,875"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a8c2c7f8ca02d0e8685373e38ca29d9d0" title="Adds the specified block to the sparse matrix." alt="" coords="252,5,417,32"/>
+<area shape="rect" id="node4" href="$class_c_sys_vector.html#a7ef472e160b4bfee4fac427e5c08022b" title="Add val_residual to the residual." alt="" coords="253,56,417,83"/>
+<area shape="rect" id="node5" href="$class_c_numerics.html#abe734316e0047f463f059fd77a281958" title="Compute the numerical residual." alt="" coords="227,107,443,133"/>
+<area shape="rect" id="node6" href="$class_c_variable.html#af8b1f573c90c763e2b3433309ac416d2" title="A virtual member." alt="" coords="249,157,421,184"/>
+<area shape="rect" id="node7" href="$class_c_inc_euler_solver.html#ab856e9c1b827a52d96ae38e1bbd3512e" title="Value of the characteristic variables at the boundaries." alt="" coords="235,209,435,250"/>
+<area shape="rect" id="node8" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="268,275,401,301"/>
+<area shape="rect" id="node9" href="$class_c_inc_euler_solver.html#ae729186f90f6d07ba48045f3c293a027" title="Compute the density at the infinity." alt="" coords="220,325,449,352"/>
+<area shape="rect" id="node10" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="261,376,408,403"/>
+<area shape="rect" id="node11" href="$class_c_variable.html#a55d856e3f8bb009a9cfa2acf0e353df1" title="A virtual member." alt="" coords="231,427,438,453"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="231,477,438,504"/>
+<area shape="rect" id="node13" href="$class_c_point.html#a62ec636f4a05ac578b582a053e8553f9" title="Get the value of the grid velocity at the point." alt="" coords="263,528,406,555"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a20e5fd7b43cfd2bf2bcf5137f12bc635" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="240,579,429,621"/>
+<area shape="rect" id="node15" href="$class_c_config.html#a40aaed07fc5844d505d2c0b7076594d7" title="Get the kind of the turbulence model." alt="" coords="251,645,418,686"/>
+<area shape="rect" id="node16" href="$class_c_variable.html#aedbb79a282d44af4d52663eba96034f6" title="A virtual member." alt="" coords="221,711,448,737"/>
+<area shape="rect" id="node17" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="265,761,404,788"/>
+<area shape="rect" id="node18" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="259,812,411,839"/>
+<area shape="rect" id="node19" href="$class_c_vertex.html#a8d2bce3a6ee62007179e688dc2b9b182" title="Get the value of the closest neighbor." alt="" coords="259,863,411,905"/>
+<area shape="rect" id="node20" href="$class_c_inc_euler_solver.html#ad68c7257d583a907c5f513985a26670c" title="Compute the pressure at the infinity." alt="" coords="217,929,452,956"/>
+<area shape="rect" id="node21" href="$class_c_variable.html#a5fc23761cf67841ab946fc6e8b4f019d" title="A virtual member." alt="" coords="247,980,422,1007"/>
+<area shape="rect" id="node22" href="$class_c_variable.html#a891154006ea204fb203f5189ba1e7fcf" title="A virtual member." alt="" coords="228,1031,441,1057"/>
+<area shape="rect" id="node23" href="$class_c_inc_euler_solver.html#abe50a594dba19123ed8dfac12da2eb1c" title="Get the temperature value at infinity." alt="" coords="204,1081,465,1108"/>
+<area shape="rect" id="node24" href="$class_c_variable.html#a081de87f0e9d28e242306d5931499904" title="A virtual member." alt="" coords="209,1132,460,1159"/>
+<area shape="rect" id="node25" href="$class_c_inc_euler_solver.html#a31b3bb059712e0b78c3062adf7138e6d" title="Get the velocity at the infinity." alt="" coords="219,1183,450,1209"/>
+<area shape="rect" id="node26" href="$class_c_config.html#a2e9af0bd3e1f5ed865e81b627e94a662" title="Determines if problem is viscous." alt="" coords="258,1233,411,1260"/>
+<area shape="rect" id="node27" href="$class_c_numerics.html#a5fa1089c7228d6d49677a633bbe3c890" title="Set coordinates of the points." alt="" coords="255,1284,415,1311"/>
+<area shape="rect" id="node28" href="$class_c_numerics.html#ae15b9e4ad2008444365109c434e24207" title="Set the velocity of the computational grid." alt="" coords="250,1335,419,1361"/>
+<area shape="rect" id="node29" href="$class_c_numerics.html#a41903d97957f351cd9ee63ca404985b1" title="Set the value of the normal vector to the face between two points." alt="" coords="249,1385,420,1412"/>
+<area shape="rect" id="node30" href="$class_c_numerics.html#af72b17d397adf09beed2e99e2daf895c" title="Set the value of the primitive variables." alt="" coords="244,1436,425,1463"/>
+<area shape="rect" id="node31" href="$class_c_numerics.html#a22772ccb1c59b1267152d4cc9825a98a" title="Set the gradient of the primitive variables." alt="" coords="220,1487,449,1513"/>
+<area shape="rect" id="node32" href="$class_c_numerics.html#adb60105707161f121e6c9d79a2c80284" title="Set the turbulent kinetic energy." alt="" coords="237,1538,432,1579"/>
+<area shape="rect" id="node33" href="$class_c_sys_matrix.html#a0c6e3335f161b70247ac06e22eee6dfc" title="Subtracts the specified block to the sparse matrix." alt="" coords="237,1604,432,1631"/>
+<area shape="rect" id="node34" href="$class_c_sys_vector.html#aa2de9022590ea6b06950ef6b8afb77a2" title="Subtract val_residual to the residual." alt="" coords="238,1655,431,1681"/>
+<area shape="rect" id="node3" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="513,805,668,832"/>
+</map>

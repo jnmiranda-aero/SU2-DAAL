@@ -1,0 +1,5 @@
+<map id="CMultiGridGeometry::GeometricalCheck" name="CMultiGridGeometry::GeometricalCheck">
+<area shape="rect" id="node1" title="Determine if a can be agglomerated using geometrical criteria." alt="" coords="453,5,609,47"/>
+<area shape="rect" id="node2" href="$class_c_multi_grid_geometry.html#a15c29a11f85cce8f38d2403fc8fc2826" title="Constructor of the class." alt="" coords="5,5,169,47"/>
+<area shape="rect" id="node3" href="$class_c_multi_grid_geometry.html#a7f01a0e615971be927da2ccad9cb9e10" title="Determine if a CVPoint van be agglomerated, if it have the same marker point as the seed." alt="" coords="217,35,405,76"/>
+</map>

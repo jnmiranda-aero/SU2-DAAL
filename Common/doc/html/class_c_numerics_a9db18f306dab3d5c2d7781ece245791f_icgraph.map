@@ -1,0 +1,5 @@
+<map id="CNumerics::SetTurbAdjointGradient" name="CNumerics::SetTurbAdjointGradient">
+<area shape="rect" id="node1" title="Set the gradient of the adjoint turbulent variables." alt="" coords="232,39,427,80"/>
+<area shape="rect" id="node2" href="$class_c_adj_n_s_solver.html#af2cb5ceadb98384f7504b6f7c6e6840c" title="Source term computation." alt="" coords="13,5,176,47"/>
+<area shape="rect" id="node3" href="$class_c_adj_turb_solver.html#a70a725062ef93315581ef9394250287b" title="Compute the viscous residuals for the turbulent adjoint equation." alt="" coords="5,71,184,112"/>
+</map>

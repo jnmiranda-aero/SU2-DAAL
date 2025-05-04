@@ -1,0 +1,22 @@
+<map id="CSysSolve::SetExternalSolve" name="CSysSolve::SetExternalSolve">
+<area shape="rect" id="node1" title="Prepare the linear solve during the reverse interpretation of the AD tape." alt="" coords="5,399,215,426"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a20583e837673910a0e5202895eaf4b42" title="Build the ILU preconditioner." alt="" coords="272,261,524,287"/>
+<area shape="rect" id="node11" href="$class_c_sys_matrix.html#a962f74cd82d568a1e05fc399ee62550a" title="Build the Jacobi preconditioner." alt="" coords="263,111,533,138"/>
+<area shape="rect" id="node14" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="307,311,489,338"/>
+<area shape="rect" id="node16" href="$class_c_config.html#a0d2f2467edd47d51d6ab7b62b250eaec" title="Get the kind of preconditioner for the implicit solver." alt="" coords="304,363,492,404"/>
+<area shape="rect" id="node17" href="$class_c_sys_vector.html#a5fc0016021b83e256bf54a4a670a8dd3" title="return the number of local elements in the CSysVector" alt="" coords="311,429,485,455"/>
+<area shape="rect" id="node18" href="$class_c_sys_vector.html#a8748aa17b318d7c36d75b2f9bb1809e5" title="return the number of blocks (typically number of nodes locally)" alt="" coords="319,479,477,506"/>
+<area shape="rect" id="node19" href="$class_c_sys_vector.html#a32fcd8d4cb98e20a1be69cf2ce793cdc" title="return the number of blocks (typically number of nodes locally)" alt="" coords="294,530,502,557"/>
+<area shape="rect" id="node20" href="$class_c_sys_vector.html#a1cd28b2340a1c75afe14d86765e839ed" title="return the number of variables at each block (typically number per node)" alt="" coords="319,581,477,607"/>
+<area shape="rect" id="node3" href="$class_c_sys_matrix.html#a776200533f4cc0ede662f594a329585c" title="Copies the block (i, j) of the matrix&#45;by&#45;blocks structure in the internal variable *block." alt="" coords="1137,155,1300,182"/>
+<area shape="rect" id="node4" href="$class_c_sys_matrix.html#a377c564f769c6675b36f652fe224668a" title="Copies the block (i, j) of the matrix&#45;by&#45;blocks structure in the internal variable *block." alt="" coords="1137,301,1300,343"/>
+<area shape="rect" id="node5" href="$class_c_sys_matrix.html#a8ec0efb9fb2e39be5f2cf5cdafbdddd9" title="Inverse diagonal block." alt="" coords="593,253,804,295"/>
+<area shape="rect" id="node7" href="$class_c_sys_matrix.html#a2b1db6b279084b58f01d2e3b723f27d0" title="Calculates the matrix&#45;matrix product." alt="" coords="605,319,793,360"/>
+<area shape="rect" id="node8" href="$class_c_sys_matrix.html#a55d16a0e646ccf7e1cc946a67120a5e9" title="Set the value of a block in the sparse matrix." alt="" coords="618,384,779,425"/>
+<area shape="rect" id="node9" href="$class_c_sys_matrix.html#ad9f1305832d037087f74959618c6e4d5" title="Set the transposed value of a block in the sparse matrix." alt="" coords="581,71,816,112"/>
+<area shape="rect" id="node10" href="$class_c_sys_matrix.html#a12ac6b966d5eee8eece43643790be8f8" title="Subtracts the specified block to the sparse matrix." alt="" coords="601,136,796,177"/>
+<area shape="rect" id="node6" href="$class_c_sys_matrix.html#a41dc69a74ca1a0b4c7c2b1ad932cfaf6" title="Performs the Gauss Elimination algorithm to solve the linear subsystem of the (i, i) subblock and rhs..." alt="" coords="864,253,1089,295"/>
+<area shape="rect" id="node12" href="$class_c_sys_matrix.html#addc33c24def2868737dc20d461492791" title="Inverse diagonal block." alt="" coords="593,5,804,47"/>
+<area shape="rect" id="node13" href="$class_c_sys_matrix.html#a9e00317d505ac177d884a1a6ddf3677f" title="Performs the Gauss Elimination algorithm to solve the linear subsystem of the (i, i) subblock and rhs..." alt="" coords="864,82,1089,109"/>
+<area shape="rect" id="node15" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="606,501,791,527"/>
+</map>

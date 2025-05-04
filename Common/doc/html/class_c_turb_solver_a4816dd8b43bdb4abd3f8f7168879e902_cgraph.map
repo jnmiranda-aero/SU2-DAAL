@@ -1,0 +1,28 @@
+<map id="CTurbSolver::Upwind_Residual" name="CTurbSolver::Upwind_Residual">
+<area shape="rect" id="node1" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,613,161,654"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a8c2c7f8ca02d0e8685373e38ca29d9d0" title="Adds the specified block to the sparse matrix." alt="" coords="248,5,413,32"/>
+<area shape="rect" id="node4" href="$class_c_sys_vector.html#a7ef472e160b4bfee4fac427e5c08022b" title="Add val_residual to the residual." alt="" coords="249,56,413,83"/>
+<area shape="rect" id="node5" href="$class_c_numerics.html#abe734316e0047f463f059fd77a281958" title="Compute the numerical residual." alt="" coords="223,107,439,133"/>
+<area shape="rect" id="node6" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="264,157,397,184"/>
+<area shape="rect" id="node7" href="$class_c_variable.html#a9dc639453d847d255efd5eb473dd0852" title="Get the value of the solution gradient." alt="" coords="245,208,416,235"/>
+<area shape="rect" id="node8" href="$class_c_variable.html#a235623c42fc699bc5de18f721b23d49c" title="A virtual member." alt="" coords="245,259,416,301"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="227,325,434,352"/>
+<area shape="rect" id="node10" href="$class_c_point.html#a62ec636f4a05ac578b582a053e8553f9" title="Get the value of the grid velocity at the point." alt="" coords="259,376,402,403"/>
+<area shape="rect" id="node11" href="$class_c_config.html#adb6cca30109a0f88831a803bc1f7415b" title="Get the method for limiting the spatial gradients." alt="" coords="209,427,452,453"/>
+<area shape="rect" id="node12" href="$class_c_variable.html#a6598ed6e88a864bbc5344c2671047ebd" title="Get the value of the slope limiter." alt="" coords="250,477,411,504"/>
+<area shape="rect" id="node13" href="$class_c_variable.html#a24d9b4d508d7af772f9329c52b244b21" title="A virtual member." alt="" coords="250,529,411,570"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a5ae4532739df40f6990d3a47bf0354b1" title="Get if the upwind scheme used MUSCL or not." alt="" coords="239,595,422,621"/>
+<area shape="rect" id="node15" href="$class_c_geometry.html#a7d6e1e1d1e46da8f55ecbe1a9380530a" title="Get number of edges." alt="" coords="247,645,414,672"/>
+<area shape="rect" id="node16" href="$class_c_edge.html#aee33b61d646e3fe59a4e23284ab1bf33" title="Get the nodes of the edge." alt="" coords="267,696,395,723"/>
+<area shape="rect" id="node17" href="$class_c_edge.html#ada210a6f0643f444e7e491fc4ed9e662" title="Copy the the normal vector of a face." alt="" coords="259,747,402,773"/>
+<area shape="rect" id="node18" href="$class_c_solver.html#a81ef651a55bb5ebec69795be4d26dcac" title="Get the number of variables of the problem." alt="" coords="234,797,427,824"/>
+<area shape="rect" id="node19" href="$class_c_variable.html#a5fc23761cf67841ab946fc6e8b4f019d" title="A virtual member." alt="" coords="243,848,418,875"/>
+<area shape="rect" id="node20" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="247,899,415,925"/>
+<area shape="rect" id="node21" href="$class_c_numerics.html#ae15b9e4ad2008444365109c434e24207" title="Set the velocity of the computational grid." alt="" coords="246,949,415,976"/>
+<area shape="rect" id="node22" href="$class_c_numerics.html#a41903d97957f351cd9ee63ca404985b1" title="Set the value of the normal vector to the face between two points." alt="" coords="245,1000,416,1027"/>
+<area shape="rect" id="node23" href="$class_c_numerics.html#af72b17d397adf09beed2e99e2daf895c" title="Set the value of the primitive variables." alt="" coords="240,1051,421,1077"/>
+<area shape="rect" id="node24" href="$class_c_numerics.html#a694708b330c1e25e59f3b3ee8be64fbb" title="Set the value of the turbulent variable." alt="" coords="245,1101,416,1128"/>
+<area shape="rect" id="node25" href="$class_c_sys_matrix.html#a0c6e3335f161b70247ac06e22eee6dfc" title="Subtracts the specified block to the sparse matrix." alt="" coords="233,1152,428,1179"/>
+<area shape="rect" id="node26" href="$class_c_sys_vector.html#aa2de9022590ea6b06950ef6b8afb77a2" title="Subtract val_residual to the residual." alt="" coords="234,1203,427,1229"/>
+<area shape="rect" id="node3" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="500,579,655,605"/>
+</map>

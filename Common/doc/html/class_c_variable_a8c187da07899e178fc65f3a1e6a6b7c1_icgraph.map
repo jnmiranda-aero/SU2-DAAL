@@ -1,0 +1,5 @@
+<map id="CVariable::AddAuxVarGradient" name="CVariable::AddAuxVarGradient">
+<area shape="rect" id="node1" title="Add a value to the auxiliary variable gradient." alt="" coords="424,13,643,39"/>
+<area shape="rect" id="node2" href="$class_c_solver.html#a4831cdf2f3fdb7f6d3d84dca312e75eb" title="Compute the Green&#45;Gauss gradient of the auxiliary variable." alt="" coords="229,5,376,47"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#aaa52f2305bb8f93d51fd0910c1ddeec9" title="Source term integration." alt="" coords="5,5,181,47"/>
+</map>

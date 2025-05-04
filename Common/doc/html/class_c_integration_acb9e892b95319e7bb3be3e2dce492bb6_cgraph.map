@@ -1,0 +1,10 @@
+<map id="CIntegration::SetStructural_Solver" name="CIntegration::SetStructural_Solver">
+<area shape="rect" id="node1" title="Save the structural solution at different time steps." alt="" coords="5,158,200,199"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a9776c63953c047138e0f81d5b51cd895" title="Check if the simulation we are running is a FSI simulation." alt="" coords="248,5,447,32"/>
+<area shape="rect" id="node3" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="264,56,431,83"/>
+<area shape="rect" id="node4" href="$class_c_solver.html#abb2ce000ca52a117db996a9579c060c9" title="A virtual member." alt="" coords="253,107,442,133"/>
+<area shape="rect" id="node5" href="$class_c_variable.html#ae97349298c4d88a7097153eb9a0efe32" title="Set the value of the acceleration (Structural Analysis) at time n." alt="" coords="264,158,431,199"/>
+<area shape="rect" id="node6" href="$class_c_variable.html#a0906b2d185c066f72983d1b2aae06e8d" title="Set the value of the old solution." alt="" coords="264,223,431,265"/>
+<area shape="rect" id="node7" href="$class_c_variable.html#a9089204af81763474326b097bb4d8715" title="Set the value of the velocity (Structural Analysis) at time n." alt="" coords="264,289,431,330"/>
+<area shape="rect" id="node8" href="$class_c_solver.html#ac04105381a6459f440cd01bd86602637" title="A virtual member." alt="" coords="270,354,425,395"/>
+</map>

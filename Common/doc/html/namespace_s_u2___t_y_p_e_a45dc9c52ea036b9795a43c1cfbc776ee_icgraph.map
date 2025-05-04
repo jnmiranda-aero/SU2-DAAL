@@ -1,0 +1,5 @@
+<map id="SU2_TYPE::GetSecondary" name="SU2_TYPE::GetSecondary">
+<area shape="rect" id="node1" title="Get the secondary value of the datatype (needs to be implemented for each new type)." alt="" coords="220,46,407,73"/>
+<area shape="rect" id="node2" href="$class_c_n_s_solver.html#a4b946463a9868faaa73fa1f40ee5e675" title="Compute the viscous residuals." alt="" coords="15,5,163,47"/>
+<area shape="rect" id="node3" href="$class_c_inc_n_s_solver.html#aa65d2bbb69dab2bbe40d3495d80da207" title="Compute the viscous residuals." alt="" coords="5,71,172,112"/>
+</map>

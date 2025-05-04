@@ -1,0 +1,4 @@
+<map id="CSysMatrix::Gauss_Elimination_ILUMatrix" name="CSysMatrix::Gauss_Elimination_ILUMatrix">
+<area shape="rect" id="node1" title="Performs the Gauss Elimination algorithm to solve the linear subsystem of the (i, i) subblock and rhs..." alt="" coords="5,5,231,47"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a377c564f769c6675b36f652fe224668a" title="Copies the block (i, j) of the matrix&#45;by&#45;blocks structure in the internal variable *block." alt="" coords="279,5,441,47"/>
+</map>

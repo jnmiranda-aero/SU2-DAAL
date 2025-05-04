@@ -1,0 +1,8 @@
+<map id="CConfig::GetRestart_Bandwidth_Agg" name="CConfig::GetRestart_Bandwidth_Agg">
+<area shape="rect" id="node1" title="Set the sum of the bandwidth for writing binary restarts (to be averaged later)." alt="" coords="884,5,1035,47"/>
+<area shape="rect" id="node2" href="$class_c_driver.html#a5db0cab2665d7cb25e6ba9954f712f59" title="Output the solution in solution file." alt="" coords="307,13,429,39"/>
+<area shape="rect" id="node5" href="$class_c_output.html#a6a3f3d7e3b16a1c13af868c1143534f3" title="Write a native SU2 restart file (binary) in parallel." alt="" coords="671,35,836,76"/>
+<area shape="rect" id="node3" href="$class_c_driver.html#afa3fd46c5fb93979a385bd3910b107a4" title="Launch the computation for all zones and all physics." alt="" coords="108,13,259,39"/>
+<area shape="rect" id="node4" href="$_s_u2___c_f_d_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,13,60,39"/>
+<area shape="rect" id="node6" href="$class_c_output.html#aabf70f264a2b4b1aa3eb59b22040217d" title="Writes and organizes the all the output files, except the history one, for parallel computations." alt="" coords="477,35,623,76"/>
+</map>

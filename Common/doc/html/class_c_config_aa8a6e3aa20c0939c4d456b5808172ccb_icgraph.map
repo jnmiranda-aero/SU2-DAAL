@@ -1,0 +1,4 @@
+<map id="CConfig::GetKind_SlopeLimit_AdjTurb" name="CConfig::GetKind_SlopeLimit_AdjTurb">
+<area shape="rect" id="node1" title="Get the method for limiting the spatial gradients." alt="" coords="231,5,439,47"/>
+<area shape="rect" id="node2" href="$class_c_adj_turb_solver.html#ad7f35bfeec670ed4357083ecdada59f5" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,5,183,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CCentJST_AdjFlow::CCentJST_AdjFlow" name="CCentJST_AdjFlow::CCentJST_AdjFlow">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,107,212,149"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a5f01bbbd9c331ecea38eebbe9cc9cd4e" title="Get the value of the Gamma of fluid (ratio of specific heats)." alt="" coords="286,5,441,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="260,56,467,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a7df31afd2bbaad4c68567cc717c5f6c5" title="Value of the calibrated constant for the high order method (center scheme)." alt="" coords="276,107,451,149"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a58fab477828897b873a07c89fc011294" title="Value of the calibrated constant for the high order method (center scheme)." alt="" coords="277,173,449,214"/>
+<area shape="rect" id="node6" href="$class_c_config.html#ab9d0e23db2d8f044b0b09915e92ef003" title="Get the kind of integration scheme (explicit or implicit) for the adjoint flow equations." alt="" coords="269,238,458,279"/>
+</map>

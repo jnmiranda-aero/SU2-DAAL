@@ -1,0 +1,7 @@
+<map id="CDiscAdjFEASolver::RegisterObj_Func" name="CDiscAdjFEASolver::RegisterObj_Func">
+<area shape="rect" id="node1" title="Register the objective function as output." alt="" coords="5,74,160,115"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a2d4389021feaed9f2e62f0475f73a718" title="Get the kind of objective function. There are several options: Drag coefficient, Lift coefficient,..." alt="" coords="223,5,413,32"/>
+<area shape="rect" id="node3" href="$class_c_solver.html#a79e789306623dd2a3e0f735dd3edea8c" title="A virtual member." alt="" coords="208,56,428,83"/>
+<area shape="rect" id="node4" href="$class_c_solver.html#aefa81e3179719a7426544a5528220d4b" title="A virtual member." alt="" coords="211,107,425,133"/>
+<area shape="rect" id="node5" href="$namespace_a_d.html#ae381e45797545e980376c4aeb3f5afdc" title="Registers the variable as an output. I.e. as the root of the computational graph." alt="" coords="245,157,391,184"/>
+</map>

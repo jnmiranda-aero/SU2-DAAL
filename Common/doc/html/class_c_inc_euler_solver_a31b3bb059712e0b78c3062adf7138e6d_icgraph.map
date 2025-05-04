@@ -1,0 +1,7 @@
+<map id="CIncEulerSolver::GetVelocity_Inf" name="CIncEulerSolver::GetVelocity_Inf">
+<area shape="rect" id="node1" title="Get the velocity at the infinity." alt="" coords="557,42,788,69"/>
+<area shape="rect" id="node2" href="$class_c_inc_euler_solver.html#abd738a529f7f77c97587c6785b0f40d3" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="317,5,468,47"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#a92be9b5078764b071873efa02a8f720d" title="Update the AoA and freestream velocity at the farfield." alt="" coords="276,71,509,98"/>
+<area shape="rect" id="node4" href="$class_c_inc_euler_solver.html#aabd902b10cc9b41b6b2c406efba0ac41" title="Compute primitive variables and their gradients." alt="" coords="5,46,228,73"/>
+<area shape="rect" id="node5" href="$class_c_inc_n_s_solver.html#ae84f6e86313acd1da80c505b4eab81e5" title="Restart residual and compute gradients." alt="" coords="13,97,221,123"/>
+</map>

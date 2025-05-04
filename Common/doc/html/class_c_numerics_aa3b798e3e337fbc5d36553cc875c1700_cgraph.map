@@ -1,0 +1,6 @@
+<map id="CNumerics::SetRoe_Dissipation" name="CNumerics::SetRoe_Dissipation">
+<area shape="rect" id="node1" title="Calculate the central/upwind blending function for a face" alt="" coords="5,31,232,57"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="299,5,480,32"/>
+<area shape="rect" id="node4" href="$class_c_config.html#ac5bec4548aaef1effa84ad7a3a038e35" title="Get the Kind of Roe Low Dissipation Scheme for Unsteady flows." alt="" coords="280,56,499,83"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="547,5,732,32"/>
+</map>

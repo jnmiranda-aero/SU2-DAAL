@@ -1,0 +1,4 @@
+<map id="CDriver::GetVertexUnitNormal" name="CDriver::GetVertexUnitNormal">
+<area shape="rect" id="node1" title="Get the unit normal (vector) at a vertex on a specified marker." alt="" coords="5,5,224,32"/>
+<area shape="rect" id="node2" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="272,5,424,32"/>
+</map>

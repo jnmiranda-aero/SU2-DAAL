@@ -1,0 +1,9 @@
+<map id="CFreeFormDefBox::SetDeformationZone" name="CFreeFormDefBox::SetDeformationZone">
+<area shape="rect" id="node1" title="Set the zone of the computational domain that is going to be deformed." alt="" coords="5,148,289,175"/>
+<area shape="rect" id="node2" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="361,5,494,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a39608d00420cf8dd5357045aafdf2d23" title="Get the DV information for a marker val_marker." alt="" coords="353,57,501,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="337,123,517,149"/>
+<area shape="rect" id="node5" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="358,173,497,200"/>
+<area shape="rect" id="node6" href="$class_c_geometry.html#acb9a369092f40474ac2dd355f305c421" title="Get the distance between a plane (defined by three point) and a point." alt="" coords="337,225,517,266"/>
+<area shape="rect" id="node7" href="$class_c_point.html#aa6e93eb06becf749be13cc18557878a8" title="Set if a element is going to be moved on the deformation process." alt="" coords="363,291,492,317"/>
+</map>

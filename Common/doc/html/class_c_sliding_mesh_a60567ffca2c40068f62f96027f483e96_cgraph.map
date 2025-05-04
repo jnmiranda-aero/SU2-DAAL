@@ -1,0 +1,37 @@
+<map id="CSlidingMesh::Set_TransferCoeff" name="CSlidingMesh::Set_TransferCoeff">
+<area shape="rect" id="node1" title="Set up transfer matrix defining relation between two meshes." alt="" coords="5,517,204,558"/>
+<area shape="rect" id="node2" href="$class_c_vertex.html#a7f3097457b1ed06f44ffbdef83e0ac95" title="Allocate memory based on how many donor points need to be stored. Uses nDonor_Points." alt="" coords="271,5,476,32"/>
+<area shape="rect" id="node3" href="$class_c_sliding_mesh.html#af0642726aca45ec0226f9a97d112bf5f" title="For 3&#45;Dimensional grids, build the dual surface element." alt="" coords="292,57,455,98"/>
+<area shape="rect" id="node4" href="$class_c_interpolator.html#a9c2a32da64f71f2a572432aea04a74bf" title="Check whether the interface should be processed or not." alt="" coords="267,290,480,331"/>
+<area shape="rect" id="node8" href="$class_c_sliding_mesh.html#ac3bdfa5cf559f126317074bf6ed13f81" title="For 3&#45;Dimensional grids, compute intersection area between two triangle projected on a given plane." alt="" coords="285,677,462,718"/>
+<area shape="rect" id="node12" href="$class_c_sliding_mesh.html#a632741380526ee7c8f761548e7ef50ee" title="For 2&#45;Dimensional grids, compute intersection length of two segments projected along a given directio..." alt="" coords="271,225,475,266"/>
+<area shape="rect" id="node13" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="604,111,765,137"/>
+<area shape="rect" id="node14" href="$class_c_interpolator.html#a34916a96991dfe596a4ad13b40e7333e" title="Find the index of the interface marker shared by that zone." alt="" coords="302,742,445,783"/>
+<area shape="rect" id="node17" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="618,263,751,289"/>
+<area shape="rect" id="node18" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="611,313,758,340"/>
+<area shape="rect" id="node19" href="$class_c_point.html#ab546170a5a03ef210a75fc5531910050" title="Get the global index in a parallel computation." alt="" coords="598,719,771,745"/>
+<area shape="rect" id="node20" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="615,769,754,796"/>
+<area shape="rect" id="node21" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="297,808,449,835"/>
+<area shape="rect" id="node22" href="$class_c_geometry.html#a55427e474834af1941e13750b17975be" title="Get number of vertices." alt="" coords="597,820,773,847"/>
+<area shape="rect" id="node23" href="$class_c_interpolator.html#a15a536f1d2f5b304828c28114d75d1f4" title="compute distance between 2 points" alt="" coords="267,123,479,149"/>
+<area shape="rect" id="node24" href="$class_c_interpolator.html#a0e540fa087c1e38014304821955de9e3" title="Recontstruct the boundary connectivity from parallel partitioning and broadcasts it to all threads." alt="" coords="277,458,469,499"/>
+<area shape="rect" id="node32" href="$class_c_vertex.html#a29156fe2ff5bac10769432ad808c9e41" title="Set the coefficient value of a donor point." alt="" coords="286,859,461,885"/>
+<area shape="rect" id="node33" href="$class_c_vertex.html#a0153fb00aef6d2a84547c12b31b7e721" title="Set the donor point of a vertex for interpolation across zones." alt="" coords="267,909,479,936"/>
+<area shape="rect" id="node34" href="$class_c_vertex.html#a555c1fa2e815fdd77b7eec521d6d9aa9" title="Set the donor point of a vertex for interpolation across zones." alt="" coords="252,960,495,987"/>
+<area shape="rect" id="node35" href="$class_c_vertex.html#a44d33cf4328e7536b9e369aa316f22e1" title="Set the value of nDonor_Points." alt="" coords="279,1011,468,1037"/>
+<area shape="rect" id="node5" href="$class_c_base_m_p_i_wrapper.html#ae816a2f124ea5ae95337418462514df5" title=" " alt="" coords="591,212,778,239"/>
+<area shape="rect" id="node6" href="$class_c_base_m_p_i_wrapper.html#a39e59958c13f7fefc74062ba2ff149f1" title=" " alt="" coords="587,161,782,188"/>
+<area shape="rect" id="node7" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="875,415,1089,441"/>
+<area shape="rect" id="node9" href="$class_c_sliding_mesh.html#a21d1b13747a6ed480a67f75442276f01" title="For 3&#45;Dimensional grids, compute intersection area between two triangle projected on a given plane P1..." alt="" coords="543,871,827,897"/>
+<area shape="rect" id="node10" href="$class_c_sliding_mesh.html#a50fae39c2e8715bed0a7c0a806667159" title="For N&#45;Dimensional grids, check whether a point is inside a triangle specified by 3 T points." alt="" coords="887,895,1077,937"/>
+<area shape="rect" id="node11" href="$class_c_sliding_mesh.html#a98d154a814c506b22222115de8fe771e" title="For 2&#45;Dimensional grids, check whether, and compute, two lines are intersecting." alt="" coords="880,830,1084,871"/>
+<area shape="rect" id="node15" href="$class_c_config.html#ad7e1b2f0ee9749cc62c5394ae761ae0e" title="Get the FSI interface information for a marker val_marker." alt="" coords="611,922,759,963"/>
+<area shape="rect" id="node16" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="595,988,775,1015"/>
+<area shape="rect" id="node25" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="579,668,790,695"/>
+<area shape="rect" id="node26" href="$class_c_point.html#ab38e63c5f4c18c6353ce10d55b94f4e2" title="Get all the edges that compose the control volume." alt="" coords="621,364,748,391"/>
+<area shape="rect" id="node27" href="$class_c_edge.html#aee33b61d646e3fe59a4e23284ab1bf33" title="Get the nodes of the edge." alt="" coords="621,415,749,441"/>
+<area shape="rect" id="node28" href="$class_c_point.html#adbb78f3c01711ed0349897f845e3f2d8" title="Get the number of points that compose the control volume." alt="" coords="617,465,753,492"/>
+<area shape="rect" id="node29" href="$class_c_point.html#aceac27af50af6500a034b86b329532a0" title="Get the vertex that compose the control volume for a marker." alt="" coords="616,516,753,543"/>
+<area shape="rect" id="node30" href="$class_c_base_m_p_i_wrapper.html#a2a0cf206352327fc745b3848b8c6d130" title=" " alt="" coords="593,567,776,593"/>
+<area shape="rect" id="node31" href="$class_c_base_m_p_i_wrapper.html#a69f265853f7b081427a7a9d3d8151fbd" title=" " alt="" coords="593,617,776,644"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="CFEASolver::Set_ReferenceGeometry" name="CFEASolver::Set_ReferenceGeometry">
+<area shape="rect" id="node1" title="Set a reference geometry for ." alt="" coords="5,217,204,258"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="252,5,463,32"/>
+<area shape="rect" id="node4" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="267,56,448,83"/>
+<area shape="rect" id="node6" href="$class_c_geometry.html#a22f1fbc70d2133f1d1924cc7b56caee9" title="A virtual member." alt="" coords="273,107,441,149"/>
+<area shape="rect" id="node7" href="$class_c_point.html#ab546170a5a03ef210a75fc5531910050" title="Get the global index in a parallel computation." alt="" coords="271,173,444,200"/>
+<area shape="rect" id="node8" href="$class_c_config.html#ac09e21f44792b38adb3f933a4426b25f" title="Provides the number of varaibles." alt="" coords="287,224,427,251"/>
+<area shape="rect" id="node9" href="$class_c_config.html#aefa1a86d2c906eb6bb146578d55114f7" title="Append the zone index to the restart or the solution files." alt="" coords="274,275,441,317"/>
+<area shape="rect" id="node13" href="$class_c_geometry.html#a9c19673865bedc65b6f3a27ba7b81967" title="Get number of zones." alt="" coords="274,341,441,368"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a2771431d32e969bbf43c812deb5a90c0" title="Get the name of the file with the reference geometry of the structural problem." alt="" coords="275,393,439,434"/>
+<area shape="rect" id="node15" href="$class_c_config.html#a0500261e1afc265656004b8fa21326aa" title="Get the format of the reference geometry file." alt="" coords="275,458,439,499"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="511,5,725,32"/>
+<area shape="rect" id="node5" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="525,56,711,83"/>
+<area shape="rect" id="node10" href="$class_c_config.html#ad8a83ccc6af7a42273330d6bf596b8c0" title="Provides the number of varaibles." alt="" coords="546,257,690,284"/>
+<area shape="rect" id="node11" href="$namespace_s_u2___t_y_p_e.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="562,308,674,335"/>
+<area shape="rect" id="node12" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="773,308,928,335"/>
+</map>

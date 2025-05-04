@@ -1,0 +1,8 @@
+<map id="COutput::SetTecplotBinary_SurfaceMesh" name="COutput::SetTecplotBinary_SurfaceMesh">
+<area shape="rect" id="node1" title="Write the coordinates and connectivity to a Tecplot binary surface mesh file." alt="" coords="5,107,197,149"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a47df59fbfd882e2fa8fc71691292659b" title="Get the kind of SU2 software component." alt="" coords="260,5,425,32"/>
+<area shape="rect" id="node3" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="262,56,423,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#ace83eb7d2af376614684bff5ec11725c" title="Get the name of the file with the surface information for the flow problem." alt="" coords="245,107,440,149"/>
+<area shape="rect" id="node5" href="$class_c_config.html#aa66f4b12347d0950e1dcc74999015a0f" title="Get the name of the file with the surface sensitivity (discrete adjoint)." alt="" coords="263,173,423,214"/>
+<area shape="rect" id="node6" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="265,239,420,265"/>
+</map>

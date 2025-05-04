@@ -1,0 +1,20 @@
+<map id="CConfig::GetVenkat_LimiterCoeff" name="CConfig::GetVenkat_LimiterCoeff">
+<area shape="rect" id="node1" title="Get the value of limiter coefficient." alt="" coords="545,313,692,355"/>
+<area shape="rect" id="node2" href="$class_c_adj_euler_solver.html#a35fcc75148b249c56e3625ba23196856" title="Compute the inviscid sensitivity of the functional." alt="" coords="296,5,480,47"/>
+<area shape="rect" id="node3" href="$class_c_adj_euler_solver.html#af1b72ed76900f821d2f51942cb4252db" title="Compute the sensor for higher order dissipation control in rotating problems." alt="" coords="281,71,495,112"/>
+<area shape="rect" id="node6" href="$class_c_euler_solver.html#a43004a7f0fad7a6d1f435144710bf13e" title="Compute the limiter of the primitive variables." alt="" coords="291,280,485,321"/>
+<area shape="rect" id="node9" href="$class_c_inc_euler_solver.html#a00bd56828c4e41ec3ff1e8753cb320ec" title="Compute the limiter of the primitive variables." alt="" coords="282,345,494,387"/>
+<area shape="rect" id="node12" href="$class_c_disc_adj_solver.html#aa570642f4edea61f5e63084f454bbb1c" title="Extract and set the geometrical sensitivity." alt="" coords="279,411,497,438"/>
+<area shape="rect" id="node13" href="$class_c_disc_adj_solver.html#a8a793e843eaa6c8749381fdede828779" title="Extract and set the transpiration velocity sensitivity." alt="" coords="279,463,497,504"/>
+<area shape="rect" id="node14" href="$class_c_solver.html#a641e9c59698ab9c7c2fb91107ad70d77" title="Compute slope limiter." alt="" coords="311,153,465,195"/>
+<area shape="rect" id="node18" href="$class_c_adj_n_s_solver.html#ab05613f9de871991f55c2e1f12eac8dd" title="Compute the viscous sensitivity of the functional." alt="" coords="303,528,473,569"/>
+<area shape="rect" id="node4" href="$class_c_adj_euler_solver.html#a4ae0ed840dc8335fd921399625ba794f" title="Initialize the residual vectors." alt="" coords="5,69,231,95"/>
+<area shape="rect" id="node5" href="$class_c_adj_n_s_solver.html#ac16dab76e2c1d86bc7d70ca9f41fd668" title="Restart residual and compute gradients." alt="" coords="13,18,223,45"/>
+<area shape="rect" id="node7" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="16,338,220,365"/>
+<area shape="rect" id="node8" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="23,287,213,314"/>
+<area shape="rect" id="node10" href="$class_c_inc_euler_solver.html#aabd902b10cc9b41b6b2c406efba0ac41" title="Compute primitive variables and their gradients." alt="" coords="7,439,229,466"/>
+<area shape="rect" id="node11" href="$class_c_inc_n_s_solver.html#ae84f6e86313acd1da80c505b4eab81e5" title="Restart residual and compute gradients." alt="" coords="14,389,222,415"/>
+<area shape="rect" id="node15" href="$class_c_turb_s_a_solver.html#a225518dc5f0ca6ed894add826aaa16ea" title="Restart residual and compute gradients." alt="" coords="10,119,226,146"/>
+<area shape="rect" id="node16" href="$class_c_turb_s_s_t_solver.html#a653cf05307f24374fda6f523ce3130bf" title="Restart residual and compute gradients." alt="" coords="7,170,229,197"/>
+<area shape="rect" id="node17" href="$class_c_adj_turb_solver.html#ad7f35bfeec670ed4357083ecdada59f5" title="Compute the spatial integration using a upwind scheme." alt="" coords="29,221,207,263"/>
+</map>

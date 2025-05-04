@@ -1,0 +1,20 @@
+<map id="COutput::SetFieldViewBinary" name="COutput::SetFieldViewBinary">
+<area shape="rect" id="node1" title="Write solution data to a Tecplot binary volume solution file." alt="" coords="5,416,215,443"/>
+<area shape="rect" id="node2" href="$class_c_config.html#aed850e86bed053fd0c491efb848c2d33" title="Get the name of the file with the adjoint variables." alt="" coords="267,5,461,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a6020a5df7025ffb286f9b9f55f3f2773" title="Get the angle of attack of the body. This is the angle between a reference line on a lifting body (of..." alt="" coords="299,56,429,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a2917fd8eeb6a8bf275a3fc351aac2a5e" title="Determines if problem is adjoint." alt="" coords="276,107,452,149"/>
+<area shape="rect" id="node5" href="$class_c_config.html#abe9f117dab934d76e518a9e8e40b142a" title="Get the indicator whether we are solving an discrete adjoint problem." alt="" coords="285,173,443,214"/>
+<area shape="rect" id="node6" href="$class_c_config.html#aa48f2fc504ec2b261d5046f9a17677dd" title="Get the current external iteration number." alt="" coords="291,239,437,265"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a1069b71de3943ffe3156e28a91cbee2a" title="Get the name of the file with the flow variables." alt="" coords="263,289,465,316"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a72f091b6e9f7acbdd3e355018f687245" title="Get the name of the file with the wave variables." alt="" coords="263,340,465,367"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="274,391,454,417"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a47df59fbfd882e2fa8fc71691292659b" title="Get the kind of SU2 software component." alt="" coords="281,441,447,468"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a624138f0bb5ee7494459b8e25c5d6287" title="Get the value of the Mach number (velocity divided by speed of sound)." alt="" coords="295,492,433,519"/>
+<area shape="rect" id="node12" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="283,543,445,569"/>
+<area shape="rect" id="node13" href="$class_c_config.html#a43d642b59f0e1dae7abd613f337f5cf4" title="Get the Reynolds number. Dimensionless number that gives a measure of the ratio of inertial forces to..." alt="" coords="283,593,445,620"/>
+<area shape="rect" id="node14" href="$class_c_config.html#ad6962383b0938705044d5cef91c34397" title="Get the name of the file with the structure variables." alt="" coords="283,645,445,686"/>
+<area shape="rect" id="node15" href="$class_c_config.html#a45e95664235928d911e7c3876fe078b3" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="281,710,447,751"/>
+<area shape="rect" id="node16" href="$class_c_config.html#aaa4ccd33d3acee59a6b07b410815cfae" title="Get information about writing unsteady headers and file extensions." alt="" coords="267,776,461,803"/>
+<area shape="rect" id="node17" href="$namespace_s_u2___t_y_p_e.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="308,827,420,853"/>
+<area shape="rect" id="node18" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="513,827,668,853"/>
+</map>

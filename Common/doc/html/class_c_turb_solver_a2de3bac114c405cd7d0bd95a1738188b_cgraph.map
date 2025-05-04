@@ -1,0 +1,4 @@
+<map id="CTurbSolver::SetSlidingStateStructure" name="CTurbSolver::SetSlidingStateStructure">
+<area shape="rect" id="node1" title="Allocates the final pointer of SlidingState depending on how many donor vertex donate to it...." alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node2" href="$class_c_turb_solver.html#a46c350419958a165af1b3c24ce230473" title="Get the number of outer state for fluid interface nodes." alt="" coords="260,5,443,47"/>
+</map>

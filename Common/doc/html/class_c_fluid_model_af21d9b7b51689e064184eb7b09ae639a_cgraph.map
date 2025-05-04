@@ -1,0 +1,8 @@
+<map id="CFluidModel::SetThermalConductivityModel" name="CFluidModel::SetThermalConductivityModel">
+<area shape="rect" id="node1" title="Set thermal conductivity model." alt="" coords="5,115,273,156"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a21815dd5c18f4d1029a1717de952ebea" title="Get the value of the thermal conductivity model." alt="" coords="321,5,543,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="342,71,522,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a9902362e404162a3aaac7dd6c2c2e895" title="Get the value of the non&#45;dimensional thermal conductivity." alt="" coords="331,122,533,149"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a619cb1400d6c944e83ad0ffe82deb021" title="Get the value of the laminar Prandtl number." alt="" coords="340,173,524,199"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a2fca6d5964fb443f9d517df57659ccbc" title="Get the value of the turbulent Prandtl number." alt="" coords="341,223,523,250"/>
+</map>

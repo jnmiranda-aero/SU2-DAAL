@@ -1,0 +1,11 @@
+<map id="CVariable::GetSolution_Vel_time_n" name="CVariable::GetSolution_Vel_time_n">
+<area shape="rect" id="node1" title="Get the velocity of the nodes (Structural Analysis) at time n." alt="" coords="273,235,441,276"/>
+<area shape="rect" id="node2" href="$class_c_f_e_a_solver.html#aaa1e795326f0783782caf710c93a0e05" title="Compute the stress at the nodes for output purposes." alt="" coords="33,5,197,47"/>
+<area shape="rect" id="node3" href="$class_c_f_e_a_solver.html#a78a7858bc1a78f4aa8c8ed748f270966" title="Iterate using an implicit Generalized Alpha solver." alt="" coords="5,71,225,112"/>
+<area shape="rect" id="node4" href="$class_c_f_e_a_solver.html#ae2bac89cd2c2b5c052f21b1815ce0348" title="Update the solution using an implicit Generalized Alpha solver." alt="" coords="5,136,225,177"/>
+<area shape="rect" id="node5" href="$class_c_f_e_a_solver.html#aa83ba08ae1eb93bd08512fd4b212d7bc" title="Iterate using an implicit Newmark solver." alt="" coords="7,201,224,243"/>
+<area shape="rect" id="node6" href="$class_c_f_e_a_solver.html#afc818eebdc8cd168090a1abd5764425f" title="A virtual member." alt="" coords="7,267,224,308"/>
+<area shape="rect" id="node7" href="$class_c_f_e_a_solver.html#ae2afb9595361d9ead55f76ae5d89df02" title="Update the solution using an implicit Newmark solver." alt="" coords="7,332,224,373"/>
+<area shape="rect" id="node8" href="$class_c_f_e_a_solver.html#ab8b79fc37aa3049aff044a2258a6731a" title="Predictor for structural displacements based on previous iterations." alt="" coords="21,397,209,439"/>
+<area shape="rect" id="node9" href="$class_c_disc_adj_f_e_a_solver.html#a3aa3cdeeabde58197282da02e36247b5" title="Prepare the solver for a new recording." alt="" coords="38,463,193,504"/>
+</map>

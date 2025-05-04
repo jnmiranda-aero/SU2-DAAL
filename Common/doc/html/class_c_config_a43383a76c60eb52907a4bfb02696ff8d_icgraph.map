@@ -1,0 +1,6 @@
+<map id="CConfig::GetLoad_Sine" name="CConfig::GetLoad_Sine">
+<area shape="rect" id="node1" title="Get the sine load properties." alt="" coords="481,31,651,57"/>
+<area shape="rect" id="node2" href="$class_c_f_e_a_solver.html#a6ac1e4e9ada22885cf892806b2d83cfc" title="Get multiplier for loads." alt="" coords="269,23,433,65"/>
+<area shape="rect" id="node3" href="$class_c_f_e_a_solver.html#ab91a788a4b5e651883b522290c5cffa0" title="Impose a load boundary condition in cartesian coordinates." alt="" coords="20,5,207,32"/>
+<area shape="rect" id="node4" href="$class_c_f_e_a_solver.html#aeb5416c624b48c1b541d831c16f8acb2" title="Impose a load boundary condition normal to the boundary." alt="" coords="5,56,221,83"/>
+</map>

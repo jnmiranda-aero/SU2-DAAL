@@ -1,0 +1,10 @@
+<map id="CFEMStandardInternalFace::GetNDOFsFaceSide1" name="CFEMStandardInternalFace::GetNDOFsFaceSide1">
+<area shape="rect" id="node1" title="Function, which makes available the number of DOFs on side 1 of the face." alt="" coords="1057,93,1253,135"/>
+<area shape="rect" id="node2" href="$class_c_f_e_m___d_g___euler_solver.html#a677fa998b78bd489a3f8bee0d56623dd" title=" " alt="" coords="791,5,966,47"/>
+<area shape="rect" id="node3" href="$class_c_f_e_m___d_g___euler_solver.html#ab7546cb31b73191bbac2b338c88cfbc4" title="Function, which computes the inviscid fluxes in the face integration points of a chunk of matching in..." alt="" coords="748,123,1009,164"/>
+<area shape="rect" id="node4" href="$class_c_f_e_m___d_g___euler_solver.html#a8875e58364f55e735fc3732f545d5f29" title="Compute the spatial residual for the given range of faces. It is a virtual function,..." alt="" coords="509,77,675,119"/>
+<area shape="rect" id="node8" href="$class_c_f_e_m___d_g___n_s_solver.html#a5afc06c0edede6e3917a6b24158930ba" title="Compute the spatial residual for the given range of faces." alt="" coords="484,156,700,197"/>
+<area shape="rect" id="node5" href="$class_c_f_e_m___d_g___euler_solver.html#a651cad1a94f2024c75a1a8be347e3375" title="Function, which processes the list of tasks to be executed by the DG solver." alt="" coords="269,77,436,119"/>
+<area shape="rect" id="node6" href="$class_c_f_e_m___d_g___euler_solver.html#a7f0da04d44069701db2228210b91c59e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="5,44,221,85"/>
+<area shape="rect" id="node7" href="$class_c_f_e_m___d_g___euler_solver.html#ac59d8dae95e3c3cc3ab3feaeb9be4b22" title="Function, which controls the computation of the spatial Jacobian." alt="" coords="19,109,208,151"/>
+</map>

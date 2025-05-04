@@ -1,0 +1,26 @@
+<map id="CTurbSASolver::BC_HeatFlux_Wall" name="CTurbSASolver::BC_HeatFlux_Wall">
+<area shape="rect" id="node1" title="Impose the Navier&#45;Stokes wall boundary condition." alt="" coords="5,157,249,184"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a61a11d998a224aff7e0a8a4fba1041ec" title="Deletes the values of the row i of the sparse matrix." alt="" coords="579,5,786,32"/>
+<area shape="rect" id="node3" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="609,56,756,83"/>
+<area shape="rect" id="node4" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="613,107,752,133"/>
+<area shape="rect" id="node5" href="$class_c_config.html#ad0213bb2631f9e9ebb9d81e3431e2806" title="Get information about whether to use wall functions." alt="" coords="309,587,509,613"/>
+<area shape="rect" id="node6" href="$class_c_sys_vector.html#ac2b8ed7c13757ad68487d3891337265b" title="Set the residual to zero." alt="" coords="584,157,781,184"/>
+<area shape="rect" id="node7" href="$class_c_turb_s_a_solver.html#a939bd9305ddd11a3079a9987bd832a5d" title="Compute nu tilde from the wall functions." alt="" coords="297,485,521,512"/>
+<area shape="rect" id="node24" href="$class_c_variable.html#ac16f264b34b639ad8aeace755a98f0c8" title="Set the value of the old solution." alt="" coords="585,1083,780,1109"/>
+<area shape="rect" id="node8" href="$class_c_point.html#a910175d25dd3b6244a35221cc73eebf0" title="Provides information about if a point belong to the boundaries." alt="" coords="604,1032,761,1059"/>
+<area shape="rect" id="node9" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="616,208,749,235"/>
+<area shape="rect" id="node10" href="$class_c_variable.html#a48edcfacf9418f8e2a00416e92f71fde" title="A virtual member." alt="" coords="600,259,765,285"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a6d835a954bb5e99c5a3de6db5ed24ff3" title="Get the value of specific gas constant." alt="" coords="576,309,789,336"/>
+<area shape="rect" id="node12" href="$class_c_variable.html#a235623c42fc699bc5de18f721b23d49c" title="A virtual member." alt="" coords="597,361,768,402"/>
+<area shape="rect" id="node13" href="$class_c_variable.html#aedbb79a282d44af4d52663eba96034f6" title="A virtual member." alt="" coords="569,427,796,453"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="609,478,757,519"/>
+<area shape="rect" id="node15" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="607,544,759,571"/>
+<area shape="rect" id="node16" href="$class_c_vertex.html#a8d2bce3a6ee62007179e688dc2b9b182" title="Get the value of the closest neighbor." alt="" coords="607,595,759,637"/>
+<area shape="rect" id="node17" href="$class_c_point.html#adbb78f3c01711ed0349897f845e3f2d8" title="Get the number of points that compose the control volume." alt="" coords="615,661,751,688"/>
+<area shape="rect" id="node18" href="$class_c_point.html#aab08fdab4e59c01d822afca5335a86af" title="Get all the points that compose the control volume." alt="" coords="619,712,747,739"/>
+<area shape="rect" id="node19" href="$class_c_config.html#a619cb1400d6c944e83ad0ffe82deb021" title="Get the value of the laminar Prandtl number." alt="" coords="591,763,775,789"/>
+<area shape="rect" id="node20" href="$class_c_variable.html#aa845fb5587ca68200ebd49440c8d1d9e" title="A virtual member." alt="" coords="597,813,768,840"/>
+<area shape="rect" id="node21" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="599,864,767,891"/>
+<area shape="rect" id="node22" href="$class_c_variable.html#a0304810342567ff058d49814bb53a355" title="A virtual member." alt="" coords="584,915,781,941"/>
+<area shape="rect" id="node23" href="$class_c_config.html#a13840ca712bf87d32d18917d0c39cfae" title="Get the vector of the non&#45;dimensionalized freestream velocity." alt="" coords="605,966,760,1007"/>
+</map>

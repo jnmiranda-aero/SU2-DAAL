@@ -1,0 +1,5 @@
+<map id="CFEASolver::ResetInitialCondition" name="CFEASolver::ResetInitialCondition">
+<area shape="rect" id="node1" title="Reset the initial condition for the FEM structural problem." alt="" coords="5,23,184,65"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a4e4e8521bf3fdb0037a7a61186ca706d" title="Check if we want to apply an incremental load to the nonlinear structural simulation." alt="" coords="232,5,444,32"/>
+<area shape="rect" id="node3" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="255,56,421,83"/>
+</map>

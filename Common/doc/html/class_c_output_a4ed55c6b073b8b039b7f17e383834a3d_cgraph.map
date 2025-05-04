@@ -1,0 +1,17 @@
+<map id="COutput::MergeBaselineSolution" name="COutput::MergeBaselineSolution">
+<area shape="rect" id="node1" title="Merge the solution into a data structure used for output file writing." alt="" coords="5,332,239,359"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="287,5,497,32"/>
+<area shape="rect" id="node4" href="$class_c_base_m_p_i_wrapper.html#a39e59958c13f7fefc74062ba2ff149f1" title=" " alt="" coords="295,56,489,83"/>
+<area shape="rect" id="node5" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="319,107,465,133"/>
+<area shape="rect" id="node6" href="$class_c_point.html#ab546170a5a03ef210a75fc5531910050" title="Get the global index in a parallel computation." alt="" coords="305,157,479,184"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="302,208,482,235"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="318,259,466,301"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a778a77ff2b9e1d359eab9b2d2106fa81" title="Get the send&#45;receive information for a marker val_marker." alt="" coords="318,325,466,366"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="302,391,482,417"/>
+<area shape="rect" id="node11" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="323,441,461,468"/>
+<area shape="rect" id="node12" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="309,492,475,519"/>
+<area shape="rect" id="node13" href="$class_c_vertex.html#a4f79701d89ed5eaaf6c4c41566a319d7" title="Get the type of rotation associated to the vertex." alt="" coords="294,543,490,569"/>
+<area shape="rect" id="node14" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="308,593,476,620"/>
+<area shape="rect" id="node15" href="$class_c_config.html#a3d32189ce78a3e64358b9d5030606ffa" title="Get information about writing rind layers to the solution files." alt="" coords="311,644,473,671"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="545,31,760,57"/>
+</map>

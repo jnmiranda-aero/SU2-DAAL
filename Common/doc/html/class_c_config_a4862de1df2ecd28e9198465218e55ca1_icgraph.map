@@ -1,0 +1,19 @@
+<map id="CConfig::GetKind_DiscAdj_Linear_Solver" name="CConfig::GetKind_DiscAdj_Linear_Solver">
+<area shape="rect" id="node1" title="Get the kind of solver for the implicit solver." alt="" coords="735,377,923,419"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#afde7aa884b394e2c329182f5279eca30" title="Assigns values to the sparse&#45;matrix structure." alt="" coords="512,385,687,411"/>
+<area shape="rect" id="node3" href="$class_c_sys_matrix.html#a1f6b00b8cbb17fcc60feb8ce2107ccab" title="Initializes space matrix system." alt="" coords="304,385,464,411"/>
+<area shape="rect" id="node4" href="$class_c_adj_euler_solver.html#a0a739888df9436d4707665d152a7af1a" title=" " alt="" coords="32,5,229,47"/>
+<area shape="rect" id="node5" href="$class_c_adj_n_s_solver.html#a323f1dc7c0b9fe00d1911eeeea365d46" title=" " alt="" coords="27,71,235,98"/>
+<area shape="rect" id="node6" href="$class_c_adj_turb_solver.html#a621bdae0b081f25a67425cc037cd90a2" title=" " alt="" coords="38,123,223,164"/>
+<area shape="rect" id="node7" href="$class_c_elasticity_movement.html#aedba9ef8d94cdc6bdcbff42dadaca6c9" title="Constructor of the class." alt="" coords="46,188,215,229"/>
+<area shape="rect" id="node8" href="$class_c_euler_solver.html#ae1e74218b4e943111b100d7ddcbd4db9" title=" " alt="" coords="33,254,229,281"/>
+<area shape="rect" id="node9" href="$class_c_f_e_a_solver.html#a1d4c7d17d9c7143d3079fc78fae1599d" title=" " alt="" coords="41,305,221,331"/>
+<area shape="rect" id="node10" href="$class_c_heat_solver_f_v_m.html#a42af03c3f465c905fbc3ecbee398f5be" title="Constructor of the class." alt="" coords="5,355,256,382"/>
+<area shape="rect" id="node11" href="$class_c_inc_euler_solver.html#a91f644b8f9a00215bac5bcd31dfc06d8" title=" " alt="" coords="34,407,227,448"/>
+<area shape="rect" id="node12" href="$class_c_inc_n_s_solver.html#a82152ac7e91fb1c5c073d98a1f08e2aa" title=" " alt="" coords="29,473,233,499"/>
+<area shape="rect" id="node13" href="$class_c_n_s_solver.html#a2a8ad49c42b4546696e631cf44b7788b" title=" " alt="" coords="47,523,214,550"/>
+<area shape="rect" id="node14" href="$class_c_trans_l_m_solver.html#a4975cbf30f2954e3da1244832999eda0" title=" " alt="" coords="13,574,249,601"/>
+<area shape="rect" id="node15" href="$class_c_turb_s_a_solver.html#a06a8b09d1563dd48f364ff6e97c25cd8" title=" " alt="" coords="21,625,241,651"/>
+<area shape="rect" id="node16" href="$class_c_turb_s_s_t_solver.html#a84beba65418c7c2ca4f4843b989b360a" title=" " alt="" coords="15,675,247,702"/>
+<area shape="rect" id="node17" href="$class_c_volumetric_movement.html#a6a95354e05a54fa2d2422f07de8bcc78" title="Constructor of the class." alt="" coords="41,727,220,768"/>
+</map>

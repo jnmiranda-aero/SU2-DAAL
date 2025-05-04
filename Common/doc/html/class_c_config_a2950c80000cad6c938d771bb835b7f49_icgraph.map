@@ -1,0 +1,10 @@
+<map id="CConfig::GetMultiInstance_HistoryFileName" name="CConfig::GetMultiInstance_HistoryFileName">
+<area shape="rect" id="node1" title="Append the instance index to the restart or the solution files." alt="" coords="1099,27,1289,69"/>
+<area shape="rect" id="node2" href="$class_c_output.html#ac4d334f212d5cf364aa4f8d2cfa9e42f" title="Write the header of the history file." alt="" coords="867,27,1051,69"/>
+<area shape="rect" id="node3" href="$class_c_driver.html#afac169e386a89af2a52be8902abb27f2" title="Constructor of the class." alt="" coords="677,5,805,32"/>
+<area shape="rect" id="node4" href="$class_c_disc_adj_f_s_i_driver.html#a139dfa2442613879f2b15f28a09c2bd5" title="Output the convergence history." alt="" coords="664,57,819,98"/>
+<area shape="rect" id="node5" href="$class_c_disc_adj_f_s_i_driver.html#a84949f139fa795b7d34d6ff77e82eb5c" title="Iterate a certain block for adjoint FSI &#45; may be the whole set of variables or independent and subite..." alt="" coords="469,57,616,98"/>
+<area shape="rect" id="node6" href="$class_c_disc_adj_f_s_i_driver.html#ab6dc73cea783398d2e4d40b56b8d142f" title="Iterate a block for adjoint FSI with flow Objective Function." alt="" coords="241,23,405,65"/>
+<area shape="rect" id="node8" href="$class_c_disc_adj_f_s_i_driver.html#a1199b609d2ec3ab24d9614a73c4ed74a" title="Iterate a block for adjoint FSI with structural Objective Function." alt="" coords="225,89,421,130"/>
+<area shape="rect" id="node7" href="$class_c_disc_adj_f_s_i_driver.html#a2e965d6e9c4dcfc296077cae225cab21" title="Run a Discrete Adjoint iteration for the FSI problem." alt="" coords="5,64,177,91"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CVariable::GetTranspiration" name="CVariable::GetTranspiration">
+<area shape="rect" id="node1" title=" " alt="" coords="236,111,435,138"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#ac2b01ff2a17b23c87a33f7ef14d6bd9b" title="Impose via the residual the Euler wall boundary condition." alt="" coords="11,5,182,47"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#ad5b55761332d50a6d3fbc8b46309ff9f" title="Impose via the residual the Euler wall boundary condition." alt="" coords="20,71,173,112"/>
+<area shape="rect" id="node4" href="$class_c_n_s_solver.html#a116645c6a7b9a4e11b3c690f3678126c" title="Impose via the residual the Euler wall boundary condition." alt="" coords="19,136,175,177"/>
+<area shape="rect" id="node5" href="$class_c_turb_s_a_solver.html#a139dedc94b9ff6f895c37cab4881a430" title="Impose via the residual the transpiration wall boundary condition." alt="" coords="5,201,188,243"/>
+</map>

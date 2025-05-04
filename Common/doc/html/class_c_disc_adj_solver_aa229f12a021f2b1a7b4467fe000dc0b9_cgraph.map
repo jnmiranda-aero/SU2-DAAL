@@ -1,0 +1,9 @@
+<map id="CDiscAdjSolver::CDiscAdjSolver" name="CDiscAdjSolver::CDiscAdjSolver">
+<area shape="rect" id="node1" title=" " alt="" coords="5,125,192,166"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a9776c63953c047138e0f81d5b51cd895" title="Check if the simulation we are running is a FSI simulation." alt="" coords="250,5,449,32"/>
+<area shape="rect" id="node3" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="269,56,430,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="259,107,439,133"/>
+<area shape="rect" id="node5" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="266,157,433,184"/>
+<area shape="rect" id="node6" href="$class_c_geometry.html#a4fc7de3bff7b6f8c35717016d6f8fcb2" title="Get number of real points (that belong to the domain)." alt="" coords="240,208,459,235"/>
+<area shape="rect" id="node7" href="$class_c_solver.html#a65c22046b0cf1938ba22648912d04680" title="Get the number of variables of the problem." alt="" coords="283,259,415,285"/>
+</map>

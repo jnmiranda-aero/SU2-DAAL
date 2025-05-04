@@ -1,0 +1,14 @@
+<map id="CConfig::SetMarker_All_SendRecv" name="CConfig::SetMarker_All_SendRecv">
+<area shape="rect" id="node1" title="Set if a marker val_marker is going to be sent or receive val_index from another domain." alt="" coords="501,267,648,308"/>
+<area shape="rect" id="node2" href="$class_c_physical_geometry.html#addad3f466423ba9243a396763d442f9a" title="Accepts a geometry container holding a linearly partitioned grid with coloring performed by ParMETIS,..." alt="" coords="253,5,411,47"/>
+<area shape="rect" id="node3" href="$class_c_physical_geometry.html#a53c554e57be8227097d529b75cc9dc49" title="Broadcast the marker tags for all boundaries from the master rank to all other ranks." alt="" coords="252,71,412,112"/>
+<area shape="rect" id="node5" href="$class_c_physical_geometry.html#ae8bc780573f7358809e4556f75a3f5de" title="Load the local surface elements after partitioning (owned and ghost) into the geometry class objects." alt="" coords="251,136,413,177"/>
+<area shape="rect" id="node6" href="$class_c_physical_geometry.html#ae1a7c39a36f9e841f90066dd1cceaa75" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file in para..." alt="" coords="229,201,435,243"/>
+<area shape="rect" id="node8" href="$class_c_physical_geometry.html#a5fa5c4805d03646f8bfbf8622265f958" title="Reads for the FEM solver the geometry of the grid and adjust the boundary conditions with the configu..." alt="" coords="211,267,453,308"/>
+<area shape="rect" id="node9" href="$class_c_physical_geometry.html#ad61681f39d9e2dbdaf821433e22fd4b0" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file in para..." alt="" coords="234,332,430,373"/>
+<area shape="rect" id="node10" href="$class_c_physical_geometry.html#a8fb5c62d5c61dd689ea5d51d4f174831" title="Reads for the FEM solver the geometry of the grid and adjust the boundary conditions with the configu..." alt="" coords="217,397,447,439"/>
+<area shape="rect" id="node11" href="$class_c_physical_geometry.html#a1350e4d05928db566e3d14fa5dc2587a" title="Set the send receive boundaries of the grid." alt="" coords="253,463,411,504"/>
+<area shape="rect" id="node12" href="$class_c_periodic_geometry.html#a2a0500f8a4164c0356b81f487f967187" title="Set the periodic boundaries of the grid." alt="" coords="253,528,411,569"/>
+<area shape="rect" id="node4" href="$class_c_physical_geometry.html#a5060b218ee34c7fe7ccfbee03e912fd6" title="Accepts a geometry container holding a linearly partitioned grid with coloring performed by ParMETIS,..." alt="" coords="5,104,163,145"/>
+<area shape="rect" id="node7" href="$class_c_physical_geometry.html#a075a737b341a64de5463ddd41096692e" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file." alt="" coords="5,299,163,340"/>
+</map>

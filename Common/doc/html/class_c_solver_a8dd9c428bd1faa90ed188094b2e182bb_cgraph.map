@@ -1,0 +1,42 @@
+<map id="CSolver::Aeroelastic" name="CSolver::Aeroelastic">
+<area shape="rect" id="node1" title="Prepares and solves the aeroelastic equations." alt="" coords="5,667,159,693"/>
+<area shape="rect" id="node2" href="$class_c_surface_movement.html#a90d1a1260d9bdacf2965c6b50c7a91b1" title="Unsteady aeroelastic grid movement by deforming the mesh." alt="" coords="207,369,437,410"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a417b45d0da107126e803258901f57920" title="If we are prforming an unsteady simulation, there is only one value of the time step for the complete..." alt="" coords="489,696,717,723"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a0b17ab1184ea660b13ff0fa1c861239f" title="Get the type of dynamic mesh motion." alt="" coords="485,5,721,32"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a5bf47083eec0b00543d3d8c387f41ab2" title="Get the name of the surface defined in the geometry file." alt="" coords="519,57,688,98"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a75bb1f8aa4d15be6690dd6cc5ab581a7" title="Get the value of the reference angular velocity for non&#45;dimensionalization." alt="" coords="514,579,693,605"/>
+<area shape="rect" id="node13" href="$class_c_config.html#a775b1798931ad6be6ee986d3b9cc26b3" title="Get the angular velocity of the mesh about the z&#45;axis." alt="" coords="524,630,683,671"/>
+<area shape="rect" id="node17" href="$class_c_config.html#a6020a5df7025ffb286f9b9f55f3f2773" title="Get the angle of attack of the body. This is the angle between a reference line on a lifting body (of..." alt="" coords="257,608,387,635"/>
+<area shape="rect" id="node18" href="$class_c_config.html#a942619938b389de95268bce31434c276" title="Get the monitoring information for a marker val_marker." alt="" coords="248,659,396,701"/>
+<area shape="rect" id="node19" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="248,725,396,766"/>
+<area shape="rect" id="node20" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="232,791,412,817"/>
+<area shape="rect" id="node21" href="$class_c_config.html#a62a92b26c1300323f4a4a035ec19af1a" title="Get the total number of monitoring markers." alt="" coords="244,842,400,883"/>
+<area shape="rect" id="node22" href="$class_c_solver.html#af701c165a204f256eb6bb608b132c020" title="A virtual member." alt="" coords="233,908,411,935"/>
+<area shape="rect" id="node23" href="$class_c_solver.html#a0bc167b99fb203f09522c6eb9f822ff5" title="A virtual member." alt="" coords="235,959,409,985"/>
+<area shape="rect" id="node24" href="$class_c_solver.html#a772a2f4099016858cdba75739805634f" title="A virtual member." alt="" coords="229,1009,415,1036"/>
+<area shape="rect" id="node25" href="$class_c_solver.html#a13c86d41e468e5d7b9c7a21ab2008e19" title="Solve the typical section wing model." alt="" coords="217,1061,427,1102"/>
+<area shape="rect" id="node3" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="537,325,670,352"/>
+<area shape="rect" id="node6" href="$class_c_config.html#ac423a5dfbbebbed75a74071dfd7d82d3" title="Get the value of the reference length for non&#45;dimensionalization. This value should always be 1 inter..." alt="" coords="515,376,691,403"/>
+<area shape="rect" id="node8" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="523,427,684,453"/>
+<area shape="rect" id="node9" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="534,477,673,504"/>
+<area shape="rect" id="node11" href="$class_c_config.html#ad16ba9ced46f18677ba639a6d31b8fc4" title="Get reference origin x&#45;coordinate for moment computation." alt="" coords="486,528,721,555"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a7f4c4d90f8a12ff8f1cdc01c5cef1352" title="Get reference origin y&#45;coordinate for moment computation." alt="" coords="487,123,720,149"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a6ca8f557014e78ee9086efefa37513f1" title="Set reference origin x&#45;coordinate for moment computation." alt="" coords="487,173,719,200"/>
+<area shape="rect" id="node15" href="$class_c_config.html#a6adc72e34adb72c23b38cd1cf557ea19" title="Set reference origin y&#45;coordinate for moment computation." alt="" coords="488,224,719,251"/>
+<area shape="rect" id="node16" href="$class_c_vertex.html#a77faafc52f911c793851c71738fb85ba" title="Set the value of the coordinate variation due to a surface modification." alt="" coords="523,275,684,301"/>
+<area shape="rect" id="node26" href="$class_c_config.html#a93afd81e0f5c99ef0632f80b8cb154ed" title="Aeroelastic Flutter Speed Index." alt="" coords="515,1126,691,1167"/>
+<area shape="rect" id="node27" href="$class_c_config.html#a2cb6eeb8d14730720c5ee584b8cc7e8b" title="Uncoupled Aeroelastic Frequency Pitch." alt="" coords="779,1185,955,1226"/>
+<area shape="rect" id="node28" href="$class_c_config.html#aa022e177ff1f274f7bdbfef950c0c448" title="Value of Aeroelastic solution coordinate at time n." alt="" coords="508,1243,699,1269"/>
+<area shape="rect" id="node29" href="$class_c_config.html#a0e410f925eb73adfe30d3b44e589ec26" title="Value of Aeroelastic solution coordinate at time n&#45;1." alt="" coords="504,1293,703,1320"/>
+<area shape="rect" id="node30" href="$class_c_config.html#a0b906eb233b861ce7f2f876bbfa9760a" title="Value of Aeroelastic solution coordinate at time n+1." alt="" coords="500,1344,707,1371"/>
+<area shape="rect" id="node31" href="$class_c_config.html#a57928a763b6b5f41e2dac1992596138d" title="Value of pitching coordinate." alt="" coords="515,1395,691,1437"/>
+<area shape="rect" id="node32" href="$class_c_config.html#aa28d5164af585f7a1f3fa702fa044a2d" title="Value of plunging coordinate." alt="" coords="515,747,691,789"/>
+<area shape="rect" id="node33" href="$class_c_config.html#a07e07baa3b8259bfa545fd1de2fac74a" title="Get the value of the Reynolds length." alt="" coords="530,813,677,854"/>
+<area shape="rect" id="node34" href="$class_c_config.html#a4705094b6e77c4764878ac83a665f02a" title="Value of Aeroelastic solution coordinate at time n+1." alt="" coords="501,879,706,905"/>
+<area shape="rect" id="node35" href="$class_c_config.html#a9ba428baa92dc36b447d424450a49b1a" title="Value of pitching coordinate." alt="" coords="516,930,691,971"/>
+<area shape="rect" id="node36" href="$class_c_config.html#a265f87e00ba2ed387f084082c7f6d1cb" title="Value of plunging coordinate." alt="" coords="516,995,691,1037"/>
+<area shape="rect" id="node37" href="$class_c_solver.html#a85ab76dcef372e9cf25c7df9738b364b" title="Sets up the generalized eigenvectors and eigenvalues needed to solve the aeroelastic equations." alt="" coords="497,1061,709,1102"/>
+<area shape="rect" id="node38" href="$class_c_config.html#acc4baf536059893600bc566d7b8913e6" title="Aeroelastic center of gravity location." alt="" coords="779,989,955,1030"/>
+<area shape="rect" id="node39" href="$class_c_config.html#a0ec6a5b1cd9d21bce43b0ad95a427687" title="Uncoupled Aeroelastic Frequency Plunge." alt="" coords="779,1054,955,1095"/>
+<area shape="rect" id="node40" href="$class_c_config.html#a3d4898b381409684e54710f8b8f6f047" title="Aeroelastic radius of gyration squared." alt="" coords="769,1119,965,1161"/>
+</map>

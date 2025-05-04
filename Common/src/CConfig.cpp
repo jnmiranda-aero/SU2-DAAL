@@ -860,22 +860,23 @@ void CConfig::SetPointersNull() {
 
   /*--- Marker Pointers ---*/
 
-  Marker_Euler                = nullptr;    Marker_FarField             = nullptr;    Marker_Custom              = nullptr;
-  Marker_SymWall              = nullptr;    Marker_PerBound             = nullptr;
-  Marker_PerDonor             = nullptr;    Marker_NearFieldBound       = nullptr;    Marker_Inlet_Turb          = nullptr;
-  Marker_Deform_Mesh          = nullptr;    Marker_Deform_Mesh_Sym_Plane= nullptr;    Marker_Fluid_Load          = nullptr;
-  Marker_Inlet                = nullptr;    Marker_Outlet               = nullptr;    Marker_Inlet_Species       = nullptr;
-  Marker_Supersonic_Inlet     = nullptr;    Marker_Supersonic_Outlet    = nullptr;    Marker_Smoluchowski_Maxwell= nullptr;
-  Marker_Isothermal           = nullptr;    Marker_HeatFlux             = nullptr;    Marker_EngineInflow        = nullptr;
-  Marker_Load                 = nullptr;    Marker_Disp_Dir             = nullptr;    Marker_RoughWall           = nullptr;
-  Marker_EngineExhaust        = nullptr;    Marker_Displacement         = nullptr;    Marker_Load                = nullptr;
-  Marker_Load_Dir             = nullptr;    Marker_Clamped             = nullptr;
-  Marker_Internal             = nullptr;
-  Marker_All_TagBound         = nullptr;    Marker_CfgFile_TagBound     = nullptr;    Marker_All_KindBC          = nullptr;
-  Marker_CfgFile_KindBC       = nullptr;    Marker_All_SendRecv         = nullptr;    Marker_All_PerBound        = nullptr;
-  Marker_ZoneInterface        = nullptr;    Marker_All_ZoneInterface    = nullptr;    Marker_Riemann             = nullptr;
-  Marker_Fluid_InterfaceBound = nullptr;    Marker_CHTInterface         = nullptr;    Marker_Damper              = nullptr;
-  Marker_Emissivity           = nullptr;    Marker_HeatTransfer         = nullptr;
+  Marker_Euler                = nullptr;    Marker_FarField              = nullptr;    Marker_Custom               = nullptr;
+  Marker_SymWall              = nullptr;    Marker_PerBound              = nullptr;
+  Marker_PerDonor             = nullptr;    Marker_NearFieldBound        = nullptr;    Marker_Inlet_Turb           = nullptr;
+  Marker_Deform_Mesh          = nullptr;    Marker_Deform_Mesh_Sym_Plane = nullptr;    Marker_Fluid_Load           = nullptr;
+  Marker_Inlet                = nullptr;    Marker_Outlet                = nullptr;    Marker_Inlet_Species        = nullptr;
+  Marker_Supersonic_Inlet     = nullptr;    Marker_Supersonic_Outlet     = nullptr;    Marker_Smoluchowski_Maxwell = nullptr;
+  Marker_Isothermal           = nullptr;    Marker_HeatFlux              = nullptr;    Marker_EngineInflow         = nullptr;
+  Marker_Load                 = nullptr;    Marker_Transpiration         = nullptr;
+  Marker_EngineExhaust        = nullptr;    Marker_Disp_Dir              = nullptr;    Marker_RoughWall            = nullptr;
+  Marker_Load_Dir             = nullptr;    Marker_Displacement          = nullptr;    Marker_Load                 = nullptr;
+  Marker_Internal             = nullptr;    Marker_Clamped               = nullptr;
+  Marker_All_TagBound         = nullptr;    Marker_CfgFile_TagBound      = nullptr;    Marker_All_KindBC          = nullptr;
+  Marker_CfgFile_KindBC       = nullptr;    Marker_All_SendRecv          = nullptr;    Marker_All_PerBound        = nullptr;
+  Marker_ZoneInterface        = nullptr;    Marker_All_ZoneInterface     = nullptr;    Marker_Riemann             = nullptr;
+  Marker_Fluid_InterfaceBound = nullptr;    Marker_CHTInterface          = nullptr;    Marker_Damper              = nullptr;
+  Marker_Emissivity           = nullptr;    Marker_HeatTransfer          = nullptr;  
+
 
     /*--- Boundary Condition settings ---*/
 

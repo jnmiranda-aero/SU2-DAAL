@@ -1,0 +1,7 @@
+<map id="CEulerSolver::GetTotal_CD" name="CEulerSolver::GetTotal_CD">
+<area shape="rect" id="node1" title="Provide the total (inviscid + viscous) non dimensional drag coefficient." alt="" coords="489,46,683,73"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#ad8b538a82e5a7a7e3903ec29954b1d07" title="Compute the Fan face Mach number." alt="" coords="261,5,437,47"/>
+<area shape="rect" id="node5" href="$class_c_euler_solver.html#a147d5ae75cf7de115e4be2c23ba95f6d" title="Update the AoA and freestream velocity at the farfield." alt="" coords="257,71,441,112"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="5,17,209,43"/>
+<area shape="rect" id="node4" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="13,71,202,98"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CVariable::SetAdjointSolution" name="CVariable::SetAdjointSolution">
+<area shape="rect" id="node1" title="Set the adjoint values of the solution." alt="" coords="5,31,217,57"/>
+<area shape="rect" id="node2" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="280,5,435,32"/>
+<area shape="rect" id="node3" href="$namespace_s_u2___t_y_p_e.html#a0d7db8cc5630100477a515061684a341" title="Set the derivative value of the datatype (needs to be implemented for each new type)." alt="" coords="265,56,449,83"/>
+</map>

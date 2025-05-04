@@ -1,0 +1,24 @@
+<map id="CPeriodicGeometry::CPeriodicGeometry" name="CPeriodicGeometry::CPeriodicGeometry">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,566,160,607"/>
+<area shape="rect" id="node2" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="255,5,388,32"/>
+<area shape="rect" id="node3" href="$class_c_vertex.html#ad46924bc53ad8c2a4b1af0c810c64198" title="Get the value of the periodic point of a vertex." alt="" coords="233,56,409,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="247,107,395,149"/>
+<area shape="rect" id="node5" href="$class_c_config.html#aaceb5e9828499b666e6970e06d898ecc" title="Get an internal index that identify the periodic boundary conditions." alt="" coords="247,173,395,214"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="247,238,395,279"/>
+<area shape="rect" id="node7" href="$class_c_geometry.html#a6637e7171634949e5944c83a4a718fbf" title="Get the index of a marker." alt="" coords="221,304,421,331"/>
+<area shape="rect" id="node8" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="241,355,402,381"/>
+<area shape="rect" id="node9" href="$class_c_geometry.html#a4ae48ec038df1f5ee7c1daadabea5e99" title="Get number of elements." alt="" coords="238,405,405,432"/>
+<area shape="rect" id="node10" href="$class_c_geometry.html#a4b903006a657111168bcfd5ad5ff2a35" title="Get the number of boundary elements." alt="" coords="238,457,405,498"/>
+<area shape="rect" id="node11" href="$class_c_geometry.html#a3c899d1370312702c189a8ee95a63ef7" title="Get number of markers." alt="" coords="232,523,411,549"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="231,573,411,600"/>
+<area shape="rect" id="node13" href="$class_c_config.html#aec6c93336a29b85c8e0ce66352852f58" title="Get the total number of boundary markers." alt="" coords="226,624,417,651"/>
+<area shape="rect" id="node14" href="$class_c_primal_grid.html#a4fc7b6b6ac5025325c7e68fb56fbeef8" title="A pure virtual member." alt="" coords="239,675,404,701"/>
+<area shape="rect" id="node15" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="252,725,391,752"/>
+<area shape="rect" id="node16" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="238,776,405,803"/>
+<area shape="rect" id="node17" href="$class_c_geometry.html#a55427e474834af1941e13750b17975be" title="Get number of vertices." alt="" coords="233,827,409,853"/>
+<area shape="rect" id="node18" href="$class_c_config.html#a8b427e418c23b7e25da647fb21024098" title="Angles of rotation for a rotational periodic boundary." alt="" coords="211,877,432,904"/>
+<area shape="rect" id="node19" href="$class_c_config.html#a69c3c48e964a0d99ed7c0e73c679167a" title="Center of rotation for a rotational periodic boundary." alt="" coords="211,928,431,955"/>
+<area shape="rect" id="node20" href="$class_c_config.html#a5e243bf56db6d47df20d342167350f32" title="Translation vector for a rotational periodic boundary." alt="" coords="208,979,435,1005"/>
+<area shape="rect" id="node21" href="$class_c_primal_grid.html#adb676897e7cf4a83ceb83065e7c6a04f" title="A pure virtual member." alt="" coords="224,1029,419,1056"/>
+<area shape="rect" id="node22" href="$class_c_config.html#a0a0f6d6594b4654ca7389ef89fca47cb" title="Stores the number of marker in the simulation." alt="" coords="232,1080,411,1107"/>
+</map>

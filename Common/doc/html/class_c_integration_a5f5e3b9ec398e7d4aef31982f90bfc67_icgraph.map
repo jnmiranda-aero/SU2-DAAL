@@ -1,0 +1,20 @@
+<map id="CIntegration::SetConvergence" name="CIntegration::SetConvergence">
+<area shape="rect" id="node1" title="Set the indicator of the convergence." alt="" coords="769,322,985,349"/>
+<area shape="rect" id="node2" href="$class_c_f_e_a_iteration.html#ac8c8f95bb68e4677c90d9f29ea8ed5fe" title="Perform a single iteration for structural analysis using the Finite Element Method." alt="" coords="514,13,677,39"/>
+<area shape="rect" id="node5" href="$class_c_disc_adj_f_e_a_iteration.html#ab12d300ff5c24b7fbdc65ba318df2beb" title="Perform a single iteration of the adjoint mean flow system." alt="" coords="515,64,675,105"/>
+<area shape="rect" id="node6" href="$class_c_disc_adj_f_s_i_driver.html#a84949f139fa795b7d34d6ff77e82eb5c" title="Iterate a certain block for adjoint FSI &#45; may be the whole set of variables or independent and subite..." alt="" coords="522,129,669,171"/>
+<area shape="rect" id="node10" href="$class_c_general_driver.html#afd889f00d1c67f377ea80219f0af2917" title="Reset the convergence flag (set to false) of the single zone solver." alt="" coords="469,195,721,222"/>
+<area shape="rect" id="node11" href="$class_c_fluid_driver.html#a47cb2b2d73efb1d67d3078ff2ef0b18a" title="Reset the convergence flag (set to false) of the multizone solver." alt="" coords="479,246,712,273"/>
+<area shape="rect" id="node12" href="$class_c_h_b_driver.html#a996fa7423585cc5dfc9dc8ff57240a75" title="Reset the convergence flag (set to false) of the solver for the Harmonic Balance." alt="" coords="485,297,705,323"/>
+<area shape="rect" id="node13" href="$class_c_f_s_i_driver.html#a42f35db571cc1bf984b30d2ac7d8167c" title="Run a Block Gauss&#45;Seidel iteration of the FSI problem." alt="" coords="534,347,657,374"/>
+<area shape="rect" id="node14" href="$class_c_fluid_iteration.html#a49fb82ab42430b60588bc8b952755732" title="Updates the containers for the fluid system." alt="" coords="509,398,682,425"/>
+<area shape="rect" id="node15" href="$class_c_heat_iteration.html#a6b2945fdeca407dfd0c2c9bda38e1e4a" title="Updates the containers for the heat system." alt="" coords="509,449,681,475"/>
+<area shape="rect" id="node16" href="$class_c_f_e_a_iteration.html#a5ed40f51843ce41c76a0272f32ae1b04" title="Updates the containers for the FEM system." alt="" coords="512,499,679,526"/>
+<area shape="rect" id="node17" href="$class_c_adj_fluid_iteration.html#a32e234d84d79c8547e9501f9a372c027" title="Updates the containers for the adjoint fluid system." alt="" coords="526,551,665,592"/>
+<area shape="rect" id="node18" href="$class_c_disc_adj_fluid_iteration.html#a406e4195afb7aac3836c6d0444a5cd3c" title="Updates the containers for the discrete adjoint fluid system." alt="" coords="512,616,679,657"/>
+<area shape="rect" id="node3" href="$class_c_disc_adj_f_e_a_iteration.html#a121206a5f1ae2d2fbc5931cb7c37335a" title="Record a single iteration of the direct FEM system." alt="" coords="243,5,403,47"/>
+<area shape="rect" id="node4" href="$class_c_disc_adj_f_e_a_iteration.html#a8c4d696b9bbb8ff79713d892e4b7aef9" title="Preprocessing to prepare for an iteration of the physics." alt="" coords="11,5,171,47"/>
+<area shape="rect" id="node7" href="$class_c_disc_adj_f_s_i_driver.html#ab6dc73cea783398d2e4d40b56b8d142f" title="Iterate a block for adjoint FSI with flow Objective Function." alt="" coords="241,100,405,141"/>
+<area shape="rect" id="node9" href="$class_c_disc_adj_f_s_i_driver.html#a1199b609d2ec3ab24d9614a73c4ed74a" title="Iterate a block for adjoint FSI with structural Objective Function." alt="" coords="225,165,421,207"/>
+<area shape="rect" id="node8" href="$class_c_disc_adj_f_s_i_driver.html#a2e965d6e9c4dcfc296077cae225cab21" title="Run a Discrete Adjoint iteration for the FSI problem." alt="" coords="5,139,177,166"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="CPhysicalGeometry::SetRotationalVelocity" name="CPhysicalGeometry::SetRotationalVelocity">
+<area shape="rect" id="node1" title="Set the rotational velocity at each node." alt="" coords="5,267,168,309"/>
+<area shape="rect" id="node2" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="239,5,372,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#ac423a5dfbbebbed75a74071dfd7d82d3" title="Get the value of the reference length for non&#45;dimensionalization. This value should always be 1 inter..." alt="" coords="217,56,393,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a2d2cc222deea67e15fb9f5b8bf2fe5b3" title="Get x&#45;coordinate of the mesh motion origin." alt="" coords="231,107,379,149"/>
+<area shape="rect" id="node5" href="$class_c_config.html#ac29503e4c1edea7252b33bfdea8bcd99" title="Get y&#45;coordinate of the mesh motion origin." alt="" coords="231,173,379,214"/>
+<area shape="rect" id="node6" href="$class_c_config.html#ade3f3e84bc9e0a8c712aaff26ac8cdba" title="Get z&#45;coordinate of the mesh motion origin." alt="" coords="231,238,379,279"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a75bb1f8aa4d15be6690dd6cc5ab581a7" title="Get the value of the reference angular velocity for non&#45;dimensionalization." alt="" coords="216,304,395,331"/>
+<area shape="rect" id="node8" href="$class_c_config.html#aa83ad869eaf541f6a110b84874f909bd" title="Get the angular velocity of the mesh about the x&#45;axis." alt="" coords="226,355,385,397"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a0a036a9fac15b295e0fbde2c52e3a7d4" title="Get the angular velocity of the mesh about the y&#45;axis." alt="" coords="226,421,385,462"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a775b1798931ad6be6ee986d3b9cc26b3" title="Get the angular velocity of the mesh about the z&#45;axis." alt="" coords="226,486,385,527"/>
+<area shape="rect" id="node11" href="$class_c_point.html#a01131de373dba211a7093ecc44238e1e" title="Set the value of the grid velocity at the point." alt="" coords="235,552,375,579"/>
+</map>

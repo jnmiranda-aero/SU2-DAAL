@@ -1,0 +1,13 @@
+<map id="CGaussVariable::GetGradNi_Xj" name="CGaussVariable::GetGradNi_Xj">
+<area shape="rect" id="node1" title=" " alt="" coords="1016,202,1236,229"/>
+<area shape="rect" id="node2" href="$class_c_element.html#a0f9850858a7917387f87e4c4380fa5ec" title="Retrieve the value of the gradient of the shape functions respect to the reference configuration." alt="" coords="783,177,961,203"/>
+<area shape="rect" id="node11" href="$class_c_element.html#aa62007cae2aabedb43f88b23b4aa38e5" title="Retrieve the value of the gradient of the shape functions respect to the reference configuration (sub..." alt="" coords="776,227,968,254"/>
+<area shape="rect" id="node3" href="$class_c_f_e_a_linear_elasticity.html#a64419136084862688fd02c1a1d903c43" title="A virtual member to compute the averaged nodal stresses." alt="" coords="485,5,728,47"/>
+<area shape="rect" id="node4" href="$class_c_f_e_a_nonlinear_elasticity.html#a52921a8c79aa4100c3b527fd198d8a2e" title="A virtual member to compute the averaged nodal stresses." alt="" coords="485,71,728,112"/>
+<area shape="rect" id="node5" href="$class_c_elasticity_movement.html#adc83d302c1cd754eb3415072e41aa9c1" title="Compute the stiffness of the element and the parameters Lambda and Mu." alt="" coords="488,136,725,177"/>
+<area shape="rect" id="node8" href="$class_c_f_e_a_nonlinear_elasticity.html#a6b0e987111626e8331b4d146f90fd72c" title="A virtual member to compute the nodal stress term in non&#45;linear structural problems." alt="" coords="500,201,713,243"/>
+<area shape="rect" id="node9" href="$class_c_f_e_a_linear_elasticity.html#a857547e56aca793f854b172b31527d04" title="A virtual member to compute the tangent matrix in structural problems." alt="" coords="509,267,705,308"/>
+<area shape="rect" id="node10" href="$class_c_f_e_a_nonlinear_elasticity.html#acf70648957180bb746a7717526891bb5" title="A virtual member to compute the tangent matrix in structural problems." alt="" coords="509,332,705,373"/>
+<area shape="rect" id="node6" href="$class_c_elasticity_movement.html#a7d559792126521cdca7d4ceab1f55984" title="Compute the min and max volume for the stiffness matrix for grid deformation." alt="" coords="276,136,437,177"/>
+<area shape="rect" id="node7" href="$class_c_elasticity_movement.html#aa7ba45343e741043847388c3ccf98306" title="Grid deformation using the linear elasticity equations." alt="" coords="5,136,228,177"/>
+</map>

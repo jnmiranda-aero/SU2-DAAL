@@ -1,0 +1,17 @@
+<map id="CConfig::SetVelocity_FreeStreamND" name="CConfig::SetVelocity_FreeStreamND">
+<area shape="rect" id="node1" title="Set the Froude number for free surface problems." alt="" coords="627,226,780,267"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#ae9346f0feebb8b28613bfc7838d3d121" title="Update the AoA and freestream velocity at the farfield." alt="" coords="320,56,535,83"/>
+<area shape="rect" id="node5" href="$class_c_inc_euler_solver.html#a92be9b5078764b071873efa02a8f720d" title="Update the AoA and freestream velocity at the farfield." alt="" coords="311,157,544,184"/>
+<area shape="rect" id="node8" href="$class_c_euler_solver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="285,233,569,260"/>
+<area shape="rect" id="node11" href="$class_c_inc_euler_solver.html#a2cffaa24417cb3803d36d38b3874d6d0" title="Set the solver nondimensionalization." alt="" coords="276,317,579,344"/>
+<area shape="rect" id="node14" href="$class_c_f_e_m___d_g___euler_solver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="327,398,528,439"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="15,5,219,32"/>
+<area shape="rect" id="node4" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="22,56,211,83"/>
+<area shape="rect" id="node6" href="$class_c_inc_euler_solver.html#aabd902b10cc9b41b6b2c406efba0ac41" title="Compute primitive variables and their gradients." alt="" coords="5,107,228,133"/>
+<area shape="rect" id="node7" href="$class_c_inc_n_s_solver.html#ae84f6e86313acd1da80c505b4eab81e5" title="Restart residual and compute gradients." alt="" coords="13,157,221,184"/>
+<area shape="rect" id="node9" href="$class_c_euler_solver.html#ae1e74218b4e943111b100d7ddcbd4db9" title=" " alt="" coords="19,208,215,235"/>
+<area shape="rect" id="node10" href="$class_c_n_s_solver.html#a2a8ad49c42b4546696e631cf44b7788b" title=" " alt="" coords="33,259,200,285"/>
+<area shape="rect" id="node12" href="$class_c_inc_euler_solver.html#a91f644b8f9a00215bac5bcd31dfc06d8" title=" " alt="" coords="20,310,213,351"/>
+<area shape="rect" id="node13" href="$class_c_inc_n_s_solver.html#a82152ac7e91fb1c5c073d98a1f08e2aa" title=" " alt="" coords="15,376,219,403"/>
+<area shape="rect" id="node15" href="$class_c_f_e_m___d_g___euler_solver.html#a70d30ef9e7cd7620d54ec73f4b1ed28c" title=" " alt="" coords="29,427,204,469"/>
+</map>

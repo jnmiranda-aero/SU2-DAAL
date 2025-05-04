@@ -1,0 +1,14 @@
+<map id="CPhysicalGeometry::DistributePoints" name="CPhysicalGeometry::DistributePoints">
+<area shape="rect" id="node1" title="Distribute the grid points, including ghost points, across all ranks based on a ParMETIS coloring." alt="" coords="5,166,163,207"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a86496abf1db8449b17501e14111f3371" title=" " alt="" coords="211,5,407,32"/>
+<area shape="rect" id="node4" href="$class_c_physical_geometry.html#a68a7a10e82cda6759f1ef3a0863e7bf1" title="Routine to complete the set of non&#45;blocking communications launched with InitiateComms() with MPI_Wai..." alt="" coords="230,57,387,98"/>
+<area shape="rect" id="node6" href="$class_c_point.html#a9351c9e795708f14a0d989473f37d3bf" title="Get the color of a point, the color indicates to which subdomain the point belong to." alt="" coords="244,123,373,149"/>
+<area shape="rect" id="node7" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="242,173,375,200"/>
+<area shape="rect" id="node8" href="$class_c_point.html#ab546170a5a03ef210a75fc5531910050" title="Get the global index in a parallel computation." alt="" coords="222,224,395,251"/>
+<area shape="rect" id="node9" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="225,275,392,301"/>
+<area shape="rect" id="node10" href="$class_c_physical_geometry.html#a05e984655b700888b50e32c1438a65c1" title="Routine to launch non&#45;blocking sends and recvs amongst all processors." alt="" coords="230,326,387,367"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="455,5,669,32"/>
+<area shape="rect" id="node5" href="$class_c_base_m_p_i_wrapper.html#ade364e6661c9eec2070a2448dbb5750b" title=" " alt="" coords="461,64,663,91"/>
+<area shape="rect" id="node11" href="$class_c_base_m_p_i_wrapper.html#ae41565b441aee76e1b48eb03e5ac86dd" title=" " alt="" coords="471,308,653,335"/>
+<area shape="rect" id="node12" href="$class_c_base_m_p_i_wrapper.html#a43a415ec11a029ade218eaf8c807a817" title=" " alt="" coords="469,359,655,385"/>
+</map>

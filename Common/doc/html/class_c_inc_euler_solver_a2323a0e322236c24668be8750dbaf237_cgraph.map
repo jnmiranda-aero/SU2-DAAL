@@ -1,0 +1,16 @@
+<map id="CIncEulerSolver::SetCentered_Dissipation_Sensor" name="CIncEulerSolver::SetCentered_Dissipation_Sensor">
+<area shape="rect" id="node1" title="Compute a pressure sensor switch." alt="" coords="5,125,217,166"/>
+<area shape="rect" id="node2" href="$class_c_variable.html#a48edcfacf9418f8e2a00416e92f71fde" title="A virtual member." alt="" coords="288,5,453,32"/>
+<area shape="rect" id="node3" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="297,56,444,83"/>
+<area shape="rect" id="node4" href="$class_c_geometry.html#a7d6e1e1d1e46da8f55ecbe1a9380530a" title="Get number of edges." alt="" coords="287,107,454,133"/>
+<area shape="rect" id="node5" href="$class_c_edge.html#aee33b61d646e3fe59a4e23284ab1bf33" title="Get the nodes of the edge." alt="" coords="307,157,435,184"/>
+<area shape="rect" id="node6" href="$class_c_point.html#a4eb5465beab412d0783a22515db2174d" title="Provides information about if a point belong to the physical boundaries (without MPI)." alt="" coords="265,208,476,235"/>
+<area shape="rect" id="node7" href="$class_c_inc_euler_solver.html#a27d2847326d6b56fbc02d1f47e2d7afa" title="Parallelization of SetPressure_Sensor." alt="" coords="294,259,447,301"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="555,110,703,151"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a778a77ff2b9e1d359eab9b2d2106fa81" title="Get the send&#45;receive information for a marker val_marker." alt="" coords="555,175,703,217"/>
+<area shape="rect" id="node10" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="560,241,699,268"/>
+<area shape="rect" id="node11" href="$class_c_variable.html#a25c9b3e6ef25a81fe73c8c4d0dae5984" title="Get the pressure sensor." alt="" coords="550,292,709,319"/>
+<area shape="rect" id="node12" href="$class_c_base_m_p_i_wrapper.html#af195343eb82f29c4b3a190c928251765" title=" " alt="" coords="524,343,735,369"/>
+<area shape="rect" id="node14" href="$class_c_variable.html#a4a8e17c1598a9dc858217353dad8f5a6" title="Set pressure sensor." alt="" coords="551,393,708,420"/>
+<area shape="rect" id="node13" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="783,343,997,369"/>
+</map>

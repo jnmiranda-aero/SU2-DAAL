@@ -1,0 +1,19 @@
+<map id="CEulerSolver::BC_Supersonic_Outlet" name="CEulerSolver::BC_Supersonic_Outlet">
+<area shape="rect" id="node1" title="Impose a supersonic outlet boundary condition." alt="" coords="5,361,215,402"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a8c2c7f8ca02d0e8685373e38ca29d9d0" title="Adds the specified block to the sparse matrix." alt="" coords="296,5,461,32"/>
+<area shape="rect" id="node4" href="$class_c_sys_vector.html#a7ef472e160b4bfee4fac427e5c08022b" title="Add val_residual to the residual." alt="" coords="297,56,461,83"/>
+<area shape="rect" id="node5" href="$class_c_numerics.html#abe734316e0047f463f059fd77a281958" title="Compute the numerical residual." alt="" coords="271,107,487,133"/>
+<area shape="rect" id="node6" href="$class_c_euler_solver.html#a5000bb7537dd001499d436617e1421f7" title="Value of the characteristic variables at the boundaries." alt="" coords="263,157,495,184"/>
+<area shape="rect" id="node7" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="305,208,452,235"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="275,259,482,285"/>
+<area shape="rect" id="node9" href="$class_c_point.html#a62ec636f4a05ac578b582a053e8553f9" title="Get the value of the grid velocity at the point." alt="" coords="307,309,450,336"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a20e5fd7b43cfd2bf2bcf5137f12bc635" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="284,361,473,402"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="305,426,453,467"/>
+<area shape="rect" id="node12" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="309,492,448,519"/>
+<area shape="rect" id="node13" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="303,543,455,569"/>
+<area shape="rect" id="node14" href="$class_c_variable.html#a5fc23761cf67841ab946fc6e8b4f019d" title="A virtual member." alt="" coords="291,593,466,620"/>
+<area shape="rect" id="node15" href="$class_c_numerics.html#ae15b9e4ad2008444365109c434e24207" title="Set the velocity of the computational grid." alt="" coords="294,644,463,671"/>
+<area shape="rect" id="node16" href="$class_c_numerics.html#a41903d97957f351cd9ee63ca404985b1" title="Set the value of the normal vector to the face between two points." alt="" coords="293,695,464,721"/>
+<area shape="rect" id="node17" href="$class_c_numerics.html#af72b17d397adf09beed2e99e2daf895c" title="Set the value of the primitive variables." alt="" coords="288,745,469,772"/>
+<area shape="rect" id="node3" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="543,5,697,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CAvgGrad_AdjTurb::ComputeResidual" name="CAvgGrad_AdjTurb::ComputeResidual">
+<area shape="rect" id="node1" title="Compute the adjoint turbulent residual using average of gradients and a derivative correction." alt="" coords="5,5,213,47"/>
+<area shape="rect" id="node2" href="$class_c_config.html#ab7c8dd2a4307cb74064ce4e61de4a9ad" title="Get the kind of integration scheme (explicit or implicit) for the adjoint turbulence equations." alt="" coords="261,5,451,47"/>
+</map>

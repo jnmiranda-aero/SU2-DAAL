@@ -1,0 +1,4 @@
+<map id="CConfig::GetDamp_Engine_Exhaust" name="CConfig::GetDamp_Engine_Exhaust">
+<area shape="rect" id="node1" title="Value of the damping factor for the engine exhaust inlet bc." alt="" coords="236,5,429,47"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a423f40edc79091baa43bda1fdbd2575c" title="Impose the ancelle exhaust boundary condition." alt="" coords="5,5,188,47"/>
+</map>

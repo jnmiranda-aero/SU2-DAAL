@@ -1,0 +1,4 @@
+<map id="CTransLMSolver::BC_HeatFlux_Wall" name="CTransLMSolver::BC_HeatFlux_Wall">
+<area shape="rect" id="node1" title="Impose the Navier&#45;Stokes wall boundary condition." alt="" coords="204,5,355,47"/>
+<area shape="rect" id="node2" href="$class_c_trans_l_m_solver.html#a306459393b26c40177fe9a86473ce030" title="Impose the symmetry condition." alt="" coords="5,5,156,47"/>
+</map>

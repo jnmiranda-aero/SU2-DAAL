@@ -1,0 +1,43 @@
+<map id="CVariable::GetGradient_Primitive" name="CVariable::GetGradient_Primitive">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="595,1015,765,1056"/>
+<area shape="rect" id="node2" href="$class_c_n_s_solver.html#ad7c717280b27282a9e02bb1c0b50480a" title="Impose the Navier&#45;Stokes boundary condition (strong) with values from a CHT coupling." alt="" coords="312,5,532,47"/>
+<area shape="rect" id="node3" href="$class_c_n_s_solver.html#a116645c6a7b9a4e11b3c690f3678126c" title="Impose via the residual the Euler wall boundary condition." alt="" coords="344,71,500,112"/>
+<area shape="rect" id="node4" href="$class_c_euler_solver.html#a3cb64b1356f6c0dd43c08df012d99f01" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="343,136,501,177"/>
+<area shape="rect" id="node5" href="$class_c_n_s_solver.html#a94ecf958fefe5b9f6135ac0e14d1ea80" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="313,202,531,229"/>
+<area shape="rect" id="node6" href="$class_c_n_s_solver.html#acc95e1ac60fd8a27a8e44d1015c7deba" title="Impose the Navier&#45;Stokes boundary condition (strong)." alt="" coords="308,253,536,279"/>
+<area shape="rect" id="node7" href="$class_c_adj_n_s_solver.html#a20cd2fa256386da7791e11f40b701003" title="Impose via the residual or brute force the Navier&#45;Stokes adjoint boundary condition (heat flux)." alt="" coords="297,303,547,330"/>
+<area shape="rect" id="node8" href="$class_c_euler_solver.html#a22c21d18fa626d489db9a387234bd9d0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="324,354,520,381"/>
+<area shape="rect" id="node9" href="$class_c_euler_solver.html#a0066305803a18511fb89b8951f4e4866" title="Impose the boundary condition using characteristic recostruction." alt="" coords="307,405,537,431"/>
+<area shape="rect" id="node10" href="$class_c_n_s_solver.html#a789efbffb69b39e59b122a0c068cb11a" title="Compute the buffet sensor." alt="" coords="315,455,529,482"/>
+<area shape="rect" id="node11" href="$class_c_driver.html#a2d4e9d6e1bf64d33330c1825e9cb39c1" title="Compute the total force (pressure and shear stress) at a vertex on a specified marker (3 components)." alt="" coords="311,506,533,533"/>
+<area shape="rect" id="node12" href="$class_c_driver.html#ae9332fb74edadea56fc1fa81757799da" title="Compute the heat flux at a vertex on a specified marker (3 components)." alt="" coords="317,557,527,599"/>
+<area shape="rect" id="node13" href="$class_c_n_s_solver.html#acc926a2b83d8b90fa71faf46abe8f6b7" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="349,623,495,664"/>
+<area shape="rect" id="node14" href="$class_c_inc_n_s_solver.html#a5a106c634b0c06ac4a68b1a6241f203a" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="339,688,505,729"/>
+<area shape="rect" id="node15" href="$class_c_transfer___flow_traction.html#acf78fe5979dfc61a2e727e89cdcf5b04" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="336,753,508,795"/>
+<area shape="rect" id="node16" href="$class_c_transfer___flow_traction___disc_adj.html#a725f79b0c81d68b4b4f2eb2c33804d94" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="318,819,526,860"/>
+<area shape="rect" id="node17" href="$class_c_driver.html#aec7f7fd9fcaeebe35902c0e9b5a4ea24" title="Get the wall normal component of the heat flux at a vertex on a specified marker." alt="" coords="326,884,518,925"/>
+<area shape="rect" id="node18" href="$class_c_adj_euler_solver.html#a35fcc75148b249c56e3625ba23196856" title="Compute the inviscid sensitivity of the functional." alt="" coords="330,949,514,991"/>
+<area shape="rect" id="node19" href="$class_c_turb_s_a_solver.html#a225518dc5f0ca6ed894add826aaa16ea" title="Restart residual and compute gradients." alt="" coords="19,1051,235,1078"/>
+<area shape="rect" id="node20" href="$class_c_turb_s_a_solver.html#abd9b44db73a48a35caa4215dd105b193" title="A virtual member." alt="" coords="336,1015,508,1056"/>
+<area shape="rect" id="node21" href="$class_c_turb_s_a_solver.html#a939bd9305ddd11a3079a9987bd832a5d" title="Compute nu tilde from the wall functions." alt="" coords="310,1131,534,1158"/>
+<area shape="rect" id="node23" href="$class_c_euler_solver.html#ad5e5c2aed0d347dd662a17a55c88f971" title="Compute the gradient of the primitive variables using Green&#45;Gauss method, and stores the result in th..." alt="" coords="325,1183,519,1224"/>
+<area shape="rect" id="node26" href="$class_c_inc_euler_solver.html#a4919140c377bea0a95c378dc25ecfc03" title="Compute the gradient of the primitive variables using Green&#45;Gauss method, and stores the result in th..." alt="" coords="316,1496,528,1537"/>
+<area shape="rect" id="node29" href="$class_c_euler_solver.html#a43004a7f0fad7a6d1f435144710bf13e" title="Compute the limiter of the primitive variables." alt="" coords="325,1248,519,1289"/>
+<area shape="rect" id="node30" href="$class_c_inc_euler_solver.html#a00bd56828c4e41ec3ff1e8753cb320ec" title="Compute the limiter of the primitive variables." alt="" coords="316,1431,528,1472"/>
+<area shape="rect" id="node31" href="$class_c_n_s_solver.html#afeaca8e0c1a6da9eb2c4d2ddd64bc949" title="Computes the wall shear stress (Tau_Wall) on the surface using a wall function." alt="" coords="323,1379,521,1406"/>
+<area shape="rect" id="node32" href="$class_c_euler_solver.html#aad67b818e2f5c133118d2a4cca7845f3" title="Compute Ducros Sensor for Roe Dissipation." alt="" coords="331,1313,513,1355"/>
+<area shape="rect" id="node33" href="$class_c_adj_n_s_solver.html#af2cb5ceadb98384f7504b6f7c6e6840c" title="Source term computation." alt="" coords="341,1561,503,1603"/>
+<area shape="rect" id="node34" href="$class_c_adj_turb_solver.html#a4747f82b90660beb3b54cb04a3b5a9ef" title="Source term computation." alt="" coords="336,1627,508,1668"/>
+<area shape="rect" id="node35" href="$class_c_euler_solver.html#a9cb1da16bea732300854a351ebca2ed3" title="Compute the spatial integration using a upwind scheme." alt="" coords="341,1692,503,1733"/>
+<area shape="rect" id="node36" href="$class_c_inc_euler_solver.html#a935da79a4e1b1fe9c59bc86024164256" title="Compute the spatial integration using a upwind scheme." alt="" coords="331,1757,513,1799"/>
+<area shape="rect" id="node37" href="$class_c_turb_solver.html#a4816dd8b43bdb4abd3f8f7168879e902" title="Compute the spatial integration using a upwind scheme." alt="" coords="344,1823,500,1864"/>
+<area shape="rect" id="node38" href="$class_c_heat_solver_f_v_m.html#a0f7725503632a6917537b6674d1d9e58" title="Compute the spatial integration using a upwind scheme." alt="" coords="327,1888,517,1929"/>
+<area shape="rect" id="node39" href="$class_c_n_s_solver.html#a4b946463a9868faaa73fa1f40ee5e675" title="Compute the viscous residuals." alt="" coords="348,1953,496,1995"/>
+<area shape="rect" id="node40" href="$class_c_inc_n_s_solver.html#aa65d2bbb69dab2bbe40d3495d80da207" title="Compute the viscous residuals." alt="" coords="339,2019,505,2060"/>
+<area shape="rect" id="node41" href="$class_c_adj_n_s_solver.html#ab05613f9de871991f55c2e1f12eac8dd" title="Compute the viscous sensitivity of the functional." alt="" coords="337,2084,507,2125"/>
+<area shape="rect" id="node22" href="$class_c_turb_s_a_solver.html#a19089784668fa7ece2bd0400405f0a47" title="Impose the Navier&#45;Stokes wall boundary condition." alt="" coords="5,1131,249,1158"/>
+<area shape="rect" id="node24" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="25,1255,229,1282"/>
+<area shape="rect" id="node25" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="33,1314,222,1341"/>
+<area shape="rect" id="node27" href="$class_c_inc_euler_solver.html#aabd902b10cc9b41b6b2c406efba0ac41" title="Compute primitive variables and their gradients." alt="" coords="16,1445,239,1471"/>
+<area shape="rect" id="node28" href="$class_c_inc_n_s_solver.html#ae84f6e86313acd1da80c505b4eab81e5" title="Restart residual and compute gradients." alt="" coords="23,1499,231,1526"/>
+</map>

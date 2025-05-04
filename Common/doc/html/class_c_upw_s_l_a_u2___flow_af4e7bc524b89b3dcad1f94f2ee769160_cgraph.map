@@ -1,0 +1,10 @@
+<map id="CUpwSLAU2_Flow::ComputeResidual" name="CUpwSLAU2_Flow::ComputeResidual">
+<area shape="rect" id="node1" title="Compute the Roe&#39;s flux between two nodes i and j." alt="" coords="5,81,268,108"/>
+<area shape="rect" id="node2" href="$class_c_numerics.html#ae0225b473263a9547a2445c423ba7dce" title="Compute the projection of the inviscid Jacobian matrices." alt="" coords="320,5,539,32"/>
+<area shape="rect" id="node3" href="$class_c_numerics.html#a4c0be4ab3aa0dd899babe4c96d7a0c02" title="Computation of the matrix P for a generic fluid model." alt="" coords="342,56,517,83"/>
+<area shape="rect" id="node4" href="$class_c_numerics.html#a04a93dceeb13c4738d6c9ce357575257" title="Computation of the matrix P^{&#45;1}, this matrix diagonalize the conservative Jacobians in the form $P^{..." alt="" coords="329,107,530,133"/>
+<area shape="rect" id="node5" href="$class_c_numerics.html#aa3b798e3e337fbc5d36553cc875c1700" title="Calculate the central/upwind blending function for a face" alt="" coords="316,157,543,184"/>
+<area shape="rect" id="node6" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="609,132,791,159"/>
+<area shape="rect" id="node8" href="$class_c_config.html#ac5bec4548aaef1effa84ad7a3a038e35" title="Get the Kind of Roe Low Dissipation Scheme for Unsteady flows." alt="" coords="591,183,809,209"/>
+<area shape="rect" id="node7" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="857,132,1043,159"/>
+</map>

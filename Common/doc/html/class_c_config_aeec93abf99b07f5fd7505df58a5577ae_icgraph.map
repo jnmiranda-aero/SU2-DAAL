@@ -1,0 +1,14 @@
+<map id="CConfig::GetKind_TimeIntScheme" name="CConfig::GetKind_TimeIntScheme">
+<area shape="rect" id="node1" title="Get the kind of time integration method." alt="" coords="695,136,884,177"/>
+<area shape="rect" id="node2" href="$class_c_f_e_m___d_g___euler_solver.html#aeb9ecebe3a3192fa6a00b0dcdf88d469" title="Compute primitive variables and their gradients." alt="" coords="480,5,647,47"/>
+<area shape="rect" id="node4" href="$class_c_f_e_m___d_g___euler_solver.html#a651cad1a94f2024c75a1a8be347e3375" title="Function, which processes the list of tasks to be executed by the DG solver." alt="" coords="480,71,647,112"/>
+<area shape="rect" id="node6" href="$class_c_f_e_m___d_g___integration.html#afc451695bf272f195982e44553099cb8" title="Perform the spatial integration of the numerical system." alt="" coords="481,136,645,177"/>
+<area shape="rect" id="node8" href="$class_c_integration.html#a7868ecb7cdefd39f0fc417a52ca76e2f" title="Do the time integration (explicit or implicit) of the numerical system." alt="" coords="492,267,635,308"/>
+<area shape="rect" id="node12" href="$class_c_f_e_m___d_g___integration.html#a6a3540b932c09c76bcdc9514ba6f66ec" title="Perform the time integration (explicit or implicit) of the numerical system." alt="" coords="481,201,645,243"/>
+<area shape="rect" id="node3" href="$class_c_f_e_m___d_g___euler_solver.html#a7f0da04d44069701db2228210b91c59e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="216,5,432,47"/>
+<area shape="rect" id="node5" href="$class_c_f_e_m___d_g___euler_solver.html#ac59d8dae95e3c3cc3ab3feaeb9be4b22" title="Function, which controls the computation of the spatial Jacobian." alt="" coords="229,71,419,112"/>
+<area shape="rect" id="node7" href="$class_c_f_e_m___d_g___integration.html#a514483f76eeed4326b65f2fddb4b0e19" title="Do the numerical integration (implicit) of the turbulence solver." alt="" coords="242,152,406,193"/>
+<area shape="rect" id="node9" href="$class_c_multi_grid_integration.html#a98121aa0de6ddb0f83b41a2cad021e37" title="Perform a Full&#45;Approximation Storage (FAS) Multigrid." alt="" coords="243,233,405,275"/>
+<area shape="rect" id="node11" href="$class_c_single_grid_integration.html#ac3708d71cb7eb9b187a80a13f2107169" title="Do the numerical integration (implicit) of the turbulence solver." alt="" coords="239,299,409,340"/>
+<area shape="rect" id="node10" href="$class_c_multi_grid_integration.html#a4d65b648b6d17d396d2f3432f89e7f51" title="This subroutine calls the MultiGrid_Cycle and also prepare the multigrid levels and the monitoring." alt="" coords="5,233,168,275"/>
+</map>

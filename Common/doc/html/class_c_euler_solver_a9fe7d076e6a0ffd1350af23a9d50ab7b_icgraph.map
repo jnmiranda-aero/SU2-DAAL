@@ -1,0 +1,7 @@
+<map id="CEulerSolver::ComputeTurboVelocity" name="CEulerSolver::ComputeTurboVelocity">
+<area shape="rect" id="node1" title="it take a velocity in the cartesian reference of framework and transform into the turbomachinery fram..." alt="" coords="255,90,461,131"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#aa4c3988e3ce0c18460b5c069650c57b0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="21,5,191,32"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#ab13b628bfb33a1701ff0807195f953ef" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="14,57,198,98"/>
+<area shape="rect" id="node4" href="$class_c_euler_solver.html#a33402619b740bfe68350c50bba14c6ab" title="It computes Fourier transformation for the needed quantities along the pitch for each span in turboma..." alt="" coords="14,122,198,163"/>
+<area shape="rect" id="node5" href="$class_c_euler_solver.html#ab408049d3b4fecc224653176c8d7885a" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="5,187,207,229"/>
+</map>

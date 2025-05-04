@@ -1,0 +1,40 @@
+<map id="CConfig::GetWeakly_Coupled_Heat" name="CConfig::GetWeakly_Coupled_Heat">
+<area shape="rect" id="node1" title="Get the heat equation." alt="" coords="1243,359,1393,401"/>
+<area shape="rect" id="node2" href="$class_c_driver.html#aa7cf4d1952ea3b4e907cb86d1e6b8393" title="Definition and allocation of all integration classes." alt="" coords="996,107,1147,149"/>
+<area shape="rect" id="node5" href="$class_c_driver.html#adf124f826192e76bca4dbf1c61cb54ea" title="Definition and allocation of all integration classes." alt="" coords="996,963,1147,1005"/>
+<area shape="rect" id="node7" href="$class_c_output.html#af06e590811c3bdf10a8832c69df0d89c" title="Load the desired solution data into a structure used for parallel reordering and output file writing ..." alt="" coords="982,275,1161,317"/>
+<area shape="rect" id="node11" href="$class_c_inc_euler_solver.html#aa4c572590c60bbc0f3db269eb55ea12f" title="Load a solution from a restart file." alt="" coords="966,173,1177,200"/>
+<area shape="rect" id="node12" href="$class_c_turb_solver.html#a943c5037261d947714a8767bc77b7103" title="Load a solution from a restart file." alt="" coords="979,224,1164,251"/>
+<area shape="rect" id="node13" href="$class_c_output.html#aecbb03301a1775771b2167fa91d44293" title="Merge the solution into a data structure used for output file writing." alt="" coords="983,341,1160,368"/>
+<area shape="rect" id="node15" href="$class_c_driver.html#a07b570fb66322870b48268e8eb63599f" title="Definition and allocation of all solver classes." alt="" coords="948,5,1195,32"/>
+<area shape="rect" id="node16" href="$class_c_driver.html#a60382de671a5ddd17e35573cc49ec2a6" title="Definition and allocation of all solver classes." alt="" coords="952,789,1191,816"/>
+<area shape="rect" id="node17" href="$class_c_output.html#a80fa5155730eee36709b2090a03913c0" title="Write the history file and the convergence on the screen for serial computations." alt="" coords="978,392,1165,419"/>
+<area shape="rect" id="node21" href="$class_c_output.html#a43b140cf9da1254a681b9a35f897a764" title="Write the history file and the convergence on the screen for serial computations." alt="" coords="959,476,1183,503"/>
+<area shape="rect" id="node35" href="$class_c_output.html#ac4d334f212d5cf364aa4f8d2cfa9e42f" title="Write the header of the history file." alt="" coords="979,702,1163,743"/>
+<area shape="rect" id="node36" href="$class_c_driver.html#a851cbcdca8ef2b04b681320a17abbf72" title="Definition and allocation of all solution classes." alt="" coords="959,56,1184,83"/>
+<area shape="rect" id="node37" href="$class_c_driver.html#a3d178228eeb262fde01af82bd33e167c" title="Definition and allocation of all solution classes." alt="" coords="679,920,898,947"/>
+<area shape="rect" id="node38" href="$class_c_driver.html#a8c3ca9075830ae7b705268c208ba63c6" title="Restart of the solvers from the restart files." alt="" coords="984,861,1159,888"/>
+<area shape="rect" id="node3" href="$class_c_driver.html#a6ad9df8d8a8de75033ef296fed39c213" title="Deallocation routine." alt="" coords="700,31,877,57"/>
+<area shape="rect" id="node4" href="$_s_u2___c_f_d_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="64,63,119,89"/>
+<area shape="rect" id="node6" href="$class_c_driver.html#afac169e386a89af2a52be8902abb27f2" title="Constructor of the class." alt="" coords="485,869,613,896"/>
+<area shape="rect" id="node8" href="$class_c_output.html#aabf70f264a2b4b1aa3eb59b22040217d" title="Writes and organizes the all the output files, except the history one, for parallel computations." alt="" coords="716,82,861,123"/>
+<area shape="rect" id="node9" href="$class_c_driver.html#a5db0cab2665d7cb25e6ba9954f712f59" title="Output the solution in solution file." alt="" coords="488,89,611,116"/>
+<area shape="rect" id="node10" href="$class_c_driver.html#afa3fd46c5fb93979a385bd3910b107a4" title="Launch the computation for all zones and all physics." alt="" coords="248,89,399,116"/>
+<area shape="rect" id="node14" href="$class_c_output.html#a3f9e3547aeab11342d49cec28a460728" title="Writes and organizes the all the output files, except the history one, for serial computations." alt="" coords="716,147,861,189"/>
+<area shape="rect" id="node18" href="$class_c_driver.html#a3e8e47847956dfbb2ceca0403ce1ef81" title="Monitor the computation." alt="" coords="724,331,853,357"/>
+<area shape="rect" id="node19" href="$class_c_turbomachinery_driver.html#aa9471ad27e5ac1b292cf142447cd3ecc" title="Monitor the computation." alt="" coords="701,265,876,306"/>
+<area shape="rect" id="node20" href="$class_c_multiphysics_zonal_driver.html#aaada96729c84f6abcd93c06bf1f41010" title="Run one iteration in all physical zones." alt="" coords="677,213,900,240"/>
+<area shape="rect" id="node22" href="$class_c_disc_adj_f_s_i_driver.html#a139dfa2442613879f2b15f28a09c2bd5" title="Output the convergence history." alt="" coords="711,702,866,743"/>
+<area shape="rect" id="node27" href="$class_c_fluid_iteration.html#ac513849c15ea27fcd701a2d2d2cc28f7" title="Perform a single iteration of the fluid system." alt="" coords="704,432,873,459"/>
+<area shape="rect" id="node28" href="$class_c_heat_iteration.html#af0dad20daea11b8c53246724029bc932" title="Perform a single iteration of the heat system." alt="" coords="705,483,873,509"/>
+<area shape="rect" id="node29" href="$class_c_f_e_a_iteration.html#ac8c8f95bb68e4677c90d9f29ea8ed5fe" title="Perform a single iteration for structural analysis using the Finite Element Method." alt="" coords="707,381,870,408"/>
+<area shape="rect" id="node32" href="$class_c_disc_adj_f_e_a_iteration.html#ab12d300ff5c24b7fbdc65ba318df2beb" title="Perform a single iteration of the adjoint mean flow system." alt="" coords="709,534,869,575"/>
+<area shape="rect" id="node33" href="$class_c_disc_adj_fluid_driver.html#adc823b6fbe255ed554efeef485c26ae2" title="Run a single iteration of the discrete adjoint solver within multiple zones." alt="" coords="696,600,881,627"/>
+<area shape="rect" id="node34" href="$class_c_f_s_i_driver.html#a42f35db571cc1bf984b30d2ac7d8167c" title="Run a Block Gauss&#45;Seidel iteration of the FSI problem." alt="" coords="727,651,850,677"/>
+<area shape="rect" id="node23" href="$class_c_disc_adj_f_s_i_driver.html#a84949f139fa795b7d34d6ff77e82eb5c" title="Iterate a certain block for adjoint FSI &#45; may be the whole set of variables or independent and subite..." alt="" coords="476,702,623,743"/>
+<area shape="rect" id="node24" href="$class_c_disc_adj_f_s_i_driver.html#ab6dc73cea783398d2e4d40b56b8d142f" title="Iterate a block for adjoint FSI with flow Objective Function." alt="" coords="241,669,405,710"/>
+<area shape="rect" id="node26" href="$class_c_disc_adj_f_s_i_driver.html#a1199b609d2ec3ab24d9614a73c4ed74a" title="Iterate a block for adjoint FSI with structural Objective Function." alt="" coords="225,734,421,775"/>
+<area shape="rect" id="node25" href="$class_c_disc_adj_f_s_i_driver.html#a2e965d6e9c4dcfc296077cae225cab21" title="Run a Discrete Adjoint iteration for the FSI problem." alt="" coords="5,708,177,735"/>
+<area shape="rect" id="node30" href="$class_c_disc_adj_f_e_a_iteration.html#a121206a5f1ae2d2fbc5931cb7c37335a" title="Record a single iteration of the direct FEM system." alt="" coords="469,374,629,415"/>
+<area shape="rect" id="node31" href="$class_c_disc_adj_f_e_a_iteration.html#a8c4d696b9bbb8ff79713d892e4b7aef9" title="Preprocessing to prepare for an iteration of the physics." alt="" coords="243,374,403,415"/>
+</map>

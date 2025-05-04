@@ -1,0 +1,10 @@
+<map id="CFEASolver::SetAitken_Relaxation" name="CFEASolver::SetAitken_Relaxation">
+<area shape="rect" id="node1" title="Aitken&#39;s relaxation of the solution." alt="" coords="5,166,172,207"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a5b95a87f29d55981d1b951c6b1fb011d" title="Get Aitken&#39;s relaxation parameter for static relaxation cases." alt="" coords="224,5,431,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a3d41cea93d8e5e917b1c1dc42cfcdbf9" title="Get the relaxation method chosen for the simulation." alt="" coords="241,57,414,98"/>
+<area shape="rect" id="node4" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="243,123,411,149"/>
+<area shape="rect" id="node5" href="$class_c_variable.html#a2ad2aee625fdc9f1b973b32271422d0b" title="A virtual member. Get the value of the solution predictor." alt="" coords="225,173,429,200"/>
+<area shape="rect" id="node6" href="$class_c_f_e_a_solver.html#a29130714ba235f1516851ae2e3642f52" title="Retrieve the value of the dynamic Aitken relaxation factor." alt="" coords="220,224,435,251"/>
+<area shape="rect" id="node7" href="$class_c_variable.html#ac16f264b34b639ad8aeace755a98f0c8" title="Set the value of the old solution." alt="" coords="230,275,425,301"/>
+<area shape="rect" id="node8" href="$class_c_variable.html#a791bc5bc653cc643fe01b5758eaa2847" title="A virtual member. Set the value of the solution predictor." alt="" coords="244,326,411,367"/>
+</map>

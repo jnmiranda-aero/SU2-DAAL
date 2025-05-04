@@ -1,0 +1,16 @@
+<map id="CSolver::SetResidual_RMS" name="CSolver::SetResidual_RMS">
+<area shape="rect" id="node1" title="Set the value of the max residual and RMS residual." alt="" coords="5,259,199,285"/>
+<area shape="rect" id="node2" href="$class_c_solver.html#a8068067ba1b56173c95d4799bfb48d9e" title="Adds the maximal residual, this is useful for the convergence history." alt="" coords="274,5,438,32"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a55195abbb7206e08a4933fa53cd41923" title=" " alt="" coords="251,56,461,83"/>
+<area shape="rect" id="node5" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="251,107,461,133"/>
+<area shape="rect" id="node6" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="265,157,447,184"/>
+<area shape="rect" id="node8" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="273,208,439,235"/>
+<area shape="rect" id="node9" href="$class_c_geometry.html#a4fc7de3bff7b6f8c35717016d6f8fcb2" title="Get number of real points (that belong to the domain)." alt="" coords="247,259,465,285"/>
+<area shape="rect" id="node10" href="$class_c_solver.html#a255c9ff88cdc5c3bff7a42d2f4c790a5" title="Get the maximal residual, this is useful for the convergence history." alt="" coords="271,309,441,336"/>
+<area shape="rect" id="node11" href="$class_c_solver.html#a65feaf59ab69d663d5202f81a1ba0f08" title="Get the location of the maximal residual, this is useful for the convergence history." alt="" coords="271,361,441,402"/>
+<area shape="rect" id="node12" href="$class_c_solver.html#a00c2752e9b098ac63efeac7d14a83779" title="Get the maximal residual, this is useful for the convergence history." alt="" coords="275,427,437,453"/>
+<area shape="rect" id="node13" href="$class_c_solver.html#a1c24b55e0849f7f6ba2f62d15d7e4f8e" title="Get the maximal residual, this is useful for the convergence history." alt="" coords="275,477,437,504"/>
+<area shape="rect" id="node14" href="$class_c_solver.html#a6b74eb7a8bc01a4997c9844598f39d2f" title="Set the maximal residual, this is useful for the convergence history." alt="" coords="275,528,437,555"/>
+<area shape="rect" id="node4" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="513,81,728,108"/>
+<area shape="rect" id="node7" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="528,157,713,184"/>
+</map>

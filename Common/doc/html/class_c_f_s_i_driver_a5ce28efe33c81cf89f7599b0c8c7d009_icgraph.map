@@ -1,0 +1,11 @@
+<map id="CFSIDriver::Transfer_Tractions" name="CFSIDriver::Transfer_Tractions">
+<area shape="rect" id="node1" title="Transfer the tractions computed on the fluid solver into the structural solver." alt="" coords="1248,31,1399,73"/>
+<area shape="rect" id="node2" href="$class_c_f_s_i_driver.html#a42f35db571cc1bf984b30d2ac7d8167c" title="Run a Block Gauss&#45;Seidel iteration of the FSI problem." alt="" coords="1065,5,1188,32"/>
+<area shape="rect" id="node3" href="$class_c_disc_adj_f_s_i_driver.html#aef8192d6dd5451f1e496e9847c2c5c65" title="Run a direct structural iteration." alt="" coords="1053,56,1200,112"/>
+<area shape="rect" id="node4" href="$class_c_disc_adj_f_s_i_driver.html#acd9e7f14d860522e48ba2b6db34efd49" title="Iterate the direct solver for recording." alt="" coords="859,63,1005,105"/>
+<area shape="rect" id="node5" href="$class_c_disc_adj_f_s_i_driver.html#ab07394a77802e469a321ccd1b10cb988" title="Set the recording for a Discrete Adjoint iteration for the FSI problem." alt="" coords="664,63,811,105"/>
+<area shape="rect" id="node6" href="$class_c_disc_adj_f_s_i_driver.html#a84949f139fa795b7d34d6ff77e82eb5c" title="Iterate a certain block for adjoint FSI &#45; may be the whole set of variables or independent and subite..." alt="" coords="469,63,616,105"/>
+<area shape="rect" id="node7" href="$class_c_disc_adj_f_s_i_driver.html#ab6dc73cea783398d2e4d40b56b8d142f" title="Iterate a block for adjoint FSI with flow Objective Function." alt="" coords="241,30,405,71"/>
+<area shape="rect" id="node9" href="$class_c_disc_adj_f_s_i_driver.html#a1199b609d2ec3ab24d9614a73c4ed74a" title="Iterate a block for adjoint FSI with structural Objective Function." alt="" coords="225,95,421,137"/>
+<area shape="rect" id="node8" href="$class_c_disc_adj_f_s_i_driver.html#a2e965d6e9c4dcfc296077cae225cab21" title="Run a Discrete Adjoint iteration for the FSI problem." alt="" coords="5,71,177,97"/>
+</map>

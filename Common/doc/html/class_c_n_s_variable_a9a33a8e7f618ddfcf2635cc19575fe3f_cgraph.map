@@ -1,0 +1,10 @@
+<map id="CNSVariable::SetRoe_Dissipation_FD" name="CNSVariable::SetRoe_Dissipation_FD">
+<area shape="rect" id="node1" title="Set the new solution for Roe Dissipation." alt="" coords="5,150,161,191"/>
+<area shape="rect" id="node2" href="$namespace_a_d.html#a309d057a92faa60a3a760254678ec9ea" title="Ends a preaccumulation section and computes the local Jacobi matrix of a code section using the varia..." alt="" coords="274,5,390,32"/>
+<area shape="rect" id="node3" href="$class_c_euler_variable.html#aecc0bf38f05ae38576c6d5672f5749bb" title="Get the density of the flow." alt="" coords="233,56,431,83"/>
+<area shape="rect" id="node4" href="$class_c_n_s_variable.html#a225240469077267378aeabb07432bc8d" title="Get the eddy viscosity of the flow." alt="" coords="220,107,444,133"/>
+<area shape="rect" id="node5" href="$class_c_n_s_variable.html#ab341fb7a96997e0ba8913d477c67455b" title="Get the laminar viscosity of the flow." alt="" coords="209,157,455,184"/>
+<area shape="rect" id="node6" href="$namespace_a_d.html#aad703f3a82e509c88b92ae638f75383c" title="Sets the scalar input of a preaccumulation section." alt="" coords="269,208,395,235"/>
+<area shape="rect" id="node7" href="$namespace_a_d.html#ab3a80e24a5c8c2beb01131c57dcae4b2" title="Sets the scalar output of a preaccumulation section." alt="" coords="264,259,400,285"/>
+<area shape="rect" id="node8" href="$namespace_a_d.html#a2a1e9c4b109fd751e84132c9495de3ff" title="Starts a new preaccumulation section and sets the input variables." alt="" coords="271,309,393,336"/>
+</map>

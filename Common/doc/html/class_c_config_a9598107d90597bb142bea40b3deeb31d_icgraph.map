@@ -1,0 +1,6 @@
+<map id="CConfig::GetKind_MixingPlaneInterface" name="CConfig::GetKind_MixingPlaneInterface">
+<area shape="rect" id="node1" title="Get the kind of mixing process for averaging quantities at the boundaries." alt="" coords="735,5,953,47"/>
+<area shape="rect" id="node2" href="$class_c_transfer.html#a277c9ad0deda676c07a2042c404e13fd" title="Transfer pre&#45;processing for the mixing plane inteface." alt="" coords="504,5,687,47"/>
+<area shape="rect" id="node3" href="$class_c_driver.html#a62ce0ec9ca8942aae6ee6bc9b5211759" title="Initiate value for static mesh movement such as the gridVel for the ROTATING frame." alt="" coords="181,13,456,39"/>
+<area shape="rect" id="node4" href="$class_c_driver.html#afac169e386a89af2a52be8902abb27f2" title="Constructor of the class." alt="" coords="5,13,133,39"/>
+</map>

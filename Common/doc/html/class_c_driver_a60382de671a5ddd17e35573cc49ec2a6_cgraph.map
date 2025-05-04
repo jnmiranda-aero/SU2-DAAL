@@ -1,0 +1,43 @@
+<map id="CDriver::Numerics_Preprocessing" name="CDriver::Numerics_Preprocessing">
+<area shape="rect" id="node1" title="Definition and allocation of all solver classes." alt="" coords="5,1024,244,1051"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="331,5,512,32"/>
+<area shape="rect" id="node4" href="$class_c_config.html#ac6fd9a6673c2f22e98c0d45102f23a65" title="Get information about the axisymmetric frame." alt="" coords="324,56,519,83"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a9af4200d2cd764653d2707da4acc7847" title="Get information about the body force." alt="" coords="332,107,511,133"/>
+<area shape="rect" id="node6" href="$class_c_solver.html#a5708c38a23198ff8da13a1cb32bc841c" title="A virtual member." alt="" coords="337,157,505,184"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a8ad45b179ddabec5652dbf4b517fbbf0" title="Decide whether to apply DE effects to the model." alt="" coords="335,208,507,235"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a03b738830fef0dc39082f4329e59dbb6" title="Get the name of the file with the element properties for structural problems." alt="" coords="323,259,520,285"/>
+<area shape="rect" id="node9" href="$class_c_config.html#aec67dda6436453412e8647ee6879108b" title="Provides information about the way in which the turbulence will be treated by the cont...." alt="" coords="348,310,495,351"/>
+<area shape="rect" id="node10" href="$class_c_config.html#ac036c2fe542984a827ea2f21b3b4d4a6" title="Geometric conditions for the structural solver." alt="" coords="301,376,541,403"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a6a90381cd849fe5f72ce65a31da3d236" title="Get information about the gravity force." alt="" coords="328,427,515,453"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a3d92a72397d083049aed74f4e023a110" title="Get the kind of center convective numerical scheme for the adjoint flow equations." alt="" coords="322,478,521,519"/>
+<area shape="rect" id="node13" href="$class_c_config.html#a130e07727d19c4018ead72790f5ede0b" title="Get the kind of center convective numerical scheme for the flow equations." alt="" coords="303,544,539,571"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a3e3813b3bb9d7242909c0ee42c59dadd" title="Get the kind of convective numerical scheme for the adjoint flow equations (centered or upwind)." alt="" coords="320,595,523,637"/>
+<area shape="rect" id="node15" href="$class_c_config.html#a5f69e7548937329f197022195078a161" title="Get the kind of convective numerical scheme for the adjoint turbulence equations (centered or upwind)..." alt="" coords="320,661,523,702"/>
+<area shape="rect" id="node16" href="$class_c_config.html#a37d84fba27cc0fce5fb4dad75277aa0d" title="Get the kind of convective numerical scheme for the flow equations (centered or upwind)." alt="" coords="320,726,523,767"/>
+<area shape="rect" id="node17" href="$class_c_config.html#aa0e6a21f05a713ee9ffe9efea16addfb" title="Get the kind of convective numerical scheme for the heat equation." alt="" coords="320,791,523,833"/>
+<area shape="rect" id="node18" href="$class_c_config.html#addf7082ced51a014ba7e62f1479907fc" title="Get the kind of convective numerical scheme for the template equations (centered or upwind)." alt="" coords="320,857,523,898"/>
+<area shape="rect" id="node19" href="$class_c_config.html#aab6b9f62bd3a1f6f382dbf6c690742f4" title="Get the kind of convective numerical scheme for the turbulence equations (upwind)." alt="" coords="320,922,523,963"/>
+<area shape="rect" id="node20" href="$class_c_config.html#a6ac5dedb352b8312970fe6102e5547f6" title="Option to define the density model for incompressible flows." alt="" coords="327,987,516,1029"/>
+<area shape="rect" id="node21" href="$class_c_config.html#ac36fbf73af5ad628f510769c556717d3" title="Fluid model that we are using." alt="" coords="316,1053,527,1080"/>
+<area shape="rect" id="node22" href="$class_c_config.html#a66ca7e620390a81cd49cd0a00716128e" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="327,1104,516,1131"/>
+<area shape="rect" id="node23" href="$class_c_config.html#ac5bec4548aaef1effa84ad7a3a038e35" title="Get the Kind of Roe Low Dissipation Scheme for Unsteady flows." alt="" coords="312,1155,531,1181"/>
+<area shape="rect" id="node24" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="331,1205,511,1232"/>
+<area shape="rect" id="node25" href="$class_c_config.html#a362c61be9d6c43c8913d7379c6fd2300" title="Get the kind of the transition model." alt="" coords="335,1257,508,1298"/>
+<area shape="rect" id="node26" href="$class_c_config.html#a40aaed07fc5844d505d2c0b7076594d7" title="Get the kind of the turbulence model." alt="" coords="338,1322,505,1363"/>
+<area shape="rect" id="node27" href="$class_c_config.html#ae5845dc1c9789eeb2a37f4581c10c929" title="Get the kind of upwind convective numerical scheme for the adjoint flow equations." alt="" coords="327,1387,515,1429"/>
+<area shape="rect" id="node28" href="$class_c_config.html#a97f0506e4307fbc833adc0320a2a7df6" title="Get the kind of upwind convective numerical scheme for the flow equations." alt="" coords="308,1453,535,1480"/>
+<area shape="rect" id="node29" href="$class_c_config.html#aa390083ca0a8cb156a80abede3a59ddf" title="Compressibility/incompressibility of the solids analysed using the structural solver." alt="" coords="292,1504,551,1531"/>
+<area shape="rect" id="node30" href="$class_c_config.html#a0ebe1cab5258d04534bf46ff40dcbe02" title="Compressibility/incompressibility of the solids analysed using the structural solver." alt="" coords="323,1555,520,1581"/>
+<area shape="rect" id="node31" href="$class_c_config.html#aefa1a86d2c906eb6bb146578d55114f7" title="Append the zone index to the restart or the solution files." alt="" coords="338,1606,505,1647"/>
+<area shape="rect" id="node35" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="341,1672,502,1699"/>
+<area shape="rect" id="node36" href="$class_c_config.html#aea7f78497a5cd863bd065391232329fd" title="Get the number of multigrid levels." alt="" coords="334,1723,509,1749"/>
+<area shape="rect" id="node37" href="$class_c_solver.html#a65c22046b0cf1938ba22648912d04680" title="Get the number of variables of the problem." alt="" coords="355,1773,487,1800"/>
+<area shape="rect" id="node38" href="$class_c_config.html#ac5d613463ef0d7b01e66c4e33f586afb" title="Get the kind of Riemann solver for the DG method (FEM flow solver)." alt="" coords="341,1825,502,1866"/>
+<area shape="rect" id="node39" href="$class_c_config.html#a5ac97db2be7bae9007d01557f80418bc" title="Get information about the rotational frame." alt="" coords="342,1890,501,1931"/>
+<area shape="rect" id="node40" href="$class_c_config.html#adb13f6471b2c0bbef919ae9d8fe95f68" title="Get the heat equation." alt="" coords="346,1955,497,1997"/>
+<area shape="rect" id="node41" href="$class_c_config.html#abeb1d75666a9d471141c88b5e57458c7" title="Get information about the wind gust." alt="" coords="335,2021,508,2048"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="599,5,784,32"/>
+<area shape="rect" id="node32" href="$class_c_config.html#ad8a83ccc6af7a42273330d6bf596b8c0" title="Provides the number of varaibles." alt="" coords="619,1588,763,1615"/>
+<area shape="rect" id="node33" href="$namespace_s_u2___t_y_p_e.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="635,1639,747,1665"/>
+<area shape="rect" id="node34" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="832,1639,987,1665"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="CAdjFluidIteration::Preprocess" name="CAdjFluidIteration::Preprocess">
+<area shape="rect" id="node1" title="Preprocessing to prepare for an iteration of the physics." alt="" coords="5,501,144,542"/>
+<area shape="rect" id="node2" href="$class_c_config.html#aa48f2fc504ec2b261d5046f9a17677dd" title="Get the current external iteration number." alt="" coords="229,5,375,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="199,56,405,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#aea7f78497a5cd863bd065391232329fd" title="Get the number of multigrid levels." alt="" coords="215,107,389,133"/>
+<area shape="rect" id="node5" href="$class_c_solver.html#a255c9ff88cdc5c3bff7a42d2f4c790a5" title="Get the maximal residual, this is useful for the convergence history." alt="" coords="217,157,387,184"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a45e95664235928d911e7c3876fe078b3" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="219,209,385,250"/>
+<area shape="rect" id="node7" href="$namespace_s_u2___t_y_p_e.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="246,275,358,301"/>
+<area shape="rect" id="node9" href="$class_c_solver.html#a61c87a4ff51926361e18797c49204e72" title="A virtual member." alt="" coords="223,325,381,352"/>
+<area shape="rect" id="node10" href="$class_c_integration.html#a317fb90509d5011db81355b683ca4bd5" title="A virtual member." alt="" coords="217,377,387,418"/>
+<area shape="rect" id="node11" href="$class_c_solver.html#af5111d069481bd8e670d774a031a733e" title="A virtual member." alt="" coords="221,442,383,483"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a0ef279c31675afba711ab7a31a9eb297" title="Set the global parameters of each simulation for each runtime system." alt="" coords="210,508,394,535"/>
+<area shape="rect" id="node15" href="$class_c_solver.html#af305f272e998027922935a7101135f54" title="A virtual member." alt="" coords="192,559,412,585"/>
+<area shape="rect" id="node16" href="$class_c_config.html#ad7a7eb9fd19c04c8c5d87f8d9ec309cd" title="Set the current internal iteration number." alt="" coords="232,609,372,636"/>
+<area shape="rect" id="node17" href="$class_c_solver.html#ab51f2f05bffdf462b7a71a3b8958dde3" title="A virtual member." alt="" coords="222,661,382,702"/>
+<area shape="rect" id="node18" href="$class_c_solver.html#a6864c485cc15af7a14fdaf7d75b85b09" title="A virtual member." alt="" coords="222,726,382,767"/>
+<area shape="rect" id="node19" href="$class_c_solver.html#ae3063dcd94ded2e6901097012c406d58" title="A virtual member." alt="" coords="223,792,381,819"/>
+<area shape="rect" id="node20" href="$class_c_solver.html#a72ecb34d3fb8ed9f2a964e32c244c6ce" title="A virtual member." alt="" coords="225,843,379,869"/>
+<area shape="rect" id="node21" href="$class_c_solver.html#a68424c37a9f3b149277645f81e070530" title="A virtual member." alt="" coords="223,893,381,920"/>
+<area shape="rect" id="node22" href="$class_c_solver.html#a7e21f13f00990f01b15217877dbb9b68" title="A virtual member." alt="" coords="224,944,380,971"/>
+<area shape="rect" id="node23" href="$class_c_integration.html#a264220ddb070496634fc0f21e1f7dac3" title="A virtual member." alt="" coords="213,995,391,1037"/>
+<area shape="rect" id="node8" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="483,275,638,301"/>
+<area shape="rect" id="node13" href="$class_c_config.html#a00fe3327e64dc4702368b049cd2f3f7a" title="Set the parameters of the convective numerical scheme." alt="" coords="460,469,661,510"/>
+<area shape="rect" id="node14" href="$class_c_config.html#aeab5b83d725a0a87973af7bb9fa90e6c" title="Set the kind of time integration scheme." alt="" coords="467,534,654,575"/>
+</map>

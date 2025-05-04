@@ -1,0 +1,6 @@
+<map id="CElement::ComputeVolume" name="CElement::ComputeVolume">
+<area shape="rect" id="node1" title="Compute the value of the volume of the element." alt="" coords="485,46,687,73"/>
+<area shape="rect" id="node2" href="$class_c_elasticity_movement.html#a9f86dfceeca25d359e374181c7388ad3" title="Compute the min and max volume for the stiffness matrix for grid deformation." alt="" coords="276,5,437,47"/>
+<area shape="rect" id="node4" href="$class_c_f_e_a_solver.html#a851693872b6b7849d52854fe9734ad85" title="Compute the penalty due to the stiffness increase." alt="" coords="276,71,437,112"/>
+<area shape="rect" id="node3" href="$class_c_elasticity_movement.html#aa7ba45343e741043847388c3ccf98306" title="Grid deformation using the linear elasticity equations." alt="" coords="5,5,228,47"/>
+</map>

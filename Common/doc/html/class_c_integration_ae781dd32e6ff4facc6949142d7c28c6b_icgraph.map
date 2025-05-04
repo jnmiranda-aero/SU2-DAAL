@@ -1,0 +1,5 @@
+<map id="CIntegration::GetConvergence_FSI" name="CIntegration::GetConvergence_FSI">
+<area shape="rect" id="node1" title="Get the indicator of the convergence for the Fluid&#45;Structure Interaction problem." alt="" coords="435,5,679,32"/>
+<area shape="rect" id="node2" href="$class_c_f_s_i_driver.html#aeeea6bb4ec8377a5015df6bc88e5a66b" title="Check the convergence of BGS subiteration process." alt="" coords="176,5,387,32"/>
+<area shape="rect" id="node3" href="$class_c_f_s_i_driver.html#a42f35db571cc1bf984b30d2ac7d8167c" title="Run a Block Gauss&#45;Seidel iteration of the FSI problem." alt="" coords="5,5,128,32"/>
+</map>

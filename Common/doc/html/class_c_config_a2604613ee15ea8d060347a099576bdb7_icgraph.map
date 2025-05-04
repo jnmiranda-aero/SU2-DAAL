@@ -1,0 +1,17 @@
+<map id="CConfig::GetKind_SlopeLimit_Flow" name="CConfig::GetKind_SlopeLimit_Flow">
+<area shape="rect" id="node1" title="Get the method for limiting the spatial gradients." alt="" coords="539,286,785,313"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="16,30,220,57"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#aabd902b10cc9b41b6b2c406efba0ac41" title="Compute primitive variables and their gradients." alt="" coords="7,198,229,225"/>
+<area shape="rect" id="node4" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="23,99,213,126"/>
+<area shape="rect" id="node5" href="$class_c_inc_n_s_solver.html#ae84f6e86313acd1da80c505b4eab81e5" title="Restart residual and compute gradients." alt="" coords="14,286,222,313"/>
+<area shape="rect" id="node6" href="$class_c_turb_s_a_solver.html#a225518dc5f0ca6ed894add826aaa16ea" title="Restart residual and compute gradients." alt="" coords="10,337,226,363"/>
+<area shape="rect" id="node7" href="$class_c_turb_s_s_t_solver.html#a653cf05307f24374fda6f523ce3130bf" title="Restart residual and compute gradients." alt="" coords="7,387,229,414"/>
+<area shape="rect" id="node8" href="$class_c_euler_solver.html#a43004a7f0fad7a6d1f435144710bf13e" title="Compute the limiter of the primitive variables." alt="" coords="288,52,481,93"/>
+<area shape="rect" id="node9" href="$class_c_inc_euler_solver.html#a00bd56828c4e41ec3ff1e8753cb320ec" title="Compute the limiter of the primitive variables." alt="" coords="279,220,491,261"/>
+<area shape="rect" id="node10" href="$class_c_solver.html#a641e9c59698ab9c7c2fb91107ad70d77" title="Compute slope limiter." alt="" coords="307,439,462,480"/>
+<area shape="rect" id="node14" href="$class_c_euler_solver.html#a9cb1da16bea732300854a351ebca2ed3" title="Compute the spatial integration using a upwind scheme." alt="" coords="303,504,466,545"/>
+<area shape="rect" id="node15" href="$class_c_inc_euler_solver.html#a935da79a4e1b1fe9c59bc86024164256" title="Compute the spatial integration using a upwind scheme." alt="" coords="294,569,475,611"/>
+<area shape="rect" id="node11" href="$class_c_adj_euler_solver.html#a4ae0ed840dc8335fd921399625ba794f" title="Initialize the residual vectors." alt="" coords="5,438,231,465"/>
+<area shape="rect" id="node12" href="$class_c_adj_n_s_solver.html#ac16dab76e2c1d86bc7d70ca9f41fd668" title="Restart residual and compute gradients." alt="" coords="13,489,223,515"/>
+<area shape="rect" id="node13" href="$class_c_adj_turb_solver.html#ad7f35bfeec670ed4357083ecdada59f5" title="Compute the spatial integration using a upwind scheme." alt="" coords="29,540,207,581"/>
+</map>

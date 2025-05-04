@@ -1,0 +1,7 @@
+<map id="CTransfer_SlidingInterface::SetTarget_Variable" name="CTransfer_SlidingInterface::SetTarget_Variable">
+<area shape="rect" id="node1" title="Set the variable that has been received from the target mesh into the target mesh." alt="" coords="5,74,197,115"/>
+<area shape="rect" id="node2" href="$class_c_solver.html#a42526e1f01fb256c65475aae0b193664" title="Get the number of variables of the problem." alt="" coords="262,5,425,32"/>
+<area shape="rect" id="node3" href="$class_c_solver.html#a0cacb363a54fa281d99d174ddb07632f" title="Get the number of outer states for fluid interface nodes." alt="" coords="245,56,441,83"/>
+<area shape="rect" id="node4" href="$class_c_solver.html#afbe60618c6dd18f205f1626c39c11750" title="Set the number of outer states for fluid interface nodes." alt="" coords="246,107,441,133"/>
+<area shape="rect" id="node5" href="$class_c_solver.html#afa78bdcc4c2209e5602a18d7bc2f62c2" title="Set the outer state for fluid interface nodes." alt="" coords="254,157,433,184"/>
+</map>

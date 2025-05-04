@@ -1,0 +1,5 @@
+<map id="CIntegration::Convergence_Monitoring_FSI" name="CIntegration::Convergence_Monitoring_FSI">
+<area shape="rect" id="node1" title="Do the convergence analysis to determine if the FSI problem has converged on the structural side." alt="" coords="435,5,629,47"/>
+<area shape="rect" id="node2" href="$class_c_f_s_i_driver.html#aeeea6bb4ec8377a5015df6bc88e5a66b" title="Check the convergence of BGS subiteration process." alt="" coords="176,13,387,39"/>
+<area shape="rect" id="node3" href="$class_c_f_s_i_driver.html#a42f35db571cc1bf984b30d2ac7d8167c" title="Run a Block Gauss&#45;Seidel iteration of the FSI problem." alt="" coords="5,13,128,39"/>
+</map>

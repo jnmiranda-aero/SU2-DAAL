@@ -1,0 +1,12 @@
+<map id="CConfig::GetMarker_All_Turbomachinery" name="CConfig::GetMarker_All_Turbomachinery">
+<area shape="rect" id="node1" title="Get the Turbomachinery information for a marker val_marker." alt="" coords="255,267,412,308"/>
+<area shape="rect" id="node2" href="$class_c_physical_geometry.html#a9aa84f4877184465391ad944264e2c12" title="Set number of span wise level for turbomachinery computation." alt="" coords="27,5,185,47"/>
+<area shape="rect" id="node3" href="$class_c_physical_geometry.html#a217e5337523ba85579c8a3d209bf25d9" title="Set turbo boundary vertex." alt="" coords="7,71,205,112"/>
+<area shape="rect" id="node4" href="$class_c_euler_solver.html#ab65fe699472aae15ef7ebdad60575875" title="It gathers into the master node average quantities at inflow and outflow needed for turbomachinery an..." alt="" coords="10,136,202,177"/>
+<area shape="rect" id="node5" href="$class_c_euler_solver.html#ab13b628bfb33a1701ff0807195f953ef" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="14,201,198,243"/>
+<area shape="rect" id="node6" href="$class_c_euler_solver.html#a33402619b740bfe68350c50bba14c6ab" title="It computes Fourier transformation for the needed quantities along the pitch for each span in turboma..." alt="" coords="14,267,198,308"/>
+<area shape="rect" id="node7" href="$class_c_physical_geometry.html#a9b42df38be11e404f3f2f8e729d0af74" title="Set turbo boundary vertex." alt="" coords="27,332,185,373"/>
+<area shape="rect" id="node8" href="$class_c_physical_geometry.html#a51481bb8173c15758a94838d29c7f0c7" title="Set turbo boundary vertex." alt="" coords="27,397,185,439"/>
+<area shape="rect" id="node9" href="$class_c_euler_solver.html#ab408049d3b4fecc224653176c8d7885a" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="5,463,207,504"/>
+<area shape="rect" id="node10" href="$class_c_physical_geometry.html#af127c1132d94b681e79427672637c0fa" title="update turbo boundary vertex." alt="" coords="27,528,185,569"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CGridAdaptation::GetAdjResidual" name="CGridAdaptation::GetAdjResidual">
+<area shape="rect" id="node1" title="Read the flow solution from the restart file." alt="" coords="5,107,243,133"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="295,5,477,32"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a2d4389021feaed9f2e62f0475f73a718" title="Get the kind of objective function. There are several options: Drag coefficient, Lift coefficient,..." alt="" coords="291,56,481,83"/>
+<area shape="rect" id="node5" href="$class_c_config.html#ab5f5e64d5919ca8e665c421c9477bb0d" title="Get the total number of objectives in kind_objective list." alt="" coords="319,107,453,133"/>
+<area shape="rect" id="node6" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="303,157,469,184"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a5462c8f508ec750d265d4ec8ae21fc80" title="Get the name of the file with the solution of the adjoint flow problem with drag objective function." alt="" coords="308,209,464,250"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="529,5,715,32"/>
+</map>

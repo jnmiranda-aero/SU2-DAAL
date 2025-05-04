@@ -1,0 +1,10 @@
+<map id="CFEASolver" name="CFEASolver">
+<area shape="rect" id="node1" title="Main class for defining a FEM solver for elastic structural problems." alt="" coords="351,275,448,301"/>
+<area shape="rect" id="node2" href="$class_c_solver.html" title="Main class for defining the PDE solution, it requires a child class for each particular solver (Euler..." alt="" coords="213,162,285,189"/>
+<area shape="rect" id="node3" href="$class_c_variable.html" title="Main class for defining the variables." alt="" coords="168,5,252,32"/>
+<area shape="rect" id="node4" href="$class_c_sys_vector.html" title="Class for holding and manipulating vectors needed by linear solvers." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node5" href="$class_c_sys_matrix.html" title="Main class for defining sparse matrices&#45;by&#45;blocks with compressed row format." alt="" coords="314,5,410,32"/>
+<area shape="rect" id="node6" href="$class_c_element_property.html" title="Main class for defining the element properties." alt="" coords="505,162,645,189"/>
+<area shape="rect" id="node7" href="$class_c_element.html" title="Main class for defining the element structure." alt="" coords="682,162,767,189"/>
+<area shape="rect" id="node8" href="$class_c_gauss_variable.html" title="Main class for defining the gaussian points." alt="" coords="663,5,787,32"/>
+</map>

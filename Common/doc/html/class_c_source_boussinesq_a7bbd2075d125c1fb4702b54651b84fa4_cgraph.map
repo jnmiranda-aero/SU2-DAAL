@@ -1,0 +1,6 @@
+<map id="CSourceBoussinesq::ComputeResidual" name="CSourceBoussinesq::ComputeResidual">
+<area shape="rect" id="node1" title="Source term integration for the Boussinesq approximation." alt="" coords="5,57,163,98"/>
+<area shape="rect" id="node2" href="$class_c_config.html#af81b7fb1443c3d595aadd29d5f13accb" title="Get the value of the reference force for non&#45;dimensionalization." alt="" coords="220,5,387,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a00454cff9575acd21239959b4030b192" title="Get the value of the non&#45;dimensionalized freestream temperature." alt="" coords="211,57,396,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a1c5c8a2eb2beb00d7587d6a2bdbedb1c" title="Get the non&#45;dim. thermal expansion coefficient." alt="" coords="225,122,382,163"/>
+</map>

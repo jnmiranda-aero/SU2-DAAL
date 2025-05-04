@@ -1,0 +1,17 @@
+<map id="CConfig::GetiInst" name="CConfig::GetiInst">
+<area shape="rect" id="node1" title="Get the current instance." alt="" coords="841,129,972,156"/>
+<area shape="rect" id="node2" href="$class_c_baseline_solver.html#acb5f7a5211dcf8ba4337e9b251024553" title="Load a solution from a restart file." alt="" coords="579,5,793,32"/>
+<area shape="rect" id="node3" href="$class_c_physical_geometry.html#ad61681f39d9e2dbdaf821433e22fd4b0" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file in para..." alt="" coords="588,57,784,98"/>
+<area shape="rect" id="node5" href="$class_c_baseline_solver.html#ab8e4b1b71d637dd0adee324d4a7a6315" title="Set the number of variables and string names from the restart file." alt="" coords="585,122,787,163"/>
+<area shape="rect" id="node7" href="$class_c_output.html#a080755e0a403e417f63ca46ac456ea79" title="Write a Paraview ASCII solution file." alt="" coords="605,219,767,261"/>
+<area shape="rect" id="node15" href="$class_c_output.html#a73373131331a79e030bf4a16a6caedfc" title="Write a native SU2 restart file." alt="" coords="611,292,761,319"/>
+<area shape="rect" id="node4" href="$class_c_physical_geometry.html#a075a737b341a64de5463ddd41096692e" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file." alt="" coords="351,23,509,65"/>
+<area shape="rect" id="node6" href="$class_c_baseline_solver.html#a996d9c6ee613b5b45a25a765f3c5e2cd" title=" " alt="" coords="329,89,531,130"/>
+<area shape="rect" id="node8" href="$class_c_output.html#adafaf6906933a6061b4dbf77a43d8ce1" title="Writes and organizes the all the output files, except the history one, for serial computations." alt="" coords="329,219,531,261"/>
+<area shape="rect" id="node12" href="$class_c_output.html#addef7f58fbf0b3f83247acb6ce1f9656" title="Writes and organizes the all the output files, except the history one, for DG&#45;FEM simulations (SU2_SO..." alt="" coords="329,154,531,195"/>
+<area shape="rect" id="node13" href="$class_c_output.html#a3f9e3547aeab11342d49cec28a460728" title="Writes and organizes the all the output files, except the history one, for serial computations." alt="" coords="357,285,503,326"/>
+<area shape="rect" id="node14" href="$class_c_output.html#a7072279b203871651d163fb2dd60d2d6" title="Writes and organizes the all the output files, except the history one, for serial computations with t..." alt="" coords="357,350,503,391"/>
+<area shape="rect" id="node9" href="$_s_u2___s_o_l_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="167,165,222,192"/>
+<area shape="rect" id="node10" href="$class_c_output.html#ac030f4a3a7d64c2c38285692b8481558" title="Write the sensitivity (including mesh sensitivity) computed with the discrete adjoint method on the s..." alt="" coords="108,219,281,261"/>
+<area shape="rect" id="node11" href="$_s_u2___d_o_t_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,227,60,253"/>
+</map>

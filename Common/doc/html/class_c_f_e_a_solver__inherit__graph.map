@@ -1,0 +1,4 @@
+<map id="CFEASolver" name="CFEASolver">
+<area shape="rect" id="node1" title="Main class for defining a FEM solver for elastic structural problems." alt="" coords="5,80,103,107"/>
+<area shape="rect" id="node2" href="$class_c_solver.html" title="Main class for defining the PDE solution, it requires a child class for each particular solver (Euler..." alt="" coords="18,5,90,32"/>
+</map>

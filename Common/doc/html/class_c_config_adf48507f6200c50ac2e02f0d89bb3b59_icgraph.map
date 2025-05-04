@@ -1,0 +1,16 @@
+<map id="CConfig::GetViscosity_Ref" name="CConfig::GetViscosity_Ref">
+<area shape="rect" id="node1" title="Get the value of the reference viscosity for non&#45;dimensionalization." alt="" coords="608,229,799,255"/>
+<area shape="rect" id="node2" href="$class_c_n_s_solver.html#ad7c717280b27282a9e02bb1c0b50480a" title="Impose the Navier&#45;Stokes boundary condition (strong) with values from a CHT coupling." alt="" coords="299,5,519,47"/>
+<area shape="rect" id="node3" href="$class_c_heat_solver_f_v_m.html#ae37f2deac6090f973d605975790f32f1" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="329,71,488,112"/>
+<area shape="rect" id="node4" href="$class_c_n_s_variable.html#a01436c8efabebea718159264a7954665" title=" " alt="" coords="313,137,504,163"/>
+<area shape="rect" id="node5" href="$class_c_transfer___conjugate_heat_vars.html#a357e0acccf0be88325423ebff8cefb62" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="301,188,516,229"/>
+<area shape="rect" id="node6" href="$class_c_heat_solver_f_v_m.html#a0f6b7e5a6e657340e1634743b9631102" title="Evaluate heat&#45;flux related objectives." alt="" coords="323,253,494,295"/>
+<area shape="rect" id="node7" href="$class_c_euler_solver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="267,319,551,346"/>
+<area shape="rect" id="node10" href="$class_c_inc_euler_solver.html#a2cffaa24417cb3803d36d38b3874d6d0" title="Set the solver nondimensionalization." alt="" coords="257,374,560,401"/>
+<area shape="rect" id="node13" href="$class_c_f_e_m___d_g___euler_solver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="308,455,509,496"/>
+<area shape="rect" id="node8" href="$class_c_euler_solver.html#ae1e74218b4e943111b100d7ddcbd4db9" title=" " alt="" coords="9,265,205,291"/>
+<area shape="rect" id="node9" href="$class_c_n_s_solver.html#a2a8ad49c42b4546696e631cf44b7788b" title=" " alt="" coords="24,315,191,342"/>
+<area shape="rect" id="node11" href="$class_c_inc_euler_solver.html#a91f644b8f9a00215bac5bcd31dfc06d8" title=" " alt="" coords="11,367,204,408"/>
+<area shape="rect" id="node12" href="$class_c_inc_n_s_solver.html#a82152ac7e91fb1c5c073d98a1f08e2aa" title=" " alt="" coords="5,433,209,459"/>
+<area shape="rect" id="node14" href="$class_c_f_e_m___d_g___euler_solver.html#a70d30ef9e7cd7620d54ec73f4b1ed28c" title=" " alt="" coords="20,484,195,525"/>
+</map>

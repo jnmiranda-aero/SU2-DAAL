@@ -1,0 +1,4 @@
+<map id="CDiscAdjSolver::UpdateSolution_BGS" name="CDiscAdjSolver::UpdateSolution_BGS">
+<area shape="rect" id="node1" title="Store the BGS solution in the previous subiteration in the corresponding vector." alt="" coords="5,5,268,32"/>
+<area shape="rect" id="node2" href="$class_c_variable.html#a52ef7c56a4ef560c0980cf3d782e30ed" title="A virtual member. Set the value of the old geometry solution (adjoint)." alt="" coords="316,5,531,32"/>
+</map>

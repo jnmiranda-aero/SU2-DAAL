@@ -1,0 +1,52 @@
+<map id="CHeatSolverFVM::CHeatSolverFVM" name="CHeatSolverFVM::CHeatSolverFVM">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,1638,256,1665"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a186db88d7f6dd6b9b03a81b5b1e00492" title="Build the Linelet preconditioner." alt="" coords="333,1063,515,1104"/>
+<area shape="rect" id="node10" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="617,1274,778,1301"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="607,1325,787,1351"/>
+<area shape="rect" id="node14" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="614,1375,781,1402"/>
+<area shape="rect" id="node17" href="$class_c_config.html#abdcc61f1a8497480834447acc74cb897" title="Get the value of the solid density." alt="" coords="347,1471,501,1512"/>
+<area shape="rect" id="node18" href="$class_c_config.html#a24185ddcb4d61cbd0e4dcbbe2ae14d80" title="Creates a tecplot file to visualize the partition made by the DDC software." alt="" coords="333,1537,515,1563"/>
+<area shape="rect" id="node19" href="$class_c_config.html#a92e38e990d0bb19503e0e4d3ecaa5597" title="Get the value of the initial temperature for incompressible flows." alt="" coords="305,1587,543,1614"/>
+<area shape="rect" id="node20" href="$class_c_config.html#a00f244f6ec4da48874fca3fe63b4ec03" title="Get the value of the reference temperature for custom incompressible non&#45;dimensionalization." alt="" coords="304,1638,544,1665"/>
+<area shape="rect" id="node21" href="$class_c_config.html#afc99e16f4eb125197d3d900a038c020f" title="Get the kind of method for computation of spatial gradients." alt="" coords="327,1689,521,1731"/>
+<area shape="rect" id="node22" href="$class_c_config.html#a4ecf6406862b21d8351747c6d1bec680" title="Get the kind of solver for the implicit solver." alt="" coords="852,5,1031,47"/>
+<area shape="rect" id="node23" href="$class_c_config.html#a7c90d0e45bdd5e1fd059ed6778a5f1ee" title="Get the kind of preconditioner for the implicit solver." alt="" coords="852,76,1031,117"/>
+<area shape="rect" id="node24" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="334,1755,514,1782"/>
+<area shape="rect" id="node25" href="$class_c_config.html#a32440bdf444c3187c2b45f6f6d509a86" title="Get the total number of heat flux markers." alt="" coords="619,1427,775,1468"/>
+<area shape="rect" id="node26" href="$class_c_geometry.html#a4fc7de3bff7b6f8c35717016d6f8fcb2" title="Get number of real points (that belong to the domain)." alt="" coords="315,1806,533,1833"/>
+<area shape="rect" id="node27" href="$class_c_config.html#a3b3de951a4f6c688c5d54b869301d7b7" title="Get the kind of incompressible non&#45;dimensionalization." alt="" coords="349,1857,499,1899"/>
+<area shape="rect" id="node28" href="$class_c_config.html#aa46380d215ee1304eeb3b2d778a86f53" title="Get the value of the specific heat for solids." alt="" coords="347,1923,501,1964"/>
+<area shape="rect" id="node29" href="$class_c_config.html#a85b0488628cfb289b5413a888fb7cb0c" title="Get the value of the frestream temperature." alt="" coords="331,1988,517,2029"/>
+<area shape="rect" id="node30" href="$class_c_config.html#acec3db4c622ae7d8e9d01c3ff3e1e382" title="Get the temperature in solids at freestream conditions." alt="" coords="331,2053,517,2095"/>
+<area shape="rect" id="node31" href="$class_c_config.html#a00454cff9575acd21239959b4030b192" title="Get the value of the non&#45;dimensionalized freestream temperature." alt="" coords="331,2119,517,2160"/>
+<area shape="rect" id="node32" href="$class_c_config.html#a8ec4a0951d9a432dadffad665a9892b3" title="Get the value of the reference temperature for non&#45;dimensionalization." alt="" coords="317,2185,531,2211"/>
+<area shape="rect" id="node33" href="$class_c_config.html#a140cf0d6d752400f2ee9345ba653c0fe" title="Get the value of the thermal conductivity for solids." alt="" coords="305,2236,543,2277"/>
+<area shape="rect" id="node34" href="$class_c_sys_vector.html#acb7fbb22061a727da3cfd29d77881e60" title="Initialize the class." alt="" coords="345,903,503,930"/>
+<area shape="rect" id="node35" href="$class_c_sys_matrix.html#a1f6b00b8cbb17fcc60feb8ce2107ccab" title="Initializes space matrix system." alt="" coords="344,406,504,433"/>
+<area shape="rect" id="node45" href="$class_c_heat_solver_f_v_m.html#a1746cdf2e4dadde9ec3ba0bae059d9a7" title="A virtual member." alt="" coords="343,1136,505,1177"/>
+<area shape="rect" id="node46" href="$class_c_heat_solver_f_v_m.html#a4f339bb7dd3b689edbe843488d28aa22" title="Impose the send&#45;receive boundary condition." alt="" coords="343,1201,505,1243"/>
+<area shape="rect" id="node47" href="$class_c_config.html#a5dd15f92f800bf0a8501daf65cbf24fd" title="Set the Froude number for free surface problems." alt="" coords="333,2301,515,2343"/>
+<area shape="rect" id="node48" href="$class_c_config.html#afaa9eb2373caea9d89df79ff693c4a0d" title="Set the Froude number for free surface problems." alt="" coords="333,2367,515,2408"/>
+<area shape="rect" id="node49" href="$class_c_config.html#a86599996300e409cf4f474b8a061d906" title="Set the reference temperature." alt="" coords="318,2433,530,2459"/>
+<area shape="rect" id="node50" href="$class_c_config.html#a12e78fda0e1065050ee8d6347bb9f1c7" title="Set the thermal diffusivity for solids." alt="" coords="313,2484,535,2525"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="592,903,803,930"/>
+<area shape="rect" id="node4" href="$class_c_geometry.html#a1695b3558f1b91fdcfea6a184f94229b" title="Get the edge index from using the nodes of the edge." alt="" coords="616,751,779,778"/>
+<area shape="rect" id="node6" href="$class_c_point.html#adbb78f3c01711ed0349897f845e3f2d8" title="Get the number of points that compose the control volume." alt="" coords="873,625,1009,651"/>
+<area shape="rect" id="node7" href="$class_c_point.html#aab08fdab4e59c01d822afca5335a86af" title="Get all the points that compose the control volume." alt="" coords="877,726,1005,753"/>
+<area shape="rect" id="node8" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="624,1106,771,1133"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="623,1157,771,1199"/>
+<area shape="rect" id="node12" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="628,1223,767,1250"/>
+<area shape="rect" id="node13" href="$class_c_edge.html#ada210a6f0643f444e7e491fc4ed9e662" title="Copy the the normal vector of a face." alt="" coords="626,954,769,981"/>
+<area shape="rect" id="node15" href="$class_c_point.html#a3c526a15e767c7de9cf163800aa581e5" title="Get area or volume of the control volume." alt="" coords="625,1005,769,1031"/>
+<area shape="rect" id="node16" href="$namespace_s_u2___t_y_p_e.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="641,1055,753,1082"/>
+<area shape="rect" id="node5" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="851,777,1032,803"/>
+<area shape="rect" id="node36" href="$class_c_config.html#a2917fd8eeb6a8bf275a3fc351aac2a5e" title="Determines if problem is adjoint." alt="" coords="609,264,785,305"/>
+<area shape="rect" id="node37" href="$class_c_config.html#abe9f117dab934d76e518a9e8e40b142a" title="Get the indicator whether we are solving an discrete adjoint problem." alt="" coords="863,152,1020,193"/>
+<area shape="rect" id="node38" href="$class_c_point.html#aa9a94baeda58329c09e99425e3d88811" title="Get all the elements that compose the control volume." alt="" coords="877,342,1005,369"/>
+<area shape="rect" id="node39" href="$class_c_config.html#a23d727376f150791b55b02c5b09b2aaa" title="Get the ILU fill&#45;in level for the linear solver." alt="" coords="626,533,769,575"/>
+<area shape="rect" id="node40" href="$class_c_point.html#afa5b9cd1e067604590a26810894c83b5" title="Get the number of elements that compose the control volume." alt="" coords="873,406,1009,433"/>
+<area shape="rect" id="node41" href="$class_c_primal_grid.html#a0efbf2f8391d5177d92bd850016a3783" title="A pure virtual member." alt="" coords="851,470,1031,497"/>
+<area shape="rect" id="node42" href="$class_c_primal_grid.html#a4fc7b6b6ac5025325c7e68fb56fbeef8" title="A pure virtual member." alt="" coords="859,247,1024,274"/>
+<area shape="rect" id="node43" href="$class_c_sys_matrix.html#afde7aa884b394e2c329182f5279eca30" title="Assigns values to the sparse&#45;matrix structure." alt="" coords="610,111,785,138"/>
+<area shape="rect" id="node44" href="$class_c_sys_matrix.html#a9f09a3318108f8996b07856fbf4248b1" title="Assigns values to the sparse&#45;matrix structure." alt="" coords="598,431,797,458"/>
+</map>

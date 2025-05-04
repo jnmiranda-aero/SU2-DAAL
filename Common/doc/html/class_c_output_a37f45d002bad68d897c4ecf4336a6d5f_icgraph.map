@@ -1,0 +1,8 @@
+<map id="COutput::SortSurfaceConnectivity_FEM" name="COutput::SortSurfaceConnectivity_FEM">
+<area shape="rect" id="node1" title="Sort the connectivity for a single surface element type into a linear partitioning across all process..." alt="" coords="945,13,1220,39"/>
+<area shape="rect" id="node2" href="$class_c_output.html#ac2950e4be0517a3d865d999f5348d518" title="Sort the connectivities (volume and surface) into data structures used for output file writing (DG&#45;FE..." alt="" coords="671,13,897,39"/>
+<area shape="rect" id="node3" href="$class_c_output.html#aabf70f264a2b4b1aa3eb59b22040217d" title="Writes and organizes the all the output files, except the history one, for parallel computations." alt="" coords="477,5,623,47"/>
+<area shape="rect" id="node4" href="$class_c_driver.html#a5db0cab2665d7cb25e6ba9954f712f59" title="Output the solution in solution file." alt="" coords="307,13,429,39"/>
+<area shape="rect" id="node5" href="$class_c_driver.html#afa3fd46c5fb93979a385bd3910b107a4" title="Launch the computation for all zones and all physics." alt="" coords="108,13,259,39"/>
+<area shape="rect" id="node6" href="$_s_u2___c_f_d_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,13,60,39"/>
+</map>

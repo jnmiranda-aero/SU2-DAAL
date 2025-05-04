@@ -1,0 +1,6 @@
+<map id="CMeshFEM::MetricTermsBoundaryFaces" name="CMeshFEM::MetricTermsBoundaryFaces">
+<area shape="rect" id="node1" title="Function, which computes the metric terms of the faces of a physical boundary." alt="" coords="661,5,905,47"/>
+<area shape="rect" id="node2" href="$class_c_mesh_f_e_m___d_g.html#a7f08d0f58d93b1883afe60ec117b9d7c" title="Function, which computes the metric terms of the surface elements, both internal faces and physical b..." alt="" coords="404,5,613,47"/>
+<area shape="rect" id="node3" href="$class_c_driver.html#a41c62306edf67dddd99fc2b5f0fdf518" title="Do the geometrical preprocessing for the DG FEM solver." alt="" coords="181,5,356,47"/>
+<area shape="rect" id="node4" href="$class_c_driver.html#afac169e386a89af2a52be8902abb27f2" title="Constructor of the class." alt="" coords="5,13,133,39"/>
+</map>

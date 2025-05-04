@@ -1,0 +1,4 @@
+<map id="CConfig::GetIntegrated_HeatFlux" name="CConfig::GetIntegrated_HeatFlux">
+<area shape="rect" id="node1" title="Check if values passed to the BC_HeatFlux&#45;Routine are already integrated." alt="" coords="212,5,383,47"/>
+<area shape="rect" id="node2" href="$class_c_heat_solver_f_v_m.html#ae37f2deac6090f973d605975790f32f1" title="Impose a constant heat&#45;flux condition at the wall." alt="" coords="5,5,164,47"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="CMultiGridIntegration::SetRestricted_Solution" name="CMultiGridIntegration::SetRestricted_Solution">
+<area shape="rect" id="node1" title="Restrict solution from fine grid to a coarse grid." alt="" coords="5,445,183,486"/>
+<area shape="rect" id="node2" href="$class_c_point.html#a821d9feaa7488e42dfca27a349776f0a" title="Get the children control volume of an agglomerated control volume." alt="" coords="253,5,427,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#ad9a79bf229dcc3f99cf7c23d4cb16d06" title="Provides the index of the solution in the container." alt="" coords="231,56,449,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="237,107,443,133"/>
+<area shape="rect" id="node5" href="$class_c_point.html#a62ec636f4a05ac578b582a053e8553f9" title="Get the value of the grid velocity at the point." alt="" coords="269,157,411,184"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="266,209,414,250"/>
+<area shape="rect" id="node7" href="$class_c_point.html#aa32b71744384b293260648bff1de9a5c" title="Get the number of children of an agglomerated control volume." alt="" coords="249,275,431,301"/>
+<area shape="rect" id="node8" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="259,325,421,352"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="250,376,430,403"/>
+<area shape="rect" id="node10" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="271,427,409,453"/>
+<area shape="rect" id="node11" href="$class_c_geometry.html#a4fc7de3bff7b6f8c35717016d6f8fcb2" title="Get number of real points (that belong to the domain)." alt="" coords="231,477,449,504"/>
+<area shape="rect" id="node12" href="$class_c_solver.html#a65c22046b0cf1938ba22648912d04680" title="Get the number of variables of the problem." alt="" coords="274,528,406,555"/>
+<area shape="rect" id="node13" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="256,579,424,605"/>
+<area shape="rect" id="node14" href="$class_c_point.html#a3c526a15e767c7de9cf163800aa581e5" title="Get area or volume of the control volume." alt="" coords="268,629,412,656"/>
+<area shape="rect" id="node15" href="$class_c_solver.html#ac25a16cb69ee66bca6048336dedbb4cd" title="Set number of linear solver iterations." alt="" coords="244,680,436,707"/>
+<area shape="rect" id="node16" href="$class_c_variable.html#a30d4ca1a8a08f748c4a2229a8cce9786" title="Set the value of the solution." alt="" coords="257,731,423,757"/>
+<area shape="rect" id="node17" href="$class_c_variable.html#aff765dd54cf96101751846cd214e4485" title="A virtual member." alt="" coords="247,782,433,823"/>
+<area shape="rect" id="node18" href="$class_c_variable.html#abe67e042f5827a1d816e2d74ffbe9047" title="Specify a vector to set the velocity components of the solution." alt="" coords="247,847,433,889"/>
+<area shape="rect" id="node19" href="$class_c_variable.html#a5039b13a7526a8da9cf842f6b01c35c4" title="Set to zero the velocity components of the solution." alt="" coords="232,913,448,940"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CFEM_DG_EulerSolver::Initiate_MPI_ReverseCommunication" name="CFEM_DG_EulerSolver::Initiate_MPI_ReverseCommunication">
+<area shape="rect" id="node1" title="Routine that initiates the reverse non&#45;blocking communication between ranks." alt="" coords="5,64,276,105"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a20e5fd7b43cfd2bf2bcf5137f12bc635" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="324,5,513,47"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#ae41565b441aee76e1b48eb03e5ac86dd" title=" " alt="" coords="327,71,510,98"/>
+<area shape="rect" id="node4" href="$class_c_base_m_p_i_wrapper.html#a43a415ec11a029ade218eaf8c807a817" title=" " alt="" coords="326,122,511,149"/>
+</map>

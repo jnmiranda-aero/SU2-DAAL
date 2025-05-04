@@ -1,0 +1,5 @@
+<map id="CVariable::SetPreconditioner_Beta" name="CVariable::SetPreconditioner_Beta">
+<area shape="rect" id="node1" title="Set the value of the preconditioner Beta." alt="" coords="224,35,468,61"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#aa4c3988e3ce0c18460b5c069650c57b0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#a9cb1da16bea732300854a351ebca2ed3" title="Compute the spatial integration using a upwind scheme." alt="" coords="9,57,172,98"/>
+</map>

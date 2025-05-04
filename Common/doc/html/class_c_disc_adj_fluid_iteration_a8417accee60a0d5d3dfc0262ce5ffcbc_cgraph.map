@@ -1,0 +1,10 @@
+<map id="CDiscAdjFluidIteration::RegisterInput" name="CDiscAdjFluidIteration::RegisterInput">
+<area shape="rect" id="node1" title="Registers all output variables of the fluid iteration." alt="" coords="5,140,172,181"/>
+<area shape="rect" id="node2" href="$class_c_config.html#adb146862f57545364350419287581bbc" title="Provides information about the way in which the turbulence will be treated by the disc...." alt="" coords="264,5,411,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="247,71,427,98"/>
+<area shape="rect" id="node4" href="$class_c_geometry.html#a335405024cbc91d79429d60394d55af2" title="Register the coordinates of the mesh nodes." alt="" coords="220,122,455,149"/>
+<area shape="rect" id="node6" href="$class_c_solver.html#afc316bafa66423b9c0a6391e1f4bb71e" title="A virtual member." alt="" coords="244,173,431,199"/>
+<area shape="rect" id="node7" href="$class_c_solver.html#a0becd2491f06abf8390c5c336a81ecf0" title="A virtual member." alt="" coords="228,223,447,250"/>
+<area shape="rect" id="node8" href="$class_c_solver.html#a39522e405ec20fdfe283a3b263c9ce3b" title="A virtual member." alt="" coords="240,274,435,301"/>
+<area shape="rect" id="node5" href="$namespace_a_d.html#a142308d54379f7aaa1c72195fb5fe992" title="Registers the variable as an input. I.e. as a leaf of the computational graph." alt="" coords="503,122,639,149"/>
+</map>

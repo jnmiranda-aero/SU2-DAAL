@@ -1,0 +1,4 @@
+<map id="CEulerSolver::GetPressure_Inf" name="CEulerSolver::GetPressure_Inf">
+<area shape="rect" id="node1" title="Compute the pressure at the infinity." alt="" coords="211,13,427,39"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a3cb64b1356f6c0dd43c08df012d99f01" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="5,5,163,47"/>
+</map>

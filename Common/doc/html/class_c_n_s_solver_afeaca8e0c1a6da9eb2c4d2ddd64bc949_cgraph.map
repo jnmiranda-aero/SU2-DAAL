@@ -1,0 +1,19 @@
+<map id="CNSSolver::SetTauWall_WF" name="CNSSolver::SetTauWall_WF">
+<area shape="rect" id="node1" title="Computes the wall shear stress (Tau_Wall) on the surface using a wall function." alt="" coords="5,432,203,459"/>
+<area shape="rect" id="node2" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="297,5,431,32"/>
+<area shape="rect" id="node3" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="291,56,437,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a6d835a954bb5e99c5a3de6db5ed24ff3" title="Get the value of specific gas constant." alt="" coords="257,107,471,133"/>
+<area shape="rect" id="node5" href="$class_c_variable.html#a235623c42fc699bc5de18f721b23d49c" title="A virtual member." alt="" coords="279,158,449,199"/>
+<area shape="rect" id="node6" href="$class_c_variable.html#aedbb79a282d44af4d52663eba96034f6" title="A virtual member." alt="" coords="251,224,477,251"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="290,275,438,317"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="290,341,438,382"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="274,407,454,433"/>
+<area shape="rect" id="node10" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="295,457,433,484"/>
+<area shape="rect" id="node11" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="288,508,440,535"/>
+<area shape="rect" id="node12" href="$class_c_vertex.html#a8d2bce3a6ee62007179e688dc2b9b182" title="Get the value of the closest neighbor." alt="" coords="288,559,440,601"/>
+<area shape="rect" id="node13" href="$class_c_config.html#a619cb1400d6c944e83ad0ffe82deb021" title="Get the value of the laminar Prandtl number." alt="" coords="272,625,456,652"/>
+<area shape="rect" id="node14" href="$class_c_variable.html#aa845fb5587ca68200ebd49440c8d1d9e" title="A virtual member." alt="" coords="279,676,449,703"/>
+<area shape="rect" id="node15" href="$class_c_variable.html#a0304810342567ff058d49814bb53a355" title="A virtual member." alt="" coords="265,727,463,753"/>
+<area shape="rect" id="node16" href="$class_c_config.html#a13840ca712bf87d32d18917d0c39cfae" title="Get the vector of the non&#45;dimensionalized freestream velocity." alt="" coords="287,778,441,819"/>
+<area shape="rect" id="node17" href="$class_c_variable.html#a983580b4e0d30497d9475b6fc6fd0743" title=" " alt="" coords="283,844,445,871"/>
+</map>

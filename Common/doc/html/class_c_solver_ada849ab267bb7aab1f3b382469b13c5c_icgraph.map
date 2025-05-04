@@ -1,0 +1,6 @@
+<map id="CSolver::ResetInitialCondition" name="CSolver::ResetInitialCondition">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="632,13,848,39"/>
+<area shape="rect" id="node2" href="$class_c_f_e_a_iteration.html#ac8c8f95bb68e4677c90d9f29ea8ed5fe" title="Perform a single iteration for structural analysis using the Finite Element Method." alt="" coords="421,13,584,39"/>
+<area shape="rect" id="node3" href="$class_c_disc_adj_f_e_a_iteration.html#a121206a5f1ae2d2fbc5931cb7c37335a" title="Record a single iteration of the direct FEM system." alt="" coords="213,5,373,47"/>
+<area shape="rect" id="node4" href="$class_c_disc_adj_f_e_a_iteration.html#a8c4d696b9bbb8ff79713d892e4b7aef9" title="Preprocessing to prepare for an iteration of the physics." alt="" coords="5,5,165,47"/>
+</map>

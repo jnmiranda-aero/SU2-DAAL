@@ -1,0 +1,13 @@
+<map id="CAdjTurbSolver::BC_Far_Field" name="CAdjTurbSolver::BC_Far_Field">
+<area shape="rect" id="node1" title="Impose the boundary condition to the far field using characteristics." alt="" coords="5,201,152,242"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a8c2c7f8ca02d0e8685373e38ca29d9d0" title="Adds the specified block to the sparse matrix." alt="" coords="225,5,391,32"/>
+<area shape="rect" id="node4" href="$class_c_sys_vector.html#a7ef472e160b4bfee4fac427e5c08022b" title="Add val_residual to the residual." alt="" coords="226,56,390,83"/>
+<area shape="rect" id="node5" href="$class_c_numerics.html#abe734316e0047f463f059fd77a281958" title="Compute the numerical residual." alt="" coords="200,107,416,133"/>
+<area shape="rect" id="node6" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="239,157,377,184"/>
+<area shape="rect" id="node7" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="232,208,384,235"/>
+<area shape="rect" id="node8" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="224,259,392,285"/>
+<area shape="rect" id="node9" href="$class_c_numerics.html#a604ce85ec9e2d43769acacc7d03ae0f7" title="Set the value of the conservative variables." alt="" coords="204,309,412,336"/>
+<area shape="rect" id="node10" href="$class_c_numerics.html#a41903d97957f351cd9ee63ca404985b1" title="Set the value of the normal vector to the face between two points." alt="" coords="223,360,393,387"/>
+<area shape="rect" id="node11" href="$class_c_numerics.html#aa1653854225eaa24a152d9c2813e99b4" title="Set the value of the adjoint turbulent variable." alt="" coords="200,411,416,437"/>
+<area shape="rect" id="node3" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="464,5,619,32"/>
+</map>

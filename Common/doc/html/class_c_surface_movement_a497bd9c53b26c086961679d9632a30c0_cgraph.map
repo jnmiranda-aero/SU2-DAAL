@@ -1,0 +1,10 @@
+<map id="CSurfaceMovement::SetParabolic" name="CSurfaceMovement::SetParabolic">
+<area shape="rect" id="node1" title="Set a parabolic family for airfoil deformation." alt="" coords="5,173,244,200"/>
+<area shape="rect" id="node2" href="$class_c_vertex.html#af0821dbe375150339a3c7e3879d8505f" title="Get the value of the cartesian coordinate for the vertex." alt="" coords="311,5,453,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a39608d00420cf8dd5357045aafdf2d23" title="Get the DV information for a marker val_marker." alt="" coords="308,57,456,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#ab66ab17694d24587bec7aa4d2ba8ea70" title="Get the number of design variables." alt="" coords="317,123,447,149"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="292,173,472,200"/>
+<area shape="rect" id="node6" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="306,224,458,251"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a55ab8fc511c17d4b07ef0b5eea793e61" title="Get a parameter of the particular design variable." alt="" coords="301,275,463,301"/>
+<area shape="rect" id="node8" href="$class_c_vertex.html#a77faafc52f911c793851c71738fb85ba" title="Set the value of the coordinate variation due to a surface modification." alt="" coords="301,325,463,352"/>
+</map>

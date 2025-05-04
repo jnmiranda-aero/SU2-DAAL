@@ -1,0 +1,52 @@
+<map id="CTurbSASolver::Preprocessing" name="CTurbSASolver::Preprocessing">
+<area shape="rect" id="node1" title="Restart residual and compute gradients." alt="" coords="5,761,221,787"/>
+<area shape="rect" id="node2" href="$class_c_config.html#abe9f117dab934d76e518a9e8e40b142a" title="Get the indicator whether we are solving an discrete adjoint problem." alt="" coords="312,105,469,147"/>
+<area shape="rect" id="node3" href="$class_c_config.html#aa48f2fc504ec2b261d5046f9a17677dd" title="Get the current external iteration number." alt="" coords="317,171,464,198"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a451739b63bff33a4992e2600f94c73b1" title="Provides information about the way in which the limiter will be treated by the disc...." alt="" coords="317,223,464,264"/>
+<area shape="rect" id="node5" href="$class_c_variable.html#a235623c42fc699bc5de18f721b23d49c" title="A virtual member." alt="" coords="598,5,769,47"/>
+<area shape="rect" id="node6" href="$class_c_config.html#afc99e16f4eb125197d3d900a038c020f" title="Get the kind of method for computation of spatial gradients." alt="" coords="293,1367,488,1408"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a2dae056d1f8e3385d25e6fbc251f0100" title="Get the Kind of Hybrid RANS/LES." alt="" coords="563,71,804,98"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a2604613ee15ea8d060347a099576bdb7" title="Get the method for limiting the spatial gradients." alt="" coords="560,609,807,635"/>
+<area shape="rect" id="node9" href="$class_c_config.html#adb6cca30109a0f88831a803bc1f7415b" title="Get the method for limiting the spatial gradients." alt="" coords="269,1433,512,1459"/>
+<area shape="rect" id="node10" href="$class_c_variable.html#aedbb79a282d44af4d52663eba96034f6" title="A virtual member." alt="" coords="570,122,797,149"/>
+<area shape="rect" id="node11" href="$class_c_variable.html#ab84b42eb3198ce32285b38835a1b8c4d" title="A virtual member." alt="" coords="599,173,768,199"/>
+<area shape="rect" id="node12" href="$class_c_sys_vector.html#ac2b8ed7c13757ad68487d3891337265b" title="Set the residual to zero." alt="" coords="292,1483,489,1510"/>
+<area shape="rect" id="node13" href="$class_c_turb_s_a_solver.html#abd9b44db73a48a35caa4215dd105b193" title="A virtual member." alt="" coords="305,492,477,533"/>
+<area shape="rect" id="node25" href="$class_c_solver.html#a0cf3bbb425067c915a816cbf5a548a1c" title="A virtual member." alt="" coords="311,1535,471,1576"/>
+<area shape="rect" id="node26" href="$class_c_solver.html#ad52861b3403aec20826df279bf7e457a" title="Compute the Green&#45;Gauss gradient of the solution." alt="" coords="313,1301,468,1343"/>
+<area shape="rect" id="node41" href="$class_c_solver.html#a0425419d1bdcaa4459c6fb5a96756a4b" title="Compute the Least Squares gradient of the solution." alt="" coords="313,1005,468,1047"/>
+<area shape="rect" id="node46" href="$class_c_solver.html#a641e9c59698ab9c7c2fb91107ad70d77" title="Compute slope limiter." alt="" coords="313,931,468,972"/>
+<area shape="rect" id="node49" href="$class_c_sys_matrix.html#a98588e2dd6fd263a00afd34ca1f3b0ff" title="Sets to zero all the entries of the sparse matrix." alt="" coords="303,1601,478,1627"/>
+<area shape="rect" id="node50" href="$class_c_variable.html#adc56a2767c03e47effa43118a4d004f5" title=" " alt="" coords="313,1652,468,1693"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a2498a45dc1967f0ca273371ed7e89711" title="Get the DES Constant." alt="" coords="597,223,770,250"/>
+<area shape="rect" id="node15" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="617,878,750,905"/>
+<area shape="rect" id="node16" href="$class_c_variable.html#a48edcfacf9418f8e2a00416e92f71fde" title="A virtual member." alt="" coords="601,274,766,301"/>
+<area shape="rect" id="node17" href="$class_c_point.html#a786e7c18e968c5e833b41c60ed427a35" title="Get the maximum cell&#45;center to cell&#45;center length." alt="" coords="600,325,767,351"/>
+<area shape="rect" id="node18" href="$class_c_variable.html#ac5c90648e9b72398a3b44fee098ef0b9" title="Get the value of the eddy viscosity." alt="" coords="611,375,755,402"/>
+<area shape="rect" id="node19" href="$class_c_point.html#adbb78f3c01711ed0349897f845e3f2d8" title="Get the number of points that compose the control volume." alt="" coords="615,777,751,803"/>
+<area shape="rect" id="node20" href="$class_c_point.html#aab08fdab4e59c01d822afca5335a86af" title="Get all the points that compose the control volume." alt="" coords="619,827,747,854"/>
+<area shape="rect" id="node21" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="599,979,767,1006"/>
+<area shape="rect" id="node22" href="$class_c_variable.html#a7ff6a7447cb37cbdba395fe0c07c1a4f" title=" " alt="" coords="605,427,762,468"/>
+<area shape="rect" id="node23" href="$class_c_point.html#a2ec241bcb847e4bae03e8df907a18b15" title="Get the value of the distance to the nearest wall." alt="" coords="590,558,777,585"/>
+<area shape="rect" id="node24" href="$class_c_variable.html#a7d40900209c26add017bff066db70a82" title="A virtual member." alt="" coords="588,492,779,533"/>
+<area shape="rect" id="node27" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="610,1705,757,1731"/>
+<area shape="rect" id="node28" href="$class_c_variable.html#a9dc639453d847d255efd5eb473dd0852" title="Get the value of the solution gradient." alt="" coords="598,1182,769,1209"/>
+<area shape="rect" id="node29" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="609,1756,757,1797"/>
+<area shape="rect" id="node30" href="$class_c_geometry.html#a7d6e1e1d1e46da8f55ecbe1a9380530a" title="Get number of edges." alt="" coords="600,1233,767,1259"/>
+<area shape="rect" id="node31" href="$class_c_geometry.html#a3c899d1370312702c189a8ee95a63ef7" title="Get number of markers." alt="" coords="594,1822,773,1849"/>
+<area shape="rect" id="node32" href="$class_c_edge.html#aee33b61d646e3fe59a4e23284ab1bf33" title="Get the nodes of the edge." alt="" coords="619,1283,747,1310"/>
+<area shape="rect" id="node33" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="614,1873,753,1899"/>
+<area shape="rect" id="node34" href="$class_c_edge.html#ada210a6f0643f444e7e491fc4ed9e662" title="Copy the the normal vector of a face." alt="" coords="612,1502,755,1529"/>
+<area shape="rect" id="node35" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="607,1553,759,1579"/>
+<area shape="rect" id="node36" href="$class_c_geometry.html#a4fc7de3bff7b6f8c35717016d6f8fcb2" title="Get number of real points (that belong to the domain)." alt="" coords="574,1334,793,1361"/>
+<area shape="rect" id="node37" href="$class_c_geometry.html#a55427e474834af1941e13750b17975be" title="Get number of vertices." alt="" coords="595,1603,771,1630"/>
+<area shape="rect" id="node38" href="$class_c_point.html#a3c526a15e767c7de9cf163800aa581e5" title="Get area or volume of the control volume." alt="" coords="611,1654,755,1681"/>
+<area shape="rect" id="node39" href="$class_c_solver.html#ac231a21fb2a5c57d1a3d85adfca0fa03" title="MPI gradients." alt="" coords="587,1385,779,1427"/>
+<area shape="rect" id="node40" href="$class_c_variable.html#aedfb5263cefb11e12c4154a4673d0474" title="Set the gradient of the solution." alt="" coords="599,1451,768,1478"/>
+<area shape="rect" id="node42" href="$namespace_a_d.html#a309d057a92faa60a3a760254678ec9ea" title="Ends a preaccumulation section and computes the local Jacobi matrix of a code section using the varia..." alt="" coords="625,1131,741,1158"/>
+<area shape="rect" id="node43" href="$namespace_a_d.html#aad703f3a82e509c88b92ae638f75383c" title="Sets the scalar input of a preaccumulation section." alt="" coords="621,929,746,955"/>
+<area shape="rect" id="node44" href="$namespace_a_d.html#ab3a80e24a5c8c2beb01131c57dcae4b2" title="Sets the scalar output of a preaccumulation section." alt="" coords="615,1030,751,1057"/>
+<area shape="rect" id="node45" href="$namespace_a_d.html#a2a1e9c4b109fd751e84132c9495de3ff" title="Starts a new preaccumulation section and sets the input variables." alt="" coords="622,1081,745,1107"/>
+<area shape="rect" id="node47" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="578,726,789,753"/>
+<area shape="rect" id="node48" href="$class_c_config.html#ad73417c1bca6d256bdc6c012d9dfd781" title="Get the value of sharp edge limiter." alt="" coords="603,660,764,701"/>
+</map>

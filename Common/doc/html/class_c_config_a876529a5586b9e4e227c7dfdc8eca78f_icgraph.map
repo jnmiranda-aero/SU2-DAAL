@@ -1,0 +1,5 @@
+<map id="CConfig::GetKind_Inlet" name="CConfig::GetKind_Inlet">
+<area shape="rect" id="node1" title="Get the kind of inlet boundary condition treatment (total conditions or mass flow)." alt="" coords="220,35,388,61"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#aabbe4c302452f52fcbe5cdf7022e6c9a" title="Impose a subsonic inlet boundary condition." alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node3" href="$class_c_adj_euler_solver.html#a29398c2203511586508ff9d43e894e41" title="Impose the inlet boundary condition." alt="" coords="13,57,165,98"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="CConfig::GetMultiInstance_FileName" name="CConfig::GetMultiInstance_FileName">
+<area shape="rect" id="node1" title="Append the instance index to the restart or the solution files." alt="" coords="989,90,1180,131"/>
+<area shape="rect" id="node2" href="$class_c_baseline_solver.html#acb5f7a5211dcf8ba4337e9b251024553" title="Load a solution from a restart file." alt="" coords="727,5,941,32"/>
+<area shape="rect" id="node3" href="$class_c_baseline_solver.html#ab8e4b1b71d637dd0adee324d4a7a6315" title="Set the number of variables and string names from the restart file." alt="" coords="733,57,935,98"/>
+<area shape="rect" id="node5" href="$class_c_output.html#ad40660d7774c0ce5a0ca5ab36b84d1c0" title="Write a native SU2 restart file (ASCII) in parallel." alt="" coords="751,122,917,163"/>
+<area shape="rect" id="node10" href="$class_c_output.html#a6a3f3d7e3b16a1c13af868c1143534f3" title="Write a native SU2 restart file (binary) in parallel." alt="" coords="751,187,917,229"/>
+<area shape="rect" id="node4" href="$class_c_baseline_solver.html#a996d9c6ee613b5b45a25a765f3c5e2cd" title=" " alt="" coords="477,57,679,98"/>
+<area shape="rect" id="node6" href="$class_c_output.html#aabf70f264a2b4b1aa3eb59b22040217d" title="Writes and organizes the all the output files, except the history one, for parallel computations." alt="" coords="505,154,651,195"/>
+<area shape="rect" id="node7" href="$class_c_driver.html#a5db0cab2665d7cb25e6ba9954f712f59" title="Output the solution in solution file." alt="" coords="307,161,429,188"/>
+<area shape="rect" id="node8" href="$class_c_driver.html#afa3fd46c5fb93979a385bd3910b107a4" title="Launch the computation for all zones and all physics." alt="" coords="108,161,259,188"/>
+<area shape="rect" id="node9" href="$_s_u2___c_f_d_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,161,60,188"/>
+</map>

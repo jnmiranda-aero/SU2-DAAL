@@ -1,0 +1,41 @@
+<map id="CEulerSolver::BC_Far_Field" name="CEulerSolver::BC_Far_Field">
+<area shape="rect" id="node1" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="5,957,163,998"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a8c2c7f8ca02d0e8685373e38ca29d9d0" title="Adds the specified block to the sparse matrix." alt="" coords="244,5,409,32"/>
+<area shape="rect" id="node4" href="$class_c_sys_vector.html#a7ef472e160b4bfee4fac427e5c08022b" title="Add val_residual to the residual." alt="" coords="245,56,409,83"/>
+<area shape="rect" id="node5" href="$class_c_numerics.html#abe734316e0047f463f059fd77a281958" title="Compute the numerical residual." alt="" coords="219,107,435,133"/>
+<area shape="rect" id="node6" href="$class_c_euler_solver.html#a5000bb7537dd001499d436617e1421f7" title="Value of the characteristic variables at the boundaries." alt="" coords="211,157,443,184"/>
+<area shape="rect" id="node7" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="260,208,393,235"/>
+<area shape="rect" id="node8" href="$class_c_euler_solver.html#a259e776416322707bdfa6e4c524dc59b" title="Compute the density at the infinity." alt="" coords="221,259,432,285"/>
+<area shape="rect" id="node9" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="253,309,400,336"/>
+<area shape="rect" id="node10" href="$class_c_variable.html#a55d856e3f8bb009a9cfa2acf0e353df1" title="A virtual member." alt="" coords="223,360,430,387"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a6d835a954bb5e99c5a3de6db5ed24ff3" title="Get the value of specific gas constant." alt="" coords="220,411,433,437"/>
+<area shape="rect" id="node12" href="$class_c_variable.html#a235623c42fc699bc5de18f721b23d49c" title="A virtual member." alt="" coords="241,462,412,503"/>
+<area shape="rect" id="node13" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="223,528,430,555"/>
+<area shape="rect" id="node14" href="$class_c_point.html#a62ec636f4a05ac578b582a053e8553f9" title="Get the value of the grid velocity at the point." alt="" coords="255,579,398,605"/>
+<area shape="rect" id="node15" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="237,629,417,656"/>
+<area shape="rect" id="node16" href="$class_c_config.html#a20e5fd7b43cfd2bf2bcf5137f12bc635" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="232,681,421,722"/>
+<area shape="rect" id="node17" href="$class_c_config.html#a40aaed07fc5844d505d2c0b7076594d7" title="Get the kind of the turbulence model." alt="" coords="243,746,410,787"/>
+<area shape="rect" id="node18" href="$class_c_config.html#acc54a7050eb2efd08fbd94794c8e3cde" title="Get kind of upwind scheme for the convective terms." alt="" coords="233,812,421,839"/>
+<area shape="rect" id="node19" href="$class_c_variable.html#aedbb79a282d44af4d52663eba96034f6" title="A virtual member." alt="" coords="213,863,440,889"/>
+<area shape="rect" id="node20" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="257,913,396,940"/>
+<area shape="rect" id="node21" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="251,964,403,991"/>
+<area shape="rect" id="node22" href="$class_c_vertex.html#a8d2bce3a6ee62007179e688dc2b9b182" title="Get the value of the closest neighbor." alt="" coords="251,1015,403,1057"/>
+<area shape="rect" id="node23" href="$class_c_numerics.html#a32978115b8835f03d74f7cb3e888a7ff" title="Get the Preconditioning Beta." alt="" coords="220,1081,433,1108"/>
+<area shape="rect" id="node24" href="$class_c_variable.html#aa845fb5587ca68200ebd49440c8d1d9e" title="A virtual member." alt="" coords="241,1132,412,1159"/>
+<area shape="rect" id="node25" href="$class_c_euler_solver.html#a4b35f3ab1bcc1b803ceb5eea6b721d6e" title="Compute the pressure at the infinity." alt="" coords="219,1183,435,1209"/>
+<area shape="rect" id="node26" href="$class_c_variable.html#a5fc23761cf67841ab946fc6e8b4f019d" title="A virtual member." alt="" coords="239,1233,414,1260"/>
+<area shape="rect" id="node27" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="243,1284,411,1311"/>
+<area shape="rect" id="node28" href="$class_c_solver.html#ad7c1f0fa554117fa424f3b90062946c7" title="A virtual member." alt="" coords="251,1335,402,1361"/>
+<area shape="rect" id="node29" href="$class_c_euler_solver.html#aeee25353c96135f0b6890af7e519adb4" title="Get the velocity at the infinity." alt="" coords="221,1385,433,1412"/>
+<area shape="rect" id="node30" href="$class_c_config.html#a2e9af0bd3e1f5ed865e81b627e94a662" title="Determines if problem is viscous." alt="" coords="250,1436,403,1463"/>
+<area shape="rect" id="node31" href="$class_c_numerics.html#a5fa1089c7228d6d49677a633bbe3c890" title="Set coordinates of the points." alt="" coords="247,1487,407,1513"/>
+<area shape="rect" id="node32" href="$class_c_numerics.html#ae15b9e4ad2008444365109c434e24207" title="Set the velocity of the computational grid." alt="" coords="242,1537,411,1564"/>
+<area shape="rect" id="node33" href="$class_c_numerics.html#a41903d97957f351cd9ee63ca404985b1" title="Set the value of the normal vector to the face between two points." alt="" coords="241,1588,412,1615"/>
+<area shape="rect" id="node34" href="$class_c_numerics.html#af72b17d397adf09beed2e99e2daf895c" title="Set the value of the primitive variables." alt="" coords="236,1639,417,1665"/>
+<area shape="rect" id="node35" href="$class_c_numerics.html#a22772ccb1c59b1267152d4cc9825a98a" title="Set the gradient of the primitive variables." alt="" coords="212,1689,441,1716"/>
+<area shape="rect" id="node36" href="$class_c_numerics.html#a2fe1f3952f1b61191c49fa2076a9f969" title="Set the value of the Tauwall." alt="" coords="241,1740,413,1767"/>
+<area shape="rect" id="node37" href="$class_c_numerics.html#adb60105707161f121e6c9d79a2c80284" title="Set the turbulent kinetic energy." alt="" coords="229,1791,424,1833"/>
+<area shape="rect" id="node38" href="$class_c_sys_matrix.html#a0c6e3335f161b70247ac06e22eee6dfc" title="Subtracts the specified block to the sparse matrix." alt="" coords="229,1857,424,1884"/>
+<area shape="rect" id="node39" href="$class_c_sys_vector.html#aa2de9022590ea6b06950ef6b8afb77a2" title="Subtract val_residual to the residual." alt="" coords="230,1908,423,1935"/>
+<area shape="rect" id="node3" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="491,932,645,959"/>
+</map>

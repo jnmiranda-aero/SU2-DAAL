@@ -1,0 +1,8 @@
+<map id="CEulerSolver::GetDonorGlobalIndex" name="CEulerSolver::GetDonorGlobalIndex">
+<area shape="rect" id="node1" title="Value of the characteristic global index at the boundaries." alt="" coords="489,96,707,137"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#acab63d0bb72e6245b440c015e8c1de04" title="Impose the engine inflow boundary condition." alt="" coords="247,45,435,71"/>
+<area shape="rect" id="node5" href="$class_c_euler_solver.html#a27824d8f047f10dfc6ab700af585d7d9" title="Impose the interface boundary condition using the residual." alt="" coords="243,96,439,137"/>
+<area shape="rect" id="node6" href="$class_c_euler_solver.html#a8ef676e57b01dac975572a12f4c2f683" title="Impose the near&#45;field boundary condition using the residual." alt="" coords="241,161,441,203"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#af919c89cdb2d5b8059d38a95f9c79edb" title="Impose the engine inflow boundary condition." alt="" coords="5,5,193,47"/>
+<area shape="rect" id="node4" href="$class_c_euler_solver.html#a6cf759ff3e1608b5df71ea77441034c7" title="Impose the engine exhaust boundary condition." alt="" coords="5,71,193,112"/>
+</map>

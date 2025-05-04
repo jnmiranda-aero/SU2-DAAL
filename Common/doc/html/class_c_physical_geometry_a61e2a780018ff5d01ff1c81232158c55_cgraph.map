@@ -1,0 +1,9 @@
+<map id="CPhysicalGeometry::Check_Periodicity" name="CPhysicalGeometry::Check_Periodicity">
+<area shape="rect" id="node1" title="Check the mesh for periodicity and deactivate multigrid if periodicity is found." alt="" coords="5,115,163,157"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="211,5,421,32"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="242,57,390,98"/>
+<area shape="rect" id="node5" href="$class_c_config.html#aea7f78497a5cd863bd065391232329fd" title="Get the number of multigrid levels." alt="" coords="229,123,403,149"/>
+<area shape="rect" id="node6" href="$class_c_vertex.html#a4f79701d89ed5eaaf6c4c41566a319d7" title="Get the type of rotation associated to the vertex." alt="" coords="218,173,414,200"/>
+<area shape="rect" id="node7" href="$class_c_config.html#aa4df56597133c806ce1d2d943496dd25" title="Set the number of multigrid levels." alt="" coords="233,224,399,251"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="469,5,684,32"/>
+</map>

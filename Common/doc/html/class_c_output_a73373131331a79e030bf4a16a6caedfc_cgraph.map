@@ -1,0 +1,48 @@
+<map id="COutput::SetRestart" name="COutput::SetRestart">
+<area shape="rect" id="node1" title="Write a native SU2 restart file." alt="" coords="5,1113,156,1140"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a6020a5df7025ffb286f9b9f55f3f2773" title="Get the angle of attack of the body. This is the angle between a reference line on a lifting body (of..." alt="" coords="257,5,386,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a66d1bb839b944f7993c76ed722bbb44c" title="Get the off set angle of attack of the body. The solution and the geometry file are able to modifity ..." alt="" coords="234,56,409,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a4305a79a4c74f13160c0dd8daae181ef" title="Get the angle of sideslip of the body. It relates to the rotation of the aircraft centerline from the..." alt="" coords="257,107,385,133"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a3d911c6e404f8c483a93796c4df7d370" title="Get the off set sideslip angle of the body. The solution and the geometry file are able to modifity t..." alt="" coords="234,157,409,184"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a2917fd8eeb6a8bf275a3fc351aac2a5e" title="Determines if problem is adjoint." alt="" coords="233,209,409,250"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a2711fd3e48037f5972691787f2a5ea78" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="241,275,402,301"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a543ee47693a711eee6fd8f00671b3802" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="236,325,407,352"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a287242969576bb4c0a303d50e907eb29" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="236,376,407,403"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a6385f8ea2c2b24481683d73573391acb" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="236,427,407,453"/>
+<area shape="rect" id="node11" href="$class_c_config.html#abe9f117dab934d76e518a9e8e40b142a" title="Get the indicator whether we are solving an discrete adjoint problem." alt="" coords="243,478,400,519"/>
+<area shape="rect" id="node12" href="$class_c_config.html#ac22ad3da2560e5f26c71e368ce11819c" title="Provides information about the time integration of the structural analysis, and change the write in t..." alt="" coords="241,543,402,585"/>
+<area shape="rect" id="node13" href="$class_c_config.html#aa48f2fc504ec2b261d5046f9a17677dd" title="Get the current external iteration number." alt="" coords="248,609,395,636"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a320a7ffed86f982bfe61eb2276ff359e" title="Get the current internal iteration number." alt="" coords="248,661,395,702"/>
+<area shape="rect" id="node15" href="$class_c_config.html#a24185ddcb4d61cbd0e4dcbbe2ae14d80" title="Creates a tecplot file to visualize the partition made by the DDC software." alt="" coords="231,727,412,753"/>
+<area shape="rect" id="node16" href="$class_c_config.html#a9776c63953c047138e0f81d5b51cd895" title="Check if the simulation we are running is a FSI simulation." alt="" coords="222,777,421,804"/>
+<area shape="rect" id="node17" href="$class_c_geometry.html#a22f1fbc70d2133f1d1924cc7b56caee9" title="A virtual member." alt="" coords="237,829,405,870"/>
+<area shape="rect" id="node18" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="218,895,425,921"/>
+<area shape="rect" id="node19" href="$class_c_config.html#a13643de8d58ed6b848b193eae54c97e8" title="Get the current instance." alt="" coords="256,945,387,972"/>
+<area shape="rect" id="node20" href="$class_c_config.html#a27bc7ced00494bb28f39d8e7eddcf5bc" title="Get the value of the non&#45;dimensionalized actuator disk turbulence intensity." alt="" coords="251,997,391,1038"/>
+<area shape="rect" id="node21" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="231,1063,411,1089"/>
+<area shape="rect" id="node22" href="$class_c_config.html#afa2fad55336e9107e80d8f4e15a3ab62" title="Get information about writing a volume solution file." alt="" coords="204,1113,439,1140"/>
+<area shape="rect" id="node23" href="$class_c_config.html#aefa1a86d2c906eb6bb146578d55114f7" title="Append the zone index to the restart or the solution files." alt="" coords="238,1165,405,1206"/>
+<area shape="rect" id="node25" href="$namespace_s_u2___t_y_p_e.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="521,1227,633,1253"/>
+<area shape="rect" id="node27" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="241,1281,402,1308"/>
+<area shape="rect" id="node28" href="$class_c_solver.html#a3d55fd6ae32b8dda26cbdd788dfcea8b" title="A virtual member." alt="" coords="227,1332,415,1359"/>
+<area shape="rect" id="node29" href="$class_c_config.html#a518b0144c99ae2566fcde2285411482a" title="Get the total number of transpiration markers." alt="" coords="243,1383,399,1425"/>
+<area shape="rect" id="node30" href="$class_c_geometry.html#a9c19673865bedc65b6f3a27ba7b81967" title="Get number of zones." alt="" coords="238,1449,405,1476"/>
+<area shape="rect" id="node31" href="$class_c_config.html#ad735d24b1c344410abea90ac9c6bb226" title="Append the input filename string with the appropriate objective function extension." alt="" coords="244,1501,399,1542"/>
+<area shape="rect" id="node32" href="$class_c_config.html#ac2cb41cf77a3151862778d8400d58656" title="Get the format of the output solution." alt="" coords="248,1566,395,1607"/>
+<area shape="rect" id="node33" href="$class_c_config.html#a112951733ddfc0e3df147506837d4392" title="Get the name of the restart file for the structural adjoint variables." alt="" coords="246,1631,397,1673"/>
+<area shape="rect" id="node34" href="$class_c_config.html#a9a092b9cde9fbc3baa554bf580bd3b3f" title="Get the name of the restart file for the adjoint variables (drag objective function)." alt="" coords="246,1697,397,1738"/>
+<area shape="rect" id="node35" href="$class_c_config.html#ac445b0bb951abf679756f07522ba90c4" title="Get the name of the restart file for the structural variables." alt="" coords="246,1762,397,1803"/>
+<area shape="rect" id="node36" href="$class_c_config.html#acb0fb451bedb8eede5d6e4b38ee25121" title="Get the name of the restart file for the flow variables." alt="" coords="246,1827,397,1869"/>
+<area shape="rect" id="node37" href="$class_c_solver.html#a5ffddb54c116f5bf56b83a075d4437d3" title="A virtual member." alt="" coords="219,1893,424,1920"/>
+<area shape="rect" id="node38" href="$class_c_config.html#a92503d0809da9f2a9f54750cd55a1913" title="Augment the input filename with the iteration number for an unsteady file." alt="" coords="239,1945,404,1986"/>
+<area shape="rect" id="node41" href="$class_c_config.html#a45e95664235928d911e7c3876fe078b3" title="Provides information about the time integration, and change the write in the output files information..." alt="" coords="239,2010,404,2051"/>
+<area shape="rect" id="node42" href="$class_c_config.html#a53f1925f8888cba2677cc58af8cbb821" title="Get information about writing dynamic structural analysis headers and file extensions." alt="" coords="226,2076,417,2103"/>
+<area shape="rect" id="node43" href="$class_c_config.html#ac7160a17815c266882dca13fd18f08cf" title="Get information about writing residuals to volume solution file." alt="" coords="228,2127,415,2153"/>
+<area shape="rect" id="node44" href="$class_c_config.html#a2de7a4cebe2c1fe4146b1e18ab3af35f" title="Get information about writing residuals to volume solution file." alt="" coords="223,2177,419,2204"/>
+<area shape="rect" id="node45" href="$class_c_config.html#a636688d749fbcbe6f43e82fc6c8735d2" title="Get information about writing residuals to volume solution file." alt="" coords="217,2228,426,2255"/>
+<area shape="rect" id="node46" href="$class_c_config.html#aaa4ccd33d3acee59a6b07b410815cfae" title="Get information about writing unsteady headers and file extensions." alt="" coords="224,2279,419,2305"/>
+<area shape="rect" id="node24" href="$class_c_config.html#ad8a83ccc6af7a42273330d6bf596b8c0" title="Provides the number of varaibles." alt="" coords="505,1172,649,1199"/>
+<area shape="rect" id="node26" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="731,1227,886,1253"/>
+<area shape="rect" id="node39" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="487,1952,668,1979"/>
+<area shape="rect" id="node40" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="716,1952,901,1979"/>
+</map>

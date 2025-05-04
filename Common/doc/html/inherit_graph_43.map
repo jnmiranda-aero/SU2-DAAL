@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_c_s_g_s_model.html" title="Base class for defining the LES subgrid scale model." alt="" coords="5,56,103,83"/>
+<area shape="rect" id="node2" href="$class_c_smagorinsky_model.html" title="Derived class for defining the Smagorinsky SGS model." alt="" coords="151,5,305,32"/>
+<area shape="rect" id="node3" href="$class_c_vreman_model.html" title="Derived class for defining the WALE SGS model." alt="" coords="167,56,289,83"/>
+<area shape="rect" id="node4" href="$class_c_w_a_l_e_model.html" title="Derived class for defining the WALE SGS model." alt="" coords="175,107,281,133"/>
+</map>

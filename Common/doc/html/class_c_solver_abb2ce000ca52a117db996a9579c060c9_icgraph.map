@@ -1,0 +1,9 @@
+<map id="CSolver::GetWAitken_Dyn" name="CSolver::GetWAitken_Dyn">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="677,78,867,105"/>
+<area shape="rect" id="node2" href="$class_c_integration.html#af99c0d20fe324aff34725e057a2c59c5" title="Do the convergence analysis to determine if the FSI problem has converged on the structural side." alt="" coords="435,5,629,47"/>
+<area shape="rect" id="node5" href="$class_c_integration.html#a4d86dc638a56058045a2f6168473cbce" title="Save the structural solution at different time steps." alt="" coords="453,71,611,112"/>
+<area shape="rect" id="node7" href="$class_c_integration.html#acb9e892b95319e7bb3be3e2dce492bb6" title="Save the structural solution at different time steps." alt="" coords="435,136,629,177"/>
+<area shape="rect" id="node3" href="$class_c_f_s_i_driver.html#aeeea6bb4ec8377a5015df6bc88e5a66b" title="Check the convergence of BGS subiteration process." alt="" coords="176,13,387,39"/>
+<area shape="rect" id="node4" href="$class_c_f_s_i_driver.html#a42f35db571cc1bf984b30d2ac7d8167c" title="Run a Block Gauss&#45;Seidel iteration of the FSI problem." alt="" coords="5,13,128,39"/>
+<area shape="rect" id="node6" href="$class_c_f_e_a_iteration.html#a5ed40f51843ce41c76a0272f32ae1b04" title="Updates the containers for the FEM system." alt="" coords="198,78,365,105"/>
+</map>

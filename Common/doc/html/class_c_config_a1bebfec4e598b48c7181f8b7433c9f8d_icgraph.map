@@ -1,0 +1,4 @@
+<map id="CConfig::GetMUSCL_AdjTurb" name="CConfig::GetMUSCL_AdjTurb">
+<area shape="rect" id="node1" title="Get if the upwind scheme used MUSCL or not." alt="" coords="231,13,435,39"/>
+<area shape="rect" id="node2" href="$class_c_adj_turb_solver.html#ad7f35bfeec670ed4357083ecdada59f5" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,5,183,47"/>
+</map>

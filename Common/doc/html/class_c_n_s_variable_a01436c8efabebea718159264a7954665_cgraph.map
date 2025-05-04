@@ -1,0 +1,10 @@
+<map id="CNSVariable::CNSVariable" name="CNSVariable::CNSVariable">
+<area shape="rect" id="node1" title=" " alt="" coords="5,173,196,199"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a6aa8fe1e4a3b1122be37013d25de9987" title="Get the value of the frestream temperature." alt="" coords="276,5,427,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a619cb1400d6c944e83ad0ffe82deb021" title="Get the value of the laminar Prandtl number." alt="" coords="259,71,443,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a2fca6d5964fb443f9d517df57659ccbc" title="Get the value of the turbulent Prandtl number." alt="" coords="260,122,443,149"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a63ce45e68b93f8f3f1de44a2abad67ef" title="Get the reference length for computing moment (the default value is 1)." alt="" coords="267,173,436,199"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a8ec4a0951d9a432dadffad665a9892b3" title="Get the value of the reference temperature for non&#45;dimensionalization." alt="" coords="244,223,459,250"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a2ede918fd25217170b85049ddf07408b" title="Get the value of the non&#45;dimensionalized freestream viscosity." alt="" coords="270,275,433,316"/>
+<area shape="rect" id="node8" href="$class_c_config.html#adf48507f6200c50ac2e02f0d89bb3b59" title="Get the value of the reference viscosity for non&#45;dimensionalization." alt="" coords="256,341,447,367"/>
+</map>

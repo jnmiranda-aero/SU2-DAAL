@@ -1,0 +1,9 @@
+<map id="CConfig::GetWeightsIntegrationADER_DG" name="CConfig::GetWeightsIntegrationADER_DG">
+<area shape="rect" id="node1" title="Get the weights of the time integration points for ADER&#45;DG." alt="" coords="767,93,993,134"/>
+<area shape="rect" id="node2" href="$class_c_f_e_m___d_g___euler_solver.html#ad69d3dd7fafb9203abbc9e876cbcd7a8" title="Function, which accumulates the space time residual of the ADER&#45;DG time integration scheme for the ha..." alt="" coords="484,5,719,61"/>
+<area shape="rect" id="node6" href="$class_c_f_e_m___d_g___euler_solver.html#a0a18dfd035e17379824d2a3a032d3ab3" title="Function, which accumulates the space time residual of the ADER&#45;DG time integration scheme for the ow..." alt="" coords="484,85,719,141"/>
+<area shape="rect" id="node7" href="$class_c_f_e_m___d_g___euler_solver.html#a53f3bd445632823baa18657a29553842" title="Function, carries out the predictor step of the ADER&#45;DG time integration." alt="" coords="508,166,695,207"/>
+<area shape="rect" id="node3" href="$class_c_f_e_m___d_g___euler_solver.html#a651cad1a94f2024c75a1a8be347e3375" title="Function, which processes the list of tasks to be executed by the DG solver." alt="" coords="269,93,436,134"/>
+<area shape="rect" id="node4" href="$class_c_f_e_m___d_g___euler_solver.html#a7f0da04d44069701db2228210b91c59e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="5,59,221,101"/>
+<area shape="rect" id="node5" href="$class_c_f_e_m___d_g___euler_solver.html#ac59d8dae95e3c3cc3ab3feaeb9be4b22" title="Function, which controls the computation of the spatial Jacobian." alt="" coords="19,125,208,166"/>
+</map>

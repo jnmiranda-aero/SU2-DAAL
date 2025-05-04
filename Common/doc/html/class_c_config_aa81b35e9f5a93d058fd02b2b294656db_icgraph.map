@@ -1,0 +1,8 @@
+<map id="CConfig::GetEnergy_FreeStream" name="CConfig::GetEnergy_FreeStream">
+<area shape="rect" id="node1" title="Get the value of the frestream temperature." alt="" coords="581,78,729,119"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a1c633d6e77fefb2e76308e2ba0af0c2c" title="Set the solver nondimensionalization." alt="" coords="249,56,533,83"/>
+<area shape="rect" id="node5" href="$class_c_f_e_m___d_g___euler_solver.html#a31316dc2fe564329d9bb372961b10a3a" title="Set the fluid solver nondimensionalization." alt="" coords="291,107,492,149"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#ae1e74218b4e943111b100d7ddcbd4db9" title=" " alt="" coords="5,5,201,32"/>
+<area shape="rect" id="node4" href="$class_c_n_s_solver.html#a2a8ad49c42b4546696e631cf44b7788b" title=" " alt="" coords="20,56,187,83"/>
+<area shape="rect" id="node6" href="$class_c_f_e_m___d_g___euler_solver.html#a70d30ef9e7cd7620d54ec73f4b1ed28c" title=" " alt="" coords="16,107,191,149"/>
+</map>

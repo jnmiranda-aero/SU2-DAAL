@@ -1,0 +1,12 @@
+<map id="CFEAVariable::CFEAVariable" name="CFEAVariable::CFEAVariable">
+<area shape="rect" id="node1" title=" " alt="" coords="5,239,208,265"/>
+<area shape="rect" id="node2" href="$class_c_config.html#aaef2961fe22e9367e55fcc4bd8796aaf" title="Decide whether to apply dead loads to the model." alt="" coords="292,5,460,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#abe9f117dab934d76e518a9e8e40b142a" title="Get the indicator whether we are solving an discrete adjoint problem." alt="" coords="297,57,455,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#ac22ad3da2560e5f26c71e368ce11819c" title="Provides information about the time integration of the structural analysis, and change the write in t..." alt="" coords="295,122,457,163"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a9776c63953c047138e0f81d5b51cd895" title="Check if the simulation we are running is a FSI simulation." alt="" coords="277,188,475,215"/>
+<area shape="rect" id="node6" href="$class_c_config.html#ac036c2fe542984a827ea2f21b3b4d4a6" title="Geometric conditions for the structural solver." alt="" coords="256,239,496,265"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a4e4e8521bf3fdb0037a7a61186ca706d" title="Check if we want to apply an incremental load to the nonlinear structural simulation." alt="" coords="270,289,482,316"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a4cf38e5edc94f4da2cb15201b3f6c09e" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="281,341,471,382"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a5d4b567b9d086ed10256f8896e12ed17" title="Decide whether it&#39;s necessary to read a reference geometry." alt="" coords="291,407,461,433"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a4ef2f88aba8eed86ee2850e48d732545" title="Decide whether it&#39;s necessary to read a reference geometry." alt="" coords="294,457,458,484"/>
+</map>

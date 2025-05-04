@@ -1,0 +1,8 @@
+<map id="CFEASolver::BC_Clamped_Post" name="CFEASolver::BC_Clamped_Post">
+<area shape="rect" id="node1" title="Enforce the solution to be 0 in the clamped nodes &#45; Avoids accumulation of numerical error." alt="" coords="5,122,228,149"/>
+<area shape="rect" id="node2" href="$class_c_config.html#ac22ad3da2560e5f26c71e368ce11819c" title="Provides information about the time integration of the structural analysis, and change the write in t..." alt="" coords="292,5,453,47"/>
+<area shape="rect" id="node3" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="303,71,442,98"/>
+<area shape="rect" id="node4" href="$class_c_variable.html#a30d4ca1a8a08f748c4a2229a8cce9786" title="Set the value of the solution." alt="" coords="289,122,456,149"/>
+<area shape="rect" id="node5" href="$class_c_variable.html#a2819b4266f051cfcc48402a3635218c5" title="Set the value of the acceleration (Structural Analysis)." alt="" coords="289,173,456,215"/>
+<area shape="rect" id="node6" href="$class_c_variable.html#a8f73300c5da7c4a52d8dc5cf5183ad42" title="Set the value of the velocity (Structural Analysis)." alt="" coords="276,239,469,266"/>
+</map>

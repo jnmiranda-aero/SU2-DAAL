@@ -1,0 +1,8 @@
+<map id="CTransLMSolver::BC_Far_Field" name="CTransLMSolver::BC_Far_Field">
+<area shape="rect" id="node1" title="Impose the Far Field boundary condition." alt="" coords="5,99,156,141"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a61a11d998a224aff7e0a8a4fba1041ec" title="Deletes the values of the row i of the sparse matrix." alt="" coords="204,5,411,32"/>
+<area shape="rect" id="node3" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="234,56,381,83"/>
+<area shape="rect" id="node4" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="238,107,377,133"/>
+<area shape="rect" id="node5" href="$class_c_sys_vector.html#ac2b8ed7c13757ad68487d3891337265b" title="Set the residual to zero." alt="" coords="209,157,406,184"/>
+<area shape="rect" id="node6" href="$class_c_variable.html#ac16f264b34b639ad8aeace755a98f0c8" title="Set the value of the old solution." alt="" coords="210,208,405,235"/>
+</map>

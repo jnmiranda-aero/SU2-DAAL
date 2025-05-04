@@ -1,0 +1,10 @@
+<map id="CEulerSolver::Set_MPI_Sensor" name="CEulerSolver::Set_MPI_Sensor">
+<area shape="rect" id="node1" title="Parallelization of SetPressure_Sensor." alt="" coords="5,155,171,196"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="250,5,398,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a778a77ff2b9e1d359eab9b2d2106fa81" title="Get the send&#45;receive information for a marker val_marker." alt="" coords="250,71,398,112"/>
+<area shape="rect" id="node4" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="255,137,393,163"/>
+<area shape="rect" id="node5" href="$class_c_variable.html#a25c9b3e6ef25a81fe73c8c4d0dae5984" title="Get the pressure sensor." alt="" coords="245,187,403,214"/>
+<area shape="rect" id="node6" href="$class_c_base_m_p_i_wrapper.html#af195343eb82f29c4b3a190c928251765" title=" " alt="" coords="219,238,429,265"/>
+<area shape="rect" id="node8" href="$class_c_variable.html#a4a8e17c1598a9dc858217353dad8f5a6" title="Set pressure sensor." alt="" coords="245,289,403,315"/>
+<area shape="rect" id="node7" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="477,238,692,265"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CConfig::GetRelaxation_Factor_AdjFlow" name="CConfig::GetRelaxation_Factor_AdjFlow">
+<area shape="rect" id="node1" title="Get the relaxation coefficient of the linear solver for the implicit formulation." alt="" coords="236,5,409,47"/>
+<area shape="rect" id="node2" href="$class_c_adj_euler_solver.html#af64f459bce9498b1d19d8a645d0bc2c3" title="Update the solution using an implicit solver." alt="" coords="5,5,188,47"/>
+</map>

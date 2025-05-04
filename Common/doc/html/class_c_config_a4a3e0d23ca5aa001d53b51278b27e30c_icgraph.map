@@ -1,0 +1,7 @@
+<map id="CConfig::GetSens_Remove_Sharp" name="CConfig::GetSens_Remove_Sharp">
+<area shape="rect" id="node1" title="Provides information about if the sharp edges are going to be removed from the sensitivity." alt="" coords="272,93,467,135"/>
+<area shape="rect" id="node2" href="$class_c_adj_euler_solver.html#a35fcc75148b249c56e3625ba23196856" title="Compute the inviscid sensitivity of the functional." alt="" coords="23,5,207,47"/>
+<area shape="rect" id="node3" href="$class_c_disc_adj_solver.html#aa570642f4edea61f5e63084f454bbb1c" title="Extract and set the geometrical sensitivity." alt="" coords="5,71,224,98"/>
+<area shape="rect" id="node4" href="$class_c_disc_adj_solver.html#a8a793e843eaa6c8749381fdede828779" title="Extract and set the transpiration velocity sensitivity." alt="" coords="5,123,224,164"/>
+<area shape="rect" id="node5" href="$class_c_adj_n_s_solver.html#ab05613f9de871991f55c2e1f12eac8dd" title="Compute the viscous sensitivity of the functional." alt="" coords="30,188,199,229"/>
+</map>

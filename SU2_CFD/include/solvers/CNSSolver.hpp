@@ -105,6 +105,26 @@ private:
                                 unsigned short kind_boundary);
 
   /*!
+   * \brief Generic implementation of the transpiration wall boundary condition.
+   */                                
+
+  void BC_Transpiration_Wall_Generic(const CGeometry *geometry,
+                                     const CConfig *config,
+                                     unsigned short val_marker);
+
+  // /*!
+  //  * \brief Generic implementation of the transpiration wall boundary condition.
+  //  */                                
+
+  // void BC_Transpiration_Wall_Generic(CGeometry *geometry,
+  //                                    CSolver **solver_container,
+  //                                    CNumerics *conv_numerics,
+  //                                    CNumerics *visc_numerics,
+  //                                    CConfig *config,
+  //                                    unsigned short val_marker,
+  //                                    bool cht_mode = false);
+
+  /*!
    * \brief Compute the viscous contribution for a particular edge.
    * \param[in] iEdge - Edge for which the flux and Jacobians are to be computed.
    * \param[in] geometry - Geometrical definition of the problem.
@@ -193,6 +213,22 @@ public:
                         CNumerics *visc_numerics,
                         CConfig *config,
                         unsigned short val_marker) override;
+
+  /*!
+   * \brief Impose a normal velocity flux through the surface (transpiration) at the wall.
+   * \param[in] geometry         - Geometrical definition of the problem.
+   * \param[in] solver_container - Container vector with all the solutions.
+   * \param[in] conv_numerics    - Description of the numerical method.
+   * \param[in] visc_numerics    - Description of the numerical method.
+   * \param[in] config           - Definition of the particular problem.
+   * \param[in] val_marker       - Surface marker where the boundary condition is applied.
+   */                        
+  void BC_Transpiration_Wall(CGeometry *geometry,
+                             CSolver **solver_container,
+                             CNumerics *conv_numerics,
+                             CNumerics *visc_numerics,
+                             CConfig *config,
+                             unsigned short val_marker) override;
 
   /*!
    * \brief Impose a heat flux by prescribing a heat transfer coefficient and a temperature at infinity.

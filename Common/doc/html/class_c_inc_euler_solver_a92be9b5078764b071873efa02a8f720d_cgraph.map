@@ -1,0 +1,16 @@
+<map id="CIncEulerSolver::SetFarfield_AoA" name="CIncEulerSolver::SetFarfield_AoA">
+<area shape="rect" id="node1" title="Update the AoA and freestream velocity at the farfield." alt="" coords="5,325,239,352"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a6020a5df7025ffb286f9b9f55f3f2773" title="Get the angle of attack of the body. This is the angle between a reference line on a lifting body (of..." alt="" coords="337,5,467,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a4305a79a4c74f13160c0dd8daae181ef" title="Get the angle of sideslip of the body. It relates to the rotation of the aircraft centerline from the..." alt="" coords="338,56,466,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a717191d708bc4d8d183326abe308770f" title="Get the value for the lift curve slope for fixed CL mode." alt="" coords="313,107,491,133"/>
+<area shape="rect" id="node5" href="$class_c_config.html#abe9f117dab934d76e518a9e8e40b142a" title="Get the indicator whether we are solving an discrete adjoint problem." alt="" coords="323,158,481,199"/>
+<area shape="rect" id="node6" href="$class_c_config.html#aa48f2fc504ec2b261d5046f9a17677dd" title="Get the current external iteration number." alt="" coords="329,224,475,251"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a37e61314cec83191ef1c00eed0d576d4" title="Get the value of iterations to re&#45;evaluate the angle of attack." alt="" coords="307,275,497,301"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a655e91bd2d444bb4c46b4244e2d814ae" title="Get the value specified for the target CL." alt="" coords="319,325,485,352"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a4d36b6479c43b887ce691c23ce648961" title="Get the value of iterations to re&#45;evaluate the angle of attack." alt="" coords="327,377,477,418"/>
+<area shape="rect" id="node10" href="$class_c_config.html#ac951150c8a657781b1c2d28d1058ed07" title="Get information about whether to update the AoA for fixed lift mode." alt="" coords="311,443,493,469"/>
+<area shape="rect" id="node11" href="$class_c_inc_euler_solver.html#a31b3bb059712e0b78c3062adf7138e6d" title="Get the velocity at the infinity." alt="" coords="287,493,517,520"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a32f628d1d3d3e2e4888886e4cadf167b" title="Set the angle of attack." alt="" coords="339,544,465,571"/>
+<area shape="rect" id="node13" href="$class_c_config.html#ad21c886562ffe9c0abaf9c38b8946c6e" title="Set the value of the boolean for updating AoA in fixed lift mode." alt="" coords="311,595,493,621"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a0dd94d37a95acbb120ec45ea7f5e4e9c" title="Set the Froude number for free surface problems." alt="" coords="325,646,479,687"/>
+</map>

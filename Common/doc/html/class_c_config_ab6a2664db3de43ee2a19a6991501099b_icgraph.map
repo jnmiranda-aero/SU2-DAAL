@@ -1,0 +1,6 @@
+<map id="CConfig::GetDomainVolume" name="CConfig::GetDomainVolume">
+<area shape="rect" id="node1" title="Get the volume of the whole domain using the fine grid, this value is common for all the grids in the..." alt="" coords="657,13,860,39"/>
+<area shape="rect" id="node2" href="$class_c_multi_grid_geometry.html#a4fd17cfda3823880c2215f30da37e458" title="Determine if a can be agglomerated using geometrical criteria." alt="" coords="453,5,609,47"/>
+<area shape="rect" id="node3" href="$class_c_multi_grid_geometry.html#a15c29a11f85cce8f38d2403fc8fc2826" title="Constructor of the class." alt="" coords="5,5,169,47"/>
+<area shape="rect" id="node4" href="$class_c_multi_grid_geometry.html#a7f01a0e615971be927da2ccad9cb9e10" title="Determine if a CVPoint van be agglomerated, if it have the same marker point as the seed." alt="" coords="217,35,405,76"/>
+</map>

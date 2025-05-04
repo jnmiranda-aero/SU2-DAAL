@@ -1,0 +1,8 @@
+<map id="CConfig::GetRelaxation_Method_FSI" name="CConfig::GetRelaxation_Method_FSI">
+<area shape="rect" id="node1" title="Get the relaxation method chosen for the simulation." alt="" coords="688,71,861,112"/>
+<area shape="rect" id="node2" href="$class_c_f_e_a_solver.html#a39c463462b8d39a03499cb1393ae8530" title="Computation of Aitken&#39;s coefficient." alt="" coords="435,5,640,47"/>
+<area shape="rect" id="node3" href="$class_c_integration.html#af99c0d20fe324aff34725e057a2c59c5" title="Do the convergence analysis to determine if the FSI problem has converged on the structural side." alt="" coords="440,71,635,112"/>
+<area shape="rect" id="node6" href="$class_c_f_e_a_solver.html#a470f19d181ea34a811f82c309d261244" title="Aitken&#39;s relaxation of the solution." alt="" coords="454,136,621,177"/>
+<area shape="rect" id="node4" href="$class_c_f_s_i_driver.html#aeeea6bb4ec8377a5015df6bc88e5a66b" title="Check the convergence of BGS subiteration process." alt="" coords="176,78,387,105"/>
+<area shape="rect" id="node5" href="$class_c_f_s_i_driver.html#a42f35db571cc1bf984b30d2ac7d8167c" title="Run a Block Gauss&#45;Seidel iteration of the FSI problem." alt="" coords="5,78,128,105"/>
+</map>

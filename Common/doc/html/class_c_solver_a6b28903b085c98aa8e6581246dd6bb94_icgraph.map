@@ -1,0 +1,4 @@
+<map id="CSolver::SetAuxVar_Surface_Gradient" name="CSolver::SetAuxVar_Surface_Gradient">
+<area shape="rect" id="node1" title="Compute the Least Squares gradient of an auxiliar variable on the profile surface." alt="" coords="237,5,384,47"/>
+<area shape="rect" id="node2" href="$class_c_adj_euler_solver.html#a35fcc75148b249c56e3625ba23196856" title="Compute the inviscid sensitivity of the functional." alt="" coords="5,5,189,47"/>
+</map>

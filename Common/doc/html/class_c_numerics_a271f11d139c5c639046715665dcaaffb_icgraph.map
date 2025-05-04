@@ -1,0 +1,5 @@
+<map id="CNumerics::InvMatrix4D" name="CNumerics::InvMatrix4D">
+<area shape="rect" id="node1" title="Computate the inverse of a 4x4 matrix." alt="" coords="511,13,692,39"/>
+<area shape="rect" id="node2" href="$class_c_numerics.html#a78cd865849c3fe3accd1e977c836acec" title="Computation of the flow Residual Jacoboan Matrix for Non Reflecting BC." alt="" coords="224,5,463,47"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#aa4c3988e3ce0c18460b5c069650c57b0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="5,13,176,39"/>
+</map>

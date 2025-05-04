@@ -1,0 +1,7 @@
+<map id="CDiscAdjSolver::RegisterOutput" name="CDiscAdjSolver::RegisterOutput">
+<area shape="rect" id="node1" title="Performs the preprocessing of the adjoint AD&#45;based solver. Registers all necessary variables that are..." alt="" coords="5,23,188,65"/>
+<area shape="rect" id="node2" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="252,5,419,32"/>
+<area shape="rect" id="node3" href="$class_c_variable.html#ac7c3250fb186e2e086faac63fa5b3f64" title="Register the variables in the solution array as input/output variable." alt="" coords="236,56,435,83"/>
+<area shape="rect" id="node4" href="$namespace_a_d.html#a142308d54379f7aaa1c72195fb5fe992" title="Registers the variable as an input. I.e. as a leaf of the computational graph." alt="" coords="488,31,624,57"/>
+<area shape="rect" id="node5" href="$namespace_a_d.html#ae381e45797545e980376c4aeb3f5afdc" title="Registers the variable as an output. I.e. as the root of the computational graph." alt="" coords="483,81,629,108"/>
+</map>

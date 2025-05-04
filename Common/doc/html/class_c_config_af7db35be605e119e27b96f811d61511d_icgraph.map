@@ -1,0 +1,5 @@
+<map id="CConfig::GetAverageMachLimit" name="CConfig::GetAverageMachLimit">
+<area shape="rect" id="node1" title="Get mach limit for average massflow&#45;based procedure ." alt="" coords="255,35,479,61"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#aa4c3988e3ce0c18460b5c069650c57b0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="21,5,191,32"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#ab408049d3b4fecc224653176c8d7885a" title="It computes average quantities along the span for turbomachinery analysis." alt="" coords="5,57,207,98"/>
+</map>

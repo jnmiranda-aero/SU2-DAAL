@@ -1,0 +1,6 @@
+<map id="CSysMatrix::RowProduct" name="CSysMatrix::RowProduct">
+<area shape="rect" id="node1" title="Performs the product of i&#45;th row of a sparse matrix by a vector." alt="" coords="523,35,704,61"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#ac1256103ca075137b1fc3b0bbd39737b" title="Compute the residual Ax&#45;b." alt="" coords="256,5,475,32"/>
+<area shape="rect" id="node4" href="$class_c_sys_matrix.html#aa334ecd4c0493134189bf1f95255819f" title="Performs the product of a sparse matrix by a vector." alt="" coords="272,57,459,98"/>
+<area shape="rect" id="node3" href="$class_c_f_e_a_solver.html#a582bf776db03d18a985936fff4c16644" title="Postprocessing." alt="" coords="5,5,208,32"/>
+</map>

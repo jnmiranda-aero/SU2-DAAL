@@ -1,0 +1,8 @@
+<map id="CMultiGridGeometry::SetCoord" name="CMultiGridGeometry::SetCoord">
+<area shape="rect" id="node1" title="Set a representative coordinates of the agglomerated control volume." alt="" coords="5,99,161,141"/>
+<area shape="rect" id="node2" href="$class_c_point.html#a821d9feaa7488e42dfca27a349776f0a" title="Get the children control volume of an agglomerated control volume." alt="" coords="213,5,388,32"/>
+<area shape="rect" id="node3" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="234,56,367,83"/>
+<area shape="rect" id="node4" href="$class_c_point.html#aa32b71744384b293260648bff1de9a5c" title="Get the number of children of an agglomerated control volume." alt="" coords="209,107,392,133"/>
+<area shape="rect" id="node5" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="217,157,384,184"/>
+<area shape="rect" id="node6" href="$class_c_point.html#a3c526a15e767c7de9cf163800aa581e5" title="Get area or volume of the control volume." alt="" coords="229,208,373,235"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CEulerSolver::ComputeConsExtrapolation" name="CEulerSolver::ComputeConsExtrapolation">
+<area shape="rect" id="node1" title="Compute the extrapolated quantities, for MUSCL upwind 2nd reconstruction, in a more thermodynamic con..." alt="" coords="5,125,209,166"/>
+<area shape="rect" id="node2" href="$class_c_fluid_model.html#aad64c09dba03173f53b7d3c02f66df05" title="Get fluid pressure partial derivative." alt="" coords="270,5,465,32"/>
+<area shape="rect" id="node3" href="$class_c_fluid_model.html#ad4754fda288f96e22a395b5938a018dc" title="Get fluid pressure partial derivative." alt="" coords="270,56,465,83"/>
+<area shape="rect" id="node4" href="$class_c_fluid_model.html#a4a2b307dfa2a545c632548c8d7c6e86c" title="Get fluid speed of sound." alt="" coords="260,107,475,133"/>
+<area shape="rect" id="node5" href="$class_c_fluid_model.html#a99d4d8c322ea4f1072e0326f09154318" title="Get fluid internal energy." alt="" coords="259,157,475,184"/>
+<area shape="rect" id="node6" href="$class_c_fluid_model.html#aeba3f29d27211ff50acad59477105969" title="Get fluid temperature." alt="" coords="259,208,475,235"/>
+<area shape="rect" id="node7" href="$class_c_fluid_model.html#ad93e74a6cc6610e9c31c180040bda4e6" title="virtual member that would be different for each gas model implemented" alt="" coords="257,259,477,285"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CConfig::GetWall_Functions" name="CConfig::GetWall_Functions">
+<area shape="rect" id="node1" title="Get information about whether to use wall functions." alt="" coords="297,31,497,57"/>
+<area shape="rect" id="node2" href="$class_c_turb_s_a_solver.html#a19089784668fa7ece2bd0400405f0a47" title="Impose the Navier&#45;Stokes wall boundary condition." alt="" coords="5,5,249,32"/>
+<area shape="rect" id="node3" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="33,56,222,83"/>
+</map>

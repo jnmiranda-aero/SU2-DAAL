@@ -1,0 +1,15 @@
+<map id="CConfig::GetRiemann_Solver_FEM" name="CConfig::GetRiemann_Solver_FEM">
+<area shape="rect" id="node1" title="Get the kind of Riemann solver for the DG method (FEM flow solver)." alt="" coords="1352,163,1513,204"/>
+<area shape="rect" id="node2" href="$class_c_f_e_m___d_g___euler_solver.html#a4851d39829e12202592d85c36ea36489" title="Function, which computes the inviscid fluxes in face points." alt="" coords="1075,104,1286,145"/>
+<area shape="rect" id="node9" href="$class_c_driver.html#a07b570fb66322870b48268e8eb63599f" title="Definition and allocation of all solver classes." alt="" coords="1057,170,1304,197"/>
+<area shape="rect" id="node12" href="$class_c_driver.html#a60382de671a5ddd17e35573cc49ec2a6" title="Definition and allocation of all solver classes." alt="" coords="1061,221,1300,247"/>
+<area shape="rect" id="node3" href="$class_c_f_e_m___d_g___euler_solver.html#ab7546cb31b73191bbac2b338c88cfbc4" title="Function, which computes the inviscid fluxes in the face integration points of a chunk of matching in..." alt="" coords="748,104,1009,145"/>
+<area shape="rect" id="node4" href="$class_c_f_e_m___d_g___euler_solver.html#a8875e58364f55e735fc3732f545d5f29" title="Compute the spatial residual for the given range of faces. It is a virtual function,..." alt="" coords="509,39,675,80"/>
+<area shape="rect" id="node8" href="$class_c_f_e_m___d_g___n_s_solver.html#a5afc06c0edede6e3917a6b24158930ba" title="Compute the spatial residual for the given range of faces." alt="" coords="484,104,700,145"/>
+<area shape="rect" id="node5" href="$class_c_f_e_m___d_g___euler_solver.html#a651cad1a94f2024c75a1a8be347e3375" title="Function, which processes the list of tasks to be executed by the DG solver." alt="" coords="269,39,436,80"/>
+<area shape="rect" id="node6" href="$class_c_f_e_m___d_g___euler_solver.html#a7f0da04d44069701db2228210b91c59e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="5,5,221,47"/>
+<area shape="rect" id="node7" href="$class_c_f_e_m___d_g___euler_solver.html#ac59d8dae95e3c3cc3ab3feaeb9be4b22" title="Function, which controls the computation of the spatial Jacobian." alt="" coords="19,71,208,112"/>
+<area shape="rect" id="node10" href="$class_c_driver.html#a6ad9df8d8a8de75033ef296fed39c213" title="Deallocation routine." alt="" coords="790,170,967,197"/>
+<area shape="rect" id="node11" href="$_s_u2___c_f_d_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="565,170,619,197"/>
+<area shape="rect" id="node13" href="$class_c_driver.html#afac169e386a89af2a52be8902abb27f2" title="Constructor of the class." alt="" coords="815,221,943,247"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CDriver::GetAllBoundaryMarkersType" name="CDriver::GetAllBoundaryMarkersType">
+<area shape="rect" id="node1" title="Get all the boundary markers tags with their associated types." alt="" coords="5,78,268,105"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="332,5,480,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="332,71,480,112"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="316,137,496,163"/>
+</map>

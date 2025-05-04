@@ -1,0 +1,11 @@
+<map id="CPrimalGrid::GetCornerPointsAllFaces" name="CPrimalGrid::GetCornerPointsAllFaces">
+<area shape="rect" id="node1" title="Virtual function, that must be overwritten by the derived class, if needed." alt="" coords="531,209,745,251"/>
+<area shape="rect" id="node2" href="$class_c_physical_geometry.html#ac8396196dddd6caec922418eaf7d7a2a" title="Compute the weights of the FEM graph for ParMETIS." alt="" coords="261,5,461,47"/>
+<area shape="rect" id="node3" href="$class_c_physical_geometry.html#a731c0207381f31f0b1165b646abc2acb" title="Set the domains for FEM grid partitioning using ParMETIS." alt="" coords="5,129,192,171"/>
+<area shape="rect" id="node4" href="$class_c_physical_geometry.html#acef4e18142b580bf09f21e5b71387d5f" title="Determine the donor elements for the boundary elements on viscous wall boundaries when wall functions..." alt="" coords="252,122,471,178"/>
+<area shape="rect" id="node5" href="$class_c_physical_geometry.html#a1823c0dcfe5570115da9b7db331daaa5" title="Determine whether or not the Jacobians of the elements and faces are constant and a length scale of t..." alt="" coords="242,202,481,258"/>
+<area shape="rect" id="node6" href="$class_c_physical_geometry.html#a4b8a3bab829079fe0425b00afe2c0dab" title="Determine the neighboring information for periodic faces of a FEM grid." alt="" coords="244,283,479,324"/>
+<area shape="rect" id="node7" href="$class_c_physical_geometry.html#a5fa5c4805d03646f8bfbf8622265f958" title="Reads for the FEM solver the geometry of the grid and adjust the boundary conditions with the configu..." alt="" coords="240,348,483,389"/>
+<area shape="rect" id="node9" href="$class_c_physical_geometry.html#a8fb5c62d5c61dd689ea5d51d4f174831" title="Reads for the FEM solver the geometry of the grid and adjust the boundary conditions with the configu..." alt="" coords="246,413,477,455"/>
+<area shape="rect" id="node8" href="$class_c_physical_geometry.html#a075a737b341a64de5463ddd41096692e" title="Reads the geometry of the grid and adjust the boundary conditions with the configuration file." alt="" coords="20,380,177,421"/>
+</map>

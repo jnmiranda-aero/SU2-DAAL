@@ -1,0 +1,6 @@
+<map id="CUpwRoe_AdjFlow::ComputeResidual" name="CUpwRoe_AdjFlow::ComputeResidual">
+<area shape="rect" id="node1" title="Compute the adjoint Roe&#39;s flux between two nodes i and j." alt="" coords="5,49,216,90"/>
+<area shape="rect" id="node2" href="$class_c_numerics.html#ae0225b473263a9547a2445c423ba7dce" title="Compute the projection of the inviscid Jacobian matrices." alt="" coords="264,5,483,32"/>
+<area shape="rect" id="node3" href="$class_c_numerics.html#a4c0be4ab3aa0dd899babe4c96d7a0c02" title="Computation of the matrix P for a generic fluid model." alt="" coords="286,56,461,83"/>
+<area shape="rect" id="node4" href="$class_c_numerics.html#a04a93dceeb13c4738d6c9ce357575257" title="Computation of the matrix P^{&#45;1}, this matrix diagonalize the conservative Jacobians in the form $P^{..." alt="" coords="273,107,474,133"/>
+</map>

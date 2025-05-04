@@ -1,0 +1,7 @@
+<map id="CNumerics::SetF1blending" name="CNumerics::SetF1blending">
+<area shape="rect" id="node1" title="Set the value of the first blending function." alt="" coords="228,111,423,138"/>
+<area shape="rect" id="node2" href="$class_c_turb_s_s_t_solver.html#a76eebd24fcfc25255c3089f2b1a9acbd" title="Impose the inlet boundary condition." alt="" coords="18,5,167,47"/>
+<area shape="rect" id="node3" href="$class_c_turb_s_s_t_solver.html#a8957c42841a00d3880fb5886e2f4de3c" title="Impose the inlet boundary condition." alt="" coords="18,71,167,112"/>
+<area shape="rect" id="node4" href="$class_c_turb_s_s_t_solver.html#ae5ada21c83db478d242a183e498f6cde" title="Source term computation." alt="" coords="5,136,180,177"/>
+<area shape="rect" id="node5" href="$class_c_turb_solver.html#aa7a7c19bca5d22e9073cbd165f7a0c94" title="Compute the viscous residuals for the turbulent equation." alt="" coords="14,201,171,243"/>
+</map>

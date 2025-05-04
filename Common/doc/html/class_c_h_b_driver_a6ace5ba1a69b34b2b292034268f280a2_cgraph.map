@@ -1,0 +1,7 @@
+<map id="CHBDriver::ComputeHB_Operator" name="CHBDriver::ComputeHB_Operator">
+<area shape="rect" id="node1" title="Computation of the Harmonic Balance operator matrix for harmonic balance." alt="" coords="5,89,181,131"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a7d9f0904ed8e25c7d479bb22956ae6fc" title="Retrieves the period of oscillations to be used with Harmonic Balance." alt="" coords="229,5,448,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a6f53600f4281e7b232136beb14350559" title="Get the Harmonic Balance frequency pointer." alt="" coords="251,71,427,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a75bb1f8aa4d15be6690dd6cc5ab581a7" title="Get the value of the reference angular velocity for non&#45;dimensionalization." alt="" coords="249,122,428,149"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a08a17689e8bcd7b952b530fcb5a44842" title="Get the value of the reference time for non&#45;dimensionalization." alt="" coords="256,173,421,199"/>
+</map>

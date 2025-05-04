@@ -1,0 +1,20 @@
+<map id="CAdjEulerSolver::BC_ActDisk_Outlet" name="CAdjEulerSolver::BC_ActDisk_Outlet">
+<area shape="rect" id="node1" title="Impose an actuator disk outlet boundary condition." alt="" coords="5,398,157,439"/>
+<area shape="rect" id="node2" href="$class_c_numerics.html#abe734316e0047f463f059fd77a281958" title="Compute the numerical residual." alt="" coords="207,5,423,32"/>
+<area shape="rect" id="node3" href="$class_c_solver.html#ad25c13b6587f8a1a71f84a37fdb5b213" title="A virtual member." alt="" coords="216,56,415,83"/>
+<area shape="rect" id="node4" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="242,107,389,133"/>
+<area shape="rect" id="node5" href="$class_c_solver.html#a8fe26878b051aabbf59ea1905d772e57" title="A virtual member." alt="" coords="205,157,425,184"/>
+<area shape="rect" id="node6" href="$class_c_point.html#ab546170a5a03ef210a75fc5531910050" title="Get the global index in a parallel computation." alt="" coords="229,208,402,235"/>
+<area shape="rect" id="node7" href="$class_c_config.html#ab9d0e23db2d8f044b0b09915e92ef003" title="Get the kind of integration scheme (explicit or implicit) for the adjoint flow equations." alt="" coords="221,259,410,301"/>
+<area shape="rect" id="node8" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="246,325,385,352"/>
+<area shape="rect" id="node9" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="239,376,391,403"/>
+<area shape="rect" id="node10" href="$class_c_vertex.html#a8d2bce3a6ee62007179e688dc2b9b182" title="Get the value of the closest neighbor." alt="" coords="239,427,391,469"/>
+<area shape="rect" id="node11" href="$class_c_variable.html#a5fc23761cf67841ab946fc6e8b4f019d" title="A virtual member." alt="" coords="228,493,403,520"/>
+<area shape="rect" id="node12" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="231,544,399,571"/>
+<area shape="rect" id="node13" href="$class_c_numerics.html#a4eb3867ed99a8fd200f96da877e64313" title="Set the value of the adjoint variable." alt="" coords="221,595,410,621"/>
+<area shape="rect" id="node14" href="$class_c_numerics.html#a41903d97957f351cd9ee63ca404985b1" title="Set the value of the normal vector to the face between two points." alt="" coords="230,645,401,672"/>
+<area shape="rect" id="node15" href="$class_c_numerics.html#af72b17d397adf09beed2e99e2daf895c" title="Set the value of the primitive variables." alt="" coords="225,696,406,723"/>
+<area shape="rect" id="node16" href="$class_c_sys_matrix.html#a0c6e3335f161b70247ac06e22eee6dfc" title="Subtracts the specified block to the sparse matrix." alt="" coords="218,747,413,773"/>
+<area shape="rect" id="node18" href="$class_c_sys_vector.html#aa2de9022590ea6b06950ef6b8afb77a2" title="Subtract val_residual to the residual." alt="" coords="219,797,412,824"/>
+<area shape="rect" id="node17" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="473,747,628,773"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CFEMStandardElement::GetNPoly" name="CFEMStandardElement::GetNPoly">
+<area shape="rect" id="node1" title="Function, which makes available the polynomial degree for this standard element." alt="" coords="551,129,721,171"/>
+<area shape="rect" id="node2" href="$class_c_f_e_m___d_g___n_s_solver.html#a148134abb8821df7c68a8f9adedbe851" title="Impose the symmetry boundary condition using the residual." alt="" coords="288,5,467,47"/>
+<area shape="rect" id="node3" href="$class_c_f_e_m___d_g___euler_solver.html#a041ecaba8cd8d9bcfcec123c27bf9a7a" title="Function to compute the time step for solving the Euler equations." alt="" coords="294,71,461,112"/>
+<area shape="rect" id="node4" href="$class_c_f_e_m___d_g___n_s_solver.html#a993de2bb61a532e9d1508bae98dd3a12" title="Function to compute the time step for solving the Navier&#45;Stokes equations." alt="" coords="252,137,503,163"/>
+<area shape="rect" id="node5" href="$class_c_f_e_m___d_g___n_s_solver.html#a04fa3111afb642b208d97efe113ff1cf" title="Per&#45;Olof Persson&#39;s method for capturing shock in DG." alt="" coords="278,188,477,229"/>
+<area shape="rect" id="node7" href="$class_c_f_e_m___d_g___n_s_solver.html#ac62df058348ffee37a945bcc3a66745b" title="Compute the volume contributions to the spatial residual." alt="" coords="273,253,482,295"/>
+<area shape="rect" id="node6" href="$class_c_f_e_m___d_g___n_s_solver.html#a6c6944d7036c9cb3e9664f938543b52b" title="Compute the artificial viscosity for shock capturing in DG." alt="" coords="5,188,204,229"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CPoint::GetColor" name="CPoint::GetColor">
+<area shape="rect" id="node1" title="Get the color of a point, the color indicates to which subdomain the point belong to." alt="" coords="416,111,545,138"/>
+<area shape="rect" id="node2" href="$class_c_physical_geometry.html#addad3f466423ba9243a396763d442f9a" title="Accepts a geometry container holding a linearly partitioned grid with coloring performed by ParMETIS,..." alt="" coords="211,5,368,47"/>
+<area shape="rect" id="node3" href="$class_c_physical_geometry.html#a62179e920f6a9f5e5f9e687ca41c4a63" title="Distributes the coloring from ParMETIS so that each rank has complete information about the local gri..." alt="" coords="211,71,368,112"/>
+<area shape="rect" id="node5" href="$class_c_physical_geometry.html#a1657020a6334a6be8770a8d3b3fccbad" title="Distribute the grid points, including ghost points, across all ranks based on a ParMETIS coloring." alt="" coords="211,136,368,177"/>
+<area shape="rect" id="node6" href="$class_c_physical_geometry.html#a3c1bbd5f039bb9cab24a42ecc8aefa46" title="Set the send receive boundaries of the grid." alt="" coords="211,201,368,243"/>
+<area shape="rect" id="node4" href="$class_c_physical_geometry.html#a5060b218ee34c7fe7ccfbee03e912fd6" title="Accepts a geometry container holding a linearly partitioned grid with coloring performed by ParMETIS,..." alt="" coords="5,104,163,145"/>
+</map>

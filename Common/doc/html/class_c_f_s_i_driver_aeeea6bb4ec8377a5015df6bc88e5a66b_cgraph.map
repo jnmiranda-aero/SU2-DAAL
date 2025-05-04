@@ -1,0 +1,30 @@
+<map id="CFSIDriver::BGSConvergence" name="CFSIDriver::BGSConvergence">
+<area shape="rect" id="node1" title="Check the convergence of BGS subiteration process." alt="" coords="5,536,216,563"/>
+<area shape="rect" id="node2" href="$class_c_solver.html#addf0638954e599f078c10f7adf070589" title="A virtual member." alt="" coords="287,368,485,395"/>
+<area shape="rect" id="node3" href="$class_c_solver.html#a78c9c8a970e2754b583be830e60469ff" title="Set the value of the max residual and RMS residual." alt="" coords="271,419,501,445"/>
+<area shape="rect" id="node4" href="$class_c_integration.html#af99c0d20fe324aff34725e057a2c59c5" title="Do the convergence analysis to determine if the FSI problem has converged on the structural side." alt="" coords="289,470,483,511"/>
+<area shape="rect" id="node25" href="$class_c_integration.html#ae781dd32e6ff4facc6949142d7c28c6b" title="Get the indicator of the convergence for the Fluid&#45;Structure Interaction problem." alt="" coords="264,536,508,563"/>
+<area shape="rect" id="node26" href="$class_c_config.html#a300c4884edfc0c2acf395036439004f4" title="Get the total number of boundary markers." alt="" coords="296,587,476,613"/>
+<area shape="rect" id="node27" href="$class_c_solver.html#a65c22046b0cf1938ba22648912d04680" title="Get the number of variables of the problem." alt="" coords="320,637,452,664"/>
+<area shape="rect" id="node28" href="$class_c_solver.html#a6dc11e7b4be632b260dd373c14e1005f" title="Store the BGS solution in the previous subiteration in the corresponding vector." alt="" coords="279,688,493,715"/>
+<area shape="rect" id="node5" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="572,5,783,32"/>
+<area shape="rect" id="node7" href="$class_c_base_m_p_i_wrapper.html#ae816a2f124ea5ae95337418462514df5" title=" " alt="" coords="584,56,771,83"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a5b95a87f29d55981d1b951c6b1fb011d" title="Get Aitken&#39;s relaxation parameter for static relaxation cases." alt="" coords="574,107,781,133"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a5584bf1acbe7bfce6e649e81a7c62470" title="If we are prforming an unsteady simulation, there is only one value of the time step for the complete..." alt="" coords="602,158,753,199"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a878d0706882c22f85903e27e1047b3ea" title="If we are prforming an unsteady simulation, there is only one value of the time step for the complete..." alt="" coords="575,224,779,251"/>
+<area shape="rect" id="node11" href="$class_c_config.html#aa48f2fc504ec2b261d5046f9a17677dd" title="Get the current external iteration number." alt="" coords="604,275,751,301"/>
+<area shape="rect" id="node12" href="$class_c_solver.html#aefa502a3c7accab247563d7c2032c886" title="A virtual member." alt="" coords="578,325,777,352"/>
+<area shape="rect" id="node13" href="$class_c_config.html#abd98ec14cfbe29fc846ac4cf4bb728e7" title="Value of the minimum residual value for FSI applications (log10 scale)." alt="" coords="565,376,790,403"/>
+<area shape="rect" id="node14" href="$class_c_geometry.html#a2af01006c0c4f74ba089582f1a3587fe" title="Get number of coordinates." alt="" coords="597,427,758,453"/>
+<area shape="rect" id="node15" href="$class_c_geometry.html#a4fc7de3bff7b6f8c35717016d6f8fcb2" title="Get number of real points (that belong to the domain)." alt="" coords="568,477,787,504"/>
+<area shape="rect" id="node16" href="$class_c_config.html#a3d1ad6aa8f4b1a31239a871f067903ab" title="Value of the order of magnitude reduction of the residual for FSI applications." alt="" coords="556,528,799,555"/>
+<area shape="rect" id="node17" href="$class_c_config.html#a3d41cea93d8e5e917b1c1dc42cfcdbf9" title="Get the relaxation method chosen for the simulation." alt="" coords="591,579,764,621"/>
+<area shape="rect" id="node18" href="$class_c_variable.html#a2ad2aee625fdc9f1b973b32271422d0b" title="A virtual member. Get the value of the solution predictor." alt="" coords="575,645,779,672"/>
+<area shape="rect" id="node19" href="$class_c_variable.html#a99d8e638e68dbdc4654d3ca327bfa699" title="A virtual member. Get the value of the solution predictor." alt="" coords="593,697,761,738"/>
+<area shape="rect" id="node20" href="$class_c_solver.html#abb2ce000ca52a117db996a9579c060c9" title="A virtual member." alt="" coords="583,763,772,789"/>
+<area shape="rect" id="node21" href="$class_c_base_m_p_i_wrapper.html#a860dfcee07be04be175e06d342e0fc68" title=" " alt="" coords="578,813,777,840"/>
+<area shape="rect" id="node22" href="$class_c_solver.html#a7df3ab67720813bfb8f201e6a8002062" title="A virtual member." alt="" coords="579,864,775,891"/>
+<area shape="rect" id="node23" href="$class_c_solver.html#ac423c18bd358db3bce354242c2e0a736" title="A virtual member." alt="" coords="586,915,769,941"/>
+<area shape="rect" id="node24" href="$class_c_solver.html#ab1c95e56aecb944a8635880dacdaaa3e" title="A virtual member." alt="" coords="591,965,763,992"/>
+<area shape="rect" id="node6" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="847,409,1061,436"/>
+</map>

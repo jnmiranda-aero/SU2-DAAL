@@ -1,0 +1,7 @@
+<map id="CTurbSolver" name="CTurbSolver">
+<area shape="rect" id="node1" title="Main class for defining the turbulence model solver." alt="" coords="164,80,263,107"/>
+<area shape="rect" id="node3" href="$class_c_trans_l_m_solver.html" title="Main class for defining the turbulence model solver." alt="" coords="5,155,131,181"/>
+<area shape="rect" id="node4" href="$class_c_turb_s_a_solver.html" title="Main class for defining the turbulence model solver." alt="" coords="155,155,272,181"/>
+<area shape="rect" id="node5" href="$class_c_turb_s_s_t_solver.html" title="Main class for defining the turbulence model solver." alt="" coords="296,155,419,181"/>
+<area shape="rect" id="node2" href="$class_c_solver.html" title="Main class for defining the PDE solution, it requires a child class for each particular solver (Euler..." alt="" coords="177,5,249,32"/>
+</map>

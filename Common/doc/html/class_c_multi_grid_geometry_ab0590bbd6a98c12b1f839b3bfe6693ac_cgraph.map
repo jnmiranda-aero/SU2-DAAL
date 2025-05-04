@@ -1,0 +1,5 @@
+<map id="CMultiGridGeometry::SetSuitableNeighbors" name="CMultiGridGeometry::SetSuitableNeighbors">
+<area shape="rect" id="node1" title="Determine if a CVPoint van be agglomerated, if it have the same marker point as the seed." alt="" coords="5,23,176,65"/>
+<area shape="rect" id="node2" href="$class_c_point.html#adbb78f3c01711ed0349897f845e3f2d8" title="Get the number of points that compose the control volume." alt="" coords="224,5,360,32"/>
+<area shape="rect" id="node3" href="$class_c_point.html#aab08fdab4e59c01d822afca5335a86af" title="Get all the points that compose the control volume." alt="" coords="228,56,356,83"/>
+</map>

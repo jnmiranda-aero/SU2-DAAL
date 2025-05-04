@@ -1,0 +1,5 @@
+<map id="CMeshFEM::GetRanksSend" name="CMeshFEM::GetRanksSend">
+<area shape="rect" id="node1" title="Function, which makes available the vector of send ranks as a const reference." alt="" coords="403,5,600,32"/>
+<area shape="rect" id="node2" href="$definition__structure_8hpp.html#ac8f2a44b074b895036080900e1315053" title="Performs an analysis of the mesh partitions for distributed memory calculations for the FEM solver." alt="" coords="181,5,355,32"/>
+<area shape="rect" id="node3" href="$class_c_driver.html#afac169e386a89af2a52be8902abb27f2" title="Constructor of the class." alt="" coords="5,5,133,32"/>
+</map>

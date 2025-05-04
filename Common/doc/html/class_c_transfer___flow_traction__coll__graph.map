@@ -1,0 +1,4 @@
+<map id="CTransfer_FlowTraction" name="CTransfer_FlowTraction">
+<area shape="rect" id="node1" title="Transfer flow tractions from a fluid zone into a structural zone." alt="" coords="5,80,177,107"/>
+<area shape="rect" id="node2" href="$class_c_transfer.html" title="Main class for defining the physical transfer of information." alt="" coords="50,5,133,32"/>
+</map>

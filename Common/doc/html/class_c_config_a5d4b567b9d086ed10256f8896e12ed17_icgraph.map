@@ -1,0 +1,8 @@
+<map id="CConfig::GetPrestretch" name="CConfig::GetPrestretch">
+<area shape="rect" id="node1" title="Decide whether it&#39;s necessary to read a reference geometry." alt="" coords="260,115,429,141"/>
+<area shape="rect" id="node2" href="$class_c_f_e_a_solver.html#a1d4c7d17d9c7143d3079fc78fae1599d" title=" " alt="" coords="19,5,199,32"/>
+<area shape="rect" id="node3" href="$class_c_f_e_a_variable.html#a09ef1aff3a2ba679fbcc5799e2bdcd98" title=" " alt="" coords="7,56,210,83"/>
+<area shape="rect" id="node4" href="$class_c_f_e_a_solver.html#aaa1e795326f0783782caf710c93a0e05" title="Compute the stress at the nodes for output purposes." alt="" coords="27,107,191,149"/>
+<area shape="rect" id="node5" href="$class_c_f_e_a_solver.html#a4ebdf424bf21718d35a02774b2d0cc41" title="Compute the nodal stress terms and add them to the residual." alt="" coords="27,173,191,214"/>
+<area shape="rect" id="node6" href="$class_c_f_e_a_solver.html#ab470e823e83359b8ea28f0779cf22a11" title="Compute the stiffness matrix of the problem and the nodal stress terms at the same time (more efficie..." alt="" coords="5,238,212,279"/>
+</map>

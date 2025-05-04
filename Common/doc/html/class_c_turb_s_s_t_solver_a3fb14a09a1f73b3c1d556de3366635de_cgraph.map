@@ -1,0 +1,13 @@
+<map id="CTurbSSTSolver::BC_HeatFlux_Wall" name="CTurbSSTSolver::BC_HeatFlux_Wall">
+<area shape="rect" id="node1" title="Impose the Navier&#45;Stokes wall boundary condition." alt="" coords="5,226,155,267"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a61a11d998a224aff7e0a8a4fba1041ec" title="Deletes the values of the row i of the sparse matrix." alt="" coords="213,5,419,32"/>
+<area shape="rect" id="node3" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="249,56,383,83"/>
+<area shape="rect" id="node4" href="$class_c_variable.html#a48edcfacf9418f8e2a00416e92f71fde" title="A virtual member." alt="" coords="233,107,399,133"/>
+<area shape="rect" id="node5" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="243,157,389,184"/>
+<area shape="rect" id="node6" href="$class_c_variable.html#aedbb79a282d44af4d52663eba96034f6" title="A virtual member." alt="" coords="203,208,429,235"/>
+<area shape="rect" id="node7" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="247,259,385,285"/>
+<area shape="rect" id="node8" href="$class_c_vertex.html#a8d2bce3a6ee62007179e688dc2b9b182" title="Get the value of the closest neighbor." alt="" coords="240,310,392,351"/>
+<area shape="rect" id="node9" href="$class_c_sys_vector.html#ac2b8ed7c13757ad68487d3891337265b" title="Set the residual to zero." alt="" coords="217,376,415,403"/>
+<area shape="rect" id="node10" href="$class_c_variable.html#a30d4ca1a8a08f748c4a2229a8cce9786" title="Set the value of the solution." alt="" coords="233,427,399,453"/>
+<area shape="rect" id="node11" href="$class_c_variable.html#ac16f264b34b639ad8aeace755a98f0c8" title="Set the value of the old solution." alt="" coords="219,477,413,504"/>
+</map>

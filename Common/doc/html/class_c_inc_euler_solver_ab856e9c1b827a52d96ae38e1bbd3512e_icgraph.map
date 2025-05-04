@@ -1,0 +1,6 @@
+<map id="CIncEulerSolver::GetCharacPrimVar" name="CIncEulerSolver::GetCharacPrimVar">
+<area shape="rect" id="node1" title="Value of the characteristic variables at the boundaries." alt="" coords="204,71,404,112"/>
+<area shape="rect" id="node2" href="$class_c_inc_euler_solver.html#abd738a529f7f77c97587c6785b0f40d3" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="5,5,156,47"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#a318f79c279e467bbea21276ccd08ca92" title="Impose a subsonic inlet boundary condition." alt="" coords="5,71,156,112"/>
+<area shape="rect" id="node4" href="$class_c_inc_euler_solver.html#aa64170c7c7a237d0c7427a8359c2967a" title="Impose the outlet boundary condition." alt="" coords="5,136,156,177"/>
+</map>

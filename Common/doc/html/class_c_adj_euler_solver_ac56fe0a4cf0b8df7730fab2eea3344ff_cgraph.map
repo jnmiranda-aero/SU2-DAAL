@@ -1,0 +1,31 @@
+<map id="CAdjEulerSolver::Centered_Residual" name="CAdjEulerSolver::Centered_Residual">
+<area shape="rect" id="node1" title="Compute the spatial integration using a centered scheme for the adjoint equations." alt="" coords="5,687,199,729"/>
+<area shape="rect" id="node2" href="$class_c_numerics.html#abe734316e0047f463f059fd77a281958" title="Compute the numerical residual." alt="" coords="247,5,463,32"/>
+<area shape="rect" id="node3" href="$class_c_variable.html#a51313f43ac885cb883d7d38658fe47d4" title="A virtual member." alt="" coords="269,56,441,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="251,107,458,133"/>
+<area shape="rect" id="node5" href="$class_c_point.html#a62ec636f4a05ac578b582a053e8553f9" title="Get the value of the grid velocity at the point." alt="" coords="283,157,426,184"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a3d92a72397d083049aed74f4e023a110" title="Get the kind of center convective numerical scheme for the adjoint flow equations." alt="" coords="255,209,454,250"/>
+<area shape="rect" id="node7" href="$class_c_config.html#ab9d0e23db2d8f044b0b09915e92ef003" title="Get the kind of integration scheme (explicit or implicit) for the adjoint flow equations." alt="" coords="260,274,449,315"/>
+<area shape="rect" id="node8" href="$class_c_variable.html#aa186a3d466088edd1311f398fbb137de" title="Get the value of the spectral radius." alt="" coords="271,340,438,367"/>
+<area shape="rect" id="node9" href="$class_c_geometry.html#a7d6e1e1d1e46da8f55ecbe1a9380530a" title="Get number of edges." alt="" coords="271,391,438,417"/>
+<area shape="rect" id="node10" href="$class_c_point.html#a73ffb61e70753ea46e80edba22cf39a4" title="Get the number of neighbor of a point." alt="" coords="273,441,436,468"/>
+<area shape="rect" id="node11" href="$class_c_edge.html#aee33b61d646e3fe59a4e23284ab1bf33" title="Get the nodes of the edge." alt="" coords="291,492,419,519"/>
+<area shape="rect" id="node12" href="$class_c_edge.html#ada210a6f0643f444e7e491fc4ed9e662" title="Copy the the normal vector of a face." alt="" coords="283,543,426,569"/>
+<area shape="rect" id="node13" href="$class_c_variable.html#a25c9b3e6ef25a81fe73c8c4d0dae5984" title="Get the pressure sensor." alt="" coords="275,593,434,620"/>
+<area shape="rect" id="node14" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="271,644,439,671"/>
+<area shape="rect" id="node15" href="$class_c_variable.html#a25e6cfdfa669e10ceea8fca60ab428ab" title="A virtual member." alt="" coords="257,695,452,721"/>
+<area shape="rect" id="node16" href="$class_c_variable.html#a09ba6488c2b9270a05a51a2432ac2b22" title="Get the undivided laplacian of the solution." alt="" coords="264,746,445,787"/>
+<area shape="rect" id="node17" href="$class_c_numerics.html#a4eb3867ed99a8fd200f96da877e64313" title="Set the value of the adjoint variable." alt="" coords="260,812,449,839"/>
+<area shape="rect" id="node18" href="$class_c_numerics.html#a604ce85ec9e2d43769acacc7d03ae0f7" title="Set the value of the conservative variables." alt="" coords="251,863,459,889"/>
+<area shape="rect" id="node19" href="$class_c_numerics.html#a83c9715c87f8ee21f9340dadef8cd74f" title="Set the value of the enthalpy." alt="" coords="265,913,444,940"/>
+<area shape="rect" id="node20" href="$class_c_numerics.html#ae15b9e4ad2008444365109c434e24207" title="Set the velocity of the computational grid." alt="" coords="270,964,439,991"/>
+<area shape="rect" id="node21" href="$class_c_numerics.html#a0b91fdb82ec676ef7426b8e2b963cba3" title="Set the value of the spectral radius." alt="" coords="267,1015,442,1041"/>
+<area shape="rect" id="node22" href="$class_c_numerics.html#a3a325233fabba63421dd5d0596b6a7ca" title="Set the number of neighbor to a point." alt="" coords="264,1065,445,1092"/>
+<area shape="rect" id="node23" href="$class_c_numerics.html#a41903d97957f351cd9ee63ca404985b1" title="Set the value of the normal vector to the face between two points." alt="" coords="269,1116,440,1143"/>
+<area shape="rect" id="node24" href="$class_c_numerics.html#a577baa8846d297140f03ef9729368f73" title="Set the value of the pressure sensor." alt="" coords="271,1167,438,1193"/>
+<area shape="rect" id="node25" href="$class_c_numerics.html#ac748862c7bd24c58afeecc924269040f" title="Set the value of the sound speed." alt="" coords="253,1217,456,1244"/>
+<area shape="rect" id="node26" href="$class_c_numerics.html#a8818257f545fe207ff69f6c0337f3b26" title="Set the value of undivided laplacian." alt="" coords="261,1269,449,1310"/>
+<area shape="rect" id="node27" href="$class_c_sys_matrix.html#a0c6e3335f161b70247ac06e22eee6dfc" title="Subtracts the specified block to the sparse matrix." alt="" coords="257,1335,452,1361"/>
+<area shape="rect" id="node29" href="$class_c_sys_vector.html#aa2de9022590ea6b06950ef6b8afb77a2" title="Subtract val_residual to the residual." alt="" coords="258,1385,451,1412"/>
+<area shape="rect" id="node28" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="511,1335,665,1361"/>
+</map>

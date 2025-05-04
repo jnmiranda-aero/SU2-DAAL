@@ -1,0 +1,11 @@
+<map id="CTransfer_FlowTraction::GetDonor_Variable" name="CTransfer_FlowTraction::GetDonor_Variable">
+<area shape="rect" id="node1" title="Retrieve the variable that will be sent from donor mesh to target mesh." alt="" coords="5,191,177,232"/>
+<area shape="rect" id="node2" href="$class_c_variable.html#a235623c42fc699bc5de18f721b23d49c" title="A virtual member." alt="" coords="253,5,424,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a66ca7e620390a81cd49cd0a00716128e" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="244,71,433,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="249,122,429,149"/>
+<area shape="rect" id="node5" href="$class_c_variable.html#aedbb79a282d44af4d52663eba96034f6" title="A virtual member." alt="" coords="225,173,452,199"/>
+<area shape="rect" id="node6" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="269,223,408,250"/>
+<area shape="rect" id="node7" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="263,274,415,301"/>
+<area shape="rect" id="node8" href="$class_c_variable.html#aa845fb5587ca68200ebd49440c8d1d9e" title="A virtual member." alt="" coords="253,325,424,351"/>
+<area shape="rect" id="node9" href="$class_c_solver.html#afeaf42e0257b9b7e1bab7d090b44282f" title="A virtual member." alt="" coords="247,375,430,402"/>
+</map>

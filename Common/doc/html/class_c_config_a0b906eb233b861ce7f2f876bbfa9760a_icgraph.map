@@ -1,0 +1,5 @@
+<map id="CConfig::GetAeroelastic_np1" name="CConfig::GetAeroelastic_np1">
+<area shape="rect" id="node1" title="Value of Aeroelastic solution coordinate at time n+1." alt="" coords="464,13,671,39"/>
+<area shape="rect" id="node2" href="$class_c_solver.html#a13c86d41e468e5d7b9c7a21ab2008e19" title="Solve the typical section wing model." alt="" coords="207,5,416,47"/>
+<area shape="rect" id="node3" href="$class_c_solver.html#a8dd9c428bd1faa90ed188094b2e182bb" title="Prepares and solves the aeroelastic equations." alt="" coords="5,13,159,39"/>
+</map>

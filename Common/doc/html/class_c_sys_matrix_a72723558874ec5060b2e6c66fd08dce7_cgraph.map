@@ -1,0 +1,4 @@
+<map id="CSysMatrix::AddVal2Diag" name="CSysMatrix::AddVal2Diag">
+<area shape="rect" id="node1" title="Adds the specified value to the diagonal of the (i, i) subblock of the matrix&#45;by&#45;blocks structure." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node2" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="240,5,395,32"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="CNSSolver::Friction_Forces" name="CNSSolver::Friction_Forces">
+<area shape="rect" id="node1" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="5,630,152,671"/>
+<area shape="rect" id="node2" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="208,5,419,32"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a6020a5df7025ffb286f9b9f55f3f2773" title="Get the angle of attack of the body. This is the angle between a reference line on a lifting body (of..." alt="" coords="249,56,378,83"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a4305a79a4c74f13160c0dd8daae181ef" title="Get the angle of sideslip of the body. It relates to the rotation of the aircraft centerline from the..." alt="" coords="249,107,377,133"/>
+<area shape="rect" id="node6" href="$class_c_config.html#ac6fd9a6673c2f22e98c0d45102f23a65" title="Get information about the axisymmetric frame." alt="" coords="216,157,411,184"/>
+<area shape="rect" id="node7" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="247,208,380,235"/>
+<area shape="rect" id="node8" href="$class_c_variable.html#a48edcfacf9418f8e2a00416e92f71fde" title="A virtual member." alt="" coords="231,259,396,285"/>
+<area shape="rect" id="node9" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="240,309,387,336"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a6d835a954bb5e99c5a3de6db5ed24ff3" title="Get the value of specific gas constant." alt="" coords="207,360,420,387"/>
+<area shape="rect" id="node11" href="$class_c_variable.html#a235623c42fc699bc5de18f721b23d49c" title="A virtual member." alt="" coords="228,411,399,453"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="210,477,417,504"/>
+<area shape="rect" id="node13" href="$class_c_variable.html#aedbb79a282d44af4d52663eba96034f6" title="A virtual member." alt="" coords="200,528,427,555"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a84da3953107e3dad010e13227f1d84d0" title="Get the mach number based on the mesh velocity and freestream quantities." alt="" coords="218,579,409,605"/>
+<area shape="rect" id="node15" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="239,630,387,671"/>
+<area shape="rect" id="node16" href="$class_c_config.html#a942619938b389de95268bce31434c276" title="Get the monitoring information for a marker val_marker." alt="" coords="239,695,387,737"/>
+<area shape="rect" id="node17" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="239,761,387,802"/>
+<area shape="rect" id="node18" href="$class_c_config.html#a5bf47083eec0b00543d3d8c387f41ab2" title="Get the name of the surface defined in the geometry file." alt="" coords="229,826,398,867"/>
+<area shape="rect" id="node19" href="$class_c_config.html#a62a92b26c1300323f4a4a035ec19af1a" title="Get the total number of monitoring markers." alt="" coords="235,891,391,933"/>
+<area shape="rect" id="node20" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="244,957,383,984"/>
+<area shape="rect" id="node21" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="237,1008,389,1035"/>
+<area shape="rect" id="node22" href="$class_c_vertex.html#a8d2bce3a6ee62007179e688dc2b9b182" title="Get the value of the closest neighbor." alt="" coords="237,1059,389,1101"/>
+<area shape="rect" id="node23" href="$class_c_config.html#a619cb1400d6c944e83ad0ffe82deb021" title="Get the value of the laminar Prandtl number." alt="" coords="221,1125,405,1152"/>
+<area shape="rect" id="node24" href="$class_c_config.html#a56a90b16ae9d036e2f048347b884aaca" title="Get QCR (SA&#45;QCR2000)." alt="" coords="248,1176,379,1203"/>
+<area shape="rect" id="node25" href="$class_c_config.html#ad1d22f6d4f0225e3281d826a4c866779" title="Get the reference area for non dimensional coefficient computation. If the value from the is 0 then,..." alt="" coords="236,1227,391,1253"/>
+<area shape="rect" id="node26" href="$class_c_config.html#a63ce45e68b93f8f3f1de44a2abad67ef" title="Get the reference length for computing moment (the default value is 1)." alt="" coords="229,1277,398,1304"/>
+<area shape="rect" id="node27" href="$class_c_config.html#a11302b0fc39a262419332a53e0a82c19" title="Get reference origin for moment computation." alt="" coords="204,1328,423,1355"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="475,5,689,32"/>
+</map>

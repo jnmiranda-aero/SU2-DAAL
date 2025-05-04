@@ -1,0 +1,17 @@
+<map id="CAdjEulerSolver::SetCentered_Dissipation_Sensor" name="CAdjEulerSolver::SetCentered_Dissipation_Sensor">
+<area shape="rect" id="node1" title="Compute the sensor for higher order dissipation control in rotating problems." alt="" coords="5,224,220,265"/>
+<area shape="rect" id="node2" href="$class_c_config.html#ad73417c1bca6d256bdc6c012d9dfd781" title="Get the value of sharp edge limiter." alt="" coords="289,5,450,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a7df31afd2bbaad4c68567cc717c5f6c5" title="Value of the calibrated constant for the high order method (center scheme)." alt="" coords="282,71,457,112"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a58fab477828897b873a07c89fc011294" title="Value of the calibrated constant for the high order method (center scheme)." alt="" coords="283,136,455,177"/>
+<area shape="rect" id="node5" href="$class_c_config.html#ad5181b03db54ee2a993a9adb56af8bb8" title="Get the reference element length for computing the slope limiting epsilon." alt="" coords="268,202,471,229"/>
+<area shape="rect" id="node6" href="$class_c_point.html#aee24c111e6154c620a13be15dff0b5e1" title="Get the value of the distance to a sharp edge." alt="" coords="287,253,451,295"/>
+<area shape="rect" id="node7" href="$class_c_config.html#a7c9a37fc529a0e40f642ea7493c0f984" title="Get the value of limiter coefficient." alt="" coords="296,319,443,360"/>
+<area shape="rect" id="node8" href="$class_c_adj_euler_solver.html#ab0930524fa07e2072975e9fa8cb18f65" title="A virtual member." alt="" coords="292,384,447,425"/>
+<area shape="rect" id="node15" href="$class_c_variable.html#a4a8e17c1598a9dc858217353dad8f5a6" title="Set pressure sensor." alt="" coords="545,493,703,519"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="550,209,698,251"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a778a77ff2b9e1d359eab9b2d2106fa81" title="Get the send&#45;receive information for a marker val_marker." alt="" coords="550,275,698,316"/>
+<area shape="rect" id="node11" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="555,341,693,367"/>
+<area shape="rect" id="node12" href="$class_c_variable.html#a25c9b3e6ef25a81fe73c8c4d0dae5984" title="Get the pressure sensor." alt="" coords="545,391,703,418"/>
+<area shape="rect" id="node13" href="$class_c_base_m_p_i_wrapper.html#af195343eb82f29c4b3a190c928251765" title=" " alt="" coords="519,442,729,469"/>
+<area shape="rect" id="node14" href="$class_c_base_m_p_i_wrapper.html#a4725cc1dd65b161b483e812a538a5e36" title=" " alt="" coords="777,442,992,469"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="CConfig::GetWeightCd" name="CConfig::GetWeightCd">
+<area shape="rect" id="node1" title="Value of the weight of the drag coefficient in the Sonic Boom optimization." alt="" coords="884,60,1049,87"/>
+<area shape="rect" id="node2" href="$class_c_adj_euler_solver.html#a814d69e54f24c9fef36e3493a2230973" title="Created the force projection vector for adjoint boundary conditions." alt="" coords="603,23,794,65"/>
+<area shape="rect" id="node6" href="$class_c_adj_euler_solver.html#ab53f11b1472261d979780ca69dcc2a63" title="Compute the jump for the interior boundary problem." alt="" coords="561,89,836,116"/>
+<area shape="rect" id="node3" href="$class_c_adj_euler_solver.html#a5265a44e6c43dee677c9f26333148432" title="Update the AoA and freestream velocity at the farfield." alt="" coords="279,31,513,57"/>
+<area shape="rect" id="node4" href="$class_c_adj_euler_solver.html#a4ae0ed840dc8335fd921399625ba794f" title="Initialize the residual vectors." alt="" coords="5,5,231,32"/>
+<area shape="rect" id="node5" href="$class_c_adj_n_s_solver.html#ac16dab76e2c1d86bc7d70ca9f41fd668" title="Restart residual and compute gradients." alt="" coords="13,56,223,83"/>
+</map>

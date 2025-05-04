@@ -1,0 +1,27 @@
+<map id="CIncNSSolver::BC_ConjugateHeat_Interface" name="CIncNSSolver::BC_ConjugateHeat_Interface">
+<area shape="rect" id="node1" title="Impose the (received) conjugate heat variables." alt="" coords="5,593,213,634"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a61a11d998a224aff7e0a8a4fba1041ec" title="Deletes the values of the row i of the sparse matrix." alt="" coords="283,5,490,32"/>
+<area shape="rect" id="node3" href="$class_c_base_m_p_i_wrapper.html#a04457c47629bda56704e6a8804833eeb" title=" " alt="" coords="296,56,477,83"/>
+<area shape="rect" id="node5" href="$class_c_inc_n_s_solver.html#a77349f6be2894ff379a91f5fce24e1df" title="Set the conjugate heat variables." alt="" coords="283,107,490,149"/>
+<area shape="rect" id="node6" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="320,173,453,200"/>
+<area shape="rect" id="node7" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="313,224,460,251"/>
+<area shape="rect" id="node8" href="$class_c_config.html#abb2ba1ecf8988532ce9cecb88c206d28" title="Flag for whether to solve the energy equation for incompressible flows." alt="" coords="313,275,461,317"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="283,341,490,368"/>
+<area shape="rect" id="node10" href="$class_c_point.html#a62ec636f4a05ac578b582a053e8553f9" title="Get the value of the grid velocity at the point." alt="" coords="315,392,458,419"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a20e5fd7b43cfd2bf2bcf5137f12bc635" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="292,443,481,485"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="313,509,461,550"/>
+<area shape="rect" id="node13" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="317,575,456,601"/>
+<area shape="rect" id="node14" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="311,625,463,652"/>
+<area shape="rect" id="node15" href="$class_c_vertex.html#a8d2bce3a6ee62007179e688dc2b9b182" title="Get the value of the closest neighbor." alt="" coords="311,677,463,718"/>
+<area shape="rect" id="node16" href="$class_c_variable.html#a0304810342567ff058d49814bb53a355" title="A virtual member." alt="" coords="288,743,485,769"/>
+<area shape="rect" id="node17" href="$class_c_config.html#a8ec4a0951d9a432dadffad665a9892b3" title="Get the value of the reference temperature for non&#45;dimensionalization." alt="" coords="279,793,494,820"/>
+<area shape="rect" id="node18" href="$class_c_variable.html#a081de87f0e9d28e242306d5931499904" title="A virtual member." alt="" coords="261,844,512,871"/>
+<area shape="rect" id="node19" href="$class_c_config.html#a25ae10f2fbea1175dca7ae4a7752977f" title="Get the wall function treatment for the given boundary marker." alt="" coords="293,895,480,937"/>
+<area shape="rect" id="node20" href="$class_c_sys_vector.html#ac2b8ed7c13757ad68487d3891337265b" title="Set the residual to zero." alt="" coords="288,961,485,988"/>
+<area shape="rect" id="node21" href="$class_c_variable.html#a0574505743cc62330e7a12990f8faf8d" title="Set the velocity of the truncation error to zero." alt="" coords="287,1013,486,1054"/>
+<area shape="rect" id="node22" href="$class_c_variable.html#abb3f3f08b72f18dd0b012a88b14cbc7f" title="A virtual member." alt="" coords="289,1079,484,1105"/>
+<area shape="rect" id="node23" href="$class_c_sys_matrix.html#a0c6e3335f161b70247ac06e22eee6dfc" title="Subtracts the specified block to the sparse matrix." alt="" coords="289,1129,484,1156"/>
+<area shape="rect" id="node25" href="$class_c_sys_vector.html#aa2de9022590ea6b06950ef6b8afb77a2" title="Subtract val_residual to the residual." alt="" coords="290,1180,483,1207"/>
+<area shape="rect" id="node4" href="$class_c_base_m_p_i_wrapper.html#a21ef5681e2acb532d345e9bab173ef07" title=" " alt="" coords="560,56,745,83"/>
+<area shape="rect" id="node24" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="575,1129,730,1156"/>
+</map>

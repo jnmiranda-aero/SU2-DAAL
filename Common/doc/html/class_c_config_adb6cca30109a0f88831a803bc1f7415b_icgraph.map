@@ -1,0 +1,8 @@
+<map id="CConfig::GetKind_SlopeLimit_Turb" name="CConfig::GetKind_SlopeLimit_Turb">
+<area shape="rect" id="node1" title="Get the method for limiting the spatial gradients." alt="" coords="276,107,519,133"/>
+<area shape="rect" id="node2" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="22,5,211,32"/>
+<area shape="rect" id="node3" href="$class_c_inc_n_s_solver.html#ae84f6e86313acd1da80c505b4eab81e5" title="Restart residual and compute gradients." alt="" coords="13,56,221,83"/>
+<area shape="rect" id="node4" href="$class_c_turb_s_a_solver.html#a225518dc5f0ca6ed894add826aaa16ea" title="Restart residual and compute gradients." alt="" coords="9,107,225,133"/>
+<area shape="rect" id="node5" href="$class_c_turb_s_s_t_solver.html#a653cf05307f24374fda6f523ce3130bf" title="Restart residual and compute gradients." alt="" coords="5,157,228,184"/>
+<area shape="rect" id="node6" href="$class_c_turb_solver.html#a4816dd8b43bdb4abd3f8f7168879e902" title="Compute the spatial integration using a upwind scheme." alt="" coords="39,209,195,250"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CGeometry::GetnFreqSpanMax" name="CGeometry::GetnFreqSpanMax">
+<area shape="rect" id="node1" title="Get number of max frequencies for initializing the Fourier Coefficient for NR BC." alt="" coords="292,56,515,83"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#aa4c3988e3ce0c18460b5c069650c57b0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="39,5,210,32"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#a4ad866d7431d69fba0a8bc491014f264" title="Initilize turbo containers." alt="" coords="5,56,244,83"/>
+<area shape="rect" id="node4" href="$class_c_euler_solver.html#a33402619b740bfe68350c50bba14c6ab" title="It computes Fourier transformation for the needed quantities along the pitch for each span in turboma..." alt="" coords="33,107,217,149"/>
+</map>

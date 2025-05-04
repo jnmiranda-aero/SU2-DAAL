@@ -1,0 +1,9 @@
+<map id="CNumerics::SetTauWall" name="CNumerics::SetTauWall">
+<area shape="rect" id="node1" title="Set the value of the Tauwall." alt="" coords="284,162,456,189"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a3cb64b1356f6c0dd43c08df012d99f01" title="Impose the far&#45;field boundary condition using characteristics." alt="" coords="42,5,199,47"/>
+<area shape="rect" id="node3" href="$class_c_euler_solver.html#accb01b3402a9de5c1c23fdaef60c831f" title="Impose the interface state across sliding meshes." alt="" coords="35,71,206,112"/>
+<area shape="rect" id="node4" href="$class_c_euler_solver.html#aa4c3988e3ce0c18460b5c069650c57b0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="35,137,206,163"/>
+<area shape="rect" id="node5" href="$class_c_euler_solver.html#a22c21d18fa626d489db9a387234bd9d0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="23,187,219,214"/>
+<area shape="rect" id="node6" href="$class_c_euler_solver.html#a0066305803a18511fb89b8951f4e4866" title="Impose the boundary condition using characteristic recostruction." alt="" coords="5,238,236,265"/>
+<area shape="rect" id="node7" href="$class_c_n_s_solver.html#a4b946463a9868faaa73fa1f40ee5e675" title="Compute the viscous residuals." alt="" coords="47,289,195,331"/>
+</map>

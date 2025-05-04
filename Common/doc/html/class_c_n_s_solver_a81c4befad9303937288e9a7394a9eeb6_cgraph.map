@@ -1,0 +1,21 @@
+<map id="CNSSolver::Evaluate_ObjFunc" name="CNSSolver::Evaluate_ObjFunc">
+<area shape="rect" id="node1" title="Compute weighted&#45;sum &quot;combo&quot; objective output." alt="" coords="5,441,160,482"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a2711fd3e48037f5972691787f2a5ea78" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="231,5,393,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#aad14b8b395e08377d8b7bf4d0bc1e65f" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="225,56,399,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a543ee47693a711eee6fd8f00671b3802" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="227,107,397,133"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a287242969576bb4c0a303d50e907eb29" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="227,157,397,184"/>
+<area shape="rect" id="node6" href="$class_c_config.html#a6385f8ea2c2b24481683d73573391acb" title="Value of the weight of the CD, CL, CM optimization." alt="" coords="227,208,397,235"/>
+<area shape="rect" id="node7" href="$class_c_config.html#abd97282665d4d8885078aac10735e708" title="Get information about whether to use fixed CL mode." alt="" coords="211,259,413,285"/>
+<area shape="rect" id="node8" href="$class_c_config.html#aa088e1372bbec7000a6641002ac9c918" title="Get information about whether to use fixed CL mode." alt="" coords="208,309,416,336"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a2d4389021feaed9f2e62f0475f73a718" title="Get the kind of objective function. There are several options: Drag coefficient, Lift coefficient,..." alt="" coords="217,360,407,387"/>
+<area shape="rect" id="node10" href="$class_c_config.html#a62a92b26c1300323f4a4a035ec19af1a" title="Get the total number of monitoring markers." alt="" coords="234,411,390,453"/>
+<area shape="rect" id="node11" href="$class_c_config.html#a4ae68e2f8b77d2b6f5681c095a348398" title="Get the mach number at an outlet boundary." alt="" coords="215,477,409,504"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a1647ca5ad6988cdcdefda6c045f6e794" title="Get the massflow at an outlet boundary." alt="" coords="236,529,388,570"/>
+<area shape="rect" id="node13" href="$class_c_config.html#acb4450574460afff9c1545ae9cbd5ee5" title="Get the momentum distortion at the surface." alt="" coords="228,594,396,635"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a71a48476eab8e06a892de17d7bfc57e6" title="Get the pressure at an outlet boundary." alt="" coords="236,659,388,701"/>
+<area shape="rect" id="node15" href="$class_c_config.html#a4faf7daec20d244006a6a25bd2d72ece" title="Get the secondary flow strength at the surface." alt="" coords="236,725,388,766"/>
+<area shape="rect" id="node16" href="$class_c_config.html#a95964c27275ed64fac6b36cf346a0158" title="Get the relative secondary flow strength at the surface." alt="" coords="232,790,392,831"/>
+<area shape="rect" id="node17" href="$class_c_config.html#a9dd9c77e80df00ba40508aecc19f2c73" title="Get the total pressure at an outlet boundary." alt="" coords="236,855,388,897"/>
+<area shape="rect" id="node18" href="$class_c_config.html#afec18f6c0a835f3147a681731c026243" title="Get the streamwise flow uniformity at the surface." alt="" coords="236,921,388,962"/>
+<area shape="rect" id="node19" href="$class_c_config.html#ae869dd14ee25ce498da8aeafeabcbbbd" title="Get the weight of objective function. There are several options: Drag coefficient,..." alt="" coords="238,986,386,1027"/>
+</map>

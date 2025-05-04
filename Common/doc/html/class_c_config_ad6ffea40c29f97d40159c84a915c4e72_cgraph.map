@@ -1,0 +1,5 @@
+<map id="CConfig::GetMultiInstance_FileName" name="CConfig::GetMultiInstance_FileName">
+<area shape="rect" id="node1" title="Append the instance index to the restart or the solution files." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$namespace_s_u2___t_y_p_e.html#a6b48817766d8a6486caa2807a52f6bae" title="Casts the primitive value to int (uses GetValue, already implemented for each type)." alt="" coords="244,13,356,39"/>
+<area shape="rect" id="node3" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="404,13,559,39"/>
+</map>

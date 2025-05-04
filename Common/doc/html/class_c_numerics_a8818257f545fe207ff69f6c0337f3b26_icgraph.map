@@ -1,0 +1,7 @@
+<map id="CNumerics::SetUndivided_Laplacian" name="CNumerics::SetUndivided_Laplacian">
+<area shape="rect" id="node1" title="Set the value of undivided laplacian." alt="" coords="252,104,440,145"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#a70328326ace55eb5b3a786455a1d0de8" title="Compute the spatial integration using a centered scheme." alt="" coords="19,5,191,47"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#a8f119d91c8b4c53415045afee6b4f3d0" title="Compute the spatial integration using a centered scheme." alt="" coords="9,71,200,112"/>
+<area shape="rect" id="node4" href="$class_c_adj_euler_solver.html#ac56fe0a4cf0b8df7730fab2eea3344ff" title="Compute the spatial integration using a centered scheme for the adjoint equations." alt="" coords="8,136,201,177"/>
+<area shape="rect" id="node5" href="$class_c_heat_solver_f_v_m.html#a779d9a04dd9c3d81518e9ed74985a246" title="Compute the spatial integration using a centered scheme." alt="" coords="5,201,204,243"/>
+</map>

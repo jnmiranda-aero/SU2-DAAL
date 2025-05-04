@@ -1,0 +1,9 @@
+<map id="CConfig::GetMarker_Moving_TagBound" name="CConfig::GetMarker_Moving_TagBound">
+<area shape="rect" id="node1" title="Get the name of the surface defined in the geometry file." alt="" coords="295,141,443,182"/>
+<area shape="rect" id="node2" href="$class_c_driver.html#a4cfffa5f88f0e68697be0224393e2951" title="Get all the moving boundary markers tags." alt="" coords="5,5,247,32"/>
+<area shape="rect" id="node3" href="$class_c_driver.html#a758089cca1114fe836186bf124685b52" title="Get the moving marker identifier." alt="" coords="29,56,223,83"/>
+<area shape="rect" id="node4" href="$class_c_surface_movement.html#adc08e64ff18721a8f95486d6e7f11229" title="Computes the displacement of a pitching surface for a dynamic mesh simulation." alt="" coords="23,107,229,149"/>
+<area shape="rect" id="node5" href="$class_c_surface_movement.html#a46b4020fed71fc432c22eef4c1a3a9bb" title="Computes the displacement of a plunging surface for a dynamic mesh simulation." alt="" coords="23,173,229,214"/>
+<area shape="rect" id="node6" href="$class_c_surface_movement.html#afe7ab1e988862c31e5ab53ef51b63149" title="Computes the displacement of a rotating surface for a dynamic mesh simulation." alt="" coords="23,238,229,279"/>
+<area shape="rect" id="node7" href="$class_c_surface_movement.html#aaa5e3a14a55a7d1fe4c00b8cd195497f" title="Computes the displacement of a translating surface for a dynamic mesh simulation." alt="" coords="23,303,229,345"/>
+</map>

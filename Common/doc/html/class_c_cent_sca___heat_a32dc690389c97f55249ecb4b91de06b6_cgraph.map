@@ -1,0 +1,7 @@
+<map id="CCentSca_Heat::CCentSca_Heat" name="CCentSca_Heat::CCentSca_Heat">
+<area shape="rect" id="node1" title="Constructor of the class." alt="" coords="5,85,236,112"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a65f49bf3888539804cc0ceac28a32923" title="Get information about the grid movement." alt="" coords="286,5,493,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#ac8e4a9100a8108920f2bd8c3369bd462" title="Value of the calibrated constant for the JST&#45;like method (center scheme)." alt="" coords="284,56,495,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a82efe7e60c3b0613fa496899340931a4" title="Get the kind of integration scheme (implicit) for the turbulence equations." alt="" coords="295,107,484,149"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a2ede918fd25217170b85049ddf07408b" title="Get the value of the non&#45;dimensionalized freestream viscosity." alt="" coords="308,173,471,214"/>
+</map>

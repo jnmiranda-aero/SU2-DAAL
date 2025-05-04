@@ -1,0 +1,20 @@
+<map id="CConfig::GetWrt_Srf_Sol" name="CConfig::GetWrt_Srf_Sol">
+<area shape="rect" id="node1" title="Get information about writing a surface solution file." alt="" coords="1067,249,1245,275"/>
+<area shape="rect" id="node2" href="$class_c_output.html#ab16202a1b190c01796745be0600de298" title="Merge the geometry into a data structure used for output file writing." alt="" coords="795,97,1001,123"/>
+<area shape="rect" id="node3" href="$class_c_output.html#adafaf6906933a6061b4dbf77a43d8ce1" title="Writes and organizes the all the output files, except the history one, for serial computations." alt="" coords="528,31,729,72"/>
+<area shape="rect" id="node9" href="$class_c_output.html#a3f9e3547aeab11342d49cec28a460728" title="Writes and organizes the all the output files, except the history one, for serial computations." alt="" coords="556,148,701,189"/>
+<area shape="rect" id="node10" href="$class_c_output.html#a784bd02650b17355503c484fe66b77cc" title="Merge the FEM geometry into a data structure used for output file writing." alt="" coords="777,249,1019,275"/>
+<area shape="rect" id="node11" href="$class_c_output.html#addef7f58fbf0b3f83247acb6ce1f9656" title="Writes and organizes the all the output files, except the history one, for DG&#45;FEM simulations (SU2_SO..." alt="" coords="528,213,729,255"/>
+<area shape="rect" id="node12" href="$class_c_output.html#a7072279b203871651d163fb2dd60d2d6" title="Writes and organizes the all the output files, except the history one, for serial computations with t..." alt="" coords="556,285,701,327"/>
+<area shape="rect" id="node13" href="$class_c_output.html#aabf70f264a2b4b1aa3eb59b22040217d" title="Writes and organizes the all the output files, except the history one, for parallel computations." alt="" coords="556,393,701,435"/>
+<area shape="rect" id="node17" href="$class_c_output.html#ab1e53e8b7fb6a8e2962192eaddc79677" title="Sort the connectivities (volume and surface) into data structures used for output file writing." alt="" coords="803,401,993,427"/>
+<area shape="rect" id="node18" href="$class_c_output.html#ac2950e4be0517a3d865d999f5348d518" title="Sort the connectivities (volume and surface) into data structures used for output file writing (DG&#45;FE..." alt="" coords="785,451,1011,478"/>
+<area shape="rect" id="node7" href="$class_c_output.html#a225fca411804ed7f31adebe0ba4e7609" title="Writes and organizes the all the output files, except the history one, for serial computations." alt="" coords="541,97,717,123"/>
+<area shape="rect" id="node4" href="$_s_u2___s_o_l_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="366,71,421,98"/>
+<area shape="rect" id="node5" href="$class_c_output.html#ac030f4a3a7d64c2c38285692b8481558" title="Write the sensitivity (including mesh sensitivity) computed with the discrete adjoint method on the s..." alt="" coords="307,5,480,47"/>
+<area shape="rect" id="node6" href="$_s_u2___d_o_t_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="156,13,211,39"/>
+<area shape="rect" id="node8" href="$_s_u2___d_e_f_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="366,122,421,149"/>
+<area shape="rect" id="node14" href="$class_c_driver.html#a5db0cab2665d7cb25e6ba9954f712f59" title="Output the solution in solution file." alt="" coords="332,401,455,427"/>
+<area shape="rect" id="node15" href="$class_c_driver.html#afa3fd46c5fb93979a385bd3910b107a4" title="Launch the computation for all zones and all physics." alt="" coords="108,401,259,427"/>
+<area shape="rect" id="node16" href="$_s_u2___c_f_d_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,401,60,427"/>
+</map>

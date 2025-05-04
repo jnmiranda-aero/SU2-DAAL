@@ -1,0 +1,4 @@
+<map id="CIntegration::Space_Integration_FEM" name="CIntegration::Space_Integration_FEM">
+<area shape="rect" id="node1" title="Do the space integration of the numerical system on a FEM framework." alt="" coords="219,5,368,47"/>
+<area shape="rect" id="node2" href="$class_c_structural_integration.html#a9a20570dce7ec9c0eb98129b9fb1cf7b" title="Do the numerical integration (implicit) of the structural solver." alt="" coords="5,5,171,47"/>
+</map>

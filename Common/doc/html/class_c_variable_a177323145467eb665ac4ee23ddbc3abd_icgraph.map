@@ -1,0 +1,7 @@
+<map id="CVariable::SetAuxVarGradient" name="CVariable::SetAuxVarGradient">
+<area shape="rect" id="node1" title="Set the value of the auxiliary variable gradient." alt="" coords="432,46,647,73"/>
+<area shape="rect" id="node2" href="$class_c_solver.html#a4831cdf2f3fdb7f6d3d84dca312e75eb" title="Compute the Green&#45;Gauss gradient of the auxiliary variable." alt="" coords="237,5,384,47"/>
+<area shape="rect" id="node4" href="$class_c_solver.html#a6b28903b085c98aa8e6581246dd6bb94" title="Compute the Least Squares gradient of an auxiliar variable on the profile surface." alt="" coords="237,71,384,112"/>
+<area shape="rect" id="node3" href="$class_c_inc_euler_solver.html#aaa52f2305bb8f93d51fd0910c1ddeec9" title="Source term integration." alt="" coords="9,5,185,47"/>
+<area shape="rect" id="node5" href="$class_c_adj_euler_solver.html#a35fcc75148b249c56e3625ba23196856" title="Compute the inviscid sensitivity of the functional." alt="" coords="5,71,189,112"/>
+</map>

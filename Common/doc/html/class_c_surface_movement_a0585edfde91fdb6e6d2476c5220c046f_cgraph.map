@@ -1,0 +1,6 @@
+<map id="CSurfaceMovement::SetFFDAngleOfAttack" name="CSurfaceMovement::SetFFDAngleOfAttack">
+<area shape="rect" id="node1" title="Set a thickness deformation of the Free From box using the control point position." alt="" coords="5,49,248,90"/>
+<area shape="rect" id="node2" href="$class_c_config.html#ac50165b44d1c286c810585b89cd68f33" title="Value of the design variable step, we use this value in design problems." alt="" coords="318,5,483,32"/>
+<area shape="rect" id="node3" href="$class_c_config.html#affef7bc6016955cb0cf49b3f774bc45a" title="Get the scale factor for the line search." alt="" coords="296,56,505,83"/>
+<area shape="rect" id="node4" href="$class_c_config.html#ae8037752a35024e89a598e2e12065cb6" title="Set the off set angle of attack." alt="" coords="314,107,487,133"/>
+</map>

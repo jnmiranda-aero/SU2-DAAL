@@ -1,0 +1,6 @@
+<map id="CAvgGrad_AdjFlow::ComputeResidual" name="CAvgGrad_AdjFlow::ComputeResidual">
+<area shape="rect" id="node1" title="Residual computation." alt="" coords="5,64,216,105"/>
+<area shape="rect" id="node2" href="$class_c_numerics.html#a8b983c6f88264c746905f1448f314e2c" title="Compute viscous residual and jacobian." alt="" coords="264,5,459,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a619cb1400d6c944e83ad0ffe82deb021" title="Get the value of the laminar Prandtl number." alt="" coords="269,71,453,98"/>
+<area shape="rect" id="node4" href="$class_c_config.html#a2fca6d5964fb443f9d517df57659ccbc" title="Get the value of the turbulent Prandtl number." alt="" coords="270,122,453,149"/>
+</map>

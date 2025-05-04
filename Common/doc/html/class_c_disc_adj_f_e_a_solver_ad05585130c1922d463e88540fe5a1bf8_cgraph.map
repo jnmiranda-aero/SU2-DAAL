@@ -1,0 +1,13 @@
+<map id="CDiscAdjFEASolver::RegisterSolution" name="CDiscAdjFEASolver::RegisterSolution">
+<area shape="rect" id="node1" title="Performs the preprocessing of the adjoint AD&#45;based solver. Registers all necessary variables on the t..." alt="" coords="5,211,160,252"/>
+<area shape="rect" id="node2" href="$class_c_config.html#ac22ad3da2560e5f26c71e368ce11819c" title="Provides information about the time integration of the structural analysis, and change the write in t..." alt="" coords="241,5,402,47"/>
+<area shape="rect" id="node3" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="238,71,405,98"/>
+<area shape="rect" id="node4" href="$class_c_variable.html#aae8b367574e0303d51a607592da68757" title="A virtual member." alt="" coords="241,123,401,164"/>
+<area shape="rect" id="node5" href="$class_c_variable.html#ac7c3250fb186e2e086faac63fa5b3f64" title="Register the variables in the solution array as input/output variable." alt="" coords="222,189,421,215"/>
+<area shape="rect" id="node8" href="$class_c_variable.html#ad168248b2bd6d2e5981f7d32caf02d9e" title="A virtual member." alt="" coords="222,240,421,281"/>
+<area shape="rect" id="node9" href="$class_c_variable.html#ad38766009870e54551afda4145bf8b1d" title="A virtual member." alt="" coords="222,305,421,347"/>
+<area shape="rect" id="node10" href="$class_c_variable.html#acaa3c2528b528f6e192a9f679c57faff" title="A virtual member." alt="" coords="208,371,435,398"/>
+<area shape="rect" id="node11" href="$class_c_variable.html#abd371c82499be2ef26309e38554ace63" title="A virtual member." alt="" coords="222,423,421,464"/>
+<area shape="rect" id="node6" href="$namespace_a_d.html#a142308d54379f7aaa1c72195fb5fe992" title="Registers the variable as an input. I.e. as a leaf of the computational graph." alt="" coords="488,163,624,190"/>
+<area shape="rect" id="node7" href="$namespace_a_d.html#ae381e45797545e980376c4aeb3f5afdc" title="Registers the variable as an output. I.e. as the root of the computational graph." alt="" coords="483,214,629,241"/>
+</map>

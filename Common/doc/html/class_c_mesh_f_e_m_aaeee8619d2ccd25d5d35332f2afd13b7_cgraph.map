@@ -1,0 +1,10 @@
+<map id="CMeshFEM::MetricTermsBoundaryFaces" name="CMeshFEM::MetricTermsBoundaryFaces">
+<area shape="rect" id="node1" title="Function, which computes the metric terms of the faces of a physical boundary." alt="" coords="5,82,249,123"/>
+<area shape="rect" id="node2" href="$class_c_mesh_f_e_m.html#a48069591b944b34acf03ae78aa5493c3" title="Function, which computes the gradients of the parametric coordinates w.r.t. the Cartesian coordinates..." alt="" coords="308,23,532,65"/>
+<area shape="rect" id="node7" href="$class_c_mesh_f_e_m.html#a39cdfd81f63b622abce3ad330dd9a7dc" title="Function, which computes the information of the normals in the integration points of a face." alt="" coords="297,89,543,116"/>
+<area shape="rect" id="node8" href="$class_c_config.html#a0e2628fc803f14ec6179427ee02e8655" title="Governing equations of the flow (it can be different from the run time equation)." alt="" coords="330,140,510,167"/>
+<area shape="rect" id="node3" href="$class_c_mesh_f_e_m.html#ae7113246e97e1dc90286eb1a2fe30a79" title="Function, which computes the gradients of the Cartesian coordinates w.r.t. the parametric coordinates..." alt="" coords="591,23,815,65"/>
+<area shape="rect" id="node4" href="$class_c_blas_structure.html#a40a585307895af828a7f51cd0ccbf81d" title="Function, which carries out a dense matrix product. It is a limited version of the BLAS gemm function..." alt="" coords="863,31,1031,57"/>
+<area shape="rect" id="node5" href="$class_c_config.html#a2628e094b67a6d5cb410710aa00fa69b" title="Start the timer for profiling subroutines." alt="" coords="1080,5,1236,32"/>
+<area shape="rect" id="node6" href="$class_c_config.html#ae8d24548bd977c6a76e06ed9814418bb" title="Stop the timer for the GEMM profiling and store results." alt="" coords="1079,56,1237,83"/>
+</map>

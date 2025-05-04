@@ -1,0 +1,10 @@
+<map id="CVariable::GetSolution_time_n1" name="CVariable::GetSolution_time_n1">
+<area shape="rect" id="node1" title="Get the solution at time n&#45;1." alt="" coords="273,173,441,214"/>
+<area shape="rect" id="node2" href="$class_c_disc_adj_solver.html#a7f3617e3aace7756ab85e598e42cc31b" title="Update the dual&#45;time derivatives." alt="" coords="5,5,225,32"/>
+<area shape="rect" id="node3" href="$class_c_disc_adj_solver.html#a696214d1de7cabe49792ce047e08b5f4" title="Prepare the solver for a new recording." alt="" coords="8,56,223,83"/>
+<area shape="rect" id="node4" href="$class_c_euler_solver.html#acf976fa717df7f886c2004e55b6a3afc" title="Set the total residual adding the term that comes from the Dual Time Strategy." alt="" coords="20,107,211,149"/>
+<area shape="rect" id="node5" href="$class_c_inc_euler_solver.html#abe86d8fcef996543baebc84579896258" title="Set the total residual adding the term that comes from the Dual Time Strategy." alt="" coords="11,173,220,214"/>
+<area shape="rect" id="node6" href="$class_c_turb_solver.html#a2840547596044fd5b2242bb9199b1abe" title="Set the total residual adding the term that comes from the Dual Time&#45;Stepping Strategy." alt="" coords="23,238,207,279"/>
+<area shape="rect" id="node7" href="$class_c_adj_euler_solver.html#a40339b7f0a1fda3ad515ddb79308725c" title="Set the total residual adding the term that comes from the Dual Time Strategy." alt="" coords="10,303,221,345"/>
+<area shape="rect" id="node8" href="$class_c_heat_solver_f_v_m.html#ab6a1607cfa188aaac0eb6e9f3107712c" title="Set the total residual adding the term that comes from the Dual Time&#45;Stepping Strategy." alt="" coords="7,369,224,410"/>
+</map>

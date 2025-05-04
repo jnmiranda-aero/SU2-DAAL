@@ -1,0 +1,23 @@
+<map id="CConfig::GetLow_MemoryOutput" name="CConfig::GetLow_MemoryOutput">
+<area shape="rect" id="node1" title="Get information about writing a volume solution file." alt="" coords="1044,239,1279,265"/>
+<area shape="rect" id="node2" href="$class_c_output.html#ae5f3008bfbfbcf5b4a706c6360308ad7" title="Load the desired solution data into a structure used for parallel reordering and output file writing ..." alt="" coords="797,173,976,214"/>
+<area shape="rect" id="node7" href="$class_c_output.html#a17bd88965783fedc851a85bac1df0e06" title="Load the desired solution data into a structure used for parallel reordering and output file writing ..." alt="" coords="777,239,996,265"/>
+<area shape="rect" id="node8" href="$class_c_output.html#ab17e8b4e175ebf7b1bed0d423aae4cfc" title="Load the desired solution data into a structure used for parallel reordering and output file writing ..." alt="" coords="797,290,976,331"/>
+<area shape="rect" id="node9" href="$class_c_output.html#a448876ea8cd5b98fdf17528e56ace830" title="Load the desired solution data into a structure used for parallel reordering and output file writing ..." alt="" coords="779,5,994,32"/>
+<area shape="rect" id="node10" href="$class_c_output.html#a3ae58114770474ef465f75e03ecac279" title="Load the desired solution data into a structure used for parallel reordering and output file writing ..." alt="" coords="778,56,995,83"/>
+<area shape="rect" id="node11" href="$class_c_output.html#af06e590811c3bdf10a8832c69df0d89c" title="Load the desired solution data into a structure used for parallel reordering and output file writing ..." alt="" coords="797,107,976,149"/>
+<area shape="rect" id="node12" href="$class_c_output.html#aecbb03301a1775771b2167fa91d44293" title="Merge the solution into a data structure used for output file writing." alt="" coords="798,356,975,383"/>
+<area shape="rect" id="node14" href="$class_c_output.html#a73373131331a79e030bf4a16a6caedfc" title="Write a native SU2 restart file." alt="" coords="811,407,962,433"/>
+<area shape="rect" id="node16" href="$class_c_output.html#a21e634f0628bfa62a682e42f4fb4aee7" title="Write a Tecplot ASCII solution file." alt="" coords="795,457,979,484"/>
+<area shape="rect" id="node3" href="$class_c_output.html#aabf70f264a2b4b1aa3eb59b22040217d" title="Writes and organizes the all the output files, except the history one, for parallel computations." alt="" coords="556,141,701,182"/>
+<area shape="rect" id="node4" href="$class_c_driver.html#a5db0cab2665d7cb25e6ba9954f712f59" title="Output the solution in solution file." alt="" coords="332,148,455,175"/>
+<area shape="rect" id="node5" href="$class_c_driver.html#afa3fd46c5fb93979a385bd3910b107a4" title="Launch the computation for all zones and all physics." alt="" coords="108,148,259,175"/>
+<area shape="rect" id="node6" href="$_s_u2___c_f_d_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,148,60,175"/>
+<area shape="rect" id="node13" href="$class_c_output.html#a3f9e3547aeab11342d49cec28a460728" title="Writes and organizes the all the output files, except the history one, for serial computations." alt="" coords="556,349,701,390"/>
+<area shape="rect" id="node15" href="$class_c_output.html#a7072279b203871651d163fb2dd60d2d6" title="Writes and organizes the all the output files, except the history one, for serial computations with t..." alt="" coords="556,414,701,455"/>
+<area shape="rect" id="node17" href="$class_c_output.html#adafaf6906933a6061b4dbf77a43d8ce1" title="Writes and organizes the all the output files, except the history one, for serial computations." alt="" coords="528,479,729,521"/>
+<area shape="rect" id="node21" href="$class_c_output.html#addef7f58fbf0b3f83247acb6ce1f9656" title="Writes and organizes the all the output files, except the history one, for DG&#45;FEM simulations (SU2_SO..." alt="" coords="528,545,729,586"/>
+<area shape="rect" id="node18" href="$_s_u2___s_o_l_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="366,548,421,575"/>
+<area shape="rect" id="node19" href="$class_c_output.html#ac030f4a3a7d64c2c38285692b8481558" title="Write the sensitivity (including mesh sensitivity) computed with the discrete adjoint method on the s..." alt="" coords="307,479,480,521"/>
+<area shape="rect" id="node20" href="$_s_u2___d_o_t_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="156,487,211,513"/>
+</map>

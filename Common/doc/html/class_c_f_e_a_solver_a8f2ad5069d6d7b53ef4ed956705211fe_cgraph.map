@@ -1,0 +1,11 @@
+<map id="CFEASolver::BC_Damper" name="CFEASolver::BC_Damper">
+<area shape="rect" id="node1" title="Impose a damping load." alt="" coords="5,227,188,254"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a3c2c8e9190f8a11cc6d5e302e97476bd" title="Get the constant value at a damper boundary." alt="" coords="274,5,429,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#a967e969a3beb24bb6e57d7036af003be" title="Get the index of the surface defined in the geometry file." alt="" coords="277,71,425,112"/>
+<area shape="rect" id="node4" href="$class_c_geometry.html#a4b903006a657111168bcfd5ad5ff2a35" title="Get the number of boundary elements." alt="" coords="268,136,435,177"/>
+<area shape="rect" id="node5" href="$class_c_primal_grid.html#a4fc7b6b6ac5025325c7e68fb56fbeef8" title="A pure virtual member." alt="" coords="269,202,434,229"/>
+<area shape="rect" id="node6" href="$class_c_geometry.html#a55427e474834af1941e13750b17975be" title="Get number of vertices." alt="" coords="263,253,439,279"/>
+<area shape="rect" id="node7" href="$class_c_variable.html#a0aeb8db57302e558c23df237263e8cbc" title="Get the velocity (Structural Analysis)." alt="" coords="254,303,449,330"/>
+<area shape="rect" id="node8" href="$class_c_primal_grid.html#adb676897e7cf4a83ceb83065e7c6a04f" title="A pure virtual member." alt="" coords="254,354,449,381"/>
+<area shape="rect" id="node9" href="$class_c_variable.html#afc51678106edfd8fe740801f3bb27f97" title="A virtual member." alt="" coords="236,405,467,431"/>
+</map>

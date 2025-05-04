@@ -1,0 +1,7 @@
+<map id="CConfig::GetIter_Avg_Objective" name="CConfig::GetIter_Avg_Objective">
+<area shape="rect" id="node1" title="Number of iterations to average (reverse time integration)." alt="" coords="457,71,613,112"/>
+<area shape="rect" id="node2" href="$class_c_disc_adj_solver.html#aacc3de3d7448816f3628da9278dfca6c" title="Set the objective function." alt="" coords="239,5,409,47"/>
+<area shape="rect" id="node3" href="$class_c_disc_adj_f_e_a_solver.html#a89dbb3f5e722989da8d5a1823fc2b306" title="Set the objective function." alt="" coords="247,71,401,112"/>
+<area shape="rect" id="node4" href="$class_c_disc_adj_fluid_driver.html#a37c9115e7a96e00fe924fafb0db18169" title="Initialize the adjoint value of the objective function." alt="" coords="246,136,402,177"/>
+<area shape="rect" id="node5" href="$class_c_disc_adj_fluid_driver.html#adc823b6fbe255ed554efeef485c26ae2" title="Run a single iteration of the discrete adjoint solver within multiple zones." alt="" coords="5,143,191,170"/>
+</map>

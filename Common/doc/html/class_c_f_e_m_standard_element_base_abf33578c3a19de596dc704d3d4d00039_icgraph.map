@@ -1,0 +1,12 @@
+<map id="CFEMStandardElementBase::GetWeightsIntegration" name="CFEMStandardElementBase::GetWeightsIntegration">
+<area shape="rect" id="node1" title="Function, which makes available the weights in the integration points." alt="" coords="748,169,951,211"/>
+<area shape="rect" id="node2" href="$class_c_f_e_m___d_g___n_s_solver.html#a15cec95ab40ebb36ee69bc5f58840cf3" title="Compute the viscous forces and all the addimensional coefficients." alt="" coords="488,5,696,47"/>
+<area shape="rect" id="node3" href="$class_c_f_e_m___d_g___euler_solver.html#a5b3e068f83cbf3aeb8e6a4e02b4bf27b" title="Compute the pressure forces and all the adimensional coefficients." alt="" coords="509,71,675,112"/>
+<area shape="rect" id="node4" href="$class_c_f_e_m___d_g___euler_solver.html#a8875e58364f55e735fc3732f545d5f29" title="Compute the spatial residual for the given range of faces. It is a virtual function,..." alt="" coords="509,136,675,177"/>
+<area shape="rect" id="node8" href="$class_c_f_e_m___d_g___n_s_solver.html#a5afc06c0edede6e3917a6b24158930ba" title="Compute the spatial residual for the given range of faces." alt="" coords="484,201,700,243"/>
+<area shape="rect" id="node9" href="$class_c_f_e_m___d_g___euler_solver.html#ae6c2fff0649a4d8fd723ee9776778003" title="Compute the volume contributions to the spatial residual. It is a virtual function,..." alt="" coords="509,267,675,308"/>
+<area shape="rect" id="node10" href="$class_c_f_e_m___d_g___n_s_solver.html#ac62df058348ffee37a945bcc3a66745b" title="Compute the volume contributions to the spatial residual." alt="" coords="487,332,697,373"/>
+<area shape="rect" id="node5" href="$class_c_f_e_m___d_g___euler_solver.html#a651cad1a94f2024c75a1a8be347e3375" title="Function, which processes the list of tasks to be executed by the DG solver." alt="" coords="269,201,436,243"/>
+<area shape="rect" id="node6" href="$class_c_f_e_m___d_g___euler_solver.html#a7f0da04d44069701db2228210b91c59e" title="Function, to carry out the space time integration for ADER with time accurate local time stepping." alt="" coords="5,168,221,209"/>
+<area shape="rect" id="node7" href="$class_c_f_e_m___d_g___euler_solver.html#ac59d8dae95e3c3cc3ab3feaeb9be4b22" title="Function, which controls the computation of the spatial Jacobian." alt="" coords="19,233,208,275"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CSysMatrix::MatrixVectorProduct" name="CSysMatrix::MatrixVectorProduct">
+<area shape="rect" id="node1" title="Performs the product of a sparse matrix by a vector." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a72bec8047c077c1fa7767fe637b579e2" title="Performs the product of i&#45;th row of a sparse matrix by a vector." alt="" coords="240,13,421,39"/>
+<area shape="rect" id="node3" href="$class_c_sys_matrix.html#abfecc7ea4724ac467d01d45185350010" title="Performs the product of the block (i, j) by vector vec." alt="" coords="469,13,680,39"/>
+<area shape="rect" id="node4" href="$class_c_sys_matrix.html#a776200533f4cc0ede662f594a329585c" title="Copies the block (i, j) of the matrix&#45;by&#45;blocks structure in the internal variable *block." alt="" coords="728,13,891,39"/>
+</map>

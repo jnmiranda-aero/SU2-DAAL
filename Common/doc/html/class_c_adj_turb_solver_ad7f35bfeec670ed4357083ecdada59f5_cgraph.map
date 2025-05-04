@@ -1,0 +1,52 @@
+<map id="CAdjTurbSolver::Upwind_Residual" name="CAdjTurbSolver::Upwind_Residual">
+<area shape="rect" id="node1" title="Compute the spatial integration using a upwind scheme." alt="" coords="5,830,183,871"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a8c2c7f8ca02d0e8685373e38ca29d9d0" title="Adds the specified block to the sparse matrix." alt="" coords="261,136,427,163"/>
+<area shape="rect" id="node4" href="$class_c_sys_vector.html#a7ef472e160b4bfee4fac427e5c08022b" title="Add val_residual to the residual." alt="" coords="262,347,426,373"/>
+<area shape="rect" id="node5" href="$class_c_numerics.html#abe734316e0047f463f059fd77a281958" title="Compute the numerical residual." alt="" coords="236,397,452,424"/>
+<area shape="rect" id="node6" href="$class_c_variable.html#a9dc639453d847d255efd5eb473dd0852" title="Get the value of the solution gradient." alt="" coords="543,645,714,672"/>
+<area shape="rect" id="node7" href="$class_c_config.html#afc99e16f4eb125197d3d900a038c020f" title="Get the kind of method for computation of spatial gradients." alt="" coords="247,1134,441,1175"/>
+<area shape="rect" id="node8" href="$class_c_config.html#aa8a6e3aa20c0939c4d456b5808172ccb" title="Get the method for limiting the spatial gradients." alt="" coords="240,1199,448,1241"/>
+<area shape="rect" id="node9" href="$class_c_config.html#a1bebfec4e598b48c7181f8b7433c9f8d" title="Get if the upwind scheme used MUSCL or not." alt="" coords="242,1265,446,1292"/>
+<area shape="rect" id="node10" href="$class_c_geometry.html#a7d6e1e1d1e46da8f55ecbe1a9380530a" title="Get number of edges." alt="" coords="545,696,712,723"/>
+<area shape="rect" id="node11" href="$class_c_edge.html#aee33b61d646e3fe59a4e23284ab1bf33" title="Get the nodes of the edge." alt="" coords="565,747,693,773"/>
+<area shape="rect" id="node12" href="$class_c_edge.html#ada210a6f0643f444e7e491fc4ed9e662" title="Copy the the normal vector of a face." alt="" coords="557,56,700,83"/>
+<area shape="rect" id="node13" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="545,797,713,824"/>
+<area shape="rect" id="node14" href="$class_c_numerics.html#a604ce85ec9e2d43769acacc7d03ae0f7" title="Set the value of the conservative variables." alt="" coords="240,1316,448,1343"/>
+<area shape="rect" id="node15" href="$class_c_numerics.html#a41903d97957f351cd9ee63ca404985b1" title="Set the value of the normal vector to the face between two points." alt="" coords="259,1367,429,1393"/>
+<area shape="rect" id="node16" href="$class_c_solver.html#ad52861b3403aec20826df279bf7e457a" title="Compute the Green&#45;Gauss gradient of the solution." alt="" coords="267,499,421,541"/>
+<area shape="rect" id="node27" href="$class_c_solver.html#a0425419d1bdcaa4459c6fb5a96756a4b" title="Compute the Least Squares gradient of the solution." alt="" coords="267,881,421,922"/>
+<area shape="rect" id="node35" href="$class_c_solver.html#a641e9c59698ab9c7c2fb91107ad70d77" title="Compute slope limiter." alt="" coords="267,1069,421,1110"/>
+<area shape="rect" id="node49" href="$class_c_numerics.html#aa1653854225eaa24a152d9c2813e99b4" title="Set the value of the adjoint turbulent variable." alt="" coords="236,1417,452,1444"/>
+<area shape="rect" id="node50" href="$class_c_numerics.html#a42a39ae6557a400a4d811820c61de3cb" title="Set the gradient of the turbulent variables." alt="" coords="231,1468,457,1495"/>
+<area shape="rect" id="node3" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="551,5,706,32"/>
+<area shape="rect" id="node17" href="$class_c_point.html#a1d7e22a60d4cfef356af1cba2bab3e55" title="For parallel computation, its indicates if a point must be computed or not." alt="" coords="555,157,702,184"/>
+<area shape="rect" id="node18" href="$class_c_config.html#a57d43acc1457d2d27095ce006218862e" title="Get the kind of boundary for each marker." alt="" coords="555,209,703,250"/>
+<area shape="rect" id="node19" href="$class_c_geometry.html#a3c899d1370312702c189a8ee95a63ef7" title="Get number of markers." alt="" coords="539,275,718,301"/>
+<area shape="rect" id="node20" href="$class_c_vertex.html#a95c513bf927464157ed96b6c79779a1f" title="Get the node of the vertex." alt="" coords="559,325,698,352"/>
+<area shape="rect" id="node21" href="$class_c_vertex.html#a0d289163c6f3384822fcb9ae86fc1c39" title="Copy the the normal vector of a face." alt="" coords="553,376,705,403"/>
+<area shape="rect" id="node22" href="$class_c_geometry.html#a4fc7de3bff7b6f8c35717016d6f8fcb2" title="Get number of real points (that belong to the domain)." alt="" coords="519,477,738,504"/>
+<area shape="rect" id="node23" href="$class_c_geometry.html#a55427e474834af1941e13750b17975be" title="Get number of vertices." alt="" coords="541,427,717,453"/>
+<area shape="rect" id="node24" href="$class_c_point.html#a3c526a15e767c7de9cf163800aa581e5" title="Get area or volume of the control volume." alt="" coords="557,107,701,133"/>
+<area shape="rect" id="node25" href="$class_c_solver.html#ac231a21fb2a5c57d1a3d85adfca0fa03" title="MPI gradients." alt="" coords="533,529,725,570"/>
+<area shape="rect" id="node26" href="$class_c_variable.html#aedfb5263cefb11e12c4154a4673d0474" title="Set the gradient of the solution." alt="" coords="544,595,713,621"/>
+<area shape="rect" id="node28" href="$namespace_a_d.html#a309d057a92faa60a3a760254678ec9ea" title="Ends a preaccumulation section and computes the local Jacobi matrix of a code section using the varia..." alt="" coords="571,1152,687,1179"/>
+<area shape="rect" id="node29" href="$class_c_point.html#a95fe081d22e96e190cb3edcbf0d6525f" title="Get the coordinates dor the control volume." alt="" coords="562,949,695,976"/>
+<area shape="rect" id="node30" href="$class_c_point.html#adbb78f3c01711ed0349897f845e3f2d8" title="Get the number of points that compose the control volume." alt="" coords="561,848,697,875"/>
+<area shape="rect" id="node31" href="$class_c_point.html#aab08fdab4e59c01d822afca5335a86af" title="Get all the points that compose the control volume." alt="" coords="565,899,693,925"/>
+<area shape="rect" id="node32" href="$namespace_a_d.html#aad703f3a82e509c88b92ae638f75383c" title="Sets the scalar input of a preaccumulation section." alt="" coords="566,1000,691,1027"/>
+<area shape="rect" id="node33" href="$namespace_a_d.html#ab3a80e24a5c8c2beb01131c57dcae4b2" title="Sets the scalar output of a preaccumulation section." alt="" coords="561,1051,697,1077"/>
+<area shape="rect" id="node34" href="$namespace_a_d.html#a2a1e9c4b109fd751e84132c9495de3ff" title="Starts a new preaccumulation section and sets the input variables." alt="" coords="567,1101,690,1128"/>
+<area shape="rect" id="node36" href="$class_c_base_m_p_i_wrapper.html#a637b6fd917a8ca91ce748ba88e0d66b6" title=" " alt="" coords="523,1387,734,1413"/>
+<area shape="rect" id="node37" href="$class_c_config.html#ad73417c1bca6d256bdc6c012d9dfd781" title="Get the value of sharp edge limiter." alt="" coords="548,1438,709,1479"/>
+<area shape="rect" id="node38" href="$class_c_config.html#a099e9040000ccf3b40d04fbaedbb4ad0" title="Get the method for limiting the spatial gradients." alt="" coords="525,1504,733,1531"/>
+<area shape="rect" id="node39" href="$class_c_config.html#a2604613ee15ea8d060347a099576bdb7" title="Get the method for limiting the spatial gradients." alt="" coords="505,1555,752,1581"/>
+<area shape="rect" id="node40" href="$class_c_variable.html#a6598ed6e88a864bbc5344c2671047ebd" title="Get the value of the slope limiter." alt="" coords="548,1605,709,1632"/>
+<area shape="rect" id="node41" href="$class_c_geometry.html#aa68b666b38f4d2c7021736ae86940f44" title="Get number of points." alt="" coords="545,1656,712,1683"/>
+<area shape="rect" id="node42" href="$class_c_config.html#ad5181b03db54ee2a993a9adb56af8bb8" title="Get the reference element length for computing the slope limiting epsilon." alt="" coords="527,1707,730,1733"/>
+<area shape="rect" id="node43" href="$class_c_point.html#aee24c111e6154c620a13be15dff0b5e1" title="Get the value of the distance to a sharp edge." alt="" coords="547,1758,711,1799"/>
+<area shape="rect" id="node44" href="$class_c_variable.html#a07bea8efa4d23900ca37e3b69f45b611" title="Get the value of the min solution." alt="" coords="527,1824,730,1851"/>
+<area shape="rect" id="node45" href="$class_c_variable.html#abd17fee08f7c2394275a7fe32e1f0125" title="Get the value of the min solution." alt="" coords="529,1875,728,1901"/>
+<area shape="rect" id="node46" href="$class_c_config.html#a7c9a37fc529a0e40f642ea7493c0f984" title="Get the value of limiter coefficient." alt="" coords="555,1203,702,1245"/>
+<area shape="rect" id="node47" href="$class_c_point.html#a2ec241bcb847e4bae03e8df907a18b15" title="Get the value of the distance to the nearest wall." alt="" coords="535,1269,722,1296"/>
+<area shape="rect" id="node48" href="$class_c_solver.html#a3594aa3fc03b07028f05de3f626f2922" title="Impose the send&#45;receive boundary condition." alt="" coords="533,1321,725,1362"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="CVariable::GetVorticity" name="CVariable::GetVorticity">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="525,122,695,149"/>
+<area shape="rect" id="node2" href="$class_c_n_s_solver.html#a028c83d18cf8520dff2f9628d8a04e4b" title="Restart residual and compute gradients." alt="" coords="19,177,208,203"/>
+<area shape="rect" id="node3" href="$class_c_inc_n_s_solver.html#ae84f6e86313acd1da80c505b4eab81e5" title="Restart residual and compute gradients." alt="" coords="269,71,477,98"/>
+<area shape="rect" id="node4" href="$class_c_turb_s_a_solver.html#a225518dc5f0ca6ed894add826aaa16ea" title="Restart residual and compute gradients." alt="" coords="5,67,221,94"/>
+<area shape="rect" id="node5" href="$class_c_turb_s_a_solver.html#abd9b44db73a48a35caa4215dd105b193" title="A virtual member." alt="" coords="287,5,459,47"/>
+<area shape="rect" id="node6" href="$class_c_euler_solver.html#aad67b818e2f5c133118d2a4cca7845f3" title="Compute Ducros Sensor for Roe Dissipation." alt="" coords="282,224,465,265"/>
+<area shape="rect" id="node7" href="$class_c_euler_solver.html#a8b89e1bfce33284c2d8f5f00f82f3f3f" title="Compute primitive variables and their gradients." alt="" coords="11,231,215,258"/>
+</map>

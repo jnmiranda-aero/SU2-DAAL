@@ -1,0 +1,24 @@
+<map id="CFEASolver::ImplicitNewmark_Iteration" name="CFEASolver::ImplicitNewmark_Iteration">
+<area shape="rect" id="node1" title="Iterate using an implicit Newmark solver." alt="" coords="5,495,223,537"/>
+<area shape="rect" id="node2" href="$class_c_sys_matrix.html#a8c2c7f8ca02d0e8685373e38ca29d9d0" title="Adds the specified block to the sparse matrix." alt="" coords="308,5,473,32"/>
+<area shape="rect" id="node4" href="$class_c_sys_vector.html#a7ef472e160b4bfee4fac427e5c08022b" title="Add val_residual to the residual." alt="" coords="309,56,473,83"/>
+<area shape="rect" id="node5" href="$class_c_variable.html#a84e859f6b948a60fbd619a29aa0ddb34" title="A virtual member." alt="" coords="277,107,505,133"/>
+<area shape="rect" id="node6" href="$class_c_variable.html#a4699c67e152fae0c2559d08573763807" title="A virtual member." alt="" coords="289,157,493,184"/>
+<area shape="rect" id="node7" href="$class_c_variable.html#aa3be7146d7a2254121c36726c10a2c26" title="A virtual member." alt="" coords="274,208,507,235"/>
+<area shape="rect" id="node8" href="$class_c_sys_matrix.html#a776200533f4cc0ede662f594a329585c" title="Copies the block (i, j) of the matrix&#45;by&#45;blocks structure in the internal variable *block." alt="" coords="309,259,472,285"/>
+<area shape="rect" id="node9" href="$class_c_sys_vector.html#a8e537cf18b7e0ce45f7107c41753072c" title="Get the value of the residual." alt="" coords="309,309,472,336"/>
+<area shape="rect" id="node10" href="$class_c_config.html#aaef2961fe22e9367e55fcc4bd8796aaf" title="Decide whether to apply dead loads to the model." alt="" coords="307,360,475,387"/>
+<area shape="rect" id="node11" href="$class_c_config.html#ac22ad3da2560e5f26c71e368ce11819c" title="Provides information about the time integration of the structural analysis, and change the write in t..." alt="" coords="310,411,471,453"/>
+<area shape="rect" id="node12" href="$class_c_config.html#a9776c63953c047138e0f81d5b51cd895" title="Check if the simulation we are running is a FSI simulation." alt="" coords="291,477,490,504"/>
+<area shape="rect" id="node13" href="$class_c_config.html#ac036c2fe542984a827ea2f21b3b4d4a6" title="Geometric conditions for the structural solver." alt="" coords="271,528,511,555"/>
+<area shape="rect" id="node14" href="$class_c_config.html#a4e4e8521bf3fdb0037a7a61186ca706d" title="Check if we want to apply an incremental load to the nonlinear structural simulation." alt="" coords="285,579,497,605"/>
+<area shape="rect" id="node15" href="$class_c_config.html#aba49639521df0dbdd1fbe461a9484e6d" title="Get the current internal iteration number." alt="" coords="319,629,462,656"/>
+<area shape="rect" id="node16" href="$class_c_config.html#ad416c685a9f6e1c014487dd761dd8a9e" title="Get the kind of integration scheme (explicit or implicit) for the flow equations." alt="" coords="293,681,488,722"/>
+<area shape="rect" id="node17" href="$class_c_variable.html#a5637d64739a82c685879cc931ff1f282" title="Get the solution." alt="" coords="307,747,475,773"/>
+<area shape="rect" id="node18" href="$class_c_variable.html#a2a9bcd2a26ac40fe67f42d95dba6f224" title="Get the acceleration of the nodes (Structural Analysis) at time n." alt="" coords="307,798,475,839"/>
+<area shape="rect" id="node19" href="$class_c_variable.html#ae1333dbf15d8d58fabc5d33e9a0d4bcb" title="Get the solution at time n." alt="" coords="307,863,475,905"/>
+<area shape="rect" id="node20" href="$class_c_variable.html#ac7b20995e54502a250e5025c1047a25d" title="Get the velocity of the nodes (Structural Analysis) at time n." alt="" coords="307,929,475,970"/>
+<area shape="rect" id="node21" href="$class_c_sys_matrix.html#ad88665d6b356fb6b0f72342a3566b9ee" title="Calculates the matrix&#45;vector product." alt="" coords="297,994,484,1035"/>
+<area shape="rect" id="node22" href="$class_c_sys_vector.html#a647a0e8b1e5bd4e62268b158d44c6882" title="Set val_residual to the residual." alt="" coords="311,1060,471,1087"/>
+<area shape="rect" id="node3" href="$namespace_s_u2___t_y_p_e.html#a0ed43473f5a450ce028d088427bf10cb" title="Get the (primitive) value of the datatype (needs to be implemented for each new type)." alt="" coords="559,5,713,32"/>
+</map>

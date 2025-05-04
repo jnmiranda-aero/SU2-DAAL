@@ -1,0 +1,5 @@
+<map id="CConfig::SetGlobalParam" name="CConfig::SetGlobalParam">
+<area shape="rect" id="node1" title="Set the global parameters of each simulation for each runtime system." alt="" coords="5,46,189,73"/>
+<area shape="rect" id="node2" href="$class_c_config.html#a00fe3327e64dc4702368b049cd2f3f7a" title="Set the parameters of the convective numerical scheme." alt="" coords="237,5,439,47"/>
+<area shape="rect" id="node3" href="$class_c_config.html#aeab5b83d725a0a87973af7bb9fa90e6c" title="Set the kind of time integration scheme." alt="" coords="245,71,431,112"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="CVariable::GetEnergy" name="CVariable::GetEnergy">
+<area shape="rect" id="node1" title="A virtual member." alt="" coords="499,162,659,189"/>
+<area shape="rect" id="node2" href="$class_c_euler_solver.html#ac2b01ff2a17b23c87a33f7ef14d6bd9b" title="Impose via the residual the Euler wall boundary condition." alt="" coords="250,5,421,47"/>
+<area shape="rect" id="node3" href="$class_c_n_s_solver.html#a116645c6a7b9a4e11b3c690f3678126c" title="Impose via the residual the Euler wall boundary condition." alt="" coords="257,71,413,112"/>
+<area shape="rect" id="node4" href="$class_c_euler_solver.html#a7d215573982c76dc525041473e37dd0f" title="Impose via the residual the Euler wall boundary condition." alt="" coords="232,137,439,163"/>
+<area shape="rect" id="node6" href="$class_c_euler_solver.html#aa4c3988e3ce0c18460b5c069650c57b0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="250,187,421,214"/>
+<area shape="rect" id="node7" href="$class_c_euler_solver.html#a22c21d18fa626d489db9a387234bd9d0" title="Impose the boundary condition using characteristic recostruction." alt="" coords="237,238,433,265"/>
+<area shape="rect" id="node8" href="$class_c_euler_solver.html#a0066305803a18511fb89b8951f4e4866" title="Impose the boundary condition using characteristic recostruction." alt="" coords="220,289,451,315"/>
+<area shape="rect" id="node5" href="$class_c_euler_solver.html#a3e39ab93a096a2c73aaacb38b20852c6" title="Impose the symmetry boundary condition using the residual." alt="" coords="5,129,172,171"/>
+</map>
