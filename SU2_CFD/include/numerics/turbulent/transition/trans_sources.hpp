@@ -198,14 +198,17 @@ class CSourcePieceWise_TransLM final : public CNumerics {
       // const su2double Corr_Rec = TransCorrelations.ReThetaC_Correlations(config, Tu, TransVar_i[1]); // Mach corrected Re_theta_c: Re_theta_c_compressible. Correction applied in correlations definitions - jnmiranda-ucd-daal
       // const su2double Corr_Rec = TransCorrelations.ReThetaC_Correlations(Tu, TransVar_i[1]); // Mach corrected Re_theta_c: Re_theta_c_compressible. Correction applied in correlations definitions - jnmiranda-ucd-daal
       // const su2double Corr_Rec_comp = Corr_Rec / C_Me; // this isnt really needed anymore as it would require modifying this in other places of the code. Instead correction is applied in the correlations- just remember that this is no longer the OG Corr_Rec but the compressible one
-        // Compute Corr_Rec and apply compressibility correction
+      // Compute Corr_Rec and apply compressibility correction
       
-      su2double Corr_Rec_uncorrected = TransCorrelations.ReThetaC_Correlations(Tu, TransVar_i[1]);
-      su2double Corr_Rec = Corr_Rec_uncorrected / C_Me;
+      // su2double Corr_Rec_uncorrected = TransCorrelations.ReThetaC_Correlations(Tu, TransVar_i[1]);
+      // su2double Corr_Rec = Corr_Rec_uncorrected / C_Me;
+      su2double Corr_Rec_uncorrected = TransCorrelations.ReThetaC_Correlations(Tu, TransVar_i[1], config, Pressure_i);    
+      su2double Corr_Rec = TransCorrelations.ReThetaC_Correlations(Tu, TransVar_i[1], config, Pressure_i);
 
       /*--- F_length correlation*/
       // const su2double Corr_F_length = TransCorrelations.FLength_Correlations(config, Tu, TransVar_i[1]);
-      su2double Corr_F_length = TransCorrelations.FLength_Correlations(Tu, TransVar_i[1]);
+      // su2double Corr_F_length = TransCorrelations.FLength_Correlations(Tu, TransVar_i[1]);
+      su2double Corr_F_length = TransCorrelations.FLength_Correlations(Tu, TransVar_i[1] * f_Me, config, Pressure_i);
 
       /*--- F_length ---*/
       su2double F_length = 0.0;
@@ -375,7 +378,7 @@ class CSourcePieceWise_TransLM final : public CNumerics {
       const su2double Dg = c_a2 * Density_i * VorticityMag * TransVar_i[0] * f_turb * (c_e2 * TransVar_i[0] - 1.0);
 
       /*-- production term of ReThetaT --*/
-      su2double Corr_Ret_comp = Corr_Ret * f_Me/100; // remove the /100
+      su2double Corr_Ret_comp = Corr_Ret * f_Me; // remove the /100
       // const su2double PRethetat = c_theta * Density_i / time_scale * (Corr_Ret - TransVar_i[1]) * (1.0 - f_theta);
       su2double PRethetat = c_theta * Density_i / time_scale * (Corr_Ret_comp - TransVar_i[1]) * (1.0 - f_theta); // compressibility correction to Re_theta_t added
 

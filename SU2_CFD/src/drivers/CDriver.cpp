@@ -557,6 +557,7 @@ void CDriver::PreprocessInput(CConfig **&config, CConfig *&driver_config) {
 
     if (rank == MASTER_NODE){
       cout  << endl << "Parsing config file for zone " << iZone << endl;
+      cout  << endl << "Compressibility Correction to LM Transition Model. (if you can see this, you compiled this right lol) " << endl;
     }
     /*--- Definition of the configuration option class for all zones. In this
      constructor, the input configuration file is parsed and all options are
